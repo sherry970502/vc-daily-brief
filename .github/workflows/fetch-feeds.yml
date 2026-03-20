@@ -25,13 +25,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch Twitter/X feeds
+      - name: Fetch Twitter/X feeds (via Nitter, may be unavailable)
         run: python scripts/fetch_feeds.py
+
+      - name: Fetch news and Reddit feeds
+        run: python scripts/fetch_news.py
 
       - name: Commit updated feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-x.json
+          git add feed-x.json feed-news.json feed-reddit.json
           git diff --staged --quiet || git commit -m "chore: update feeds [skip ci]"
           git push

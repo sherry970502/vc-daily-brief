@@ -1,1 +1,399 @@
-{ "updated_at": "1970-01-01T00:00:00+00:00", "period_hours": 48, "article_count": 0, "articles": [] }
+{
+  "updated_at": "2026-03-20T18:33:31.066283+00:00",
+  "period_hours": 48,
+  "article_count": 49,
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Why scientists can’t get a laugh",
+      "url": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
+      "published_at": "2026-03-20T17:39:06+00:00",
+      "summary": "Humor is hard to pull off in front of a cold audience, full stop."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava",
+      "url": "https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/",
+      "published_at": "2026-03-20T17:21:18+00:00",
+      "summary": "A French naval officer went on a run around the deck of the Charles de Gaulle aircraft carrier, inadvertently leaking the warship's location when he uploaded the workout to Strava."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "WordPress.com now lets AI agents write and publish posts, and more",
+      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "published_at": "2026-03-20T16:43:09+00:00",
+      "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Jeff Bezos’ Blue Origin enters the space data center game",
+      "url": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
+      "published_at": "2026-03-20T16:27:43+00:00",
+      "summary": "\"Project Sunrise\" would include more than 50,000 satellites performing high-energy compute on orbit."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "US accuses Iran’s government of operating hacktivist group that hacked Stryker",
+      "url": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
+      "published_at": "2026-03-20T16:18:57+00:00",
+      "summary": "The U.S. Justice Department said an Iranian security ministry operates the fake activist persona known as Handala, which claimed responsibility for the destructive hack targeting medical tech giant Stryker."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+      "published_at": "2026-03-20T16:14:04+00:00",
+      "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "AI startups are eating the venture industry and the returns, so far, are good",
+      "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+      "published_at": "2026-03-20T15:41:21+00:00",
+      "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US",
+      "url": "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/",
+      "published_at": "2026-03-20T15:01:39+00:00",
+      "summary": "A cyberattack on a U.S. car breathalyzer company has left drivers across the United States reportedly stranded and unable to start their vehicles."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Week’s 10 Biggest Funding Rounds: Investment Slows, But Security And AI Remain Top Picks",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-security-ai-cloaked-frore/",
+      "published_at": "2026-03-20T18:30:08+00:00",
+      "summary": "The size of the largest U.S. deals this week was smaller than in recent weeks, and heavily featured cybersecurity- and privacy-focused startups. Other areas that attracted good-sized financings included AI infrastructure, biotech, healthcare, and robotics."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Most Active Startup Acquirers Of The Past 3 Years Aren’t Always Who You’d Expect",
+      "url": "https://news.crunchbase.com/ma/most-active-startup-acquirers-3-years-crm-openai-snowflake/",
+      "published_at": "2026-03-20T11:00:43+00:00",
+      "summary": "To get a sense who’s buying in bulk, we used Crunchbase data to put together a list of 79 companies that acquired three or more seed- or venture-backed startups in the past three years. From there, we picked the most acquisitive names."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Why You Haven’t Raised Startup Funding (Yet)",
+      "url": "https://news.crunchbase.com/venture/building-startup-reputation-trust-vcs-sabitova-cloee/",
+      "published_at": "2026-03-20T11:00:13+00:00",
+      "summary": "For thousands of years, trust and credibility have been the most important factors in forming relationships, both business and personal. That reputation-building holds true today, especially for startup founders seeking funding, writes guest author Julia Sabitova, co-founder of CloEE, shares her top"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Don’t Just Talk About AI. Measure Business Outputs. Here’s How.",
+      "url": "https://news.crunchbase.com/ai/measuring-business-outputs-morse-fanucchi/",
+      "published_at": "2026-03-19T11:00:24+00:00",
+      "summary": "Guest authors Bob Morse of Strattam Capital and Dario Fanucchi of Isazi, share their theory on why so many AI pilots fail, believing that the best solution to see measurable business improvements involves varying the tools until one moves the dial in a sustainable way."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "After Swarmer’s Soaring Debut, Here Are 12 Other Potential Defense Tech IPOs",
+      "url": "https://news.crunchbase.com/public/potential-defense-tech-ipo-candidates-swmr/",
+      "published_at": "2026-03-18T20:20:54+00:00",
+      "summary": "Defense tech startups are on a tear, which became clear this week when shares of AI drone company Swarmer soared 520% in their first day of trading on the Nasdaq, which could pave the way for other startups in the sector to pursue IPOs. We take a look at other likely candidates."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Meet Mark Zuckerberg’s college roommate. He’s an Olympian-turned-VC exec who now invests in your favorite celebrity businesses",
+      "url": "https://fortune.com/2026/03/20/mark-zuckerbergs-roommate-olympian-vc-exec-celebrity-businesses-samyr-laine/",
+      "published_at": "2026-03-20T07:25:00+00:00",
+      "summary": "Building off his experience as an athlete, talent manager, and brand builder, Samyr Lainé has backed brands founded by Issa Rae, Kaley Cuoco, and Emma Watson."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Jack Schlossberg says his grandfather JFK would be ‘alarmed’ by how far America has fallen on the world stage",
+      "url": "https://fortune.com/2026/03/20/jack-schlossberg-grandfather-jfk-alarmed-america-world-stage/",
+      "published_at": "2026-03-20T07:05:00+00:00",
+      "summary": "“I think he would be shocked at how far we have fallen in terms of setting the standard for the rest of the world to follow on human rights, democracy, and freedom,” the 33-year-old congressional candidate told Fortune."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "The Middle East is one of the world’s fastest growing luxury markets—and the war in Iran may cut its sales in half, analysts say",
+      "url": "https://fortune.com/2026/03/20/how-will-iran-war-impact-middle-east-luxury-sales/",
+      "published_at": "2026-03-20T17:21:46+00:00",
+      "summary": "Luxury brands such as Dior and Gucci each get 20% of their sales from the region, which grew about 6% in 2025."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Chuck Norris never lost a fight, including the one against CBS for $30 million over Walker, Texas Ranger",
+      "url": "https://fortune.com/2026/03/20/chuck-norris-net-worth-cbs-lawsuit-walker-texas-ranger/",
+      "published_at": "2026-03-20T16:52:10+00:00",
+      "summary": "The action legend, who died at 86, built a $70 million fortune from $10,000-a-film beginnings, fought CBS in court over Walker, Texas Ranger profits, and won."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "The U.S. just hit $39 trillion in debt. Here’s the constitutional fix that Congress won’t touch",
+      "url": "https://fortune.com/2026/03/20/us-debt-39-trillion-balanced-budget-amendment-article-v-states/",
+      "published_at": "2026-03-20T16:48:33+00:00",
+      "summary": "It is time for a fiscal responsibility amendment to the United States Constitution."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Job-seekers aren’t imagining things: the number of candidates getting ghosted by employers just reached a three-year high",
+      "url": "https://fortune.com/2026/03/20/job-seekers-arent-imagining-things-candidates-ghosted-by-employers-hit-three-year-high/",
+      "published_at": "2026-03-20T16:40:13+00:00",
+      "summary": "More than half of job-seekers have experienced ghosting within the past year, reaching a three-year peak—and experts say it’s because hiring “hasn’t caught up” to an AI-driven world of applying."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "As Gen Z and CEOs alike slam ‘worthless’ degrees, one UK graduate has racked up $420,000 in student loans—more than the price of an average home",
+      "url": "https://fortune.com/2026/03/20/biggest-student-loan-in-uk-history-more-debt-crisis-college-university/",
+      "published_at": "2026-03-20T07:03:00+00:00",
+      "summary": "As Gen Z and millennials watch their “worthless” degrees lose value thanks to AI, one student has wrapped up more than $420,000 in student debt."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "The AI era is turning Corporate America into a CEO churn machine",
+      "url": "https://fortune.com/2026/03/19/ceo-ai-churn-turnover-adobe-shantanu-narayen/",
+      "published_at": "2026-03-19T13:24:49+00:00",
+      "summary": "Investor impatience with slow AI results is driving a wave of CEO exits, as boards demand faster returns from the technology they’ve long touted."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Scale AI launches Voice Showdown, the first real-world benchmark for voice AI — and the results are humbling for some top models",
+      "url": "https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai",
+      "published_at": "2026-03-20T16:23:00+00:00",
+      "summary": "<p>Voice AI is moving faster than the tools we use to measure it. Every major AI lab — OpenAI, Google DeepMind, Anthropic, xAI — is racing to ship voice models capable of natural, real-time conversation. </p><p>But the benchmarks used to evaluate those models are largely still running on synthetic s"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
+      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
+      "published_at": "2026-03-20T01:51:00+00:00",
+      "summary": "<p>The hit open source autonomous AI agent <a href=\"https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide\">OpenClaw</a> may have just gotten mogged by Anthropic. </p><p>Today, <a href=\"https://x.com/trq212/status/2034761016320696565\">Anthropic announced Claude Code Channels,<"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Why enterprises are replacing generic AI with tools that know their users",
+      "url": "https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users",
+      "published_at": "2026-03-19T21:10:00+00:00",
+      "summary": "<p>The future of AI isn’t just agentic; it’s deep personalization. </p><p>Rather than simple recommender systems that correlate user behavior to identify patterns and apply those to individual workflows, large language models (LLMs) and AI agents can analyze users directly to create deeply personali"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Cursor’s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4",
+      "url": "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but",
+      "published_at": "2026-03-19T20:31:00+00:00",
+      "summary": "<p>Cursor, a San Francisco AI coding platform from startup Anysphere <a href=\"https://youtu.be/_O-0DZn9tLE?si=HpVP9xqmfkNGNOlu\">valued at $29.3 billion</a>, has launched <a href=\"https://cursor.com/blog/composer-2\">Composer 2</a>, a new in-house coding model now available inside its agentic AI codin"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Meta's rogue AI agent passed every identity check — four gaps in enterprise IAM explain why",
+      "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix",
+      "published_at": "2026-03-19T19:20:00+00:00",
+      "summary": "<p>A rogue AI agent at Meta took action without approval and <a href=\"https://www.theinformation.com/articles/inside-meta-rogue-ai-agent-triggers-security-alert\">exposed sensitive company and user data</a> to employees who were not authorized to access it. Meta confirmed the incident to The Informat"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Xiaomi stuns with new MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost",
+      "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
+      "published_at": "2026-03-18T23:55:00+00:00",
+      "summary": "<p>Chinese electronics and car manufacturer Xiaomi surprised the global AI community today with<a href=\"https://mimo.xiaomi.com/mimo-v2-pro\"> the release of MiMo-V2-Pro</a>, a new 1-trillion parameter foundation model with benchmarks approaching those of U.S. AI giants OpenAI and Anthropic, but at a"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "New MiniMax M2.7 proprietary AI model is 'self-evolving' and can perform 30-50% of reinforcement learning research workflow",
+      "url": "https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50",
+      "published_at": "2026-03-18T18:47:00+00:00",
+      "summary": "<p>In the last few years, Chinese AI startup <a href=\"https://www.minimax.io/\">MiniMax</a> has become one of the most exciting in the crowded global AI marketplace, carving out a reputation for delivering frontier-level large language models (LLMs) with open source licenses and before that, high-qua"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+      "published_at": "2026-03-20T13:15:45+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher&#160; OpenAI has a new grand challenge: building an AI researcher—a fully aut"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "published_at": "2026-03-20T11:57:16+00:00",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Mind-altering substances are (still) falling short in clinical trials",
+      "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+      "published_at": "2026-03-20T09:00:00+00:00",
+      "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, inclu"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+      "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+      "published_at": "2026-03-19T12:17:02+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum comp"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
+      "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+      "published_at": "2026-03-19T10:51:43+00:00",
+      "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation b"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Why the world doesn’t recycle more nuclear waste",
+      "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+      "published_at": "2026-03-19T10:00:00+00:00",
+      "summary": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "万物云：与万科关联应收账款余额仅剩20.6亿，业务独立性持续增强",
+      "url": "https://36kr.com/p/3731378273828868?f=rss",
+      "published_at": null,
+      "summary": "<p>3月19日晚间，万物云空间科技服务股份有限公司发布2025年度业绩报告。报告期内，万物云实现营业收入372.7亿元，同比增长2.7%，剔除开发商相关业务后，营收同比增长8.4%；核心净利润约21.3亿元，同比微增0.8%；归母净利润7.7亿元，同比出现较大幅度下滑。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260320/v2_3930db0239164fdd83509241de181dc6@337187376_oswg4382727oswg4000oswg2666_img_jpg"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
+      "url": "https://36kr.com/p/3731169592918273?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3731055603384321\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>小鹏汽车：预计第一季度交付量61000辆-66000辆，同比减少29.8%-35.1%</strong></a></p>\n  <p>36氪获悉，小鹏汽车发布2025年第四季度及全年财报。财报显示，对于2026年第一季度，本公司预期汽车交付量将介乎61000-66000辆，按年减少约29.79%-35.11%。总收入"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "阿迪达斯，不看好2026的自己",
+      "url": "https://36kr.com/p/3731096049795078?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>作者 |</strong>&nbsp;谢芸子</p>\n  <p><strong>编辑 |&nbsp;</strong> 张帆&nbsp;</p>\n  <p><strong>封面来源 |&nbsp;</strong> 企业官微&nbsp;</p>\n  <p>阿迪达斯几乎交出了近年来的最好业绩。</p>\n  <p>在彻底摆脱“椰子”的第一个完整财年，这家老牌德国体育用品集团2025年的全球营收达到248亿欧元（约合1993亿元人民币），营收增幅13%，创历史新高；归属股东净利润为13.4亿欧元，毛利率也创历史新高达到51.6%。</p>\n  <p class=\"image-w"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "RENOGY 如果新能源：如何用16年时间打造一家Global Native公司｜出海踏浪者",
+      "url": "https://36kr.com/p/3731094987407617?f=rss",
+      "published_at": null,
+      "summary": "<p>无论是欧洲家庭的户外露营、北美车库的应急备用，还是日本公寓中的防灾储备柜，便携储能产品的身影已遍布全球。</p>\n  <p>便携储能在欧美地区尤其受欢迎，这一方面源于当地长期以来浓厚的户外露营文化。The Dyrt发布报告称，2024年约有8110万美国人进行了露营活动（包括传统帐篷露营、房车露营等），其中约580万为首次露营者。另一方面，露营的普及对稳定的户外电力供应提出更高要求，而这恰恰也是露营玩家们长期难以解决的痛点。美国部分地区电网老化问题突出，加州等地在山火爆发季节还会经常进行预防性断电。</p>\n  <p>众所周知，<strong>便携储能赛道长期以来都是中国品牌的“主场”，"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "沙特土豪超60亿美元收购沐瞳：公司架构不变，张云帆仍是CEO",
+      "url": "https://36kr.com/p/3731048121647361?f=rss",
+      "published_at": null,
+      "summary": "<p>3月20日，沐瞳科技发布公司内部信，宣布公司已被沙特阿拉伯主权财富基金全资控股的游戏巨头Savvy Games Group（简称Savvy）收购。</p>\n  <p>自字节游戏业务调整后，这场交易就早有传闻，去年底已经有了大致轮廓。双方在2025下半年正式启动谈判，并在2026年初围绕核心条款达成共识，最后Savvy以超60亿美元的价格收购沐瞳的全部股权。</p>\n  <p>这场交易距离字节收购沐瞳只有5年——彼时的收购价格为40亿美元，如果考虑到谈判和双方讨论时间，这个出售间隔可能更短。</p>\n  <p>而从内部信来看，此次交易后，沐瞳的管理结构仍旧保持不变，张云帆会继续担任沐瞳CE"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期",
+      "url": "https://36kr.com/p/3730996090192130?f=rss",
+      "published_at": null,
+      "summary": "<p>资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。</p>\n  <p>本文是这个栏目的第181期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）&nbsp;</p>\n  <h2><strong>一、本月新增</strong></h2>\n  <h2><strong>1、求购Anthropic老股份额（预期估值面议）</s"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "从能力到商品：Skills市场正在重塑开发者的生产方式",
+      "url": "https://36kr.com/p/3730644353286150?f=rss",
+      "published_at": null,
+      "summary": "<p>技能是产业竞争力的重要体现方式之一 。在上海，一场 AI 时代的技能革命也在悄然展开——进入 2026 年，新赛季的竞争不再是大模型间的参数比拼，而是谁能真正走进工厂、实验室和写字楼，变成“会做事”的生产力工具。开源项目 OpenClaw 的迅速走红，折射出以 Skills 市场等形式的开放共享的新趋势——或许正是那把撬开这场 Agent 变革的锁钥。</p>\n  <p>简言之， Skills 市场是智能体的“技能商店”：开发者将专业能力封装为标准化模块，供全球智能体按需调用。这是开发工具的升级， 更是生产关系的深层重构。&nbsp;</p>\n  <p class=\"image-wrap"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "港中文95后博士、OPPO员工做了款AI可穿戴硬件，要成为用户全天候情感导师｜硬氪首发",
+      "url": "https://36kr.com/p/3729647028960903?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于&nbsp;2026年4月在北美独立站上线、6月量产。</p>\n  <p>十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续创业者，博士毕业于香港中文大学，他曾出任智能穿戴硬件企业物启科技CEO，并推出全球首款AI情绪吊坠Nuna。联合创始人曾任职于大疆、安克、OPPO等企业，拥有多年的产品落地经验与成熟的市场化运作能力。"
+    },
+    {
+      "source": "虎嗅",
+      "lang": "zh",
+      "title": "抱紧英伟达，硬刚特斯拉：吉利的智驾“翻身仗”能成吗？",
+      "url": "http://www.huxiu.com/article/4843580.html?f=wangzhan",
+      "published_at": "2026-03-20T14:45:00+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/19/175527838154.jpg\" />\n<p><span class=\"text-remarks\" label=\"备注\">出品|虎嗅汽车组</span></p><p><span class=\"text-remarks\" label=\"备注\">作者|杨杰</span></p><p><span class=\"text-remarks\" label=\"备注\">头图|吉利官方</span></p><p><br /></p><p>一份飘红的财报，一个高风险的flag。<br /></p"
+    },
+    {
+      "source": "虎嗅",
+      "lang": "zh",
+      "title": "新款小米SU7，“融冰”比销量更重要",
+      "url": "http://www.huxiu.com/article/4843852.html?f=wangzhan",
+      "published_at": "2026-03-20T14:43:49+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/20/142017904206.jpg\" />\n<p><span class=\"text-remarks\" label=\"备注\">出品|虎嗅汽车组</span></p><p><span class=\"text-remarks\" label=\"备注\">作者|王亚骏</span></p><p><span class=\"text-remarks\" label=\"备注\">头图|视觉中国</span></p><p><br /></p><p>上市34分钟，锁单1.5万。这是新款小米SU7上市后交"
+    },
+    {
+      "source": "虎嗅",
+      "lang": "zh",
+      "title": "小米新SU7，雷军输不起",
+      "url": "http://www.huxiu.com/article/4843752.html?f=wangzhan",
+      "published_at": "2026-03-20T14:05:39+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/20/135221316805.jpg\" />\n<p><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/8qf8TKoPfnus7JDnCneCKw\" rel=\"nofollow\" style=\"text-decoration: none;\" target=\"_blank\"><span class=\"text-remarks\">AIX财经</span><"
+    },
+    {
+      "source": "虎嗅",
+      "lang": "zh",
+      "title": "美国关税砸遍的废墟上，站着中国车企",
+      "url": "http://www.huxiu.com/article/4843461.html?f=wangzhan",
+      "published_at": "2026-03-19T17:16:56+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/19/113115575022.jpg\" />\n<p><span class=\"text-remarks\" label=\"备注\">出品|虎嗅汽车组</span></p><p><span class=\"text-remarks\" label=\"备注\">作者|杨杰</span></p><p><span class=\"text-remarks\" label=\"备注\">头图|视觉中国</span></p><p><br /></p><p>当关税大棒砸碎旧世界的玻璃屋顶，曾经在汽车行业彼此竞争的"
+    },
+    {
+      "source": "虎嗅",
+      "lang": "zh",
+      "title": "小牛不能光靠科技叙事支撑未来十年",
+      "url": "http://www.huxiu.com/article/4843465.html?f=wangzhan",
+      "published_at": "2026-03-19T16:53:00+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/19/113621002542.jpg\" />\n<p class=\"text-normal\" label=\"正文\"><span class=\"text-remarks\" label=\"备注\">出品|虎嗅汽车组</span></p><p class=\"text-normal\" label=\"正文\"><span class=\"text-remarks\" label=\"备注\">作者|邢书博</span></p><p class=\"text-normal\" label=\"正文\"><span"
+    },
+    {
+      "source": "虎嗅",
+      "lang": "zh",
+      "title": "为什么大厂都盯上了Token生意？",
+      "url": "http://www.huxiu.com/article/4843210.html?f=wangzhan",
+      "published_at": "2026-03-19T10:40:00+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/18/221421016086.jpg\" />\n<p>最近关注养虾的朋友，应该都熟悉了一个词：Token。它是AI处理信息的最小语义单位，你可以理解为给Agent发的工资。在中文世界里，生成100个汉字大概要消耗130~150个Token。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
+    },
+    {
+      "source": "虎嗅",
+      "lang": "zh",
+      "title": "为什么别人能用AI批量做短剧，你只能靠运气？",
+      "url": "http://www.huxiu.com/article/4843301.html?f=wangzhan",
+      "published_at": "2026-03-19T09:44:35+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/18/201026251178.jpg\" />\n<p>生成式媒体的下半场，从“玩模型”转向“拼编排”，短剧、电商、广告、游戏……所有AI落地场景，都绕不开这一层。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
+    }
+  ]
+}

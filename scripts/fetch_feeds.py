@@ -1,34 +1,103 @@
 """
 fetch_feeds.py
-Fetches recent tweets from configured accounts via Twitter API v2
-and saves results to feed-x.json in the repo root.
+Fetches recent tweets from configured accounts via Nitter RSS feeds.
+Tries multiple Nitter instances as fallbacks.
+No API key required.
 """
 
-import os
 import json
-import tweepy
+import os
+import time
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
+
+import feedparser
+import requests
 
 # ── Config ─────────────────────────────────────────────────────────────────
 
-BEARER_TOKEN = os.environ["TWITTER_BEARER_TOKEN"]
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT_DIR, "config", "accounts.json")
 OUTPUT_PATH = os.path.join(ROOT_DIR, "feed-x.json")
 
-# ── Setup ──────────────────────────────────────────────────────────────────
+# Nitter instances to try in order (fallback chain)
+NITTER_INSTANCES = [
+    "nitter.privacydev.net",
+    "nitter.poast.org",
+    "nitter.1d4.us",
+    "nitter.cz",
+]
 
-client = tweepy.Client(bearer_token=BEARER_TOKEN, wait_on_rate_limit=True)
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; DailyBriefBot/1.0; RSS reader)"
+}
+
+# ── Helpers ─────────────────────────────────────────────────────────────────
+
+def fetch_rss(username: str, hours_lookback: int) -> list[dict]:
+    """Try each Nitter instance until one returns a valid feed."""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_lookback)
+
+    for instance in NITTER_INSTANCES:
+        url = f"https://{instance}/{username}/rss"
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=10)
+            if resp.status_code != 200:
+                continue
+
+            feed = feedparser.parse(resp.content)
+            if not feed.entries:
+                continue
+
+            tweets = []
+            for entry in feed.entries:
+                # Parse publication date
+                pub_date = None
+                if hasattr(entry, "published"):
+                    try:
+                        pub_date = parsedate_to_datetime(entry.published)
+                        if pub_date.tzinfo is None:
+                            pub_date = pub_date.replace(tzinfo=timezone.utc)
+                    except Exception:
+                        pass
+
+                # Skip if older than lookback window
+                if pub_date and pub_date < cutoff:
+                    continue
+
+                # Skip retweets
+                title = entry.get("title", "")
+                if title.startswith("RT by "):
+                    continue
+
+                # Clean up content
+                text = entry.get("title", "")
+                if text.startswith(f"{username}:"):
+                    text = text[len(username) + 1:].strip()
+
+                tweets.append({
+                    "created_at": pub_date.isoformat() if pub_date else None,
+                    "text": text,
+                    "url": entry.get("link", ""),
+                })
+
+            print(f"  ✓ {len(tweets)} tweets via {instance}")
+            return tweets[:5]  # Max 5 per account
+
+        except Exception as e:
+            print(f"  — {instance} failed: {e}")
+            continue
+
+    print(f"  ✗ All Nitter instances failed for @{username}")
+    return []
+
+# ── Main ────────────────────────────────────────────────────────────────────
 
 with open(CONFIG_PATH, "r") as f:
     config = json.load(f)
 
 accounts = config["vc_partners"] + config["founders_leaders"]
-tweets_per_account = config["fetch_settings"]["tweets_per_account"]
 hours_lookback = config["fetch_settings"]["hours_lookback"]
-start_time = datetime.now(timezone.utc) - timedelta(hours=hours_lookback)
-
-# ── Fetch ──────────────────────────────────────────────────────────────────
 
 results = []
 
@@ -36,50 +105,16 @@ for account in accounts:
     username = account["username"]
     print(f"Fetching @{username}...")
 
-    try:
-        # Resolve username to user ID
-        user_resp = client.get_user(username=username, user_fields=["id", "name"])
-        if not user_resp.data:
-            print(f"  ⚠ User not found: @{username}")
-            continue
+    tweets = fetch_rss(username, hours_lookback)
+    for tweet in tweets:
+        results.append({
+            "account": f"@{username}",
+            "name": account["name"],
+            "org": account["org"],
+            **tweet,
+        })
 
-        user_id = user_resp.data.id
-
-        # Fetch recent tweets
-        tweets_resp = client.get_users_tweets(
-            id=user_id,
-            max_results=tweets_per_account,
-            start_time=start_time,
-            tweet_fields=["created_at", "text", "note_tweet"],
-            exclude=["retweets", "replies"],
-        )
-
-        if not tweets_resp.data:
-            print(f"  — No tweets in last {hours_lookback}h")
-            continue
-
-        for tweet in tweets_resp.data:
-            # Use note_tweet for full untruncated text if available
-            text = tweet.text
-            if hasattr(tweet, "note_tweet") and tweet.note_tweet:
-                text = tweet.note_tweet.get("text", tweet.text)
-
-            results.append({
-                "account": f"@{username}",
-                "name": account["name"],
-                "org": account["org"],
-                "text": text,
-                "created_at": tweet.created_at.isoformat() if tweet.created_at else None,
-                "url": f"https://x.com/{username}/status/{tweet.id}",
-            })
-
-        print(f"  ✓ {len(tweets_resp.data)} tweets fetched")
-
-    except tweepy.errors.TweepyException as e:
-        print(f"  ✗ Error fetching @{username}: {e}")
-        continue
-
-# ── Save ───────────────────────────────────────────────────────────────────
+    time.sleep(1)  # Be polite to Nitter instances
 
 output = {
     "updated_at": datetime.now(timezone.utc).isoformat(),

@@ -96,28 +96,26 @@ def fetch_rss_feed(source: dict, cutoff: datetime) -> list[dict]:
         return []
 
 def fetch_reddit(subreddit: str, limit: int = 8) -> list[dict]:
-    url = f"https://www.reddit.com/r/{subreddit}/hot.json?limit={limit}"
+    url = f"https://www.reddit.com/r/{subreddit}/hot.rss?limit={limit}"
     try:
         resp = requests.get(url, headers=HEADERS, timeout=15)
         if resp.status_code != 200:
             print(f"  ✗ r/{subreddit}: HTTP {resp.status_code}")
             return []
 
-        data = resp.json()
+        feed = feedparser.parse(resp.content)
+        if not feed.entries:
+            print(f"  ✗ r/{subreddit}: empty feed")
+            return []
+
         posts = []
-        for post in data["data"]["children"]:
-            p = post["data"]
-            if p.get("stickied"):
-                continue
+        for entry in feed.entries[:limit]:
+            pub = parse_date(entry)
             posts.append({
                 "subreddit": f"r/{subreddit}",
-                "title": p.get("title", ""),
-                "url": f"https://reddit.com{p.get('permalink', '')}",
-                "score": p.get("score", 0),
-                "comments": p.get("num_comments", 0),
-                "created_at": datetime.fromtimestamp(
-                    p.get("created_utc", 0), tz=timezone.utc
-                ).isoformat(),
+                "title": entry.get("title", "").strip(),
+                "url": entry.get("link", ""),
+                "created_at": pub.isoformat() if pub else None,
             })
 
         print(f"  ✓ r/{subreddit}: {len(posts)} posts")

@@ -1,0 +1,28 @@
+{
+  "vc_partners": [
+    { "username": "paulg",        "name": "Paul Graham",           "org": "Y Combinator" },
+    { "username": "sama",         "name": "Sam Altman",            "org": "OpenAI" },
+    { "username": "benedictevans","name": "Benedict Evans",        "org": "Independent" },
+    { "username": "pmarca",       "name": "Marc Andreessen",       "org": "a16z" },
+    { "username": "chamath",      "name": "Chamath Palihapitiya",  "org": "Social Capital" },
+    { "username": "bhorowitz",    "name": "Ben Horowitz",          "org": "a16z" },
+    { "username": "bgurley",      "name": "Bill Gurley",           "org": "Benchmark" },
+    { "username": "jason",        "name": "Jason Calacanis",       "org": "LAUNCH" },
+    { "username": "ericpaley",    "name": "Eric Paley",            "org": "Founder Collective" },
+    { "username": "hunterwalk",   "name": "Hunter Walk",           "org": "Homebrew VC" },
+    { "username": "sriramk",      "name": "Sriram Krishnan",       "org": "a16z" }
+  ],
+  "founders_leaders": [
+    { "username": "elonmusk",      "name": "Elon Musk",            "org": "Tesla/SpaceX/xAI" },
+    { "username": "garrytan",      "name": "Garry Tan",            "org": "Y Combinator" },
+    { "username": "andrewchen",    "name": "Andrew Chen",          "org": "a16z" },
+    { "username": "navalmravikant","name": "Naval Ravikant",       "org": "AngelList" },
+    { "username": "lennysan",      "name": "Lenny Rachitsky",      "org": "Independent" },
+    { "username": "gregisenberg",  "name": "Greg Isenberg",        "org": "Late Checkout" },
+    { "username": "venturetwins",  "name": "Venture Twins",        "org": "Angel" }
+  ],
+  "fetch_settings": {
+    "tweets_per_account": 5,
+    "hours_lookback": 48
+  }
+}

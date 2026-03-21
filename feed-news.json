@@ -1,8 +1,56 @@
 {
-  "updated_at": "2026-03-20T18:37:16.171358+00:00",
+  "updated_at": "2026-03-21T06:38:48.738065+00:00",
   "period_hours": 48,
-  "article_count": 49,
+  "article_count": 48,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "published_at": "2026-03-21T01:40:28+00:00",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that"
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
+      "url": "https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/",
+      "published_at": "2026-03-20T23:29:17+00:00",
+      "summary": "At the time, Musk had tweeted that Twitter had too many bots, which is why he was trying to renege on his commitment to buy the company."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "published_at": "2026-03-20T20:53:09+00:00",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "published_at": "2026-03-20T20:02:35+00:00",
+      "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing w"
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
+      "url": "https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/",
+      "published_at": "2026-03-20T19:15:55+00:00",
+      "summary": "It's the latest escalation in a regulatory battle over the future of prediction markets."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Pinterest CEO calls on governments to ban social media for users under 16",
+      "url": "https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/",
+      "published_at": "2026-03-20T19:01:54+00:00",
+      "summary": "Pinterest’s chief compares social media to tobacco and alcohol, saying children need similar protections."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -18,54 +66,6 @@
       "url": "https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/",
       "published_at": "2026-03-20T17:21:18+00:00",
       "summary": "A French naval officer went on a run around the deck of the Charles de Gaulle aircraft carrier, inadvertently leaking the warship's location when he uploaded the workout to Strava."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "WordPress.com now lets AI agents write and publish posts, and more",
-      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "published_at": "2026-03-20T16:43:09+00:00",
-      "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Jeff Bezos’ Blue Origin enters the space data center game",
-      "url": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
-      "published_at": "2026-03-20T16:27:43+00:00",
-      "summary": "\"Project Sunrise\" would include more than 50,000 satellites performing high-energy compute on orbit."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "US accuses Iran’s government of operating hacktivist group that hacked Stryker",
-      "url": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
-      "published_at": "2026-03-20T16:18:57+00:00",
-      "summary": "The U.S. Justice Department said an Iranian security ministry operates the fake activist persona known as Handala, which claimed responsibility for the destructive hack targeting medical tech giant Stryker."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
-      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-      "published_at": "2026-03-20T16:14:04+00:00",
-      "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "AI startups are eating the venture industry and the returns, so far, are good",
-      "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
-      "published_at": "2026-03-20T15:41:21+00:00",
-      "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US",
-      "url": "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/",
-      "published_at": "2026-03-20T15:01:39+00:00",
-      "summary": "A cyberattack on a U.S. car breathalyzer company has left drivers across the United States reportedly stranded and unable to start their vehicles."
     },
     {
       "source": "Crunchbase News",
@@ -100,36 +100,44 @@
       "summary": "Guest authors Bob Morse of Strattam Capital and Dario Fanucchi of Isazi, share their theory on why so many AI pilots fail, believing that the best solution to see measurable business improvements involves varying the tools until one moves the dial in a sustainable way."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "After Swarmer’s Soaring Debut, Here Are 12 Other Potential Defense Tech IPOs",
-      "url": "https://news.crunchbase.com/public/potential-defense-tech-ipo-candidates-swmr/",
-      "published_at": "2026-03-18T20:20:54+00:00",
-      "summary": "Defense tech startups are on a tear, which became clear this week when shares of AI drone company Swarmer soared 520% in their first day of trading on the Nasdaq, which could pave the way for other startups in the sector to pursue IPOs. We take a look at other likely candidates."
+      "title": "Three Asias, three different playbooks: How PepsiCo’s Anne Tse views the world’s fastest-growing snack market",
+      "url": "https://fortune.com/2026/03/20/pepsico-anne-tse-asia-pacific-foods-covid-local-rivals/",
+      "published_at": "2026-03-20T21:00:00+00:00",
+      "summary": "“By 2030, two‑thirds of the global middle class is going to be in Asia.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet Mark Zuckerberg’s college roommate. He’s an Olympian-turned-VC exec who now invests in your favorite celebrity businesses",
-      "url": "https://fortune.com/2026/03/20/mark-zuckerbergs-roommate-olympian-vc-exec-celebrity-businesses-samyr-laine/",
-      "published_at": "2026-03-20T07:25:00+00:00",
-      "summary": "Building off his experience as an athlete, talent manager, and brand builder, Samyr Lainé has backed brands founded by Issa Rae, Kaley Cuoco, and Emma Watson."
+      "title": "Musk misled Twitter investors before 2022 buyout, jury says",
+      "url": "https://fortune.com/2026/03/20/musk-twitter-buyout-deal-fraud-lawsuit-investors-jury-decision/",
+      "published_at": "2026-03-20T23:53:47+00:00",
+      "summary": "Mark Molumphy, a lawyer for the investors, said after the verdict he thinks the damages will amount to $2.6 billion."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jack Schlossberg says his grandfather JFK would be ‘alarmed’ by how far America has fallen on the world stage",
-      "url": "https://fortune.com/2026/03/20/jack-schlossberg-grandfather-jfk-alarmed-america-world-stage/",
-      "published_at": "2026-03-20T07:05:00+00:00",
-      "summary": "“I think he would be shocked at how far we have fallen in terms of setting the standard for the rest of the world to follow on human rights, democracy, and freedom,” the 33-year-old congressional candidate told Fortune."
+      "title": "Tariffs were already squeezing small businesses. Now the Iran conflict is pushing them to the brink as rising oil prices boost shipping costs",
+      "url": "https://fortune.com/2026/03/20/tariffs-donald-trump-pete-hegseth-iran-war-geopolitcs-strait-of-hormuz-oil-prices-small-businesses/",
+      "published_at": "2026-03-20T23:17:21+00:00",
+      "summary": "Thin margins and limited reserves leave small businesses uniquely exposed."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Middle East is one of the world’s fastest growing luxury markets—and the war in Iran may cut its sales in half, analysts say",
-      "url": "https://fortune.com/2026/03/20/how-will-iran-war-impact-middle-east-luxury-sales/",
-      "published_at": "2026-03-20T17:21:46+00:00",
-      "summary": "Luxury brands such as Dior and Gucci each get 20% of their sales from the region, which grew about 6% in 2025."
+      "title": "Trump says U.S. considers ‘winding down’ Iran military effort",
+      "url": "https://fortune.com/2026/03/20/trump-us-israel-iran-war-winding-down-iran-military-effort/",
+      "published_at": "2026-03-20T22:45:13+00:00",
+      "summary": "“We are getting very close to meeting our objectives as we consider winding down our great Military efforts in the Middle East,” Trump said in a social-media post on Friday."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Kalshi locks in $22 billion valuation, gaining slight edge over its rival Polymarket",
+      "url": "https://fortune.com/2026/03/20/kalshi-locks-in-22-billion-valuation-gaining-slight-edge-over-its-rival-polymarket/",
+      "published_at": "2026-03-20T21:20:55+00:00",
+      "summary": "The startup has doubled its valuation in about two months."
     },
     {
       "source": "Fortune",
@@ -142,34 +150,26 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The U.S. just hit $39 trillion in debt. Here’s the constitutional fix that Congress won’t touch",
-      "url": "https://fortune.com/2026/03/20/us-debt-39-trillion-balanced-budget-amendment-article-v-states/",
-      "published_at": "2026-03-20T16:48:33+00:00",
-      "summary": "It is time for a fiscal responsibility amendment to the United States Constitution."
+      "title": "It’s looking like Trump’s war created a private oil lane for China and other countries willing to play ball with Iran",
+      "url": "https://fortune.com/2026/03/20/strait-of-hormuz-alternate-route-us-iran-war-marines-kharg-island/",
+      "published_at": "2026-03-20T21:07:57+00:00",
+      "summary": "President Donald Trump is sending thousands of Marines to the Middle East amid reports he is considering deploying ground troops to reopen the strait."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Job-seekers aren’t imagining things: the number of candidates getting ghosted by employers just reached a three-year high",
-      "url": "https://fortune.com/2026/03/20/job-seekers-arent-imagining-things-candidates-ghosted-by-employers-hit-three-year-high/",
-      "published_at": "2026-03-20T16:40:13+00:00",
-      "summary": "More than half of job-seekers have experienced ghosting within the past year, reaching a three-year peak—and experts say it’s because hiring “hasn’t caught up” to an AI-driven world of applying."
+      "title": "Trump’s DOJ sues Harvard, claiming failure to tackle antisemitism",
+      "url": "https://fortune.com/2026/03/20/trumps-doj-sues-harvard-claiming-failure-to-tackle-antisemitism/",
+      "published_at": "2026-03-20T20:42:11+00:00",
+      "summary": "“The United States cannot and will not tolerate these failures,\" the DOJ wrote, saying it hopes to \"recover billions of dollars of taxpayer subsidies.\""
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "As Gen Z and CEOs alike slam ‘worthless’ degrees, one UK graduate has racked up $420,000 in student loans—more than the price of an average home",
-      "url": "https://fortune.com/2026/03/20/biggest-student-loan-in-uk-history-more-debt-crisis-college-university/",
-      "published_at": "2026-03-20T07:03:00+00:00",
-      "summary": "As Gen Z and millennials watch their “worthless” degrees lose value thanks to AI, one student has wrapped up more than $420,000 in student debt."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The AI era is turning Corporate America into a CEO churn machine",
-      "url": "https://fortune.com/2026/03/19/ceo-ai-churn-turnover-adobe-shantanu-narayen/",
-      "published_at": "2026-03-19T13:24:49+00:00",
-      "summary": "Investor impatience with slow AI results is driving a wave of CEO exits, as boards demand faster returns from the technology they’ve long touted."
+      "title": "Three ways AI is learning to understand the physical world",
+      "url": "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world",
+      "published_at": "2026-03-20T20:30:00+00:00",
+      "summary": "<p>Large language models are running into limits in domains that require an understanding of the physical world — from robotics to autonomous driving to manufacturing. That constraint is pushing investors toward <a href=\"https://venturebeat.com/technology/four-ai-research-trends-enterprise-teams-sho"
     },
     {
       "source": "VentureBeat",
@@ -178,6 +178,14 @@
       "url": "https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai",
       "published_at": "2026-03-20T16:23:00+00:00",
       "summary": "<p>Voice AI is moving faster than the tools we use to measure it. Every major AI lab — OpenAI, Google DeepMind, Anthropic, xAI — is racing to ship voice models capable of natural, real-time conversation. </p><p>But the benchmarks used to evaluate those models are largely still running on synthetic s"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Mistral's Small 4 consolidates reasoning, vision and coding into one model — at a fraction of the inference cost",
+      "url": "https://venturebeat.com/technology/mistrals-small-4-consolidates-reasoning-vision-and-coding-into-one-model-at",
+      "published_at": "2026-03-20T04:00:00+00:00",
+      "summary": "<p>Enterprises that have been juggling separate models for reasoning, multimodal tasks, and agentic coding may be able to simplify their stack: Mistral’s new Small 4 brings all three into a single open-source model, with adjustable reasoning levels under the hood.</p><p>Small 4 enters a crowded fiel"
     },
     {
       "source": "VentureBeat",
@@ -210,22 +218,6 @@
       "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix",
       "published_at": "2026-03-19T19:20:00+00:00",
       "summary": "<p>A rogue AI agent at Meta took action without approval and <a href=\"https://www.theinformation.com/articles/inside-meta-rogue-ai-agent-triggers-security-alert\">exposed sensitive company and user data</a> to employees who were not authorized to access it. Meta confirmed the incident to The Informat"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Xiaomi stuns with new MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost",
-      "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
-      "published_at": "2026-03-18T23:55:00+00:00",
-      "summary": "<p>Chinese electronics and car manufacturer Xiaomi surprised the global AI community today with<a href=\"https://mimo.xiaomi.com/mimo-v2-pro\"> the release of MiMo-V2-Pro</a>, a new 1-trillion parameter foundation model with benchmarks approaching those of U.S. AI giants OpenAI and Anthropic, but at a"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "New MiniMax M2.7 proprietary AI model is 'self-evolving' and can perform 30-50% of reinforcement learning research workflow",
-      "url": "https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50",
-      "published_at": "2026-03-18T18:47:00+00:00",
-      "summary": "<p>In the last few years, Chinese AI startup <a href=\"https://www.minimax.io/\">MiniMax</a> has become one of the most exciting in the crowded global AI marketplace, carving out a reputation for delivering frontier-level large language models (LLMs) with open source licenses and before that, high-qua"
     },
     {
       "source": "MIT Tech Review",
@@ -278,6 +270,22 @@
     {
       "source": "36氪",
       "lang": "zh",
+      "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
+      "url": "https://36kr.com/p/3732100232298503?f=rss",
+      "published_at": null,
+      "summary": "<p>当代年轻人对待病的态度，像薛定谔的猫一般充满矛盾。</p>\n  <p>有时讳疾忌医，不敢看自己的体检报告，对报告里已确诊的小结节、轻度脂肪肝、胃炎装聋作哑，安慰自己没啥大事。</p>\n  <p>有时又上赶着帮自己“确诊”新疾病：“我说我怎么天天活人微死还犯懒呢，原来我是前额叶受损啊。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260321/v2_8569f8b8bb184111a4524a0cb5b2c004@6076018_oswg281559oswg831oswg557_im"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
+      "url": "https://36kr.com/p/3732001538490631?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>商务部部长王文涛会见苹果公司首席执行官库克</p>\n  <p>贾国龙起家的西贝首店将缩减一半经营面积</p>\n  <p>特斯拉计划采购中国光伏设备？企业回应：确有此事</p>\n  <p>针对“漂白鸡爪”等“3·15”晚会曝光问题，多地立案溯源打击</p>\n  <p>中国学生平均留学预算超60万</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>傅盛微信群里开撕周鸿祎称“欠钱不还”，360回应</strong></p>\n  <p>3月20日，社交媒体流传的截图显示，"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
       "title": "万物云：与万科关联应收账款余额仅剩20.6亿，业务独立性持续增强",
       "url": "https://36kr.com/p/3731378273828868?f=rss",
       "published_at": null,
@@ -324,20 +332,20 @@
       "summary": "<p>资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。</p>\n  <p>本文是这个栏目的第181期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）&nbsp;</p>\n  <h2><strong>一、本月新增</strong></h2>\n  <h2><strong>1、求购Anthropic老股份额（预期估值面议）</s"
     },
     {
-      "source": "36氪",
+      "source": "虎嗅",
       "lang": "zh",
-      "title": "从能力到商品：Skills市场正在重塑开发者的生产方式",
-      "url": "https://36kr.com/p/3730644353286150?f=rss",
-      "published_at": null,
-      "summary": "<p>技能是产业竞争力的重要体现方式之一 。在上海，一场 AI 时代的技能革命也在悄然展开——进入 2026 年，新赛季的竞争不再是大模型间的参数比拼，而是谁能真正走进工厂、实验室和写字楼，变成“会做事”的生产力工具。开源项目 OpenClaw 的迅速走红，折射出以 Skills 市场等形式的开放共享的新趋势——或许正是那把撬开这场 Agent 变革的锁钥。</p>\n  <p>简言之， Skills 市场是智能体的“技能商店”：开发者将专业能力封装为标准化模块，供全球智能体按需调用。这是开发工具的升级， 更是生产关系的深层重构。&nbsp;</p>\n  <p class=\"image-wrap"
+      "title": "蔚小理纷纷盈利之后，战事升级",
+      "url": "http://www.huxiu.com/article/4843969.html?f=wangzhan",
+      "published_at": "2026-03-21T10:33:50+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/20/181459272060.jpg\" />\n<p><span class=\"text-remarks\" label=\"备注\">出品|虎嗅汽车组</span></p><p><span class=\"text-remarks\" label=\"备注\">作者|杨杰</span></p><p><span class=\"text-remarks\" label=\"备注\">头图|视觉中国</span></p><p><br /></p><p>2025年财报季，造车新势力的最后一块“亏损拼图”终于补"
     },
     {
-      "source": "36氪",
+      "source": "虎嗅",
       "lang": "zh",
-      "title": "港中文95后博士、OPPO员工做了款AI可穿戴硬件，要成为用户全天候情感导师｜硬氪首发",
-      "url": "https://36kr.com/p/3729647028960903?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于&nbsp;2026年4月在北美独立站上线、6月量产。</p>\n  <p>十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续创业者，博士毕业于香港中文大学，他曾出任智能穿戴硬件企业物启科技CEO，并推出全球首款AI情绪吊坠Nuna。联合创始人曾任职于大疆、安克、OPPO等企业，拥有多年的产品落地经验与成熟的市场化运作能力。"
+      "title": "不止霍尔木兹海峡，这些知名海峡也靠“过路费”爽挣",
+      "url": "http://www.huxiu.com/article/4843907.html?f=wangzhan",
+      "published_at": "2026-03-21T10:00:00+08:00",
+      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/20/161953340555.jpeg\" />\n<p>这期视频，枪仔不聊打架的事，而是想带大家一起来盘盘，少数几个关键海峡通道是如何制造巨量财富、影响世界大局观的。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
     },
     {
       "source": "虎嗅",
@@ -378,22 +386,6 @@
       "url": "http://www.huxiu.com/article/4843465.html?f=wangzhan",
       "published_at": "2026-03-19T16:53:00+08:00",
       "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/19/113621002542.jpg\" />\n<p class=\"text-normal\" label=\"正文\"><span class=\"text-remarks\" label=\"备注\">出品|虎嗅汽车组</span></p><p class=\"text-normal\" label=\"正文\"><span class=\"text-remarks\" label=\"备注\">作者|邢书博</span></p><p class=\"text-normal\" label=\"正文\"><span"
-    },
-    {
-      "source": "虎嗅",
-      "lang": "zh",
-      "title": "为什么大厂都盯上了Token生意？",
-      "url": "http://www.huxiu.com/article/4843210.html?f=wangzhan",
-      "published_at": "2026-03-19T10:40:00+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/18/221421016086.jpg\" />\n<p>最近关注养虾的朋友，应该都熟悉了一个词：Token。它是AI处理信息的最小语义单位，你可以理解为给Agent发的工资。在中文世界里，生成100个汉字大概要消耗130~150个Token。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
-    },
-    {
-      "source": "虎嗅",
-      "lang": "zh",
-      "title": "为什么别人能用AI批量做短剧，你只能靠运气？",
-      "url": "http://www.huxiu.com/article/4843301.html?f=wangzhan",
-      "published_at": "2026-03-19T09:44:35+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/18/201026251178.jpg\" />\n<p>生成式媒体的下半场，从“玩模型”转向“拼编排”，短剧、电商、广告、游戏……所有AI落地场景，都绕不开这一层。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
     }
   ]
 }

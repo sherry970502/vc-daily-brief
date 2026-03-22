@@ -94,7 +94,12 @@ if not BEARER_TOKEN:
 with open(CONFIG_PATH, "r") as f:
     config = json.load(f)
 
-accounts = config["vc_partners"] + config["founders_leaders"]
+accounts = (
+    config.get("vc_partners", []) +
+    config.get("founders_leaders", []) +
+    config.get("emerging_vcs", []) +
+    config.get("institutions", [])
+)
 hours_lookback = config["fetch_settings"]["hours_lookback"]
 tweets_per_account = config["fetch_settings"]["tweets_per_account"]
 

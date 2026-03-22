@@ -18,7 +18,7 @@
       "username": "benedictevans",
       "name": "Benedict Evans",
       "org": "Independent",
-      "title": "Tech Analyst",
+      "title": "Independent Tech Analyst",
       "bio": "独立科技分析师，前 a16z 合伙人。以深度行业分析报告著称，每年发布的科技趋势报告在投资圈广泛传阅。擅长用数据和图表解读科技行业结构性变化。"
     },
     {
@@ -76,6 +76,69 @@
       "org": "a16z",
       "title": "General Partner, Andreessen Horowitz (a16z)",
       "bio": "a16z 合伙人，前 Twitter、Microsoft、Snap 产品高管，曾任白宫 OSTP 高级政策顾问（AI 方向）。专注 AI 基础设施和消费者产品投资，是 AI 政策与产业之间的重要桥梁人物。"
+    },
+    {
+      "username": "fredwilson",
+      "name": "Fred Wilson",
+      "org": "Union Square Ventures",
+      "title": "Co-founder & Partner, Union Square Ventures",
+      "bio": "Union Square Ventures 联合创始人，VC 行业最具坚持力的博主之一，AVC.com 每日更新超过 15 年。早期投资了 Twitter、Tumblr、Etsy、Coinbase 等。以社区驱动型投资哲学著称。"
+    },
+    {
+      "username": "mwseibel",
+      "name": "Michael Seibel",
+      "org": "Y Combinator",
+      "title": "Partner, Y Combinator",
+      "bio": "YC 合伙人，Justin.tv / Twitch 联合创始人。以接地气的早期创业建议著称，尤其擅长帮助创始人理清产品方向和融资策略。在多元化创业者支持方面有突出贡献。"
+    },
+    {
+      "username": "davidsacks",
+      "name": "David Sacks",
+      "org": "Craft Ventures",
+      "title": "Founder & General Partner, Craft Ventures",
+      "bio": "Craft Ventures 创始人，PayPal 黑帮成员，前 Yammer CEO。All-In Podcast 联合主持人，观点鲜明且极具争议性。在 SaaS、企业软件和科技政策议题上有强烈的公开立场。"
+    },
+    {
+      "username": "bfeld",
+      "name": "Brad Feld",
+      "org": "Foundry Group / Techstars",
+      "title": "Co-founder, Foundry Group & Techstars",
+      "bio": "Foundry Group 和 Techstars 联合创始人，Boulder 创业生态系统的核心建设者。以对创业者心理健康话题的公开倡导和深度长文著称，博客坚持写作超 20 年。"
+    },
+    {
+      "username": "msuster",
+      "name": "Mark Suster",
+      "org": "Upfront Ventures",
+      "title": "Managing Partner, Upfront Ventures",
+      "bio": "Upfront Ventures 管理合伙人，连续创业者出身（两次成功退出）。Both Sides of the Table 博主，以创业者和投资人双重视角解读 VC 行业著称。洛杉矶科技生态的重要推动者。"
+    },
+    {
+      "username": "eladgil",
+      "name": "Elad Gil",
+      "org": "Independent",
+      "title": "Independent Investor & Advisor",
+      "bio": "独立投资人，《High Growth Handbook》作者，前 Twitter VP。深度参与过 Airbnb、Stripe、Square、Coinbase 等高增长公司的扩张阶段。以实操型创业建议和对高增长公司操盘经验著称。"
+    },
+    {
+      "username": "joshk",
+      "name": "Josh Kopelman",
+      "org": "First Round Capital",
+      "title": "Co-founder & Partner, First Round Capital",
+      "bio": "First Round Capital 联合创始人，种子投资先驱，将机构化种子投资模式带入主流。连续创业者出身（Half.com 以 3.5 亿美元售给 eBay）。偶发但深度的推文在投资圈影响力极大。"
+    },
+    {
+      "username": "jeremysliew",
+      "name": "Jeremy Liew",
+      "org": "Lightspeed Venture Partners",
+      "title": "Partner, Lightspeed Venture Partners",
+      "bio": "Lightspeed 合伙人，Snapchat 首位机构投资人。专注消费科技、游戏和加密早期投资，以准确识别大众文化趋势著称。在消费者行为和流行文化与科技交叉领域有独特洞察。"
+    },
+    {
+      "username": "jeffclavier",
+      "name": "Jeff Clavier",
+      "org": "Uncork Capital",
+      "title": "Founder & Managing Partner, Uncork Capital",
+      "bio": "Uncork Capital（原 SoftTech VC）创始人，硅谷最早专注种子阶段的机构投资人之一。投资组合覆盖 Fitbit、Eventbrite 等。法裔投资人，在欧美创业生态之间有独特连接。"
     }
   ],
   "founders_leaders": [
@@ -101,10 +164,10 @@
       "bio": "a16z 合伙人，增长黑客理论的重要推广者，《冷启动问题》作者。前 Uber 增长负责人，专注消费者科技和网络效应类投资。对产品增长、病毒传播机制有深刻研究。"
     },
     {
-      "username": "navalmravikant",
+      "username": "naval",
       "name": "Naval Ravikant",
       "org": "AngelList",
-      "title": "Co-founder, AngelList & Epinions",
+      "title": "Co-founder, AngelList",
       "bio": "AngelList 联合创始人，天使投资人，硅谷最受尊敬的思想领袖之一。以对财富创造、幸福哲学和创业本质的深度思考著称，推文和播客在创业圈拥有极高传播度。"
     },
     {
@@ -127,6 +190,150 @@
       "org": "Angel",
       "title": "Angel Investors",
       "bio": "双胞胎天使投资人组合，活跃于早期科技投资圈。在创业社区中以快速分享融资动态、行业趋势和创业心得著称，内容接地气且更新频率高。"
+    },
+    {
+      "username": "peterthiel",
+      "name": "Peter Thiel",
+      "org": "Founders Fund",
+      "title": "Co-founder, Founders Fund & PayPal",
+      "bio": "Founders Fund 联合创始人，PayPal 联合创始人，Facebook 首位外部投资人。《从零到一》作者，以反主流的洞察和对竞争的批判性思维著称。在科技界和政治圈均有极强影响力。"
+    },
+    {
+      "username": "reidhoffman",
+      "name": "Reid Hoffman",
+      "org": "Greylock",
+      "title": "Co-founder, LinkedIn; Partner, Greylock",
+      "bio": "LinkedIn 联合创始人，Greylock 合伙人，PayPal 黑帮成员。Masters of Scale 播客主持人，以对网络效应和规模化的深度研究著称。在 AI 与商业未来议题上是重要的公共知识分子。"
+    },
+    {
+      "username": "rabois",
+      "name": "Keith Rabois",
+      "org": "Founders Fund / Khosla Ventures",
+      "title": "General Partner, Founders Fund",
+      "bio": "Founders Fund 合伙人，PayPal 黑帮成员。曾任 Square、LinkedIn、Yelp 高管，投出 DoorDash、Stripe、Airbnb 等。以直言不讳的行业批评和对运营细节的深度关注著称。"
+    },
+    {
+      "username": "balajis",
+      "name": "Balaji Srinivasan",
+      "org": "Independent",
+      "title": "Former Partner, a16z; Former CTO, Coinbase",
+      "bio": "前 a16z 合伙人，前 Coinbase CTO，连续创业者。以对加密货币、去中心化和网络国家理论的极端鲜明立场著称，争议性极强。《The Network State》作者。"
+    },
+    {
+      "username": "rrhoover",
+      "name": "Ryan Hoover",
+      "org": "Weekend Fund",
+      "title": "Founder, Product Hunt; General Partner, Weekend Fund",
+      "bio": "Product Hunt 创始人，Weekend Fund 合伙人。以对消费者产品和创业社区的深度热情著称，Product Hunt 已成为全球最重要的产品发布平台。持续关注 AI 工具和创业生态新动态。"
+    },
+    {
+      "username": "harryst",
+      "name": "Harry Stebbings",
+      "org": "20VC",
+      "title": "Founder, 20VC & The Twenty Minute VC",
+      "bio": "20VC 基金创始人，The Twenty Minute VC 播客主持人，VC 播客领域的年轻标杆。采访了数百位顶级 VC 和创始人，以对行业人脉的快速积累和对投资逻辑的深度访谈著称。"
+    },
+    {
+      "username": "elizabethyin",
+      "name": "Elizabeth Yin",
+      "org": "Hustle Fund",
+      "title": "Co-founder & General Partner, Hustle Fund",
+      "bio": "Hustle Fund 联合创始人，前 YC 合伙人。专注极早期（pre-seed）投资，以真实分享融资困境、创始人心理和早期创业策略著称，是创始人社群中极受信赖的声音。"
+    },
+    {
+      "username": "davidhornik",
+      "name": "David Hornik",
+      "org": "August Capital",
+      "title": "General Partner, August Capital",
+      "bio": "August Capital 合伙人，斯坦福法学院讲师，VentureBlog 早期博主。VC 界为数不多的法律背景投资人，以稳健深思的风格和对企业软件的长期关注著称。"
+    },
+    {
+      "username": "tferriss",
+      "name": "Tim Ferriss",
+      "org": "Independent",
+      "title": "Angel Investor; Author, The 4-Hour Workweek",
+      "bio": "《四小时工作制》作者，天使投资人，The Tim Ferriss Show 播客主持人（全球下载量超 9 亿次）。早期投资了 Uber、Twitter、Facebook 等。以对生活方式设计和高效工作方法的推广著称。"
+    }
+  ],
+  "emerging_vcs": [
+    {
+      "username": "sarahtavel",
+      "name": "Sarah Tavel",
+      "org": "Benchmark",
+      "title": "Partner, Benchmark",
+      "bio": "Benchmark 合伙人，前 Greylock 合伙人，曾任 Pinterest 早期产品经理。专注消费类应用和用户增长，以「用户参与度层级」理论著称。是 VC 圈最具影响力的女性投资人之一。"
+    },
+    {
+      "username": "nmasc_",
+      "name": "Nnamdi Madu",
+      "org": "Lightspeed",
+      "title": "Partner, Lightspeed Venture Partners",
+      "bio": "Lightspeed 合伙人，专注企业软件和基础设施投资。非裔美国人 VC 代表性声音，在推动科技投资圈多元化方面积极发声。以对 B2B SaaS 和开发者工具赛道的深度判断著称。"
+    },
+    {
+      "username": "lolitataub",
+      "name": "Lolita Taub",
+      "org": "Ganas Ventures",
+      "title": "Co-founder & General Partner, Ganas Ventures",
+      "bio": "Ganas Ventures 联合创始人，专注拉丁裔创始人和多元化科技生态投资。以对 LATAM 创业生态的持续关注和对包容性投资的公开倡导著称，是新兴 VC 群体中的重要声音。"
+    },
+    {
+      "username": "hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "title": "Co-founder, FYI & Crazy Egg; Angel Investor",
+      "bio": "连续创业者（Crazy Egg、KISSmetrics、FYI 联合创始人），天使投资人。以实操型 SaaS 产品建设经验和对创业者的无私分享著称，内容干货密度极高。"
+    },
+    {
+      "username": "alearningaday",
+      "name": "Rohan Rajiv",
+      "org": "Independent",
+      "title": "Product Manager; Author, A Learning a Day",
+      "bio": "前 LinkedIn PM，A Learning a Day 博客作者，坚持每日一条创业/投资/人生洞察超过十年。以对学习、成长和创业哲学的持续反思著称，是创业社区中少见的坚持长期主义的声音。"
+    },
+    {
+      "username": "zackcoelius",
+      "name": "Zach Coelius",
+      "org": "Coelius Capital",
+      "title": "Founder & Managing Partner, Coelius Capital",
+      "bio": "Coelius Capital 创始人，连续创业者出身。以直接分享天使投资决策过程、投资逻辑和被坑经验著称，透明度在 VC 圈中少见。专注早期阶段投资，风格务实接地气。"
+    }
+  ],
+  "institutions": [
+    {
+      "username": "a16z",
+      "name": "Andreessen Horowitz",
+      "org": "a16z",
+      "title": "Venture Capital Firm",
+      "bio": "硅谷顶级 VC 机构，管理资产超 350 亿美元。投资组合覆盖 Airbnb、Coinbase、GitHub、Lyft、Robinhood 等。官号定期发布深度研究报告、播客和投资组合动态，内容质量在机构官号中属顶级。"
+    },
+    {
+      "username": "sequoia",
+      "name": "Sequoia Capital",
+      "org": "Sequoia Capital",
+      "title": "Venture Capital Firm",
+      "bio": "全球最顶级的 VC 机构之一，投出 Apple、Google、Oracle、WhatsApp、Airbnb、Stripe 等。官号发布领导力内容、创始人故事和行业洞察，是 VC 机构中品牌建设的标杆。"
+    },
+    {
+      "username": "ycombinator",
+      "name": "Y Combinator",
+      "org": "Y Combinator",
+      "title": "Startup Accelerator",
+      "bio": "全球最顶级的创业加速器，每批次投资 100-200 家初创公司。投出 Airbnb、Stripe、Dropbox、Reddit、DoorDash 等。官号发布批次动态、创业建议和行业资源，是创业生态的核心信息源。"
+    },
+    {
+      "username": "firstround",
+      "name": "First Round Capital",
+      "org": "First Round Capital",
+      "title": "Venture Capital Firm",
+      "bio": "种子阶段专注型 VC，First Round Review 是行业最知名的创业深度内容平台之一。投出 Uber、Square、Roblox、Notion 等。官号以高质量深度创业文章和播客著称。"
+    },
+    {
+      "username": "lightspeedvp",
+      "name": "Lightspeed Venture Partners",
+      "org": "Lightspeed Venture Partners",
+      "title": "Venture Capital Firm",
+      "bio": "全球顶级多阶段 VC，在美国、欧洲、印度、以色列均有布局。投出 Snapchat、Affirm、Nutanix、Mulesoft 等。官号活跃，定期分享全球投资动态和行业趋势。"
     }
   ],
   "fetch_settings": {

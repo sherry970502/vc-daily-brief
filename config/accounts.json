@@ -1,25 +1,133 @@
 {
   "vc_partners": [
-    { "username": "paulg",        "name": "Paul Graham",           "org": "Y Combinator" },
-    { "username": "sama",         "name": "Sam Altman",            "org": "OpenAI" },
-    { "username": "benedictevans","name": "Benedict Evans",        "org": "Independent" },
-    { "username": "pmarca",       "name": "Marc Andreessen",       "org": "a16z" },
-    { "username": "chamath",      "name": "Chamath Palihapitiya",  "org": "Social Capital" },
-    { "username": "bhorowitz",    "name": "Ben Horowitz",          "org": "a16z" },
-    { "username": "bgurley",      "name": "Bill Gurley",           "org": "Benchmark" },
-    { "username": "jason",        "name": "Jason Calacanis",       "org": "LAUNCH" },
-    { "username": "ericpaley",    "name": "Eric Paley",            "org": "Founder Collective" },
-    { "username": "hunterwalk",   "name": "Hunter Walk",           "org": "Homebrew VC" },
-    { "username": "sriramk",      "name": "Sriram Krishnan",       "org": "a16z" }
+    {
+      "username": "paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "title": "Co-founder, Y Combinator",
+      "bio": "YC 联合创始人，硅谷最具影响力的创业导师之一。创立了全球最顶级的创业加速器 Y Combinator，投出 Airbnb、Stripe、Dropbox 等独角兽。以撰写深度创业随笔著称，观点常引发行业广泛讨论。"
+    },
+    {
+      "username": "sama",
+      "name": "Sam Altman",
+      "org": "OpenAI",
+      "title": "CEO, OpenAI",
+      "bio": "OpenAI CEO，前 YC 总裁。主导了 ChatGPT 的发布和 OpenAI 的商业化，是当前 AI 浪潮最核心的推动者之一。在 AGI 政策、AI 安全、算力竞争等议题上具有极高话语权。"
+    },
+    {
+      "username": "benedictevans",
+      "name": "Benedict Evans",
+      "org": "Independent",
+      "title": "Tech Analyst",
+      "bio": "独立科技分析师，前 a16z 合伙人。以深度行业分析报告著称，每年发布的科技趋势报告在投资圈广泛传阅。擅长用数据和图表解读科技行业结构性变化。"
+    },
+    {
+      "username": "pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "title": "Co-founder & General Partner, Andreessen Horowitz (a16z)",
+      "bio": "a16z 联合创始人，硅谷最有影响力的 VC 之一。网景浏览器发明者，连续创业者出身。以对科技进步持强烈乐观主义立场著称，投资组合覆盖 Facebook、Twitter、Lyft、GitHub 等。"
+    },
+    {
+      "username": "chamath",
+      "name": "Chamath Palihapitiya",
+      "org": "Social Capital",
+      "title": "CEO & Founder, Social Capital",
+      "bio": "Social Capital 创始人，前 Facebook VP。以直言不讳的行业批评和 SPAC 热潮期间的高调投资闻名。All-In Podcast 主播之一，观点偏宏观经济与科技政策交叉领域。"
+    },
+    {
+      "username": "bhorowitz",
+      "name": "Ben Horowitz",
+      "org": "a16z",
+      "title": "Co-founder & General Partner, Andreessen Horowitz (a16z)",
+      "bio": "a16z 联合创始人，《创业维艰》作者。连续创业者出身，以对创始人心态和企业文化的深刻洞察著称。a16z 文化类、加密类投资的主要推手。"
+    },
+    {
+      "username": "bgurley",
+      "name": "Bill Gurley",
+      "org": "Benchmark",
+      "title": "General Partner, Benchmark",
+      "bio": "Benchmark 合伙人，投出 Uber、OpenTable、Zillow 等。以对科技公司估值泡沫的犀利批评著称，多次准确预判市场风险。在 VC 圈享有极高声誉的价值投资派。"
+    },
+    {
+      "username": "jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
+      "title": "Angel Investor & Founder, LAUNCH",
+      "bio": "天使投资人，LAUNCH 加速器创始人，All-In Podcast 主播之一。早期投资了 Uber、Robinhood 等。以活跃的公开评论和对创业生态的持续跟踪著称，信息传播速度极快。"
+    },
+    {
+      "username": "ericpaley",
+      "name": "Eric Paley",
+      "org": "Founder Collective",
+      "title": "Managing Partner, Founder Collective",
+      "bio": "Founder Collective 管理合伙人，连续创业者出身。专注种子阶段投资，持续倡导「创始人友好型」投资文化。对创业公司稀释、估值泡沫等话题有深入研究和直率观点。"
+    },
+    {
+      "username": "hunterwalk",
+      "name": "Hunter Walk",
+      "org": "Homebrew VC",
+      "title": "Co-founder & Partner, Homebrew VC",
+      "bio": "Homebrew VC 联合创始人，前 YouTube 产品总监。专注种子阶段，以对产品思维和创始人关系的深度关注著称。在消费者科技和 SaaS 领域有丰富投资经验。"
+    },
+    {
+      "username": "sriramk",
+      "name": "Sriram Krishnan",
+      "org": "a16z",
+      "title": "General Partner, Andreessen Horowitz (a16z)",
+      "bio": "a16z 合伙人，前 Twitter、Microsoft、Snap 产品高管，曾任白宫 OSTP 高级政策顾问（AI 方向）。专注 AI 基础设施和消费者产品投资，是 AI 政策与产业之间的重要桥梁人物。"
+    }
   ],
   "founders_leaders": [
-    { "username": "elonmusk",      "name": "Elon Musk",            "org": "Tesla/SpaceX/xAI" },
-    { "username": "garrytan",      "name": "Garry Tan",            "org": "Y Combinator" },
-    { "username": "andrewchen",    "name": "Andrew Chen",          "org": "a16z" },
-    { "username": "navalmravikant","name": "Naval Ravikant",       "org": "AngelList" },
-    { "username": "lennysan",      "name": "Lenny Rachitsky",      "org": "Independent" },
-    { "username": "gregisenberg",  "name": "Greg Isenberg",        "org": "Late Checkout" },
-    { "username": "venturetwins",  "name": "Venture Twins",        "org": "Angel" }
+    {
+      "username": "elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "title": "CEO, Tesla & SpaceX; Founder, xAI; Owner, X",
+      "bio": "全球最具争议性和影响力的科技企业家。同时掌舵 Tesla、SpaceX、xAI 和 X（原 Twitter）。在 AI、能源、航天、社交媒体等多个赛道均处于行业核心位置，推文常直接影响市场情绪。"
+    },
+    {
+      "username": "garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "title": "President & CEO, Y Combinator",
+      "bio": "Y Combinator 现任 CEO，连续创业者出身（Posterous 创始人），前 Initialized Capital 联合创始人。2023 年回归 YC 掌舵，积极推动 YC 在 AI 时代的战略转型，对创业趋势和 YC 投资方向有第一手洞察。"
+    },
+    {
+      "username": "andrewchen",
+      "name": "Andrew Chen",
+      "org": "a16z",
+      "title": "General Partner, Andreessen Horowitz (a16z)",
+      "bio": "a16z 合伙人，增长黑客理论的重要推广者，《冷启动问题》作者。前 Uber 增长负责人，专注消费者科技和网络效应类投资。对产品增长、病毒传播机制有深刻研究。"
+    },
+    {
+      "username": "navalmravikant",
+      "name": "Naval Ravikant",
+      "org": "AngelList",
+      "title": "Co-founder, AngelList & Epinions",
+      "bio": "AngelList 联合创始人，天使投资人，硅谷最受尊敬的思想领袖之一。以对财富创造、幸福哲学和创业本质的深度思考著称，推文和播客在创业圈拥有极高传播度。"
+    },
+    {
+      "username": "lennysan",
+      "name": "Lenny Rachitsky",
+      "org": "Independent",
+      "title": "Author, Lenny's Newsletter; Former Product Lead, Airbnb",
+      "bio": "前 Airbnb 产品负责人，Lenny's Newsletter 创始人（订阅量超 70 万）。专注产品管理、增长和职业发展内容，是 PM 和创业者社群最具影响力的独立创作者之一。"
+    },
+    {
+      "username": "gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
+      "title": "CEO, Late Checkout",
+      "bio": "Late Checkout 创始人兼 CEO，连续创业者和天使投资人。专注于互联网社区和创意经济赛道，以快速产品实验和流量增长著称。积极分享 AI 工具在创业中的实际应用案例。"
+    },
+    {
+      "username": "venturetwins",
+      "name": "Venture Twins",
+      "org": "Angel",
+      "title": "Angel Investors",
+      "bio": "双胞胎天使投资人组合，活跃于早期科技投资圈。在创业社区中以快速分享融资动态、行业趋势和创业心得著称，内容接地气且更新频率高。"
+    }
   ],
   "fetch_settings": {
     "tweets_per_account": 5,

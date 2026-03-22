@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-22T06:46:23.765498+00:00",
+  "updated_at": "2026-03-22T10:55:49.087227+00:00",
   "period_hours": 48,
-  "article_count": 34,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
@@ -94,6 +94,54 @@
     {
       "source": "Fortune",
       "lang": "en",
+      "title": "To unwind from his 12-hour shifts, this doctor splits his year between Kentucky and Venice—he pulls into his $438K apartment by boat",
+      "url": "https://fortune.com/2026/03/22/unwind-12-hour-shifts-doctor-alexander-gabrovsky-splits-year-kentucky-venice-pulls-into-apartment-by-boat/",
+      "published_at": "2026-03-22T10:03:00+00:00",
+      "summary": "Alexander Gabrovsky grinds out 12-hour hospital shifts in the U.S., then takes off for month-long breathers at his Italian apartment accessible by boat."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "AI may be helping more people start their own businesses, but without many employees",
+      "url": "https://fortune.com/2026/03/22/ai-entrepreneurs-startups-layoffs-block-jack-dorsey-american-workers-future-of-work/",
+      "published_at": "2026-03-22T09:03:00+00:00",
+      "summary": "The cofounders of one startup said they are bringing in $1 million per month with 13 employees thanks to AI."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Mark Cuban bought a $25 million mansion sight unseen — and got it for 50% off. His secret? ‘The best guaranteed return on investment’",
+      "url": "https://fortune.com/2026/03/22/mark-cuban-buying-home-at-discount-foreclosure-deals-investing-advice-billionaire-real-estate-strategy/",
+      "published_at": "2026-03-22T09:03:00+00:00",
+      "summary": "Cuban dropped millions on a mansion he'd never set foot in, but has zero regrets. The deal captures how billionaires think differently about money."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "The K-shaped economy has left many six-figure earners ‘on thin ice’ as housing costs, lifestyle creep, and the job market put them at risk",
+      "url": "https://fortune.com/2026/03/22/k-shaped-economy-six-figure-earners-on-thin-ice-housing-costs-lifestyle-creep-job-market-risks/",
+      "published_at": "2026-03-22T09:01:00+00:00",
+      "summary": "Many six-figure households earning more than $160,000 annually are “on thin ice,” while the income bracket below them are actually more “comfortable” thanks to their financial position."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "‘Almost exactly offsetting the boost’: Higher gasoline prices this year could wipe out tax refunds from Trump’s One Big Beautiful Bill Act",
+      "url": "https://fortune.com/2026/03/22/gasoline-prices-offsetting-trump-one-big-beautiful-bill-act-tax-refund/",
+      "published_at": "2026-03-22T08:27:00+00:00",
+      "summary": "Prices at the pump are almost a dollar more per gallon than a month ago following the U.S. strike on Iran and are poised to tick up even higher as the Strait of Hormuz remains closed."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Meet the CFO who turned Adobe’s finance department into an AI lab",
+      "url": "https://fortune.com/2026/03/22/meet-the-cfo-who-turned-adobes-finance-department-into-an-ai-lab/",
+      "published_at": "2026-03-22T08:00:00+00:00",
+      "summary": "Dan Durn is auto-responding to 300,000 emails, slashing contract review times, and stress-testing earnings messaging with AI. His thesis: finance that doesn't adopt AI becomes a brake on growth."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
       "title": "Trump gives Iran 48 hours on Hormuz, threatens power plants",
       "url": "https://fortune.com/2026/03/21/trump-iran-war-48-hours-deadline-strait-of-hormuz-power-plants/",
       "published_at": "2026-03-22T00:55:45+00:00",
@@ -106,54 +154,6 @@
       "url": "https://fortune.com/2026/03/21/israel-iran-war-not-close-ending-nuclear-research-center-iranian-enrichment-site/",
       "published_at": "2026-03-21T23:34:42+00:00",
       "summary": "Israel's military said it was not able to intercept missiles that hit the southern cities of Dimona and Arad."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "OpenAI plans to almost double its headcount this year, FT says",
-      "url": "https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/",
-      "published_at": "2026-03-21T23:21:47+00:00",
-      "summary": "The maker of AI assistant ChatGPT will look to increase headcount to about 8,000 from about 4,500, according to the Financial Times."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "BTS begins comeback tour to reclaim status as one of the world’s biggest pop acts after completing Korea’s mandatory military service",
-      "url": "https://fortune.com/2026/03/21/bts-concert-seoul-comeback-world-tour-album-arirang/",
-      "published_at": "2026-03-21T23:10:04+00:00",
-      "summary": "The hourlong concert came after the group on Friday released its fifth album, “ARIRANG,” which sold nearly 4 million copies in its first day."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "U.S. allows sale of stranded Iran oil to cap fuel-price rises",
-      "url": "https://fortune.com/2026/03/21/us-sanctions-sale-stranded-iran-oil-price-surge-strait-hormuz/",
-      "published_at": "2026-03-21T22:57:29+00:00",
-      "summary": "The measure follows similar moves for Russian oil on the water in a bid to ease an unprecedented fuel supply crunch caused by the war."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The U.S. has the world’s most advanced military, but the unforgiving economics of wars in Iran and Ukraine show quantity has a quality all its own",
-      "url": "https://fortune.com/2026/03/21/us-military-economics-warfare-iran-ukraine-defense-industrial-base-drones/",
-      "published_at": "2026-03-21T22:13:01+00:00",
-      "summary": "\"The future of warfare is Ukraine producing 7 million drones per year right now,\" former CIA director and retired Gen. David Patraeus said."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Trump says he will order ICE to airports for security amid government shutdown and vows to arrest ‘all illegal immigrants’",
-      "url": "https://fortune.com/2026/03/21/trump-ice-agent-airports-security-government-shutdown-immigrantion-arrests/",
-      "published_at": "2026-03-21T19:34:53+00:00",
-      "summary": "“I look forward to moving ICE in on Monday, and have already told them to, “GET READY.” NO MORE WAITING, NO MORE GAMES!” Trump wrote."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "It’s not just vaccines. Parents are refusing other routine preventive care for newborns—even protection from severe bleeding and blindness",
-      "url": "https://fortune.com/2026/03/21/anti-vaccine-parents-routine-preventive-care-newborns-vitamin-k-shots/",
-      "published_at": "2026-03-21T19:24:21+00:00",
-      "summary": "A recent study in the Journal of the American Medical Association found that refusals of vitamin K shots nearly doubled between 2017 and 2024, from 2.9% to 5.2%."
     },
     {
       "source": "VentureBeat",
@@ -186,14 +186,6 @@
       "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
       "published_at": "2026-03-20T11:57:16+00:00",
       "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Mind-altering substances are (still) falling short in clinical trials",
-      "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-      "published_at": "2026-03-20T09:00:00+00:00",
-      "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, inclu"
     },
     {
       "source": "36氪",
@@ -258,22 +250,6 @@
       "url": "https://36kr.com/p/3731048121647361?f=rss",
       "published_at": null,
       "summary": "<p>3月20日，沐瞳科技发布公司内部信，宣布公司已被沙特阿拉伯主权财富基金全资控股的游戏巨头Savvy Games Group（简称Savvy）收购。</p>\n  <p>自字节游戏业务调整后，这场交易就早有传闻，去年底已经有了大致轮廓。双方在2025下半年正式启动谈判，并在2026年初围绕核心条款达成共识，最后Savvy以超60亿美元的价格收购沐瞳的全部股权。</p>\n  <p>这场交易距离字节收购沐瞳只有5年——彼时的收购价格为40亿美元，如果考虑到谈判和双方讨论时间，这个出售间隔可能更短。</p>\n  <p>而从内部信来看，此次交易后，沐瞳的管理结构仍旧保持不变，张云帆会继续担任沐瞳CE"
-    },
-    {
-      "source": "虎嗅",
-      "lang": "zh",
-      "title": "蔚小理纷纷盈利之后，战事升级",
-      "url": "http://www.huxiu.com/article/4843969.html?f=wangzhan",
-      "published_at": "2026-03-21T10:33:50+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/20/181459272060.jpg\" />\n<p><span class=\"text-remarks\" label=\"备注\">出品|虎嗅汽车组</span></p><p><span class=\"text-remarks\" label=\"备注\">作者|杨杰</span></p><p><span class=\"text-remarks\" label=\"备注\">头图|视觉中国</span></p><p><br /></p><p>2025年财报季，造车新势力的最后一块“亏损拼图”终于补"
-    },
-    {
-      "source": "虎嗅",
-      "lang": "zh",
-      "title": "不止霍尔木兹海峡，这些知名海峡也靠“过路费”爽挣",
-      "url": "http://www.huxiu.com/article/4843907.html?f=wangzhan",
-      "published_at": "2026-03-21T10:00:00+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/20/161953340555.jpeg\" />\n<p>这期视频，枪仔不聊打架的事，而是想带大家一起来盘盘，少数几个关键海峡通道是如何制造巨量财富、影响世界大局观的。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
     }
   ]
 }

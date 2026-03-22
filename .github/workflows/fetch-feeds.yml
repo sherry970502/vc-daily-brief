@@ -25,8 +25,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch Twitter/X feeds (via Nitter, may be unavailable)
+      - name: Fetch Twitter/X feeds
         run: python scripts/fetch_feeds.py
+        env:
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
 
       - name: Fetch news and Reddit feeds
         run: python scripts/fetch_news.py

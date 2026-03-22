@@ -1,17 +1,14 @@
 """
 fetch_feeds.py
-Fetches recent tweets from configured accounts via Nitter RSS feeds.
-Tries multiple Nitter instances as fallbacks.
-No API key required.
+Fetches recent tweets from configured accounts via Twitter API v2.
+Requires TWITTER_BEARER_TOKEN environment variable.
 """
 
 import json
 import os
 import time
 from datetime import datetime, timezone, timedelta
-from email.utils import parsedate_to_datetime
 
-import feedparser
 import requests
 
 # ── Config ─────────────────────────────────────────────────────────────────
@@ -20,84 +17,86 @@ ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT_DIR, "config", "accounts.json")
 OUTPUT_PATH = os.path.join(ROOT_DIR, "feed-x.json")
 
-# Nitter instances to try in order (fallback chain)
-NITTER_INSTANCES = [
-    "nitter.privacydev.net",
-    "nitter.poast.org",
-    "nitter.1d4.us",
-    "nitter.cz",
-]
+BEARER_TOKEN = os.environ.get("TWITTER_BEARER_TOKEN", "")
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; DailyBriefBot/1.0; RSS reader)"
+    "Authorization": f"Bearer {BEARER_TOKEN}",
+    "User-Agent": "DailyBriefBot/1.0",
 }
+
+API_BASE = "https://api.twitter.com/2"
 
 # ── Helpers ─────────────────────────────────────────────────────────────────
 
-def fetch_rss(username: str, hours_lookback: int) -> list[dict]:
-    """Try each Nitter instance until one returns a valid feed."""
+def get_user_id(username: str):
+    """Resolve @username to numeric user ID."""
+    url = f"{API_BASE}/users/by/username/{username}"
+    resp = requests.get(url, headers=HEADERS, timeout=10)
+    if resp.status_code != 200:
+        print(f"  ✗ @{username}: user lookup failed ({resp.status_code})")
+        return None
+    data = resp.json()
+    return data.get("data", {}).get("id")
+
+
+def fetch_tweets(username: str, user_id: str, hours_lookback: int, max_results: int = 5) -> list[dict]:
+    """Fetch recent tweets for a user via API v2."""
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_lookback)
+    start_time = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    for instance in NITTER_INSTANCES:
-        url = f"https://{instance}/{username}/rss"
-        try:
-            resp = requests.get(url, headers=HEADERS, timeout=10)
-            if resp.status_code != 200:
-                continue
+    url = f"{API_BASE}/users/{user_id}/tweets"
+    params = {
+        "max_results": min(max_results * 3, 100),  # fetch extra to filter RTs
+        "start_time": start_time,
+        "tweet.fields": "created_at,text",
+        "exclude": "retweets,replies",
+    }
 
-            feed = feedparser.parse(resp.content)
-            if not feed.entries:
-                continue
+    resp = requests.get(url, headers=HEADERS, params=params, timeout=10)
+    if resp.status_code != 200:
+        print(f"  ✗ @{username}: tweets fetch failed ({resp.status_code}) — {resp.text[:200]}")
+        return []
 
-            tweets = []
-            for entry in feed.entries:
-                # Parse publication date
-                pub_date = None
-                if hasattr(entry, "published"):
-                    try:
-                        pub_date = parsedate_to_datetime(entry.published)
-                        if pub_date.tzinfo is None:
-                            pub_date = pub_date.replace(tzinfo=timezone.utc)
-                    except Exception:
-                        pass
+    data = resp.json()
+    tweets_raw = data.get("data", [])
+    if not tweets_raw:
+        print(f"  ✓ @{username}: 0 tweets in last {hours_lookback}h")
+        return []
 
-                # Skip if older than lookback window
-                if pub_date and pub_date < cutoff:
-                    continue
+    tweets = []
+    for t in tweets_raw[:max_results]:
+        created_at = t.get("created_at")
+        tweets.append({
+            "created_at": created_at,
+            "text": t.get("text", "").strip(),
+            "url": f"https://x.com/{username}/status/{t['id']}",
+        })
 
-                # Skip retweets
-                title = entry.get("title", "")
-                if title.startswith("RT by "):
-                    continue
+    print(f"  ✓ @{username}: {len(tweets)} tweets")
+    return tweets
 
-                # Clean up content
-                text = entry.get("title", "")
-                if text.startswith(f"{username}:"):
-                    text = text[len(username) + 1:].strip()
-
-                tweets.append({
-                    "created_at": pub_date.isoformat() if pub_date else None,
-                    "text": text,
-                    "url": entry.get("link", ""),
-                })
-
-            print(f"  ✓ {len(tweets)} tweets via {instance}")
-            return tweets[:5]  # Max 5 per account
-
-        except Exception as e:
-            print(f"  — {instance} failed: {e}")
-            continue
-
-    print(f"  ✗ All Nitter instances failed for @{username}")
-    return []
 
 # ── Main ────────────────────────────────────────────────────────────────────
+
+if not BEARER_TOKEN:
+    print("✗ TWITTER_BEARER_TOKEN not set. Skipping X feed.")
+    output = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "period_hours": 48,
+        "tweet_count": 0,
+        "tweets": [],
+        "error": "TWITTER_BEARER_TOKEN not set",
+    }
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    exit(0)
 
 with open(CONFIG_PATH, "r") as f:
     config = json.load(f)
 
 accounts = config["vc_partners"] + config["founders_leaders"]
 hours_lookback = config["fetch_settings"]["hours_lookback"]
+tweets_per_account = config["fetch_settings"]["tweets_per_account"]
 
 results = []
 
@@ -105,7 +104,12 @@ for account in accounts:
     username = account["username"]
     print(f"Fetching @{username}...")
 
-    tweets = fetch_rss(username, hours_lookback)
+    user_id = get_user_id(username)
+    if not user_id:
+        time.sleep(1)
+        continue
+
+    tweets = fetch_tweets(username, user_id, hours_lookback, tweets_per_account)
     for tweet in tweets:
         results.append({
             "account": f"@{username}",
@@ -114,7 +118,7 @@ for account in accounts:
             **tweet,
         })
 
-    time.sleep(1)  # Be polite to Nitter instances
+    time.sleep(1)  # avoid rate limiting
 
 output = {
     "updated_at": datetime.now(timezone.utc).isoformat(),

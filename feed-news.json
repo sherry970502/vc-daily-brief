@@ -1,223 +1,295 @@
 {
-  "updated_at": "2026-03-23T07:06:14.607626+00:00",
+  "updated_at": "2026-03-24T07:00:53.942770+00:00",
   "period_hours": 48,
-  "article_count": 27,
+  "article_count": 36,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
-      "url": "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/",
-      "published_at": "2026-03-22T19:50:16+00:00",
-      "summary": "After four years, and multiple subpoenas and depositions, the beleaguered startup has dodged yet another bullet."
+      "title": "Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations",
+      "url": "https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/",
+      "published_at": "2026-03-24T05:26:20+00:00",
+      "summary": "After a whistleblower alleged that the startup fabricated audit evidence, its prominent Series A investor removed an article detailing why it led the deal."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Do you want to build a robot snowman?",
-      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "published_at": "2026-03-22T19:45:07+00:00",
-      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future."
+      "title": "Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick",
+      "url": "https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/",
+      "published_at": "2026-03-23T23:49:10+00:00",
+      "summary": "When asked whether he was still \"salty\" about about being shown the door at Uber, alongside co-founder Travis Kalanick, Michael didn't equivocate. \"I'll never forget that, nor forgive,\" he said."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-      "published_at": "2026-03-22T18:41:09+00:00",
-      "summary": "Building on top of a Chinese model feels particularly fraught right now."
+      "title": "Bengaluru food delivery startup Swish raises $38M, its third round in 18 months",
+      "url": "https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/",
+      "published_at": "2026-03-23T23:30:00+00:00",
+      "summary": "Swish has more than doubled its valuation in a year as its full-stack, hyperlocal model positions ultra-fast food delivery as a high-frequency habit."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-      "published_at": "2026-03-22T16:20:00+00:00",
-      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising."
+      "title": "Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund",
+      "url": "https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/",
+      "published_at": "2026-03-23T22:57:53+00:00",
+      "summary": "As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Uber everywhere, all at once",
-      "url": "https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/",
-      "published_at": "2026-03-22T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation."
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+      "published_at": "2026-03-23T22:36:39+00:00",
+      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
-      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "published_at": "2026-03-22T14:43:51+00:00",
-      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations."
+      "title": "Apple Maps may be about to get ads",
+      "url": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
+      "published_at": "2026-03-23T22:33:03+00:00",
+      "summary": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "published_at": "2026-03-22T12:00:00+00:00",
-      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal."
+      "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones",
+      "url": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/",
+      "published_at": "2026-03-23T20:42:41+00:00",
+      "summary": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity researchers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-      "published_at": "2026-03-22T06:20:43+00:00",
-      "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win."
+      "title": "Zipline snaps up another $200M to fuel its drone delivery expansion",
+      "url": "https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/",
+      "published_at": "2026-03-23T20:37:52+00:00",
+      "summary": "The funding adds to a previous round, announced in January,  that valued the drone startup at $7.6 billion."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "US Startup Funding Slows Sharply In March",
+      "url": "https://news.crunchbase.com/business/us-startup-funding-slows-march-2026-data/",
+      "published_at": "2026-03-23T17:36:14+00:00",
+      "summary": "The slowdown is almost entirely due to fewer giant AI megarounds closing this month."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Tax Credit Opportunities Startups Often Forget (And Why It Keeps Happening)",
+      "url": "https://news.crunchbase.com/startups/missed-state-federal-tax-credits-garba-burkland/",
+      "published_at": "2026-03-23T11:00:25+00:00",
+      "summary": "Startups often miss out on valuable tax credits because they lack processes to identify, document and claim them throughout the year, writes guest author Harrison Garba. By proactively integrating tax credit planning into hiring, operations and financial decisions, he says, companies can reduce cost"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets wait for Trump and Iran to follow through on Hormuz threats that carry potentially catastrophic results",
-      "url": "https://fortune.com/2026/03/22/stock-market-today-dow-futures-oil-prices-trump-strait-of-hormuz-deadline-iran-war/",
-      "published_at": "2026-03-22T23:57:59+00:00",
-      "summary": "NATO Secretary General Mark Rutte backed the Iran war and predicted the alliance would eventually come around to support it too."
+      "title": "Airlines are preparing for the worst as Iran war enters its fourth week. But demand is still strong, and travelers are willing to pay higher fares",
+      "url": "https://fortune.com/2026/03/24/airlines-airfare-oil-jet-fuel-prices-iran-war-traveler-demand-sales/",
+      "published_at": "2026-03-24T06:11:00+00:00",
+      "summary": "Despite threats to the global jet fuel supply, airline demand is high as ever. Expect that to hit your wallet soon."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Apple CEO praises China partners as Beijing applies pressure",
-      "url": "https://fortune.com/2026/03/22/apple-ceo-tim-cook-china-development-forum-partners-beijing-pressure/",
-      "published_at": "2026-03-22T23:23:12+00:00",
-      "summary": "“There is a Chinese proverb I love — ‘a single tree does not make a forest,’” Tim Cook said. “Together, I believe we can plant that forest.”"
+      "title": "Trump despises wind farms so much he’s paying a French energy giant $1 billion to stop building them and invest in natural gas instead",
+      "url": "https://fortune.com/2026/03/23/total-energies-offshore-wind-natural-gas-trump-agreement/",
+      "published_at": "2026-03-23T22:23:58+00:00",
+      "summary": "Speaking at the CERAWeek by S&#038;P Global event in Houston, TotalEnergies chairman and CEO Patrick Pouyanné said he is opting “not to litigate, but to make pragmatic solutions.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Pricier vet care: Fewer visits but still many $11,000 surgeries",
-      "url": "https://fortune.com/2026/03/22/veterinary-care-prices-pet-costs-visits-surgeries-dogs-cats/",
-      "published_at": "2026-03-22T21:53:46+00:00",
-      "summary": "The consumer price index for all urban consumers increased 2.4% in February from a year earlier, while pet services — including veterinary care — jumped 5.1%."
+      "title": "It took 200 years for national debt to hit $1 trillion. Annual interest alone now exceeds that—a ‘crushing legacy we must reverse,’ says budget chair",
+      "url": "https://fortune.com/2026/03/23/national-debt-budget-chair-warning-burden-article-v/",
+      "published_at": "2026-03-23T12:08:41+00:00",
+      "summary": "“Here’s the sad, sobering, and stunning truth: Despite the urgency of our fiscal crisis, Congress is paralyzed—unable to meet the urgency of the moment.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Project Hail Mary’ becomes Amazon’s highest-grossing film debut",
-      "url": "https://fortune.com/2026/03/22/project-hail-mary-opening-weekend-box-office-ticket-sales-amazon-mgm-highest-grossing-debut/",
-      "published_at": "2026-03-22T21:40:36+00:00",
-      "summary": "The film from Metro-Goldwyn-Mayer studio was the No. 1 film at the US and Canadian box office this weekend with $80.5 million worth of tickets."
+      "title": "Starbucks CEO admits the chain ‘ran like a manufacturing facility’",
+      "url": "https://fortune.com/2026/03/23/starbucks-ceo-brian-niccol-back-to-starbucks-ran-like-manufacturing-facility/",
+      "published_at": "2026-03-23T21:34:45+00:00",
+      "summary": "Brian Niccol said Starbucks isn’t really a coffee company, but it shouldn’t be a manufacturing company, either. The secret is something else."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Musk says Tesla, SpaceX, xAI chip project to kick off in Texas",
-      "url": "https://fortune.com/2026/03/22/musk-terafab-chip-project-tesla-spacex-xai-space-data-center-satellite/",
-      "published_at": "2026-03-22T21:33:29+00:00",
-      "summary": "Musk said his Terafab project — a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centers — will be built in Austin."
+      "title": "Putin is the real winner in Trump’s Iran war as it puts Russian oil back on the map",
+      "url": "https://fortune.com/2026/03/23/vladimir-putin-iran-war-oil-prices-donald-trump-middle-east-oil-crisis-hormuz-strait/",
+      "published_at": "2026-03-23T20:50:03+00:00",
+      "summary": "Washington's attempt to stabilize oil markets may be fueling the one economy it spent years trying to cripple."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Forest ‘bathing’ can reduce stress, improve mood, lower blood pressure and boost the immune system. Here’s how it’s done",
-      "url": "https://fortune.com/2026/03/22/forest-bathing-stress-mood-blood-pressure-immune-system/",
-      "published_at": "2026-03-22T21:23:31+00:00",
-      "summary": "“You know, in this day and age, there’s a lot of stress and anxiety and chaos. And people are searching for ways to kind of cope with that.”"
+      "title": "Bitcoin climbs as Trump grants five days for Iran negotiations",
+      "url": "https://fortune.com/2026/03/23/bitcoin-climbs-as-trump-grants-five-days-for-iran-negotiations/",
+      "published_at": "2026-03-23T20:27:33+00:00",
+      "summary": "The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "California sheriff running for governor seizes more than a half million ballots from 2025 election",
-      "url": "https://fortune.com/2026/03/22/california-sheriff-riverside-county-governor-candidate-half-million-ballots-seizure/",
-      "published_at": "2026-03-22T20:53:29+00:00",
-      "summary": "California Attorney General Rob Bonta, a Democrat, called Bianco's move unprecedented and says it is designed to sow distrust in elections."
+      "title": "Iran issues its largest-ever currency denomination as accelerating inflation ravages a financial sector deemed a ‘Ponzi scheme’ even before the war",
+      "url": "https://fortune.com/2026/03/23/iran-rial-largest-ever-currency-denomination-inflation-financial-sector-ponzi-scheme/",
+      "published_at": "2026-03-23T19:38:25+00:00",
+      "summary": "\"The regime simply cannot pivot to cash payments, there isn't enough physical currency in the system.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As Trump eyes climactic battle for Hormuz, he could give Iran a ‘taste of their own medicine’ with a naval blockade that implodes the economy",
-      "url": "https://fortune.com/2026/03/22/trump-battle-strait-hormuz-iran-war-naval-blockade-oil-exports-economy/",
-      "published_at": "2026-03-22T20:10:55+00:00",
-      "summary": "\"That might open up the Strait of Hormuz a lot faster than anything else.\""
+      "title": "What a cringe photo shoot really tells about the state of the crypto industry",
+      "url": "https://fortune.com/crypto/2026/03/23/vanity-fair-crypto-photo-shoot/",
+      "published_at": "2026-03-23T12:00:10+00:00",
+      "summary": "The Vanity Fair piece showcased the crypto aristocracy—for better and worse."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
+      "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
+      "published_at": "2026-03-24T02:16:00+00:00",
+      "summary": "<p>ByteDance, the Chinese tech giant behind TikTok, last month released what may be one of the most ambitious open-source AI agent frameworks to date: <a href=\"https://github.com/bytedance/deer-flow\">DeerFlow 2.0</a>. It&#x27;s now going viral across the machine learning community on social media. B"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Show us your agents: VB Transform 2026 is looking for the most innovative agentic AI technologies",
+      "url": "https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026",
+      "published_at": "2026-03-23T21:30:00+00:00",
+      "summary": "<p>The Innovation Showcase is back at <a href=\"https://venturebeat.com/vbtransform2026\">Transform 2026: The Orchestration of Enterprise Agentic AI at Scale</a>, taking place July 14 and 15 in Menlo Park.</p><p>This year, we are moving beyond generative AI to autonomous agents, focusing on enterprise"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "You thought the generalist was dead — in the 'vibe work' era, they're more important than ever",
       "url": "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more",
-      "published_at": "2026-03-22T19:00:00+00:00",
+      "published_at": "2026-03-23T19:00:00+00:00",
       "summary": "<p>Not long ago, the idea of being a “generalist” in the workplace had a mixed reputation. The stereotype was the “jack of all trades” who could dabble in many disciplines but was a “master of none.” And for years, that was more or less true. </p><p>Most people simply didn’t have access to the exper"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "The three disciplines separating AI agent demos from real-world deployment",
+      "url": "https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment",
+      "published_at": "2026-03-23T16:00:00+00:00",
+      "summary": "<p>Getting AI agents to perform reliably in production — not just in demos — is turning out to be harder than enterprises anticipated. Fragmented data, unclear workflows, and runaway escalation rates are slowing deployments across industries.</p><p>“The technology itself often works well in demonstr"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "Testing autonomous agents (Or: how I learned to stop worrying and embrace chaos)",
       "url": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace",
-      "published_at": "2026-03-22T16:00:00+00:00",
+      "published_at": "2026-03-23T16:00:00+00:00",
       "summary": "<p>Look, we&#x27;ve spent the last 18 months building production AI systems, and we&#x27;ll tell you what keeps us up at night — and it&#x27;s not whether the model can answer questions. That&#x27;s table stakes now. What haunts us is the mental image of an agent autonomously approving a six-figure"
     },
     {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "前五源投资人联手港大教授，想做一款AGI投资机器，获Monolith投资｜硬氪首发",
-      "url": "https://36kr.com/p/3734918559842560?f=rss",
-      "published_at": null,
-      "summary": "<p>硬氪获悉，AI投资技术公司Grace Investment Machine（以下简称GIM）近日完成数千万元天使轮融资，由Monolith和五源资本共同投资。本轮资金将主要用于自研金融大模型的技术迭代、数据与算力基础设施建设，以及全球化顶尖团队的持续扩张。值观资本后续担任独家财务顾问。</p>\n  <p>GIM成立于2025年7月，公司定位为下一代自进化智能体投资平台，希望通过多智能体架构，打造AGI时代的投资机器和资产管理平台，开创全新的AI资产管理类别，是全球首批探索Agentic Investing资管的新锐公司。</p>\n  <p>GIM的创始团队兼具投资实践与前沿AI研究背景，"
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Nvidia's Nemotron-Cascade 2 wins math and coding gold medals with 3B active parameters — and its post-training recipe is now open-source",
+      "url": "https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active",
+      "published_at": "2026-03-23T11:30:00+00:00",
+      "summary": "<p>The prevailing assumption in AI development has been straightforward: larger models trained on more data produce better results. Nvidia&#x27;s latest release directly challenges that size assumption — and the training recipe behind it may matter more to enterprise AI teams than the model itself."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Luma AI launches Uni-1, a model that outscores Google and OpenAI while costing up to 30 percent less",
+      "url": "https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while",
+      "published_at": "2026-03-23T08:00:00+00:00",
+      "summary": "<p>The AI image generation market has had an uncontested leader for months. Google&#x27;s Nano Banana family of models has set the standard for quality, speed, and commercial adoption, while competitors from OpenAI to Midjourney have jockeyed for second place. That hierarchy shifted on Sunday when <"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "published_at": "2026-03-23T16:31:20+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+      "published_at": "2026-03-23T12:17:33+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&#160; In early February, animal welfare advocates and AI researchers arrived in stocking fe"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "published_at": "2026-03-23T09:00:00+00:00",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "月薪3000的职校生，正在「干掉」北影导演",
-      "url": "https://36kr.com/p/3734101643706371?f=rss",
+      "title": "黑石加仓，热钱蓄势：2026 年中国商办投资迎来布局窗口期？",
+      "url": "https://36kr.com/p/3736572995813636?f=rss",
       "published_at": null,
-      "summary": "<p>文｜兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>“如果你在出生的时候没有劳斯莱斯，那么这辈子大概率都不会有了。”这是酱油动漫创始人黄浩南熟记于心的一句话。</p>\n  <p>他中专毕业，没有父母帮衬，只坚信一条信念，打工是不可能发财的，一定要抓住风口。所以在网文、短剧这些昔日风口中，都有过黄浩南的身影。做短剧后，他终于实现了阶层跨越，但那时酱油动漫仍籍籍无名，直到他又一头扎进漫剧的巨浪。</p>\n  <p>去年11月，酱油动漫的月收入超5000万元，已经是名副其实的赛道头部。作为公司创始人，黄浩南马不停蹄地奔走在各大平台的活动和投资人的饭局上，分享成功经验和商业见地。酱油动漫的"
+      "summary": "<h2><strong>01.遇事不决不动产</strong></h2>\n  <p>投资圈近期最热的话题，莫过于OpenAI、Anthropic即将IPO的消息。</p>\n  <p>一直以来，位于行业塔尖的企业总有着最高的确定性与最惊人的估值，更何况是风头正盛的人工智能。在最新一轮的融资后，OpenAI的估值已超过50000亿人民币，与门内顿足捶胸的英伟达相比，更苦闷的是门外守着的诸多顶级财团——</p>\n  <p>即便不谈全球范围的量化宽松，优质标的也远比寻找机会的热钱稀缺。</p>\n  <p>近日，全球最大的另类资产管理公司‌黑石集团也发布了2025年业绩。在2025年，黑石在管资产规模同"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发丨峰瑞资本投了家智能硬件公司，做空间三维重建，创始人为前群核科技副总裁",
-      "url": "https://36kr.com/p/3734855815184390?f=rss",
+      "title": "珀乐互动完成天使轮融资，以AI+IP重塑数字内容生态 | 36氪首发",
+      "url": "https://36kr.com/p/3735324365094918?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，三维重建与空间智能公司——杭州竹马创新科技有限公司（下称“竹马创新”）近日完成数千万天使轮融资。本轮融资由峰瑞资本领投，洪泰基金跟投，光智资本担任本轮独家财务顾问。资金将主要用于研发团队招聘、产品量产筹备及初期营销推广。</p>\n  <p>竹马创新成立于2025年11月，专注于消费级三维重建与空间智能产品。公司创始人兼CEO张吉，毕业于西安交通大学计算机系，拥有20余年3D图形行业经验。他曾任群核科技副总裁，负责推动公司从大家居向全空间战略转型，是群核科技首位同时负责产品与业务的高管，期间与蜜雪冰城、茶颜悦色、圣奥等"
+      "summary": "<p>36氪获悉，<strong>以AI为核心的数字内容公司珀乐互动科技（下称“珀乐互动”）已完成天使轮融资，金额为数千万元人民币。本轮投资由星连资本领投、春华创投跟投，资金将重点用于技术研发、团队扩充与IP商业化开发，全面加速公司多模态泛娱乐生态的战略布局。</strong></p>\n  <p>珀乐互动成立于2025年，是一家聚焦于“AI+IP”融合模式的科技公司。其核心业务是通过自研技术中台，将AI大模型能力深度应用于IP的开发、运营与衍生环节，提升全链条效率。</p>\n  <p>公司核心团队汇集了AI、影视创作、数字内容制作等多领域的人才。创始人杨晟曾参与制作多部影视作品，也曾监制Ste"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
-      "url": "https://36kr.com/p/3734094940504073?f=rss",
+      "title": "36氪首发 | 斯坦福博士做分子检测平台，产品已进入北大、清华",
+      "url": "https://36kr.com/p/3735674146865160?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260323/v2_2f8a897e3eff49a6b9702dde9c2e30c8@6310690_oswg7204751oswg3668oswg1708_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图为轻舟智航</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜李勤</p>\n  <p>36氪获悉，轻舟智航（QC"
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，广州洞察科技有限公司（以下简称“洞察科技”）于近日完成数千万元Pre-A轮融资。本轮融资由联想创投领投，力合金融、哇牛资本跟投，老股东天图资本和雅亿资本持续加注，芯湃资本担任本轮财务顾问。融资资金将用于晶圆级超高密度打孔机、超薄膜材料以及基因测序仪商业机的研发。</p>\n  <p>固态纳米孔是一种以半导体工艺为基础的单分子传感平台。相比传统方案，该技术结构简洁，无需复杂的扩增与标记步骤，能够直接测量生物大分子的本征物理属性。在基因测序、癌症早筛和单分子分析中潜力巨大。"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "「食气生化」获超亿元融资，中试装置运行过万小时，五万吨级项目获备案 | 36氪首发",
-      "url": "https://36kr.com/p/3727983704243078?f=rss",
+      "title": "36氪首发 | 红杉、明势给远距影像硬件公司投资千万美金，创始人为前海康萤石产品负责人",
+      "url": "https://36kr.com/p/3735669905670408?f=rss",
       "published_at": null,
-      "summary": "<p>36氪获悉，生物制造企业「食气生化」近日完成超亿元融资，最新投资方包括上海科创知识产权基金和天创资本。本轮融资将重点用于推进公司从中试向产业化的关键跨越。此前，公司曾获得博远资本、腾讯、前海母基金、南创投等机构投资。</p>\n  <p>食气生化成立于2023年1月，专注于一碳生物转化与气体发酵技术开发。联合创始人闻志强、汪庆卓，博士期间为中科院合成生物学重点实验室同门师兄弟。其所在课题组曾服务百余项工业化项目，在气体发酵和一碳生物转化技术研发领域有着近二十年的深厚积累。</p>\n  <p>刚刚结束的2026年全国两会上，《政府工作报告》首次将“单位GDP二氧化碳排放降低3.8%左右”列为"
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，聚焦远距影像场景的科技创新团队「大览科技」，在一个月内连续完成天使轮及Pre-A轮融资，融资金额达千万美元。</p>\n  <p>融资由红杉中国、明势创投领投，老股东嘉程资本持续跟投。融资资金将主要用于核心产品研发、供应链和组织建设。当前，「大览」核心产品已进入面向量产的关键推进阶段，并持续引入影像算法、软硬件开发及市场营销等关键人才。</p>\n  <p>资本押注的背后，是远距影像正在展现出的巨大消费潜力。vivo前不久在2026 年世界移动通信大会(MWC 2026)"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
-      "url": "https://36kr.com/p/3734758253887744?f=rss",
+      "title": "小米新SU7上市72小时：客流被稀释，要拼产品硬功夫",
+      "url": "https://36kr.com/p/3730744534253570?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>多地中小银行集中清理沉睡账户，已有超7家银行发布公告</p>\n  <p>全球首个脑机接口创新产品获得医保编码</p>\n  <p>微信推出官方龙虾插件</p>\n  <p>美药管局在全美召回近9万瓶儿童布洛芬药物</p>\n  <p>日媒：中国车企全球销量20多年来首次超日本居榜首</p>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>上市公司董事长病逝，未成年女儿继承9亿元股票</strong></p>\n  <p>3月20日晚间，大北农发布关于控股股东、实际控制人变更暨权益变动的提示性公告。</p>\n  <p>公司原实际控制人、董事长邵"
+      "summary": "<p>两年前，36氪曾报道过<a href=\"https://mp.weixin.qq.com/s?__biz=Mzg3Nzg1MDk2MA==&amp;mid=2247485908&amp;idx=1&amp;sn=62e33181175682b8947c26291d7632be&amp;scene=21#wechat_redirect\" rel=\"noopener noreferrer\" target=\"_blank\">小米第一代SU7上市后的门店盛况</a>。</p>\n  <p>那是一个周五，在北京某大型商场门店，一辆海湾蓝的小米SU7，在白天9小时内，接待了近60名意向车主的试驾。</"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "华晨宇进军日化家居赛道，与小阔集团共同创立品牌「重点」｜项目报道",
-      "url": "https://36kr.com/p/3733991155400965?f=rss",
+      "title": "8点1氪丨13年来首次，国家对油价临时调控；影石回应被大疆起诉；雷军称小米新一代SU7锁单超过3万台",
+      "url": "https://36kr.com/p/3736178996658435?f=rss",
       "published_at": null,
-      "summary": "<p>3 月 22 日，小阔集团携手华晨宇正式推出全新日化家居品牌「重点」，华晨宇出任品牌联合创始人。</p>\n  <p>此次华晨宇的加入并非传统的品牌代言，而是形成了深度的绑定。从股权结构来看，「重点」的运营主体为深圳华阔生物科技有限公司，其中小阔集团旗下子公司深圳星阔生物科技有限公司持股 70%，华晨宇控股的上海圣恒鸿音文化传播有限公司持股 20%，北京云上万家科技有限公司持股 10%。</p>\n  <p>在消费理念不断迭代的当下，日化行业早已脱离单纯的基础功能满足阶段，消费者对产品的成分、功效、使用体验乃至情绪价值都提出了更高要求，需求精细化、场景细分化、体验个性化成为行业显著趋势。正是"
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>国内金价跌破千元关口，品牌金饰集体降价</li>\n   <li>寿司郎回应门头沟店金枪鱼异物事件</li>\n   <li>阿里3月24日或将发布重要芯片产品</li>\n   <li>2026人形机器人半程马拉松4月开跑</li>\n   <li>雀巢CEO回应蓝瓶咖啡出售传闻</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>13年来首次，国家对油价临时调控</strong></p>\n  <p>记者从国家发展改革委获悉：3月9日国内成品油价格调整以来，受美以伊冲突加剧影响，国际市场原油价格大幅上"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "用AI让游戏更好玩，只是腾讯关心的第二个问题",
-      "url": "https://36kr.com/p/3734107862073606?f=rss",
+      "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
+      "url": "https://36kr.com/p/3735459789242375?f=rss",
       "published_at": null,
-      "summary": "<p>文｜兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>3月19日，腾讯发布了2025年全年以及Q4的财报，表现依然稳健。其中，游戏仍是腾讯的基本盘业务，贡献了超30%的收入。</p>\n  <p>2025年，腾讯本土市场游戏的收入为1642亿元，同比增长18%，得益于《三角洲行动》的强劲表现，以及《王者荣耀》、《和平精英》等长青游戏及《无畏契约》系列(个人电脑端及移动端)的收入增长。</p>\n  <p>国际市场游戏收入为774亿元，同比增长33%，得益于 Supercell 旗下游戏及《PUBG MOBILE》的收入增长，以及《鸣潮》 的增量收入贡献。</p>\n  <p>回顾过去一年，"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><strong>双林股份港股上市获中国证监会备案</strong></p>\n  <p>36氪获悉，中国证监会国际合作司发布关于双林股份有限公司境外发行上市备案通知书，公司拟发行不超过89,697,300股境外上市普通股并在香港联合交易所上市。</p>\n  <p><strong>宝盖新材料港股IPO获中国证监会备案</strong></p>\n  <p>36氪获悉，中国证监会国际合作司发布关于山东宝盖新材料科技股份有限公司境外发行上市备案通知书，公司拟发行不超过16,640,500股境外上市普通股并在香港联合交易所上市。</p"
     },
     {
-      "source": "虎嗅",
+      "source": "36氪",
       "lang": "zh",
-      "title": "股票大涨前一定会出现这4个特征？20万点赞，100万播放，收割主力庄家的策略靠谱吗?",
-      "url": "http://www.huxiu.com/article/4843868.html?f=wangzhan",
-      "published_at": "2026-03-22T20:00:00+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/20/145918244333.jpg\" />\n<p>指标可以造假，K线可以画图，成交量也可以是骗散户入坑的陷阱。但有这么一个策略，无论操盘手多厉害，主力资金多强大，都不可能同时制造出策略中包含的4大信号，而一旦这些信号一起出现，股票都会迎来大涨，买进去后等着数涨停板就完事了，这样的策略你心动了吗？</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人"
+      "title": "36氪AI测评小程序重磅上线！帮你pick最适合自己的AI神器！",
+      "url": "https://36kr.com/p/3735404612370441?f=rss",
+      "published_at": null,
+      "summary": "<p>这个春天，一打开手机，全网似乎都开始“养龙虾”了。</p>\n  <p>只是从“养龙虾”再到“卸龙虾”，AI应用圈的的变化速度超乎想象。</p>\n  <p>AI应用大批涌现的当下，跟风实在易踩坑。</p>\n  <p>AI遍地走，到底谁靠谱？</p>\n  <p>别急，36氪AI测评来帮你！</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260323/v2_f9002e423e354a2082556caa37bd67c5@5284654_oswg6453oswg1080oswg144_img"
     }
   ]
 }

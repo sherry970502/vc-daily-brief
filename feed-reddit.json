@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T06:59:38.066120+00:00",
+  "updated_at": "2026-03-25T12:26:01.598731+00:00",
   "post_count": 48,
   "posts": [
     {
@@ -70,8 +70,20 @@
     },
     {
       "subreddit": "r/startups",
-      "title": "Entrepreneur who travels constantly: I will not promote something I built for hotel sleep - need brutal honesty (not an/another/AI app)",
-      "url": "https://www.reddit.com/r/startups/comments/1s33a82/entrepreneur_who_travels_constantly_i_will_not/",
+      "title": "Built simple gift card app - deciding whether to keep going (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1s38osf/built_simple_gift_card_app_deciding_whether_to/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/startups",
+      "title": "[Pre-Seed] I will not promote, Navigating a SaaS-obsessed market with a \"Local AI-first\" desktop dev tool. How are you pitching local architecture?",
+      "url": "https://www.reddit.com/r/startups/comments/1s38943/preseed_i_will_not_promote_navigating_a/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/startups",
+      "title": "i will not promote- are business cards dead?",
+      "url": "https://www.reddit.com/r/startups/comments/1s387bs/i_will_not_promote_are_business_cards_dead/",
       "created_at": null
     },
     {
@@ -87,18 +99,6 @@
       "created_at": null
     },
     {
-      "subreddit": "r/startups",
-      "title": "How are you handling access reviews for SOC2? Ours was surprisingly manual (i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1s2nzre/how_are_you_handling_access_reviews_for_soc2_ours/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/startups",
-      "title": "I've learned way more about market research and outbound than I ever thought I would (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1s23roi/ive_learned_way_more_about_market_research_and/",
-      "created_at": null
-    },
-    {
       "subreddit": "r/ycombinator",
       "title": "Spring '26 Megathread",
       "url": "https://www.reddit.com/r/ycombinator/comments/1q5so7y/spring_26_megathread/",
@@ -108,6 +108,12 @@
       "subreddit": "r/ycombinator",
       "title": "YC Resources {Please read this first!}",
       "url": "https://www.reddit.com/r/ycombinator/comments/12z5k88/yc_resources_please_read_this_first/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/ycombinator",
+      "title": "What do you think of my startup idea?/ How should I promote it?",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1s397h0/what_do_you_think_of_my_startup_idea_how_should_i/",
       "created_at": null
     },
     {
@@ -141,12 +147,6 @@
       "created_at": null
     },
     {
-      "subreddit": "r/ycombinator",
-      "title": "Joining a startup as a Founding Engineer after big tech",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1s0ux2n/joining_a_startup_as_a_founding_engineer_after/",
-      "created_at": null
-    },
-    {
       "subreddit": "r/artificial",
       "title": "Open-source AI system on a $500 GPU outperforms Claude Sonnet on coding benchmarks",
       "url": "https://www.reddit.com/r/artificial/comments/1s2yg3y/opensource_ai_system_on_a_500_gpu_outperforms/",
@@ -160,14 +160,20 @@
     },
     {
       "subreddit": "r/artificial",
+      "title": "How AI is helping geologists identify thousands of slopes at high risk of slipping",
+      "url": "https://www.reddit.com/r/artificial/comments/1s33jxs/how_ai_is_helping_geologists_identify_thousands/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "url": "https://www.reddit.com/r/artificial/comments/1s2y0gy/turboquant_redefining_ai_efficiency_with_extreme/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Three companies shipped \"AI agent on your desktop\" in the same two weeks. That's not a coincidence.",
-      "url": "https://www.reddit.com/r/artificial/comments/1s2ddgb/three_companies_shipped_ai_agent_on_your_desktop/",
+      "title": "Put Claude to work on your computer",
+      "url": "https://www.reddit.com/r/artificial/comments/1s389sx/put_claude_to_work_on_your_computer/",
       "created_at": null
     },
     {
@@ -178,20 +184,14 @@
     },
     {
       "subreddit": "r/artificial",
-      "title": "I tested ChatGPT vs Claude vs Gemini for coding ...here's what I found",
-      "url": "https://www.reddit.com/r/artificial/comments/1s2ovhc/i_tested_chatgpt_vs_claude_vs_gemini_for_coding/",
+      "title": "Three companies shipped \"AI agent on your desktop\" in the same two weeks. That's not a coincidence.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s2ddgb/three_companies_shipped_ai_agent_on_your_desktop/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "How AI is helping geologists identify thousands of slopes at high risk of slipping",
-      "url": "https://www.reddit.com/r/artificial/comments/1s33jxs/how_ai_is_helping_geologists_identify_thousands/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/artificial",
-      "title": "I wrote a contract to stop AI from guessing when writing code",
-      "url": "https://www.reddit.com/r/artificial/comments/1s2eimz/i_wrote_a_contract_to_stop_ai_from_guessing_when/",
+      "title": "SOTA models at 2K tps",
+      "url": "https://www.reddit.com/r/artificial/comments/1s35v12/sota_models_at_2k_tps/",
       "created_at": null
     },
     {
@@ -208,14 +208,20 @@
     },
     {
       "subreddit": "r/SaaS",
-      "title": "You're not building a SaaS. You're avoiding getting a job and calling it entrepreneurship.",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s2butb/youre_not_building_a_saas_youre_avoiding_getting/",
+      "title": "Honest numbers from a failed SaaS. 18 months. $3,200 peak MRR. Shutting down next week.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s33lm3/honest_numbers_from_a_failed_saas_18_months_3200/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "We just turned three. Revenue per employee is $127K. I'm told that's low. Feels fine from the inside.",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s2y7fq/we_just_turned_three_revenue_per_employee_is_127k/",
+      "title": "Landed my biggest high-ticket contract of the year because I was listening at 2 AM.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s342b3/landed_my_biggest_highticket_contract_of_the_year/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/SaaS",
+      "title": "Need an effective token-based billing solution for our ai saas platform",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s38um2/need_an_effective_tokenbased_billing_solution_for/",
       "created_at": null
     },
     {
@@ -226,20 +232,14 @@
     },
     {
       "subreddit": "r/SaaS",
-      "title": "I Built an AI-Powered Tool to Give Founders the Perks They Actually Need",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s31rdl/i_built_an_aipowered_tool_to_give_founders_the/",
+      "title": "We just turned three. Revenue per employee is $127K. I'm told that's low. Feels fine from the inside.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s2y7fq/we_just_turned_three_revenue_per_employee_is_127k/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "Enterprise came early",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s2oeyx/enterprise_came_early/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/SaaS",
-      "title": "What’s one thing you wish you knew before starting your SaaS?",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s30c7w/whats_one_thing_you_wish_you_knew_before_starting/",
+      "title": "You're not building a SaaS. You're avoiding getting a job and calling it entrepreneurship.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s2butb/youre_not_building_a_saas_youre_avoiding_getting/",
       "created_at": null
     },
     {

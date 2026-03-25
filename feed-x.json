@@ -1,24 +1,8 @@
 {
-  "updated_at": "2026-03-25T06:58:39.477911+00:00",
+  "updated_at": "2026-03-25T12:24:59.704961+00:00",
   "period_hours": 48,
   "tweet_count": 94,
   "tweets": [
-    {
-      "account": "@paulg",
-      "name": "Paul Graham",
-      "org": "Y Combinator",
-      "created_at": "2026-03-23T12:16:33.000Z",
-      "text": "Someone asked what advice founders ignore. That they:\n\n1. Should change their name.\n\n2. Should launch fast.\n\n3. Shouldn't treat fundraising as success.\n\n4. Shouldn't assume they can raise because it's time to.\n\n5. Should fire bad people quickly.\n\n6. Shouldn't talk to acquirers.",
-      "url": "https://x.com/paulg/status/2036054489942175864"
-    },
-    {
-      "account": "@paulg",
-      "name": "Paul Graham",
-      "org": "Y Combinator",
-      "created_at": "2026-03-23T07:27:33.000Z",
-      "text": "I'm the guest on the latest Social Radars episode:\n\nhttps://t.co/xQiAp1QtTg",
-      "url": "https://x.com/paulg/status/2035981761260273845"
-    },
     {
       "account": "@sama",
       "name": "Sam Altman",
@@ -50,6 +34,14 @@
       "created_at": "2026-03-23T17:47:10.000Z",
       "text": "I have loved being on the Helion board; I continue to be extremely excited about a future with abundant energy and Helion in particular.\n\nAs Helion and OpenAI start to explore working together at significant scale, it is difficult for me to be on both boards. (I will have a https://t.co/hbc82a8mPG",
       "url": "https://x.com/sama/status/2036137695605563682"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-03-25T09:47:32.000Z",
+      "text": "Everything costs less than the cost of high speed rail from SF to LA, which is infinite. https://t.co/phGhvdGxYd",
+      "url": "https://x.com/pmarca/status/2036741766339289304"
     },
     {
       "account": "@pmarca",
@@ -311,6 +303,14 @@
       "account": "@naval",
       "name": "Naval Ravikant",
       "org": "AngelList",
+      "created_at": "2026-03-25T11:34:11.000Z",
+      "text": "Make your own App Store. https://t.co/Jd3QfhWaCm https://t.co/RIBSTmGfc7",
+      "url": "https://x.com/naval/status/2036768607074406606"
+    },
+    {
+      "account": "@naval",
+      "name": "Naval Ravikant",
+      "org": "AngelList",
       "created_at": "2026-03-24T15:38:19.000Z",
       "text": "The only book an entrepreneur needs. https://t.co/vsaFTmo3Li",
       "url": "https://x.com/naval/status/2036467656371609976"
@@ -375,6 +375,22 @@
       "account": "@gregisenberg",
       "name": "Greg Isenberg",
       "org": "Late Checkout",
+      "created_at": "2026-03-25T12:19:44.000Z",
+      "text": "do yourself a favor\n\nlearn to get good with ai\npick a niche \nbuild distribution\nbuild apps or agents as a service\nmake something so useful then expand around that behavior\n\n99% of people will read this and do nothing\n1% will read this and do their future selves a favor\n\ni don't",
+      "url": "https://x.com/gregisenberg/status/2036780068664451192"
+    },
+    {
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
+      "created_at": "2026-03-25T12:08:46.000Z",
+      "text": "microsoft teams being the #1 chat tool for enterprises is all the proof you need that distribution is *almost* everything https://t.co/9CnWF4BboO",
+      "url": "https://x.com/gregisenberg/status/2036777307654725814"
+    },
+    {
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
       "created_at": "2026-03-24T20:36:08.000Z",
       "text": "how to use firecrawl to give your AI eyes and actually build startups that outperform 99% of apps:\n\n1. your AI is smart but blind. it can't go to a website, read a page, or grab data on its own. firecrawl fixes that. you put in a URL. you get back clean markdown, structured JSON, https://t.co/pa0znBCGnW",
       "url": "https://x.com/gregisenberg/status/2036542601617350709"
@@ -394,22 +410,6 @@
       "created_at": "2026-03-24T01:33:24.000Z",
       "text": "Hello Clawdbot https://t.co/7qBdzwG6Bf",
       "url": "https://x.com/gregisenberg/status/2036255025354125470"
-    },
-    {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
-      "created_at": "2026-03-24T01:29:54.000Z",
-      "text": "the craziest part is how obvious new versions of old businesses start to look once you see them through an ai lens https://t.co/froiWwOh19",
-      "url": "https://x.com/gregisenberg/status/2036254142922903680"
-    },
-    {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
-      "created_at": "2026-03-23T16:52:56.000Z",
-      "text": "in a world of INFINITE content, infinite choice, infinite scroll, people are starting to want things that END\n\n- finite formats\n- physical products\n- no ai, no internet \n- clear boundaries\n\nthere’s a real shift here and it’s going to create massive companies\n\nhere we go https://t.co/vhGsrTwFSb",
-      "url": "https://x.com/gregisenberg/status/2036124044857065529"
     },
     {
       "account": "@venturetwins",
@@ -479,17 +479,25 @@
       "account": "@rabois",
       "name": "Keith Rabois",
       "org": "Founders Fund / Khosla Ventures",
-      "created_at": "2026-03-24T18:38:23.000Z",
-      "text": "The Speaker addresses Hill &amp; Valley. https://t.co/zNorhc45qH",
-      "url": "https://x.com/rabois/status/2036512969769525634"
-    },
-    {
-      "account": "@rabois",
-      "name": "Keith Rabois",
-      "org": "Founders Fund / Khosla Ventures",
       "created_at": "2026-03-24T10:25:58.000Z",
       "text": "Sharp analysis. https://t.co/GmgAJPVZhh",
       "url": "https://x.com/rabois/status/2036389049229856998"
+    },
+    {
+      "account": "@balajis",
+      "name": "Balaji Srinivasan",
+      "org": "Independent",
+      "created_at": "2026-03-25T07:15:54.000Z",
+      "text": "@phl43 Yes. And I admire that, and back many of those projects.\n\nIn an ideal world, the focus should return to building up oneself. What they call a \"rebuilding era\" in sports. But we aren't in that ideal world...\nhttps://t.co/jWiSd6wgwp",
+      "url": "https://x.com/balajis/status/2036703606758662165"
+    },
+    {
+      "account": "@balajis",
+      "name": "Balaji Srinivasan",
+      "org": "Independent",
+      "created_at": "2026-03-25T07:08:51.000Z",
+      "text": "Btw: this isn't meant to be a dunk on @phl43, as I know what he meant. He's saying the (inherited) logistics infrastructure of the US is so impressive that it can seemingly wage endless wars overseas without any impact on the homefront.\n\nAnd that has indeed been the case in the https://t.co/xmgplonXSo",
+      "url": "https://x.com/balajis/status/2036701830806196567"
     },
     {
       "account": "@balajis",
@@ -516,20 +524,12 @@
       "url": "https://x.com/balajis/status/2036571457459986942"
     },
     {
-      "account": "@balajis",
-      "name": "Balaji Srinivasan",
-      "org": "Independent",
-      "created_at": "2026-03-24T19:48:44.000Z",
-      "text": "How does Elon do it?\nThis is the first book that studies that.\nIt summarizes how he operates.\nSome is of course intrinsic to Elon.\nBut some might be learned.\nBy you, if you read this.\nCheck it out: https://t.co/u9MR80sWtJ https://t.co/sLtx5WvwjI https://t.co/zNRGOZpW2p",
-      "url": "https://x.com/balajis/status/2036530673679474842"
-    },
-    {
-      "account": "@balajis",
-      "name": "Balaji Srinivasan",
-      "org": "Independent",
-      "created_at": "2026-03-24T06:49:24.000Z",
-      "text": "Libertarianism in theory requires Lee Kuan Yew in practice.\n\nOrder and borders are prerequisites for liberty and prosperity.\n\nTolerance and internationalism enables trade and capitalism.\n\nPragmatism about the scope of the state minimizes the scope of the state.",
-      "url": "https://x.com/balajis/status/2036334549718933713"
+      "account": "@rrhoover",
+      "name": "Ryan Hoover",
+      "org": "Weekend Fund",
+      "created_at": "2026-03-25T09:33:05.000Z",
+      "text": "How has no one revived the Silicon Valley TV show using AI?",
+      "url": "https://x.com/rrhoover/status/2036738130275889418"
     },
     {
       "account": "@rrhoover",

@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-03-25T06:59:28.217188+00:00",
+  "updated_at": "2026-03-25T12:25:51.878753+00:00",
   "period_hours": 48,
   "article_count": 40,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "published_at": "2026-03-25T11:00:00+00:00",
+      "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -60,12 +68,12 @@
       "summary": "The six startups were selected from over 2,000 applications and will receive $500,000 to $2 million each."
     },
     {
-      "source": "TechCrunch",
+      "source": "Crunchbase News",
       "lang": "en",
-      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-      "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-      "published_at": "2026-03-24T22:22:57+00:00",
-      "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm."
+      "title": "Data: OpenAI Has Already Done Nearly As Many M&A Deals In 2026 As It Did All of Last Year",
+      "url": "https://news.crunchbase.com/ma/data-openai-2023-2026-acquisitions-open-source-astral-promptfoo/",
+      "published_at": "2026-03-25T11:00:05+00:00",
+      "summary": "San Francisco-based OpenAI has turned to M&#038;A to boost its offerings and stay ahead of its rivals through acquisitions, which total 17 companies in the past three years, Crunchbase data shows."
     },
     {
       "source": "Crunchbase News",
@@ -84,76 +92,68 @@
       "summary": "The slowdown is almost entirely due to fewer giant AI megarounds closing this month."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "The Tax Credit Opportunities Startups Often Forget (And Why It Keeps Happening)",
-      "url": "https://news.crunchbase.com/startups/missed-state-federal-tax-credits-garba-burkland/",
-      "published_at": "2026-03-23T11:00:25+00:00",
-      "summary": "Startups often miss out on valuable tax credits because they lack processes to identify, document and claim them throughout the year, writes guest author Harrison Garba. By proactively integrating tax credit planning into hiring, operations and financial decisions, he says, companies can reduce cost"
+      "title": "AI robots could cost $13,000 by 2035: Here’s what that means for CFOs",
+      "url": "https://fortune.com/2026/03/25/ai-robots-cost-13000-by-2035-what-that-means-for-cfos/",
+      "published_at": "2026-03-25T11:57:05+00:00",
+      "summary": "How finance chiefs can turn AI's physical frontier into a competitive advantage."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Attempted corporate murder’: Judge calls on Anthropic and Department of War to explain dispute over supply chain risk",
-      "url": "https://fortune.com/2026/03/24/anthropic-hegseth-trump-risk-ai-court-ruling/",
-      "published_at": "2026-03-25T01:13:25+00:00",
-      "summary": "District Judge Rita Lin will issue a ruling on Anthropic’s legal challenge “in the next few days,” she said on Tuesday."
+      "title": "On Iran, Trump is open to a deal but he also has ‘a fist, waiting to punch you in the [expletive] face,’ White House insider says",
+      "url": "https://fortune.com/2026/03/25/iran-trump-peace-deal-fist-waiting-to-punch-you-in-the-face/",
+      "published_at": "2026-03-25T11:23:12+00:00",
+      "summary": "Everything you need to know before you reach the office this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Cambridge Mobile Telematics secures $350 million from TPG, Allianz to make driving safer",
-      "url": "https://fortune.com/2026/03/24/exclusive-cambridge-mobile-telematics-secures-350-million-from-tpg-allianz-to-make-driving-safer/",
-      "published_at": "2026-03-24T11:00:00+00:00",
-      "summary": "The investment highlights how insurers are using real-time driving data and AI to price risk, prevent accidents, and improve road safety at scale."
+      "title": "Larry Fink says the Iran war ends in one of two extremes: Abundance, growth, and oil at $40 a barrel—or global recession and years of oil at $150",
+      "url": "https://fortune.com/2026/03/25/larry-fink-iran-war-oil-prices-two-extremes-recession-growth/",
+      "published_at": "2026-03-25T11:48:40+00:00",
+      "summary": "\"I could paint a scenario where I could see, a year from now, oil at $40 a barrel, I could see it above $150—we have two very extreme outcomes,\" Fink told the BBC this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Russia is the only one responsible’: Moldova imposes 60-day energy emergency after Russian strikes in Ukraine",
-      "url": "https://fortune.com/2026/03/24/russia-ukraine-war-moldova-energy-disconnected/",
-      "published_at": "2026-03-24T21:09:41+00:00",
-      "summary": "A Russian strike on Ukraine disconnected a key power line linking Moldova to Romania."
+      "title": "The growing problem of ‘tech addiction’ spawns a new detox economy",
+      "url": "https://fortune.com/2026/03/25/the-growing-problem-of-tech-addiction-spawns-a-new-detox-economy/",
+      "published_at": "2026-03-25T11:00:59+00:00",
+      "summary": "On the iPad at 6, in rehab at 21."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran, the $39 trillion national debt and dedollarization: How Trump exposed America’s Achilles Heel in Hormuz",
-      "url": "https://fortune.com/2026/03/24/iran-hormuz-petrodollar-national-debt-trump/",
-      "published_at": "2026-03-24T21:02:56+00:00",
-      "summary": "With the national debt at $39 trillion and dollar dominance already at a 30-year low, the petrodollar system is more visible—and threatened—than ever."
+      "title": "The youngest-ever female Fortune 500 CEO is reinventing the largest Medicaid insurer amid funding cuts and rising costs",
+      "url": "https://fortune.com/2026/03/25/centene-ceo-sarah-london-medicaid-funding-cuts-rising-costs/",
+      "published_at": "2026-03-25T10:31:37+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How COVID turned America against science — and what it will take to win it back",
-      "url": "https://fortune.com/2026/03/24/covid-war-on-science-harvard-brown-book-fauci-trump-vaccines/",
-      "published_at": "2026-03-24T09:00:00+00:00",
-      "summary": "Tony Fauci was not just jerking the country around."
+      "title": "10 a.m. could be your new start time, thanks to AI. Billionaire Mark Cuban says companies will cut the workday by an hour—and you’ll still get paid the same",
+      "url": "https://fortune.com/2026/03/24/mark-cuban-says-ai-will-cut-workday-by-an-hour-still-get-paid-the-same-9-to-5-over-workweek/",
+      "published_at": "2026-03-24T07:03:00+00:00",
+      "summary": "Imagine clocking off an hour earlier every single day and still taking home the same salary. Billionaire Mark Cuban says it's coming, thanks to AI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "ICE agents can make twice the salary of TSA employees—and economists warn their pay is more ‘shutdown proof’ than other government jobs",
-      "url": "https://fortune.com/2026/03/24/how-much-do-ice-agents-make-compared-to-tsa-salary-government-shutdown/",
-      "published_at": "2026-03-24T20:41:29+00:00",
-      "summary": "The starting salary for a TSA agent is $34,454, while most make between $46,000 and $55,000 per year."
+      "title": "Our retirement system gets a C-plus; policymakers have an opportunity to make it A grade",
+      "url": "https://fortune.com/2026/03/25/retirement-system-401k-not-enough-forecast-fixes/",
+      "published_at": "2026-03-25T09:00:00+00:00",
+      "summary": "From automatic enrollment gaps to shelved pension reforms, Here are the policy changes that could help millions of Americans retire with confidence."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI agents are getting more capable, but reliability is lagging—and that’s a problem",
-      "url": "https://fortune.com/2026/03/24/ai-agents-are-getting-more-capable-but-reliability-is-lagging-narayanan-kapoor/",
-      "published_at": "2026-03-24T20:18:47+00:00",
-      "summary": "Most AI vendors don't benchmark for reliability. A new benchmark from Princeton researchers does."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Americans spend $146 billion and 11.6 billion hours doing their taxes, and most of it is just filling out paperwork",
-      "url": "https://fortune.com/2026/03/24/tax-compliance-cost-americans-2026/",
-      "published_at": "2026-03-24T19:57:01+00:00",
-      "summary": "There are more than 10,000 forms you have to sort through to file your taxes, and the fear of going to jail over a mistake has never been higher."
+      "title": "Goldman raises recession odds to 30% on higher inflation, lower GDP outlook as oil prices surge",
+      "url": "https://fortune.com/2026/03/25/will-there-be-recession-goldman-forecast-oil-price-inflation-economy/",
+      "published_at": "2026-03-25T08:27:34+00:00",
+      "summary": "Goldman said it expected six weeks of Hormuz disruption, with Brent crude averaging $105 per barrel in March and $115 in April before retreating to $80."
     },
     {
       "source": "VentureBeat",
@@ -214,6 +214,22 @@
     {
       "source": "MIT Tech Review",
       "lang": "en",
+      "title": "Agentic commerce runs on truth and context",
+      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "published_at": "2026-03-25T11:48:13+00:00",
+      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The AI Hype Index: AI goes to war",
+      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "published_at": "2026-03-25T09:00:00+00:00",
+      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
       "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
       "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
       "published_at": "2026-03-24T18:17:13+00:00",
@@ -244,20 +260,28 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
-      "published_at": "2026-03-23T12:17:33+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&#160; In early February, animal welfare advocates and AI researchers arrived in stocking fe"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资；阿里获评全球最具创新力AI企业，是唯一入选的亚洲公司；三星加入韩国政府倡导的车辆轮换限行计划，以应对能源短缺",
+      "url": "https://36kr.com/p/3737878147203072?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3738258238865409\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>斯里兰卡国家支付网络LankaPay宣布：40万商户已支持微信支付</strong></a></p>\n  <p>36氪获悉，3月24日，斯里兰卡国家支付网络LankaPay宣布正式接入微信支付。即日起，中国游客可在斯里兰卡全岛超过40万家支持LANKAQR二维码的商户中，直接使用微信支付进行消费。目前，微信跨境支付"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-      "published_at": "2026-03-23T09:00:00+00:00",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "生产速度提升四倍，推出桌面级金属3D打印机，「融速科技」完成近亿元A轮融资 | 36氪首发",
+      "url": "https://36kr.com/p/3738196912881927?f=rss",
+      "published_at": null,
+      "summary": "<p>文&nbsp;|&nbsp;张冰冰</p>\n  <p>编辑&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，苏州融速智造科技有限公司（以下简称「融速科技」）<strong>宣布完成近亿元A轮融资，投资方为河南豫资集团、苏高新融享基金。</strong>资金将用于进一步优化产品技术及产线建设，根据市场需求提升交付能力和生产规模。</p>\n  <p>「融速科技」成立于2020年，创始人徐方达为英国巴斯大学博士后，主要从事大尺寸增材方向研究。「融速科技」聚焦新一代DED送丝3D打印技术，面向航空航天、钢铁冶金、石油化工等工业领域中大尺寸零件制造需求，提供打印、装备、器件三大类型服务"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你",
+      "url": "https://36kr.com/p/3738023110230272?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260325/v2_5b651458b0d94a019ab79453d0a61dc8@5807859_oswg4042089oswg1875oswg1875_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源:36kr</p>\n  <p>每周精选30+优质岗位，覆盖AI、硬科技等领域，帮你找到下一个职业爆发点。</p>"
     },
     {
       "source": "36氪",
@@ -298,30 +322,6 @@
       "url": "https://36kr.com/p/3737704073428992?f=rss",
       "published_at": null,
       "summary": "<p>“你的文件已被加密，72小时内支付赎金，否则数据将永久销毁”——这是许多人都曾遭遇过的网络勒索（Cyberextortion）的典型场景。</p>\n  <p>网络勒索是一种常见的网络犯罪，黑客通过向企业或个人的电脑系统植入勒索病毒，使其无法正常打开或运行，从而勒索赎金。Orange Cyberdefense报告显示，网络勒索犯罪在全球呈爆炸式增长，2020年以来受害者数量增至三倍，受影响组织超过1.9万个。</p>\n  <p><strong>作为国内最早一批专攻网络勒索防御的公司，「思而听」是目前全球少数具备勒索病毒深度应急防治能力的公司之一。思而听成立于2022年，通过自研的密钥捕获、"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "IDG资本领投天使轮，阿里系+清华具身项目半年融超1亿元｜36氪首发",
-      "url": "https://36kr.com/p/3737667859398665?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪获悉，工业具身智能企业光象科技，已完成种子轮、天使轮及天使+轮多轮融资，累计金额超1亿元人民币，由财务投资机构 IDG 资本、东方富海联合领投，机器人产业资本埃夫特、零一创投、达泰资本、光源 L2F创业者基金跟投。</p>\n  <p>据悉，企业融资资金将主要用于公司具身机器人的核心技术研发、产品化推进及商业化交付工作。</p>\n  <p>光象科技成立于 2025 年 4 月，由前阿里巴巴高德技术总监张涛，与清华大学教授、人工智能领域专家李升波联合创办。目前，光象科技已成为全球多家汽车主机厂的具身智能战略合作方，基于让“机器人自我学习”的具身模型+让“具身智能大规模落地”的工具平台，"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发丨东方富海投了一个海归博导，要挑战日本高端激光设备巨头",
-      "url": "https://36kr.com/p/3737670256345345?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近日完成数千元天使轮融资。本轮融资由东方富海独家投资，华君资本担任长期独家战略财务顾问。融资资金将主要用于研发投入和团队建设。</p>\n  <p>中微精仪成立于2024年11月，但其技术积累可追溯至2022年。公司专注于激光超精密加工领域，核心业务涵盖碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。</p>\n  <p>从团队背景来看，中微精仪创始人陈景煜为澳大利亚新南威尔士大学研究员，长期从事特种芯片集成开发"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "AI智能体下场：新药开发如何告别单步解题、突破认知盲区？  | 最前线",
-      "url": "https://36kr.com/p/3736278401286401?f=rss",
-      "published_at": null,
-      "summary": "<p>当AI落地到新药研发全流程，会带来怎样的改变？</p>\n  <p>“对于阿斯利康而言，AI已不再是仅用于药物发现的单一工具，我们正在打造‘AI First’的研发文化。从早期的药物发现，到后期的临床转化，我们希望研发全流程都能被AI深度赋能。”3月21日，阿斯利康全球高级副总裁、全球研发中国负责人何静在接受媒体访谈时表示。</p>\n  <p>3月20日，阿斯利康与清华大学签署校级科研合作协议，宣布成立“清华大学（智能产业研究院）- 阿斯利康人工智能药物研发联合研究中心”。据介绍，该联合研究中心是双方战略合作框架下的首个重点落地项目。</p>\n  <p>过去几年里，AI 在新药发现（AID"
     }
   ]
 }

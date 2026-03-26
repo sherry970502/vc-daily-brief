@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-26T07:04:22.027167+00:00",
+  "updated_at": "2026-03-26T11:51:12.754791+00:00",
   "post_count": 48,
   "posts": [
+    {
+      "subreddit": "r/venturecapital",
+      "title": "I built a dashboard for academic research on venture capital",
+      "url": "https://www.reddit.com/r/venturecapital/comments/1s43s3e/i_built_a_dashboard_for_academic_research_on/",
+      "created_at": null
+    },
     {
       "subreddit": "r/venturecapital",
       "title": "Is It Possible to Get Carry from a Pre-IPO sale?",
@@ -45,12 +51,6 @@
       "created_at": null
     },
     {
-      "subreddit": "r/venturecapital",
-      "title": "We launched Audn: Security QA for AI Agents on Product Hunt today 🚀 (aiming for YC launch list!)",
-      "url": "https://www.reddit.com/r/venturecapital/comments/1rrpyg6/we_launched_audn_security_qa_for_ai_agents_on/",
-      "created_at": null
-    },
-    {
       "subreddit": "r/startups",
       "title": "Share your startup - quarterly post",
       "url": "https://www.reddit.com/r/startups/comments/1qa653y/share_your_startup_quarterly_post/",
@@ -64,14 +64,8 @@
     },
     {
       "subreddit": "r/startups",
-      "title": "Presenting Pitch Deck: Is it imperative that only CEO can present, or can another co-founder present it for the team? (i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1s3oa0w/presenting_pitch_deck_is_it_imperative_that_only/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/startups",
-      "title": "what I wish I knew before starting an AI agent subscription business - I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1s3p4la/what_i_wish_i_knew_before_starting_an_ai_agent/",
+      "title": "[i will not promote] What are the biggest challenges startups face with Instagram/Meta ads?",
+      "url": "https://www.reddit.com/r/startups/comments/1s43upd/i_will_not_promote_what_are_the_biggest/",
       "created_at": null
     },
     {
@@ -82,20 +76,26 @@
     },
     {
       "subreddit": "r/startups",
-      "title": "how do you deal with regret? (i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1s3esg5/how_do_you_deal_with_regret_i_will_not_promote/",
+      "title": "Planning on starting a small Healthcare Operations agency with my sister. (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1s43u5d/planning_on_starting_a_small_healthcare/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "How much equity to offer? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1s3z832/how_much_equity_to_offer_i_will_not_promote/",
+      "title": "Startup validation - how to validate an idea before starting? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1s43qj5/startup_validation_how_to_validate_an_idea_before/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "Does highly personalized outbound actually outperform volume? *I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1s3z0uj/does_highly_personalized_outbound_actually/",
+      "title": "Presenting Pitch Deck: Is it imperative that only CEO can present, or can another co-founder present it for the team? (i will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1s3oa0w/presenting_pitch_deck_is_it_imperative_that_only/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/startups",
+      "title": "[i will not promote] How are early-stage startups actually handling sales data analysis today?",
+      "url": "https://www.reddit.com/r/startups/comments/1s43sp8/i_will_not_promote_how_are_earlystage_startups/",
       "created_at": null
     },
     {
@@ -108,6 +108,18 @@
       "subreddit": "r/ycombinator",
       "title": "YC Resources {Please read this first!}",
       "url": "https://www.reddit.com/r/ycombinator/comments/12z5k88/yc_resources_please_read_this_first/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/ycombinator",
+      "title": "Founders!... What's the first thing you check every morning for your business and how long does it takes?",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1s41x2f/founders_whats_the_first_thing_you_check_every/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/ycombinator",
+      "title": "Angel investors here, how do you proceed with due diligence?",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1s41wa1/angel_investors_here_how_do_you_proceed_with_due/",
       "created_at": null
     },
     {
@@ -135,21 +147,15 @@
       "created_at": null
     },
     {
-      "subreddit": "r/ycombinator",
-      "title": "Best career move for big tech L6 eng",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1s1bjbp/best_career_move_for_big_tech_l6_eng/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/ycombinator",
-      "title": "Joining a startup as a Founding Engineer after big tech",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1s0ux2n/joining_a_startup_as_a_founding_engineer_after/",
+      "subreddit": "r/artificial",
+      "title": "Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.",
-      "url": "https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/",
+      "title": "Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion",
+      "url": "https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/",
       "created_at": null
     },
     {
@@ -160,38 +166,32 @@
     },
     {
       "subreddit": "r/artificial",
+      "title": "Claude Code hits $2.5B in revenue and ships auto mode, an AI classifier that decides what's safe to run on your machine",
+      "url": "https://www.reddit.com/r/artificial/comments/1s43rk5/claude_code_hits_25b_in_revenue_and_ships_auto/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
       "title": "Scientists find 100+ hidden exoplanets in NASA data using new AI system",
       "url": "https://www.reddit.com/r/artificial/comments/1s3rh9h/scientists_find_100_hidden_exoplanets_in_nasa/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Open-source AI system on a $500 GPU outperforms Claude Sonnet on coding benchmarks",
-      "url": "https://www.reddit.com/r/artificial/comments/1s2yg3y/opensource_ai_system_on_a_500_gpu_outperforms/",
+      "title": "we built an open source library of AI agent prompts and configs, just hit 100 stars",
+      "url": "https://www.reddit.com/r/artificial/comments/1s4549n/we_built_an_open_source_library_of_ai_agent/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "AI is biometric and most of the laborers learning models today are built off my biometric signature let’s chat",
-      "url": "https://www.reddit.com/r/artificial/comments/1s40d15/ai_is_biometric_and_most_of_the_laborers_learning/",
+      "title": "Cheaper & Faster & Smarter (TurboQuant and Attention Residuals)",
+      "url": "https://www.reddit.com/r/artificial/comments/1s44dm9/cheaper_faster_smarter_turboquant_and_attention/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Can any one prove that i am wrong ? People dont use AI when it comes to emotion.",
-      "url": "https://www.reddit.com/r/artificial/comments/1s401q9/can_any_one_prove_that_i_am_wrong_people_dont_use/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/artificial",
-      "title": "i accidentally gave gemini an anxiety attack.",
-      "url": "https://www.reddit.com/r/artificial/comments/1s3zyu1/i_accidentally_gave_gemini_an_anxiety_attack/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/artificial",
-      "title": "A nearly undetectable LLM attack needs only a handful of poisoned samples",
-      "url": "https://www.reddit.com/r/artificial/comments/1s3zenu/a_nearly_undetectable_llm_attack_needs_only_a/",
+      "title": "we made a community repo of AI agent setups and configs, just hit 100 stars with 90 PRs",
+      "url": "https://www.reddit.com/r/artificial/comments/1s44czb/we_made_a_community_repo_of_ai_agent_setups_and/",
       "created_at": null
     },
     {
@@ -208,20 +208,20 @@
     },
     {
       "subreddit": "r/SaaS",
+      "title": "I made an app that moans when you slap your MacBook. It made $5K in 3 days.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s41iv8/i_made_an_app_that_moans_when_you_slap_your/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/SaaS",
       "title": "Built our SaaS on AWS. Monthly bill: $2,400. Moved to Hetzner. Monthly bill: $180.",
       "url": "https://www.reddit.com/r/SaaS/comments/1s3wch7/built_our_saas_on_aws_monthly_bill_2400_moved_to/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "Airwallex vs Ramp, which is better for a company with international operations?",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s3vgkz/airwallex_vs_ramp_which_is_better_for_a_company/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/SaaS",
-      "title": "I manually clicked \"cancel subscription\" on 800+ SaaS products. The way some of you handle churn is embarrassing.",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s3k9tg/i_manually_clicked_cancel_subscription_on_800/",
+      "title": "not just google anymore - how to get your pages indexed by chatgpt and perplexity",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s41eje/not_just_google_anymore_how_to_get_your_pages/",
       "created_at": null
     },
     {
@@ -232,14 +232,14 @@
     },
     {
       "subreddit": "r/SaaS",
-      "title": "every time i share an idea with ai, it turns into my personal hype man on steroids",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s3xuao/every_time_i_share_an_idea_with_ai_it_turns_into/",
+      "title": "Funnel visibility changed how we think about our conversion problem",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s40aq7/funnel_visibility_changed_how_we_think_about_our/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "Stripe mistake that cost us our yearly plan revenue",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s3oooq/stripe_mistake_that_cost_us_our_yearly_plan/",
+      "title": "Pitch your SaaS in two lines. I'll start.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s40iga/pitch_your_saas_in_two_lines_ill_start/",
       "created_at": null
     },
     {

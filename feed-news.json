@@ -1,8 +1,24 @@
 {
-  "updated_at": "2026-03-26T07:04:12.884035+00:00",
+  "updated_at": "2026-03-26T11:51:02.437163+00:00",
   "period_hours": 48,
-  "article_count": 47,
+  "article_count": 44,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Mistral releases a new open-source model for speech generation",
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "published_at": "2026-03-26T11:30:00+00:00",
+      "summary": "Mistral's new speech model can run on a smartwatch or a smartphone."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "A little-known Croatian startup is coming for the robotaxi market with help from Uber",
+      "url": "https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/",
+      "published_at": "2026-03-26T08:15:00+00:00",
+      "summary": "Verne, the robotaxi company launched under Rimac Group, is starting with a service in Zagreb, Croatia."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -52,20 +68,12 @@
       "summary": "First responders have had to take control of Waymo vehicles and move them during emergency situations, including in at least two active crime scenes, TechCrunch found."
     },
     {
-      "source": "TechCrunch",
+      "source": "Crunchbase News",
       "lang": "en",
-      "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
-      "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
-      "published_at": "2026-03-25T20:38:45+00:00",
-      "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Melania Trump wants a robot to homeschool your child",
-      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
-      "published_at": "2026-03-25T18:55:41+00:00",
-      "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education."
+      "title": "Seed Funding Hasn’t Stalled, But It’s Skewing Larger And Is More Competitive Than Ever, Crunchbase Data Shows",
+      "url": "https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/",
+      "published_at": "2026-03-26T11:00:21+00:00",
+      "summary": "Among U.S. seed funding deals, it’s only the upper bands of larger and outlier seed rounds — those $10 million and above — that grew in 2025, Crunchbase data shows."
     },
     {
       "source": "Crunchbase News",
@@ -102,66 +110,66 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran, the $39 trillion national debt and dedollarization: How Trump exposed America’s Achilles Heel in Hormuz",
-      "url": "https://fortune.com/2026/03/24/iran-hormuz-petrodollar-national-debt-trump/",
-      "published_at": "2026-03-24T21:02:56+00:00",
-      "summary": "With the national debt at $39 trillion and dollar dominance already at a 30-year low, the petrodollar system is more visible—and threatened—than ever."
+      "title": "Gen Zers are flocking to these Midwest housing markets where homes are about 30% cheaper than the coasts",
+      "url": "https://fortune.com/article/gen-z-midwest-housing-markets-affordable/",
+      "published_at": "2026-03-26T11:09:17+00:00",
+      "summary": "Seven of the 10 most affordable metros for young homeowners are in the Midwest."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Rishi Sunak is giving advice to CEOs on AI. Here are his golden rules",
-      "url": "https://fortune.com/2026/03/25/rishi-sunak-ai-ceo-goldman-sachs/",
-      "published_at": "2026-03-25T16:12:19+00:00",
-      "summary": "At Goldman Sachs’ conference, CEOs discuss how to leverage AI for growth while maintaining unique human leadership to avoid a sea of sameness."
+      "title": "The college degree isn’t dead. But the wrong kind could cost you $2 million",
+      "url": "https://fortune.com/2026/03/26/is-college-worth-it-entry-level-jobs-university-president/",
+      "published_at": "2026-03-26T11:00:00+00:00",
+      "summary": "AI is eliminating the entry-level jobs that college was supposed to unlock. Here's what universities doing it right look like — and what to avoid."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "JPMorgan’s Jamie Dimon says remote work breeds ‘rope-a-dope politics’ and stunts young workers’ growth",
-      "url": "https://fortune.com/2026/03/25/jpmorgan-jamie-dimon-remote-work-gen-z-workers/",
-      "published_at": "2026-03-25T15:08:11+00:00",
-      "summary": "Jamie Dimon said younger workers are not fully engaged if they work remotely, adding they won’t be as well-developed because remote work doesn’t foster learning on the job."
+      "title": "What is tech addiction? A court ruling makes it Big Tech’s next big problem",
+      "url": "https://fortune.com/2026/03/26/what-is-tech-addiction-meta-youtube-trial/",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "summary": "The verdict in a landmark lawsuit over addictive social media design—and a wave of similar cases against Meta, YouTube, TikTok, and Snap—could force Silicon Valley to confront whether its most powerful and “sticky” products are behaving like hard-to-kick drugs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Workers around the world are scared. A massive new survey shows just how much",
-      "url": "https://fortune.com/2026/03/25/workers-anxious-scared-insecure-ai-adp-global-survey/",
-      "published_at": "2026-03-25T12:15:00+00:00",
-      "summary": "“AI is not like the weather,” ADP chief economist Nela Richardson says. “It is not just going to descend upon us.” In other words, it’s here."
+      "title": "Trump says he wants the war wrapped up as fuel prices nuzzle up to $9 a gallon in California",
+      "url": "https://fortune.com/2026/03/26/trump-war-over-gas-9-a-gallon-california/",
+      "published_at": "2026-03-26T10:34:22+00:00",
+      "summary": "Everything you need to know before you reach the office this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump wrote the tariff playbook. Now Iran is using it on the world’s most important oil route",
-      "url": "https://fortune.com/2026/03/25/trump-iran-war-strait-hormuz-tariffs-toll-peace-talks-ceasefire-deal/",
-      "published_at": "2026-03-25T17:57:20+00:00",
-      "summary": "Oil markets are whipsawing Wednesday amid dueling  shaky peace proposals"
+      "title": "The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing",
+      "url": "https://fortune.com/article/yoshua-bengio-ai-replace-every-job-trade-jobs-plumbing-warning/",
+      "published_at": "2026-03-26T10:50:08+00:00",
+      "summary": "Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The White House snubs Elon Musk’s offer to cover TSA salaries as airport miseries hit record levels",
-      "url": "https://fortune.com/2026/03/25/white-house-rejects-elon-musk-tsa-government-shutdown-waiting-lines-time-lga/",
-      "published_at": "2026-03-25T21:03:06+00:00",
-      "summary": "“We greatly appreciate Elon’s generous offer,” White House spokesperson Abigail Jackson wrote to Fortune. But no."
+      "title": "We’re no longer in a bull or bear market. We’re in a Trump market — and here’s how to navigate it",
+      "url": "https://fortune.com/2026/03/26/bull-bear-market-trump-ten-commandments-sonnenfeld/",
+      "published_at": "2026-03-26T10:31:00+00:00",
+      "summary": "As U.S.-Iran tensions whipsaw stocks by 10%–15% in a single session, getting inside Trump's mind is now the only macro indicator that matters."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Two private school boys get probation for using AI to create 350 fake nudes of their classmates",
-      "url": "https://fortune.com/2026/03/25/two-private-school-boys-probation-ai-fake-nude-images-classmates-pennsylvania/",
-      "published_at": "2026-03-25T20:49:24+00:00",
-      "summary": "The boys were 14 at the time. They admitted that they made about 350 images, showing at least 59 girls under 18, along with other victims who so far have not been identified."
+      "title": "Rishi Sunak tells CEOs to move fast on AI—or risk landing on the wrong side of the K-shaped economy",
+      "url": "https://fortune.com/2026/03/26/rishi-sunak-ceos-ai-advice-k-shaped-economy/",
+      "published_at": "2026-03-26T10:07:09+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "It’s time for slavery reparations, ‘the gravest crime against humanity,’ UN General Assembly says",
-      "url": "https://fortune.com/2026/03/25/slavery-reparations-united-nations-general-assembly/",
-      "published_at": "2026-03-25T20:45:20+00:00",
-      "summary": "The vote in the 193-member world body was 123-3, with 52 abstentions."
+      "title": "From ‘Hard Knock Life’ to $2.8 billion, Jay-Z calls billionaire hate ‘a cop-out’ even as 1 in 5 Americans say it’s ‘morally wrong’ to be that rich",
+      "url": "https://fortune.com/2026/03/26/jay-z-billionaire-beyonce-morally-wrong/",
+      "published_at": "2026-03-26T09:30:00+00:00",
+      "summary": "The billionaire rapper said he doesn’t believe money changes a person’s ethics: “Morality is not defined by a dollar amount.”"
     },
     {
       "source": "VentureBeat",
@@ -222,6 +230,22 @@
     {
       "source": "MIT Tech Review",
       "lang": "en",
+      "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+      "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+      "published_at": "2026-03-26T10:00:00+00:00",
+      "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and s"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Are high gas prices good news for EVs? It’s complicated.",
+      "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+      "published_at": "2026-03-26T10:00:00+00:00",
+      "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Iran has escalated, fossil-fuel prices have been on a roller-coaster, and I’ve started paying attentio"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
       "title": "Roundtables: The Next Era of Space Exploration",
       "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
       "published_at": "2026-03-25T17:26:26+00:00",
@@ -268,20 +292,36 @@
       "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
-      "published_at": "2026-03-24T18:17:13+00:00",
-      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Rel"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪官方Skill上线ClawHub，解锁OpenClaw新技能",
+      "url": "https://36kr.com/p/3739662958854150?f=rss",
+      "published_at": null,
+      "summary": "<p>36氪已正式入驻ClawHub平台，重磅推出三款官方Skill，专为OpenClaw用户打造，无需繁琐操作，一键安装即可让你的OpenClaw升级为新经济信息中枢，轻松抢占信息先机。</p>\n  <p>OpenClaw的强大，源于其可无限扩展的Skill生态——这些“技能包”就像给AI助手装上了专属外挂，让原本强大的智能体拥有更精准、更高效的专项能力。而ClawHub作为OpenClaw官方技能商店，汇聚了海量优质技能，是用户获取安全、可信扩展能力的核心阵地。此次36氪带来的三款官方Skill，依托36氪专业的内容生态与数据资源，精准匹配新经济参与者的核心信息需求，让每一位OpenCla"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
-      "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
-      "published_at": "2026-03-24T16:43:36+00:00",
-      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos&"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "越秀服务：2025年全年营收微增至39.02亿，多重因素导致盈利承压",
+      "url": "https://36kr.com/p/3739688073724169?f=rss",
+      "published_at": null,
+      "summary": "<p>3月26日，越秀服务发布2025年度业绩。财报数据显示，越秀服务2025年全年总收入为39.02亿元(人民币，下同)，同比微增0.9%，在管面积同比增长6.0%，面积增速快于收入增长，人员成本、园艺与保洁支出、销货成本等方面的支出快速增长，导致公司毛利率同比下降8.5个百分点，至14.8%，归母净利润同比下降22.5%，至约2.74 亿元，整体上呈现营收微增、利润大幅下滑、毛利率显著收缩的特征。</p>\n  <p>不过在受行业整体承压等因素影响导致盈利能力下滑的同时，越秀服务在财务方面仍然保持了稳健。截至2025年底，越秀服务持有现金及等价物/定期存款47.91 亿元，同比增加约2亿元，"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "AI首次进入微信首页，Clawbot想在你的工作流里占座",
+      "url": "https://36kr.com/p/3739641264177155?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;肖思佳</p>\n  <p>编辑&nbsp;|&nbsp;乔芊</p>\n  <p>2026年3月，或许可以被命名为“互联网龙虾月”。</p>\n  <p>年前由OpenClaw引发的热潮，在春节过后不仅没有降温，反而愈演愈烈。进入3月，多家互联网与科技公司，要么推出自有“龙虾”产品，要么开放接口加速接入。连一向谨慎克制的腾讯微信也首次下场，在首页推出插件Clawbot��作为各类“龙虾”产品的接入通道入口。</p>\n  <p>尽管目前Clawbot的技术能力，仍存在诸多不足——例如无法主动推送消息、Markdown显示效果不佳、电脑端缺乏插件入口等等，甚至有用户"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "企业健管高增40%，平安好医生解锁中国版管理式医疗新范式",
+      "url": "https://36kr.com/p/3739583156961285?f=rss",
+      "published_at": null,
+      "summary": "<p>3月24日，平安好医生（1833.HK）公布了2025年全年业绩。</p>\n  <p>财报显示，平安好医生在2025实现收入54.68亿元，同比增长13.7%。受益于医险协同战略的不断深化，叠加企业健管业务的强劲增长，公司在2025年实现业务收入双位数增长，且相比2024年增长明显加速，业务结构亦得到进一步优化。</p>\n  <p>利润方面，公司在2025年实现归母净利润3.8亿元，同比增长366.1%，同期经调整净利润录得4.14亿元，同比增长161.3%。公司净利润在2025年实现强劲增长的核心因素主要有二：一是得益于收入端的强劲增长，二是随着业务规模的增长、规模效应的释放，叠加经营"
     },
     {
       "source": "36氪",
@@ -294,7 +334,7 @@
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "第二期：百融云创、每日互动等AI大模型公司招聘大语言模型算法工程师等岗位｜人才留言板",
+      "title": "拓竹招人！SHEIN招人！10+好公司一起招人！｜人才留言板第二期",
       "url": "https://36kr.com/p/3738062628962563?f=rss",
       "published_at": null,
       "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260325/v2_5b651458b0d94a019ab79453d0a61dc8@5807859_oswg4042089oswg1875oswg1875_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源:36kr</p>\n  <p>每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、"
@@ -314,70 +354,6 @@
       "url": "https://36kr.com/p/3738426692567046?f=rss",
       "published_at": null,
       "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能电动全地形车研发商「ModMax（以下简称：魔迈）」，已于近日连续完成千万美元级种子轮及天使轮融资，融资由高瓴资本、云时资本、云沐资本投资。据悉，本轮融资资金将主要用于首款产品的研发生产，成建制团队搭建以及海外市场的品牌初步拓展。</p>\n  <p>全地形车在欧美市场是一门长盛不衰的生意。它既是北美约100万个农场和牧场必不可少的生产力工具，也是每年数百万越野发烧友在嘉年华活动上挥洒汗水的重型玩具。</p>\n  <p>公开数据显示，全球全地形车市场规模在2024年"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "「傲意科技」获1.5亿元C轮融资，海外收入增速反超国内｜36氪首发",
-      "url": "https://36kr.com/p/3738341704270083?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪获悉，傲意科技近期已完成1.5亿元C轮融资。本轮融资由中金资本旗下深圳市脑科学与类脑智能产业投资基金（下称\"中金脑科学基金\"）领投，另有多家老股东持续跟投。</p>\n  <p><a href=\"https://36kr.com/search/articles/%E5%82%B2%E6%84%8F%E7%A7%91%E6%8A%80\" rel=\"noopener noreferrer\" target=\"_blank\">傲意科技</a>成立于2015年，专注于非侵入式神经信号传感与AI解析技术，并已自主研发肌电/脑电传感器、智能仿生手、神经康复外骨骼及具身智能灵巧手等产品，拥有百余项自"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线",
-      "url": "https://36kr.com/p/3739006287216903?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>于东来：超市总裁峰会门票有点高，每人退3000元</p>\n  <p>品牌金饰克价一夜大涨近70元，克价重回1400元</p>\n  <p>央行25日开展785亿元7天期逆回购操作</p>\n  <p>泡泡玛特将在今年下半年推出LABUBU 4.0系列</p>\n  <p>“中园石化”加油站被查</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>张雪峰医疗文件疑似泄露，苏州卫生健康委回应</strong></p>\n  <p>3月24日晚，江苏苏州峰学蔚来教育科技有限公司发布讣告，知名考研老师张雪峰（本名张子彪）因突发疾病，经抢救无效去世。"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资；阿里获评全球最具创新力AI企业，是唯一入选的亚洲公司；三星加入韩国政府倡导的车辆轮换限行计划，以应对能源短缺",
-      "url": "https://36kr.com/p/3737878147203072?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3738258238865409\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>斯里兰卡国家支付网络LankaPay宣布：40万商户已支持微信支付</strong></a></p>\n  <p>36氪获悉，3月24日，斯里兰卡国家支付网络LankaPay宣布正式接入微信支付。即日起，中国游客可在斯里兰卡全岛超过40万家支持LANKAQR二维码的商户中，直接使用微信支付进行消费。目前，微信跨境支付"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "生产速度提升四倍，推出桌面级金属3D打印机，「融速科技」完成近亿元A轮融资 | 36氪首发",
-      "url": "https://36kr.com/p/3738196912881927?f=rss",
-      "published_at": null,
-      "summary": "<p>文&nbsp;|&nbsp;张冰冰</p>\n  <p>编辑&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，苏州融速智造科技有限公司（以下简称「融速科技」）<strong>宣布完成近亿元A轮融资，投资方为河南豫资集团、苏高新融享基金。</strong>资金将用于进一步优化产品技术及产线建设，根据市场需求提升交付能力和生产规模。</p>\n  <p>「融速科技」成立于2020年，创始人徐方达为英国巴斯大学博士后，主要从事大尺寸增材方向研究。「融速科技」聚焦新一代DED送丝3D打印技术，面向航空航天、钢铁冶金、石油化工等工业领域中大尺寸零件制造需求，提供打印、装备、器件三大类型服务"
-    },
-    {
-      "source": "虎嗅",
-      "lang": "zh",
-      "title": "张雪峰的“遗产”",
-      "url": "http://www.huxiu.com/article/4845387.html?f=wangzhan",
-      "published_at": "2026-03-26T14:00:00+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/25/211611169725.png\" />\n<p>这些年，也有很多人批评张雪峰，说他功利、短视。但教育本身就是有功利的因素。焦虑并不是张雪峰制造的，他只是捅破了窗户纸。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
-    },
-    {
-      "source": "虎嗅",
-      "lang": "zh",
-      "title": "车企盯上有钱人，“9系”大战一触即发",
-      "url": "http://www.huxiu.com/article/4842768.html?f=wangzhan",
-      "published_at": "2026-03-25T07:14:31+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/17/160056872295.jpg\" />\n<p><span class=\"text-remarks\" label=\"备注\">出品|虎嗅汽车组</span></p><p><span class=\"text-remarks\" label=\"备注\">作者|王亚骏</span></p><p><span class=\"text-remarks\" label=\"备注\">头图|视觉中国</span></p><p><br /></p><p>一场将决定新能源汽车自主品牌格局差异的战争，开打在即—"
-    },
-    {
-      "source": "虎嗅",
-      "lang": "zh",
-      "title": "高端日料没人吃了？",
-      "url": "http://www.huxiu.com/article/4843942.html?f=wangzhan",
-      "published_at": "2026-03-24T19:00:00+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/22/232825680684.jpg\" />\n<p>全球好大哥最严厉的父亲，中国农业最叛逆的儿子？日料才是中国农业的海外体验店——鳗鱼、蛤蜊、鱼子酱、姜、山葵，几乎全靠中国供应......</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
-    },
-    {
-      "source": "虎嗅",
-      "lang": "zh",
-      "title": "从万众期待到路边一X，国行Switch是如何走到关服停运的呢？",
-      "url": "http://www.huxiu.com/article/4843911.html?f=wangzhan",
-      "published_at": "2026-03-24T18:00:00+08:00",
-      "summary": "<img src=\"https://img.huxiucdn.com/article/cover/202603/20/162848328990.jpeg\" />\n<p>我有一个困惑：如果这个世界上还有腾讯加任天堂都无法达成的目标，那是不是意味着，这件事从一开始就是错的呢？</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>"
     }
   ]
 }

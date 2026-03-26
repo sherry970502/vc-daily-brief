@@ -338,6 +338,6 @@
   ],
   "fetch_settings": {
     "tweets_per_account": 5,
-    "hours_lookback": 48
+    "hours_lookback": 24
   }
 }

@@ -19,7 +19,7 @@ ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NEWS_OUTPUT  = os.path.join(ROOT_DIR, "feed-news.json")
 REDDIT_OUTPUT = os.path.join(ROOT_DIR, "feed-reddit.json")
 
-HOURS_LOOKBACK = 48
+HOURS_LOOKBACK = 24
 
 HEADERS = {
     "User-Agent": "DailyBriefBot/1.0 (personal news aggregator; contact via GitHub)"

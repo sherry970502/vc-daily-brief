@@ -2,8 +2,8 @@ name: Fetch Daily Feeds
 
 on:
   schedule:
-    # Run every day at 6:00 AM UTC (2pm Beijing / 1pm HKT)
-    - cron: '0 6 * * *'
+    # Run every day at 1:00 AM UTC (9am Beijing / 9am HKT)
+    - cron: '0 1 * * *'
   workflow_dispatch:
     # Allow manual trigger from GitHub Actions tab
 

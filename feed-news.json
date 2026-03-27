@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-03-26T12:01:01.029763+00:00",
-  "period_hours": 48,
-  "article_count": 44,
+  "updated_at": "2026-03-27T03:54:46.236887+00:00",
+  "period_hours": 24,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Mistral releases a new open-source model for speech generation",
-      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-      "published_at": "2026-03-26T11:30:00+00:00",
-      "summary": "Mistral's new speech model can run on a smartwatch or a smartphone."
+      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "published_at": "2026-03-27T01:26:40+00:00",
+      "summary": "Sacks will be much further from power center in Washington than since the outset of this second Trump administration."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "A little-known Croatian startup is coming for the robotaxi market with help from Uber",
-      "url": "https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/",
-      "published_at": "2026-03-26T08:15:00+00:00",
-      "summary": "Verne, the robotaxi company launched under Rimac Group, is starting with a service in Zagreb, Croatia."
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "published_at": "2026-03-27T01:18:38+00:00",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The least surprising chapter of the Manus story is what’s happening right now",
-      "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-      "published_at": "2026-03-26T02:46:48+00:00",
-      "summary": "Did anyone think there would not be a reckoning over this tie-up?"
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "published_at": "2026-03-26T23:47:56+00:00",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-      "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-      "published_at": "2026-03-26T00:30:00+00:00",
-      "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market."
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "published_at": "2026-03-26T21:50:10+00:00",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
-      "url": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
-      "published_at": "2026-03-26T00:03:52+00:00",
-      "summary": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware."
+      "title": "Mastodon is making its decentralized social network easier to use with its latest revamp",
+      "url": "https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/",
+      "published_at": "2026-03-26T20:42:50+00:00",
+      "summary": "Mastodon is redesigning user profiles to simplify the experience and better appeal to mainstream users and organizations."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-      "published_at": "2026-03-25T21:44:13+00:00",
-      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides."
+      "title": "Netflix confirms it’s raising prices again",
+      "url": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
+      "published_at": "2026-03-26T20:39:17+00:00",
+      "summary": "The standard plan without ads now costs $19.99 per month, a $2 increase from the previous $17.99 subscription fee, while the premium plan is also going up by $2 and will now cost $26.99 per month."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks",
-      "url": "https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/",
-      "published_at": "2026-03-25T21:19:57+00:00",
-      "summary": "The spyware founder's comments are the most direct suggestion yet from anyone inside Intellexa that the Mitsotakis government authorized the hacking of dozens of phones belonging to senior Greek government ministers, opposition leaders, military officials, and journalists."
+      "title": "16 of the most interesting startups from YC W26 Demo Day",
+      "url": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
+      "published_at": "2026-03-26T19:30:00+00:00",
+      "summary": "From redirecting doomscrolling to training humanoid robots, these 16 startups stood out as the most interesting ones from an overflowing YC cohort."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Who’s driving Waymo’s self-driving cars? Sometimes, the police.",
-      "url": "https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/",
-      "published_at": "2026-03-25T20:57:21+00:00",
-      "summary": "First responders have had to take control of Waymo vehicles and move them during emergency situations, including in at least two active crime scenes, TechCrunch found."
+      "title": "Google Translate’s real-time headphone translations feature expands to iOS and more countries",
+      "url": "https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/",
+      "published_at": "2026-03-26T19:11:52+00:00",
+      "summary": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what."
     },
     {
       "source": "Crunchbase News",
@@ -76,156 +76,100 @@
       "summary": "Among U.S. seed funding deals, it’s only the upper bands of larger and outlier seed rounds — those $10 million and above — that grew in 2025, Crunchbase data shows."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-03-25T17:00:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Exclusive: YC Doubles Down On Trayd, A Construction Tech Startup That Just Raised $10M In 3 Weeks",
-      "url": "https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-seriesa/",
-      "published_at": "2026-03-25T13:00:19+00:00",
-      "summary": "Trayd, a startup that is building a back office operating system for the construction industry, has raised $10 million in Series A funding, it tells Crunchbase News exclusively."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Data: OpenAI Has Already Done Nearly As Many M&A Deals In 2026 As It Did All of Last Year",
-      "url": "https://news.crunchbase.com/ma/data-openai-2023-2026-acquisitions-open-source-astral-promptfoo/",
-      "published_at": "2026-03-25T11:00:05+00:00",
-      "summary": "San Francisco-based OpenAI has turned to M&#038;A to boost its offerings and stay ahead of its rivals through acquisitions, which total 17 companies in the past three years, Crunchbase data shows."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Kleiner Perkins Raises $3.5B For AI-Focused Funds",
-      "url": "https://news.crunchbase.com/venture/kleiner-perkins-raises-ai-focused-funds/",
-      "published_at": "2026-03-24T16:36:05+00:00",
-      "summary": "Kleiner Perkins' fundraise includes $1 billion for KP22, a fund to back early-stage companies, and $2.5 billion targeted for growth-stage investments."
+      "title": "Exclusive: Anthropic acknowledges testing new AI model representing ‘step change’ in capabilities, after accidental data leak reveals its existence",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "published_at": "2026-03-27T02:27:48+00:00",
+      "summary": "AI company Anthropic is testing a previously undisclosed AI model called 'Mythos' that is significantly more capable than anything it has previously built, according to a draft blog post left publicly accessible."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meta’s $27 billion AI data center is causing chaos in small town Louisiana",
-      "url": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/",
-      "published_at": "2026-03-26T07:00:00+00:00",
-      "summary": "In an era of globalization and corporate consolidation, the “pick-and-shovel” ripple spreads very differently. It’s testing assumptions about who actually benefits when a mega-project arrives in town."
+      "title": "Exclusive: Anthropic left details of an unreleased model, invite-only CEO retreat, sitting in an unsecured data trove in a significant security lapse",
+      "url": "https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/",
+      "published_at": "2026-03-27T02:25:49+00:00",
+      "summary": "Details of not-yet-disclosed models, unpublished blog drafts, and other private information was inadvertently made accessible via the company’s content management system"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The one-person unicorn: Myth, miracle, or the future of startups?",
-      "url": "https://fortune.com/2026/03/26/the-one-person-unicorn-myth-miracle-future-of-startups-polsia/",
-      "published_at": "2026-03-26T11:41:12+00:00",
-      "summary": "This founder has no employees, an AI running his company, and $4.5 million in revenue."
+      "title": "Southeast Asia could become a booming AI market if its data centers can beat the heat",
+      "url": "https://fortune.com/2026/03/26/southeast-asia-ai-data-centers-heat-challenge/",
+      "published_at": "2026-03-26T21:00:00+00:00",
+      "summary": "“You can’t ignore the fact that 85% of the world’s population lives outside temperate regions,” says BDx Data Centers CEO Mayank Shrivastava."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "CFOs believe AI is paying off. Researchers aren’t so sure—yet",
-      "url": "https://fortune.com/2026/03/26/cfo-believe-ai-paying-off-researchers-arent-so-sure-yet/",
-      "published_at": "2026-03-26T11:37:06+00:00",
-      "summary": "A new study finds executives are seeing AI gains that haven't yet shown up in revenue."
+      "title": "Defense startup Shield AI is projecting more than $540 million in revenue this year as valuation more than doubles to $12.7 billion",
+      "url": "https://fortune.com/2026/03/26/shield-ai-revenue-series-g-funding-12-billion-valuation/",
+      "published_at": "2026-03-27T01:12:55+00:00",
+      "summary": "The surveillance drone and autonomy startup has raised $1.5 billion and is acquiring an autonomy simulation company."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "America is handing its mRNA lead to China—and RFK Jr. is to blame",
-      "url": "https://fortune.com/2026/03/26/america-losing-to-china-on-mrna-robert-f-kennedy-to-blame/",
+      "title": "U.S. judge blocks Pentagon’s ‘Orwellian notion’ to label Anthropic a supply chain risk and ban Claude from the government",
+      "url": "https://fortune.com/2026/03/26/us-judge-blocks-anthropic-ban-supply-chain-risk-orwellian-notion/",
+      "published_at": "2026-03-27T00:48:53+00:00",
+      "summary": "\"These measures appear designed to punish Anthropic,” ruled U.S. District Judge Rita Lin on Thursday."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Disney CEO’s no good, very bad week: Josh D’Amaro is dealing with 3 major headaches",
+      "url": "https://fortune.com/2026/03/26/disney-ceo-three-reasons-bad-first-week/",
+      "published_at": "2026-03-26T20:21:39+00:00",
+      "summary": "Three setbacks in seven days, even if most of them are out of his hands, have already complicated the new CEO’s vision for Disney."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Gen Z’s credit scores are cratering—and Trump’s student loan crackdown is the biggest reason why",
+      "url": "https://fortune.com/2026/03/26/gen-z-credit-scores-declining-under-trump-student-loan-crackdown/",
+      "published_at": "2026-03-26T17:16:30+00:00",
+      "summary": "Trump’s rollback of student loan protections has pushed millions of young Americans into delinquency. The national credit score is the worst since 2009."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Duolingo CEO’s taxi driver test decides who gets hired—before the interview even starts",
+      "url": "https://fortune.com/2026/03/26/duolingo-ceo-taxi-driver-interview-test-luis-von-ahn/",
+      "published_at": "2026-03-26T14:37:47+00:00",
+      "summary": "Candidates in today’s brutal job market are being evaluated in ways they may not even realize."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
+      "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
+      "published_at": "2026-03-26T16:16:00+00:00",
+      "summary": "<p><a href=\"https://www.intercom.com/\">Intercom</a> is taking an unusual gamble for a legacy software company: building its own AI model.</p><p>The 15-year-old massive customer service platform <a href=\"https://www.intercom.com/blog/category/news/\">announced Fin Apex 1.0</a> on Thursday, a small, pu"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free",
+      "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
       "published_at": "2026-03-26T11:30:00+00:00",
-      "summary": "Political interference is driving biotech investment overseas, and U.S. patients and workers will pay the price."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Trump said low-income housing would destroy the suburbs, but ‘soccer moms’ are still abandoning him in droves",
-      "url": "https://fortune.com/2026/03/26/suburbs-turn-on-trump-soccer-moms-midterm-elections/",
-      "published_at": "2026-03-26T11:25:59+00:00",
-      "summary": "“The people in the suburbs are definitely radicalizing,” says Allison Posner, a freelance actor and 42-year-old mother of two in Maplewood, N.J."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Houston airport, with nearly 40% TSA sickout, becomes symbol of America’s broken travel system",
-      "url": "https://fortune.com/2026/03/26/houston-george-bush-airport-face-of-travel-shutdown-unpaid-tsa-workers/",
-      "published_at": "2026-03-26T11:21:52+00:00",
-      "summary": "Frustrated travelers at Houston’s largest airport have confronted warnings of four-hour wait times to get through security."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Meta, YouTube face thousands of cases on whether they harmed children after bellwether cases go against them",
-      "url": "https://fortune.com/2026/03/26/meta-youtube-lawsuit-verdict-what-happens-next/",
-      "published_at": "2026-03-26T11:19:00+00:00",
-      "summary": "Attorneys general in more than 40 states have filed suit against Meta, claiming it is contributing to a mental health crisis among young people."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Postal Service to hike prices 8% on popular services on rising transportation costs",
-      "url": "https://fortune.com/2026/03/26/postal-service-price-increase-8-percent-priority-mail/",
-      "published_at": "2026-03-26T11:16:03+00:00",
-      "summary": "“We have steadfastly avoided surcharges and this charge is less than one-third of what our competitors charge for fuel alone,” the agency said."
+      "summary": "<p>The enterprise voice AI market is in the middle of a land grab. <a href=\"https://newsroom.ibm.com/2026-03-25-enterprise-ai-finds-its-voice-elevenlabs-and-ibm-bring-premium-voice-capabilities-to-agentic-ai\">ElevenLabs</a> and <a href=\"https://newsroom.ibm.com/2026-03-25-enterprise-ai-finds-its-voi"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more",
-      "url": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50",
-      "published_at": "2026-03-25T19:27:00+00:00",
-      "summary": "<p>As Large Language Models (LLMs) expand their context windows to process massive documents and intricate conversations, they encounter a brutal hardware reality known as the &quot;Key-Value (KV) cache bottleneck.&quot;</p><p>Every word a model processes must be stored as a high-dimensional vector"
+      "title": "The consequential AI work that actually moves the needle for enterprises",
+      "url": "https://venturebeat.com/orchestration/the-consequential-ai-work-that-actually-moves-the-needle-for-enterprises",
+      "published_at": "2026-03-26T04:00:00+00:00",
+      "summary": "<p><i>Presented by OutSystems </i></p><hr /><p>After two years of flashy AI demos, rushed agent prototypes, and breathless predictions, enterprise technology leaders are striking a more pragmatic tone in 2026. In a recent webinar hosted by OutSystems, a panel of software executives and enterprise pr"
     },
     {
-      "source": "VentureBeat",
+      "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Oracle converges the AI data stack to give enterprise agents a single version of truth",
-      "url": "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single",
-      "published_at": "2026-03-25T19:00:00+00:00",
-      "summary": "<p>Enterprise data teams moving agentic AI into production are hitting a consistent failure point at the data tier. Agents built across a vector store, a relational database, a graph store and a lakehouse require sync pipelines to keep context current. Under production load, that context goes stale."
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "How xMemory cuts token costs and context bloat in AI agents",
-      "url": "https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents",
-      "published_at": "2026-03-25T00:00:00+00:00",
-      "summary": "<p>Standard RAG pipelines break when enterprises try to use them for long-term, multi-session LLM agent deployments. This is a critical limitation as demand for persistent AI assistants grows.</p><p><a href=\"https://arxiv.org/abs/2602.02007\"><u>xMemory</u></a>, a new technique developed by researche"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
-      "url": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app",
-      "published_at": "2026-03-24T21:20:00+00:00",
-      "summary": "<p>OpenAI is shuttering Sora, its stand-alone AI video generation app and social network, and the availability for developers to access the Sora 2 video model family through its application programming interface (API) to rely on it for their own products or video generation pipelines.</p><p>The <a h"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Anthropic’s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
-      "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai",
-      "published_at": "2026-03-24T20:00:00+00:00",
-      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> on Monday launched the most ambitious consumer AI agent to date, giving its Claude chatbot <a href=\"https://claude.com/blog/dispatch-and-computer-use\">the ability to directly control a user&#x27;s Mac</a> — clicking buttons, opening applications,"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Cloudflare’s new Dynamic Workers ditch containers to run AI agent code 100x faster",
-      "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x",
-      "published_at": "2026-03-24T19:21:00+00:00",
-      "summary": "<p>Web infrastructure giant Cloudflare is seeking to transform the way enterprises deploy AI agents with<a href=\"https://blog.cloudflare.com/dynamic-workers\"> the open beta release of Dynamic Workers,</a> a new lightweight, isolate-based sandboxing system that it says starts in milliseconds, uses on"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The three disciplines separating AI agent demos from real-world deployment",
-      "url": "https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment",
-      "published_at": "2026-03-24T16:00:00+00:00",
-      "summary": "<p>Getting AI agents to perform reliably in production — not just in demos — is turning out to be harder than enterprises anticipated. Fragmented data, unclear workflows, and runaway escalation rates are slowing deployments across industries.</p><p>“The technology itself often works well in demonstr"
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "published_at": "2026-03-26T12:42:53+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this battery company is pivoting to AI&#160; Qichao Hu&#160;doesn’t&#160;mince words about the state of the battery industry. “Almost every&#160;W"
     },
     {
       "source": "MIT Tech Review",
@@ -244,116 +188,68 @@
       "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Iran has escalated, fossil-fuel prices have been on a roller-coaster, and I’ve started paying attentio"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Roundtables: The Next Era of Space Exploration",
-      "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
-      "published_at": "2026-03-25T17:26:26+00:00",
-      "summary": "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists&#8217; efforts in space can tell us more about where humanity is headed. This subscriber-only dis"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Why this battery company is pivoting to AI",
-      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
-      "published_at": "2026-03-25T15:02:50+00:00",
-      "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "This startup wants to change how mathematicians do math",
-      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "published_at": "2026-03-25T13:59:17+00:00",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Ch"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
-      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
-      "published_at": "2026-03-25T12:47:44+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain&#160; L. Stephen&#160;Coles’s&#160;brain sits in a vat at a storage fac"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Agentic commerce runs on truth and context",
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "published_at": "2026-03-25T11:48:13+00:00",
-      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The AI Hype Index: AI goes to war",
-      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-      "published_at": "2026-03-25T09:00:00+00:00",
-      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "目标氢能及液流电池市场，实现AEM材料性能突破，「志青博材」获融科储能领投千万元天使+轮融资 | 36氪首发",
+      "url": "https://36kr.com/p/3740569636962566?f=rss",
+      "published_at": null,
+      "summary": "<p>文&nbsp;|&nbsp;张冰冰</p>\n  <p>编辑&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，苏州市志青博材科技有限公司（以下简称「志青博材」）<strong>近日宣布完成千万元天使+轮融资，由大连融科储能集团股份有限公司领投，老股东熔拓资本跟投</strong>，资金将主要用于核心材料研发及工程化推进。</p>\n  <p>「志青博材」成立于2023年6月，致力于推进氢能、液流电池等长周期储能领域中核心材料——阴离子交换膜（AEM）的全国产化研发与量产。目前，「志青博材」已打通从树脂合成到膜材料制备的完整技术链条，拥有多项自主知识产权，实现树脂单釜数十公斤级稳定"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "速腾聚创首次实现单季盈利，2025年机器人产品销量激增25倍｜最前线",
-      "url": "https://36kr.com/p/3739712915816457?f=rss",
+      "title": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+      "url": "https://36kr.com/p/3736563677396994?f=rss",
       "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>3月25日，速腾聚创（02498.HK）公布2025年第四季度及全年业绩报告。</p>\n  <p>财报显示，2025年全年，速腾聚创实现营收约19.41亿元，激光雷达总销量约91.2万台，毛利约5.14亿元，同比增长81.3%。第四季度表现尤为突出，单季度实现经营利润1.30亿元，净利润1.04亿元，首次实现单季度盈利。第四季度综合毛利率达28.5%，同比提升6.4个百分点；机器人领域毛利率达41.5%。</p>\n  <p>可以看到，公司“车载+机器人”双轮驱动格局已实质性形成。其中，第四季度的机器人及其他产品收入约3.47亿"
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，智能庭院机器人品牌汉阳科技Yarbo已完成近2亿元新一轮融资。本轮融资由松禾资本、温润投资（温氏股份旗下）、安乃达、芯联资本、龙华资本投资，涵盖了头部财务投资机构、上市公司产业资本与地方政府引导基金。融资资金将主要用于深化技术研发、加速产品迭代及拓展全球市场渠道。庚辛资本担任长期财务顾问。</p>\n  <p>产业资本的注入将为Yarbo提供协同资源。其中，温润投资背靠温氏股份，有望在供应链优化、生产制造及潜在渠道拓展上提供支持。安乃达作为电机驱动领域的上市公司，将增强Yarbo在核心动力部件上的垂直整合与技术优势。芯"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪官方Skill上线ClawHub，解锁OpenClaw新技能",
-      "url": "https://36kr.com/p/3739662958854150?f=rss",
+      "title": "为超百家具身智能企业提供核心零部件，「知行机器人」连续完成两轮近亿元融资 | 36氪首发",
+      "url": "https://36kr.com/p/3740523277517063?f=rss",
       "published_at": null,
-      "summary": "<p>36氪已正式入驻ClawHub平台，重磅推出三款官方Skill，专为OpenClaw用户打造，无需繁琐操作，一键安装即可让你的OpenClaw升级为新经济信息中枢，轻松抢占信息先机。</p>\n  <p>OpenClaw的强大，源于其可无限扩展的Skill生态——这些“技能包”就像给AI助手装上了专属外挂，让原本强大的智能体拥有更精准、更高效的专项能力。而ClawHub作为OpenClaw官方技能商店，汇聚了海量优质技能，是用户获取安全、可信扩展能力的核心阵地。此次36氪带来的三款官方Skill，依托36氪专业的内容生态与数据资源，精准匹配新经济参与者的核心信息需求，让每一位OpenCla"
+      "summary": "<p>36氪获悉，灵巧手及具身智能机器人产品提供商知行机器人科技（苏州）有限公司（以下简称「知行机器人」）已完成B+、B++轮融资，两轮融资累计近亿元。本轮融资由山东威达领投，国兴投资、芜湖科创和上海天使会等机构跟投，翊荣资本担任长期独家财务顾问，资金将主要用于产品研发、数据采集以及全球市场拓展。</p>\n  <p>知行机器人成立于2018年，致力于机器人灵巧手、电动夹爪、旋转和线性执行器以及具身智能机器人系统解决方案的研发与生产，是国家高新技术企业、江苏省专精特新企业，<strong>目前已推出智能手全系列产品矩阵，负载能力覆盖0.1kg至150kg，是国内产品谱系最全的末端执行器厂商之一。"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "越秀服务：2025年全年营收微增至39.02亿，多重因素导致盈利承压",
-      "url": "https://36kr.com/p/3739688073724169?f=rss",
+      "title": "云鲸联创吴一昊Hower即将离职创业 | 硬氪独家",
+      "url": "https://36kr.com/p/3736574177345799?f=rss",
       "published_at": null,
-      "summary": "<p>3月26日，越秀服务发布2025年度业绩。财报数据显示，越秀服务2025年全年总收入为39.02亿元(人民币，下同)，同比微增0.9%，在管面积同比增长6.0%，面积增速快于收入增长，人员成本、园艺与保洁支出、销货成本等方面的支出快速增长，导致公司毛利率同比下降8.5个百分点，至14.8%，归母净利润同比下降22.5%，至约2.74 亿元，整体上呈现营收微增、利润大幅下滑、毛利率显著收缩的特征。</p>\n  <p>不过在受行业整体承压等因素影响导致盈利能力下滑的同时，越秀服务在财务方面仍然保持了稳健。截至2025年底，越秀服务持有现金及等价物/定期存款47.91 亿元，同比增加约2亿元，"
+      "summary": "<p>作者 | 黄楠 袁斯来</p>\n  <p>编辑 | 袁斯来</p>\n  <p>近日，硬氪通过多个渠道独家获悉，云鲸联合创始人吴一昊（Hower）即将从公司离职。根据硬氪了解， Hower即将创业，但产品本身还在高度保密阶段。</p>\n  <p>硬氪就此向吴一昊本人求证，对方证实消息属实；吴一昊表示，近期他将卸任管理职务、并准备创业，但仍保留云鲸首席战略顾问一职。</p>\n  <p>吴一昊与云鲸创始人张峻彬并肩走过十年，共同经历了公司从初创团队到成长为百亿估值企业的全过程。吴一昊生于1992年，2016年加入云鲸，早期掌舵云鲸软件部门，带近200人团队，而后负责产品交付的同时，负责供应链及"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "AI首次进入微信首页，Clawbot想在你的工作流里占座",
-      "url": "https://36kr.com/p/3739641264177155?f=rss",
+      "title": "8点1氪丨雷军辞去金山云董事长；苹果回应iPhone半夜自动打电话；速效救心丸成交额同比增长超10倍",
+      "url": "https://36kr.com/p/3740427947426049?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;肖思佳</p>\n  <p>编辑&nbsp;|&nbsp;乔芊</p>\n  <p>2026年3月，或许可以被命名为“互联网龙虾月”。</p>\n  <p>年前由OpenClaw引发的热潮，在春节过后不仅没有降温，反而愈演愈烈。进入3月，多家互联网与科技公司，要么推出自有“龙虾”产品，要么开放接口加速接入。连一向谨慎克制的腾讯微信也首次下场，在首页推出插件Clawbot，作为各类“龙虾”产品的接入通道入口。</p>\n  <p>尽管目前Clawbot的技术能力，仍存在诸多不足——例如无法主动推送消息、Markdown显示效果不佳、电脑端缺乏插件入口等等，甚至有用户直"
+      "summary": "<h2>今日热点导览</h2>\n  <p>春秋航空发通知：国内航线燃油附加费确定4月5日上涨</p>\n  <p>“老头乐”起诉小米汽车，当事企业称已和解</p>\n  <p>广东多地优化调整住房公积金政策措施</p>\n  <p>斯柯达将退出中国，大众中国回应：销售到年中，持续提供售后</p>\n  <p>特朗普称将在5月中旬访华，外交部：中美此事保持着沟通</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>雷军辞任金山云董事长</strong></p>\n  <p>3月25日晚间，金山云控股有限公司（以下简称“金山云”，03896.HK）发布公告称，雷军因其他工作安排，已辞任非"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "企业健管高增40%，平安好医生解锁中国版管理式医疗新范式",
-      "url": "https://36kr.com/p/3739583156961285?f=rss",
+      "title": "浙大博士造出「机器人界的F1」：不卷脑子卷身体，要比博尔特跑得快",
+      "url": "https://36kr.com/p/3739769424593154?f=rss",
       "published_at": null,
-      "summary": "<p>3月24日，平安好医生（1833.HK）公布了2025年全年业绩。</p>\n  <p>财报显示，平安好医生在2025实现收入54.68亿元，同比增长13.7%。受益于医险协同战略的不断深化，叠加企业健管业务的强劲增长，公司在2025年实现业务收入双位数增长，且相比2024年增长明显加速，业务结构亦得到进一步优化。</p>\n  <p>利润方面，公司在2025年实现归母净利润3.8亿元，同比增长366.1%，同期经调整净利润录得4.14亿元，同比增长161.3%。公司净利润在2025年实现强劲增长的核心因素主要有二：一是得益于收入端的强劲增长，二是随着业务规模的增长、规模效应的释放，叠加经营"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260326/v2_066ae7c66d444c39af556ab2e7a9d886@6314151_oswg342357oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>最大的瓶颈不在算法，而在硬件的响应能力。</strong></p>\n  <p class=\"ima"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "业绩快报丨古茗2025年售出饮品19亿杯，“下沉之王”质效双增",
-      "url": "https://36kr.com/p/3739345671962626?f=rss",
+      "title": "StoReel获3400万美元融资：用AI重构故事生产，打造工具社区与平台双轮驱动的内容生态｜涌现新项目",
+      "url": "https://36kr.com/p/3739636054999040?f=rss",
       "published_at": null,
-      "summary": "<p>3月25日，古茗发布2025年度业绩报告，收入及利润均呈现稳定增长。</p>\n  <p>财报显示，2025年，古茗实现总收入约129亿元，同比增长46.9%；经调整利润（非国际财务报告准则计量）约人民币25.75亿元，同比增长66.9%。</p>\n  <p>截至2025年底，古茗门店数达到13554家。2025年新开门店4292家，净增门店3640家。门店网络覆盖全国超过200个不同级别的城市，在二线及以下的占比为82%，乡镇门店占比增长至44%，进一步强化了在低线市场的布局，成为当之无愧的“下沉之王”。</p>\n  <p>保证门店规模后，古茗的店铺经营效率也有很大提升。报告期内，古茗门"
+      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜王毓婵</strong></p>\n  <h2><strong>一句话介绍</strong></h2>\n  <p>StoReel是一家全球化AI原生娱乐内容平台，核心产品分别是AI剧集平台StoReel App以及AI剧集工具社区StoReel Canvas，致力于打造系列化剧集内容的创作、发行和变现体系。</p>\n  <p>公司由海外市场短剧赛道转化而来，自2024年底至2025年初开始系统性地探索AI在短剧生产和内容创作中的应用。</p>\n  <h2><strong>融资进展</strong></h2"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "拓竹招人！SHEIN招人！10+好公司一起招人！｜人才留言板第二期",
-      "url": "https://36kr.com/p/3738062628962563?f=rss",
+      "title": "氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议",
+      "url": "https://36kr.com/p/3739460842078470?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260325/v2_5b651458b0d94a019ab79453d0a61dc8@5807859_oswg4042089oswg1875oswg1875_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源:36kr</p>\n  <p>每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪独家｜红杉中国、Monolith领投AI健康硬件公司「Odyss」，金额近2亿元",
-      "url": "https://36kr.com/p/3738226479874304?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，AI健康硬件公司「OdyssLife」（以下简称“Odyss”）已于近期连续完成多轮融资，总金额近2亿元人民币。本次融资由红杉中国、Monolith分别领投，老股东线性资本、Creekstone继续加注。</p>\n  <p>本轮融资金将主要用于产品软硬件研发、全球市场营销以及团队扩张。</p>\n  <p>在AI硬件赛道备受资本追捧的当下，Odyss切入的是一个高频且尚未被数字化充分改造的场景——饮食健康监测。</p>\n  <p>Odyss首款产品Odyss N1是全球"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3739359611617283\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>三星、SK等韩国企业实施车辆限行等节能措施，响应政府节能政策</strong></a></p>\n  <p>据报道，以三星和SK为首的韩国各大企业集团已推出一系列节能措施，包括关闭办公区照明以及对驾车上班的员工实施车辆限行等，以响应韩国政府的节能政策。三星宣布从26日起在所有国内业务场所实施车辆限行制度，为期十天，该"
     }
   ]
 }

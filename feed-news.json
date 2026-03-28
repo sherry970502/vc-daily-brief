@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-03-28T03:41:47.851209+00:00",
+  "updated_at": "2026-03-28T14:59:02.045978+00:00",
   "period_hours": 24,
-  "article_count": 29,
+  "article_count": 27,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "published_at": "2026-03-28T14:15:00+00:00",
+      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "What will power the grid in 2035? The race is wide open",
+      "url": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
+      "published_at": "2026-03-28T13:05:00+00:00",
+      "summary": "Fusion, fission, and even natural gas are appeared tied in the race to deliver new power to the grid in the early 2030s."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Let’s take a look at the retro tech making a comeback",
+      "url": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+      "published_at": "2026-03-28T13:00:00+00:00",
+      "summary": "Boomboxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
+      "url": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
+      "published_at": "2026-03-28T12:00:00+00:00",
+      "summary": "We polled nearly a dozen VCs to find out which W26 startups are the sought after in the batch."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -36,38 +68,6 @@
       "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage."
     },
     {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Waymo’s skyrocketing ridership in one chart",
-      "url": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
-      "published_at": "2026-03-27T19:11:10+00:00",
-      "summary": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "European Commission confirms cyberattack after hackers claim data breach",
-      "url": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
-      "published_at": "2026-03-27T17:59:29+00:00",
-      "summary": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
-      "url": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
-      "published_at": "2026-03-27T17:05:26+00:00",
-      "summary": "Index Ventures is said to be leading a $250 million to $350 million round."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Rivian gets another $1B from Volkswagen",
-      "url": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/",
-      "published_at": "2026-03-27T15:47:03+00:00",
-      "summary": "The two companies have been collaborating on a joint venture that would see Rivian tech go in VW's EVs."
-    },
-    {
       "source": "Crunchbase News",
       "lang": "en",
       "title": "The Week’s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By AI And Defense",
@@ -76,76 +76,68 @@
       "summary": "The pace of large-scale dealmaking picked up some this week, led by OpenAI’s disclosure that it raised another $10 billion. Other big financings went to startups and growth-stage companies in sectors including defense tech, enterprise AI, autonomy and even laundry."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Austin’s Star Is Still Shining Bright: Venture Funding To City’s Startups Hits All-Time High",
-      "url": "https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/",
-      "published_at": "2026-03-27T11:00:26+00:00",
-      "summary": "Austin’s startup scene is stronger than ever. That’s the consensus among investors in the city, and it’s borne out by Crunchbase data, which shows startups headquartered in the Lone Star State’s capital raised a record $7.19 billion in venture funding in 2025."
+      "title": "Trump signs order to pay TSA workers after House GOP rejects deal to end shutdown. ‘America’s air travel system has reached its breaking point’",
+      "url": "https://fortune.com/2026/03/28/trump-order-pay-tsa-workers-house-gop-dhs-shutdown-air-travel-airport-security-lines/",
+      "published_at": "2026-03-28T14:19:20+00:00",
+      "summary": "\"I have determined that these circumstances constitute an emergency situation compromising the Nation’s security.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meta orders 10 gas-fired power plants for its Hyperion AI campus in rural Louisiana—more than triple the initial plan",
-      "url": "https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/",
-      "published_at": "2026-03-27T21:50:36+00:00",
-      "summary": "The Meta AI complex represents an over 30% increase to Louisiana’s total power grid capacity."
+      "title": "Iran-backed Houthis claim first missile launch on Israel, raising fears they will attack ships in the Red Sea and disrupt traffic through Suez Canal",
+      "url": "https://fortune.com/2026/03/28/iran-backed-houthis-first-missile-launch-israel-ships-red-sea-traffic-suez-canal/",
+      "published_at": "2026-03-28T14:10:24+00:00",
+      "summary": "About 10% of global maritime trade — including 40% of container ship traffic — passes through the canal each year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meta promised it wouldn’t spy on you with its AI smart glasses. A lawsuit says humans are watching you, actually",
-      "url": "https://fortune.com/2026/03/27/meta-smart-glasses-filming-watching-workers-lawsuit-privacy/",
-      "published_at": "2026-03-27T21:02:28+00:00",
-      "summary": "A bombshell investigation into Meta’s AI training pipeline found overseas contractors watching footage from the smart glasses."
+      "title": "Are you addicted to technology? 6 questions experts use to help spot red flags",
+      "url": "https://fortune.com/2026/03/28/tech-addiction-questions-verdict-meta-youtube/",
+      "published_at": "2026-03-28T07:00:00+00:00",
+      "summary": "A landmark court ruling has many asking whether their own tech use should raise red flags. Clinicians in the field suggest asking yourself a few brutally honest questions."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Macy’s just launched an AI-powered shopping assistant. Customers who use it spend nearly 400% more",
-      "url": "https://fortune.com/2026/03/27/macys-ai-powered-shopping-assistant-customers-spending-google-gemini/",
-      "published_at": "2026-03-27T22:11:45+00:00",
-      "summary": "The “Ask Macy’s” chatbot may help the company’s comeback and reverse declining sales."
+      "title": "Meet a 29-year-old blue-collar founder who used AI to triple his revenue in 3 years",
+      "url": "https://fortune.com/2026/03/28/ai-small-business-entrepreneur-1-million-blue-collar/",
+      "published_at": "2026-03-28T11:30:00+00:00",
+      "summary": "Rick Chorney dropped out of high school because he needed to find his own place. Ten years later, he's about to cross the $1 million revenue line."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Apple cofounder Steve Wozniak admits he’s ‘disappointed a lot’ by AI and hardly uses it: ‘They just sound too dry and too perfect’",
-      "url": "https://fortune.com/2026/03/27/apple-cofounder-steve-wozniak-ai-use-analog-apple-50-years/",
-      "published_at": "2026-03-27T20:40:26+00:00",
-      "summary": "“I really have disconnected from the technology quite a bit,” Wozniak said in a recent CNN interview."
+      "title": "The stay-at-home boyfriend is now an economic trend as more women than men go to work",
+      "url": "https://fortune.com/2026/03/28/men-home-women-workforce-economics-gender-change/",
+      "published_at": "2026-03-28T12:01:00+00:00",
+      "summary": "Women now hold more jobs than men in America, for the third time ever. A Federal Reserve economist says this time, it's not reversing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Indonesia faces a ‘perfect storm’ of downgrade fears, trade tensions and now the Iran war—and 2026 has only just started",
-      "url": "https://fortune.com/2026/03/27/indonesia-markets-msci-danantara-hormuz-iran-war/",
-      "published_at": "2026-03-27T21:00:00+00:00",
-      "summary": "Indonesia's difficult start to the year includes signing a trade deal the day before the U.S. Supreme Court overruled Trump's tariffs."
+      "title": "What avalanche safety training can teach corporate boards about bad decisions",
+      "url": "https://fortune.com/2026/03/28/corporate-boards-bad-decisions-avalanche-training/",
+      "published_at": "2026-03-28T11:30:00+00:00",
+      "summary": "When everyone agrees, that might be the biggest warning sign of all."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump moves to shield farmers rattled by tariffs and war. But the U.S. is already doling out $10B to near-millionaire and even billionaire farmers",
-      "url": "https://fortune.com/2026/03/27/trump-farmers-announcement-12-billion-wealthy-landowners/",
-      "published_at": "2026-03-27T19:18:37+00:00",
-      "summary": "A recent Cato Institute post outlined how the federal crop insurance program bolsters wealthy farmers."
+      "title": "Former Trump advisor: ‘Conservatives’ risk killing America’s golden goose by taxing university research",
+      "url": "https://fortune.com/2026/03/28/university-patent-licensing-bayh-dole-rd-tax-conservatives-philipson/",
+      "published_at": "2026-03-28T11:15:00+00:00",
+      "summary": "Proposals to levy royalties on university patent licensing threaten to gut the tech-transfer system that spawned Google, Biogen and nearly 20,000 startups."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Army and Amazon are creating an online storefront to buy drones as the technology transforms the battlefield",
-      "url": "https://fortune.com/2026/03/27/drone-warfare-amazon-army-online-uas-storefront-battlefield-ukraine-iran-wars/",
-      "published_at": "2026-03-27T18:14:00+00:00",
-      "summary": "Warfare is changing dramatically as demonstrated by Iran and Ukraine, where large salvos of cheap drones have overwhelmed traditional defenses."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "He fled apartheid South Africa at 26—then built a $13 billion Fortune 500 company. Here are his rules",
-      "url": "https://fortune.com/2026/03/27/henry-schein-stan-bergman-ceo-dental-supply-fortune-500-company-leadership/",
-      "published_at": "2026-03-27T12:30:00+00:00",
-      "summary": "Bergman developed a leadership philosophy that endured for his more than three decades at the helm of the company."
+      "title": "Elon Musk’s companies, once welcomed in Baltimore with open arms, are now getting stiff-armed—or sued",
+      "url": "https://fortune.com/2026/03/28/elon-musks-companies-once-welcomed-in-baltimore-with-open-arms-are-now-getting-stiff-armed-or-sued/",
+      "published_at": "2026-03-28T11:15:00+00:00",
+      "summary": "The demise of a Boring Co tunnel to the Ravens football stadium, within hours of the city's lawsuit against xAI, is a striking illustration of how Musk’s transformation into a political lightning rod may be taking a toll on his various ventures."
     },
     {
       "source": "VentureBeat",
@@ -158,18 +150,18 @@
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
-      "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
-      "published_at": "2026-03-27T12:32:54+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a couple of ski bums built the internet’s best weather app&#160; The best snow-forecasting app for skiers&#160;isn’t&#160;a&#160;federally-funded&"
+      "title": "A woman’s uterus has been kept alive outside the body for the first time",
+      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+      "published_at": "2026-03-28T09:00:00+00:00",
+      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
-      "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
-      "published_at": "2026-03-27T09:00:00+00:00",
-      "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And before he died, he decided to have his brain preserve"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫",
+      "url": "https://36kr.com/p/3738258350817540?f=rss",
+      "published_at": null,
+      "summary": "<p>2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。</p>\n  <p>AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但这并非赛道式微的信号，反而意味着市场细分需求将被充分激活，行业总盘持续扩大。</p>\n  <p>在他看来，这场变革远不止于效率提升。从“"
     },
     {
       "source": "36氪",
@@ -226,14 +218,6 @@
       "url": "https://36kr.com/p/3740850993037312?f=rss",
       "published_at": null,
       "summary": "<p>作者 | 黄绎达</p>\n  <p>编辑 | 张帆</p>\n  <p>3月25日，知乎（证券代码：ZH.N；2039.HK）发布了2025年全年业绩。</p>\n  <p>知乎2025年财报最核心的亮点，<strong>是首次实现全年非公认会计准则（Non-GAAP）盈利，</strong>对应的全年经调整净利润为3790万元。分季度来看，2024Q4~2025Q2，知乎连续三个季度实现单季度Non-GAAP盈利；其中，2025Q2表现最佳，实现了首次单季度盈利，该季度净利润录得7248万元，同期Non-GAAP净利润为9134万元。</p>\n  <p>由此可见，2025年上半年业绩端的良"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资",
-      "url": "https://36kr.com/p/3740899945136130?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜<strong>任倩</strong></p>\n  <p>具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成数据和人类视频数据（EgoSuite）的混合路线，宣称累计交付突破100万小时，估值飙向十亿美金。</p>\n  <p>几个月内，行业关注点已不再"
     }
   ]
 }

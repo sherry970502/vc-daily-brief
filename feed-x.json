@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-28T03:41:21.435767+00:00",
+  "updated_at": "2026-03-28T14:58:35.516269+00:00",
   "period_hours": 24,
-  "tweet_count": 62,
+  "tweet_count": 54,
   "tweets": [
     {
       "account": "@sama",
@@ -12,28 +12,44 @@
       "url": "https://x.com/sama/status/2037610000122839116"
     },
     {
-      "account": "@sama",
-      "name": "Sam Altman",
-      "org": "OpenAI",
-      "created_at": "2026-03-27T05:10:30.000Z",
-      "text": "The coolest meeting I had this week with was Paul, who used ChatGPT and other LLMs to create an mRNA vaccine protocol to save his dog Rosie. It is amazing story.\n\n\"The chat bots empowered me as an individual to act with the power of a research institute - planning, education, https://t.co/akgD2Wz7d0",
-      "url": "https://x.com/sama/status/2037396826060673188"
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-03-28T09:02:47.000Z",
+      "text": "VI. The Deepest Problem: Wants Are Infinite, Time Is Finite\nThe most fundamental reason the lump-of-labor fallacy fails — in its AGI application as in all prior applications — is that human wants are effectively infinite and human time is absolutely finite.\nEven in a world where",
+      "url": "https://x.com/pmarca/status/2037817668489928739"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-03-27T17:05:16.000Z",
-      "text": "https://t.co/deQLjrEgG5",
-      "url": "https://x.com/pmarca/status/2037576699299430855"
+      "created_at": "2026-03-28T09:02:33.000Z",
+      "text": "IV. The Historical Record Is Unambiguous\nLet me make the empirical case as starkly as possible, because the catastrophists often try to retreat to “but this time is different” when the theoretical argument against them is made.\nAgricultural revolution (1700-1900): Mechanization",
+      "url": "https://x.com/pmarca/status/2037817609526370333"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-03-27T07:51:28.000Z",
-      "text": "The descent into authoritarian hell. We must never forget. https://t.co/kcNGxPmZRW",
-      "url": "https://x.com/pmarca/status/2037437331351929222"
+      "created_at": "2026-03-28T09:01:41.000Z",
+      "text": "Gap C: The Argument Confuses Transitional Friction With Structural Permanence\nEven granting that AGI displaces significant numbers of workers from existing jobs, this says nothing about long-run unemployment equilibrium. Every major technological transition produces transitional",
+      "url": "https://x.com/pmarca/status/2037817389170020374"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-03-28T09:00:46.000Z",
+      "text": "III. The Specific Structure of the AGI Unemployment Argument and Where It Goes Wrong\nThe AGI catastrophist argument typically runs like this:\n1.AGI will be capable of performing any cognitive task a human can perform.\n2.Cognitive tasks constitute the majority of employment in",
+      "url": "https://x.com/pmarca/status/2037817160274456775"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-03-28T08:59:51.000Z",
+      "text": "Channel 2: The Baumol Effect and the Inexhaustibility of Human Want\nWilliam Baumol’s “cost disease” is usually discussed as a problem, but it contains within it the answer to why technological unemployment can never be permanent at the macroeconomic level.\nBaumol observed that",
+      "url": "https://x.com/pmarca/status/2037816930082627894"
     },
     {
       "account": "@chamath",
@@ -116,22 +132,6 @@
       "url": "https://x.com/jason/status/2037617126261829796"
     },
     {
-      "account": "@davidsacks",
-      "name": "David Sacks",
-      "org": "Craft Ventures",
-      "created_at": "2026-03-27T14:55:17.000Z",
-      "text": "Thanks @ChairmanSelig. Getting crypto market structure legislation across the finish line remains a vital part of the President’s pro-innovation technology agenda which we will continue to push. https://t.co/nexvOmzn7U",
-      "url": "https://x.com/davidsacks/status/2037543989390229515"
-    },
-    {
-      "account": "@davidsacks",
-      "name": "David Sacks",
-      "org": "Craft Ventures",
-      "created_at": "2026-03-27T03:47:34.000Z",
-      "text": "After all the accomplishments in our first year, President Trump has even bigger priorities for 2026. The President's Council of Advisors on Science and Technology is hitting the ground running to deliver more wins for America. \n\nhttps://t.co/XGa8BY90Xo",
-      "url": "https://x.com/davidsacks/status/2037375953412735231"
-    },
-    {
       "account": "@bfeld",
       "name": "Brad Feld",
       "org": "Foundry Group / Techstars",
@@ -151,81 +151,81 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-27T22:31:50.000Z",
-      "text": "This needs to change https://t.co/xHqLDHjQQM",
-      "url": "https://x.com/elonmusk/status/2037658885117628489"
+      "created_at": "2026-03-28T11:12:53.000Z",
+      "text": "Given that I have built two companies in widely different fields to trillion dollar plus valuations simultaneously, I am might be getting a few things right once in a while https://t.co/mcE0FQCWmC",
+      "url": "https://x.com/elonmusk/status/2037850410535550990"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-27T18:13:49.000Z",
-      "text": "Cybertruck is quicker than a Porsche 911, more powerful than a Ford Raptor https://t.co/BFLuRBQVxH",
-      "url": "https://x.com/elonmusk/status/2037593953260990974"
+      "created_at": "2026-03-28T10:47:05.000Z",
+      "text": "Model Y is #1 https://t.co/OpBLyJUGtw",
+      "url": "https://x.com/elonmusk/status/2037843915206959242"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-27T18:10:50.000Z",
-      "text": "Grok holds the line https://t.co/ab8Kki9w80",
-      "url": "https://x.com/elonmusk/status/2037593200807100680"
+      "created_at": "2026-03-28T10:46:24.000Z",
+      "text": "Grok gets faster &amp; smarter every week https://t.co/VaBzYsksJs",
+      "url": "https://x.com/elonmusk/status/2037843744255521238"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-27T17:26:26.000Z",
-      "text": "Absolutely https://t.co/yi4XC75Oq5",
-      "url": "https://x.com/elonmusk/status/2037582028393345442"
+      "created_at": "2026-03-28T10:33:02.000Z",
+      "text": "The uniparty in action https://t.co/gzpK0oFLHk",
+      "url": "https://x.com/elonmusk/status/2037840379467432095"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-27T16:31:07.000Z",
-      "text": "Exactly https://t.co/VRfqFmvBZj",
-      "url": "https://x.com/elonmusk/status/2037568108635013617"
+      "created_at": "2026-03-28T10:28:19.000Z",
+      "text": "It is the end of democracy if voter ID is not passed https://t.co/l5VRstc6ea",
+      "url": "https://x.com/elonmusk/status/2037839193054036218"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-03-28T02:33:51.000Z",
-      "text": "GStack v0.13 is now live as of 1 minute ago with the new skill /design-shotgun\n\nEnjoy and let me know if you like it! https://t.co/At0febeKk7",
-      "url": "https://x.com/garrytan/status/2037719789905580434"
+      "created_at": "2026-03-28T14:50:18.000Z",
+      "text": "New GStack ETHOS.md rule\n\nUser Sovereignty: AI models recommend. Users decide. This is the one rule that overrides all others.\n\nTwo AI models agreeing on a change is a strong signal. It is not a mandate. The user always has context that models lack: domain knowledge, business",
+      "url": "https://x.com/garrytan/status/2037905125055033351"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-03-28T02:33:51.000Z",
-      "text": "Throw it at any context you are trying to figure out and it'll run with it. It'll generate in parallel too. https://t.co/PfXjjkfXPX",
-      "url": "https://x.com/garrytan/status/2037719787925844364"
+      "created_at": "2026-03-28T14:42:11.000Z",
+      "text": "I'm already bumping up against interesting moments between models and myself, the developer\n\nI had to add this today to ETHOS.md\n\n**User sovereignty.** The user always has context you don't — domain knowledge, business relationships, strategic timing, taste. When you and another",
+      "url": "https://x.com/garrytan/status/2037903080583471352"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-03-27T23:21:16.000Z",
-      "text": "Our Asian American elders deserve justice, and that's not what our community is getting from the SF Superior Court. https://t.co/TnOSstZxdU",
-      "url": "https://x.com/garrytan/status/2037671325922365841"
+      "created_at": "2026-03-28T13:31:31.000Z",
+      "text": "Remixing tasks that are in distribution is easy\n\nIt’s doing new things that are still hard and require human agency and taste\n\nNo amount of harnesses or special skills (including GStack) is a replacement for you knowing what you want and pushing on it til you have it https://t.co/Iz4xWmMRKf",
+      "url": "https://x.com/garrytan/status/2037885297946685945"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-03-27T22:55:24.000Z",
-      "text": "SF Judge Linda Colfax let Grandpa Vicha's killer walk free yesterday and said imprisonment would have a \"poor impact\" on him. \n\nHer term runs to 2029. California law allows a recall. It's time to organized. \n\nhttps://t.co/4cAKLqt0m0",
-      "url": "https://x.com/garrytan/status/2037664814181605384"
+      "created_at": "2026-03-28T13:20:01.000Z",
+      "text": "This is now shipped and live in GStack! https://t.co/bvacjzrIbI",
+      "url": "https://x.com/garrytan/status/2037882400743764435"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-03-27T20:05:57.000Z",
-      "text": "This guy is trying to represent a district he doesn’t know, doesn’t vote in, and the only thing he brings to table is bad ideology and his Stripe multimillionaire status\n\nIt’s ridiculous https://t.co/AujqDsDp5k",
-      "url": "https://x.com/garrytan/status/2037622172143976692"
+      "created_at": "2026-03-28T06:18:03.000Z",
+      "text": "This is why on GStack I usually just run /plan-eng-review and /ship and it works https://t.co/qZ2dYsxrdk",
+      "url": "https://x.com/garrytan/status/2037776210898600402"
     },
     {
       "account": "@andrewchen",
@@ -263,9 +263,9 @@
       "account": "@gregisenberg",
       "name": "Greg Isenberg",
       "org": "Late Checkout",
-      "created_at": "2026-03-27T13:58:26.000Z",
-      "text": "The marginal cost of creating a company is approaching zero. \n\nAnd when the cost of creating something approaches zero, the number of things created approaches infinity. \n\nThat's just math.\n\nWe're about to see an explosion of new companies over the next 10 years.",
-      "url": "https://x.com/gregisenberg/status/2037529682439000348"
+      "created_at": "2026-03-28T12:16:38.000Z",
+      "text": "Most SaaS products are a collection of workflows that can be rewritten as agent skills\n\nMany will die\n\nThe top ones will pivot to agent companies",
+      "url": "https://x.com/gregisenberg/status/2037866453492220297"
     },
     {
       "account": "@venturetwins",
@@ -324,52 +324,12 @@
       "url": "https://x.com/balajis/status/2037592784685920459"
     },
     {
-      "account": "@balajis",
-      "name": "Balaji Srinivasan",
-      "org": "Independent",
-      "created_at": "2026-03-27T13:43:02.000Z",
-      "text": "So far, Nayib Bukele is on track to be the Lee Kuan Yew of Latin America. The Simon Bolivar of the new century.\n\nHe focused on building up his own country. He embraced hard money and cut off hard drugs.\n\nHe did imprison criminals, but did so with the minimum necessary force. He",
-      "url": "https://x.com/balajis/status/2037525806239674728"
-    },
-    {
-      "account": "@balajis",
-      "name": "Balaji Srinivasan",
-      "org": "Independent",
-      "created_at": "2026-03-27T13:32:45.000Z",
-      "text": "Bukele is the greatest American president of the 21st century. https://t.co/9BmKLRoLQh",
-      "url": "https://x.com/balajis/status/2037523217712312423"
-    },
-    {
       "account": "@rrhoover",
       "name": "Ryan Hoover",
       "org": "Weekend Fund",
       "created_at": "2026-03-27T22:02:37.000Z",
       "text": "Shoutout to @northflank for hooking it up :) https://t.co/QRLx0DNELw",
       "url": "https://x.com/rrhoover/status/2037651531047059690"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-03-27T14:13:28.000Z",
-      "text": "From my brand-new Q&amp;A: https://t.co/jihW7WdeJd",
-      "url": "https://x.com/tferriss/status/2037533464468090928"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-03-27T14:13:07.000Z",
-      "text": "\"What is the most generous interpretation of this?\" https://t.co/AVhxjI8GMo",
-      "url": "https://x.com/tferriss/status/2037533377499119707"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-03-27T13:03:40.000Z",
-      "text": "If you don’t prioritize, everything seems urgent and important. \n\nIf you define the single most important task for each day, almost nothing seems urgent or important. \n\nOftentimes, it’s just a matter of letting little bad things happen (return a phone call late and apologize, pay",
-      "url": "https://x.com/tferriss/status/2037515901025595871"
     },
     {
       "account": "@a16z",
@@ -426,30 +386,6 @@
       "created_at": "2026-03-27T16:01:33.000Z",
       "text": "Sherwood Callaway (@shcallaway) is a second-time YC founder building @sazabi, an AI-native observability platform that helps engineers understand and fix production issues using AI.\n\nAfter years debugging production systems at companies like Brex, and building and exiting his https://t.co/FM7kTdpwLA",
       "url": "https://x.com/ycombinator/status/2037560666551353411"
-    },
-    {
-      "account": "@ycombinator",
-      "name": "Y Combinator",
-      "org": "Y Combinator",
-      "created_at": "2026-03-27T14:00:31.000Z",
-      "text": "@fchollet @LightconePod Tune in: https://t.co/gt6f1vEhC1 https://t.co/Y5aRt91keF",
-      "url": "https://x.com/ycombinator/status/2037530206991524252"
-    },
-    {
-      "account": "@ycombinator",
-      "name": "Y Combinator",
-      "org": "Y Combinator",
-      "created_at": "2026-03-27T14:00:01.000Z",
-      "text": "François Chollet (@fchollet) has spent years asking a different question than most of the AI world. Instead of scaling what already works, he’s trying to understand what intelligence actually is and how to build it from first principles.\n\nIn this episode of the @LightconePod, he https://t.co/7KNmS6UJRB",
-      "url": "https://x.com/ycombinator/status/2037530081732534524"
-    },
-    {
-      "account": "@ycombinator",
-      "name": "Y Combinator",
-      "org": "Y Combinator",
-      "created_at": "2026-03-27T13:00:02.000Z",
-      "text": "GojiberryAI is a GTM brain for small sales teams. It finds people showing buying intent on LinkedIn, starts conversations, handles replies, and books qualified demos automatically.\n\nCongrats on the launch, @romanbuildsaas, @pierreeliottlal, and Dylan!\n\nhttps://t.co/yXqIXVGqlM https://t.co/wbYUehmYrv",
-      "url": "https://x.com/ycombinator/status/2037514986931593286"
     },
     {
       "account": "@firstround",

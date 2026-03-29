@@ -1,8 +1,24 @@
 {
-  "updated_at": "2026-03-29T03:58:51.792726+00:00",
+  "updated_at": "2026-03-29T12:32:45.830600+00:00",
   "period_hours": 24,
-  "tweet_count": 41,
+  "tweet_count": 42,
   "tweets": [
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-03-29T08:55:16.000Z",
+      "text": "Self-recommending. Subscribe now! https://t.co/I3wVTsIsJV",
+      "url": "https://x.com/pmarca/status/2038178164963483987"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-03-29T08:48:24.000Z",
+      "text": "Claude responds:\n\nThe \"Rising Cost of Existence\" Claim Has No Mechanism — And the Default Technological Trajectory Is the Opposite\nThe argument asserts that AI pushes the cost of human existence up. This is stated, not argued. And it runs directly contrary to the entire https://t.co/yGvflyVaPk",
+      "url": "https://x.com/pmarca/status/2038176435618418804"
+    },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
@@ -26,22 +42,6 @@
       "created_at": "2026-03-28T22:51:35.000Z",
       "text": "Cc @slatestarcodex https://t.co/dUWCeenqOp",
       "url": "https://x.com/pmarca/status/2038026243866792329"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-03-28T09:02:47.000Z",
-      "text": "VI. The Deepest Problem: Wants Are Infinite, Time Is Finite\nThe most fundamental reason the lump-of-labor fallacy fails — in its AGI application as in all prior applications — is that human wants are effectively infinite and human time is absolutely finite.\nEven in a world where",
-      "url": "https://x.com/pmarca/status/2037817668489928739"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-03-28T09:02:33.000Z",
-      "text": "IV. The Historical Record Is Unambiguous\nLet me make the empirical case as starkly as possible, because the catastrophists often try to retreat to “but this time is different” when the theoretical argument against them is made.\nAgricultural revolution (1700-1900): Mechanization",
-      "url": "https://x.com/pmarca/status/2037817609526370333"
     },
     {
       "account": "@chamath",
@@ -135,41 +135,41 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-03-29T06:16:27.000Z",
+      "text": "Tesla FSD https://t.co/hypE4TIWpR",
+      "url": "https://x.com/elonmusk/status/2038138194861166638"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-03-29T06:11:52.000Z",
+      "text": "True https://t.co/KEYFJz7DJm",
+      "url": "https://x.com/elonmusk/status/2038137043629592827"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-03-29T06:07:48.000Z",
+      "text": "The Starship factory is stunning https://t.co/pu0dT5hrYa",
+      "url": "https://x.com/elonmusk/status/2038136018587849118"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-03-29T06:04:02.000Z",
+      "text": "Tesla AI self-driving will be &gt;10X safer than human driving https://t.co/tkHs4Ni6WW",
+      "url": "https://x.com/elonmusk/status/2038135071836893440"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
       "created_at": "2026-03-28T17:10:15.000Z",
       "text": "The fraudsters always come up with the most sympathetic excuses and do so very loudly, because that is what swindlers do https://t.co/bUT1UjH1Kk",
       "url": "https://x.com/elonmusk/status/2037940344596439303"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-28T16:55:18.000Z",
-      "text": "Europe will love Tesla self-driving!\n\nDue to the extreme regulatory burden of the EU, which in general stifles innovation in Europe, Tesla owners there have been stuck with basic lane-following. https://t.co/UMb5CBfzx0",
-      "url": "https://x.com/elonmusk/status/2037936582519623919"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-28T11:12:53.000Z",
-      "text": "Given that I have built two companies in widely different fields to trillion dollar plus valuations simultaneously, I am might be getting a few things right once in a while https://t.co/mcE0FQCWmC",
-      "url": "https://x.com/elonmusk/status/2037850410535550990"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-28T10:47:05.000Z",
-      "text": "Model Y is #1 https://t.co/OpBLyJUGtw",
-      "url": "https://x.com/elonmusk/status/2037843915206959242"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-28T10:46:24.000Z",
-      "text": "Grok gets faster &amp; smarter every week https://t.co/VaBzYsksJs",
-      "url": "https://x.com/elonmusk/status/2037843744255521238"
     },
     {
       "account": "@garrytan",
@@ -210,6 +210,22 @@
       "created_at": "2026-03-28T19:37:07.000Z",
       "text": "many such cases https://t.co/7AbmihYRZ9",
       "url": "https://x.com/garrytan/status/2037977304257958002"
+    },
+    {
+      "account": "@andrewchen",
+      "name": "Andrew Chen",
+      "org": "a16z",
+      "created_at": "2026-03-29T06:12:57.000Z",
+      "text": "*Too many people gated previously.",
+      "url": "https://x.com/andrewchen/status/2038137315353313301"
+    },
+    {
+      "account": "@andrewchen",
+      "name": "Andrew Chen",
+      "org": "a16z",
+      "created_at": "2026-03-29T04:35:15.000Z",
+      "text": "on the “will AI kill jobs?” question- perhaps I have a simplistic view:\n\nWill there be more software in the future? I think yes. Too many people hated previously. Thus will there be more products in the future? Yes. Will there be more companies? Yes. More founders? Yes. \n\nIt may",
+      "url": "https://x.com/andrewchen/status/2038112727776838037"
     },
     {
       "account": "@andrewchen",
@@ -271,25 +287,17 @@
       "account": "@gregisenberg",
       "name": "Greg Isenberg",
       "org": "Late Checkout",
-      "created_at": "2026-03-28T18:29:50.000Z",
-      "text": "the \"single until series b\" trend has got to be one of the worst trends to come out of silicon valley in a long time\n\nmy greatest joy is my wife, my child, and my business\n\nyou can have it all https://t.co/BvqIbIZbfd",
-      "url": "https://x.com/gregisenberg/status/2037960368924819759"
+      "created_at": "2026-03-29T11:43:04.000Z",
+      "text": "How to 10x your Claude with 4 .md files https://t.co/GumVmoQz8O",
+      "url": "https://x.com/gregisenberg/status/2038220390665724001"
     },
     {
       "account": "@gregisenberg",
       "name": "Greg Isenberg",
       "org": "Late Checkout",
-      "created_at": "2026-03-28T12:16:38.000Z",
-      "text": "Most SaaS products are a collection of workflows that can be rewritten as agent skills\n\nMany will die\n\nThe top ones will pivot to agent companies",
-      "url": "https://x.com/gregisenberg/status/2037866453492220297"
-    },
-    {
-      "account": "@venturetwins",
-      "name": "Venture Twins",
-      "org": "Angel",
-      "created_at": "2026-03-29T03:46:42.000Z",
-      "text": "I love the Japan algorithm https://t.co/31ubINGdTZ",
-      "url": "https://x.com/venturetwins/status/2038100511703121992"
+      "created_at": "2026-03-28T18:29:50.000Z",
+      "text": "the \"single until series b\" trend has got to be one of the worst trends to come out of silicon valley in a long time\n\nmy greatest joy is my wife, my child, and my business\n\nyou can have it all https://t.co/BvqIbIZbfd",
+      "url": "https://x.com/gregisenberg/status/2037960368924819759"
     },
     {
       "account": "@venturetwins",

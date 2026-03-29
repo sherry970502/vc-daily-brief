@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-03-28T14:59:02.045978+00:00",
+  "updated_at": "2026-03-29T03:59:19.352156+00:00",
   "period_hours": 24,
-  "article_count": 27,
+  "article_count": 26,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "published_at": "2026-03-28T23:00:00+00:00",
+      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+      "url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+      "published_at": "2026-03-28T21:23:58+00:00",
+      "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_at": "2026-03-28T20:45:54+00:00",
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "published_at": "2026-03-28T16:11:16+00:00",
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "These iPad apps will make you wish you had more free time",
+      "url": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+      "published_at": "2026-03-28T16:00:00+00:00",
+      "summary": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -28,108 +68,20 @@
       "summary": "Boomboxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available."
     },
     {
-      "source": "TechCrunch",
+      "source": "Fortune",
       "lang": "en",
-      "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
-      "url": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
-      "published_at": "2026-03-28T12:00:00+00:00",
-      "summary": "We polled nearly a dozen VCs to find out which W26 startups are the sought after in the batch."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Whoop has LeBron – now it wants your mom",
-      "url": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
-      "published_at": "2026-03-28T02:31:10+00:00",
-      "summary": "Whoop founder Will Ahmed has spent 14 years building a health wearable beloved by elite athletes, and is now racing Oura — and the FDA, and the limits of consumer medicine — to turn it into something that could one day save your life."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
-      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
-      "published_at": "2026-03-27T23:59:40+00:00",
-      "summary": "The deal would effectively double the company's $5.6 billion valuation in just four months."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-      "published_at": "2026-03-27T21:44:45+00:00",
-      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
-      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-      "published_at": "2026-03-27T19:11:28+00:00",
-      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By AI And Defense",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/",
-      "published_at": "2026-03-27T16:15:30+00:00",
-      "summary": "The pace of large-scale dealmaking picked up some this week, led by OpenAI’s disclosure that it raised another $10 billion. Other big financings went to startups and growth-stage companies in sectors including defense tech, enterprise AI, autonomy and even laundry."
+      "title": "Bruce Springsteen headlines Minnesota ‘No Kings’ rally as anti-Trump protesters march across the U.S. and Europe",
+      "url": "https://fortune.com/2026/03/28/bruce-springsteen-minnesota-no-kings-rally-anti-trump-protesters-us-europe/",
+      "published_at": "2026-03-28T23:08:31+00:00",
+      "summary": "Springsteen performed “Streets of Minneapolis,” the song he wrote in response to the fatal shootings of Renee Good and Alex Pretti by federal agents."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump signs order to pay TSA workers after House GOP rejects deal to end shutdown. ‘America’s air travel system has reached its breaking point’",
-      "url": "https://fortune.com/2026/03/28/trump-order-pay-tsa-workers-house-gop-dhs-shutdown-air-travel-airport-security-lines/",
-      "published_at": "2026-03-28T14:19:20+00:00",
-      "summary": "\"I have determined that these circumstances constitute an emergency situation compromising the Nation’s security.”"
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Iran-backed Houthis claim first missile launch on Israel, raising fears they will attack ships in the Red Sea and disrupt traffic through Suez Canal",
-      "url": "https://fortune.com/2026/03/28/iran-backed-houthis-first-missile-launch-israel-ships-red-sea-traffic-suez-canal/",
-      "published_at": "2026-03-28T14:10:24+00:00",
-      "summary": "About 10% of global maritime trade — including 40% of container ship traffic — passes through the canal each year."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Are you addicted to technology? 6 questions experts use to help spot red flags",
-      "url": "https://fortune.com/2026/03/28/tech-addiction-questions-verdict-meta-youtube/",
-      "published_at": "2026-03-28T07:00:00+00:00",
-      "summary": "A landmark court ruling has many asking whether their own tech use should raise red flags. Clinicians in the field suggest asking yourself a few brutally honest questions."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Meet a 29-year-old blue-collar founder who used AI to triple his revenue in 3 years",
-      "url": "https://fortune.com/2026/03/28/ai-small-business-entrepreneur-1-million-blue-collar/",
-      "published_at": "2026-03-28T11:30:00+00:00",
-      "summary": "Rick Chorney dropped out of high school because he needed to find his own place. Ten years later, he's about to cross the $1 million revenue line."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The stay-at-home boyfriend is now an economic trend as more women than men go to work",
-      "url": "https://fortune.com/2026/03/28/men-home-women-workforce-economics-gender-change/",
-      "published_at": "2026-03-28T12:01:00+00:00",
-      "summary": "Women now hold more jobs than men in America, for the third time ever. A Federal Reserve economist says this time, it's not reversing."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "What avalanche safety training can teach corporate boards about bad decisions",
-      "url": "https://fortune.com/2026/03/28/corporate-boards-bad-decisions-avalanche-training/",
-      "published_at": "2026-03-28T11:30:00+00:00",
-      "summary": "When everyone agrees, that might be the biggest warning sign of all."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Former Trump advisor: ‘Conservatives’ risk killing America’s golden goose by taxing university research",
-      "url": "https://fortune.com/2026/03/28/university-patent-licensing-bayh-dole-rd-tax-conservatives-philipson/",
-      "published_at": "2026-03-28T11:15:00+00:00",
-      "summary": "Proposals to levy royalties on university patent licensing threaten to gut the tech-transfer system that spawned Google, Biogen and nearly 20,000 startups."
+      "title": "Saudi pipeline to bypass Hormuz hits 7 million barrel goal",
+      "url": "https://fortune.com/2026/03/28/saudi-arabia-east-west-oil-pipeline-strait-hormuz-bypass-7-million-barrels-yanbu-red-sea/",
+      "published_at": "2026-03-28T22:51:21+00:00",
+      "summary": "Flotillas of tankers have been redirected to the Red Sea port of Yanbu to collect the oil, providing an important lifeline for global supply."
     },
     {
       "source": "Fortune",
@@ -140,12 +92,52 @@
       "summary": "The demise of a Boring Co tunnel to the Ravens football stadium, within hours of the city's lawsuit against xAI, is a striking illustration of how Musk’s transformation into a political lightning rod may be taking a toll on his various ventures."
     },
     {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "There are now nearly 50% more home sellers than buyers as mismatch widens to a record 630,000. But it’s only a buyer’s market if you can afford it",
+      "url": "https://fortune.com/2026/03/28/housing-market-buyers-vs-sellers-mismatch-home-prices-mortgage-rates-iran-war/",
+      "published_at": "2026-03-28T22:00:02+00:00",
+      "summary": "\"High housing costs and economic uncertainty have caused many house hunters to retreat, creating an imbalance of buyers and sellers.\""
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Anduril founder Palmer Luckey wants to arm the U.S.’s allies. Could his insistence on deferring to Washington scare them off?",
+      "url": "https://fortune.com/2026/03/28/palmer-luckey-anduril-defense-tech-asia-us-allies/",
+      "published_at": "2026-03-28T21:00:00+00:00",
+      "summary": "\"I’m not going to go to prison to sell you spare parts,\" Luckey tells Fortune."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "French authorities open terrorism probe after police thwart a suspected bombing outside a Bank of America building in Paris",
+      "url": "https://fortune.com/2026/03/28/french-terrorism-probe-police-suspected-bombing-bank-of-america-paris/",
+      "published_at": "2026-03-28T20:46:28+00:00",
+      "summary": "A person was placed in police custody."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "413,793 KitKat bars stolen: ‘Whilst we appreciate the criminals’ exceptional taste, the fact remains that cargo theft is an escalating issue’",
+      "url": "https://fortune.com/2026/03/28/kitkat-candy-bar-cargo-theft-italy-poland-nestle/",
+      "published_at": "2026-03-28T20:23:11+00:00",
+      "summary": "Swiss food giant Nestlé says about 12 tons of its KitKat chocolate brand were stolen after leaving its production site in Italy earlier this week for Poland."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Dollar dominance is reinforced by the global oil trade, but the Iran war could give rise to the ‘petroyuan’ as the U.S. security shield weakens",
+      "url": "https://fortune.com/2026/03/28/dollar-dominance-dedollarization-global-oil-trade-iran-war-petroyuan-us-security-shield/",
+      "published_at": "2026-03-28T19:37:41+00:00",
+      "summary": "\"The world saves in dollars in large part because it pays in dollars,\" Deutsche Bank said."
+    },
+    {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "IndexCache, a new sparse attention optimizer, delivers 1.82x faster inference on long-context AI models",
-      "url": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference",
-      "published_at": "2026-03-27T19:00:00+00:00",
-      "summary": "<p>Processing 200,000 tokens through a large language model is expensive and slow: the longer the context, the faster the costs spiral. Researchers at Tsinghua University and Z.ai have <a href=\"https://arxiv.org/abs/2603.12201\">built a technique called IndexCache</a> that cuts up to 75% of the redun"
+      "title": "When AI turns software development inside-out: 170% throughput at 80% headcount",
+      "url": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount",
+      "published_at": "2026-03-28T16:00:00+00:00",
+      "summary": "<p>Many people have tried AI tools and walked away unimpressed. I get it — many demos promise magic, but in practice, the results can feel underwhelming.</p><p>That’s why I want to write this not as a futurist prediction, but from lived experience. Over the past six months, I turned my engineering o"
     },
     {
       "source": "MIT Tech Review",
@@ -154,6 +146,14 @@
       "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
       "published_at": "2026-03-28T09:00:00+00:00",
       "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+      "url": "https://36kr.com/p/3743360666566919?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，合肥幺正量子科技有限公司（以下简称“幺正量子”）近日已完成数亿元Pre A轮融资。本轮由蚂蚁集团和吉利资本联合领投，混沌投资、英飞尼迪、中博聚力、国元基金等跟投，老股东顺为资本追加投资，云岫资本担任本轮独家财务顾问。资金将主要用于加速QCCD离子阱量子计算路线的核心技术研发。</p>\n  <p>幺正量子成立于2022年，是目前国内唯一基于QCCD（量子电荷耦合架构）离子阱技术路线的量子计算公司。</p>\n  <p>公司孵化自郭光灿院士创立的中科院量子信息重点实验室，创始人韩永建博士毕业于中国科大，师从郭光灿院士，曾在"
     },
     {
       "source": "36氪",
@@ -210,14 +210,6 @@
       "url": "https://36kr.com/p/3740892215623942?f=rss",
       "published_at": null,
       "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>一个庞大的万亿级健康消费市场正加速形成。根据国际健身协会（IFAI）等报告显示，近年来，数字健身市场增速高达41.4%，全球健身行业规模预计2030年达1.5万亿美元。其中，中国健康产业规模在2025年已突破10万亿元规模，健康生活服务赛道以每年超15%增速增长。</p>\n  <p>然而，传统健身行业长期受困于用户留存难、运营效率低、服务同质化三大瓶颈。在这一背景下，从单一场馆运营转向“AI+场景+硬件”的系统化智能升级，正成为行业提升效率、应对市场变化的核心趋势。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "从单季到全年盈利，知乎迎来估值重估",
-      "url": "https://36kr.com/p/3740850993037312?f=rss",
-      "published_at": null,
-      "summary": "<p>作者 | 黄绎达</p>\n  <p>编辑 | 张帆</p>\n  <p>3月25日，知乎（证券代码：ZH.N；2039.HK）发布了2025年全年业绩。</p>\n  <p>知乎2025年财报最核心的亮点，<strong>是首次实现全年非公认会计准则（Non-GAAP）盈利，</strong>对应的全年经调整净利润为3790万元。分季度来看，2024Q4~2025Q2，知乎连续三个季度实现单季度Non-GAAP盈利；其中，2025Q2表现最佳，实现了首次单季度盈利，该季度净利润录得7248万元，同期Non-GAAP净利润为9134万元。</p>\n  <p>由此可见，2025年上半年业绩端的良"
     }
   ]
 }

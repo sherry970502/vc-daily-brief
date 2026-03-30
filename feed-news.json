@@ -1,143 +1,175 @@
 {
-  "updated_at": "2026-03-29T12:33:12.186749+00:00",
+  "updated_at": "2026-03-30T04:12:37.977276+00:00",
   "period_hours": 24,
-  "article_count": 25,
+  "article_count": 24,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "published_at": "2026-03-28T23:00:00+00:00",
-      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto."
+      "title": "Why OpenAI really shut down Sora",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "published_at": "2026-03-30T03:09:38+00:00",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
-      "url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
-      "published_at": "2026-03-28T21:23:58+00:00",
-      "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration."
+      "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
+      "url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+      "published_at": "2026-03-29T21:30:00+00:00",
+      "summary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "published_at": "2026-03-28T20:45:54+00:00",
-      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be."
+      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+      "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+      "published_at": "2026-03-29T21:17:52+00:00",
+      "summary": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-      "published_at": "2026-03-28T16:11:16+00:00",
-      "summary": "All but two of Musk's 11 xAI co-founders departed before this week."
+      "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+      "url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+      "published_at": "2026-03-29T19:50:57+00:00",
+      "summary": "Amazon’s bet on “Project Hail Mary” has paid off handsomely."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "These iPad apps will make you wish you had more free time",
-      "url": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
-      "published_at": "2026-03-28T16:00:00+00:00",
-      "summary": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store."
+      "title": "Sora’s shutdown could be a reality check moment for AI video",
+      "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "published_at": "2026-03-29T16:30:00+00:00",
+      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "published_at": "2026-03-28T14:15:00+00:00",
-      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year."
+      "title": "TechCrunch Mobility: When a robotaxi has to call 911",
+      "url": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+      "published_at": "2026-03-29T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What will power the grid in 2035? The race is wide open",
-      "url": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
-      "published_at": "2026-03-28T13:05:00+00:00",
-      "summary": "Fusion, fission, and even natural gas are appeared tied in the race to deliver new power to the grid in the early 2030s."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Let’s take a look at the retro tech making a comeback",
-      "url": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
-      "published_at": "2026-03-28T13:00:00+00:00",
-      "summary": "Boomboxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available."
+      "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
+      "url": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
+      "published_at": "2026-03-29T14:01:00+00:00",
+      "summary": "SXSW made some changes this year, but some founders loved it all the same."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Some cried. Others were speechless. How front-line workers walked away with checks averaging $240,000 when KKR sold their company",
-      "url": "https://fortune.com/2026/03/29/kkr-coolit-checks-employee-ownership-payout-private-equity/",
-      "published_at": "2026-03-29T11:25:00+00:00",
-      "summary": "They knew they were getting a payout. But employees at CoolIT had no idea just how much they'd profit from KKR's sale of their employer."
+      "title": "Top leadership experts sound the alarm on the AI doomsday: bosses are choosing tech over people",
+      "url": "https://fortune.com/2026/03/29/ai-workforce-human-design-gap-doomsday-deloitte-wharton-harvard/",
+      "published_at": "2026-03-29T12:00:00+00:00",
+      "summary": "Companies are spending 93% of their AI budgets on tech and only 7% on people. It's already backfiring."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How a couple’s kitchen table and a bean burrito built a $1 billion food empire",
-      "url": "https://fortune.com/2026/03/29/amys-kitchen-billion-dollar-frozen-food-non-ultra-processed-berliner/",
-      "published_at": "2026-03-29T11:30:00+00:00",
-      "summary": "Amy's Kitchen founders Andy and Rachel Berliner never planned to be in big business. Nearly four decades later, they still live in the same ranch house where it all started."
+      "title": "Dow futures fall 300 points as Wall Street braces for potential U.S. ground assault on Iran and Houthi attacks that could slash oil supplies further",
+      "url": "https://fortune.com/2026/03/29/stock-market-today-dow-futures-oil-prices-us-ground-assault-iran-houthis-red-sea-suez/",
+      "published_at": "2026-03-29T22:16:53+00:00",
+      "summary": "The 31st Marine Expeditionary Unit has arrived in the Middle East."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "One AI bubble has already burst. The next one—a ‘rare’ kind—is still growing, economist warns",
-      "url": "https://fortune.com/2026/03/29/ai-bubble-already-burst-rare-one-still-growing/",
-      "published_at": "2026-03-29T11:28:00+00:00",
-      "summary": "Capital Economics’ John Higgins noted the price-earnings ratio has already collapsed from its peak—but there’s another metric that hasn’t."
+      "title": "ICE agents called in to help ease airport security lines may not be leaving anytime soon, even after Trump ordered pay for TSA officers",
+      "url": "https://fortune.com/2026/03/29/ice-agents-airport-security-lines-may-shutdown-trump-pay-tsa-officers/",
+      "published_at": "2026-03-29T23:03:52+00:00",
+      "summary": "White House border czar Tom Homan said it depends on how many TSA employees would be returning to work after they start receiving their pay."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "She left a Silicon Valley VC to solve a problem left untouched for 88 years. Now her bra brand is the fastest-growing at Nordstrom",
-      "url": "https://fortune.com/2026/03/29/vc-career-change-evelyn-bobbie-bra-brand-nordstrom-fastest-growing-underwire-patent/",
-      "published_at": "2026-03-29T09:55:16+00:00",
-      "summary": "The underwire bra was patented in 1931. For 88 years, no one filed a patent to replace it. Then a Stanford-trained VC quit her job and did it herself."
+      "title": "Tehran briefly loses power after strikes as peace push ramps up",
+      "url": "https://fortune.com/2026/03/29/tehran-power-outage-electricity-iran-war-us-israel-airstrikes-peace-talks/",
+      "published_at": "2026-03-29T22:27:43+00:00",
+      "summary": "Electricity supply was cut in parts of Tehran, the capital of Iran, and nearby Alborz province after attacks on facilities in the area."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Former Trump official: the U.S. can win the AI race — if it gets patent policy right",
-      "url": "https://fortune.com/2026/03/29/patent-policy-ai-race-china-former-trump-official/",
-      "published_at": "2026-03-29T09:45:00+00:00",
-      "summary": "Washington is investing heavily in chips and infrastructure — but without predictable IP rights, the capital behind applied AI will keep moving."
+      "title": "The Iran and Ukraine wars have merged into a single conflict, but ‘we are still not at a true world war,’ expert says",
+      "url": "https://fortune.com/2026/03/29/iran-ukraine-wars-combatants-overlap-us-israel-russia-uae-saudi-arabia/",
+      "published_at": "2026-03-29T22:09:20+00:00",
+      "summary": "The stakes are further elevated as President Donald Trump deploys thousands of U.S. troops to the Middle East for an anticipated ground assault meant to reopen the Strait of Hormuz."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "This high school dropout now makes six figures at OpenAI—and he shares the strategy Gen Z can use to get hired in Silicon Valley, too",
-      "url": "https://fortune.com/2026/03/29/gen-z-high-school-dropout-gabriel-petersson-openai-researcher-six-figures-advice-for-young-people-silicon-valley-jobs/",
-      "published_at": "2026-03-29T09:02:00+00:00",
-      "summary": "Gabriel Petersson landed a job at OpenAI—without a college degree—or even a high school diploma. His secret: showing he was up for the job."
+      "title": "Private equity is eying Asia’s healthcare funding gap as countries get wealthier and older",
+      "url": "https://fortune.com/2026/03/29/asia-healthcare-funding-gap-private-capital-quadria-abrar-mir/",
+      "published_at": "2026-03-29T21:00:00+00:00",
+      "summary": "“Asia has more diabetes, cancer and cardiovascular patients than anywhere else in the world,” Abrar Mir, co-founder of Quadria Capital, says."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Coal is back and nuclear is next: The Iran war is rewiring Asia’s energy future",
-      "url": "https://fortune.com/2026/03/29/iran-war-hormuz-asia-energy-crisis-coal-nuclear/",
-      "published_at": "2026-03-29T09:00:00+00:00",
-      "summary": "A closed Strait of Hormuz is forcing Asia to look backwards—to coal—and forward—to nuclear energy and electric vehicles—simultaneously."
+      "title": "I helped build Facebook and saw it go wrong. AI is headed the same way",
+      "url": "https://fortune.com/2026/03/29/regulation-ai-social-media-mistakes-of-facebook-social-media/",
+      "published_at": "2026-03-29T13:30:00+00:00",
+      "summary": "I also co-founded Asana and One Project, and we have to move away from the White House's self-regulation framework for AI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Buddhist monk says workers struggle to wind down from fast-paced office culture—he shares a 30-second tip to reset your nervous system",
-      "url": "https://fortune.com/2026/03/29/buddhist-zen-monk-toryo-ito-workers-struggle-wind-down-office-culture-30-second-tip-reset-nervous-system/",
-      "published_at": "2026-03-29T08:03:00+00:00",
-      "summary": "Toryo Ito, a Japanese Zen Buddhist monk, is bringing ancient mediative practices to professionals all around the world, including staffers at businesses like Meta and Sony."
+      "title": "Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll",
+      "url": "https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/",
+      "published_at": "2026-03-29T20:16:22+00:00",
+      "summary": "Early customers included Disney."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "When AI turns software development inside-out: 170% throughput at 80% headcount",
-      "url": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount",
-      "published_at": "2026-03-28T16:00:00+00:00",
-      "summary": "<p>Many people have tried AI tools and walked away unimpressed. I get it — many demos promise magic, but in practice, the results can feel underwhelming.</p><p>That’s why I want to write this not as a futurist prediction, but from lived experience. Over the past six months, I turned my engineering o"
+      "title": "When product managers ship code: AI just broke the software org chart",
+      "url": "https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke-the-software-org-chart",
+      "published_at": "2026-03-29T16:00:00+00:00",
+      "summary": "<p>Last week, one of our product managers (PMs) built and shipped a feature. Not spec&#x27;d it. Not filed a ticket for it. Built it, tested it, and shipped it to production. In a day.</p><p>A few days earlier, our designer noticed that the visual appearance of our IDE plugins had drifted from the d"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "这次，我们不再需要海外对标",
+      "url": "https://36kr.com/p/3744821877342217?f=rss",
+      "published_at": null,
+      "summary": "<p>《求是》杂志3月新近刊发了习近平总书记重要文章《推动海洋经济高质量发展》。总书记从党的十八大以来每次到沿海地区考察，都强调大力发展海洋经济、建设海洋强国。</p>\n  <p>文章提出，推进中国式现代化，必须高效开发利用海洋，推动海洋经济高质量发展，走出一条具有中国特色的向海图强之路。大的思路上，要更加注重创新驱动，尽快突破关键核心技术，推动海洋科技实现高水平自立自强。&nbsp;</p>\n  <p>近日，世航重磅斩获航海领域最高荣誉 2025年度中国航海学会科学技术进步一等奖，再次引起了全社会的关注。&nbsp;</p>\n  <p>中国航海学会科学技术奖是经国务院《国家科学技术奖励条例》"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
+      "url": "https://36kr.com/p/3744805881724928?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>华沿机器人CEO王光能在生活里，是个有些无趣的人。他不抽烟、不喝酒、不打麻将，最近才刚学会掼蛋。他有房子在南山区，但平时吃在公司食堂，住在公司旁的城中村。</p>\n  <p>看上去，王光能不是个有进攻性的人，说话语速有些慢，声音不高，保留着难得的真实。更重要的是，王光能虽然技术出身，但没有很多天才身上有些刺人的锋芒，自信但不自负。</p>\n  <p>和王光能一样，华沿机器人在很多时候并不为外界熟悉。他们不太会讲动人的案例，在具身智能估值动辄百亿的当下，显得过于朴素。</p>\n  <p>去年5月，华沿机器人在港交所秘密递表，通过"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "斗鱼财务数据回正，多元收入结构+内容创新激发平台活力",
+      "url": "https://36kr.com/p/3742459865497859?f=rss",
+      "published_at": null,
+      "summary": "<p>在游戏直播竞争激烈，平台深度转型的当下，斗鱼正在变得高效、稳健、有韧性。</p>\n  <p>3月25日，斗鱼发布2025年第四季度及全年财报。数据显示，第四季度收入9.19亿元，其中调整后净利润为1262万元，同比实现大幅改善的同时，斗鱼已经连续两个季度实现同比扭亏为盈。2025年全年，斗鱼总收入为38.19亿元，毛利润为4.9亿元，同比增长51.2%，毛利率为12.8%，调整后净利润为4016万元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260328/v2_a638021fa"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
+      "url": "https://36kr.com/p/3744666471088389?f=rss",
+      "published_at": null,
+      "summary": "<p>36氪获悉，2026年3月，「微元合成」完成3亿元A+轮融资，由河南投资集团汇融基金和谭瑞清先生参与投资。本轮融资将助力微元合成拓宽AI生物计算应用边界，加大核心技术研发投入与场景化落地。</p>\n  <p>据介绍，此前，河南投资集团已完成AI基础设施产业的深度布局，从投资芯片、控股超大规模算力，到全面整合HALO资产，为AI场景应用的落地提供了电力与算力支持。值得关注的是，本轮投资人谭瑞清为复旦大学校董及化学系校友会会长、A股知名上市公司龙佰集团联合创始人、前任副董事长，深耕化工行业创业、投资三十余年。</p>\n  <p>在生命科学全面迈入AI4S时代，蛋白质结构预测与设计等底层技术突"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨全国猪价跌破5元创历史新低；雀巢12吨巧克力被盗；起诉小米汽车的“老头乐”企业致歉",
+      "url": "https://36kr.com/p/3744669439508484?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>美副总统称无意滞留伊朗，将很快撤出</p>\n  <p>国际民航组织新规：每位乘客最多携带两块移动电源</p>\n  <p>王云鹤离职，曾任华为诺亚方舟实验室主任</p>\n  <p>遭中国学界集体“拉黑”后，NeurIPS道歉</p>\n  <p>索尼游戏主机PS5官宣涨价</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>全国猪价跌破5元创历史新低，全国瘦肉型生猪交易均价为9.71元/公斤&nbsp;</strong></p>\n  <p>3月23日，卓创资讯监测全国瘦肉型生猪交易均价为9.71元/公斤（即跌破5元/斤），创历史新低。与"
     },
     {
       "source": "36氪",
@@ -162,46 +194,6 @@
       "url": "https://36kr.com/p/3738258350817540?f=rss",
       "published_at": null,
       "summary": "<p>2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。</p>\n  <p>AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但这并非赛道式微的信号，反而意味着市场细分需求将被充分激活，行业总盘持续扩大。</p>\n  <p>在他看来，这场变革远不止于效率提升。从“"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号",
-      "url": "https://36kr.com/p/3741924007461128?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体</li>\n   <li>九号公司：与泡泡玛特达成合作，联名电动车将于4月推出</li>\n   <li>苹果公司或将改变战略，向外部人工智能助手开放Siri</li>\n   <li>多位即将卸任的CEO将人工智能列为决定离职的原因之一</li>\n   <li>英国将对限制青少年使用社交媒体展开试点</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>美籍华裔刑事鉴识专家李昌钰逝世，享年87岁</strong></p>\n  <p>美国康涅"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "曹操出行2025年业绩：首次调整后Q4盈利，迈向盈利性增长新阶段",
-      "url": "https://36kr.com/p/3741142695117059?f=rss",
-      "published_at": null,
-      "summary": "<p>3月27日，曹操出行公布了2025年全年业绩。数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。</p>\n  <p><strong>更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。</strong>与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外部输血的阶段，真正具备了自我造血与内生增长的能力。</p>\n  <p>在中国共享出行版图中，曹操出行始终是一个独特的存在。其<strong>不仅"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "业绩快报 | 茶百道2025年业绩报：新品业绩贡献超30%，部分门店咖啡日售超百杯",
-      "url": "https://36kr.com/p/3741100948029448?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>文｜</strong>王熠</p>\n  <p>3月27日，茶百道发布2025年业绩报告，公司总年度GMV达到161.8亿元，同比增长11%；单店日均GMV较2024年提升10%。</p>\n  <p>自2025年二季度起，外卖大战重点围绕“咖啡及新茶饮”赛道展开。然而在第三季度后，各平台的补贴显著减弱，部分茶咖企业的外卖订单下滑，且长达数月的补贴及促销，也进而影响了公司的毛利率水平及线下门店的营收表现。</p>\n  <p>在诸多茶咖企业之中，茶百道对外卖大战的态度一直明确——不依赖补贴，只借势提升订单量和用户习惯。更多场合下，茶百道高层也不止一次强调，公司的长期竞争力在于产"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "龙湖：2025年收入973.1亿，预计两年后完成新模式筑基",
-      "url": "https://36kr.com/p/3741132856115207?f=rss",
-      "published_at": null,
-      "summary": "<p>3月27日，龙湖集团发布2025年度业绩报告。报告显示，龙湖集团2025年营业收入约为973.1亿元。&nbsp;</p>\n  <p>其中，地产开发业务收入705.4亿元；运营及服务业务收入为267.7亿元，在集团营业收入中占比达到27.5%，创历史新高；公司拥有人应占溢利为10.2亿元；剔除投资物业及其他衍生金融工具公平值变动影响后，归母核心亏损为17亿元。&nbsp;</p>\n  <p>龙湖从2022年开始主动调整节奏、压降负债，开发业务占比持续走低。到了2025年，开发业务首次出现盈利亏损，但运营及服务业务实现核心权益后利润接近80亿元，弥补了开发业务下降到来的负面影响。</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
-      "url": "https://36kr.com/p/3737878513844224?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3740914791317504\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年</strong></a></p>\n  <p>日本航天器初创企业ispace周五表示，在两次登月着陆器任务失败后，公司进行战略调整，将把一项由美国政府资助的月球探测任务再度推迟至2030年，并裁减全球员工。此次公告凸显出该企业前景不明"
     }
   ]
 }

@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-03-30T04:12:37.977276+00:00",
+  "updated_at": "2026-03-30T11:27:27.114169+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 26,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Starcloud raises $170 million Series Ato build data centers in space",
+      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "published_at": "2026-03-30T11:00:00+00:00",
+      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -62,47 +70,47 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Top leadership experts sound the alarm on the AI doomsday: bosses are choosing tech over people",
-      "url": "https://fortune.com/2026/03/29/ai-workforce-human-design-gap-doomsday-deloitte-wharton-harvard/",
-      "published_at": "2026-03-29T12:00:00+00:00",
-      "summary": "Companies are spending 93% of their AI budgets on tech and only 7% on people. It's already backfiring."
+      "title": "Coca-Cola, Walmart, and Adobe CEO shakeups have one thing in common: AI",
+      "url": "https://fortune.com/article/coca-cola-walmart-and-adobe-ceo-shakeups-ai/",
+      "published_at": "2026-03-30T11:09:04+00:00",
+      "summary": "AI readiness has become the new filter for the next generation of CEOs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dow futures fall 300 points as Wall Street braces for potential U.S. ground assault on Iran and Houthi attacks that could slash oil supplies further",
-      "url": "https://fortune.com/2026/03/29/stock-market-today-dow-futures-oil-prices-us-ground-assault-iran-houthis-red-sea-suez/",
-      "published_at": "2026-03-29T22:16:53+00:00",
-      "summary": "The 31st Marine Expeditionary Unit has arrived in the Middle East."
+      "title": "AI is reshaping the doctor visit—just not how you think",
+      "url": "https://fortune.com/2026/03/30/zocdoc-ai-survey-doctors-healthcare-healthtech/",
+      "published_at": "2026-03-30T11:07:53+00:00",
+      "summary": "Zocdoc finds patients are increasingly arriving with AI-informed questions, giving doctors more to work with—but also changing how time gets spent in the exam room."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "ICE agents called in to help ease airport security lines may not be leaving anytime soon, even after Trump ordered pay for TSA officers",
-      "url": "https://fortune.com/2026/03/29/ice-agents-airport-security-lines-may-shutdown-trump-pay-tsa-officers/",
-      "published_at": "2026-03-29T23:03:52+00:00",
-      "summary": "White House border czar Tom Homan said it depends on how many TSA employees would be returning to work after they start receiving their pay."
+      "title": "War against Iran to escalate as we approach six-week ‘TACO’ timetable, analysts say",
+      "url": "https://fortune.com/2026/03/30/iran-war-six-week-taco-timetable/",
+      "published_at": "2026-03-30T10:24:08+00:00",
+      "summary": "Everything you need to know before you reach the office this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tehran briefly loses power after strikes as peace push ramps up",
-      "url": "https://fortune.com/2026/03/29/tehran-power-outage-electricity-iran-war-us-israel-airstrikes-peace-talks/",
-      "published_at": "2026-03-29T22:27:43+00:00",
-      "summary": "Electricity supply was cut in parts of Tehran, the capital of Iran, and nearby Alborz province after attacks on facilities in the area."
+      "title": "Credit card annual fees are soaring past $800. Here’s why people keep paying them—even as perks are harder to come by",
+      "url": "https://fortune.com/2026/03/30/credit-card-annual-fees-soaring-why-people-keep-paying-them-perks-robinhood-american-express-chase/",
+      "published_at": "2026-03-30T10:00:00+00:00",
+      "summary": "Shoppers and travelings keep gravitating to premium 'lifestyle' cards, but interest rates and reward restrictions can trap unwary consumers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Iran and Ukraine wars have merged into a single conflict, but ‘we are still not at a true world war,’ expert says",
-      "url": "https://fortune.com/2026/03/29/iran-ukraine-wars-combatants-overlap-us-israel-russia-uae-saudi-arabia/",
-      "published_at": "2026-03-29T22:09:20+00:00",
-      "summary": "The stakes are further elevated as President Donald Trump deploys thousands of U.S. troops to the Middle East for an anticipated ground assault meant to reopen the Strait of Hormuz."
+      "title": "As the Iran war drags on, ‘shell-shocked’ CEOs may soon break their silence on Trump",
+      "url": "https://fortune.com/2026/03/30/iran-war-ceos-break-silence-on-trump/",
+      "published_at": "2026-03-30T09:21:47+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Private equity is eying Asia’s healthcare funding gap as countries get wealthier and older",
+      "title": "Private equity is eying Asia’s health care funding gap as countries get wealthier and older",
       "url": "https://fortune.com/2026/03/29/asia-healthcare-funding-gap-private-capital-quadria-abrar-mir/",
       "published_at": "2026-03-29T21:00:00+00:00",
       "summary": "“Asia has more diabetes, cancer and cardiovascular patients than anywhere else in the world,” Abrar Mir, co-founder of Quadria Capital, says."
@@ -110,18 +118,18 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "I helped build Facebook and saw it go wrong. AI is headed the same way",
-      "url": "https://fortune.com/2026/03/29/regulation-ai-social-media-mistakes-of-facebook-social-media/",
-      "published_at": "2026-03-29T13:30:00+00:00",
-      "summary": "I also co-founded Asana and One Project, and we have to move away from the White House's self-regulation framework for AI."
+      "title": "Dell’s CFO is using AI agents to run his finance team—and has helped the AI business go from $0 to $25 billion",
+      "url": "https://fortune.com/2026/03/30/dells-cfo-is-using-ai-agents-to-run-his-finance-team-and-has-helped-the-ai-business-go-from-0-to-25-billion/",
+      "published_at": "2026-03-30T08:00:00+00:00",
+      "summary": "David Kennedy discusses the company’s record-breaking year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll",
-      "url": "https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/",
-      "published_at": "2026-03-29T20:16:22+00:00",
-      "summary": "Early customers included Disney."
+      "title": "Meet the ex-Google CMO who quit with a seven-figure package by 28—he says getting promoted was easy because he just ‘disregarded all the rules’",
+      "url": "https://fortune.com/2026/03/30/ex-google-cmo-quit-seven-figure-package-by-28-easy-promotion-career-advice-millennial-founder/",
+      "published_at": "2026-03-30T07:05:00+00:00",
+      "summary": "By 28, Alon Chen had a seven‑figure equity package and a CMO title at Google. He says promotions were “easy” once he ignored every rule—and then he quit anyway."
     },
     {
       "source": "VentureBeat",
@@ -130,6 +138,38 @@
       "url": "https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke-the-software-org-chart",
       "published_at": "2026-03-29T16:00:00+00:00",
       "summary": "<p>Last week, one of our product managers (PMs) built and shipped a feature. Not spec&#x27;d it. Not filed a ticket for it. Built it, tested it, and shipped it to production. In a day.</p><p>A few days earlier, our designer noticed that the visual appearance of our IDE plugins had drifted from the d"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Inside the stealthy startup that pitched brainless human clones",
+      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+      "published_at": "2026-03-30T09:00:00+00:00",
+      "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey “organ sacks” as an alternative to animal testing. In an interview with Wired, R3 listed three inve"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+      "url": "https://36kr.com/p/3745267391103239?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3745002198401282\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>全国首个万卡级全栈自主可控智算集群点亮</strong></a></p>\n  <p>深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。<"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "蚂蚁终圆券商梦",
+      "url": "https://36kr.com/p/3745148560195846?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;王晗玉</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>本月30日，蚂蚁集团将通过旗下上海云进信息技术有限公司，正式完成对香港老牌券商耀才证券的控股权收购。</p>\n  <p>这场历时近一年的交易，不仅为蚂蚁集团补上了证券业务这最后一块拼图，更让资本市场再掀关于“互联网+券商”模式能否在香港重演业绩与股价齐飞的讨论。</p>\n  <p>此前在3月16日，耀才证券发布公告称，蚂蚁集团发起的要约收购已通过中国有关部门及香港证监会审批，所有成交条件均已达成，预计将于3月30日正式完成交割。</p>\n  <p>根据协议，蚂蚁以每股3.28港元"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "对话原力灵机唐文斌：我不喜欢讲我不信的话，也无法成为我不想成为的人",
+      "url": "https://36kr.com/p/3745064614494211?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>文｜富充</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>创业满一年，唐文斌的身上依旧保留着旷视时期的印记，在和我们的对话中，他时常说到<strong>“本质”</strong>这个词——那是旷视内部的一个“流行词”。</p>\n  <p>清华“姚班”毕业之后，唐文斌和同学印奇、杨沐在2011年创办了旷视科技。在这家AI 1.0标志性企业中，人们喜欢追问“本质”。</p>\n  <p>创业旷视的14年里，唐文斌经历了AI 1.0浪潮的完整起伏。从高歌猛进的业务扩展，到屡次与上市失之交臂，这些经历也打磨着他对“本质”的理解。"
     },
     {
       "source": "36氪",
@@ -170,30 +210,6 @@
       "url": "https://36kr.com/p/3744669439508484?f=rss",
       "published_at": null,
       "summary": "<h2>今日热点导览</h2>\n  <p>美副总统称无意滞留伊朗，将很快撤出</p>\n  <p>国际民航组织新规：每位乘客最多携带两块移动电源</p>\n  <p>王云鹤离职，曾任华为诺亚方舟实验室主任</p>\n  <p>遭中国学界集体“拉黑”后，NeurIPS道歉</p>\n  <p>索尼游戏主机PS5官宣涨价</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>全国猪价跌破5元创历史新低，全国瘦肉型生猪交易均价为9.71元/公斤&nbsp;</strong></p>\n  <p>3月23日，卓创资讯监测全国瘦肉型生猪交易均价为9.71元/公斤（即跌破5元/斤），创历史新低。与"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
-      "url": "https://36kr.com/p/3743855989587971?f=rss",
-      "published_at": null,
-      "summary": "<p>在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。</p>\n  <p>长期以来，国际会议翻译领域始终受困于部署繁琐、成本高昂、语种覆盖有限、实时传递滞后等核心痛点。尤其在大型论坛、专业峰会等高端跨语言交流场景中，传统同传模式更受限于包厢搭建、接收设备调试、专业人工译员稀缺及"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
-      "url": "https://36kr.com/p/3743360666566919?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，合肥幺正量子科技有限公司（以下简称“幺正量子”）近日已完成数亿元Pre A轮融资。本轮由蚂蚁集团和吉利资本联合领投，混沌投资、英飞尼迪、中博聚力、国元基金等跟投，老股东顺为资本追加投资，云岫资本担任本轮独家财务顾问。资金将主要用于加速QCCD离子阱量子计算路线的核心技术研发。</p>\n  <p>幺正量子成立于2022年，是目前国内唯一基于QCCD（量子电荷耦合架构）离子阱技术路线的量子计算公司。</p>\n  <p>公司孵化自郭光灿院士创立的中科院量子信息重点实验室，创始人韩永建博士毕业于中国科大，师从郭光灿院士，曾在"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫",
-      "url": "https://36kr.com/p/3738258350817540?f=rss",
-      "published_at": null,
-      "summary": "<p>2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。</p>\n  <p>AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但这并非赛道式微的信号，反而意味着市场细分需求将被充分激活，行业总盘持续扩大。</p>\n  <p>在他看来，这场变革远不止于效率提升。从“"
     }
   ]
 }

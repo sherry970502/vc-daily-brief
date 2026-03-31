@@ -1,143 +1,183 @@
 {
-  "updated_at": "2026-03-30T11:27:27.114169+00:00",
+  "updated_at": "2026-03-31T03:54:32.581718+00:00",
   "period_hours": 24,
-  "article_count": 26,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Starcloud raises $170 million Series Ato build data centers in space",
-      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-      "published_at": "2026-03-30T11:00:00+00:00",
-      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day."
+      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "published_at": "2026-03-30T23:41:48+00:00",
+      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Why OpenAI really shut down Sora",
-      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-      "published_at": "2026-03-30T03:09:38+00:00",
-      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?"
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "published_at": "2026-03-30T23:08:12+00:00",
+      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
-      "url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
-      "published_at": "2026-03-29T21:30:00+00:00",
-      "summary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone."
+      "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
+      "url": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+      "published_at": "2026-03-30T21:53:09+00:00",
+      "summary": "A few things turned investors' heads and drew them to participate in such a big round out of the gate."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
-      "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
-      "published_at": "2026-03-29T21:17:52+00:00",
-      "summary": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators."
+      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "published_at": "2026-03-30T20:24:53+00:00",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
-      "url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
-      "published_at": "2026-03-29T19:50:57+00:00",
-      "summary": "Amazon’s bet on “Project Hail Mary” has paid off handsomely."
+      "title": "What we’re looking for in Startup Battlefield 2026 and how to put your best application forward",
+      "url": "https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/",
+      "published_at": "2026-03-30T18:57:51+00:00",
+      "summary": "Here's what we're looking for in your Startup Battlefield 200 application and how to make sure your application reflects it."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sora’s shutdown could be a reality check moment for AI video",
-      "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-      "published_at": "2026-03-29T16:30:00+00:00",
-      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?"
+      "title": "Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’",
+      "url": "https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/",
+      "published_at": "2026-03-30T18:26:07+00:00",
+      "summary": "Shortly after Delve's founder published a lengthy denial of allegations, while promising changes, the accuser came forward with more alleged details."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: When a robotaxi has to call 911",
-      "url": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
-      "published_at": "2026-03-29T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      "title": "Meta starts testing a premium subscription on Instagram",
+      "url": "https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/",
+      "published_at": "2026-03-30T18:10:31+00:00",
+      "summary": "Among the premium features on Instagram is the ability to view a Story without the poster seeing that you viewed it and the option to see how many people have rewatched your Story."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
-      "url": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
-      "published_at": "2026-03-29T14:01:00+00:00",
-      "summary": "SXSW made some changes this year, but some founders loved it all the same."
+      "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance",
+      "url": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/",
+      "published_at": "2026-03-30T18:03:59+00:00",
+      "summary": "More than 125,000 Bluesky users have blocked Attie in just a few days,  sending a strong message from the user base."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Coca-Cola, Walmart, and Adobe CEO shakeups have one thing in common: AI",
-      "url": "https://fortune.com/article/coca-cola-walmart-and-adobe-ceo-shakeups-ai/",
-      "published_at": "2026-03-30T11:09:04+00:00",
-      "summary": "AI readiness has become the new filter for the next generation of CEOs."
+      "title": "Jerome Powell to Gen Z: Don’t fear AI—master it",
+      "url": "https://fortune.com/2026/03/30/jerome-powell-advice-gen-z-ai-skills-harvard/",
+      "published_at": "2026-03-30T21:38:12+00:00",
+      "summary": "The Fed chair told Harvard students that young workers’ best career move is learning how to use AI, even as the technology disrupts the labor market."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI is reshaping the doctor visit—just not how you think",
-      "url": "https://fortune.com/2026/03/30/zocdoc-ai-survey-doctors-healthcare-healthtech/",
-      "published_at": "2026-03-30T11:07:53+00:00",
-      "summary": "Zocdoc finds patients are increasingly arriving with AI-informed questions, giving doctors more to work with—but also changing how time gets spent in the exam room."
+      "title": "Bill Ackman told spooked investors to get over the Iran war and buy Fannie and Freddie. Stocks surged 40% the next day",
+      "url": "https://fortune.com/2026/03/30/bill-ackman-says-ignore-iran-war-fannie-mae-freddie-mac-stock-surge/",
+      "published_at": "2026-03-30T21:12:27+00:00",
+      "summary": "The Pershing Square Capital Management CEO is the largest shareholder in each company and stands to benefit the most from the stock surge."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "War against Iran to escalate as we approach six-week ‘TACO’ timetable, analysts say",
-      "url": "https://fortune.com/2026/03/30/iran-war-six-week-taco-timetable/",
-      "published_at": "2026-03-30T10:24:08+00:00",
-      "summary": "Everything you need to know before you reach the office this morning."
+      "title": "Wealth taxes on billionaires and $30 minimum wages are part of the same plan, advocate says. ‘They should pay their fair share’",
+      "url": "https://fortune.com/2026/03/30/affordability-crisis-california-billionaire-wealth-taxes-minimum-wage/",
+      "published_at": "2026-03-30T21:07:47+00:00",
+      "summary": "A new UC Berkeley poll shows most voters across party lines support taxing billionaires, just as a $30 minimum wage movement gains steam across the country."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Credit card annual fees are soaring past $800. Here’s why people keep paying them—even as perks are harder to come by",
-      "url": "https://fortune.com/2026/03/30/credit-card-annual-fees-soaring-why-people-keep-paying-them-perks-robinhood-american-express-chase/",
-      "published_at": "2026-03-30T10:00:00+00:00",
-      "summary": "Shoppers and travelings keep gravitating to premium 'lifestyle' cards, but interest rates and reward restrictions can trap unwary consumers."
+      "title": "Most Americans would rather ditch social media than their beloved banking apps, Wells Fargo survey says",
+      "url": "https://fortune.com/2026/03/30/americans-ditch-social-media-banking-apps-wells-fargo-survey/",
+      "published_at": "2026-03-30T20:16:40+00:00",
+      "summary": "People are taking steps to feel more in control of their finances, Wells Fargo’s Emily Irwin explained."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As the Iran war drags on, ‘shell-shocked’ CEOs may soon break their silence on Trump",
-      "url": "https://fortune.com/2026/03/30/iran-war-ceos-break-silence-on-trump/",
-      "published_at": "2026-03-30T09:21:47+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
+      "title": "Jerome Powell says the $39 trillion national debt is ‘not unsustainable,’ but warns the trajectory ‘will not end well’",
+      "url": "https://fortune.com/2026/03/30/jerome-powell-39-trillion-national-debt-not-unsustainable-will-not-end-well/",
+      "published_at": "2026-03-30T20:53:57+00:00",
+      "summary": "“The federal government debt is growing substantially faster than our economy,” the Fed chair told a roomful of Harvard students."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Private equity is eying Asia’s health care funding gap as countries get wealthier and older",
-      "url": "https://fortune.com/2026/03/29/asia-healthcare-funding-gap-private-capital-quadria-abrar-mir/",
-      "published_at": "2026-03-29T21:00:00+00:00",
-      "summary": "“Asia has more diabetes, cancer and cardiovascular patients than anywhere else in the world,” Abrar Mir, co-founder of Quadria Capital, says."
+      "title": "A man used AI to call 3,000 Irish bartenders to track the cost of Guinness. Now pubs are lowering their prices to compete",
+      "url": "https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/",
+      "published_at": "2026-03-30T17:16:04+00:00",
+      "summary": "A 37-year-old leveraged voice AI and Anthropic’s Claude to create a consumer price index for a pint of Guinness across Ireland."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dell’s CFO is using AI agents to run his finance team—and has helped the AI business go from $0 to $25 billion",
-      "url": "https://fortune.com/2026/03/30/dells-cfo-is-using-ai-agents-to-run-his-finance-team-and-has-helped-the-ai-business-go-from-0-to-25-billion/",
-      "published_at": "2026-03-30T08:00:00+00:00",
-      "summary": "David Kennedy discusses the company’s record-breaking year."
+      "title": "The Air Canada CEO’s English-only condolence video cost him his job—and it’s a warning for every global CEO to read the room",
+      "url": "https://fortune.com/2026/03/30/air-canada-ceo-french-condolences-crash-laguardia/",
+      "published_at": "2026-03-30T20:04:58+00:00",
+      "summary": "A CEO’s English condolence video after a deadly crash ignited fury in francophone Canada—and shows why cultural fluency is now a core leadership skill."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet the ex-Google CMO who quit with a seven-figure package by 28—he says getting promoted was easy because he just ‘disregarded all the rules’",
-      "url": "https://fortune.com/2026/03/30/ex-google-cmo-quit-seven-figure-package-by-28-easy-promotion-career-advice-millennial-founder/",
-      "published_at": "2026-03-30T07:05:00+00:00",
-      "summary": "By 28, Alon Chen had a seven‑figure equity package and a CMO title at Google. He says promotions were “easy” once he ignored every rule—and then he quit anyway."
+      "title": "Dollar doomsayers can relax: Iran’s ‘petroyuan’ gambit won’t topple the greenback",
+      "url": "https://fortune.com/2026/03/30/petroyuan-us-dollar-dominance-not-under-threat-iran-war-paul-blustein/",
+      "published_at": "2026-03-30T21:00:00+00:00",
+      "summary": "The petrodollar story is overstated, and increasingly outdated."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "When product managers ship code: AI just broke the software org chart",
-      "url": "https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke-the-software-org-chart",
-      "published_at": "2026-03-29T16:00:00+00:00",
-      "summary": "<p>Last week, one of our product managers (PMs) built and shipped a feature. Not spec&#x27;d it. Not filed a ticket for it. Built it, tested it, and shipped it to production. In a day.</p><p>A few days earlier, our designer noticed that the visual appearance of our IDE plugins had drifted from the d"
+      "title": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
+      "url": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to",
+      "published_at": "2026-03-30T23:11:00+00:00",
+      "summary": "<p>For three decades, the web has existed in a state of architectural denial. It is a platform originally conceived to share static physics papers, yet it is now tasked with rendering the most complex, interactive, and generative interfaces humanity has ever conceived. </p><p>At the heart of this te"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
+      "url": "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps",
+      "published_at": "2026-03-30T19:30:00+00:00",
+      "summary": "<p>“You can deceive, manipulate, and lie. That’s an inherent property of language. It’s a feature, not a flaw,” <a href=\"https://www.crowdstrike.com/en-us/press-releases/crowdstrike-establishes-the-endpoint-as-the-epicenter-for-ai-security/\">CrowdStrike</a> CTO Elia Zaitsev told VentureBeat in an ex"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Cohere's open-weight ASR model hits 5.4% word error rate — low enough to replace speech APIs in production pipelines",
+      "url": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace",
+      "published_at": "2026-03-30T18:00:00+00:00",
+      "summary": "<p>Enterprises building voice-enabled workflows have had limited options for production-grade transcription: closed APIs with data residency risks, or open models that trade accuracy for deployability. Cohere&#x27;s new open-weight ASR model, Transcribe, is built to compete on all four key different"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "published_at": "2026-03-30T16:00:00+00:00",
+      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "published_at": "2026-03-30T15:42:50+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+      "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+      "published_at": "2026-03-30T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones&#160; After&#160;operating&#160;in secrecy for years, R3 Bio, a California-based start"
     },
     {
       "source": "MIT Tech Review",
@@ -146,6 +186,54 @@
       "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
       "published_at": "2026-03-30T09:00:00+00:00",
       "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey “organ sacks” as an alternative to animal testing. In an interview with Wired, R3 listed three inve"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 磷酸锰铁锂正极材料厂商再获数亿元融资，加码动力电池产能布局",
+      "url": "https://36kr.com/p/3746236378202631?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，近日，江苏珩创纳米科技有限公司（以下简称“珩创纳米”）正式宣布完成B轮融资的数亿元交割。本轮融资由银川育成凤凰科创基金投资，大桉资本担任本轮融资财务顾问。资金将主要用于公司在宁夏银川的产能布局，规划建设年产13万吨（一期3万吨）磷酸锰铁锂（LMFP）正极材料生产线。与此同时，公司在盐城的基地将进一步扩产。</p>\n  <p>珩创纳米成立于2022年，聚焦新能源电池核心材料磷酸锰铁锂正极材料的研发、生产与销售，其产品目前已覆盖新能源汽车、两轮电动车及储能系统等多个应用场"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "追觅生态链多了家清华系公司，要用AI储能融入智能家居体系｜硬氪专访",
+      "url": "https://36kr.com/p/3743753252061189?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>2024年进入储能市场，是个有些反常识的决定。</p>\n  <p>储能在2022年前后经历过一次疯狂的增长，产能过剩后又惨烈洗牌，到曹治鹏入场时，已经相对平静。华宝新能、正浩创新、安克、大疆、华为等等大厂，都在其中盘踞一块领地。</p>\n  <p>但曹治鹏发现，市场并非死水一潭。</p>\n  <p>曹治鹏从事能源行业近20年，他曾任职于沈飞、华硕、阿特斯等上市企业，主导参与了户用储能、工商业储能等产品从0到1的研发与设计，亲历过储能从专业设备走向家庭场景的全过程。这也让他对行业的演变节奏有清晰判断：硬件迭代趋同之后，真正的机会"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "“医药界英伟达”，花200亿买中国AI公司的减重药",
+      "url": "https://36kr.com/p/3745377703608832?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>AI制药领域，再现200亿人民币级交易。</p>\n  <p>3月29日晚，英矽智能（HK:03696）公告了与礼来和合作：首付款1.15亿美元、总价27.5亿美元，另包含产品上市后的潜在销售分成。交易核心是一款临床前口服GLP-1药物；此外，基于英矽智能Pharma AI技术平台，双方未来还将开展多项“围绕礼来选定靶点”的研发合作。</p>\n  <p>同日，英矽智能年报显示，2025年总收入5620万美元，截止报告期的BD授权合同总价为21.74亿美元。换言之，这次的一笔交易，首付款就是公司全年收入的2倍，总价也直接超过既往全"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "高端纯电，车企苦寻破局「命门」",
+      "url": "https://36kr.com/p/3712239685382280?f=rss",
+      "published_at": null,
+      "summary": "<p>30万元以上的高端纯电车，显然成了新能源车市的那块硬骨头。</p>\n  <p>除了有换电加持的蔚来新ES8，大量被车企寄予厚望的高端明星纯电车都难逃疲软命运，典型如理想MEGA和i8，一次起火事故，直接造成销量断崖式下滑。</p>\n  <p>特斯拉Model S/X已经停产，传统高端品牌BBA至今也还未打造出畅销的高端纯电车型。</p>\n  <p>而即便问界已经是中国新能源车豪华车的代表，纯电版问界M8也只在上市初期卖到单月8000多辆，两个月后就开始滑落。据36氪了解，小米YU7max版落地接近35万元，其销量也呈疲软之势，偏离内部预期。</p>\n  <p>而在30万元以下市场，纯电车"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨伊朗议会批准对海峡征收通行费；多品牌电动车将涨价；名创优品回应买盲盒需要会员",
+      "url": "https://36kr.com/p/3746104816943617?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>曝iPhoneFold将成史上最大改款，有媒体称其设计革新超iPhone X &nbsp;</p>\n  <p>泡泡玛特乐园迎来新区域开放，门票将涨价</p>\n  <p>蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复</p>\n  <p>DeepSeek公告服务出现重大中断，12小时未修复引发热议</p>\n  <p>俞敏洪：东方甄选首家线下门店将于4月在北京中关村开业</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>伊朗议会批准对海峡征收通行费，需以伊朗本币支付&nbsp;</strong></p>\n  <p>当地时"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "电池企业EnerVenue完成3亿美元新融资，将在华建首条吉瓦级生产线｜36氪独家",
+      "url": "https://36kr.com/p/3745335802790147?f=rss",
+      "published_at": null,
+      "summary": "<p>36氪独家获悉，新型镍氢气电池技术公司EnerVenue已完成3亿美元的B轮优先股追加融资，本轮融资由赋生资本领投，新引入香港投资管理有限公司为战略股东。据悉，本轮资金将用于常州工厂产能升级与扩充。</p>\n  <p>至此，公司已完成3轮融资，总金额已超8亿美元。</p>\n  <p>EnerVenue成立于2020年，由斯坦福大学材料科学与工程系教授崔屹创立，专注于镍氢气电池技术的研发和商业化。目前，公司已在中国江苏常州与美国肯塔基州等城市建有生产工厂。</p>\n  <p>本轮融资后，EnerVenue公司同步进行了公司人事与架构调整：委任Henning Rath为新的全球行政总裁，及在"
     },
     {
       "source": "36氪",
@@ -162,54 +250,6 @@
       "url": "https://36kr.com/p/3745148560195846?f=rss",
       "published_at": null,
       "summary": "<p>作者&nbsp;|&nbsp;王晗玉</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>本月30日，蚂蚁集团将通过旗下上海云进信息技术有限公司，正式完成对香港老牌券商耀才证券的控股权收购。</p>\n  <p>这场历时近一年的交易，不仅为蚂蚁集团补上了证券业务这最后一块拼图，更让资本市场再掀关于“互联网+券商”模式能否在香港重演业绩与股价齐飞的讨论。</p>\n  <p>此前在3月16日，耀才证券发布公告称，蚂蚁集团发起的要约收购已通过中国有关部门及香港证监会审批，所有成交条件均已达成，预计将于3月30日正式完成交割。</p>\n  <p>根据协议，蚂蚁以每股3.28港元"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "对话原力灵机唐文斌：我不喜欢讲我不信的话，也无法成为我不想成为的人",
-      "url": "https://36kr.com/p/3745064614494211?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>文｜富充</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>创业满一年，唐文斌的身上依旧保留着旷视时期的印记，在和我们的对话中，他时常说到<strong>“本质”</strong>这个词——那是旷视内部的一个“流行词”。</p>\n  <p>清华“姚班”毕业之后，唐文斌和同学印奇、杨沐在2011年创办了旷视科技。在这家AI 1.0标志性企业中，人们喜欢追问“本质”。</p>\n  <p>创业旷视的14年里，唐文斌经历了AI 1.0浪潮的完整起伏。从高歌猛进的业务扩展，到屡次与上市失之交臂，这些经历也打磨着他对“本质”的理解。"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "这次，我们不再需要海外对标",
-      "url": "https://36kr.com/p/3744821877342217?f=rss",
-      "published_at": null,
-      "summary": "<p>《求是》杂志3月新近刊发了习近平总书记重要文章《推动海洋经济高质量发展》。总书记从党的十八大以来每次到沿海地区考察，都强调大力发展海洋经济、建设海洋强国。</p>\n  <p>文章提出，推进中国式现代化，必须高效开发利用海洋，推动海洋经济高质量发展，走出一条具有中国特色的向海图强之路。大的思路上，要更加注重创新驱动，尽快突破关键核心技术，推动海洋科技实现高水平自立自强。&nbsp;</p>\n  <p>近日，世航重磅斩获航海领域最高荣誉 2025年度中国航海学会科学技术进步一等奖，再次引起了全社会的关注。&nbsp;</p>\n  <p>中国航海学会科学技术奖是经国务院《国家科学技术奖励条例》"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
-      "url": "https://36kr.com/p/3744805881724928?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>华沿机器人CEO王光能在生活里，是个有些无趣的人。他不抽烟、不喝酒、不打麻将，最近才刚学会掼蛋。他有房子在南山区，但平时吃在公司食堂，住在公司旁的城中村。</p>\n  <p>看上去，王光能不是个有进攻性的人，说话语速有些慢，声音不高，保留着难得的真实。更重要的是，王光能虽然技术出身，但没有很多天才身上有些刺人的锋芒，自信但不自负。</p>\n  <p>和王光能一样，华沿机器人在很多时候并不为外界熟悉。他们不太会讲动人的案例，在具身智能估值动辄百亿的当下，显得过于朴素。</p>\n  <p>去年5月，华沿机器人在港交所秘密递表，通过"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "斗鱼财务数据回正，多元收入结构+内容创新激发平台活力",
-      "url": "https://36kr.com/p/3742459865497859?f=rss",
-      "published_at": null,
-      "summary": "<p>在游戏直播竞争激烈，平台深度转型的当下，斗鱼正在变得高效、稳健、有韧性。</p>\n  <p>3月25日，斗鱼发布2025年第四季度及全年财报。数据显示，第四季度收入9.19亿元，其中调整后净利润为1262万元，同比实现大幅改善的同时，斗鱼已经连续两个季度实现同比扭亏为盈。2025年全年，斗鱼总收入为38.19亿元，毛利润为4.9亿元，同比增长51.2%，毛利率为12.8%，调整后净利润为4016万元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260328/v2_a638021fa"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
-      "url": "https://36kr.com/p/3744666471088389?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪获悉，2026年3月，「微元合成」完成3亿元A+轮融资，由河南投资集团汇融基金和谭瑞清先生参与投资。本轮融资将助力微元合成拓宽AI生物计算应用边界，加大核心技术研发投入与场景化落地。</p>\n  <p>据介绍，此前，河南投资集团已完成AI基础设施产业的深度布局，从投资芯片、控股超大规模算力，到全面整合HALO资产，为AI场景应用的落地提供了电力与算力支持。值得关注的是，本轮投资人谭瑞清为复旦大学校董及化学系校友会会长、A股知名上市公司龙佰集团联合创始人、前任副董事长，深耕化工行业创业、投资三十余年。</p>\n  <p>在生命科学全面迈入AI4S时代，蛋白质结构预测与设计等底层技术突"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨全国猪价跌破5元创历史新低；雀巢12吨巧克力被盗；起诉小米汽车的“老头乐”企业致歉",
-      "url": "https://36kr.com/p/3744669439508484?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>美副总统称无意滞留伊朗，将很快撤出</p>\n  <p>国际民航组织新规：每位乘客最多携带两块移动电源</p>\n  <p>王云鹤离职，曾任华为诺亚方舟实验室主任</p>\n  <p>遭中国学界集体“拉黑”后，NeurIPS道歉</p>\n  <p>索尼游戏主机PS5官宣涨价</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>全国猪价跌破5元创历史新低，全国瘦肉型生猪交易均价为9.71元/公斤&nbsp;</strong></p>\n  <p>3月23日，卓创资讯监测全国瘦肉型生猪交易均价为9.71元/公斤（即跌破5元/斤），创历史新低。与"
     }
   ]
 }

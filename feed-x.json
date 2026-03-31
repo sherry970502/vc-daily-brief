@@ -1,8 +1,24 @@
 {
-  "updated_at": "2026-03-31T03:54:10.207918+00:00",
+  "updated_at": "2026-03-31T14:21:25.881839+00:00",
   "period_hours": 24,
-  "tweet_count": 56,
+  "tweet_count": 62,
   "tweets": [
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-03-31T10:16:38.000Z",
+      "text": "This interview with Jessica goes the deepest of any interview she's done into her life story, and how it gave her the unique combination of qualities that made Y Combinator work. https://t.co/uyRZySYAab",
+      "url": "https://x.com/paulg/status/2038923415218962785"
+    },
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-03-31T08:50:22.000Z",
+      "text": "Sadly, he doesn't even have this advantage, as anyone who's had small children knows. When someone is sufficiently unsophisticated, it's possible to know what they're doing even when they don't know themselves. https://t.co/H1QLbIR8BI",
+      "url": "https://x.com/paulg/status/2038901705543426524"
+    },
     {
       "account": "@sama",
       "name": "Sam Altman",
@@ -10,6 +26,22 @@
       "created_at": "2026-03-30T15:34:16.000Z",
       "text": "This is a very good post: https://t.co/w4O3Pol0v3",
       "url": "https://x.com/sama/status/2038640963036626971"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-03-31T04:49:50.000Z",
+      "text": "No, no, hear him out. https://t.co/92CsOrHUF5",
+      "url": "https://x.com/pmarca/status/2038841176053498186"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-03-31T03:58:23.000Z",
+      "text": "Overheard in Silicon Valley: “The Palo Alto-New York arbitrage.” https://t.co/mcdnVHIAJ0",
+      "url": "https://x.com/pmarca/status/2038828226135703729"
     },
     {
       "account": "@pmarca",
@@ -84,6 +116,22 @@
       "url": "https://x.com/jason/status/2038715546665885824"
     },
     {
+      "account": "@sriramk",
+      "name": "Sriram Krishnan",
+      "org": "a16z",
+      "created_at": "2026-03-31T04:27:29.000Z",
+      "text": "https://t.co/dgZmeQdxaL",
+      "url": "https://x.com/sriramk/status/2038835551348965480"
+    },
+    {
+      "account": "@sriramk",
+      "name": "Sriram Krishnan",
+      "org": "a16z",
+      "created_at": "2026-03-31T04:27:29.000Z",
+      "text": "Good post from @boazbaraktcs / agree with a bunch of this. https://t.co/6wd10uKdGu",
+      "url": "https://x.com/sriramk/status/2038835548635152701"
+    },
+    {
       "account": "@msuster",
       "name": "Mark Suster",
       "org": "Upfront Ventures",
@@ -119,41 +167,73 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-30T23:01:08.000Z",
-      "text": "Pretty accurate https://t.co/Ca7G6qvMme",
-      "url": "https://x.com/elonmusk/status/2038753423303245825"
+      "created_at": "2026-03-31T10:15:52.000Z",
+      "text": "https://t.co/ztZUqahAmW",
+      "url": "https://x.com/elonmusk/status/2038923221702185078"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-30T22:36:06.000Z",
-      "text": "34th launch &amp; landing of the same rocket https://t.co/OK4xGVFSs6",
-      "url": "https://x.com/elonmusk/status/2038747119453110746"
+      "created_at": "2026-03-31T09:17:01.000Z",
+      "text": "Stainless Steel Starship https://t.co/Y41LnC48H5",
+      "url": "https://x.com/elonmusk/status/2038908411816153587"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-30T16:27:08.000Z",
-      "text": "Japan 𝕏 posts excellent content that is well-deserving of global exposure https://t.co/C1AZsi8jmW",
-      "url": "https://x.com/elonmusk/status/2038654268694224978"
+      "created_at": "2026-03-31T08:40:21.000Z",
+      "text": "Tap the Grok logo on the upper right of any post for analysis https://t.co/HfR3VJGrbd",
+      "url": "https://x.com/elonmusk/status/2038899186373194032"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-30T16:19:09.000Z",
-      "text": "Propaganda words work so well https://t.co/nM9CwWkhDQ",
-      "url": "https://x.com/elonmusk/status/2038652258016190906"
+      "created_at": "2026-03-31T08:30:45.000Z",
+      "text": "https://t.co/BZKzmh5HJi",
+      "url": "https://x.com/elonmusk/status/2038896771905306662"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-03-30T16:02:23.000Z",
-      "text": "Tesla is making a big investment in Japan with service &amp; Superchargers. \n\nMany of the parts in Teslas are made in Japan. Panasonic has been our biggest strategic supplier over the past 2 decades. https://t.co/XkwdUIPeKy",
-      "url": "https://x.com/elonmusk/status/2038648039276257592"
+      "created_at": "2026-03-31T08:26:48.000Z",
+      "text": "… https://t.co/BUIQMziqLg",
+      "url": "https://x.com/elonmusk/status/2038895775657435520"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-03-31T12:56:20.000Z",
+      "text": "Many such cases https://t.co/jWs6v5614o",
+      "url": "https://x.com/garrytan/status/2038963605299982711"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-03-31T04:44:02.000Z",
+      "text": "Many such cases https://t.co/iDpj7x3vsQ",
+      "url": "https://x.com/garrytan/status/2038839713491304955"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-03-31T04:43:09.000Z",
+      "text": "Tempted https://t.co/wSGnweBXhu",
+      "url": "https://x.com/garrytan/status/2038839491818139913"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-03-31T04:08:31.000Z",
+      "text": "Improving /review skill on GStack tonight, just shipped https://t.co/mBcwsjm82R",
+      "url": "https://x.com/garrytan/status/2038830778700996927"
     },
     {
       "account": "@garrytan",
@@ -162,38 +242,6 @@
       "created_at": "2026-03-31T02:39:42.000Z",
       "text": "Has anyone cracked this yet with Claude Code? Trivially easy customization to make your own browser with auto-loaded browser extension? https://t.co/65f8acSyZj",
       "url": "https://x.com/garrytan/status/2038808423698215292"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-03-31T01:43:15.000Z",
-      "text": "99.9% of founders need to go to Claude Code and type \"Install GStack\" https://t.co/kmCDbUXN6X",
-      "url": "https://x.com/garrytan/status/2038794219176042504"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-03-30T23:18:17.000Z",
-      "text": "There’s a lot of noise out there about public safety technology.\n\nRandom people with hot takes or half-truths. People presenting themselves as experts after watching a few clips. Some more focused on their brand rather than building safer communities\n\nI care less about opinions",
-      "url": "https://x.com/garrytan/status/2038757736884916350"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-03-30T18:47:31.000Z",
-      "text": "Receiving dozens of these per day right now, and it feels so good https://t.co/fAgcckt8i8",
-      "url": "https://x.com/garrytan/status/2038689596339597512"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-03-30T14:00:51.000Z",
-      "text": "I’m trying to teach software engineers that their sacred cow of “LOC is bad” is probably wrong in agentic engineering\n\nYou won’t believe that in another 5 years https://t.co/d9Nhb139K2",
-      "url": "https://x.com/garrytan/status/2038617455262863773"
     },
     {
       "account": "@lennysan",
@@ -239,14 +287,6 @@
       "account": "@venturetwins",
       "name": "Venture Twins",
       "org": "Angel",
-      "created_at": "2026-03-31T03:41:22.000Z",
-      "text": "I have discovered an insanely viral subculture of AI soccer videos - people are going NUTS over these https://t.co/jGAfXmLRzB",
-      "url": "https://x.com/venturetwins/status/2038823943151534434"
-    },
-    {
-      "account": "@venturetwins",
-      "name": "Venture Twins",
-      "org": "Angel",
       "created_at": "2026-03-30T17:16:18.000Z",
       "text": "Replying \"AI slop\" to messages I don't like in the group chat",
       "url": "https://x.com/venturetwins/status/2038666639500349777"
@@ -258,6 +298,14 @@
       "created_at": "2026-03-30T15:00:50.000Z",
       "text": "Insane Seedance video game effects from Douyin https://t.co/C98YbhaDx1",
       "url": "https://x.com/venturetwins/status/2038632549585748058"
+    },
+    {
+      "account": "@balajis",
+      "name": "Balaji Srinivasan",
+      "org": "Independent",
+      "created_at": "2026-03-31T12:59:42.000Z",
+      "text": "This could be the offramp the world needs. You can think of it as the best outcome for everyone, under the circumstances.\n\n(1) From MAGA’s perspective, if Trump declares victory here and moves on, the US won’t waste yet more blood and treasure in the Middle East. It won’t invade https://t.co/4pe2Bz4PMb",
+      "url": "https://x.com/balajis/status/2038964452138336584"
     },
     {
       "account": "@rrhoover",
@@ -308,14 +356,6 @@
       "url": "https://x.com/tferriss/status/2038657998868947429"
     },
     {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-03-30T13:10:31.000Z",
-      "text": "“Don't fear failure. Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.” — Bruce Lee",
-      "url": "https://x.com/tferriss/status/2038604786400969098"
-    },
-    {
       "account": "@nmasc_",
       "name": "Nnamdi Madu",
       "org": "Lightspeed",
@@ -338,6 +378,14 @@
       "created_at": "2026-03-30T16:36:00.000Z",
       "text": "🎉 Excited to be representing @ganasvc, hosting a coffee and speaking at @StartupGrind Global Conference in Silicon Valley, April 27-29. Join us! See deets and links below. \n\n🙌🏽 We will be hosting an informal Ganas Coffee at Startup Grind for founders, investors and ecosystem https://t.co/i1WjsGsNR7",
       "url": "https://x.com/lolitataub/status/2038656498763718734"
+    },
+    {
+      "account": "@hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "created_at": "2026-03-31T14:05:06.000Z",
+      "text": "You think you know your story because you live it every day. Try this test:\n\nOpen a blank document and write down your company's story in 200 words. What job are customers hiring you to do? Why does your approach work when others fail?\n\nGive yourself 20 minutes. Most founders https://t.co/D9xLwyRJKh",
+      "url": "https://x.com/hnshah/status/2038980910306173158"
     },
     {
       "account": "@hnshah",

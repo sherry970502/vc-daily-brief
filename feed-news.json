@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-04-01T18:05:38.328169+00:00",
+  "updated_at": "2026-04-02T03:48:55.195131+00:00",
   "period_hours": 24,
   "article_count": 33,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cameo partners with TikTok to boost popularity",
-      "url": "https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/",
-      "published_at": "2026-04-01T17:11:20+00:00",
-      "summary": "Cameo launched a new TikTok integration that allows U.S. creators to offer personalized videos through the app."
+      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+      "url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+      "published_at": "2026-04-01T22:58:39+00:00",
+      "summary": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
-      "url": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
-      "published_at": "2026-04-01T16:34:10+00:00",
-      "summary": "The Meta-owned company said it identified around 200 users who were tricked into installing a fake version of WhatsApp that was actually Italian-made spyware."
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "published_at": "2026-04-01T22:12:13+00:00",
+      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "published_at": "2026-04-01T16:00:00+00:00",
-      "summary": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half."
+      "title": "The reputation of troubled YC startup Delve has gotten even worse",
+      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "published_at": "2026-04-01T21:23:47+00:00",
+      "summary": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says",
-      "url": "https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/",
-      "published_at": "2026-04-01T15:46:43+00:00",
-      "summary": "The company has also lined up an unusually large number of 21 banks to manage the mega IPO, internally codenamed “Project Apex.\""
+      "title": "‘System failure’ paralyzes Baidu robotaxis in China",
+      "url": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+      "published_at": "2026-04-01T21:12:14+00:00",
+      "summary": "Passengers in Baidu's robotaxis were trapped for up to two hours."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hasbro says it was hacked, and may take ‘several weeks’ to recover",
-      "url": "https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/",
-      "published_at": "2026-04-01T14:50:32+00:00",
-      "summary": "The American toy-making giant noted that it was continuing to \"implement measures to secure its business operations,\" suggesting that the hackers may still be in the company's systems."
+      "title": "A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)",
+      "url": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
+      "published_at": "2026-04-01T20:46:17+00:00",
+      "summary": "Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. Think MySpace rather than LinkedIn."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "published_at": "2026-04-01T14:00:00+00:00",
-      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass."
+      "title": "Startup funding shatters all records in Q1",
+      "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+      "published_at": "2026-04-01T20:25:28+00:00",
+      "summary": "The record quarterly fundraise largely fueled four mega-deals into  OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts",
-      "url": "https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/",
-      "published_at": "2026-04-01T13:40:23+00:00",
-      "summary": "The company struggled with quality issues when Gravity production started last year, and the new recall shows it's not out of the woods yet."
+      "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
+      "url": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
+      "published_at": "2026-04-01T19:02:18+00:00",
+      "summary": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
-      "url": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
-      "published_at": "2026-04-01T12:33:24+00:00",
-      "summary": "The glasses will reportedly feature cameras, microphones, and speakers, and will connect to a smartphone and the cloud to process AI queries."
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "published_at": "2026-04-01T18:35:36+00:00",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants."
     },
     {
       "source": "Crunchbase News",
@@ -78,74 +78,106 @@
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To Nearly $300B",
+      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B",
       "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
       "published_at": "2026-04-01T11:00:06+00:00",
-      "summary": "The first quarter of 2026 was unlike any other for venture investment, driven by unprecedented spending on AI compute and frontier labs. Crunchbase data shows investors poured $297 billion into 6,000 startups globally in the quarter, up around 150% quarter over quarter and year over year, marking an"
+      "summary": "The first quarter of 2026 was unlike any other for venture investment, driven by unprecedented spending on AI compute and frontier labs. Crunchbase data shows investors poured $300 billion into 6,000 startups globally in the quarter, up over 150% quarter over quarter and year over year, marking an a"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Luigi Mangione’s federal trial has been pushed back to October in killing of UnitedHealthcare CEO",
-      "url": "https://fortune.com/2026/04/01/luigi-mangiones-federal-trial-killing-unitedhealthcare-ceo/",
-      "published_at": "2026-04-01T17:21:22+00:00",
-      "summary": "The federal judge in Luigi Mangione's trial in the killing of UnitedHealthcare CEO Brian Thompson tied her decision to a state trial occurring in June."
+      "title": "Macquarie bets impact investing can fill an Asian financial access gap for the ‘missing middle’",
+      "url": "https://fortune.com/2026/04/01/macquarie-good-return-impact-investing-female-entrepreneurs/",
+      "published_at": "2026-04-01T21:00:00+00:00",
+      "summary": "Macquarie wants to help women entrepreneurs across Asia get loans with a new AUD 1 million impact investment fund with NGO Good Return."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The EPA just valued a human life at $0. That’s not just a moral crisis — it’s a market crisis",
-      "url": "https://fortune.com/2026/04/01/epa-value-statistical-life-zero-trump-market-capitalism-humanity/",
-      "published_at": "2026-04-01T12:30:00+00:00",
-      "summary": "When the government quietly removes human life from its cost-benefit ledger, it isn't environmental policy. It's a fundamental repricing of the economy."
+      "title": "Jamie Dimon, office-work champion, vows his anti-remote culture ‘would crush you.’ The economy’s top talent begs to differ",
+      "url": "https://fortune.com/2026/04/01/jpmorgan-jamie-dimon-return-to-office-remote-work/",
+      "published_at": "2026-04-01T18:41:40+00:00",
+      "summary": "JPMorgan’s CEO thinks in-person work makes companies more competitive. Most of the research says another thing about “the entitled non-complier.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How AI will make your Shake Shack order even faster",
-      "url": "https://fortune.com/2026/04/01/how-ai-will-make-your-shake-shack-order-even-faster/",
-      "published_at": "2026-04-01T16:44:43+00:00",
-      "summary": "The burger chain is focusing on AI use cases that will improve order speed and accuracy, more easily operate restaurants, and offer diners more personalized promotions."
+      "title": "The SpaceX IPO is great — but it won’t deliver 100x returns",
+      "url": "https://fortune.com/2026/04/01/why-spacex-ipo-wont-deliver-value-elon-musk/",
+      "published_at": "2026-04-01T22:51:15+00:00",
+      "summary": "The threshold for going public in the U.S. has changed dramatically. Decades ago, firms routinely listed at valuations of a few hundred million dollars."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Paradigm, a major investor in Kalshi, is building its own prediction markets trading terminal, sources say",
-      "url": "https://fortune.com/2026/04/01/paradigm-prediction-markets-trading-terminal-arjun-balaji-kalshi-polymarket/",
-      "published_at": "2026-04-01T14:56:57+00:00",
-      "summary": "The longtime crypto venture firm has invested three times over into Kalshi, and Paradigm’s managing partner Matt Huang is on the startup’s board."
+      "title": "Microsoft and Chevron enter exclusivity deal on powering West Texas AI data center complex",
+      "url": "https://fortune.com/2026/04/01/microsoft-chevron-exclusivity-powering-west-texas-data-center-complex/",
+      "published_at": "2026-04-01T18:51:28+00:00",
+      "summary": "The colocated data center and power plant campus would start with 2.5 gigawatts of power and the potential to double that size."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Data centers are so hot, their ‘heat island’ effect is raising temperatures up to 6 miles away and impacting 343 million people worldwide, study finds",
-      "url": "https://fortune.com/2026/04/01/ai-data-centers-heat-island-hyperscalers/",
-      "published_at": "2026-04-01T17:09:39+00:00",
-      "summary": "Researchers warn these “heat islands” could have a “remarkable influence on communities and regional welfare,” and affect more than 340 million people."
+      "title": "AI ‘slop’ is flooding YouTube Kids—and more than 200 groups and experts are calling for a ban",
+      "url": "https://fortune.com/2026/04/01/ai-slop-200-organizations-letter-youtube-google/",
+      "published_at": "2026-04-01T20:11:12+00:00",
+      "summary": "Fairplay, the group that led a coalition of 200 organizations in writing a letter to YouTube and Google, said it found only 5% of all videos on YouTube to be high-quality content."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Z is engineering an analog future — and it’s at least a $5 billion opportunity",
-      "url": "https://fortune.com/2026/04/01/gen-z-analog-economy-5-billion-market-nostalgia/",
-      "published_at": "2026-04-01T09:00:00+00:00",
-      "summary": "Why millions of digitally native young people are ditching smartphones, deleting apps, and rediscovering the real world"
+      "title": "Trump will address the nation about the Iran war on Wednesday. Here’s what to expect",
+      "url": "https://fortune.com/2026/04/01/trump-address-nation-wednesday-iran-war-expectations/",
+      "published_at": "2026-04-01T20:23:16+00:00",
+      "summary": "Oil analysts warn April will be the cruelest month yet for energy prices, and a presidential speech may not be enough to change that."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "COVID gave us hybrid work. The Iran war might give us a four-day week—and this time, experts say it could stick",
-      "url": "https://fortune.com/2026/04/01/four-day-work-week-iran-war-sri-lanka-philippines-pakistan-australia-united-kingdom/",
-      "published_at": "2026-04-01T12:46:00+00:00",
-      "summary": "As governments from Australia to Europe scramble to save fuel amid the Iran war, experts say we’ve never been closer to a permanent four-day week."
+      "title": "Deutsche Bank asked AI if it’s true that AI will solve the economy’s inflation problems. The robots answered",
+      "url": "https://fortune.com/2026/04/01/deutsche-bank-asks-ai-will-solve-inflation/",
+      "published_at": "2026-04-01T19:38:49+00:00",
+      "summary": "The answer from the machines was unfortunately not what Wall Street wanted to hear."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "9 reasons AI isn’t going to take your job (yet)",
-      "url": "https://fortune.com/2026/04/01/ai-layoffs-automation-productivity-finance-employment-investors-ceos/",
-      "published_at": "2026-04-01T12:25:49+00:00",
-      "summary": "CEOs, managers, and workers alike need a reality check about the impact of AI on the labor force."
+      "title": "‘Inflationary surge’: Fed economists warn AI hype is overheating the economy whether or not the technology ever delivers",
+      "url": "https://fortune.com/2026/04/01/inflationary-surge-ai-hype-fed-reserve-bank/",
+      "published_at": "2026-04-01T15:35:41+00:00",
+      "summary": "Economists from the St. Louis Fed said AI could inflate prices today even without a payoff tomorrow."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
+      "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
+      "published_at": "2026-04-01T23:47:24+00:00",
+      "summary": "<p>As generative AI matures from a novelty into a workplace staple, a new friction point has emerged: the &quot;shadow AI&quot; or &quot;Bring Your Own AI (BYOAI)&quot; crisis. Much like the unsanctioned use of personal devices in years past, developers and knowledge workers are increasingly deployi"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected",
+      "url": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026",
+      "published_at": "2026-04-01T23:45:17+00:00",
+      "summary": "<p>Attackers stole a long-lived npm access token belonging to the lead maintainer of <a href=\"https://www.npmjs.com/package/axios\">axios</a>, the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malic"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
+      "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
+      "published_at": "2026-04-01T23:42:53+00:00",
+      "summary": "<p>Every enterprise running AI coding agents has just lost a layer of defense. On March 31, Anthropic accidentally shipped a 59.8 MB source map file inside version 2.1.88 of its <a href=\"https://www.npmjs.com/package/@anthropic-ai/claude-code\">@anthropic-ai/claude-code npm package</a>, exposing 512,"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Intuit's AI agents hit 85% repeat usage. The secret was keeping humans involved",
+      "url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved",
+      "published_at": "2026-04-01T21:24:08+00:00",
+      "summary": "<p>When Intuit shipped AI agents to 3 million customers, 85% came back. The reason, according to the company&#x27;s EVP and GM: combining AI with human expertise turned out to matter more than anyone expected — not less.</p><p>Marianna Tessel, the financial software company’s EVP and GM, calls this"
     },
     {
       "source": "VentureBeat",
@@ -154,38 +186,6 @@
       "url": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap",
       "published_at": "2026-04-01T17:30:15+00:00",
       "summary": "<p>CrowdStrike CEO George Kurtz highlighted in his <a href=\"https://www.rsaconference.com/usa\">RSA Conference 2026</a> keynote that the <a href=\"https://www.youtube.com/watch?v=6SYgMYZdkK4\">fastest recorded adversary breakout time has dropped</a> to 27 seconds. The average is now 29 minutes, down fr"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
-      "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
-      "published_at": "2026-04-01T13:57:57+00:00",
-      "summary": "<p>As generative AI matures from a novelty into a workplace staple, a new friction point has emerged: the &quot;shadow AI&quot; or &quot;Bring Your Own AI (BYOAI)&quot; crisis. Much like the unsanctioned use of personal devices in years past, developers and knowledge workers are increasingly deployi"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected",
-      "url": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026",
-      "published_at": "2026-04-01T02:30:00+00:00",
-      "summary": "<p>Attackers stole a long-lived npm access token belonging to the lead maintainer of <a href=\"https://www.npmjs.com/package/axios\">axios</a>, the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malic"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Meta's new structured prompting technique makes LLMs significantly better at code review — boosting accuracy to 93% in some cases",
-      "url": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
-      "published_at": "2026-04-01T02:13:00+00:00",
-      "summary": "<p>Deploying AI agents for repository-scale tasks like bug detection, patch verification, and code review requires overcoming significant technical hurdles. One major bottleneck: the need to set up dynamic execution sandboxes for every repository, which are expensive and computationally heavy. </p><"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "OpenClaw has 500,000 instances and no enterprise kill switch",
-      "url": "https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch",
-      "published_at": "2026-03-31T18:15:00+00:00",
-      "summary": "<p>“Your AI? It’s my AI now.” The line came from Etay Maor, VP of Threat Intelligence at <a href=\"https://www.catonetworks.com/\">Cato Networks</a>, in an exclusive interview with VentureBeat at <a href=\"https://www.rsaconference.com/usa\">RSAC 2026</a> — and it describes exactly what happened to a U."
     },
     {
       "source": "MIT Tech Review",
@@ -202,6 +202,30 @@
       "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
       "published_at": "2026-04-01T11:00:00+00:00",
       "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a&#8"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
+      "url": "https://36kr.com/p/3748270618919424?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，仿生扑翼飞行机器人公司——深圳鹰瞰智翼科技有限公司（下称“鹰瞰智翼”）近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。</p>\n  <p>鹰瞰智翼2025年3月成立于深圳，是全球第一家专注于具身智能扑翼机器人的公司。创始人陈昊是上海交通大学直博生，博士期间发表四篇顶刊论文。团队核心成员均为上海交大本硕博，来自机器人、控制与机械等相关背景，全员均为00后。</p>\n  <p>目前，鹰瞰智翼已形成两条产"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
+      "url": "https://36kr.com/p/3748296456143362?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜李小霞</p>\n  <p>编辑｜乔芊 杨轩</p>\n  <p>36氪独家获悉，近期抖音生活服务完成了浦燕子接任后的第二次大的组织架构调整。</p>\n  <p>此次调整根据商户规模重新分为线上部门和线下部门。</p>\n  <p>月GMV5万以上的客户被放到线上部门，分为KA（月GMV10万以上）、自助（月GMV在5-10万）、酒旅三个版块。其中前二者又分别按行业细分为餐饮、到店综合。</p>\n  <p>月GMV5万以下的客户被放到线下部门。线下则按照区域划分为北区、南区、东区。相比此前的区域划分，砍掉了上海大区、中区，增加了东区，中区相关商户被分流到北区、东区。</p>\n  <p cl"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
+      "url": "https://36kr.com/p/3748927500387072?f=rss",
+      "published_at": null,
+      "summary": "<p>&nbsp;</p>\n  <h2>今日热点导览</h2>\n  <p>宇树科技被抽中首发企业现场检查&nbsp;</p>\n  <p>国家税务总局：2025年个税汇算已超7000万人申请退税&nbsp;</p>\n  <p>原特斯拉中国区高管孔艳双入职小米&nbsp;</p>\n  <p>特斯拉正式停产Model S和Model X两款车型&nbsp;</p>\n  <p>美国纽约市宣布撤销政府设备使用TikTok禁令</p>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>甲骨文凌晨6点突发邮件裁员3万人，约占全球员工总数的18%</strong></p>\n  <p>全球软件巨"
     },
     {
       "source": "36氪",
@@ -230,7 +254,7 @@
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "2026中国股权投资��业名册，调研启动！",
+      "title": "2026中国股权投资行业名册，调研启动！",
       "url": "https://36kr.com/p/3747982127481345?f=rss",
       "published_at": null,
       "summary": "<p>36氪创投研究院的朋友们：</p>\n  <p>新春好！</p>\n  <p>2026的整个春天，创投圈显得格外忙碌：大家或许在养虾、参加龙虾活动；或许在钻研技术、敲代码；或许在寻觅并肩作战的队友；亦或不断在各个AI APP中反复横跳....<strong>现在正是AI春暖花开之时，暗涌Waves的2026年度调研规划也随之官宣！</strong></p>\n  <p>2025过去一年，我们见证了AI从实验室的静默代码，破土成为改变产业底座的显学。暗涌发布了96篇文章，不断追踪报道一级市场事件，记录了国资/产业投资机构的强势入场，陪伴AI从\"概念验证\"走向\"商业闭环\"的每一个关键节点。</p>"
@@ -242,30 +266,6 @@
       "url": "https://36kr.com/p/3747976260174341?f=rss",
       "published_at": null,
       "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260401/v2_f88ef4142e8b43d9957ab14dce049f92@577536001_oswg252348oswg1080oswg1423_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">现场拍摄</p>\n  <p>文&nbsp;|&nbsp;阿至</p>\n  <p>我们似乎比以往任何时候都更相信技术本身的力量。</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
-      "url": "https://36kr.com/p/3747870039147016?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，今日，矽赫微科技（上海）有限公司（以下简称“SHW”）宣布完成新一轮融资，由元禾璞华领投，合肥产投、哇牛资本、君子兰资本、萨珊资本、曦晨资本、苏高新、东方嘉富以及江苏大摩半导体等众多知名投资机构和产业方投资。</p>\n  <p>SHW成立于2023年，总部位于上海，是一家聚焦晶圆永久键合技术及设备的半导体装备企业。公司致力于为先进封装、化合物半导体及新型衬底制造等领域提供高精度晶圆键合设备与配套解决方案。</p>\n  <p>团队方面，公司创始人王笑寒博士在美国留学和工"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "从急救困局到AI预警，如何守住心血管疾病的“最后战场”？",
-      "url": "https://36kr.com/p/3747703171383810?f=rss",
-      "published_at": null,
-      "summary": "<p>近日，大众对“心源性猝死”这一沉重话题的关注度格外高。</p>\n  <p>“每年中国心源性猝死的人数约54万。没有原因的突然心脏停跳很少见，一般是先发生室速或室颤。”近日中国科学院院士、复旦大学附属中山医院葛均波在接受36氪等媒体访谈时指出：40岁到55岁期间是人体的“易损期”，这个阶段反而容易发生心源性猝死。</p>\n  <p>在临床专家看来，突发的心源性猝死、逐步进展的心力衰竭等问题，除遗传因素外，时常与长期的不良生活习惯相连。</p>\n  <p>“现代人长期工作压力大、饮食习惯高盐高糖（如嗜饮奶茶）、睡眠少于6小时等，都会让心脏长期处于疲劳作战的受损状态。同时，许多年轻人缺乏正确的"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪企业全情报：AI 舆情大数据，让投资决策快人一步",
-      "url": "https://36kr.com/p/3747662784332289?f=rss",
-      "published_at": null,
-      "summary": "<p>信息爆炸时代，炒股最怕<strong>消息滞后、真假难辨、抓不住涨跌核心</strong>。刷遍新闻、研报、股吧，仍看不清市场全貌？36 氪重磅推出<strong>企业全情报微信小程序</strong>，以 AI 大模型 + 独家舆情大数据，为普通投资者打造机构级情报工具，一键看透股价逻辑、精准把握投资先机36氪。</p>\n  <h3>一、硬核实力：机构级数据，普通人也能用</h3>\n  <p>小程序由 36 氪联合<strong>红麦聚信</strong>倾力打造，依托 17 年大数据技术沉淀，实现<strong>全网 7×24 小时实时数据采集</strong>，覆盖权威媒体、社交平"
     }
   ]
 }

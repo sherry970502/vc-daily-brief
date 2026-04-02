@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-02T03:48:28.909903+00:00",
+  "updated_at": "2026-04-02T12:27:09.003410+00:00",
   "period_hours": 24,
-  "tweet_count": 63,
+  "tweet_count": 60,
   "tweets": [
     {
       "account": "@paulg",
@@ -12,60 +12,44 @@
       "url": "https://x.com/paulg/status/2039466618036826348"
     },
     {
-      "account": "@paulg",
-      "name": "Paul Graham",
-      "org": "Y Combinator",
-      "created_at": "2026-04-01T10:21:13.000Z",
-      "text": "I agreed to get a Phil Foden haircut if 17 yo gets 1550 on the SAT. For people outside the UK, this is the risk I'm taking here: https://t.co/Q9vojGza6L",
-      "url": "https://x.com/paulg/status/2039286958711865820"
-    },
-    {
-      "account": "@paulg",
-      "name": "Paul Graham",
-      "org": "Y Combinator",
-      "created_at": "2026-04-01T10:10:34.000Z",
-      "text": "Sadly, one way I now recognize fake AI-generated replies is that AIs write punchier sentences than most ordinary humans.",
-      "url": "https://x.com/paulg/status/2039284275711971725"
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-02T07:43:57.000Z",
+      "text": "First the Claude Code leak and now this. In the same week. \"AI safety\" by way of \"we'll lock it up\" is just totally dead. Kaput. Pushing up daisies. https://t.co/tBC7xZITYW",
+      "url": "https://x.com/pmarca/status/2039609769426882711"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-02T03:21:41.000Z",
-      "text": "https://t.co/UJTAqH30uW https://t.co/s5IN9gybwr",
-      "url": "https://x.com/pmarca/status/2039543766047175066"
+      "created_at": "2026-04-02T07:21:55.000Z",
+      "text": "Hell yeah. https://t.co/x4DBm1OAMV",
+      "url": "https://x.com/pmarca/status/2039604224796012907"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-02T03:04:55.000Z",
-      "text": "https://t.co/mMo6UbSczf",
-      "url": "https://x.com/pmarca/status/2039539546199822607"
+      "created_at": "2026-04-02T07:16:26.000Z",
+      "text": "In our cultural memory, 1866-1928 might as well not even exist. Lost decades, despite virtually the entire modern world as we know it conceived and built then. https://t.co/Z83cXiWlnQ",
+      "url": "https://x.com/pmarca/status/2039602843926372787"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-01T21:46:10.000Z",
-      "text": "We're going back to the fucking moon, that's why. https://t.co/5R2ZmlNF0B",
-      "url": "https://x.com/pmarca/status/2039459330181976134"
+      "created_at": "2026-04-02T07:13:20.000Z",
+      "text": "HT @omooretweets https://t.co/MEdVJSqCwz",
+      "url": "https://x.com/pmarca/status/2039602063655702731"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-01T18:24:12.000Z",
-      "text": "https://t.co/At3V93tnje",
-      "url": "https://x.com/pmarca/status/2039408505443246369"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-01T18:23:43.000Z",
-      "text": "https://t.co/URAnsoJ20Q",
-      "url": "https://x.com/pmarca/status/2039408384747979190"
+      "created_at": "2026-04-02T07:08:32.000Z",
+      "text": "Someone should come up with a term for this. https://t.co/XvJY7enmZ4",
+      "url": "https://x.com/pmarca/status/2039600856748957810"
     },
     {
       "account": "@chamath",
@@ -143,41 +127,73 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-02T07:51:02.000Z",
+      "text": "Visual intelligence beyond the human paradigm  https://t.co/nGEpbVGOCN",
+      "url": "https://x.com/elonmusk/status/2039611549816689074"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-02T06:54:53.000Z",
+      "text": "As sure as night follows day, the Golden State will eat its Golden Geese until there are no more left. \n\ngg https://t.co/CoiMzedED9",
+      "url": "https://x.com/elonmusk/status/2039597421966344588"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-02T06:50:56.000Z",
+      "text": "True https://t.co/m1OG3TuVIy",
+      "url": "https://x.com/elonmusk/status/2039596425911394556"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-02T06:50:18.000Z",
+      "text": "Wow https://t.co/APg4JNjItp",
+      "url": "https://x.com/elonmusk/status/2039596268578799884"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
       "created_at": "2026-04-01T17:31:59.000Z",
       "text": "Wow https://t.co/owrzymZvFI",
       "url": "https://x.com/elonmusk/status/2039395363690541176"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-01T16:30:15.000Z",
-      "text": "10 years ago https://t.co/F3uNLQvdhR",
-      "url": "https://x.com/elonmusk/status/2039379828261179810"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-02T05:21:31.000Z",
+      "text": "https://t.co/IcFZWEDeyL",
+      "url": "https://x.com/garrytan/status/2039573921956327489"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-01T15:43:30.000Z",
-      "text": "Such great content from Japan! 🇯🇵 https://t.co/3QBMcjls17",
-      "url": "https://x.com/elonmusk/status/2039368064463241399"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-02T05:01:12.000Z",
+      "text": "Local models are a very very good thing https://t.co/8lO3MeN5T4",
+      "url": "https://x.com/garrytan/status/2039568811440128137"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-01T15:25:38.000Z",
-      "text": "Try https://t.co/op5s4ZiSwh! https://t.co/SqCcqVk1IP",
-      "url": "https://x.com/elonmusk/status/2039363566755876893"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-02T04:55:29.000Z",
+      "text": "Apr 1 lmao https://t.co/OQh758HuFe",
+      "url": "https://x.com/garrytan/status/2039567372152164686"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-01T15:02:55.000Z",
-      "text": "Tesla Supercharger energy delivered is growing exponentially https://t.co/6hEQ4FKDyN",
-      "url": "https://x.com/elonmusk/status/2039357849080561735"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-02T04:03:58.000Z",
+      "text": "Wow. Incredible amount of SOTA training data now just available to China thanks to @mercor_ai leak. Every major lab. Billions and billions of value and a major national security issue. https://t.co/BGMemZjPvk",
+      "url": "https://x.com/garrytan/status/2039554406501531725"
     },
     {
       "account": "@garrytan",
@@ -188,36 +204,12 @@
       "url": "https://x.com/garrytan/status/2039549323445469295"
     },
     {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-01T18:11:37.000Z",
-      "text": "Every founder and CEO should read all they can about the drama triangle. \n\nIf you cannot face another person directly, you will drag a third person in and call it process. That is how companies rot from the inside.",
-      "url": "https://x.com/garrytan/status/2039405337636425846"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-01T15:09:57.000Z",
-      "text": "Agency and taste yes\n\nBut also trust, that is a whole dimension we haven’t discussed https://t.co/jJq3gu2dj4",
-      "url": "https://x.com/garrytan/status/2039359618422624569"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-01T14:28:45.000Z",
-      "text": "https://t.co/C2a2elK88y",
-      "url": "https://x.com/garrytan/status/2039349253630542241"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-01T14:26:33.000Z",
-      "text": "We need to demand more from our government\n\nWe deserve effective government not whatever the heck we are actually getting especially in California https://t.co/sPYn4DDbiC",
-      "url": "https://x.com/garrytan/status/2039348696840900608"
+      "account": "@andrewchen",
+      "name": "Andrew Chen",
+      "org": "a16z",
+      "created_at": "2026-04-02T05:12:48.000Z",
+      "text": "I wanna claude like this. Feet up on the desk, custom vibe code walkie talkie. So many style points\n\nvia bharms27/reddit https://t.co/7gKVElFTBS",
+      "url": "https://x.com/andrewchen/status/2039571728922460611"
     },
     {
       "account": "@andrewchen",
@@ -242,6 +234,14 @@
       "created_at": "2026-04-01T15:19:10.000Z",
       "text": "globalization in 2026: American models, Korean memory, Taiwanese silicon, Chinese competition, Middle Eastern capital, European regulation 😂 and soon- orbital compute",
       "url": "https://x.com/andrewchen/status/2039361940770967865"
+    },
+    {
+      "account": "@naval",
+      "name": "Naval Ravikant",
+      "org": "AngelList",
+      "created_at": "2026-04-02T08:13:05.000Z",
+      "text": "Vibe coding is more addictive than any video game ever made (if you know what you want to build).",
+      "url": "https://x.com/naval/status/2039617101221224858"
     },
     {
       "account": "@lennysan",
@@ -290,22 +290,6 @@
       "created_at": "2026-04-01T19:16:52.000Z",
       "text": "things keeping me up at night about where AI is actually going:\n\n1. \"ambient businesses\" are coming. basically, agents monitor the market, handle customers, execute decisions. you check in every few days. 7-8 figure businesses with almost no daily human input. we're early but https://t.co/q2bLT3WA4o",
       "url": "https://x.com/gregisenberg/status/2039421756457484432"
-    },
-    {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
-      "created_at": "2026-04-01T11:23:43.000Z",
-      "text": "@JulienBek I built https://t.co/ptcEtGCCsV to surface startup ideas and trends for you \n\nenjoy",
-      "url": "https://x.com/gregisenberg/status/2039302686789480794"
-    },
-    {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
-      "created_at": "2026-04-01T11:05:43.000Z",
-      "text": "Full post by @JulienBek below https://t.co/xQVEO9FO9V",
-      "url": "https://x.com/gregisenberg/status/2039298155854831931"
     },
     {
       "account": "@venturetwins",
@@ -386,14 +370,6 @@
       "created_at": "2026-04-01T13:35:24.000Z",
       "text": "The best way to raise a round is to hire an advisor to cold email VCs",
       "url": "https://x.com/rrhoover/status/2039335825029124512"
-    },
-    {
-      "account": "@rrhoover",
-      "name": "Ryan Hoover",
-      "org": "Weekend Fund",
-      "created_at": "2026-04-01T11:20:56.000Z",
-      "text": "Holy https://t.co/RtEuEQrPec",
-      "url": "https://x.com/rrhoover/status/2039301986642706486"
     },
     {
       "account": "@tferriss",

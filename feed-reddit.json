@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-02T03:49:05.311314+00:00",
+  "updated_at": "2026-04-02T12:27:46.454481+00:00",
   "post_count": 48,
   "posts": [
+    {
+      "subreddit": "r/venturecapital",
+      "title": "Don’t trust adoption metrics - ask about proficiency instead",
+      "url": "https://www.reddit.com/r/venturecapital/comments/1saftti/dont_trust_adoption_metrics_ask_about_proficiency/",
+      "created_at": null
+    },
     {
       "subreddit": "r/venturecapital",
       "title": "How are early-stage teams tracking decisions and follow-ups after investor and internal meetings?",
@@ -45,12 +51,6 @@
       "created_at": null
     },
     {
-      "subreddit": "r/venturecapital",
-      "title": "building automatic outreach tool for finance students, looking for feedback",
-      "url": "https://www.reddit.com/r/venturecapital/comments/1s236rc/building_automatic_outreach_tool_for_finance/",
-      "created_at": null
-    },
-    {
       "subreddit": "r/startups",
       "title": "Share your startup - quarterly post",
       "url": "https://www.reddit.com/r/startups/comments/1qa653y/share_your_startup_quarterly_post/",
@@ -64,8 +64,26 @@
     },
     {
       "subreddit": "r/startups",
+      "title": "Managing Stress Before First Launch (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1sab9ce/managing_stress_before_first_launch_i_will_not/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/startups",
+      "title": "How do you find users for your niche? (i will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1sa8b0c/how_do_you_find_users_for_your_niche_i_will_not/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/startups",
       "title": "After 5 years as CTO at two startups, I wrote down everything I got wrong (I will not promote)",
       "url": "https://www.reddit.com/r/startups/comments/1s9i0oh/after_5_years_as_cto_at_two_startups_i_wrote_down/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/startups",
+      "title": "Have people lost the ability to actually communicate and follow through human to human? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1saaipb/have_people_lost_the_ability_to_actually/",
       "created_at": null
     },
     {
@@ -76,26 +94,8 @@
     },
     {
       "subreddit": "r/startups",
-      "title": "[I will not promote] Most founders try to raise VC money too early here is what actually comes first",
-      "url": "https://www.reddit.com/r/startups/comments/1s9ww74/i_will_not_promote_most_founders_try_to_raise_vc/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/startups",
-      "title": "30 days in post launch w/ 30 users - lessons learned (i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sa4vdu/30_days_in_post_launch_w_30_users_lessons_learned/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/startups",
-      "title": "Growing a new sports league. I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1s9pz6p/growing_a_new_sports_league_i_will_not_promote/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/startups",
-      "title": "I spent ~$45 on Instagram ads to validate my app idea before writing any code. Here's my exact setup, results, and what I'd do differently. i will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1s9e4sj/i_spent_45_on_instagram_ads_to_validate_my_app/",
+      "title": "Screw the traditional models I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1safz5i/screw_the_traditional_models_i_will_not_promote/",
       "created_at": null
     },
     {
@@ -112,14 +112,26 @@
     },
     {
       "subreddit": "r/ycombinator",
-      "title": "Space for Physics grads in startups?",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1s9t8en/space_for_physics_grads_in_startups/",
+      "title": "One random moment that unexpectedly helped your startup in some way",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1sadqwc/one_random_moment_that_unexpectedly_helped_your/",
       "created_at": null
     },
     {
       "subreddit": "r/ycombinator",
-      "title": "Trying to understand Venture capital more",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1s9vcz4/trying_to_understand_venture_capital_more/",
+      "title": "health insurance during YC",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1sa77fx/health_insurance_during_yc/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/ycombinator",
+      "title": "2 times failed founder. Now looking to validate GTM for my next product.",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1sacybw/2_times_failed_founder_now_looking_to_validate/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/ycombinator",
+      "title": "Space for Physics grads in startups?",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1s9t8en/space_for_physics_grads_in_startups/",
       "created_at": null
     },
     {
@@ -135,18 +147,6 @@
       "created_at": null
     },
     {
-      "subreddit": "r/ycombinator",
-      "title": "When do you actually go all-in?",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1s7gd19/when_do_you_actually_go_allin/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/ycombinator",
-      "title": "Wtf founders usually do on Sundays?",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1s6xw1d/wtf_founders_usually_do_on_sundays/",
-      "created_at": null
-    },
-    {
       "subreddit": "r/artificial",
       "title": "The Claude Code leak accidentally published the first complete blueprint for production AI agents. Here's what it tells us about where this is all going.",
       "url": "https://www.reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/",
@@ -154,26 +154,20 @@
     },
     {
       "subreddit": "r/artificial",
-      "title": "New Research Directions in Materials Science with AI",
-      "url": "https://www.reddit.com/r/artificial/comments/1sa3tn1/new_research_directions_in_materials_science_with/",
+      "title": "List up Fav Multi AI AI Open Source Projects",
+      "url": "https://www.reddit.com/r/artificial/comments/1sabr5t/list_up_fav_multi_ai_ai_open_source_projects/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "CEO of America’s largest public hospital system says he’s ready to replace radiologists with AI",
-      "url": "https://www.reddit.com/r/artificial/comments/1s9beim/ceo_of_americas_largest_public_hospital_system/",
+      "title": "Building an AI agent that finds repos and content relevant to my work",
+      "url": "https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Input on an experiment",
-      "url": "https://www.reddit.com/r/artificial/comments/1sa4vlm/input_on_an_experiment/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/artificial",
-      "title": "The Magic of Machine Learning That Powers Enemy AI in Arc Raiders",
-      "url": "https://www.reddit.com/r/artificial/comments/1sa42c8/the_magic_of_machine_learning_that_powers_enemy/",
+      "title": "AI-powered drones detect explosive threats to keep soldiers safe",
+      "url": "https://www.reddit.com/r/artificial/comments/1sae8jt/aipowered_drones_detect_explosive_threats_to_keep/",
       "created_at": null
     },
     {
@@ -184,14 +178,20 @@
     },
     {
       "subreddit": "r/artificial",
-      "title": "Anthropic is training Claude to recognize when its own tools are trying to manipulate it",
-      "url": "https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/",
+      "title": "I am doing a multi-model graph database in pure Rust with Cypher, SQL, Gremlin, and native GNN looking for extreme speed and performance",
+      "url": "https://www.reddit.com/r/artificial/comments/1sae4r1/i_am_doing_a_multimodel_graph_database_in_pure/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "How Claude Web tried to break out its container, provided all files on the system, scanned the networks, etc",
-      "url": "https://www.reddit.com/r/artificial/comments/1s9us4j/how_claude_web_tried_to_break_out_its_container/",
+      "title": "Input on an experiment",
+      "url": "https://www.reddit.com/r/artificial/comments/1sa4vlm/input_on_an_experiment/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "Chatgpt vs purpose built ai for cre underwriting: which one can finish the job?",
+      "url": "https://www.reddit.com/r/artificial/comments/1sacme5/chatgpt_vs_purpose_built_ai_for_cre_underwriting/",
       "created_at": null
     },
     {
@@ -208,6 +208,18 @@
     },
     {
       "subreddit": "r/SaaS",
+      "title": "I launched a SaaS and learned more in 90 days than in 4 years of reading startup books. Here's everything I wish I knew before I started.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1saa0zx/i_launched_a_saas_and_learned_more_in_90_days/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/SaaS",
+      "title": "Track when ChatGPT, Perplexity, Gemini mention your brand. AI citation tracking built into my SEO tool.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1sadikp/track_when_chatgpt_perplexity_gemini_mention_your/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/SaaS",
       "title": "charged someone $2K for something I thought was worth $200. they paid it immediately",
       "url": "https://www.reddit.com/r/SaaS/comments/1s9wfuw/charged_someone_2k_for_something_i_thought_was/",
       "created_at": null
@@ -220,26 +232,14 @@
     },
     {
       "subreddit": "r/SaaS",
-      "title": "how do you manage virtual cards for SaaS subscriptions?",
-      "url": "https://www.reddit.com/r/SaaS/comments/1sa49t6/how_do_you_manage_virtual_cards_for_saas/",
+      "title": "He Had a Problem, Built an App to Fix It, and Now Makes $100K a Month",
+      "url": "https://www.reddit.com/r/SaaS/comments/1sadecz/he_had_a_problem_built_an_app_to_fix_it_and_now/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "Feeling lost at $2000 MRR (I'll not promote)",
-      "url": "https://www.reddit.com/r/SaaS/comments/1s9uz3t/feeling_lost_at_2000_mrr_ill_not_promote/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/SaaS",
-      "title": "Every way you can grow your SaaS growth (I wasted a year doing this manually)",
-      "url": "https://www.reddit.com/r/SaaS/comments/1sa06vq/every_way_you_can_grow_your_saas_growth_i_wasted/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/SaaS",
-      "title": "Feedback please",
-      "url": "https://www.reddit.com/r/SaaS/comments/1sa6ks7/feedback_please/",
+      "title": "Usability Question Ideas? please",
+      "url": "https://www.reddit.com/r/SaaS/comments/1sacii4/usability_question_ideas_please/",
       "created_at": null
     },
     {
@@ -250,14 +250,26 @@
     },
     {
       "subreddit": "r/techstartups",
-      "title": "Join network group with more than 1000 members",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1sa6qbk/join_network_group_with_more_than_1000_members/",
+      "title": "Do any of you handle customer support emails manually? What do you spend on support tools right now?",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1sa8zr9/do_any_of_you_handle_customer_support_emails/",
       "created_at": null
     },
     {
       "subreddit": "r/techstartups",
       "title": "Anyone wants to network with other startups?",
       "url": "https://www.reddit.com/r/TechStartups/comments/1s9nkvz/anyone_wants_to_network_with_other_startups/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "I think built something that actually work but don’t how to market it",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1sa74as/i_think_built_something_that_actually_work_but/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "Join network group with more than 1000 members",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1sa6qbk/join_network_group_with_more_than_1000_members/",
       "created_at": null
     },
     {
@@ -276,18 +288,6 @@
       "subreddit": "r/techstartups",
       "title": "Do Product Managers or founder always study user review and analytics for their app to decide what to build or fix next?",
       "url": "https://www.reddit.com/r/TechStartups/comments/1s9r34t/do_product_managers_or_founder_always_study_user/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/techstartups",
-      "title": "I build a social platform for “Go-karting racers“ , would love to have feedbacks",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1s9i17t/i_build_a_social_platform_for_gokarting_racers/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/techstartups",
-      "title": "Productivity Isn’t About Working More. It’s About Working on the Right Things",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1s9djf4/productivity_isnt_about_working_more_its_about/",
       "created_at": null
     }
   ]

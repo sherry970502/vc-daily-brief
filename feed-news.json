@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T03:48:55.195131+00:00",
+  "updated_at": "2026-04-02T12:27:36.674493+00:00",
   "period_hours": 24,
   "article_count": 33,
   "articles": [
@@ -70,82 +70,90 @@
     {
       "source": "Crunchbase News",
       "lang": "en",
+      "title": "Sector Snapshot: Venture Funding To Foundational AI Startups In Q1 Was Double All Of 2025",
+      "url": "https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/",
+      "published_at": "2026-04-02T11:00:56+00:00",
+      "summary": "As of March 31, foundational AI startups had raised $178 billion across 24 deals, compared with $88.9 billion across 66 deals in all of 2025 in a 100% increase. That’s also significantly higher — 466.9% higher to be exact — than the $31.4 billion raised across 52 deals in 2024."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
       "title": "The Crunchbase Tech Layoffs Tracker",
       "url": "https://news.crunchbase.com/startups/tech-layoffs/",
       "published_at": "2026-04-01T17:15:30+00:00",
       "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "published_at": "2026-04-01T11:00:06+00:00",
-      "summary": "The first quarter of 2026 was unlike any other for venture investment, driven by unprecedented spending on AI compute and frontier labs. Crunchbase data shows investors poured $300 billion into 6,000 startups globally in the quarter, up over 150% quarter over quarter and year over year, marking an a"
+      "title": "Ford CEO Jim Farley says America is sleepwalking past its ‘essential economy’ crisis. Goldman Sachs just showed how big it really is",
+      "url": "https://fortune.com/2026/04/02/ford-ceo-jim-farley-essential-economy-blue-collar-goldman-sachs/",
+      "published_at": "2026-04-02T12:00:00+00:00",
+      "summary": "Does America have enough essential AI workers? Not really."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Macquarie bets impact investing can fill an Asian financial access gap for the ‘missing middle’",
-      "url": "https://fortune.com/2026/04/01/macquarie-good-return-impact-investing-female-entrepreneurs/",
-      "published_at": "2026-04-01T21:00:00+00:00",
-      "summary": "Macquarie wants to help women entrepreneurs across Asia get loans with a new AUD 1 million impact investment fund with NGO Good Return."
+      "title": "Trump hails ‘tremendous progress’ in Iran but all Wall Street heard was ‘back to escalation’",
+      "url": "https://fortune.com/2026/04/02/trump-iran-war-speech-tremendous-progress-stocks-back-to-escalation/",
+      "published_at": "2026-04-02T10:38:54+00:00",
+      "summary": "Everything you need to know before you reach the office this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jamie Dimon, office-work champion, vows his anti-remote culture ‘would crush you.’ The economy’s top talent begs to differ",
-      "url": "https://fortune.com/2026/04/01/jpmorgan-jamie-dimon-return-to-office-remote-work/",
-      "published_at": "2026-04-01T18:41:40+00:00",
-      "summary": "JPMorgan’s CEO thinks in-person work makes companies more competitive. Most of the research says another thing about “the entitled non-complier.”"
+      "title": "Blend’s post-IPO reset: CEO Nima Ghamsari bets that AI can turn it all around",
+      "url": "https://fortune.com/2026/04/02/blend-fintech-ipo-nima-ghamsari-ai/",
+      "published_at": "2026-04-02T11:00:42+00:00",
+      "summary": "After a $4 billion public markets peak and a mortgage market downturn, Blend is refocusing on AI-driven automation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The SpaceX IPO is great — but it won’t deliver 100x returns",
-      "url": "https://fortune.com/2026/04/01/why-spacex-ipo-wont-deliver-value-elon-musk/",
-      "published_at": "2026-04-01T22:51:15+00:00",
-      "summary": "The threshold for going public in the U.S. has changed dramatically. Decades ago, firms routinely listed at valuations of a few hundred million dollars."
+      "title": "Here’s why King Charles is coming to America. And it is not the reason the President thinks",
+      "url": "https://fortune.com/2026/04/02/king-charles-uk-america-president-trump-iran/",
+      "published_at": "2026-04-02T10:08:42+00:00",
+      "summary": "As George Bernard Shaw said, Britain and America share a language but not a worldview—and the gap between the U.S. and Europe is only growing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft and Chevron enter exclusivity deal on powering West Texas AI data center complex",
-      "url": "https://fortune.com/2026/04/01/microsoft-chevron-exclusivity-powering-west-texas-data-center-complex/",
-      "published_at": "2026-04-01T18:51:28+00:00",
-      "summary": "The colocated data center and power plant campus would start with 2.5 gigawatts of power and the potential to double that size."
+      "title": "Asia’s AI playbook gets a reality check as the Iran war sends energy prices higher and snarls supply chains",
+      "url": "https://fortune.com/2026/04/02/asia-ai-boom-energy-costs-iran-war-chip-supply-chain-hormuz/",
+      "published_at": "2026-04-02T09:49:25+00:00",
+      "summary": "“The scaling laws that have driven the AI boom are fundamentally peacetime constructs.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI ‘slop’ is flooding YouTube Kids—and more than 200 groups and experts are calling for a ban",
-      "url": "https://fortune.com/2026/04/01/ai-slop-200-organizations-letter-youtube-google/",
-      "published_at": "2026-04-01T20:11:12+00:00",
-      "summary": "Fairplay, the group that led a coalition of 200 organizations in writing a letter to YouTube and Google, said it found only 5% of all videos on YouTube to be high-quality content."
+      "title": "Have a strong brand in a world of noise—it’s like having the only red T-shirt in a stadium full of white ones",
+      "url": "https://fortune.com/2026/04/02/erik-severinson-cco-volvo-auto-electric-vehicles/",
+      "published_at": "2026-04-02T09:37:51+00:00",
+      "summary": "Electric is no longer a compromise: Inside Volvo’s big bet on the EX60—and the CCO, Erik Severinson, selling skeptics on EVs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump will address the nation about the Iran war on Wednesday. Here’s what to expect",
-      "url": "https://fortune.com/2026/04/01/trump-address-nation-wednesday-iran-war-expectations/",
-      "published_at": "2026-04-01T20:23:16+00:00",
-      "summary": "Oil analysts warn April will be the cruelest month yet for energy prices, and a presidential speech may not be enough to change that."
+      "title": "Prediction markets have sparked a golden age of insider trading—but the party may be coming to an end",
+      "url": "https://fortune.com/2026/04/02/prediction-markets-insider-trading/",
+      "published_at": "2026-04-02T09:01:00+00:00",
+      "summary": "Suspicious wagers on everything from U.S. military actions to Mr. Beast episodes have finally roused officials to take action."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Deutsche Bank asked AI if it’s true that AI will solve the economy’s inflation problems. The robots answered",
-      "url": "https://fortune.com/2026/04/01/deutsche-bank-asks-ai-will-solve-inflation/",
-      "published_at": "2026-04-01T19:38:49+00:00",
-      "summary": "The answer from the machines was unfortunately not what Wall Street wanted to hear."
+      "title": "In the age of AI anxiety, the 100 Best Companies to Work For are betting on their people",
+      "url": "https://fortune.com/2026/04/02/fortune-100-best-companies-to-work-for-ai-anxiety-humans-people-trust/",
+      "published_at": "2026-04-02T08:03:52+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "‘Inflationary surge’: Fed economists warn AI hype is overheating the economy whether or not the technology ever delivers",
-      "url": "https://fortune.com/2026/04/01/inflationary-surge-ai-hype-fed-reserve-bank/",
-      "published_at": "2026-04-01T15:35:41+00:00",
-      "summary": "Economists from the St. Louis Fed said AI could inflate prices today even without a payoff tomorrow."
+      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
+      "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
+      "published_at": "2026-04-02T11:00:00+00:00",
+      "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft</a> on Wednesday launched <a href=\"https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/\">three new foundational AI models</a> it built entirely in-house — a state-of-the-art speech transcription syst"
     },
     {
       "source": "VentureBeat",
@@ -190,18 +198,42 @@
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-      "published_at": "2026-04-01T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots at home&#160; When Zeus, a medical student in Nigeria, returns to his apartment from a long day at th"
+      "title": "Fuel prices are soaring. Plastic could be next.",
+      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+      "published_at": "2026-04-02T10:00:00+00:00",
+      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in th"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The gig workers who are training humanoid robots at home",
-      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
-      "published_at": "2026-04-01T11:00:00+00:00",
-      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a&#8"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%",
+      "url": "https://36kr.com/p/3749518049739271?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><a href=\"https://36kr.com/newsflashes/3749473158939139\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>滴滴租车推出“无车必赔”机制，无车率下降15%</strong></a></p>\n  <p>为提升履约确定性，滴滴租车推出“无车必赔”机制：因商家原因导致无法用车，平台将协调升级车型，或全额退款并赔付三倍日租金。规则实施后，无车率同期下降15%，平台共赔付预约无车订单三百余次。针对车损纠纷和线下乱收费情况，平台提供免费第三方定损及先行赔付，费用全程"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家",
+      "url": "https://36kr.com/p/3748118174335747?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260401/v2_9db4d93ee5f14c9da248784a40a58ce8@6310690_oswg692601oswg1024oswg667_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源视觉中国</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜李勤、杨轩</p>\n  <p>36氪汽车独家获悉，轻舟"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "泡泡玛特无需下一个LABUBU",
+      "url": "https://36kr.com/p/3749340971188992?f=rss",
+      "published_at": null,
+      "summary": "<p>3月25日，泡泡玛特交出了2025年的答卷。过去一年，泡泡玛特的收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。</p>\n  <p>围绕泡泡玛特的讨论再次沸腾起来，只是相较于去年中报发布之际的欢欣鼓舞，此次与泡泡玛特亮眼财报成绩一并而至的，是资本市场的负面情绪。</p>\n  <p>对此泡泡玛特没有坐以待毙，连续选择四个交易日斥资12亿港元大手笔回购，以此向市场传递公司长期向好的信心。</p>\n  <p>股价过山车的背后仍是那些老生常谈的问题，泡泡玛特是否能维持住2025年的高速增长，以及其是否在依赖单一IP LABUBU。</p>\n  <p>从IP"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "获韶音投资，一家AI公司做了“硬件版OpenClaw” | 36氪独家",
+      "url": "https://36kr.com/p/3749149674439169?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>文｜邓咏仪</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>当OpenClaw风暴席卷全球之时，无界方舟创始人曾晓东的反应不是兴奋，而是一种“终于被看见”的感觉。</p>\n  <p>“OpenClaw本质上是一个Agent框架，底层是一个会写代码的Agent，放在云端服务器或者电脑上。”他对《智能涌现》说，“我们的AIOS本质上也是一个Agent框架，但它是放在硬件端侧的OpenClaw——机器人、耳机、眼镜，都可以在这套OS上运行。”</p>\n  <p>无界方舟从2024年成立起，就在做这件事。曾晓东给这套范式起了个"
     },
     {
       "source": "36氪",
@@ -234,38 +266,6 @@
       "url": "https://36kr.com/p/3748233045541637?f=rss",
       "published_at": null,
       "summary": "<p><strong>文｜邱晓芬</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>一家成立12年的两轮电动车厂商，在成功经历过中国的锂电化、智能化浪潮，并在纳斯达克上市后，决定加入AI时代全新的竞争。造AI时代的智能两轮电动车——被小牛电动称为：“下一个十年的护城河”。</p>\n  <p>在小牛电动不久前的发布会上，他们展示了初步的成果——在新发布的电动车NXT2和NX2上，搭载了自研的小牛灵犀AIOS、以及首个面向骑行的AI智能体。</p>\n  <p>当你开车上路时，小牛灵犀AIOS和智能体的搭配，将让你的电动车变成“会看路、懂说话”的骑"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "2026有智青年挑战赛，报名通道全面开启！",
-      "url": "https://36kr.com/p/3748145916740100?f=rss",
-      "published_at": null,
-      "summary": "<p>这不是一场传统比赛，是一次对话。</p>\n  <p>我们始终相信，AI 的使命不应是取代人类，而是帮助人类变得更强大。因此在这次选拔中，我们不会关注你的教育背景、融资规模或是使用了多么前沿的算法，唯一在意的是你的产品是否真正让个体变得更强。</p>\n  <p><strong>行至决赛，你会站上WAVES的舞台，这是中国创投圈最重要的舞台之一，台下坐着投资人、产业伙伴、未来的用户，过去很多你叫得出名字的创业者，都是从这里被看见、被理解、被加速。2026年夏天，我们想把这个舞台分你一半。</strong></p>\n  <p>大赛报名已开启，欢迎所有年轻实干家报名，等你来定义下一个—商业坐标！"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
-      "url": "https://36kr.com/p/3748061455778311?f=rss",
-      "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><a href=\"https://36kr.com/newsflashes/3748036649796355\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>李亚鹏名下公司成立麋鹿咖啡公司</strong></a></p>\n  <p>36氪获悉，爱企查App显示，近日，云南麋鹿咖啡有限公司成立，法定代表人为杨凝，注册资本100万元人民币，经营范围包括咖啡豆种植、食用农产品批发、食用农产品零售、食品互联网销售等。股权穿透图显示，该公司由李亚鹏名下北京艺莲文化科技有限公司、罗毓藻分别持股90%、10%。</"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "2026中国股权投资行业名册，调研启动！",
-      "url": "https://36kr.com/p/3747982127481345?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪创投研究院的朋友们：</p>\n  <p>新春好！</p>\n  <p>2026的整个春天，创投圈显得格外忙碌：大家或许在养虾、参加龙虾活动；或许在钻研技术、敲代码；或许在寻觅并肩作战的队友；亦或不断在各个AI APP中反复横跳....<strong>现在正是AI春暖花开之时，暗涌Waves的2026年度调研规划也随之官宣！</strong></p>\n  <p>2025过去一年，我们见证了AI从实验室的静默代码，破土成为改变产业底座的显学。暗涌发布了96篇文章，不断追踪报道一级市场事件，记录了国资/产业投资机构的强势入场，陪伴AI从\"概念验证\"走向\"商业闭环\"的每一个关键节点。</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "四个大脑、三条路线、一种「天真」｜36氪离线聚会第零期",
-      "url": "https://36kr.com/p/3747976260174341?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260401/v2_f88ef4142e8b43d9957ab14dce049f92@577536001_oswg252348oswg1080oswg1423_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">现场拍摄</p>\n  <p>文&nbsp;|&nbsp;阿至</p>\n  <p>我们似乎比以往任何时候都更相信技术本身的力量。</p>"
     }
   ]
 }

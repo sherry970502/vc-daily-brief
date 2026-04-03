@@ -1,71 +1,87 @@
 {
-  "updated_at": "2026-04-02T12:27:36.674493+00:00",
+  "updated_at": "2026-04-03T03:49:59.793753+00:00",
   "period_hours": 24,
   "article_count": 33,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
-      "url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
-      "published_at": "2026-04-01T22:58:39+00:00",
-      "summary": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far."
+      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
+      "url": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+      "published_at": "2026-04-02T22:56:29+00:00",
+      "summary": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "published_at": "2026-04-01T22:12:13+00:00",
-      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices."
+      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
+      "url": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
+      "published_at": "2026-04-02T21:26:48+00:00",
+      "summary": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The reputation of troubled YC startup Delve has gotten even worse",
-      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "published_at": "2026-04-01T21:23:47+00:00",
-      "summary": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own."
+      "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
+      "url": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
+      "published_at": "2026-04-02T20:06:29+00:00",
+      "summary": "Next time around, the pressure will be on SpaceX and Blue Origin."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘System failure’ paralyzes Baidu robotaxis in China",
-      "url": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
-      "published_at": "2026-04-01T21:12:14+00:00",
-      "summary": "Passengers in Baidu's robotaxis were trapped for up to two hours."
+      "title": "Gateway Capital announces first close of $25M Fund II",
+      "url": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/",
+      "published_at": "2026-04-02T19:45:19+00:00",
+      "summary": "Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)",
-      "url": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
-      "published_at": "2026-04-01T20:46:17+00:00",
-      "summary": "Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. Think MySpace rather than LinkedIn."
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "published_at": "2026-04-02T19:21:00+00:00",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Startup funding shatters all records in Q1",
-      "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
-      "published_at": "2026-04-01T20:25:28+00:00",
-      "summary": "The record quarterly fundraise largely fueled four mega-deals into  OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market."
+      "title": "Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web",
+      "url": "https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/",
+      "published_at": "2026-04-02T19:18:51+00:00",
+      "summary": "Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single, shared destination."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
-      "url": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
-      "published_at": "2026-04-01T19:02:18+00:00",
-      "summary": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword."
+      "title": "ElevenLabs releases a new AI-powered music-generation app",
+      "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+      "published_at": "2026-04-02T18:58:45+00:00",
+      "summary": "ElevenMusic lets users create and remix songs using text prompts. The new app suggests ElevenLabs wants to be more than just a voice model company."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta’s natural gas binge could power South Dakota",
-      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-      "published_at": "2026-04-01T18:35:36+00:00",
-      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants."
+      "title": "NASA astronauts prove that sending an email really is rocket science",
+      "url": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
+      "published_at": "2026-04-02T18:19:39+00:00",
+      "summary": "NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Exclusive: Miravoice, Builder Of An AI ‘Interviewer’ To Conduct Phone Surveys, Raises $6.3M",
+      "url": "https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/",
+      "published_at": "2026-04-02T14:00:29+00:00",
+      "summary": "Miravoice, a startup using AI voice agents to conduct long-form phone surveys, has raised $6.3 million in a seed funding round, the company tells Crunchbase News exclusively."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Exclusive: Anvil Robotics Raises $5.5M to Build ‘Legos for Robots’ Platform For Physical AI Teams",
+      "url": "https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/",
+      "published_at": "2026-04-02T13:00:41+00:00",
+      "summary": "Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively."
     },
     {
       "source": "Crunchbase News",
@@ -76,124 +92,108 @@
       "summary": "As of March 31, foundational AI startups had raised $178 billion across 24 deals, compared with $88.9 billion across 66 deals in all of 2025 in a 100% increase. That’s also significantly higher — 466.9% higher to be exact — than the $31.4 billion raised across 52 deals in 2024."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-04-01T17:15:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+      "title": "Paul Krugman smacks down Trump speech with argument that $4 gas is ‘less than half’ of the Hormuz hit. Here’s what he’s talking about",
+      "url": "https://fortune.com/2026/04/02/paul-krugman-donald-trump-iran-war-strait-of-hormuz/",
+      "published_at": "2026-04-02T19:51:47+00:00",
+      "summary": "Several other essential commodities cross the critical choke point, and a prolonged closure of the strait could injure American consumers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Ford CEO Jim Farley says America is sleepwalking past its ‘essential economy’ crisis. Goldman Sachs just showed how big it really is",
-      "url": "https://fortune.com/2026/04/02/ford-ceo-jim-farley-essential-economy-blue-collar-goldman-sachs/",
-      "published_at": "2026-04-02T12:00:00+00:00",
-      "summary": "Does America have enough essential AI workers? Not really."
+      "title": "I knew about North Korean hackers—they still tricked me and got into my computer",
+      "url": "https://fortune.com/2026/04/02/north-korea-dprk-zoom-phishing-social-engineering-attack-telegram/",
+      "published_at": "2026-04-02T15:32:19+00:00",
+      "summary": "A source reached out to me over Telegram. I didn’t realize his account was compromised until it was almost too late."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump hails ‘tremendous progress’ in Iran but all Wall Street heard was ‘back to escalation’",
-      "url": "https://fortune.com/2026/04/02/trump-iran-war-speech-tremendous-progress-stocks-back-to-escalation/",
-      "published_at": "2026-04-02T10:38:54+00:00",
-      "summary": "Everything you need to know before you reach the office this morning."
+      "title": "Trump wants to add nearly $7 trillion to the $39 trillion national debt with his new military budget, watchdog warns",
+      "url": "https://fortune.com/2026/04/02/how-much-would-trump-military-budget-add-to-national-debt-39-trillion/",
+      "published_at": "2026-04-02T20:27:37+00:00",
+      "summary": "Trump's proposal would be \"by far the largest year-over-year increase in defense spending in the post-WWII era,\" the CRFB said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Blend’s post-IPO reset: CEO Nima Ghamsari bets that AI can turn it all around",
-      "url": "https://fortune.com/2026/04/02/blend-fintech-ipo-nima-ghamsari-ai/",
-      "published_at": "2026-04-02T11:00:42+00:00",
-      "summary": "After a $4 billion public markets peak and a mortgage market downturn, Blend is refocusing on AI-driven automation."
+      "title": "Mercor, a $10 billion AI startup that works with companies including OpenAI and Anthropic, confirms major data breach",
+      "url": "https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion/",
+      "published_at": "2026-04-02T19:00:00+00:00",
+      "summary": "Mercor confirmed it was hit by a supply-chain attack targeting LiteLLM, a widely used AI developer tool. Extortion gang Lapsus$ claims to have walked away with four terabytes of data."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Here’s why King Charles is coming to America. And it is not the reason the President thinks",
-      "url": "https://fortune.com/2026/04/02/king-charles-uk-america-president-trump-iran/",
-      "published_at": "2026-04-02T10:08:42+00:00",
-      "summary": "As George Bernard Shaw said, Britain and America share a language but not a worldview—and the gap between the U.S. and Europe is only growing."
+      "title": "UK accuses Iran of Hormuz ‘hijack,’ holding global economy hostage",
+      "url": "https://fortune.com/2026/04/02/uk-accuses-iran-of-hormuz-hijack-holding-global-economy-hostage/",
+      "published_at": "2026-04-02T15:22:48+00:00",
+      "summary": "“We have seen Iran hijack an international shipping route to hold the global economy hostage,\" Foreign Secretary Yvette Cooper said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Asia’s AI playbook gets a reality check as the Iran war sends energy prices higher and snarls supply chains",
-      "url": "https://fortune.com/2026/04/02/asia-ai-boom-energy-costs-iran-war-chip-supply-chain-hormuz/",
-      "published_at": "2026-04-02T09:49:25+00:00",
-      "summary": "“The scaling laws that have driven the AI boom are fundamentally peacetime constructs.\""
+      "title": "Apollo and FC Barcelona just proved legacy markets are losing their grip on business",
+      "url": "https://fortune.com/2026/04/02/commentary-apollo-fc-barcelona-legacy-markets-florida-business-migration/",
+      "published_at": "2026-04-02T19:46:06+00:00",
+      "summary": "New York and California built dominance over decades. But costs, regulation and red tape is pushing companies and capital to states like Florida."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Have a strong brand in a world of noise—it’s like having the only red T-shirt in a stadium full of white ones",
-      "url": "https://fortune.com/2026/04/02/erik-severinson-cco-volvo-auto-electric-vehicles/",
-      "published_at": "2026-04-02T09:37:51+00:00",
-      "summary": "Electric is no longer a compromise: Inside Volvo’s big bet on the EX60—and the CCO, Erik Severinson, selling skeptics on EVs."
+      "title": "After renewable power’s record-smashing 2025, the Iran war could accelerate the shift as countries seek ‘structurally more resilient’ energy, UN says",
+      "url": "https://fortune.com/2026/04/02/high-energy-prices-iran-accelerates-renewable-transition-un-says/",
+      "published_at": "2026-04-02T17:58:58+00:00",
+      "summary": "From Asia to Europe, people are rushing to electrify wherever they can."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Prediction markets have sparked a golden age of insider trading—but the party may be coming to an end",
-      "url": "https://fortune.com/2026/04/02/prediction-markets-insider-trading/",
-      "published_at": "2026-04-02T09:01:00+00:00",
-      "summary": "Suspicious wagers on everything from U.S. military actions to Mr. Beast episodes have finally roused officials to take action."
+      "title": "Markets rally hard on Iran’s promise to play nice in Hormuz as its leaders pocket billions from the disruption",
+      "url": "https://fortune.com/2026/04/02/iran-war-strait-hormuz-stocks-sp-500-price-rally-tolls-oman/",
+      "published_at": "2026-04-02T17:06:28+00:00",
+      "summary": "Anything sounds good to Wall Street, except more war. But Iran’s power brokers may have little reason to stop."
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "In the age of AI anxiety, the 100 Best Companies to Work For are betting on their people",
-      "url": "https://fortune.com/2026/04/02/fortune-100-best-companies-to-work-for-ai-anxiety-humans-people-trust/",
-      "published_at": "2026-04-02T08:03:52+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
+      "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
+      "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
+      "published_at": "2026-04-03T00:10:37+00:00",
+      "summary": "<p>The baton of open source AI models has been passed on between several companies over the years since ChatGPT debuted in late 2022, from Meta with its Llama family to Chinese labs like Qwen and z.ai. But lately, Chinese companies have started pivoting back towards proprietary models even as some U"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Google releases Gemma 4 under Apache 2.0 — and that license change may matter more than benchmarks",
+      "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
+      "published_at": "2026-04-02T17:49:39+00:00",
+      "summary": "<p>For the past two years, enterprises evaluating open-weight models have faced an awkward trade-off. Google&#x27;s Gemma line consistently delivered strong performance, but its custom license — with usage restrictions and terms Google could update at will — pushed many teams toward Mistral or Aliba"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
       "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
-      "published_at": "2026-04-02T11:00:00+00:00",
-      "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft</a> on Wednesday launched <a href=\"https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/\">three new foundational AI models</a> it built entirely in-house — a state-of-the-art speech transcription syst"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
-      "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
-      "published_at": "2026-04-01T23:47:24+00:00",
-      "summary": "<p>As generative AI matures from a novelty into a workplace staple, a new friction point has emerged: the &quot;shadow AI&quot; or &quot;Bring Your Own AI (BYOAI)&quot; crisis. Much like the unsanctioned use of personal devices in years past, developers and knowledge workers are increasingly deployi"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected",
-      "url": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026",
-      "published_at": "2026-04-01T23:45:17+00:00",
-      "summary": "<p>Attackers stole a long-lived npm access token belonging to the lead maintainer of <a href=\"https://www.npmjs.com/package/axios\">axios</a>, the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malic"
+      "published_at": "2026-04-02T15:57:13+00:00",
+      "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft</a> on Thursday launched <a href=\"https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/\">three new foundational AI models</a> it built entirely in-house — a state-of-the-art speech transcription syste"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
       "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
-      "published_at": "2026-04-01T23:42:53+00:00",
+      "published_at": "2026-04-02T15:14:29+00:00",
       "summary": "<p>Every enterprise running AI coding agents has just lost a layer of defense. On March 31, Anthropic accidentally shipped a 59.8 MB source map file inside version 2.1.88 of its <a href=\"https://www.npmjs.com/package/@anthropic-ai/claude-code\">@anthropic-ai/claude-code npm package</a>, exposing 512,"
     },
     {
-      "source": "VentureBeat",
+      "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Intuit's AI agents hit 85% repeat usage. The secret was keeping humans involved",
-      "url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved",
-      "published_at": "2026-04-01T21:24:08+00:00",
-      "summary": "<p>When Intuit shipped AI agents to 3 million customers, 85% came back. The reason, according to the company&#x27;s EVP and GM: combining AI with human expertise turned out to matter more than anyone expected — not less.</p><p>Marianna Tessel, the financial software company’s EVP and GM, calls this"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 — the agent behavioral baseline gap survived all three",
-      "url": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap",
-      "published_at": "2026-04-01T17:30:15+00:00",
-      "summary": "<p>CrowdStrike CEO George Kurtz highlighted in his <a href=\"https://www.rsaconference.com/usa\">RSA Conference 2026</a> keynote that the <a href=\"https://www.youtube.com/watch?v=6SYgMYZdkK4\">fastest recorded adversary breakout time has dropped</a> to 27 seconds. The average is now 29 minutes, down fr"
+      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+      "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+      "published_at": "2026-04-02T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fo"
     },
     {
       "source": "MIT Tech Review",
@@ -202,6 +202,46 @@
       "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
       "published_at": "2026-04-02T10:00:00+00:00",
       "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in th"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 00后上交医学博士做了款可穿戴止鼾设备，获得顺为独家投资",
+      "url": "https://36kr.com/p/3750501433705224?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，深圳夜合科技有限公司（下称“夜合科技”）近日宣布完成千万元天使轮融资，由顺为资本独家投资，深渡资本担任本轮融资的财务顾问。资金主要用于核心产品研发，加速“医疗技术向消费场景延伸”。</p>\n  <p>夜合科技成立于2025年，总部位于深圳。首款产品聚焦睡眠呼吸赛道，为鼾声人群和阻塞性睡眠呼吸暂停（OSA）患者开发轻量化、舒适、无体位限制的可穿戴颈部设备。</p>\n  <p>公司创始人冉昕昕拥有华西、瑞金两大顶级医院的医学背景，于上海交通大学攻读医学博士学位，长期专注于"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "叽伴：用「共同经历」重新定义AI社交",
+      "url": "https://36kr.com/p/3749816005657093?f=rss",
+      "published_at": null,
+      "summary": "<p>随着大语言模型和各类Agent的崛起，国内外涌现出一批以AI为核心的社交产品。然而在行业热闹背后，一个尴尬的现实是：<strong>用户尝鲜热情高，留存率却惨淡。</strong></p>\n  <p>聊得越久，越发现角色“失忆”——上周提过的重要事情这周就忘；OOC（性格漂移）——原本高冷的角色突然变得谄媚讨好；最终演变成编剧疲劳的独角戏，用户既要当体验者又要当编剧，负担过重，自然流失。</p>\n  <p>技术越进步，用户对虚拟陪伴的期待反而越现实：要的不是更会说话的AI，而是一段经得起时间、有厚度、有记忆的关系。换句话说，AI社交的本质，不是更智能的对话，而是可沉淀的关系。</p>"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利",
+      "url": "https://36kr.com/p/3750411191550467?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，国内量子计算企业——量旋科技（SpinQ）已于近日完成C+轮融资，金额达6亿元。若将三个月前完成的C轮融资合并计算，公司在短短一个季度内累计融资近10亿元。</p>\n  <p>本轮融资汇集了多元化的投资阵容，既包括基石资本等知名投资机构，也有国泰君安创新投等国央企背景的机构，以及浙江财通资本、四川振兴集团、成都天创投等地方投资平台，毅达资本、华强资本持续跟投。</p>\n  <p>量旋科技成立于2018年，是一家专注于量子计算产业化的高科技企业，总部位于深圳。公司创始人兼CEO项金根毕业于清华大学物理系，曾任哈佛大学博"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
+      "url": "https://36kr.com/p/3749811482297090?f=rss",
+      "published_at": null,
+      "summary": "<p>文 | 刘士武</p>\n  <p><strong>近日，由世纪华通主办的第二届「数龙杯全球AI创新大赛」宣布将于4月初正式启动，并在参赛项目类型方面进行了全面升级。除了各类AI游戏与AI应用以外，本届大赛专门新增了AI智能体赛道，希望挖掘在这个领域真正有创造力、能解决实际问题的优秀项目。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260402/v2_9645a940462d405597abb767ae6006ef@16519798_oswg87348oswg108"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
+      "url": "https://36kr.com/p/3750345334292999?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>抖音生活服务组织架构大调整</p>\n  <p>杭州市场监管部门对索象等公司立案调查</p>\n  <p>伊朗：霍尔木兹海峡对敌人将永远关闭</p>\n  <p>飞天茅台原箱批价涨至1730元/瓶</p>\n  <p>礼来口服GLP-1药物在美获批用于减肥</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>张雪回应陈光标赠1300万元劳斯莱斯</strong></p>\n  <p>4月1日，陈光标在社交平台发布视频称，将赠予张雪机车创始人张雪一台价值1300万元的劳斯莱斯。4月2日凌晨，张雪回应称：“那我收了，顺便招募一位附近的2手车商（信"
     },
     {
       "source": "36氪",
@@ -226,46 +266,6 @@
       "url": "https://36kr.com/p/3749340971188992?f=rss",
       "published_at": null,
       "summary": "<p>3月25日，泡泡玛特交出了2025年的答卷。过去一年，泡泡玛特的收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。</p>\n  <p>围绕泡泡玛特的讨论再次沸腾起来，只是相较于去年中报发布之际的欢欣鼓舞，此次与泡泡玛特亮眼财报成绩一并而至的，是资本市场的负面情绪。</p>\n  <p>对此泡泡玛特没有坐以待毙，连续选择四个交易日斥资12亿港元大手笔回购，以此向市场传递公司长期向好的信心。</p>\n  <p>股价过山车的背后仍是那些老生常谈的问题，泡泡玛特是否能维持住2025年的高速增长，以及其是否在依赖单一IP LABUBU。</p>\n  <p>从IP"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "获韶音投资，一家AI公司做了“硬件版OpenClaw” | 36氪独家",
-      "url": "https://36kr.com/p/3749149674439169?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>文｜邓咏仪</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>当OpenClaw风暴席卷全球之时，无界方舟创始人曾晓东的反应不是兴奋，而是一种“终于被看见”的感觉。</p>\n  <p>“OpenClaw本质上是一个Agent框架，底层是一个会写代码的Agent，放在云端服务器或者电脑上。”他对《智能涌现》说，“我们的AIOS本质上也是一个Agent框架，但它是放在硬件端侧的OpenClaw——机器人、耳机、眼镜，都可以在这套OS上运行。”</p>\n  <p>无界方舟从2024年成立起，就在做这件事。曾晓东给这套范式起了个"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
-      "url": "https://36kr.com/p/3748270618919424?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，仿生扑翼飞行机器人公司——深圳鹰瞰智翼科技有限公司（下称“鹰瞰智翼”）近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。</p>\n  <p>鹰瞰智翼2025年3月成立于深圳，是全球第一家专注于具身智能扑翼机器人的公司。创始人陈昊是上海交通大学直博生，博士期间发表四篇顶刊论文。团队核心成员均为上海交大本硕博，来自机器人、控制与机械等相关背景，全员均为00后。</p>\n  <p>目前，鹰瞰智翼已形成两条产"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
-      "url": "https://36kr.com/p/3748296456143362?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜李小霞</p>\n  <p>编辑｜乔芊 杨轩</p>\n  <p>36氪独家获悉，近期抖音生活服务完成了浦燕子接任后的第二次大的组织架构调整。</p>\n  <p>此次调整根据商户规模重新分为线上部门和线下部门。</p>\n  <p>月GMV5万以上的客户被放到线上部门，分为KA（月GMV10万以上）、自助（月GMV在5-10万）、酒旅三个版块。其中前二者又分别按行业细分为餐饮、到店综合。</p>\n  <p>月GMV5万以下的客户被放到线下部门。线下则按照区域划分为北区、南区、东区。相比此前的区域划分，砍掉了上海大区、中区，增加了东区，中区相关商户被分流到北区、东区。</p>\n  <p cl"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
-      "url": "https://36kr.com/p/3748927500387072?f=rss",
-      "published_at": null,
-      "summary": "<p>&nbsp;</p>\n  <h2>今日热点导览</h2>\n  <p>宇树科技被抽中首发企业现场检查&nbsp;</p>\n  <p>国家税务总局：2025年个税汇算已超7000万人申请退税&nbsp;</p>\n  <p>原特斯拉中国区高管孔艳双入职小米&nbsp;</p>\n  <p>特斯拉正式停产Model S和Model X两款车型&nbsp;</p>\n  <p>美国纽约市宣布撤销政府设备使用TikTok禁令</p>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>甲骨文凌晨6点突发邮件裁员3万人，约占全球员工总数的18%</strong></p>\n  <p>全球软件巨"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
-      "url": "https://36kr.com/p/3748233045541637?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>文｜邱晓芬</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>一家成立12年的两轮电动车厂商，在成功经历过中国的锂电化、智能化浪潮，并在纳斯达克上市后，决定加入AI时代全新的竞争。造AI时代的智能两轮电动车——被小牛电动称为：“下一个十年的护城河”。</p>\n  <p>在小牛电动不久前的发布会上，他们展示了初步的成果——在新发布的电动车NXT2和NX2上，搭载了自研的小牛灵犀AIOS、以及首个面向骑行的AI智能体。</p>\n  <p>当你开车上路时，小牛灵犀AIOS和智能体的搭配，将让你的电动车变成“会看路、懂说话”的骑"
     }
   ]
 }

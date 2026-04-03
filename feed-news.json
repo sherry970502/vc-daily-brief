@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-03T03:49:59.793753+00:00",
+  "updated_at": "2026-04-03T13:07:29.283799+00:00",
   "period_hours": 24,
-  "article_count": 33,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
@@ -70,74 +70,66 @@
     {
       "source": "Crunchbase News",
       "lang": "en",
+      "title": "This Is A Momentous Year For Early-Stage Unicorns",
+      "url": "https://news.crunchbase.com/venture/data-early-stage-unicorns-seed-ai-defense-tech/",
+      "published_at": "2026-04-03T11:00:39+00:00",
+      "summary": "A total of 47 seed- and early stage companies joined the unicorn ranks in the first quarter of this year, per Crunchbase data. Barring a major slowdown, that puts 2026 on track to deliver the  largest cohort of young unicorns to date."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Just Because We Can: The Strategic Risks Of Automating Everything",
+      "url": "https://news.crunchbase.com/ai/strategic-risks-automating-everything-sagie/",
+      "published_at": "2026-04-03T11:00:12+00:00",
+      "summary": "While AI and automation can be powerful, many applications use complex global systems to solve simple problems that could be handled locally. Guest author Itay Sagie shares three risks of undisciplined automation of everything, urging more thoughtful and disciplined use of technology."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
       "title": "Exclusive: Miravoice, Builder Of An AI ‘Interviewer’ To Conduct Phone Surveys, Raises $6.3M",
       "url": "https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/",
       "published_at": "2026-04-02T14:00:29+00:00",
       "summary": "Miravoice, a startup using AI voice agents to conduct long-form phone surveys, has raised $6.3 million in a seed funding round, the company tells Crunchbase News exclusively."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Anvil Robotics Raises $5.5M to Build ‘Legos for Robots’ Platform For Physical AI Teams",
-      "url": "https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/",
-      "published_at": "2026-04-02T13:00:41+00:00",
-      "summary": "Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Sector Snapshot: Venture Funding To Foundational AI Startups In Q1 Was Double All Of 2025",
-      "url": "https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/",
-      "published_at": "2026-04-02T11:00:56+00:00",
-      "summary": "As of March 31, foundational AI startups had raised $178 billion across 24 deals, compared with $88.9 billion across 66 deals in all of 2025 in a 100% increase. That’s also significantly higher — 466.9% higher to be exact — than the $31.4 billion raised across 52 deals in 2024."
+      "title": "Dell’s CFO built a 27-year career without leaving the company. Here’s how he kept moving up",
+      "url": "https://fortune.com/2026/04/03/dell-cfo-27-year-career-without-leaving-company-how-he-kept-moving-up/",
+      "published_at": "2026-04-03T11:44:10+00:00",
+      "summary": "David Kennedy went from Dell intern to CFO."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Paul Krugman smacks down Trump speech with argument that $4 gas is ‘less than half’ of the Hormuz hit. Here’s what he’s talking about",
-      "url": "https://fortune.com/2026/04/02/paul-krugman-donald-trump-iran-war-strait-of-hormuz/",
-      "published_at": "2026-04-02T19:51:47+00:00",
-      "summary": "Several other essential commodities cross the critical choke point, and a prolonged closure of the strait could injure American consumers."
+      "title": "The startup looking to solve health care’s fax machine problem",
+      "url": "https://fortune.com/2026/04/03/health-care-fax-machine-problem-insight-health-series-a-11-million-ai-assistants/",
+      "published_at": "2026-04-03T11:28:25+00:00",
+      "summary": "Insight Health has raised an $11 million Series A, Fortune has exclusively learned. The round features an unexpected lead investor, the newly formed Standard Capital."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "I knew about North Korean hackers—they still tricked me and got into my computer",
-      "url": "https://fortune.com/2026/04/02/north-korea-dprk-zoom-phishing-social-engineering-attack-telegram/",
-      "published_at": "2026-04-02T15:32:19+00:00",
-      "summary": "A source reached out to me over Telegram. I didn’t realize his account was compromised until it was almost too late."
+      "title": "Leaders push for a ‘Manhattan Project’ and public-private solutions around AI and labor",
+      "url": "https://fortune.com/2026/04/03/leaders-public-private-solutions-ai-transition-just-capital-best-of-american-business/",
+      "published_at": "2026-04-03T10:30:09+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump wants to add nearly $7 trillion to the $39 trillion national debt with his new military budget, watchdog warns",
-      "url": "https://fortune.com/2026/04/02/how-much-would-trump-military-budget-add-to-national-debt-39-trillion/",
-      "published_at": "2026-04-02T20:27:37+00:00",
-      "summary": "Trump's proposal would be \"by far the largest year-over-year increase in defense spending in the post-WWII era,\" the CRFB said."
+      "title": "Google CEO Sundar Pichai says we’re just a decade away from a new normal of extraterrestrial data centers",
+      "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/",
+      "published_at": "2026-04-03T09:43:03+00:00",
+      "summary": "Google in November announced Project Suncatcher, with plans to launch prototype satellites to test AI hardware in 2027."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mercor, a $10 billion AI startup that works with companies including OpenAI and Anthropic, confirms major data breach",
-      "url": "https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion/",
-      "published_at": "2026-04-02T19:00:00+00:00",
-      "summary": "Mercor confirmed it was hit by a supply-chain attack targeting LiteLLM, a widely used AI developer tool. Extortion gang Lapsus$ claims to have walked away with four terabytes of data."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "UK accuses Iran of Hormuz ‘hijack,’ holding global economy hostage",
-      "url": "https://fortune.com/2026/04/02/uk-accuses-iran-of-hormuz-hijack-holding-global-economy-hostage/",
-      "published_at": "2026-04-02T15:22:48+00:00",
-      "summary": "“We have seen Iran hijack an international shipping route to hold the global economy hostage,\" Foreign Secretary Yvette Cooper said."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Apollo and FC Barcelona just proved legacy markets are losing their grip on business",
-      "url": "https://fortune.com/2026/04/02/commentary-apollo-fc-barcelona-legacy-markets-florida-business-migration/",
-      "published_at": "2026-04-02T19:46:06+00:00",
-      "summary": "New York and California built dominance over decades. But costs, regulation and red tape is pushing companies and capital to states like Florida."
+      "title": "The world’s wealthiest families adopt these 7 key habits for success, according to JPMorgan",
+      "url": "https://fortune.com/article/jpmorgan-billionaire-habits-success-reading-wealthy-families/",
+      "published_at": "2026-04-03T09:35:22+00:00",
+      "summary": "The secret to building serious wealth comes down to how often you pick up a book—a habit top minds like Bill Gates and Warren Buffett embrace."
     },
     {
       "source": "Fortune",
@@ -150,10 +142,18 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets rally hard on Iran’s promise to play nice in Hormuz as its leaders pocket billions from the disruption",
-      "url": "https://fortune.com/2026/04/02/iran-war-strait-hormuz-stocks-sp-500-price-rally-tolls-oman/",
-      "published_at": "2026-04-02T17:06:28+00:00",
-      "summary": "Anything sounds good to Wall Street, except more war. But Iran’s power brokers may have little reason to stop."
+      "title": "What it takes to retire comfortably in America: Nearly $1.5 million, Northwestern Mutual says",
+      "url": "https://fortune.com/2026/04/03/how-much-do-i-need-to-make-to-retire-comfortably-1-5-million-northwestern-mutual-study/",
+      "published_at": "2026-04-03T07:03:00+00:00",
+      "summary": "The price tag on a comfortable retirement keeps climbing—and most Americans are nowhere close."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Cyprus and Ireland top list of best places to retire—as boomers are forced to ‘unretire’, the only real solution is to move abroad",
+      "url": "https://fortune.com/2026/04/03/cyprus-and-ireland-top-list-best-places-to-retire-move-abroad-research/",
+      "published_at": "2026-04-03T07:02:00+00:00",
+      "summary": "The U.S. once promised opportunity—and the U.K. stability—but now Malta, Malaysia, Uruguay and Turkey outperform them in retirement ranks."
     },
     {
       "source": "VentureBeat",
@@ -188,20 +188,52 @@
       "summary": "<p>Every enterprise running AI coding agents has just lost a layer of defense. On March 31, Anthropic accidentally shipped a 59.8 MB source map file inside version 2.1.88 of its <a href=\"https://www.npmjs.com/package/@anthropic-ai/claude-code\">@anthropic-ai/claude-code npm package</a>, exposing 512,"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
-      "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
-      "published_at": "2026-04-02T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fo"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
+      "url": "https://36kr.com/p/3751046517129735?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>神州数码（000034.SZ）2025年全年业绩报告近日发布。</p>\n  <p>财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。</p>\n  <p>具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级Agent中台进入商业化变现阶段；数云服务及软件业务营收35.6亿元，同比增长22"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Fuel prices are soaring. Plastic could be next.",
-      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
-      "published_at": "2026-04-02T10:00:00+00:00",
-      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in th"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "元气森林2044创造营背后：创新要年轻，研发要更重 | 最前线",
+      "url": "https://36kr.com/p/3749467949482759?f=rss",
+      "published_at": null,
+      "summary": "<p>作者 | 钟艺璇</p>\n  <p>3月30日，第二届“元气森林创造营2044”活动在咸宁举行。活动现场，十余位年轻的产品经理带着多款元气森林家族新产品上台亮相，分享了各自打造新品的初心与研发历程。</p>\n  <p>“创造营2044”萌芽于2024年元气森林经销商大会上“20年后再相会”的承诺，是元气森林给年轻人舞台，用长期主义回报用户信任的具体实践。</p>\n  <p>开幕式发言时，元气森林创始人唐彬森提到，元气森林许多产品，一开始都来源于产品经理简单的想法。“<strong>世界上很多伟大的东西，开始的时候并没有外界想象的那么伟大，一开始时候只是一些简单粗糙的想法。创造营2044不"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "一款运营三年的模拟经营游戏，是如何活力依旧的？",
+      "url": "https://36kr.com/p/3750714899415817?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜兰杰</p>\n  <p>编辑｜刘士武</p>\n  <p>你觉得桃源是？A：逃避之所；B：向往之所。</p>\n  <p>这是《桃源深处有人家》中一个经典的选择，某种程度上也是这个游戏的侧写。在这款游戏中，聚集了追求生活感和希望慢下来的村民和玩家。</p>\n  <p>3月22日，模拟经营游戏《桃源深处有人家》（以下简称《桃源》）迎来了它上线以来的第三个生日。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260403/v2_02befbc3955d4b3da3652bde0d1f7d9"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "泡泡玛特，风光不再？",
+      "url": "https://36kr.com/p/3750711532569350?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>2025年，泡泡玛特已经成长为一个庞然大物。</p>\n  <p>3月25日，泡泡玛特公布了2025年财报，收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。其中，海外市场成为拉动增长的主力，收入占比超四成。</p>\n  <p>这是一份足够亮眼的财报成绩，但资本市场却不买帐。财报发布当日开盘后，泡泡玛特的股价一度跌超20%。</p>\n  <p>3月26日，泡泡玛特发布公告称，将斥资5.99亿港元回购394万股股份，每股回购价区间为148.4-157.8港元。截至当日收盘，泡泡玛特每股报价150."
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+      "url": "https://36kr.com/p/3750704146072326?f=rss",
+      "published_at": null,
+      "summary": "<p>如今内容行业风头正盛的莫过于AI拟真人剧。</p>\n  <p>它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。</p>\n  <p>早在2025年下半年的时候，这一内容形态就已经崭露头角。彼时有一批从业者认为，AI拟真人剧的天花板相当于整个传统影视行业，要高于AI漫剧，于是在诸多技术问题尚未被解决的时候就决定入局。</p>\n  <p>今年1月以来，字节旗下Seedance2.0、生数科技Vidu Q3的发布则彻底引爆了这一赛道。人物表情的恐怖谷效应、角色难以保持的一致性，以及打斗场面不连贯等问题，都在底层大模型技术的进步中消融。</p>\n  <p>Vidu"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
+      "url": "https://36kr.com/p/3750417621795588?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，北京戴纳实验科技股份有限公司（下称“戴纳科技”）已于近日完成近亿元B+轮融资。本轮由顺禧基金管理的北京市新材料产业投资基金（以下简称“北京新材料基金”）和北京市丰台区丰泽志远产业培育基金（以下简称“丰泽基金”）共同投资。资金将主要用于核心技术迭代、产能扩张，以及与北京化工大学联合搭建全球首个新材料CRO平台，加速AI+新材料研发服务的产业化落地。</p>\n  <p>戴纳科技成立于2011年，是国内首家提出并100%成功交付黑灯实验室的企业。公司专注于全球AI4S（AI for Science）基础设施的建设，通过构建"
     },
     {
       "source": "36氪",
@@ -218,54 +250,6 @@
       "url": "https://36kr.com/p/3749816005657093?f=rss",
       "published_at": null,
       "summary": "<p>随着大语言模型和各类Agent的崛起，国内外涌现出一批以AI为核心的社交产品。然而在行业热闹背后，一个尴尬的现实是：<strong>用户尝鲜热情高，留存率却惨淡。</strong></p>\n  <p>聊得越久，越发现角色“失忆”——上周提过的重要事情这周就忘；OOC（性格漂移）——原本高冷的角色突然变得谄媚讨好；最终演变成编剧疲劳的独角戏，用户既要当体验者又要当编剧，负担过重，自然流失。</p>\n  <p>技术越进步，用户对虚拟陪伴的期待反而越现实：要的不是更会说话的AI，而是一段经得起时间、有厚度、有记忆的关系。换句话说，AI社交的本质，不是更智能的对话，而是可沉淀的关系。</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利",
-      "url": "https://36kr.com/p/3750411191550467?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，国内量子计算企业——量旋科技（SpinQ）已于近日完成C+轮融资，金额达6亿元。若将三个月前完成的C轮融资合并计算，公司在短短一个季度内累计融资近10亿元。</p>\n  <p>本轮融资汇集了多元化的投资阵容，既包括基石资本等知名投资机构，也有国泰君安创新投等国央企背景的机构，以及浙江财通资本、四川振兴集团、成都天创投等地方投资平台，毅达资本、华强资本持续跟投。</p>\n  <p>量旋科技成立于2018年，是一家专注于量子计算产业化的高科技企业，总部位于深圳。公司创始人兼CEO项金根毕业于清华大学物理系，曾任哈佛大学博"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
-      "url": "https://36kr.com/p/3749811482297090?f=rss",
-      "published_at": null,
-      "summary": "<p>文 | 刘士武</p>\n  <p><strong>近日，由世纪华通主办的第二届「数龙杯全球AI创新大赛」宣布将于4月初正式启动，并在参赛项目类型方面进行了全面升级。除了各类AI游戏与AI应用以外，本届大赛专门新增了AI智能体赛道，希望挖掘在这个领域真正有创造力、能解决实际问题的优秀项目。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260402/v2_9645a940462d405597abb767ae6006ef@16519798_oswg87348oswg108"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
-      "url": "https://36kr.com/p/3750345334292999?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>抖音生活服务组织架构大调整</p>\n  <p>杭州市场监管部门对索象等公司立案调查</p>\n  <p>伊朗：霍尔木兹海峡对敌人将永远关闭</p>\n  <p>飞天茅台原箱批价涨至1730元/瓶</p>\n  <p>礼来口服GLP-1药物在美获批用于减肥</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>张雪回应陈光标赠1300万元劳斯莱斯</strong></p>\n  <p>4月1日，陈光标在社交平台发布视频称，将赠予张雪机车创始人张雪一台价值1300万元的劳斯莱斯。4月2日凌晨，张雪回应称：“那我收了，顺便招募一位附近的2手车商（信"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%",
-      "url": "https://36kr.com/p/3749518049739271?f=rss",
-      "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><a href=\"https://36kr.com/newsflashes/3749473158939139\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>滴滴租车推出“无车必赔”机制，无车率下降15%</strong></a></p>\n  <p>为提升履约确定性，滴滴租车推出“无车必赔”机制：因商家原因导致无法用车，平台将协调升级车型，或全额退款并赔付三倍日租金。规则实施后，无车率同期下降15%，平台共赔付预约无车订单三百余次。针对车损纠纷和线下乱收费情况，平台提供免费第三方定损及先行赔付，费用全程"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家",
-      "url": "https://36kr.com/p/3748118174335747?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260401/v2_9db4d93ee5f14c9da248784a40a58ce8@6310690_oswg692601oswg1024oswg667_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源视觉中国</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜李勤、杨轩</p>\n  <p>36氪汽车独家获悉，轻舟"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "泡泡玛特无需下一个LABUBU",
-      "url": "https://36kr.com/p/3749340971188992?f=rss",
-      "published_at": null,
-      "summary": "<p>3月25日，泡泡玛特交出了2025年的答卷。过去一年，泡泡玛特的收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。</p>\n  <p>围绕泡泡玛特的讨论再次沸腾起来，只是相较于去年中报发布之际的欢欣鼓舞，此次与泡泡玛特亮眼财报成绩一并而至的，是资本市场的负面情绪。</p>\n  <p>对此泡泡玛特没有坐以待毙，连续选择四个交易日斥资12亿港元大手笔回购，以此向市场传递公司长期向好的信心。</p>\n  <p>股价过山车的背后仍是那些老生常谈的问题，泡泡玛特是否能维持住2025年的高速增长，以及其是否在依赖单一IP LABUBU。</p>\n  <p>从IP"
     }
   ]
 }

@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-04-03T03:49:30.897928+00:00",
+  "updated_at": "2026-04-03T13:07:03.378741+00:00",
   "period_hours": 24,
-  "tweet_count": 69,
+  "tweet_count": 72,
   "tweets": [
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-03T12:05:02.000Z",
+      "text": "Tried a ripe durian today. I have such a bad sense of smell that it didn't bother me at all. The rest of the family was revolted though. None of them would try it, but Jessica let me kiss her afterward. She said it was \"like kissing a rubbish bin\".",
+      "url": "https://x.com/paulg/status/2040037858829054149"
+    },
     {
       "account": "@paulg",
       "name": "Paul Graham",
@@ -23,41 +31,41 @@
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-03T03:04:59.000Z",
-      "text": "This is, without a doubt, my best post ever. https://t.co/Fki6mUU159",
-      "url": "https://x.com/pmarca/status/2039901953317343277"
+      "created_at": "2026-04-03T08:41:04.000Z",
+      "text": "Venture capital is hard. https://t.co/gbPqsh4GIc",
+      "url": "https://x.com/pmarca/status/2039986528315924671"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-02T19:17:43.000Z",
-      "text": "Can confirm. https://t.co/JAWsYwXMbY",
-      "url": "https://x.com/pmarca/status/2039784358551454099"
+      "created_at": "2026-04-03T08:24:32.000Z",
+      "text": "--&gt; https://t.co/IfhRxPfr7i",
+      "url": "https://x.com/pmarca/status/2039982368128471055"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-02T18:48:23.000Z",
-      "text": "Heard joke once: VC goes to AI. Says he's confused. Says he doesn't understand startup pitch. Says he feels all alone in threatening world where what lies ahead is vague &amp; uncertain. AI says, 'Simple. Invest if A16Z is investing.' VC bursts into tears. Says, 'But AI…I am A16Z.' https://t.co/NV8EjVNgR0",
-      "url": "https://x.com/pmarca/status/2039776978098909409"
+      "created_at": "2026-04-03T08:24:19.000Z",
+      "text": "AI increases workload. Many such cases. https://t.co/2IbdifrLec",
+      "url": "https://x.com/pmarca/status/2039982315808714779"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-02T18:04:28.000Z",
-      "text": "I've been in the room with Vitalik-backed Max Tegmark and United States Senators when Tegmark pounds the table demanding open source AI software be made illegal. https://t.co/vmjW8mAykb https://t.co/euJecXrFFd",
-      "url": "https://x.com/pmarca/status/2039765927806545940"
+      "created_at": "2026-04-03T08:23:12.000Z",
+      "text": "Retardmaxx! https://t.co/JkFrhqFw1Z",
+      "url": "https://x.com/pmarca/status/2039982034861625524"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-02T18:00:14.000Z",
-      "text": "Receipts. https://t.co/4mAC6Qkq3a https://t.co/pMEykzWf5c",
-      "url": "https://x.com/pmarca/status/2039764858888167780"
+      "created_at": "2026-04-03T08:09:49.000Z",
+      "text": "That's me in back left. https://t.co/LANxhR3Wtk",
+      "url": "https://x.com/pmarca/status/2039978665640169913"
     },
     {
       "account": "@chamath",
@@ -143,6 +151,22 @@
       "account": "@sriramk",
       "name": "Sriram Krishnan",
       "org": "a16z",
+      "created_at": "2026-04-03T10:19:30.000Z",
+      "text": "https://t.co/lGevpIVjRn on getting the right llama.cpp incantation",
+      "url": "https://x.com/sriramk/status/2040011302286905540"
+    },
+    {
+      "account": "@sriramk",
+      "name": "Sriram Krishnan",
+      "org": "a16z",
+      "created_at": "2026-04-03T10:18:48.000Z",
+      "text": "llama.cpp and gemma 4 on a 6 year old Macbook Pro M1 Max https://t.co/uPbU90GW2p",
+      "url": "https://x.com/sriramk/status/2040011125408805348"
+    },
+    {
+      "account": "@sriramk",
+      "name": "Sriram Krishnan",
+      "org": "a16z",
       "created_at": "2026-04-03T00:35:23.000Z",
       "text": "Congratulations to @jordihays and @johncoogan. Known both of them for a long time and all of their success is so well deserved for how much effort they’ve put into it. \n\nThey took an idea very seriously and made something magical.",
       "url": "https://x.com/sriramk/status/2039864304879464694"
@@ -199,81 +223,89 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-03T03:08:43.000Z",
-      "text": "Tesla https://t.co/MMJgQIFzvv",
-      "url": "https://x.com/elonmusk/status/2039902890777796981"
+      "created_at": "2026-04-03T12:49:07.000Z",
+      "text": "Grok Imagine https://t.co/3dHFValu0y",
+      "url": "https://x.com/elonmusk/status/2040048952792547345"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-03T02:59:38.000Z",
-      "text": "😮 https://t.co/9n16Jkwl0B",
-      "url": "https://x.com/elonmusk/status/2039900603552596036"
+      "created_at": "2026-04-03T12:32:30.000Z",
+      "text": "Upgrades, upgrades … https://t.co/wZxwYhaLfW",
+      "url": "https://x.com/elonmusk/status/2040044771511849147"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-03T02:51:42.000Z",
-      "text": "True https://t.co/kYBF76ugd5",
-      "url": "https://x.com/elonmusk/status/2039898607474897142"
+      "created_at": "2026-04-03T12:32:05.000Z",
+      "text": "Grok https://t.co/g2r7Didu2k",
+      "url": "https://x.com/elonmusk/status/2040044667841270231"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-03T01:56:18.000Z",
-      "text": "Wow https://t.co/CoSabxlUEI",
-      "url": "https://x.com/elonmusk/status/2039884666493415891"
+      "created_at": "2026-04-03T09:33:24.000Z",
+      "text": "Quality over quantity https://t.co/SjDbQ8N3gU",
+      "url": "https://x.com/elonmusk/status/2039999701966360770"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-03T01:29:48.000Z",
-      "text": "New version of Grok app released https://t.co/rcFdA1kc1q",
-      "url": "https://x.com/elonmusk/status/2039877996396581133"
+      "created_at": "2026-04-03T09:26:28.000Z",
+      "text": "True https://t.co/Rxz0fc6p8F",
+      "url": "https://x.com/elonmusk/status/2039997956271849696"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-03T02:28:43.000Z",
-      "text": "If you haven't been following, I've been pretty busy tidying up GStack and making it more useful https://t.co/xCo9sVsIxF",
-      "url": "https://x.com/garrytan/status/2039892826285322542"
+      "created_at": "2026-04-03T06:08:41.000Z",
+      "text": "If you love your work you don’t work for a day in your life https://t.co/YxGk0hljQy",
+      "url": "https://x.com/garrytan/status/2039948180977316164"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-03T02:22:52.000Z",
-      "text": "One of the simple make-my-life-easier GStack skills is /checkpoint. When Claude Code gets worried about long context, rather than struggle to copy the old plan file or track down the path, just run /checkpoint and then start a new session and safely resume with /checkpoint resume https://t.co/jluiDuwhou",
-      "url": "https://x.com/garrytan/status/2039891353912619400"
+      "created_at": "2026-04-03T05:49:29.000Z",
+      "text": "Perplexity Computer is quite special actually https://t.co/8d4tnRfMVX",
+      "url": "https://x.com/garrytan/status/2039943351278190840"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-02T20:09:37.000Z",
-      "text": "Huge congrats! TBPN is awesome https://t.co/D89oiGQXsx",
-      "url": "https://x.com/garrytan/status/2039797419400139016"
+      "created_at": "2026-04-03T05:29:06.000Z",
+      "text": "Decision traces are a big deal and now possible with 1M token context\n\n*sneak peek: one of my projects is launching soon and will be focused on decision traces in agentic engineering https://t.co/gP4sjB08sD",
+      "url": "https://x.com/garrytan/status/2039938219257794857"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-02T16:29:31.000Z",
-      "text": "DC spent years trying to rein in Big Tech platform abuse and failed. \n\nWith California's BASED Act (SB 1074), we're taking the fight to their backyard. \n\nAmazon, Apple, Google, Meta — no more rigging the game against startups.\n\nhttps://t.co/lsr9L3M6cv",
-      "url": "https://x.com/garrytan/status/2039742032437297456"
+      "created_at": "2026-04-03T04:34:05.000Z",
+      "text": "Actually if I just clicked \"merge\" on PRs without doing what I'm doing... guess what that is inviting\n\nIt's called a Supply Chain Attack",
+      "url": "https://x.com/garrytan/status/2039924373227024472"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-02T15:53:39.000Z",
-      "text": "Many such cases\n\nI am going to keep making stuff https://t.co/jBzmhMVSPI",
-      "url": "https://x.com/garrytan/status/2039733006160810010"
+      "created_at": "2026-04-03T04:30:17.000Z",
+      "text": "If you just click \"merge\" without actually evaluating the code, thinking about whether it works for my goals for GStack, and/or make sure it gets to 100% test coverage, GStack becomes a bug farm. https://t.co/vAVNx57tUx",
+      "url": "https://x.com/garrytan/status/2039923419739996668"
+    },
+    {
+      "account": "@andrewchen",
+      "name": "Andrew Chen",
+      "org": "a16z",
+      "created_at": "2026-04-03T06:51:17.000Z",
+      "text": "absolutely fascinating https://t.co/TG1cUbCDZQ",
+      "url": "https://x.com/andrewchen/status/2039958903744839917"
     },
     {
       "account": "@andrewchen",
@@ -282,22 +314,6 @@
       "created_at": "2026-04-02T23:20:12.000Z",
       "text": "open AI reportedly now has 1 billion weekly active users\nGmail took 15 years to reach 1B\nFacebook took 8 years\nChatGPT did it in 3!!\n\ncrazy growth curves as tech adoption grows and marketing channels reach billions",
       "url": "https://x.com/andrewchen/status/2039845381589397774"
-    },
-    {
-      "account": "@andrewchen",
-      "name": "Andrew Chen",
-      "org": "a16z",
-      "created_at": "2026-04-02T05:12:48.000Z",
-      "text": "I wanna claude like this. Feet up on the desk, custom vibe code walkie talkie. So many style points\n\nvia bharms27/reddit https://t.co/7gKVElFTBS",
-      "url": "https://x.com/andrewchen/status/2039571728922460611"
-    },
-    {
-      "account": "@naval",
-      "name": "Naval Ravikant",
-      "org": "AngelList",
-      "created_at": "2026-04-02T08:13:05.000Z",
-      "text": "Vibe coding is more addictive than any video game ever made (if you know what you want to build).",
-      "url": "https://x.com/naval/status/2039617101221224858"
     },
     {
       "account": "@lennysan",
@@ -410,6 +426,14 @@
       "created_at": "2026-04-02T16:58:59.000Z",
       "text": "Network School is growing.\nCome visit us at https://t.co/yrwniI2Q61. https://t.co/NGRl0SnUlt",
       "url": "https://x.com/balajis/status/2039749444921692603"
+    },
+    {
+      "account": "@rrhoover",
+      "name": "Ryan Hoover",
+      "org": "Weekend Fund",
+      "created_at": "2026-04-03T12:35:03.000Z",
+      "text": "Not the first time I've heard of this social engineering strategy https://t.co/zOtkwfPG69",
+      "url": "https://x.com/rrhoover/status/2040045414443803119"
     },
     {
       "account": "@tferriss",

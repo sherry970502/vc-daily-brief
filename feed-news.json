@@ -1,71 +1,79 @@
 {
-  "updated_at": "2026-04-03T13:07:29.283799+00:00",
+  "updated_at": "2026-04-04T03:39:03.594846+00:00",
   "period_hours": 24,
-  "article_count": 31,
+  "article_count": 32,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
-      "url": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
-      "published_at": "2026-04-02T22:56:29+00:00",
-      "summary": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired."
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "published_at": "2026-04-04T01:31:00+00:00",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
-      "url": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
-      "published_at": "2026-04-02T21:26:48+00:00",
-      "summary": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February."
+      "title": "Lucid blames dip in Q1 sales on seat supplier issue",
+      "url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+      "published_at": "2026-04-04T01:03:13+00:00",
+      "summary": "Lucid said it has resolved the problem and is not changing its guidance for 2026."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
-      "url": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
-      "published_at": "2026-04-02T20:06:29+00:00",
-      "summary": "Next time around, the pressure will be on SpaceX and Blue Origin."
+      "title": "The anonymous social app that thinks it can work in Saudi Arabia",
+      "url": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
+      "published_at": "2026-04-03T22:24:57+00:00",
+      "summary": "When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Gateway Capital announces first close of $25M Fund II",
-      "url": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/",
-      "published_at": "2026-04-02T19:45:19+00:00",
-      "summary": "Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II."
+      "title": "Tesla’s Texas factory workforce reportedly shrunk 22% in 2025",
+      "url": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
+      "published_at": "2026-04-03T20:43:25+00:00",
+      "summary": "Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-      "published_at": "2026-04-02T19:21:00+00:00",
-      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane."
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "published_at": "2026-04-03T20:35:34+00:00",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web",
-      "url": "https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/",
-      "published_at": "2026-04-02T19:18:51+00:00",
-      "summary": "Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single, shared destination."
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "published_at": "2026-04-03T20:28:40+00:00",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "ElevenLabs releases a new AI-powered music-generation app",
-      "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
-      "published_at": "2026-04-02T18:58:45+00:00",
-      "summary": "ElevenMusic lets users create and remix songs using text prompts. The new app suggests ElevenLabs wants to be more than just a voice model company."
+      "title": "Anthropic ramps up its political activities with a new PAC",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "published_at": "2026-04-03T20:22:18+00:00",
+      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "NASA astronauts prove that sending an email really is rocket science",
-      "url": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
-      "published_at": "2026-04-02T18:19:39+00:00",
-      "summary": "NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working."
+      "title": "Best iPad apps to boost productivity and make your life easier",
+      "url": "https://techcrunch.com/2026/04/03/best-ipad-apps-to-boost-productivity-make-your-life-easier/",
+      "published_at": "2026-04-03T19:56:49+00:00",
+      "summary": "There are many iPad apps to help you organize recipes, sync tasks across devices, be more productive, and manage your notes."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Week’s 10 Biggest Funding Rounds: Largest Financings Went To Defense, Wearables, Energy And Security",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-wearables-energy-saronic/",
+      "published_at": "2026-04-03T18:26:11+00:00",
+      "summary": "Startup investors kept up the busy dealmaking pace this week with a number of big rounds. Top among them was a $1.75 billion Series D for Austin-based Saronic, developer of autonomous vessels."
     },
     {
       "source": "Crunchbase News",
@@ -84,108 +92,108 @@
       "summary": "While AI and automation can be powerful, many applications use complex global systems to solve simple problems that could be handled locally. Guest author Itay Sagie shares three risks of undisciplined automation of everything, urging more thoughtful and disciplined use of technology."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Miravoice, Builder Of An AI ‘Interviewer’ To Conduct Phone Surveys, Raises $6.3M",
-      "url": "https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/",
-      "published_at": "2026-04-02T14:00:29+00:00",
-      "summary": "Miravoice, a startup using AI voice agents to conduct long-form phone surveys, has raised $6.3 million in a seed funding round, the company tells Crunchbase News exclusively."
+      "title": "Travel guru Rick Steves is happy to pay more taxes",
+      "url": "https://fortune.com/2026/04/03/travel-guru-rick-steves-washington-state-millionaire-income-tax-jeff-bezos-howard-schultz/",
+      "published_at": "2026-04-03T23:22:13+00:00",
+      "summary": "The travel icon and millionaire welcomed Washington's new 9.9% income tax on earnings over $1 million."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dell’s CFO built a 27-year career without leaving the company. Here’s how he kept moving up",
-      "url": "https://fortune.com/2026/04/03/dell-cfo-27-year-career-without-leaving-company-how-he-kept-moving-up/",
-      "published_at": "2026-04-03T11:44:10+00:00",
-      "summary": "David Kennedy went from Dell intern to CFO."
+      "title": "Artemis II’s moonbound astronauts capture Earth’s brilliant blue beauty as they travel more than 110,000 miles from home",
+      "url": "https://fortune.com/2026/04/03/artemis-ii-nasa-moon-mission-astronauts-orion-capsule/",
+      "published_at": "2026-04-03T22:47:53+00:00",
+      "summary": "They should reach their destination on Monday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The startup looking to solve health care’s fax machine problem",
-      "url": "https://fortune.com/2026/04/03/health-care-fax-machine-problem-insight-health-series-a-11-million-ai-assistants/",
-      "published_at": "2026-04-03T11:28:25+00:00",
-      "summary": "Insight Health has raised an $11 million Series A, Fortune has exclusively learned. The round features an unexpected lead investor, the newly formed Standard Capital."
+      "title": "Checking a bag on United Airlines now costs $10 more as Iran war sends jet fuel costs up nearly 100% in major hubs",
+      "url": "https://fortune.com/2026/04/03/checked-bag-fees-united-airlines-10-dollars-iran-war-jet-fuel-costs-oil-prices/",
+      "published_at": "2026-04-03T22:28:06+00:00",
+      "summary": "The average price for a gallon of jet fuel in Chicago, Houston, Los Angeles and New York reached $4.88 on Thursday, up from $2.50 before the conflict began on Feb. 28."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Leaders push for a ‘Manhattan Project’ and public-private solutions around AI and labor",
-      "url": "https://fortune.com/2026/04/03/leaders-public-private-solutions-ai-transition-just-capital-best-of-american-business/",
-      "published_at": "2026-04-03T10:30:09+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
+      "title": "Internet Watch Foundation finds 260-fold increase in AI-generated CSAM in just one year, and ‘it’s the tip of the iceberg’",
+      "url": "https://fortune.com/2026/04/03/internet-watch-foundation-260-fold-increase-ai-generated-csam/",
+      "published_at": "2026-04-03T21:59:08+00:00",
+      "summary": "One in 17 young people have personally experienced deepfake imagery abuse, and one in eight know a victim."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Google CEO Sundar Pichai says we’re just a decade away from a new normal of extraterrestrial data centers",
-      "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/",
-      "published_at": "2026-04-03T09:43:03+00:00",
-      "summary": "Google in November announced Project Suncatcher, with plans to launch prototype satellites to test AI hardware in 2027."
+      "title": "At least one crew member still missing after Iran shoots down 2 U.S. aircraft while Trump says ‘it’s war’",
+      "url": "https://fortune.com/2026/04/03/iran-war-us-crew-member-missing-f15-shot-down-search-and-rescue-a10/",
+      "published_at": "2026-04-03T22:19:24+00:00",
+      "summary": "The Pentagon notified the House Armed Services Committee that the status of a second service member from the fighter jet was not known."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The world’s wealthiest families adopt these 7 key habits for success, according to JPMorgan",
-      "url": "https://fortune.com/article/jpmorgan-billionaire-habits-success-reading-wealthy-families/",
-      "published_at": "2026-04-03T09:35:22+00:00",
-      "summary": "The secret to building serious wealth comes down to how often you pick up a book—a habit top minds like Bill Gates and Warren Buffett embrace."
+      "title": "Trump just raised the $39 trillion national debt with the largest budget hike since World War II—and nobody can figure out how to pay for it",
+      "url": "https://fortune.com/2026/04/03/trump-1-5-trillion-defense-budget-largest-since-world-war-ii/",
+      "published_at": "2026-04-03T19:01:54+00:00",
+      "summary": "“MAGA was told an untruth by Trump—no foreign wars, no adventurism,” Steve Hanke told Fortune. “This is a massive militarization.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After renewable power’s record-smashing 2025, the Iran war could accelerate the shift as countries seek ‘structurally more resilient’ energy, UN says",
-      "url": "https://fortune.com/2026/04/02/high-energy-prices-iran-accelerates-renewable-transition-un-says/",
-      "published_at": "2026-04-02T17:58:58+00:00",
-      "summary": "From Asia to Europe, people are rushing to electrify wherever they can."
+      "title": "The Walmart billionaires next door: Quiet backlash is brewing against the heirs who remade the retailer’s hometown",
+      "url": "https://fortune.com/2026/04/03/walmart-walton-family-bentonville-arkansas-billionaires-philanthropy-investment/",
+      "published_at": "2026-04-03T07:00:00+00:00",
+      "summary": "The Walton family transformed Bentonville into a bike-friendly paradise. So why are residents so mad at them?"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "What it takes to retire comfortably in America: Nearly $1.5 million, Northwestern Mutual says",
-      "url": "https://fortune.com/2026/04/03/how-much-do-i-need-to-make-to-retire-comfortably-1-5-million-northwestern-mutual-study/",
-      "published_at": "2026-04-03T07:03:00+00:00",
-      "summary": "The price tag on a comfortable retirement keeps climbing—and most Americans are nowhere close."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Cyprus and Ireland top list of best places to retire—as boomers are forced to ‘unretire’, the only real solution is to move abroad",
-      "url": "https://fortune.com/2026/04/03/cyprus-and-ireland-top-list-best-places-to-retire-move-abroad-research/",
-      "published_at": "2026-04-03T07:02:00+00:00",
-      "summary": "The U.S. once promised opportunity—and the U.K. stability—but now Malta, Malaysia, Uruguay and Turkey outperform them in retirement ranks."
+      "title": "MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’",
+      "url": "https://fortune.com/2026/04/03/mit-finds-ai-mostly-produces-minimally-sufficient-work/",
+      "published_at": "2026-04-03T18:56:44+00:00",
+      "summary": "AI is improving fast, but it has a long way to go before it can outperform humans in demanding tasks."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
-      "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
-      "published_at": "2026-04-03T00:10:37+00:00",
-      "summary": "<p>The baton of open source AI models has been passed on between several companies over the years since ChatGPT debuted in late 2022, from Meta with its Llama family to Chinese labs like Qwen and z.ai. But lately, Chinese companies have started pivoting back towards proprietary models even as some U"
+      "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
+      "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
+      "published_at": "2026-04-03T23:30:50+00:00",
+      "summary": "<p>AI vibe coders have yet another reason to thank <a href=\"https://x.com/karpathy/status/2039805659525644595\">Andrej Karpathy</a>, the coiner of the term. </p><p>The former Director of AI at Tesla and co-founder of OpenAI, now running his own independent AI project, recently <a href=\"https://x.com/"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Google releases Gemma 4 under Apache 2.0 — and that license change may matter more than benchmarks",
-      "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
-      "published_at": "2026-04-02T17:49:39+00:00",
-      "summary": "<p>For the past two years, enterprises evaluating open-weight models have faced an awkward trade-off. Google&#x27;s Gemma line consistently delivered strong performance, but its custom license — with usage restrictions and terms Google could update at will — pushed many teams toward Mistral or Aliba"
+      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
+      "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
+      "published_at": "2026-04-03T23:25:01+00:00",
+      "summary": "<p><a href=\"https://www.nvidia.com/gtc/keynote/\">Jensen Huang</a> walked onto the <a href=\"https://www.nvidia.com/gtc/\">GTC stage</a> Monday wearing his trademark leather jacket and carrying, as it turned out, the blueprints for a new kind of industry dominance.</p><p>The Nvidia CEO unveiled the <a"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
       "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
-      "published_at": "2026-04-02T15:57:13+00:00",
+      "published_at": "2026-04-03T15:17:41+00:00",
       "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft</a> on Thursday launched <a href=\"https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/\">three new foundational AI models</a> it built entirely in-house — a state-of-the-art speech transcription syste"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
-      "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
-      "published_at": "2026-04-02T15:14:29+00:00",
-      "summary": "<p>Every enterprise running AI coding agents has just lost a layer of defense. On March 31, Anthropic accidentally shipped a 59.8 MB source map file inside version 2.1.88 of its <a href=\"https://www.npmjs.com/package/@anthropic-ai/claude-code\">@anthropic-ai/claude-code npm package</a>, exposing 512,"
+      "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
+      "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
+      "published_at": "2026-04-03T15:17:02+00:00",
+      "summary": "<p>The baton of open source AI models has been passed on between several companies over the years since ChatGPT debuted in late 2022, from Meta with its Llama family to Chinese labs like Qwen and z.ai. But lately, Chinese companies have started pivoting back towards proprietary models even as some U"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Four things we’d need to put data centers in space",
+      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+      "published_at": "2026-04-03T17:03:19+00:00",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one mil"
     },
     {
       "source": "36氪",

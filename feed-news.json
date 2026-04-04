@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-04-04T03:39:03.594846+00:00",
+  "updated_at": "2026-04-04T13:02:05.440633+00:00",
   "period_hours": 24,
-  "article_count": 32,
+  "article_count": 31,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
+      "url": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
+      "published_at": "2026-04-04T13:00:00+00:00",
+      "summary": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now working on systems to stop killer drones."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -60,14 +68,6 @@
       "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda."
     },
     {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Best iPad apps to boost productivity and make your life easier",
-      "url": "https://techcrunch.com/2026/04/03/best-ipad-apps-to-boost-productivity-make-your-life-easier/",
-      "published_at": "2026-04-03T19:56:49+00:00",
-      "summary": "There are many iPad apps to help you organize recipes, sync tasks across devices, be more productive, and manage your notes."
-    },
-    {
       "source": "Crunchbase News",
       "lang": "en",
       "title": "The Week’s 10 Biggest Funding Rounds: Largest Financings Went To Defense, Wearables, Energy And Security",
@@ -76,84 +76,76 @@
       "summary": "Startup investors kept up the busy dealmaking pace this week with a number of big rounds. Top among them was a $1.75 billion Series D for Austin-based Saronic, developer of autonomous vessels."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "This Is A Momentous Year For Early-Stage Unicorns",
-      "url": "https://news.crunchbase.com/venture/data-early-stage-unicorns-seed-ai-defense-tech/",
-      "published_at": "2026-04-03T11:00:39+00:00",
-      "summary": "A total of 47 seed- and early stage companies joined the unicorn ranks in the first quarter of this year, per Crunchbase data. Barring a major slowdown, that puts 2026 on track to deliver the  largest cohort of young unicorns to date."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Just Because We Can: The Strategic Risks Of Automating Everything",
-      "url": "https://news.crunchbase.com/ai/strategic-risks-automating-everything-sagie/",
-      "published_at": "2026-04-03T11:00:12+00:00",
-      "summary": "While AI and automation can be powerful, many applications use complex global systems to solve simple problems that could be handled locally. Guest author Itay Sagie shares three risks of undisciplined automation of everything, urging more thoughtful and disciplined use of technology."
+      "title": "The AI gold rush is real — but great companies don’t need to mine it",
+      "url": "https://fortune.com/2026/04/04/in-ai-dominated-market-fundamentals-still-matter-wellington-management-2/",
+      "published_at": "2026-04-04T12:30:00+00:00",
+      "summary": "As capital floods into anything labeled \"AI,\" disciplined investors should remember what has always built enduring businesses: fundamentals."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Travel guru Rick Steves is happy to pay more taxes",
-      "url": "https://fortune.com/2026/04/03/travel-guru-rick-steves-washington-state-millionaire-income-tax-jeff-bezos-howard-schultz/",
-      "published_at": "2026-04-03T23:22:13+00:00",
-      "summary": "The travel icon and millionaire welcomed Washington's new 9.9% income tax on earnings over $1 million."
+      "title": "The World Cup is supposed to be an economic windfall. But ‘you’re seeing a lot of headwinds’ now",
+      "url": "https://fortune.com/2026/04/04/world-cup-gianni-infantino-usa-mexico-canada-travel-iran-war-donald-trump-geopolitics-high-gas-prices/",
+      "published_at": "2026-04-04T12:00:00+00:00",
+      "summary": "Fans from three qualifying nations are banned from entering the U.S while others face up to $15,000 bonds and pricey visa fees."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Artemis II’s moonbound astronauts capture Earth’s brilliant blue beauty as they travel more than 110,000 miles from home",
-      "url": "https://fortune.com/2026/04/03/artemis-ii-nasa-moon-mission-astronauts-orion-capsule/",
-      "published_at": "2026-04-03T22:47:53+00:00",
-      "summary": "They should reach their destination on Monday."
+      "title": "College grads in ‘AI-proof’ careers like psychology and education are seeing negative returns on their degrees",
+      "url": "https://fortune.com/2026/04/04/graduate-school-value-negative-returns-psychology-education-ai/",
+      "published_at": "2026-04-04T11:02:00+00:00",
+      "summary": "As AI reshapes white-collar work, new research shows that some of the most popular graduate degrees are actually leaving holders worse off financially."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Checking a bag on United Airlines now costs $10 more as Iran war sends jet fuel costs up nearly 100% in major hubs",
-      "url": "https://fortune.com/2026/04/03/checked-bag-fees-united-airlines-10-dollars-iran-war-jet-fuel-costs-oil-prices/",
-      "published_at": "2026-04-03T22:28:06+00:00",
-      "summary": "The average price for a gallon of jet fuel in Chicago, Houston, Los Angeles and New York reached $4.88 on Thursday, up from $2.50 before the conflict began on Feb. 28."
+      "title": "How Delta uses Tom Brady to train its 100,000 workforce on leadership and a winner’s mindset",
+      "url": "https://fortune.com/2026/04/04/delta-uses-tom-brady-train-100000-workforce-leadership-winners-mindset/",
+      "published_at": "2026-04-04T10:09:00+00:00",
+      "summary": "Delta CEO Ed Bastian says seven-time Super Bowl champion Tom Brady helps the $42.2 billion airline giant “push the envelope” and continue to succeed at the top."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Internet Watch Foundation finds 260-fold increase in AI-generated CSAM in just one year, and ‘it’s the tip of the iceberg’",
-      "url": "https://fortune.com/2026/04/03/internet-watch-foundation-260-fold-increase-ai-generated-csam/",
-      "published_at": "2026-04-03T21:59:08+00:00",
-      "summary": "One in 17 young people have personally experienced deepfake imagery abuse, and one in eight know a victim."
+      "title": "The Trump administration is blurring the public and private sector workforce, and OPM director Scott Kupor won’t rule out conflict of interest risks",
+      "url": "https://fortune.com/2026/04/04/trump-administration-private-sector-federal-jobs-conflicts-of-interest-opm-director-scott-kupor/",
+      "published_at": "2026-04-04T09:41:00+00:00",
+      "summary": "“We got to balance potential risks with potential upside,” Kupor said of potential conflicts of interest in government. “I think you can manage that quite clearly.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "At least one crew member still missing after Iran shoots down 2 U.S. aircraft while Trump says ‘it’s war’",
-      "url": "https://fortune.com/2026/04/03/iran-war-us-crew-member-missing-f15-shot-down-search-and-rescue-a10/",
-      "published_at": "2026-04-03T22:19:24+00:00",
-      "summary": "The Pentagon notified the House Armed Services Committee that the status of a second service member from the fighter jet was not known."
+      "title": "AI’s next frontier is the real world",
+      "url": "https://fortune.com/2026/04/04/recognition-economy-ai-physical-world-metropolis/",
+      "published_at": "2026-04-04T09:15:00+00:00",
+      "summary": "AI has made our digital lives frictionless and intuitive. Our airports, offices and hospitals run on tickets, badges and manual checks. That's changing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump just raised the $39 trillion national debt with the largest budget hike since World War II—and nobody can figure out how to pay for it",
-      "url": "https://fortune.com/2026/04/03/trump-1-5-trillion-defense-budget-largest-since-world-war-ii/",
-      "published_at": "2026-04-03T19:01:54+00:00",
-      "summary": "“MAGA was told an untruth by Trump—no foreign wars, no adventurism,” Steve Hanke told Fortune. “This is a massive militarization.”"
+      "title": "A Yale economist says AGI won’t automate most jobs—because they’re not worth the trouble",
+      "url": "https://fortune.com/2026/04/04/ai-jobs-future-not-important-enough-to-be-automated-yale/",
+      "published_at": "2026-04-04T08:02:00+00:00",
+      "summary": "Pascual Restrepo's new NBER paper argues it's not about what AI can do. It's about what AI will bother doing—and most human work doesn't make the cut."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Walmart billionaires next door: Quiet backlash is brewing against the heirs who remade the retailer’s hometown",
-      "url": "https://fortune.com/2026/04/03/walmart-walton-family-bentonville-arkansas-billionaires-philanthropy-investment/",
-      "published_at": "2026-04-03T07:00:00+00:00",
-      "summary": "The Walton family transformed Bentonville into a bike-friendly paradise. So why are residents so mad at them?"
+      "title": "Iran’s military may be decimated, but it’s winning the energy war as it controls who gets cargoes through the Strait of Hormuz",
+      "url": "https://fortune.com/2026/04/04/iran-winning-energy-war-cargoes-strait-of-hormuz/",
+      "published_at": "2026-04-04T07:03:00+00:00",
+      "summary": "The war of attrition in Iran could lead to an Iranian \"major victory\" if the U.S. withdraws without controlling commerce."
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’",
-      "url": "https://fortune.com/2026/04/03/mit-finds-ai-mostly-produces-minimally-sufficient-work/",
-      "published_at": "2026-04-03T18:56:44+00:00",
-      "summary": "AI is improving fast, but it has a long way to go before it can outperform humans in demanding tasks."
+      "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
+      "url": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
+      "published_at": "2026-04-04T03:55:25+00:00",
+      "summary": "<p>Are you a subscriber to <a href=\"https://claude.ai/upgrade\">Anthropic&#x27;s Claude Pro ($20 monthly) or Max ($100-$200 monthly) plans</a> and use its Claude AI models and products to power third-party AI agents like <a href=\"https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso"
     },
     {
       "source": "VentureBeat",
@@ -194,6 +186,14 @@
       "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
       "published_at": "2026-04-03T17:03:19+00:00",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one mil"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "一群00后极客和这家机器人公司共处72小时",
+      "url": "https://36kr.com/p/3752115857638145?f=rss",
+      "published_at": null,
+      "summary": "<p>2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。</p>\n  <p>现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260404/v2_68d80d0b36034f468e6f334189b141c2@405798_oswg69418oswg1080oswg810"
     },
     {
       "source": "36氪",
@@ -250,14 +250,6 @@
       "url": "https://36kr.com/p/3750501433705224?f=rss",
       "published_at": null,
       "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，深圳夜合科技有限公司（下称“夜合科技”）近日宣布完成千万元天使轮融资，由顺为资本独家投资，深渡资本担任本轮融资的财务顾问。资金主要用于核心产品研发，加速“医疗技术向消费场景延伸”。</p>\n  <p>夜合科技成立于2025年，总部位于深圳。首款产品聚焦睡眠呼吸赛道，为鼾声人群和阻塞性睡眠呼吸暂停（OSA）患者开发轻量化、舒适、无体位限制的可穿戴颈部设备。</p>\n  <p>公司创始人冉昕昕拥有华西、瑞金两大顶级医院的医学背景，于上海交通大学攻读医学博士学位，长期专注于"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "叽伴：用「共同经历」重新定义AI社交",
-      "url": "https://36kr.com/p/3749816005657093?f=rss",
-      "published_at": null,
-      "summary": "<p>随着大语言模型和各类Agent的崛起，国内外涌现出一批以AI为核心的社交产品。然而在行业热闹背后，一个尴尬的现实是：<strong>用户尝鲜热情高，留存率却惨淡。</strong></p>\n  <p>聊得越久，越发现角色“失忆”——上周提过的重要事情这周就忘；OOC（性格漂移）——原本高冷的角色突然变得谄媚讨好；最终演变成编剧疲劳的独角戏，用户既要当体验者又要当编剧，负担过重，自然流失。</p>\n  <p>技术越进步，用户对虚拟陪伴的期待反而越现实：要的不是更会说话的AI，而是一段经得起时间、有厚度、有记忆的关系。换句话说，AI社交的本质，不是更智能的对话，而是可沉淀的关系。</p>"
     }
   ]
 }

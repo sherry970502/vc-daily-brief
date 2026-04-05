@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-04-05T03:58:07.883880+00:00",
+  "updated_at": "2026-04-05T14:52:45.708903+00:00",
   "period_hours": 24,
-  "article_count": 20,
+  "article_count": 21,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -28,68 +36,68 @@
       "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools."
     },
     {
-      "source": "TechCrunch",
+      "source": "Fortune",
       "lang": "en",
-      "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
-      "url": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
-      "published_at": "2026-04-04T13:00:00+00:00",
-      "summary": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now working on systems to stop killer drones."
+      "title": "How Corporate Natalie turned a $500 brand deal into a creator empire—and her own agency",
+      "url": "https://fortune.com/2026/04/05/corporate-natalie-new-creator-led-agency-expand-co-lab-influencer-marketing/",
+      "published_at": "2026-04-05T08:55:00+00:00",
+      "summary": "Natalie Marshall launches Expand Co-Lab, which she believes can overhaul the “broken” influencer marketing system."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Ryanair CEO says book summer trips before fares soar, predicting French air traffic controllers more likely to cause flight chaos than fuel shortages",
-      "url": "https://fortune.com/2026/04/04/ryanair-ceo-airline-booking-summer-trips-airfares-fuel-shortages-flight-cancelations/",
-      "published_at": "2026-04-04T22:48:49+00:00",
-      "summary": "\"At Ryanair, we have lots of flights on a daily basis. We will re-accommodate you, get you back, get you out, whatever it's going to be.\""
+      "title": "The corporate ‘storyteller’ is marketing’s newest messiah—and just as hollow as every buzzword before it",
+      "url": "https://fortune.com/2026/04/05/storyteller-marketing-buzzword-brand-mythology/",
+      "published_at": "2026-04-05T12:00:00+00:00",
+      "summary": "From \"paradigm shift\" to \"purpose-driven,\" corporate America always chases a new great abstraction. Don't hold your breath about the new in-house oracle."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump warns Iran it has 48 hours left as airman remains missing",
-      "url": "https://fortune.com/2026/04/04/trump-warning-iran-war-48-hours-deadline-strait-of-hormuz/",
-      "published_at": "2026-04-04T20:40:50+00:00",
-      "summary": "Iranian media said Tehran offered a reward of about $66,000 to citizens who capture the person alive."
+      "title": "AI angst mutates into ‘FOBO’ as Fear of Becoming Obsolete takes over American workforces",
+      "url": "https://fortune.com/2026/04/05/what-is-fobo-ai-angst-adoption/",
+      "published_at": "2026-04-05T12:00:00+00:00",
+      "summary": "EY's Joe Depa says he sees a split in staff. There's \"high adoption, right out of the gate\" for juniors but senior workers \"are somewhat resistant.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. deploys bulk of stealthy long-range missile for Iran war",
-      "url": "https://fortune.com/2026/04/04/us-jassm-er-stealthy-long-range-missile-iran-war-munitions-supplies/",
-      "published_at": "2026-04-04T20:29:03+00:00",
-      "summary": "After the moves, only about 425 JASSM-ER out of a prewar inventory of 2,300 will remain available for the rest of the globe."
+      "title": "Netflix cofounder says he stopped work at 5 p.m. every Tuesday for 30 years to stay ‘sane,’ no matter the crisis: ‘Nothing got in the way of that’",
+      "url": "https://fortune.com/article/netflix-cofounder-marc-randolph-work-life-balance-tuesday-rule/",
+      "published_at": "2026-04-05T11:30:08+00:00",
+      "summary": "Marc Randolph ran Netflix for seven years and never let a meeting, crisis, or last-minute request stand in the way of his Tuesday 5 p.m. hard stop. Experts and fellow CEOs are divided on whether that's genius—or naive."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran says Iraqi ships are allowed to use Strait of Hormuz",
-      "url": "https://fortune.com/2026/04/04/iran-war-crude-oil-tankers-iraqi-ships-strait-of-hormuz/",
-      "published_at": "2026-04-04T20:18:11+00:00",
-      "summary": "The declaration has the potential to unleash as much as 3 million barrels a day of Iraqi oil cargoes."
+      "title": "Meet a former VC who has a plan to prepare American students for an AI-disrupted future",
+      "url": "https://fortune.com/2026/04/05/former-vc-plan-tamerican-students-ai-ted-dintersmith/",
+      "published_at": "2026-04-05T11:24:00+00:00",
+      "summary": "For years, Ted Dintersmith has been sounding the alarm that American schools don’t adequately prepare children for the future. Artificial intelligence will be an inflection point, he said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Labor market turns upside down as the economy can shed jobs and still keep unemployment low amid immigration reversal",
-      "url": "https://fortune.com/2026/04/04/breakeven-hiring-negative-job-market-unemployment-rate-trump-immigration-crackdown/",
-      "published_at": "2026-04-04T19:52:34+00:00",
-      "summary": "\"Real-time data point to an important change in the U.S. labor market: The benchmark for evaluating payroll growth has moved significantly.\""
+      "title": "Jamie Dimon’s reality check for ambitious workers: ‘There’s going to be a grunt part to every part of a job. Get over it’",
+      "url": "https://fortune.com/article/jamie-dimon-gen-z-career-advice-ambitious-workers/",
+      "published_at": "2026-04-05T11:19:32+00:00",
+      "summary": "The JPMorgan CEO says workers should not simply “get a new job.” Instead, they should stick to one role."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump calms markets to fight longer and always uses the military assets he deploys as more combat power heads to Iran, Mideast expert says",
-      "url": "https://fortune.com/2026/04/04/trump-iran-war-military-buildup-combat-power-markets-oil-prices-stocks/",
-      "published_at": "2026-04-04T19:19:59+00:00",
-      "summary": "\"So if we see a lot of back and forth in terms of what the administration is signaling, it's part of that strategy of actually trying to manage the markets.\""
+      "title": "‘No one is saying, ‘I want more cancer with my candy”: Why Peeps are a ‘food chemical success story’ despite RFK Jr’s campaign to destroy their dyes",
+      "url": "https://fortune.com/2026/04/05/peeps-food-chemical-success-story-maha-healthy-rfk-dyes-easter-candy-fda/",
+      "published_at": "2026-04-05T11:00:00+00:00",
+      "summary": "Peeps, that holiday candy tradition of bunnies and chicks that get eaten or are left to stale, are at the center of a food dye battle with MAHA."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Z are already more bullish than millennials about early retirement—and many think they can quit work for good with just $500,000",
-      "url": "https://fortune.com/article/gen-z-are-more-bullish-on-early-retirement-than-millennials/",
-      "published_at": "2026-04-04T18:35:52+00:00",
-      "summary": "A chunk of Gen Zers anticipate working for just two decades before kicking up their feet and living off just $500,000 for the following 60 years."
+      "title": "Meet the Gen Z grads reviving accounting—colleges are reporting near-perfect placement rates at $80K starting salaries",
+      "url": "https://fortune.com/2026/04/05/gen-z-college-graduates-saving-accounting-six-figure-entry-level-jobs-tax-season/",
+      "published_at": "2026-04-05T10:09:00+00:00",
+      "summary": "Once seen as boring and synonymous with tax season dread, accounting is now attracting Gen Z with high demand, near six-figure salaries, and near-guaranteed job offers."
     },
     {
       "source": "VentureBeat",
@@ -98,6 +106,14 @@
       "url": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
       "published_at": "2026-04-04T18:06:19+00:00",
       "summary": "<p>The security industry has spent the last year talking about models, copilots, and agents, but a quieter shift is happening one layer below all of that: Vendors are lining up around a shared way to describe security data. The Open Cybersecurity Schema Framework<i> (</i>OCSF), is emerging as one of"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
+      "url": "https://36kr.com/p/3753526848897792?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。</p>\n  <p>霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精密仪器系国家重点实验室，创始人郭劲为清华精密仪器系硕士，曾任职GE医疗CT部门。公司在X射线光谱分析与AI智能识别算法领域有近二十年科研积累"
     },
     {
       "source": "36氪",
@@ -154,14 +170,6 @@
       "url": "https://36kr.com/p/3750704146072326?f=rss",
       "published_at": null,
       "summary": "<p>如今内容行业风头正盛的莫过于AI拟真人剧。</p>\n  <p>它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。</p>\n  <p>早在2025年下半年的时候，这一内容形态就已经崭露头角。彼时有一批从业者认为，AI拟真人剧的天花板相当于整个传统影视行业，要高于AI漫剧，于是在诸多技术问题尚未被解决的时候就决定入局。</p>\n  <p>今年1月以来，字节旗下Seedance2.0、生数科技Vidu Q3的发布则彻底引爆了这一赛道。人物表情的恐怖谷效应、角色难以保持的一致性，以及打斗场面不连贯等问题，都在底层大模型技术的进步中消融。</p>\n  <p>Vidu"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
-      "url": "https://36kr.com/p/3750417621795588?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，北京戴纳实验科技股份有限公司（下称“戴纳科技”）已于近日完成近亿元B+轮融资。本轮由顺禧基金管理的北京市新材料产业投资基金（以下简称“北京新材料基金”）和北京市丰台区丰泽志远产业培育基金（以下简称“丰泽基金”）共同投资。资金将主要用于核心技术迭代、产能扩张，以及与北京化工大学联合搭建全球首个新材料CRO平台，加速AI+新材料研发服务的产业化落地。</p>\n  <p>戴纳科技成立于2011年，是国内首家提出并100%成功交付黑灯实验室的企业。公司专注于全球AI4S（AI for Science）基础设施的建设，通过构建"
     }
   ]
 }

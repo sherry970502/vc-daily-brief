@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-04-05T03:57:42.295722+00:00",
+  "updated_at": "2026-04-05T14:52:19.408325+00:00",
   "period_hours": 24,
-  "tweet_count": 36,
+  "tweet_count": 37,
   "tweets": [
     {
       "account": "@paulg",
       "name": "Paul Graham",
       "org": "Y Combinator",
-      "created_at": "2026-04-04T12:41:04.000Z",
-      "text": "I had just been noticing today that Thai speakers seem to spend longer talking about things than I'd expect. https://t.co/La8jWOKVzu",
-      "url": "https://x.com/paulg/status/2040409314066837858"
+      "created_at": "2026-04-05T12:25:49.000Z",
+      "text": "Avoid venture debt. https://t.co/Z2qrWy19Sb",
+      "url": "https://x.com/paulg/status/2040767867122254194"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-05T01:37:34.000Z",
-      "text": "😍 https://t.co/Xdn4zXIjKV",
-      "url": "https://x.com/pmarca/status/2040604727902371926"
+      "created_at": "2026-04-05T07:24:53.000Z",
+      "text": "Text from @hubermanlab just now: “Did I do it again and don’t even realize it?” 🫡 https://t.co/FyuuMH7O3b",
+      "url": "https://x.com/pmarca/status/2040692131841609903"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-05T01:34:12.000Z",
-      "text": "And yet there are zero AI teachers, zero AI doctors, zero AI lawyers. https://t.co/juUAOtJYZe",
-      "url": "https://x.com/pmarca/status/2040603882120998983"
+      "created_at": "2026-04-05T07:11:18.000Z",
+      "text": "https://t.co/u49w4gCjxp https://t.co/WoHBv2njBK",
+      "url": "https://x.com/pmarca/status/2040688715639799908"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-05T01:28:36.000Z",
-      "text": "Hubermaxxing https://t.co/T44xjmeEvU",
-      "url": "https://x.com/pmarca/status/2040602473464037823"
+      "created_at": "2026-04-05T06:41:24.000Z",
+      "text": "Silly Business Theory is right: in the future the best work, greatest progress, most valuable innovations won't come from laboring under the false consciousness that work must be hard and serious to produce value. The best work is going to come from people playing and having fun. https://t.co/OyrSmCp2jN",
+      "url": "https://x.com/pmarca/status/2040681191792398394"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-05T01:23:17.000Z",
-      "text": "I think we all know why... https://t.co/mmG7ntgoDB",
-      "url": "https://x.com/pmarca/status/2040601133576782269"
+      "created_at": "2026-04-05T05:07:22.000Z",
+      "text": "Checks out. #retardmaxxing https://t.co/I81b0o4fCO",
+      "url": "https://x.com/pmarca/status/2040657527210389524"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-05T00:42:16.000Z",
-      "text": "https://t.co/ft7258ZEcL https://t.co/AqLRlARyQA",
-      "url": "https://x.com/pmarca/status/2040590811797303680"
+      "created_at": "2026-04-05T05:05:12.000Z",
+      "text": "Many such cases. https://t.co/UGSOjL1SVU",
+      "url": "https://x.com/pmarca/status/2040656980281614395"
     },
     {
       "account": "@chamath",
@@ -66,6 +66,14 @@
       "created_at": "2026-04-04T16:01:49.000Z",
       "text": "It’s is quickly being revealed that California’s oversized budget and taxes aren’t because of brilliant bureaucratic programs and thoughtful spending but laziness, incompetence and corruption. https://t.co/ydwXjp9PuC",
       "url": "https://x.com/chamath/status/2040459838145323221"
+    },
+    {
+      "account": "@jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
+      "created_at": "2026-04-05T04:24:59.000Z",
+      "text": "🫡❤️ https://t.co/KwXqJKGqaZ",
+      "url": "https://x.com/jason/status/2040646860268765597"
     },
     {
       "account": "@jason",
@@ -90,6 +98,14 @@
       "created_at": "2026-04-04T19:16:54.000Z",
       "text": "The $2 bill test... https://t.co/4lpZCoLfOF",
       "url": "https://x.com/jason/status/2040508928983769266"
+    },
+    {
+      "account": "@sriramk",
+      "name": "Sriram Krishnan",
+      "org": "a16z",
+      "created_at": "2026-04-05T14:35:01.000Z",
+      "text": "there are several products waiting to be built here. https://t.co/oS0UYJBwzh",
+      "url": "https://x.com/sriramk/status/2040800381471522880"
     },
     {
       "account": "@davidsacks",
@@ -127,6 +143,22 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-05T06:58:48.000Z",
+      "text": "Try using the X API https://t.co/yTbcQQU6LU",
+      "url": "https://x.com/elonmusk/status/2040685567592317031"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-05T06:08:54.000Z",
+      "text": "Exactly https://t.co/Ure78GXm6e",
+      "url": "https://x.com/elonmusk/status/2040673011771289918"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
       "created_at": "2026-04-04T22:56:24.000Z",
       "text": "This is accurate\nhttps://t.co/xZfdyZnCQT",
       "url": "https://x.com/elonmusk/status/2040564169888669961"
@@ -148,60 +180,44 @@
       "url": "https://x.com/elonmusk/status/2040541929235202390"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-04T21:26:43.000Z",
-      "text": "Tragically &amp; hilariously true https://t.co/VKP0EQ1hod",
-      "url": "https://x.com/elonmusk/status/2040541601022570748"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-04T21:03:04.000Z",
-      "text": "Grok groks\nhttps://t.co/KjsfiBdRGV",
-      "url": "https://x.com/elonmusk/status/2040535647866474815"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-05T14:50:49.000Z",
+      "text": "I will say GStack + Claude Code gives me wings, and I want it to give you wings too https://t.co/gN9RW4zkhv",
+      "url": "https://x.com/garrytan/status/2040804357915181413"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-05T00:07:07.000Z",
-      "text": "We are fighting to stop this\n\nJoin @garryslist if you want to help us https://t.co/2iKxFtZbtE",
-      "url": "https://x.com/garrytan/status/2040581964156342768"
+      "created_at": "2026-04-05T14:50:00.000Z",
+      "text": "\"Ready to build\" after one prompt is literally just-in-time software realized\n\nIt's not a pipe dream. It's happening today. \n\nWe don't have to be so precious about software anymore. With the right prompts, anyone can build anything\n\nAlso: We should have 100x more open source https://t.co/dsIc70TPmm",
+      "url": "https://x.com/garrytan/status/2040804149349204075"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-05T00:04:48.000Z",
-      "text": "For the haters who say you can’t speed up with agentic coding I will just prove you wrong\n\nAnd if you still don’t believe, Have fun coding at 1x speed✌️ \n\nThe rest of us are going to go fast https://t.co/ldxhrJr9tW",
-      "url": "https://x.com/garrytan/status/2040581382305702389"
+      "created_at": "2026-04-05T14:29:19.000Z",
+      "text": "Guilty as charged https://t.co/8rIem0hYRe",
+      "url": "https://x.com/garrytan/status/2040798947460227558"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-05T00:00:28.000Z",
-      "text": "YC Partners are cooking for open source\n\nWe are going to have 1000x more hyper usable open source. This is the golden age of personal software, infinitely customizable, and it will be way better than corpo software https://t.co/t5AkSIMnsq",
-      "url": "https://x.com/garrytan/status/2040580292768043477"
+      "created_at": "2026-04-05T14:27:13.000Z",
+      "text": "You know for years we have been wondering when just-in-time software was going to be possible. \n\nIt’s here. \n\nThis project would traditionally take weeks. I wrote one line in Telegram and this popped out. My OpenClaw had all the context.\n\nClaude Code will build it in hours today! https://t.co/cS3gLURgCB",
+      "url": "https://x.com/garrytan/status/2040798415639207977"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-04T23:59:32.000Z",
-      "text": "City Attorney David Chiu says whoever leaked a confidential legal memo could face investigations, penalties, and even removal from office.\n\nOh who could it be? \n\nhttps://t.co/DTficyQQLI https://t.co/oNs3kEBy4R",
-      "url": "https://x.com/garrytan/status/2040580056091890119"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-04T22:33:21.000Z",
-      "text": "I've refactored GStack to make it much easier to add more places where it can work. This is now in the latest repo. https://t.co/VPvWDzV5c0 \n\nFirst class Openclaw, Opencode and Slate support are coming soon https://t.co/q88MAm67qY",
-      "url": "https://x.com/garrytan/status/2040558368704836061"
+      "created_at": "2026-04-05T14:27:11.000Z",
+      "text": "GStack in OpenClaw works because OpenClaw actually uses Claude Code to write plans or do coding tasks like this. So /autoplan is my speedrun skill that does CEO review, Eng review and now Developer Experience review too https://t.co/cFREMGsQiT",
+      "url": "https://x.com/garrytan/status/2040798408181690542"
     },
     {
       "account": "@andrewchen",
@@ -231,6 +247,14 @@
       "account": "@gregisenberg",
       "name": "Greg Isenberg",
       "org": "Late Checkout",
+      "created_at": "2026-04-05T10:59:39.000Z",
+      "text": "Obsidian is a $350M company for a note taking app built by 3 engineers working remotely \n\nNo other time in history was something like this possible \n\nWhat a wonderful time to be building a company https://t.co/VwCG9daKlG",
+      "url": "https://x.com/gregisenberg/status/2040746181559501302"
+    },
+    {
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
       "created_at": "2026-04-04T21:11:20.000Z",
       "text": "the best AI might be the one that doesn't need wifi and lives on the phone in your pocket https://t.co/MA67X8abOU",
       "url": "https://x.com/gregisenberg/status/2040537728299712752"
@@ -242,14 +266,6 @@
       "created_at": "2026-04-04T17:18:24.000Z",
       "text": "gpt image 2 looks insane https://t.co/vVZambILfe",
       "url": "https://x.com/gregisenberg/status/2040479110858748162"
-    },
-    {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
-      "created_at": "2026-04-04T13:59:04.000Z",
-      "text": "POV: April 2026 https://t.co/2i95U8zH9Y",
-      "url": "https://x.com/gregisenberg/status/2040428943312871511"
     },
     {
       "account": "@venturetwins",
@@ -282,14 +298,6 @@
       "created_at": "2026-04-04T17:23:30.000Z",
       "text": "I'm late to the Fred Again x Thomas Bangalter set. It's incredible.\n\nThis guy's expression is perfect. https://t.co/AvYV62lIhn",
       "url": "https://x.com/rrhoover/status/2040480394252796093"
-    },
-    {
-      "account": "@rrhoover",
-      "name": "Ryan Hoover",
-      "org": "Weekend Fund",
-      "created_at": "2026-04-04T14:42:40.000Z",
-      "text": "When I was a junior product manager, I made the mistake of narrowly prescribing solutions to engineering.\n\nSimilar dynamics exist working with AI.\n\nThe smarter it gets, the more AI can fill in gaps and surface solutions you didn't think of.\n\nSpecific prompts = limit solutions to",
-      "url": "https://x.com/rrhoover/status/2040439917554110504"
     }
   ]
 }

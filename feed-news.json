@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-04-04T13:26:31.758928+00:00",
+  "updated_at": "2026-04-05T03:58:07.883880+00:00",
   "period_hours": 24,
-  "article_count": 31,
+  "article_count": 20,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Peter Thiel’s big bet on solar-powered cow collars",
+      "url": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+      "published_at": "2026-04-04T21:30:00+00:00",
+      "summary": "Why did Founders Fund invest $220 million in cattle management startup Halter?"
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+      "url": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+      "published_at": "2026-04-04T21:03:43+00:00",
+      "summary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "published_at": "2026-04-04T16:32:22+00:00",
+      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -12,180 +36,76 @@
       "summary": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now working on systems to stop killer drones."
     },
     {
-      "source": "TechCrunch",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "published_at": "2026-04-04T01:31:00+00:00",
-      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Lucid blames dip in Q1 sales on seat supplier issue",
-      "url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
-      "published_at": "2026-04-04T01:03:13+00:00",
-      "summary": "Lucid said it has resolved the problem and is not changing its guidance for 2026."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "The anonymous social app that thinks it can work in Saudi Arabia",
-      "url": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
-      "published_at": "2026-04-03T22:24:57+00:00",
-      "summary": "When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Tesla’s Texas factory workforce reportedly shrunk 22% in 2025",
-      "url": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
-      "published_at": "2026-04-03T20:43:25+00:00",
-      "summary": "Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "published_at": "2026-04-03T20:35:34+00:00",
-      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "published_at": "2026-04-03T20:28:40+00:00",
-      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Anthropic ramps up its political activities with a new PAC",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "published_at": "2026-04-03T20:22:18+00:00",
-      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Largest Financings Went To Defense, Wearables, Energy And Security",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-wearables-energy-saronic/",
-      "published_at": "2026-04-03T18:26:11+00:00",
-      "summary": "Startup investors kept up the busy dealmaking pace this week with a number of big rounds. Top among them was a $1.75 billion Series D for Austin-based Saronic, developer of autonomous vessels."
+      "title": "Ryanair CEO says book summer trips before fares soar, predicting French air traffic controllers more likely to cause flight chaos than fuel shortages",
+      "url": "https://fortune.com/2026/04/04/ryanair-ceo-airline-booking-summer-trips-airfares-fuel-shortages-flight-cancelations/",
+      "published_at": "2026-04-04T22:48:49+00:00",
+      "summary": "\"At Ryanair, we have lots of flights on a daily basis. We will re-accommodate you, get you back, get you out, whatever it's going to be.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The AI gold rush is real — but great companies don’t need to mine it",
-      "url": "https://fortune.com/2026/04/04/in-ai-dominated-market-fundamentals-still-matter-wellington-management-2/",
-      "published_at": "2026-04-04T12:30:00+00:00",
-      "summary": "As capital floods into anything labeled \"AI,\" disciplined investors should remember what has always built enduring businesses: fundamentals."
+      "title": "Trump warns Iran it has 48 hours left as airman remains missing",
+      "url": "https://fortune.com/2026/04/04/trump-warning-iran-war-48-hours-deadline-strait-of-hormuz/",
+      "published_at": "2026-04-04T20:40:50+00:00",
+      "summary": "Iranian media said Tehran offered a reward of about $66,000 to citizens who capture the person alive."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The World Cup is supposed to be an economic windfall. But ‘you’re seeing a lot of headwinds’ now",
-      "url": "https://fortune.com/2026/04/04/world-cup-gianni-infantino-usa-mexico-canada-travel-iran-war-donald-trump-geopolitics-high-gas-prices/",
-      "published_at": "2026-04-04T12:00:00+00:00",
-      "summary": "Fans from three qualifying nations are banned from entering the U.S while others face up to $15,000 bonds and pricey visa fees."
+      "title": "U.S. deploys bulk of stealthy long-range missile for Iran war",
+      "url": "https://fortune.com/2026/04/04/us-jassm-er-stealthy-long-range-missile-iran-war-munitions-supplies/",
+      "published_at": "2026-04-04T20:29:03+00:00",
+      "summary": "After the moves, only about 425 JASSM-ER out of a prewar inventory of 2,300 will remain available for the rest of the globe."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "College grads in ‘AI-proof’ careers like psychology and education are seeing negative returns on their degrees",
-      "url": "https://fortune.com/2026/04/04/graduate-school-value-negative-returns-psychology-education-ai/",
-      "published_at": "2026-04-04T11:02:00+00:00",
-      "summary": "As AI reshapes white-collar work, new research shows that some of the most popular graduate degrees are actually leaving holders worse off financially."
+      "title": "Iran says Iraqi ships are allowed to use Strait of Hormuz",
+      "url": "https://fortune.com/2026/04/04/iran-war-crude-oil-tankers-iraqi-ships-strait-of-hormuz/",
+      "published_at": "2026-04-04T20:18:11+00:00",
+      "summary": "The declaration has the potential to unleash as much as 3 million barrels a day of Iraqi oil cargoes."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Delta uses Tom Brady to train its 100,000 workforce on leadership and a winner’s mindset",
-      "url": "https://fortune.com/2026/04/04/delta-uses-tom-brady-train-100000-workforce-leadership-winners-mindset/",
-      "published_at": "2026-04-04T10:09:00+00:00",
-      "summary": "Delta CEO Ed Bastian says seven-time Super Bowl champion Tom Brady helps the $42.2 billion airline giant “push the envelope” and continue to succeed at the top."
+      "title": "Labor market turns upside down as the economy can shed jobs and still keep unemployment low amid immigration reversal",
+      "url": "https://fortune.com/2026/04/04/breakeven-hiring-negative-job-market-unemployment-rate-trump-immigration-crackdown/",
+      "published_at": "2026-04-04T19:52:34+00:00",
+      "summary": "\"Real-time data point to an important change in the U.S. labor market: The benchmark for evaluating payroll growth has moved significantly.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Trump administration is blurring the public and private sector workforce, and OPM director Scott Kupor won’t rule out conflict of interest risks",
-      "url": "https://fortune.com/2026/04/04/trump-administration-private-sector-federal-jobs-conflicts-of-interest-opm-director-scott-kupor/",
-      "published_at": "2026-04-04T09:41:00+00:00",
-      "summary": "“We got to balance potential risks with potential upside,” Kupor said of potential conflicts of interest in government. “I think you can manage that quite clearly.”"
+      "title": "Trump calms markets to fight longer and always uses the military assets he deploys as more combat power heads to Iran, Mideast expert says",
+      "url": "https://fortune.com/2026/04/04/trump-iran-war-military-buildup-combat-power-markets-oil-prices-stocks/",
+      "published_at": "2026-04-04T19:19:59+00:00",
+      "summary": "\"So if we see a lot of back and forth in terms of what the administration is signaling, it's part of that strategy of actually trying to manage the markets.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI’s next frontier is the real world",
-      "url": "https://fortune.com/2026/04/04/recognition-economy-ai-physical-world-metropolis/",
-      "published_at": "2026-04-04T09:15:00+00:00",
-      "summary": "AI has made our digital lives frictionless and intuitive. Our airports, offices and hospitals run on tickets, badges and manual checks. That's changing."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "A Yale economist says AGI won’t automate most jobs—because they’re not worth the trouble",
-      "url": "https://fortune.com/2026/04/04/ai-jobs-future-not-important-enough-to-be-automated-yale/",
-      "published_at": "2026-04-04T08:02:00+00:00",
-      "summary": "Pascual Restrepo's new NBER paper argues it's not about what AI can do. It's about what AI will bother doing—and most human work doesn't make the cut."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Iran’s military may be decimated, but it’s winning the energy war as it controls who gets cargoes through the Strait of Hormuz",
-      "url": "https://fortune.com/2026/04/04/iran-winning-energy-war-cargoes-strait-of-hormuz/",
-      "published_at": "2026-04-04T07:03:00+00:00",
-      "summary": "The war of attrition in Iran could lead to an Iranian \"major victory\" if the U.S. withdraws without controlling commerce."
+      "title": "Gen Z are already more bullish than millennials about early retirement—and many think they can quit work for good with just $500,000",
+      "url": "https://fortune.com/article/gen-z-are-more-bullish-on-early-retirement-than-millennials/",
+      "published_at": "2026-04-04T18:35:52+00:00",
+      "summary": "A chunk of Gen Zers anticipate working for just two decades before kicking up their feet and living off just $500,000 for the following 60 years."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
-      "url": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
-      "published_at": "2026-04-04T03:55:25+00:00",
-      "summary": "<p>Are you a subscriber to <a href=\"https://claude.ai/upgrade\">Anthropic&#x27;s Claude Pro ($20 monthly) or Max ($100-$200 monthly) plans</a> and use its Claude AI models and products to power third-party AI agents like <a href=\"https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso"
+      "title": "OCSF explained: The shared data language security teams have been missing",
+      "url": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
+      "published_at": "2026-04-04T18:06:19+00:00",
+      "summary": "<p>The security industry has spent the last year talking about models, copilots, and agents, but a quieter shift is happening one layer below all of that: Vendors are lining up around a shared way to describe security data. The Open Cybersecurity Schema Framework<i> (</i>OCSF), is emerging as one of"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
-      "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
-      "published_at": "2026-04-03T23:30:50+00:00",
-      "summary": "<p>AI vibe coders have yet another reason to thank <a href=\"https://x.com/karpathy/status/2039805659525644595\">Andrej Karpathy</a>, the coiner of the term. </p><p>The former Director of AI at Tesla and co-founder of OpenAI, now running his own independent AI project, recently <a href=\"https://x.com/"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
-      "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
-      "published_at": "2026-04-03T23:25:01+00:00",
-      "summary": "<p><a href=\"https://www.nvidia.com/gtc/keynote/\">Jensen Huang</a> walked onto the <a href=\"https://www.nvidia.com/gtc/\">GTC stage</a> Monday wearing his trademark leather jacket and carrying, as it turned out, the blueprints for a new kind of industry dominance.</p><p>The Nvidia CEO unveiled the <a"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
-      "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
-      "published_at": "2026-04-03T15:17:41+00:00",
-      "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft</a> on Thursday launched <a href=\"https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/\">three new foundational AI models</a> it built entirely in-house — a state-of-the-art speech transcription syste"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
-      "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
-      "published_at": "2026-04-03T15:17:02+00:00",
-      "summary": "<p>The baton of open source AI models has been passed on between several companies over the years since ChatGPT debuted in late 2022, from Meta with its Llama family to Chinese labs like Qwen and z.ai. But lately, Chinese companies have started pivoting back towards proprietary models even as some U"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Four things we’d need to put data centers in space",
-      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
-      "published_at": "2026-04-03T17:03:19+00:00",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one mil"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
+      "url": "https://36kr.com/p/3752260051616512?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。</p>\n  <p>AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体验创新，并以深圳海高特科技有限公司作为其研发与设计中枢，为全球视听领域用户提供更具沉浸感的解决方案，重塑家庭娱乐体验。</p>\n  <p>3"
     },
     {
       "source": "36氪",
@@ -242,14 +162,6 @@
       "url": "https://36kr.com/p/3750417621795588?f=rss",
       "published_at": null,
       "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，北京戴纳实验科技股份有限公司（下称“戴纳科技”）已于近日完成近亿元B+轮融资。本轮由顺禧基金管理的北京市新材料产业投资基金（以下简称“北京新材料基金”）和北京市丰台区丰泽志远产业培育基金（以下简称“丰泽基金”）共同投资。资金将主要用于核心技术迭代、产能扩张，以及与北京化工大学联合搭建全球首个新材料CRO平台，加速AI+新材料研发服务的产业化落地。</p>\n  <p>戴纳科技成立于2011年，是国内首家提出并100%成功交付黑灯实验室的企业。公司专注于全球AI4S（AI for Science）基础设施的建设，通过构建"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 00后上交医学博士做了款可穿戴止鼾设备，获得顺为独家投资",
-      "url": "https://36kr.com/p/3750501433705224?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，深圳夜合科技有限公司（下称“夜合科技”）近日宣布完成千万元天使轮融资，由顺为资本独家投资，深渡资本担任本轮融资的财务顾问。资金主要用于核心产品研发，加速“医疗技术向消费场景延伸”。</p>\n  <p>夜合科技成立于2025年，总部位于深圳。首款产品聚焦睡眠呼吸赛道，为鼾声人群和阻塞性睡眠呼吸暂停（OSA）患者开发轻量化、舒适、无体位限制的可穿戴颈部设备。</p>\n  <p>公司创始人冉昕昕拥有华西、瑞金两大顶级医院的医学背景，于上海交通大学攻读医学博士学位，长期专注于"
     }
   ]
 }

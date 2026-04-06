@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-04-05T14:52:45.708903+00:00",
+  "updated_at": "2026-04-06T04:11:32.896008+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 24,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+      "url": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+      "published_at": "2026-04-05T19:36:03+00:00",
+      "summary": "A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S. would confirm the rescue of Air Force service members shot down over Iran."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "published_at": "2026-04-05T18:51:37+00:00",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
+      "url": "https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "published_at": "2026-04-05T18:01:37+00:00",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "TechCrunch Mobility: ‘A stunning lack of transparency’",
+      "url": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
+      "published_at": "2026-04-05T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. T"
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "published_at": "2026-04-05T15:40:58+00:00",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -12,100 +52,92 @@
       "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment."
     },
     {
-      "source": "TechCrunch",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Peter Thiel’s big bet on solar-powered cow collars",
-      "url": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
-      "published_at": "2026-04-04T21:30:00+00:00",
-      "summary": "Why did Founders Fund invest $220 million in cattle management startup Halter?"
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
-      "url": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
-      "published_at": "2026-04-04T21:03:43+00:00",
-      "summary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-      "published_at": "2026-04-04T16:32:22+00:00",
-      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools."
+      "title": "Even if Iran’s regime outlasts Trump, it may not survive reconstruction of the shattered economy, Mideast expert says",
+      "url": "https://fortune.com/2026/04/05/iran-economy-postwar-reconstruction-regime-survival-sanctions-relief-irgc/",
+      "published_at": "2026-04-05T21:17:08+00:00",
+      "summary": "The scale of reconstruction required \"will put pressure on the very patronage system that has helped hold the regime together.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Corporate Natalie turned a $500 brand deal into a creator empire—and her own agency",
-      "url": "https://fortune.com/2026/04/05/corporate-natalie-new-creator-led-agency-expand-co-lab-influencer-marketing/",
-      "published_at": "2026-04-05T08:55:00+00:00",
-      "summary": "Natalie Marshall launches Expand Co-Lab, which she believes can overhaul the “broken” influencer marketing system."
+      "title": "Oil climbs and stock futures drop as fuel shortages spread while Trump makes series of apocalyptic threats against Iran ahead of moving deadline",
+      "url": "https://fortune.com/2026/04/05/stock-market-today-oil-prices-stock-futures-fuel-shortages-trump-threats-iran-hormuz-deadline/",
+      "published_at": "2026-04-06T03:46:45+00:00",
+      "summary": "Trump told ABC News that if Iran doesn't make a deal, \"their whole country is gone.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The corporate ‘storyteller’ is marketing’s newest messiah—and just as hollow as every buzzword before it",
-      "url": "https://fortune.com/2026/04/05/storyteller-marketing-buzzword-brand-mythology/",
-      "published_at": "2026-04-05T12:00:00+00:00",
-      "summary": "From \"paradigm shift\" to \"purpose-driven,\" corporate America always chases a new great abstraction. Don't hold your breath about the new in-house oracle."
+      "title": "Delta started sharing profits with its 100,000 employees two decades ago. CEO Ed Bastian says shareholders love it",
+      "url": "https://fortune.com/2026/04/05/delta-ceo-ed-bastian-fortune-titans-profit-sharing/",
+      "published_at": "2026-04-05T15:24:51+00:00",
+      "summary": "At first, Delta shareholders couldn't believe Ed Bastian was going to create a profit-sharing scheme. Now, Bastian said, they'll be the first to stop him from getting rid of it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI angst mutates into ‘FOBO’ as Fear of Becoming Obsolete takes over American workforces",
-      "url": "https://fortune.com/2026/04/05/what-is-fobo-ai-angst-adoption/",
-      "published_at": "2026-04-05T12:00:00+00:00",
-      "summary": "EY's Joe Depa says he sees a split in staff. There's \"high adoption, right out of the gate\" for juniors but senior workers \"are somewhat resistant.\""
+      "title": "A CIA deception campaign in Iran helped the spy agency uncover the location of the downed F-15 airman, who was hiding in a mountain crevice",
+      "url": "https://fortune.com/2026/04/05/cia-deception-campaign-iran-location-downed-f15-airman-mountain-crevice/",
+      "published_at": "2026-04-05T22:06:21+00:00",
+      "summary": "The CIA spread word inside the Islamic Republic that it had already located the F-15 crew member."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Netflix cofounder says he stopped work at 5 p.m. every Tuesday for 30 years to stay ‘sane,’ no matter the crisis: ‘Nothing got in the way of that’",
-      "url": "https://fortune.com/article/netflix-cofounder-marc-randolph-work-life-balance-tuesday-rule/",
-      "published_at": "2026-04-05T11:30:08+00:00",
-      "summary": "Marc Randolph ran Netflix for seven years and never let a meeting, crisis, or last-minute request stand in the way of his Tuesday 5 p.m. hard stop. Experts and fellow CEOs are divided on whether that's genius—or naive."
+      "title": "Russia’s key Baltic port resumes crude loading after attacks",
+      "url": "https://fortune.com/2026/04/05/russia-baltic-port-ust-luga-crude-loading-ukraine-drone-attacks/",
+      "published_at": "2026-04-05T21:55:29+00:00",
+      "summary": "Loadings at Ust-Luga, a key oil-export outlet in Russia’s west, stopped at the end of March as Ukraine stepped up attacks on energy infrastructure along the Baltic coast."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet a former VC who has a plan to prepare American students for an AI-disrupted future",
-      "url": "https://fortune.com/2026/04/05/former-vc-plan-tamerican-students-ai-ted-dintersmith/",
-      "published_at": "2026-04-05T11:24:00+00:00",
-      "summary": "For years, Ted Dintersmith has been sounding the alarm that American schools don’t adequately prepare children for the future. Artificial intelligence will be an inflection point, he said."
+      "title": "‘Super Mario’ fans ignore weak reviews and send sequel to $372.5 million global box office debut, biggest opening of the year for a studio film",
+      "url": "https://fortune.com/2026/04/05/super-mario-galaxy-movie-weak-reviews-372-million-global-box-office-debut/",
+      "published_at": "2026-04-05T21:43:41+00:00",
+      "summary": "Universal Pictures released the sequel globally on Wednesday, capitalizing on kids’ spring break vacations in the week leading up to the Easter holiday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jamie Dimon’s reality check for ambitious workers: ‘There’s going to be a grunt part to every part of a job. Get over it’",
-      "url": "https://fortune.com/article/jamie-dimon-gen-z-career-advice-ambitious-workers/",
-      "published_at": "2026-04-05T11:19:32+00:00",
-      "summary": "The JPMorgan CEO says workers should not simply “get a new job.” Instead, they should stick to one role."
+      "title": "Trump risks confidence in U.S. role as guardian of global shipping",
+      "url": "https://fortune.com/2026/04/05/trump-hormuz-iran-war-confidence-us-role-guardian-global-shipping-freedom-navigation/",
+      "published_at": "2026-04-05T19:00:21+00:00",
+      "summary": "“Failure to ensure freedom of navigation in Hormuz puts global freedom of navigation everywhere at risk.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘No one is saying, ‘I want more cancer with my candy”: Why Peeps are a ‘food chemical success story’ despite RFK Jr’s campaign to destroy their dyes",
-      "url": "https://fortune.com/2026/04/05/peeps-food-chemical-success-story-maha-healthy-rfk-dyes-easter-candy-fda/",
-      "published_at": "2026-04-05T11:00:00+00:00",
-      "summary": "Peeps, that holiday candy tradition of bunnies and chicks that get eaten or are left to stale, are at the center of a food dye battle with MAHA."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Meet the Gen Z grads reviving accounting—colleges are reporting near-perfect placement rates at $80K starting salaries",
-      "url": "https://fortune.com/2026/04/05/gen-z-college-graduates-saving-accounting-six-figure-entry-level-jobs-tax-season/",
-      "published_at": "2026-04-05T10:09:00+00:00",
-      "summary": "Once seen as boring and synonymous with tax season dread, accounting is now attracting Gen Z with high demand, near six-figure salaries, and near-guaranteed job offers."
+      "title": "Italy sets jet fuel limits at some airports on supply gap",
+      "url": "https://fortune.com/2026/04/05/italy-jet-fuel-limits-airports-supply-shortages-iran-war/",
+      "published_at": "2026-04-05T18:35:27+00:00",
+      "summary": "Fuel restrictions for flights have been introduced at the airports of Bologna, Milan Linate, Treviso and Venice."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "OCSF explained: The shared data language security teams have been missing",
       "url": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
-      "published_at": "2026-04-04T18:06:19+00:00",
+      "published_at": "2026-04-05T18:07:41+00:00",
       "summary": "<p>The security industry has spent the last year talking about models, copilots, and agents, but a quieter shift is happening one layer below all of that: Vendors are lining up around a shared way to describe security data. The Open Cybersecurity Schema Framework<i> (</i>OCSF), is emerging as one of"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+      "url": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
+      "published_at": "2026-04-05T18:06:13+00:00",
+      "summary": "<p>The age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. </p><p>More recently, fears of reaching artificial general intelligence (AGI)"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
+      "url": "https://36kr.com/p/3754812277998083?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>AI硬件赛道，似乎一夜之间跨入新世界。</p>\n  <p>上一个月，投资人还在打听硬件大厂高P创始人，这一个月，他们已经开始寻觅“下一个Mac mini”。</p>\n  <p>狂欢的起点，来自开源智能体框架OpenClaw（圈子里称为：龙虾）。从抢购大内存的Mac mini到各类软硬大厂的联名主机，FOMO恐惧症席卷着所有人。承载AI的硬件，如今成了不可错失的入口。</p>\n  <p>此前更多在极客圈子里风行的Agent Box忽然被推到前台。简单说，Agent Box就是⼀台"
     },
     {
       "source": "36氪",
@@ -162,14 +194,6 @@
       "url": "https://36kr.com/p/3750711532569350?f=rss",
       "published_at": null,
       "summary": "<p>文｜兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>2025年，泡泡玛特已经成长为一个庞然大物。</p>\n  <p>3月25日，泡泡玛特公布了2025年财报，收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。其中，海外市场成为拉动增长的主力，收入占比超四成。</p>\n  <p>这是一份足够亮眼的财报成绩，但资本市场却不买帐。财报发布当日开盘后，泡泡玛特的股价一度跌超20%。</p>\n  <p>3月26日，泡泡玛特发布公告称，将斥资5.99亿港元回购394万股股份，每股回购价区间为148.4-157.8港元。截至当日收盘，泡泡玛特每股报价150."
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
-      "url": "https://36kr.com/p/3750704146072326?f=rss",
-      "published_at": null,
-      "summary": "<p>如今内容行业风头正盛的莫过于AI拟真人剧。</p>\n  <p>它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。</p>\n  <p>早在2025年下半年的时候，这一内容形态就已经崭露头角。彼时有一批从业者认为，AI拟真人剧的天花板相当于整个传统影视行业，要高于AI漫剧，于是在诸多技术问题尚未被解决的时候就决定入局。</p>\n  <p>今年1月以来，字节旗下Seedance2.0、生数科技Vidu Q3的发布则彻底引爆了这一赛道。人物表情的恐怖谷效应、角色难以保持的一致性，以及打斗场面不连贯等问题，都在底层大模型技术的进步中消融。</p>\n  <p>Vidu"
     }
   ]
 }

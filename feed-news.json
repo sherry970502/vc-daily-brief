@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-04-06T04:11:32.896008+00:00",
+  "updated_at": "2026-04-06T12:25:13.366355+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 27,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun",
+      "url": "https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "summary": "The Xiaomi 17 Ultra gives you a ton of options to play around with images, including preset filters and hardware add-ons."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -52,68 +60,76 @@
       "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment."
     },
     {
-      "source": "Fortune",
+      "source": "Crunchbase News",
       "lang": "en",
-      "title": "Even if Iran’s regime outlasts Trump, it may not survive reconstruction of the shattered economy, Mideast expert says",
-      "url": "https://fortune.com/2026/04/05/iran-economy-postwar-reconstruction-regime-survival-sanctions-relief-irgc/",
-      "published_at": "2026-04-05T21:17:08+00:00",
-      "summary": "The scale of reconstruction required \"will put pressure on the very patronage system that has helped hold the regime together.\""
+      "title": "North America Q1 Funding Surges Across Stages To Record Level",
+      "url": "https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/",
+      "published_at": "2026-04-06T11:00:14+00:00",
+      "summary": "U.S. and Canadian companies secured a staggering $252.6 billion in seed- through growth-stage funding rounds in the first quarter of 2026 per Crunchbase data. That’s more than 3x the total raised in the prior quarter, and the largest quarterly total of all time."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Oil climbs and stock futures drop as fuel shortages spread while Trump makes series of apocalyptic threats against Iran ahead of moving deadline",
-      "url": "https://fortune.com/2026/04/05/stock-market-today-oil-prices-stock-futures-fuel-shortages-trump-threats-iran-hormuz-deadline/",
-      "published_at": "2026-04-06T03:46:45+00:00",
-      "summary": "Trump told ABC News that if Iran doesn't make a deal, \"their whole country is gone.\""
+      "title": "Robinhood Ventures has rebounded 30% since its lackluster debut. Can the new private markets fund now withstand the mega IPOs?",
+      "url": "https://fortune.com/2026/04/06/robinhood-ventures-mega-ipo-era-sarah-pinto/",
+      "published_at": "2026-04-06T11:52:56+00:00",
+      "summary": "Shareholders in private companies are holding their breath as SpaceX, OpenAI, and Anthropic look to make big splashes in the public markets."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Delta started sharing profits with its 100,000 employees two decades ago. CEO Ed Bastian says shareholders love it",
-      "url": "https://fortune.com/2026/04/05/delta-ceo-ed-bastian-fortune-titans-profit-sharing/",
-      "published_at": "2026-04-05T15:24:51+00:00",
-      "summary": "At first, Delta shareholders couldn't believe Ed Bastian was going to create a profit-sharing scheme. Now, Bastian said, they'll be the first to stop him from getting rid of it."
+      "title": "A quantum threat to Bitcoin has some asking the unthinkable: Is it time to freeze old wallets belonging to Satoshi Nakamoto?",
+      "url": "https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/",
+      "published_at": "2026-04-06T11:42:15+00:00",
+      "summary": "A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A CIA deception campaign in Iran helped the spy agency uncover the location of the downed F-15 airman, who was hiding in a mountain crevice",
-      "url": "https://fortune.com/2026/04/05/cia-deception-campaign-iran-location-downed-f15-airman-mountain-crevice/",
-      "published_at": "2026-04-05T22:06:21+00:00",
-      "summary": "The CIA spread word inside the Islamic Republic that it had already located the F-15 crew member."
+      "title": "The real impact of AI on SaaS isn’t what investors think",
+      "url": "https://fortune.com/2026/04/06/the-real-impact-of-ai-on-saas-isnt-what-investors-think/",
+      "published_at": "2026-04-06T11:11:39+00:00",
+      "summary": "Lower costs and easier coding could fuel a surge in new software—not the end of it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Russia’s key Baltic port resumes crude loading after attacks",
-      "url": "https://fortune.com/2026/04/05/russia-baltic-port-ust-luga-crude-loading-ukraine-drone-attacks/",
-      "published_at": "2026-04-05T21:55:29+00:00",
-      "summary": "Loadings at Ust-Luga, a key oil-export outlet in Russia’s west, stopped at the end of March as Ukraine stepped up attacks on energy infrastructure along the Baltic coast."
+      "title": "What the Nike CEO’s remarks reveal about rallying employees through turnaround fatigue",
+      "url": "https://fortune.com/article/nike-ceo-elliott-hill-remarks-turnaround-tired/",
+      "published_at": "2026-04-06T10:46:16+00:00",
+      "summary": "AI readiness has become the new filter for the next generation of CEOs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Super Mario’ fans ignore weak reviews and send sequel to $372.5 million global box office debut, biggest opening of the year for a studio film",
-      "url": "https://fortune.com/2026/04/05/super-mario-galaxy-movie-weak-reviews-372-million-global-box-office-debut/",
-      "published_at": "2026-04-05T21:43:41+00:00",
-      "summary": "Universal Pictures released the sequel globally on Wednesday, capitalizing on kids’ spring break vacations in the week leading up to the Easter holiday."
+      "title": "Why DOGE’s legacy is hard to measure",
+      "url": "https://fortune.com/2026/04/06/doge-legacy-irs-national-security-job-cuts-trump-administration/",
+      "published_at": "2026-04-06T10:29:12+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump risks confidence in U.S. role as guardian of global shipping",
-      "url": "https://fortune.com/2026/04/05/trump-hormuz-iran-war-confidence-us-role-guardian-global-shipping-freedom-navigation/",
-      "published_at": "2026-04-05T19:00:21+00:00",
-      "summary": "“Failure to ensure freedom of navigation in Hormuz puts global freedom of navigation everywhere at risk.”"
+      "title": "AI is about to send millions to ‘professional identity purgatory.’ Here’s what I discovered after my 30 year career crashed to a halt",
+      "url": "https://fortune.com/2026/04/06/ai-job-loss-layoffs-professional-purgatory/",
+      "published_at": "2026-04-06T08:00:00+00:00",
+      "summary": "For high achievers, professional identity isn't just what you do—it's who you are. AI disruption is about to test that in ways most of us aren't prepared for."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Italy sets jet fuel limits at some airports on supply gap",
-      "url": "https://fortune.com/2026/04/05/italy-jet-fuel-limits-airports-supply-shortages-iran-war/",
-      "published_at": "2026-04-05T18:35:27+00:00",
-      "summary": "Fuel restrictions for flights have been introduced at the airports of Bologna, Milan Linate, Treviso and Venice."
+      "title": "While other CEOs freeze entry-level roles, this AI founder is hiring Gen Z with zero experience",
+      "url": "https://fortune.com/2026/04/06/while-other-ceos-freeze-entry-level-roles-this-ai-founder-is-hiring-gen-z-with-zero-experience/",
+      "published_at": "2026-04-06T07:08:00+00:00",
+      "summary": "38% of bosses plan to hire fewer grads this year. This ex-Google exec is doing the opposite—hiring Gen Z with zero experience or degree required"
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Supermicro soared because of $4 trillion Nvidia—but Jensen Huang can walk away any time he wants",
+      "url": "https://fortune.com/2026/04/06/supermicro-nvidia-jensen-huang-charles-liang-wally-liaw/",
+      "published_at": "2026-04-06T07:02:00+00:00",
+      "summary": "Nvidia giving Supermicro the cold shoulder on GPUs could have a “devastating impact” on the hardware manufacturer, according to Bernstein analysts."
     },
     {
       "source": "VentureBeat",
@@ -130,6 +146,22 @@
       "url": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
       "published_at": "2026-04-05T18:06:13+00:00",
       "summary": "<p>The age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. </p><p>More recently, fears of reaching artificial general intelligence (AGI)"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "AI is changing how small online sellers decide what to make",
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "published_at": "2026-04-06T11:00:00+00:00",
+      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
+      "url": "https://36kr.com/p/3755161993675523?f=rss",
+      "published_at": null,
+      "summary": "<p>4月2日，荣耀与京东签订战略合作协议，正式建立全方位战略合作伙伴关系，双方将围绕产品共创、用户共营、生态共享三大核心领域，构建全面覆盖、深度融合、价值共生的新型合作体系，致力于实现三年累计规模超1000亿元的全领域合作目标。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260406/v2_5376a1bb58d84271ab1d2eabe140beaa@517825446_oswg783548oswg865oswg562_img_png?x-oss-process=image/qua"
     },
     {
       "source": "36氪",
@@ -186,14 +218,6 @@
       "url": "https://36kr.com/p/3750714899415817?f=rss",
       "published_at": null,
       "summary": "<p>文｜兰杰</p>\n  <p>编辑｜刘士武</p>\n  <p>你觉得桃源是？A：逃避之所；B：向往之所。</p>\n  <p>这是《桃源深处有人家》中一个经典的选择，某种程度上也是这个游戏的侧写。在这款游戏中，聚集了追求生活感和希望慢下来的村民和玩家。</p>\n  <p>3月22日，模拟经营游戏《桃源深处有人家》（以下简称《桃源》）迎来了它上线以来的第三个生日。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260403/v2_02befbc3955d4b3da3652bde0d1f7d9"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "泡泡玛特，风光不再？",
-      "url": "https://36kr.com/p/3750711532569350?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>2025年，泡泡玛特已经成长为一个庞然大物。</p>\n  <p>3月25日，泡泡玛特公布了2025年财报，收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。其中，海外市场成为拉动增长的主力，收入占比超四成。</p>\n  <p>这是一份足够亮眼的财报成绩，但资本市场却不买帐。财报发布当日开盘后，泡泡玛特的股价一度跌超20%。</p>\n  <p>3月26日，泡泡玛特发布公告称，将斥资5.99亿港元回购394万股股份，每股回购价区间为148.4-157.8港元。截至当日收盘，泡泡玛特每股报价150."
     }
   ]
 }

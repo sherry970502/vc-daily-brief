@@ -1,8 +1,24 @@
 {
-  "updated_at": "2026-04-06T04:11:18.075804+00:00",
+  "updated_at": "2026-04-06T12:24:45.766222+00:00",
   "period_hours": 24,
-  "tweet_count": 42,
+  "tweet_count": 43,
   "tweets": [
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-06T09:25:51.000Z",
+      "text": "I'm going to be speaking in Stockholm on April 29: https://t.co/mnjAkCaRsr",
+      "url": "https://x.com/paulg/status/2041084965564363021"
+    },
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-06T04:41:21.000Z",
+      "text": "I know it's meant to seem an annoying habit, but I'd like it if I had a friend who was constantly teaching me random facts like Sheldon Cooper does.",
+      "url": "https://x.com/paulg/status/2041013367662669842"
+    },
     {
       "account": "@paulg",
       "name": "Paul Graham",
@@ -10,6 +26,22 @@
       "created_at": "2026-04-05T12:25:49.000Z",
       "text": "Avoid venture debt. https://t.co/Z2qrWy19Sb",
       "url": "https://x.com/paulg/status/2040767867122254194"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-06T08:54:31.000Z",
+      "text": "Yep! https://t.co/DdzTzLhn1A",
+      "url": "https://x.com/pmarca/status/2041077079933129130"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-06T08:28:09.000Z",
+      "text": "End of an era. https://t.co/4xQfUel3LC",
+      "url": "https://x.com/pmarca/status/2041070442442854849"
     },
     {
       "account": "@pmarca",
@@ -34,22 +66,6 @@
       "created_at": "2026-04-05T22:39:57.000Z",
       "text": "I'm calling it. AGI is already here – it's just not evenly distributed yet.",
       "url": "https://x.com/pmarca/status/2040922415551959338"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-05T22:38:07.000Z",
-      "text": "And as always, decline is a choice. https://t.co/L8226pz3Q0",
-      "url": "https://x.com/pmarca/status/2040921955361231328"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-05T22:37:56.000Z",
-      "text": "Compare/contrast developed nations that rapidly adopt tech/AI (USA) vs ones who don't (...you know). Rapid tech/AI adoption = jobs boom. Delayed tech/AI adoption = decline. https://t.co/ABhcG60i4L",
-      "url": "https://x.com/pmarca/status/2040921910348009926"
     },
     {
       "account": "@chamath",
@@ -143,6 +159,22 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-06T09:13:33.000Z",
+      "text": "💯 https://t.co/jcD2cO83Zl",
+      "url": "https://x.com/elonmusk/status/2041081867227828594"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-06T08:41:25.000Z",
+      "text": "Incentives drive behavior https://t.co/HHyxf4DWHC",
+      "url": "https://x.com/elonmusk/status/2041073780752359531"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
       "created_at": "2026-04-06T03:43:28.000Z",
       "text": "Incentives drive outcomes https://t.co/591w83eYjo",
       "url": "https://x.com/elonmusk/status/2040998798592540961"
@@ -164,20 +196,28 @@
       "url": "https://x.com/elonmusk/status/2040984066917548450"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-06T01:29:54.000Z",
-      "text": "💯 https://t.co/luQp59daDi",
-      "url": "https://x.com/elonmusk/status/2040965188925657434"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-06T08:03:53.000Z",
+      "text": "Many such cases https://t.co/oA7fJ3hhqI",
+      "url": "https://x.com/garrytan/status/2041064337322942944"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-06T01:13:14.000Z",
-      "text": "True https://t.co/GBW54gAXOQ",
-      "url": "https://x.com/elonmusk/status/2040960992792936525"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-06T08:03:37.000Z",
+      "text": "/cso in GStack is no replacement for a penetration test but it will help https://t.co/NGBHVsIIUG",
+      "url": "https://x.com/garrytan/status/2041064270704914445"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-06T08:02:27.000Z",
+      "text": "Many such cases https://t.co/ib8XVROeyM",
+      "url": "https://x.com/garrytan/status/2041063973731365116"
     },
     {
       "account": "@garrytan",
@@ -194,30 +234,6 @@
       "created_at": "2026-04-05T20:37:45.000Z",
       "text": "Golden age of open source is here https://t.co/RX5H5gDcO1",
       "url": "https://x.com/garrytan/status/2040891664617848993"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-05T20:26:57.000Z",
-      "text": "Legalize self driving cars https://t.co/WhLvkxxl07",
-      "url": "https://x.com/garrytan/status/2040888948952912243"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-05T20:25:57.000Z",
-      "text": "Probably the best way to catch up to what is really going on is listen to the newest @steipete @lexfridman interview \n\nIt’s a perfect encapsulation of the extreme edge of what is possible now in codegen \n\nJust in time smart personal software is here, just not evenly distributed! https://t.co/ZmOl58Aiq8",
-      "url": "https://x.com/garrytan/status/2040888695952380232"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-05T18:15:42.000Z",
-      "text": "One of the reasons why I can move much quicker is that my GStack skills are custom built for me and the stuff I need. It helps me design, think about users, and make the right choices faster. \n\nI'm halfway through planning GBrain v1 and /plan-devex-review is asking the right q's https://t.co/tf7sX2J4d1",
-      "url": "https://x.com/garrytan/status/2040855917617705185"
     },
     {
       "account": "@andrewchen",
@@ -284,14 +300,6 @@
       "url": "https://x.com/gregisenberg/status/2040832012882268351"
     },
     {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
-      "created_at": "2026-04-05T10:59:39.000Z",
-      "text": "Obsidian is a $350M company for a note taking app built by 3 engineers working remotely \n\nNo other time in history was something like this possible \n\nWhat a wonderful time to be building a company https://t.co/VwCG9daKlG",
-      "url": "https://x.com/gregisenberg/status/2040746181559501302"
-    },
-    {
       "account": "@venturetwins",
       "name": "Venture Twins",
       "org": "Angel",
@@ -316,20 +324,20 @@
       "url": "https://x.com/venturetwins/status/2040825692544500159"
     },
     {
-      "account": "@rrhoover",
-      "name": "Ryan Hoover",
-      "org": "Weekend Fund",
-      "created_at": "2026-04-05T20:50:12.000Z",
-      "text": "Listen to this Bully with the old Kanye and tell me AI music is lame\n\n(by @spectre0799) https://t.co/y7fAp9fc0o",
-      "url": "https://x.com/rrhoover/status/2040894797259452556"
-    },
-    {
       "account": "@nmasc_",
       "name": "Nnamdi Madu",
       "org": "Lightspeed",
       "created_at": "2026-04-05T18:23:27.000Z",
       "text": "Happy Easter to all ♥️🙏🏾",
       "url": "https://x.com/nmasc_/status/2040857868887548215"
+    },
+    {
+      "account": "@hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "created_at": "2026-04-06T05:33:49.000Z",
+      "text": "What happens when an AI dumps you?",
+      "url": "https://x.com/hnshah/status/2041026572355043703"
     },
     {
       "account": "@hnshah",

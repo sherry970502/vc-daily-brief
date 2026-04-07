@@ -1,63 +1,71 @@
 {
-  "updated_at": "2026-04-06T12:25:13.366355+00:00",
+  "updated_at": "2026-04-07T03:53:07.121792+00:00",
   "period_hours": 24,
-  "article_count": 27,
+  "article_count": 30,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun",
-      "url": "https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/",
-      "published_at": "2026-04-06T07:00:00+00:00",
-      "summary": "The Xiaomi 17 Ultra gives you a ton of options to play around with images, including preset filters and hardware add-ons."
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "published_at": "2026-04-06T21:54:26+00:00",
+      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
-      "url": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-      "published_at": "2026-04-05T19:36:03+00:00",
-      "summary": "A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S. would confirm the rescue of Air Force service members shot down over Iran."
+      "title": "Gas prices aren’t the only factor fueling used EV sales",
+      "url": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
+      "published_at": "2026-04-06T21:15:09+00:00",
+      "summary": "The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "published_at": "2026-04-05T18:51:37+00:00",
-      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service."
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "published_at": "2026-04-06T18:54:33+00:00",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "As people look for ways to make new friends, here are the apps promising to help",
-      "url": "https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "published_at": "2026-04-05T18:01:37+00:00",
-      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
+      "title": "Netflix is expanding into kids’ games with a new stand-alone app",
+      "url": "https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/",
+      "published_at": "2026-04-06T18:21:49+00:00",
+      "summary": "Netflix says the app gives children access to an \"ever-growing\" library of games for kids."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: ‘A stunning lack of transparency’",
-      "url": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
-      "published_at": "2026-04-05T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. T"
+      "title": "Why safety regulators closed their investigation into Tesla’s remote parking feature",
+      "url": "https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/",
+      "published_at": "2026-04-06T18:17:23+00:00",
+      "summary": "The NHTSA closed its investigation into Tesla's \"Actually Smart Summon\" feature, saying that only a fraction of cases resulted in an incident and that no incidents resulted in injury. Tesla has also issued a number of software updates."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
-      "published_at": "2026-04-05T15:40:58+00:00",
-      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space."
+      "title": "Iran threatens ‘Stargate’ AI data centers",
+      "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "published_at": "2026-04-06T18:06:28+00:00",
+      "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "published_at": "2026-04-05T14:00:00+00:00",
-      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment."
+      "title": "Apple moves to take its App Store fight back to the Supreme Court",
+      "url": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
+      "published_at": "2026-04-06T17:38:05+00:00",
+      "summary": "Apple plans to ask the Supreme Court to review its App Store fight with Epic Games, as it challenges a ruling limiting its ability to charge fees on external payments."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Watch this video of how a job interviewer exposes a North Korean fake IT worker",
+      "url": "https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/",
+      "published_at": "2026-04-06T17:00:25+00:00",
+      "summary": "An apparent North Korean worker was caught visibly stumped during a remote job interview when asked to insult the country's leader."
     },
     {
       "source": "Crunchbase News",
@@ -70,82 +78,98 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Robinhood Ventures has rebounded 30% since its lackluster debut. Can the new private markets fund now withstand the mega IPOs?",
-      "url": "https://fortune.com/2026/04/06/robinhood-ventures-mega-ipo-era-sarah-pinto/",
-      "published_at": "2026-04-06T11:52:56+00:00",
-      "summary": "Shareholders in private companies are holding their breath as SpaceX, OpenAI, and Anthropic look to make big splashes in the public markets."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "A quantum threat to Bitcoin has some asking the unthinkable: Is it time to freeze old wallets belonging to Satoshi Nakamoto?",
-      "url": "https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/",
-      "published_at": "2026-04-06T11:42:15+00:00",
-      "summary": "A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The real impact of AI on SaaS isn’t what investors think",
-      "url": "https://fortune.com/2026/04/06/the-real-impact-of-ai-on-saas-isnt-what-investors-think/",
-      "published_at": "2026-04-06T11:11:39+00:00",
-      "summary": "Lower costs and easier coding could fuel a surge in new software—not the end of it."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "What the Nike CEO’s remarks reveal about rallying employees through turnaround fatigue",
-      "url": "https://fortune.com/article/nike-ceo-elliott-hill-remarks-turnaround-tired/",
-      "published_at": "2026-04-06T10:46:16+00:00",
-      "summary": "AI readiness has become the new filter for the next generation of CEOs."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Why DOGE’s legacy is hard to measure",
-      "url": "https://fortune.com/2026/04/06/doge-legacy-irs-national-security-job-cuts-trump-administration/",
-      "published_at": "2026-04-06T10:29:12+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "AI is about to send millions to ‘professional identity purgatory.’ Here’s what I discovered after my 30 year career crashed to a halt",
-      "url": "https://fortune.com/2026/04/06/ai-job-loss-layoffs-professional-purgatory/",
-      "published_at": "2026-04-06T08:00:00+00:00",
-      "summary": "For high achievers, professional identity isn't just what you do—it's who you are. AI disruption is about to test that in ways most of us aren't prepared for."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "While other CEOs freeze entry-level roles, this AI founder is hiring Gen Z with zero experience",
-      "url": "https://fortune.com/2026/04/06/while-other-ceos-freeze-entry-level-roles-this-ai-founder-is-hiring-gen-z-with-zero-experience/",
-      "published_at": "2026-04-06T07:08:00+00:00",
-      "summary": "38% of bosses plan to hire fewer grads this year. This ex-Google exec is doing the opposite—hiring Gen Z with zero experience or degree required"
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Supermicro soared because of $4 trillion Nvidia—but Jensen Huang can walk away any time he wants",
+      "title": "Supermicro owes its rapid rise to $4 trillion Nvidia—but China smuggling allegations and a high-profile arrest could blow up the partnership",
       "url": "https://fortune.com/2026/04/06/supermicro-nvidia-jensen-huang-charles-liang-wally-liaw/",
       "published_at": "2026-04-06T07:02:00+00:00",
-      "summary": "Nvidia giving Supermicro the cold shoulder on GPUs could have a “devastating impact” on the hardware manufacturer, according to Bernstein analysts."
+      "summary": "Nvidia giving Supermicro the cold shoulder on GPUs would gut the hardware manufacturer’s sales."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’",
+      "url": "https://fortune.com/2026/04/06/sam-altman-says-ai-superintelligence-is-so-big-that-we-need-a-new-deal-critics-say-openais-policy-ideas-are-a-cover-for-regulatory-nihilism/",
+      "published_at": "2026-04-06T21:27:16+00:00",
+      "summary": "OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "‘No one’s raising their hand’: Japan’s labor crisis is making the case for robots taking the jobs you don’t want",
+      "url": "https://fortune.com/2026/04/06/japan-labor-shortage-robots-ai-robotics-humanoid/",
+      "published_at": "2026-04-06T21:04:55+00:00",
+      "summary": "Japan is looking to become the dominant source of robotics by 2040, expedited by an aging population and a growing need for labor."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Associated Press starts offering buyouts to newspaper journalists amid wider AI transformation",
+      "url": "https://fortune.com/2026/04/06/associated-press-starts-offering-buyouts-to-newspaper-journalists-amid-wider-ai-transformation/",
+      "published_at": "2026-04-06T21:29:48+00:00",
+      "summary": "The News Media Guild, the union that represents AP journalists, said more than 120 staff members received buyout offers on Monday."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Goldman just looked at 40 years of data on the ‘scarring’ effects of technological disruption and finds Gen Z isn’t the most at risk",
+      "url": "https://fortune.com/2026/04/06/goldman-job-displacement-40-years-of-data-scarring-gen-z/",
+      "published_at": "2026-04-06T19:58:44+00:00",
+      "summary": "“Over the 10 years following a job loss, real earnings for technology-displaced workers grow nearly 10 percentage points less,” Goldman economists found."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "A $400 million ballroom was just the beginning. Now, Trump plans to spend $174 million more on renovations",
+      "url": "https://fortune.com/2026/04/06/trump-white-house-ballroom-spending-more-renovation-2026/",
+      "published_at": "2026-04-06T20:18:24+00:00",
+      "summary": "Nearly all of the funding comes from donors, the White House said."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Sam Altman’s big pitch to fix the big AI mess sounds like Jamie Dimon’s: a 4-day workweek and a big new tax on rich people like him",
+      "url": "https://fortune.com/2026/04/06/sam-altmans-capital-gains-taxes-4-day-workweek/",
+      "published_at": "2026-04-06T21:14:16+00:00",
+      "summary": "OpenAI Monday released a paper outlining policy proposals to regulate and tax corporate income from AI."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Trump is seeking the biggest defense budget surge in 75 years as the Pentagon stays committed to ‘exquisite’ weapons",
+      "url": "https://fortune.com/2026/04/06/trump-defense-budget-increase-pentagon-exquisite-weapons-procurement/",
+      "published_at": "2026-04-06T19:51:29+00:00",
+      "summary": "“A global security environment that is less reliant on norms and more reliant on force continues to put upward pressure on defense spending.”"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "OCSF explained: The shared data language security teams have been missing",
-      "url": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
-      "published_at": "2026-04-05T18:07:41+00:00",
-      "summary": "<p>The security industry has spent the last year talking about models, copilots, and agents, but a quieter shift is happening one layer below all of that: Vendors are lining up around a shared way to describe security data. The Open Cybersecurity Schema Framework<i> (</i>OCSF), is emerging as one of"
+      "title": "How MassMutual and Mass General Brigham turned AI pilot sprawl into production results",
+      "url": "https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into",
+      "published_at": "2026-04-06T16:00:00+00:00",
+      "summary": "<p>Enterprise AI programs rarely fail because of bad ideas. More often, they get stuck in ungoverned pilot mode and never reach production. At a recent VentureBeat event, technology leaders from MassMutual and Mass General Brigham explained how they avoided that trap — and what the results look like"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
-      "url": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
-      "published_at": "2026-04-05T18:06:13+00:00",
-      "summary": "<p>The age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. </p><p>More recently, fears of reaching artificial general intelligence (AGI)"
+      "title": "AI agents that automatically prevent, detect and fix software issues are here as NeuBird AI launches Falcon, FalconClaw",
+      "url": "https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here",
+      "published_at": "2026-04-06T15:26:43+00:00",
+      "summary": "<p>The mantra of the modern tech industry was arguably coined by Facebook (before it became Meta): &quot;move fast and break things.&quot; </p><p>But as enterprise infrastructure has shifted into a dizzying maze of hybrid clouds, microservices, and ephemeral compute clusters, the &quot;breaking&quot"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Closing the data security maturity gap: Embedding protection into enterprise workflows",
+      "url": "https://venturebeat.com/security/closing-the-data-security-maturity-gap-embedding-protection-into-enterprise",
+      "published_at": "2026-04-06T04:00:00+00:00",
+      "summary": "<p><i>Presented by Capital One </i></p><hr /><p>Data security remains one of the least mature domains in enterprise cybersecurity. According to <a href=\"https://www.ibm.com/reports/data-breach\">IBM</a>, 35% of breaches in 2025 involved unmanaged data source or “shadow data.” This reveals a systemic"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "published_at": "2026-04-06T16:33:35+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, respo"
     },
     {
       "source": "MIT Tech Review",
@@ -158,10 +182,42 @@
     {
       "source": "36氪",
       "lang": "zh",
+      "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
+      "url": "https://36kr.com/p/3750675963904513?f=rss",
+      "published_at": null,
+      "summary": "<p>36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。&nbsp;</p>\n  <p>成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让&nbsp;AI&nbsp;具备类似人类的\"情节记忆\"能力，从而在物理世界实现更精准的感知、决策与行动。创始人兼CEO温德亮向 36 氪透露红熊AI预计于2027年2-3季度向"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 领跑全彩AR微显示屏产品化落地，赛富乐斯完成3亿元C轮融资",
+      "url": "https://36kr.com/p/3756111263384071?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，AR显示技术企业——赛富乐斯近日已完成3亿元C轮融资。本轮投资方包括西安西高投繁星投资基金、无锡市梁溪科创产业投资二期基金、安徽金安产业引导基金、上海吉六零山海松金创业投资基金、西安财金龙门成长股权投资合伙企业、西安市人才发展基金等多家机构。资金将主要用于加速AR用全彩微显示屏的量产交付。</p>\n  <p>赛富乐斯成立于2017年，是一家从耶鲁大学实验室走出的光电半导体企业。公司基于多项原创技术，聚焦Micro-LED显示赛道，构建了覆盖AR微显示与XR大屏两大场景的产品矩阵，并持续推进规模商业化。</p>\n  <"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
+      "url": "https://36kr.com/p/3754821568578050?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>26岁那一年，朱圣杰以2亿美元的价格，卖掉了第二家创业公司。</p>\n  <p>那个夏天，朱圣杰给自己放了个长假，开始漫无目的地环游世界，在不同纬度的天空和深海跳伞潜水。</p>\n  <p>毫无意外地，沉浸了大半年后，朱圣杰感到了一种空虚感。他必须思考一个问题：什么才是自己足以投入一生的事？</p>\n  <p>过去20多年，朱圣杰的生活顺利到让人羡慕。他出生在上海，从6岁第一次接触乐高Mindstorms开始，朱圣杰就对机器人着了迷。13、14岁时，他连续两年斩获乐高青少年世界机器人大赛冠军。14岁那年赴美留学，一路在机器人方"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
+      "url": "https://36kr.com/p/3755994793280000?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>曹操墓前摆满布洛芬，景区工作人员回应</li>\n   <li>胖东来再回应“鸡蛋被检出角黄素”</li>\n   <li>张雪机车创始人深夜回应“一个子儿都没有”言论</li>\n   <li>2026清明档电影票房已破2.8亿元</li>\n   <li>沙特：将原油升水上调至纪录高位</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>白宫回应特朗普病重住院</strong></p>\n  <p>当地时间4月4日，一则关于特朗普病重住院的消息迅速引爆网络。美国前参议员沃克·米特在社交媒体X上发文，表"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
       "title": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
       "url": "https://36kr.com/p/3755161993675523?f=rss",
       "published_at": null,
-      "summary": "<p>4月2日，荣耀与京东签订战略合作协议，正式建立全方位战略合作伙伴关系，双方将围绕产品共创、用户共营、生态共享三大核心领域，构建全面覆盖、深度融合、价值共生的新型合作体系，致力于实现三年累计规模超1000亿元的全领域合作目标。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260406/v2_5376a1bb58d84271ab1d2eabe140beaa@517825446_oswg783548oswg865oswg562_img_png?x-oss-process=image/qua"
+      "summary": "<p>4月2日，荣耀与京东签订���略合作协议，正式建立全方位战略合作伙伴关系，双方将围绕产品共创、用户共营、生态共享三大核心领域，构建全面覆盖、深度融合、价值共生的新型合作体系，致力于实现三年累计规模超1000亿元的全领域合作目标。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260406/v2_5376a1bb58d84271ab1d2eabe140beaa@517825446_oswg783548oswg865oswg562_img_png?x-oss-process=image/q"
     },
     {
       "source": "36氪",
@@ -186,38 +242,6 @@
       "url": "https://36kr.com/p/3752260051616512?f=rss",
       "published_at": null,
       "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。</p>\n  <p>AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体验创新，并以深圳海高特科技有限公司作为其研发与设计中枢，为全球视听领域用户提供更具沉浸感的解决方案，重塑家庭娱乐体验。</p>\n  <p>3"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "一群00后极客和这家机器人公司共处72小时",
-      "url": "https://36kr.com/p/3752115857638145?f=rss",
-      "published_at": null,
-      "summary": "<p>2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。</p>\n  <p>现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260404/v2_68d80d0b36034f468e6f334189b141c2@405798_oswg69418oswg1080oswg810"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
-      "url": "https://36kr.com/p/3751046517129735?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>神州数码（000034.SZ）2025年全年业绩报告近日发布。</p>\n  <p>财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。</p>\n  <p>具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级Agent中台进入商业化变现阶段；数云服务及软件业务营收35.6亿元，同比增长22"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "元气森林2044创造营背后：创新要年轻，研发要更重 | 最前线",
-      "url": "https://36kr.com/p/3749467949482759?f=rss",
-      "published_at": null,
-      "summary": "<p>作者 | 钟艺璇</p>\n  <p>3月30日，第二届“元气森林创造营2044”活动在咸宁举行。活动现场，十余位年轻的产品经理带着多款元气森林家族新产品上台亮相，分享了各自打造新品的初心与研发历程。</p>\n  <p>“创造营2044”萌芽于2024年元气森林经销商大会上“20年后再相会”的承诺，是元气森林给年轻人舞台，用长期主义回报用户信任的具体实践。</p>\n  <p>开幕式发言时，元气森林创始人唐彬森提到，元气森林许多产品，一开始都来源于产品经理简单的想法。“<strong>世界上很多伟大的东西，开始的时候并没有外界想象的那么伟大，一开始时候只是一些简单粗糙的想法。创造营2044不"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "一款运营三年的模拟经营游戏，是如何活力依旧的？",
-      "url": "https://36kr.com/p/3750714899415817?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜兰杰</p>\n  <p>编辑｜刘士武</p>\n  <p>你觉得桃源是？A：逃避之所；B：向往之所。</p>\n  <p>这是《桃源深处有人家》中一个经典的选择，某种程度上也是这个游戏的侧写。在这款游戏中，聚集了追求生活感和希望慢下来的村民和玩家。</p>\n  <p>3月22日，模拟经营游戏《桃源深处有人家》（以下简称《桃源》）迎来了它上线以来的第三个生日。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260403/v2_02befbc3955d4b3da3652bde0d1f7d9"
     }
   ]
 }

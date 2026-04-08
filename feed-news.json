@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-04-08T03:55:42.274412+00:00",
+  "updated_at": "2026-04-08T15:01:01.855940+00:00",
   "period_hours": 24,
-  "article_count": 31,
+  "article_count": 32,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "published_at": "2026-04-08T15:00:00+00:00",
+      "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "As YouTube grows on TV, it eyes more interactive video across formats",
+      "url": "https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/",
+      "published_at": "2026-04-08T14:03:04+00:00",
+      "summary": "YouTube's hiring across roles, partnerships, and a Bengaluru hub shows how it is building out its TV strategy."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "published_at": "2026-04-08T14:00:00+00:00",
+      "summary": "Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register here."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+      "published_at": "2026-04-08T13:00:00+00:00",
+      "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "X is rolling out automatic translation and photo editing powered by Grok",
+      "url": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/",
+      "published_at": "2026-04-08T12:06:22+00:00",
+      "summary": "New automatic translations and photo editing on X are powered by the company's flagship AI model."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "How nuclear batteries could speed the race to fusion power",
+      "url": "https://techcrunch.com/2026/04/08/how-nuclear-batteries-could-speed-the-race-to-fusion-power/",
+      "published_at": "2026-04-08T11:30:00+00:00",
+      "summary": "Avalanche Energy is working on an DARPA project to build a new class of materials capable of turning damaging radiation into electricity."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "published_at": "2026-04-08T05:40:19+00:00",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -12,100 +68,60 @@
       "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users."
     },
     {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
-      "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-      "published_at": "2026-04-07T21:24:54+00:00",
-      "summary": "Eclipse will put some of that money towards incubating, or building startups."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
-      "url": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
-      "published_at": "2026-04-07T19:59:06+00:00",
-      "summary": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
-      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-      "published_at": "2026-04-07T18:46:55+00:00",
-      "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Intel signs on to Elon Musk’s Terafab chips project",
-      "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-      "published_at": "2026-04-07T18:10:01+00:00",
-      "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-      "published_at": "2026-04-07T18:00:00+00:00",
-      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Apple’s foldable iPhone is on track to launch in September, report says",
-      "url": "https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/",
-      "published_at": "2026-04-07T17:47:43+00:00",
-      "summary": "The news follows a report from Nikkei Asia on Tuesday that raised concerns the company’s foldable iPhone could be delayed due to challenges during the phone’s engineering test phase."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Russian government hackers broke into thousands of home routers to steal passwords",
-      "url": "https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/",
-      "published_at": "2026-04-07T17:01:41+00:00",
-      "summary": "Fancy Bear, also known as APT28, has taken over thousands of residential home routers to steal passwords and authentication tokens in a wide-ranging espionage operation."
-    },
-    {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "5 Interesting Startup Deals You May Have Missed: A Credit Card Backed By Mineral Rights, Flying Ferries, And A Foundation AI Model For Plants",
-      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-mineral-rights-flying-ferry-ai-clean-tech/",
-      "published_at": "2026-04-07T11:00:35+00:00",
-      "summary": "In a quarter when nearly two-thirds of global venture capital went to just four companies, it’s easy to lose track of the many other companies getting funding to tackle interesting problems. We spotted five companies in just the past month working on issues from cleaner ferries and trains to foundat"
+      "title": "Most Active And Highest-Spending Startup Investors Diverged In Q1",
+      "url": "https://news.crunchbase.com/venture/data-most-active-highest-spending-startup-investors-q1-2026/",
+      "published_at": "2026-04-08T11:00:16+00:00",
+      "summary": "The investors backing the highest number of startup rounds in a record-setting Q1 were mostly not the ones writing the biggest checks. And the ones funding the largest deals were not the most prolific dealmakers. To see who ranked high for deal counts and totals, we looked at active investors across"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Bill Ackman’s $64 billion Universal Music play is part of his strategy to become the next Warren Buffett",
-      "url": "https://fortune.com/2026/04/07/bill-ackman-universal-music-play-warren-buffett-strategy/",
-      "published_at": "2026-04-07T19:25:28+00:00",
-      "summary": "Ackman, a self-described Buffett “devotee,” is following his idol’s playbook to access “permanent capital” by trying to jointly list his hedge fund, Pershing Square Capital, and Universal Music Group."
+      "title": "Who owns ideas in the AI age?",
+      "url": "https://fortune.com/2026/04/08/hachette-ceo-david-shelley-publishing-google-copyright-lawsuit-ai-llm/",
+      "published_at": "2026-04-08T11:02:30+00:00",
+      "summary": "David Shelley, CEO of Hachette’s U.K. and U.S. operations, on taking on Big Tech, defending copyright, and why the future of human creativity is at stake."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump agrees 2-week ceasefire, says Iran has proposed a ‘workable’ 10-point peace plan",
-      "url": "https://fortune.com/2026/04/07/trump-agrees-2-week-ceasefire-says-iran-has-proposed-a-workable-10-point-peace-plan/",
-      "published_at": "2026-04-07T23:19:58+00:00",
-      "summary": "Since the war began on Feb. 28, Trump has repeatedly backed off of deadlines just before they expire."
+      "title": "Jamie Dimon warns of growing crypto competition in annual letter: ‘We need to roll out our own blockchain technology’",
+      "url": "https://fortune.com/2026/04/07/jamie-dimon-warns-growing-crypto-competition-jpmorgan-shareholder-letter-we-need-to-roll-out-blockchain-technology/",
+      "published_at": "2026-04-07T22:44:41+00:00",
+      "summary": "The CEO’s latest remarks reflect his evolving attitude towards crypto, and coincide with a unit of JPMorgan embracing Solana"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Supermicro launches internal probe after cofounder’s arrest on charges of $2.5 billion in chip smuggling",
-      "url": "https://fortune.com/2026/04/07/supermicro-launches-probe-arrest-nvidia-chip/",
-      "published_at": "2026-04-07T22:59:02+00:00",
-      "summary": "This is the Nvidia-allied server maker's third internal investigation since 2017."
+      "title": "Donald Trump Jr. says ‘the biggest names’ think Europe is a ‘disaster’ that needs to be fixed",
+      "url": "https://fortune.com/2026/04/08/donald-trump-jr-says-the-biggest-names-think-europe-is-a-disaster-that-needs-to-be-fixed/",
+      "published_at": "2026-04-08T13:37:36+00:00",
+      "summary": "“The biggest players, the biggest names in banking and finance, in tech and AI across the board” hold the same views, the president's oldest son said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "H&R Block wants to be more than a tax company. It wants to be your year-round financial advisor",
-      "url": "https://fortune.com/article/hr-block-tax-year-round-financial-adviser-fintech-innovation/",
-      "published_at": "2026-04-07T19:33:51+00:00",
-      "summary": "H&#038;R Block wants to play a bigger role in Americans’ financial lives."
+      "title": "Why Oracle’s new CFO Hilary Maxson is key to its AI ambitions",
+      "url": "https://fortune.com/2026/04/08/why-oracle-new-cfo-hilary-maxson-key-ai-ambitions/",
+      "published_at": "2026-04-08T12:53:07+00:00",
+      "summary": "Maxson joins the company a critical phase of AI and cloud infrastructure expansion."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "What do you do when your AI agent hallucinates with your money?",
+      "url": "https://fortune.com/2026/04/08/agent-hallucinations-protocol-money-financial-system-economy/",
+      "published_at": "2026-04-08T13:00:00+00:00",
+      "summary": "Researchers from Google DeepMind, Microsoft, Columbia University, and t54 Labs want to build a financial safety net around autonomous AI."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Current price of oil as of April 8, 2026",
+      "url": "https://fortune.com/article/price-of-oil-04-08-2026/",
+      "published_at": "2026-04-08T12:44:48+00:00",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why."
     },
     {
       "source": "VentureBeat",
@@ -166,26 +182,42 @@
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Desalination plants in the Middle East are increasingly vulnerable",
-      "url": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
-      "published_at": "2026-04-07T14:54:06+00:00",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water"
+      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+      "published_at": "2026-04-08T14:00:00+00:00",
+      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Enabling agent-first process redesign",
-      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-      "published_at": "2026-04-07T14:00:00+00:00",
-      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around age"
+      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+      "published_at": "2026-04-08T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable&#160; As the conflict in Iran has escalated, a crucial resource is under fire: the"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: AI’s impact on jobs, and data centres in space",
-      "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
-      "published_at": "2026-04-07T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually shed&#160;light on your job and AI&#160; Within Silicon Valley’s orbit, an AI-fueled&#160;jobs apocalyp"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
+      "url": "https://36kr.com/p/3756524566610437?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3758008298504967\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>三星电子中国业务陷重组传闻，重心转向半导体</strong></a></p>\n  <p>4月8日，有消息称，三星电子中国战略将进行调整，未来可能只保留手机和存储业务，重心转向存储等半导体业务。此外，三星电子在中国的家电业务不断收缩，今年下半年有可能变为代理制。截至发稿前，三星官方并未对上述消息做出正式回应。（第一财"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
+      "url": "https://36kr.com/p/3748018292802309?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜彭倩</p>\n  <p>编辑｜乔芊 杨轩</p>\n  <p>4月1日新财年伊始，由蒋凡统领的阿里巴巴中国电商事业群正在规划可以结合 AI 实现的增长点。</p>\n  <p>据36氪了解，淘天集团当下对 AI 的探索将聚焦在 AI to B 方向上，其核心 OKR 是商家侧的 AI 工具留存率以及 AI 带来的 GMV 增长。它的背景是进入2026年，&nbsp;Open Claw 引爆 AI Agent，阿里 CEO 吴泳铭提出阿里组建新的 Alibaba Token Hub（ATH&nbsp;）事业群，所有关联业务需要围绕 Token 进行商业化。</p>\n  <p>组织变动也随之"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "我们寻找迎风而立的人｜2026年「36Under36」 征集开始",
+      "url": "https://36kr.com/p/3757769438609920?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>出品｜36氪创投研究院</strong></p>\n  <p><strong>文｜罗婧、杜梦</strong></p>\n  <p>如何形容2026的创投行业？</p>\n  <p>「暗涌Waves」回望过去一年，试图找到最恰当的形容：当AI重新搭建产业底座，当硬科技成为底色，当全球化与本土创新彼此缠绕，我们已全然接受一级市场的新叙事、新世代。</p>\n  <p>从肖弘2016年的一场黑客松，到2026年的蝴蝶效应，我们深知总有人挺立在创业前线；当一位位科学家从实验室走向量产前线，我们坚信总有人在开辟前路。</p>\n  <p>这群人，有一个共同点：<strong>不被风口塑形，"
     },
     {
       "source": "36氪",
@@ -226,30 +258,6 @@
       "url": "https://36kr.com/p/3745098994876420?f=rss",
       "published_at": null,
       "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <p>天刚擦黑，上海新天地一处老校舍的灯就亮了，人群随着光涌进来。曾经是教室的空间被布置成不同的主题：陈列着《足球周刊》、挂满复古球衣或者摆着摊位。人群在楼上楼下反复流动，像在逛一个临时拼起来的跳蚤市场，而不是一场发布会。</p>\n  <p>但它确实是一场发布会。主角是阿迪达斯最新发布的世界杯国家队客场球衣——时隔36年，这些球衣的右襟上再次换回了三叶草标识，这确实让它们显得更时尚了。随后的秀场里，这些球衣被出色的设计师和搭配达人们带进日常穿搭的语境中，离“上街”只差了一步。</p>\n  <p>Superstar也被放在了更靠前的位置"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 钠电正极材料厂商完成数千万元融资，千吨级产能将进一步扩展",
-      "url": "https://36kr.com/p/3756486340199170?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，兴荣新源（厦门）科技有限公司（以下简称“兴荣新源”）近日完成了数千万元天使轮融资，由蓝图创投和厦门高新投共同投资，融资资金将主要用于研发投入及扩大产能。</p>\n  <p>兴荣新源成立于2022年，总部位于厦门市，致力于钠离子电池正极材料的研发、生产和销售，公司围绕复合磷酸铁钠（NFPP）技术路线，构建了系统化的材料设计与工艺能力。</p>\n  <p>兴荣新源的技术优势主要体现在材料设计与工艺创新上，公司采用独有的复合碳包覆技术，显著提升了NFPP材料的电子导电性；通"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "早期项目 | 前苹果员工做了只AI“肩上宠物”，奇绩创坛孵化，要切年轻人潮玩市场",
-      "url": "https://36kr.com/p/3756484693967619?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>当下市面上的AI陪伴玩具大多围绕儿童与老年人设计，而Blinkko则从一开始就将目标人群指向年轻人。</p>\n  <p>相比通过语言交流建立陪伴关系，创始人沈彤欣却告诉硬氪：“我们不相信AI真的能陪伴人。”</p>\n  <p>基于这样的判断，这个获得奇绩创坛投资的早期团队，做出了一只“趴在肩上的宠物”。</p>\n  <p>如果只把它当作一个AI陪伴玩具，这个项目很容易被误解——它的核心不在于填补独处时的空白，而在于成为一种可以被带入真实场景的“社交信号”。</p>\n  <p>这"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
-      "url": "https://36kr.com/p/3750675963904513?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。&nbsp;</p>\n  <p>成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让&nbsp;AI&nbsp;具备类似人类的\"情节记忆\"能力，从而在物理世界实现更精准的感知、决策与行动。创始人兼CEO温德亮向 36 氪透露红熊AI预计于2027年2-3季度向"
     }
   ]
 }

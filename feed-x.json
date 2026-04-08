@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-04-08T03:55:14.153764+00:00",
+  "updated_at": "2026-04-08T15:00:35.952177+00:00",
   "period_hours": 24,
-  "tweet_count": 69,
+  "tweet_count": 66,
   "tweets": [
     {
       "account": "@paulg",
       "name": "Paul Graham",
       "org": "Y Combinator",
-      "created_at": "2026-04-07T04:02:47.000Z",
-      "text": "I'm also tired of people misrepresenting that quote about parachuting him into an island full of cannibals. I didn't mean anything sinister by it, just that he's an example of someone with \"toughness, adaptability, and determination\". See for yourself:\n\nhttps://t.co/Nnqdwrkffr",
-      "url": "https://x.com/paulg/status/2041366050693173393"
+      "created_at": "2026-04-08T09:36:49.000Z",
+      "text": "No one in our family can tell lemons from limes with their eyes closed. We all thought we could, but no one could.\n\nI bet all bartenders know this.",
+      "url": "https://x.com/paulg/status/2041812497410543910"
     },
     {
       "account": "@sama",
@@ -18,6 +18,14 @@
       "created_at": "2026-04-07T23:25:45.000Z",
       "text": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
       "url": "https://x.com/sama/status/2041658719839383945"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-08T09:20:02.000Z",
+      "text": "It will cost more than that, and it will still never happen. There is no chance. It is not possible. https://t.co/T4e7vZ3rUQ",
+      "url": "https://x.com/pmarca/status/2041808277504454684"
     },
     {
       "account": "@pmarca",
@@ -50,14 +58,6 @@
       "created_at": "2026-04-07T23:59:34.000Z",
       "text": "Every security engineer knows \"security through obscurity\" doesn't work. But that's how we've actually been running for the whole existence of computers, until now. AI can finally fix that.",
       "url": "https://x.com/pmarca/status/2041667227532062841"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-07T23:59:05.000Z",
-      "text": "Additional tiers include 2 x $75,000/year, 10 x $75,000/year, 1,000 x $350,000/year, etc. https://t.co/rkx9vkPCVz",
-      "url": "https://x.com/pmarca/status/2041667105976938609"
     },
     {
       "account": "@chamath",
@@ -132,6 +132,14 @@
       "url": "https://x.com/jason/status/2041541387699536337"
     },
     {
+      "account": "@sriramk",
+      "name": "Sriram Krishnan",
+      "org": "a16z",
+      "created_at": "2026-04-08T12:34:03.000Z",
+      "text": "it's a lot of fun to show all the Artemis II coverage (photos, interviews) to your kids. highly recommend.",
+      "url": "https://x.com/sriramk/status/2041857102235292090"
+    },
+    {
       "account": "@mwseibel",
       "name": "Michael Seibel",
       "org": "Y Combinator",
@@ -148,60 +156,68 @@
       "url": "https://x.com/mwseibel/status/2041575913914298865"
     },
     {
-      "account": "@mwseibel",
-      "name": "Michael Seibel",
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-08T06:20:41.000Z",
+      "text": "Yes https://t.co/lUhYotNxqA",
+      "url": "https://x.com/elonmusk/status/2041763142137737577"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-08T06:12:47.000Z",
+      "text": "lol https://t.co/MBnTx9RoTQ",
+      "url": "https://x.com/elonmusk/status/2041761154419380444"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-08T05:45:58.000Z",
+      "text": "SpaceXAI Colossus 2 now has 7 models in training:\n\n- Imagine V2\n- 2 variants of 1T\n- 2 variants of 1.5T\n- 6T\n- 10T\n\nSome catching up to do.",
+      "url": "https://x.com/elonmusk/status/2041754402239975479"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-08T05:42:11.000Z",
+      "text": "Funny pricing indeed https://t.co/W1yvlwfjJx",
+      "url": "https://x.com/elonmusk/status/2041753450170741214"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-08T05:22:52.000Z",
+      "text": "One day, we will be out there, among the stars https://t.co/idNvgG0y7I",
+      "url": "https://x.com/elonmusk/status/2041748590239084826"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-07T14:38:50.000Z",
-      "text": "People are hard to understand when you don’t know what motivates them.  Once you learn what motivates a person - you can fairly accurately predict their behaviors.",
-      "url": "https://x.com/mwseibel/status/2041526116889108756"
+      "created_at": "2026-04-08T14:59:30.000Z",
+      "text": "We are not cooked\n\nWe are the cooks https://t.co/3UxZsURHTP",
+      "url": "https://x.com/garrytan/status/2041893706710839781"
     },
     {
-      "account": "@eladgil",
-      "name": "Elad Gil",
-      "org": "Independent",
-      "created_at": "2026-04-07T13:46:00.000Z",
-      "text": "Full discussion w @sundarpichai &amp; @collision on @Google AI, capital allocation, data centers in space, &amp; the future 🔥 https://t.co/6IH5W5s8wt",
-      "url": "https://x.com/eladgil/status/2041512821121282055"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-08T14:04:44.000Z",
+      "text": "This is awesome! https://t.co/8ywDK6YIim",
+      "url": "https://x.com/garrytan/status/2041879921103139325"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-08T01:59:26.000Z",
-      "text": "FSD 14.3 release notes @Tesla_AI https://t.co/NTsrRwu1Nl",
-      "url": "https://x.com/elonmusk/status/2041697396808454517"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-07T21:44:02.000Z",
-      "text": "OpenAI’s Nonprofit to Get Any Damages From Lawsuit https://t.co/SVXdEVFCWD",
-      "url": "https://x.com/elonmusk/status/2041633121712603391"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-07T17:22:50.000Z",
-      "text": "Honored to work with Intel and Lip-Bu https://t.co/za52dwNIru",
-      "url": "https://x.com/elonmusk/status/2041567389637353488"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-07T17:18:52.000Z",
-      "text": "Looking forward to working with Intel on the Terafab! https://t.co/i8Eie90ru0",
-      "url": "https://x.com/elonmusk/status/2041566390738665769"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-07T07:31:21.000Z",
-      "text": "A fever dream https://t.co/J7c3kpxieK",
-      "url": "https://x.com/elonmusk/status/2041418536707563585"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-08T05:28:50.000Z",
+      "text": "Oh man Yahoo Tech... you got so close. You almost had it.\n\nBetter luck next time! https://t.co/yYmLHeQIOP",
+      "url": "https://x.com/garrytan/status/2041750093414731888"
     },
     {
       "account": "@garrytan",
@@ -218,30 +234,6 @@
       "created_at": "2026-04-07T23:03:32.000Z",
       "text": "We live in LISPy times for a specific reason: code is data and data is code again\n\nBut the weird thing? It’s Markdown.",
       "url": "https://x.com/garrytan/status/2041653129020936328"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-07T21:04:02.000Z",
-      "text": "At this rate my claw is going to become my personal 200 IQ Google Reader https://t.co/GwRw66gRpQ",
-      "url": "https://x.com/garrytan/status/2041623055060103433"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-07T20:58:58.000Z",
-      "text": "SFO approved Waymo — then buried it at the Rental Car Center. Meanwhile, Uber and Lyft run 800K trips/month from the main garage. Zero safety rationale. Pure incumbent protection.\n\nhttps://t.co/53a332crtg",
-      "url": "https://x.com/garrytan/status/2041621778787963174"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-07T20:55:44.000Z",
-      "text": "My god I am so psyched to have this https://t.co/ViDnvM6m7C",
-      "url": "https://x.com/garrytan/status/2041620965084594395"
     },
     {
       "account": "@andrewchen",
@@ -327,6 +319,14 @@
       "account": "@gregisenberg",
       "name": "Greg Isenberg",
       "org": "Late Checkout",
+      "created_at": "2026-04-08T13:06:14.000Z",
+      "text": "THE CLEAREST PATH TO A $10M+ SOFTWARE EXIT in 2 YEARS (with AI and agents)\n\nbuilding an agency right now is one of the most interesting business moves \n\nthe productized agency had its moment in 2022. it collapsed because scaling humans is a nightmare. inconsistent output, people",
+      "url": "https://x.com/gregisenberg/status/2041865199485936018"
+    },
+    {
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
       "created_at": "2026-04-08T00:26:26.000Z",
       "text": "i did some research why anthropic won't release their best AI model ever Claude Mythos to everyone just yet \n\ntldr; it's too good at hacking\n \nit escaped sandboxes, found zero-days in every major OS, and posted exploit logs on random public websites just because it could\n\nFYI https://t.co/tbclTCv3qR",
       "url": "https://x.com/gregisenberg/status/2041673990775726438"
@@ -383,6 +383,22 @@
       "account": "@tferriss",
       "name": "Tim Ferriss",
       "org": "Independent",
+      "created_at": "2026-04-08T13:41:10.000Z",
+      "text": "Listen to my full conversation with Michelle Khare: https://t.co/wmEsdBFUfQ",
+      "url": "https://x.com/tferriss/status/2041873990893859152"
+    },
+    {
+      "account": "@tferriss",
+      "name": "Tim Ferriss",
+      "org": "Independent",
+      "created_at": "2026-04-08T13:40:41.000Z",
+      "text": "How to write an exceptional cold email. \n\n@MichelleKhare https://t.co/TEyNcDD75j",
+      "url": "https://x.com/tferriss/status/2041873868348895653"
+    },
+    {
+      "account": "@tferriss",
+      "name": "Tim Ferriss",
+      "org": "Independent",
       "created_at": "2026-04-07T22:01:12.000Z",
       "text": "Links to everything discussed: https://t.co/wmEsdBFUfQ",
       "url": "https://x.com/tferriss/status/2041637440209711212"
@@ -402,14 +418,6 @@
       "created_at": "2026-04-07T22:01:10.000Z",
       "text": "NEW podcast episode is up! \n\nDaredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life\n\nDaredevil @MichelleKhare lives life to the extreme in Challenge https://t.co/ni4HYGK5jY",
       "url": "https://x.com/tferriss/status/2041637432731562333"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-04-07T14:14:00.000Z",
-      "text": "The common-sense rules of the “real world” are a fragile collection of socially reinforced illusions.",
-      "url": "https://x.com/tferriss/status/2041519865727451547"
     },
     {
       "account": "@nmasc_",
@@ -516,44 +524,12 @@
       "url": "https://x.com/ycombinator/status/2041564083590459518"
     },
     {
-      "account": "@ycombinator",
-      "name": "Y Combinator",
-      "org": "Y Combinator",
-      "created_at": "2026-04-07T14:30:00.000Z",
-      "text": "AICE Power builds sensors that detect energy waste in buildings and send real-time alerts when something is wrong.\n\nCongrats on the launch, @remi_bouteiller and Gregoire!\n\nhttps://t.co/HGRjytbuG7 https://t.co/YJe4qoeogj",
-      "url": "https://x.com/ycombinator/status/2041523894381920447"
-    },
-    {
       "account": "@lightspeedvp",
       "name": "Lightspeed Venture Partners",
       "org": "Lightspeed Venture Partners",
-      "created_at": "2026-04-07T13:58:50.000Z",
-      "text": "The accounting services industry has historically been 1) underserved by technology and 2) constrained by capacity, not demand. Founders @Arushj01, @PranavAPillai, and @vinaykasat_ saw this as an opportunity.\n\nThey brought together their backgrounds in private equity M&amp;A, https://t.co/z3vbIDQeMd",
-      "url": "https://x.com/lightspeedvp/status/2041516050123030946"
-    },
-    {
-      "account": "@lightspeedvp",
-      "name": "Lightspeed Venture Partners",
-      "org": "Lightspeed Venture Partners",
-      "created_at": "2026-04-07T13:13:07.000Z",
-      "text": "Going deeper on why we’re excited to back Modus here: https://t.co/zKCaBBtvOD",
-      "url": "https://x.com/lightspeedvp/status/2041504545126199751"
-    },
-    {
-      "account": "@lightspeedvp",
-      "name": "Lightspeed Venture Partners",
-      "org": "Lightspeed Venture Partners",
-      "created_at": "2026-04-07T13:13:07.000Z",
-      "text": "More on the story of Modus here: https://t.co/7zPuxaf8S6",
-      "url": "https://x.com/lightspeedvp/status/2041504543687454967"
-    },
-    {
-      "account": "@lightspeedvp",
-      "name": "Lightspeed Venture Partners",
-      "org": "Lightspeed Venture Partners",
-      "created_at": "2026-04-07T13:13:06.000Z",
-      "text": "Three college best friends, @Arushj01, @PranavAPillai, and @vinaykasat_, set out to rebuild systems that felt stuck. Years of collaboration turned into conviction, and from that conviction came @ModusAudit.\n\nWe’re excited to lead Modus’ $85M Seed &amp; Series A. Modus is rebuilding https://t.co/VPvv8TSRvr",
-      "url": "https://x.com/lightspeedvp/status/2041504541313466802"
+      "created_at": "2026-04-08T14:45:20.000Z",
+      "text": "Modus Audit cofounder @PranavAPillai on how they landed on “audit in a box in two weeks”:\n\n\"We worked backwards from real conversations with auditors—and from actually doing audits ourselves, start to finish.\"\n\n\"When you break it down—planning, fieldwork, risk assessment—you can https://t.co/Dj9ZTEQTl2 https://t.co/OsDyFLDzGw",
+      "url": "https://x.com/lightspeedvp/status/2041890139102965844"
     }
   ]
 }

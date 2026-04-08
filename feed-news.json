@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-04-07T12:44:27.799223+00:00",
+  "updated_at": "2026-04-08T03:55:42.274412+00:00",
   "period_hours": 24,
-  "article_count": 29,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hermeus raises $350M to build autonomous hypersonic fighters",
-      "url": "https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/",
-      "published_at": "2026-04-07T12:30:00+00:00",
-      "summary": "The defense aviation startup is coming off two successful flight demonstrations, and with the next one, it's aiming to go supersonic."
+      "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+      "published_at": "2026-04-07T21:35:02+00:00",
+      "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Spotify’s prompted playlist feature will now work for podcasts, too",
-      "url": "https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/",
-      "published_at": "2026-04-07T12:00:00+00:00",
-      "summary": "Spotify will now allow users to input natural language prompts to create podcast playlist."
+      "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+      "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "published_at": "2026-04-07T21:24:54+00:00",
+      "summary": "Eclipse will put some of that money towards incubating, or building startups."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-      "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-      "published_at": "2026-04-07T05:30:00+00:00",
-      "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation."
+      "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+      "url": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+      "published_at": "2026-04-07T19:59:06+00:00",
+      "summary": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI design platform Picsart launches a creator monetization program",
-      "url": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
-      "published_at": "2026-04-07T04:01:00+00:00",
-      "summary": "The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages."
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "published_at": "2026-04-07T18:46:55+00:00",
+      "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-      "published_at": "2026-04-06T21:54:26+00:00",
-      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks."
+      "title": "Intel signs on to Elon Musk’s Terafab chips project",
+      "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+      "published_at": "2026-04-07T18:10:01+00:00",
+      "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Gas prices aren’t the only factor fueling used EV sales",
-      "url": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
-      "published_at": "2026-04-06T21:15:09+00:00",
-      "summary": "The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction."
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "published_at": "2026-04-07T18:00:00+00:00",
+      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google quietly launched an AI dictation app that works offline",
-      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "published_at": "2026-04-06T18:54:33+00:00",
-      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
+      "title": "Apple’s foldable iPhone is on track to launch in September, report says",
+      "url": "https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/",
+      "published_at": "2026-04-07T17:47:43+00:00",
+      "summary": "The news follows a report from Nikkei Asia on Tuesday that raised concerns the company’s foldable iPhone could be delayed due to challenges during the phone’s engineering test phase."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Netflix is expanding into kids’ games with a new stand-alone app",
-      "url": "https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/",
-      "published_at": "2026-04-06T18:21:49+00:00",
-      "summary": "Netflix says the app gives children access to an \"ever-growing\" library of games for kids."
+      "title": "Russian government hackers broke into thousands of home routers to steal passwords",
+      "url": "https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/",
+      "published_at": "2026-04-07T17:01:41+00:00",
+      "summary": "Fancy Bear, also known as APT28, has taken over thousands of residential home routers to steal passwords and authentication tokens in a wide-ranging espionage operation."
     },
     {
       "source": "Crunchbase News",
@@ -78,82 +78,106 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI is moving fast. CFOs have a narrow window to shape its value",
-      "url": "https://fortune.com/2026/04/07/ai-moving-fast-cfo-have-narrow-window-shape-value/",
-      "published_at": "2026-04-07T12:36:21+00:00",
-      "summary": "At Fortune's Modern CFO dinner, a Stanford AI researcher talks about harnessing AI value."
+      "title": "Bill Ackman’s $64 billion Universal Music play is part of his strategy to become the next Warren Buffett",
+      "url": "https://fortune.com/2026/04/07/bill-ackman-universal-music-play-warren-buffett-strategy/",
+      "published_at": "2026-04-07T19:25:28+00:00",
+      "summary": "Ackman, a self-described Buffett “devotee,” is following his idol’s playbook to access “permanent capital” by trying to jointly list his hedge fund, Pershing Square Capital, and Universal Music Group."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran’s president says 14 million have offered to risk their lives just to stand up to Trump",
-      "url": "https://fortune.com/2026/04/07/irans-president-says-14-million-have-offered-to-risk-their-lives-just-to-stand-up-to-trump/",
-      "published_at": "2026-04-07T12:31:04+00:00",
-      "summary": "“Every bridge in Iran will be decimated by 12 o’clock tomorrow night,” Trump said. Power plants will be “burning, exploding and never to be used again.”"
+      "title": "Trump agrees 2-week ceasefire, says Iran has proposed a ‘workable’ 10-point peace plan",
+      "url": "https://fortune.com/2026/04/07/trump-agrees-2-week-ceasefire-says-iran-has-proposed-a-workable-10-point-peace-plan/",
+      "published_at": "2026-04-07T23:19:58+00:00",
+      "summary": "Since the war began on Feb. 28, Trump has repeatedly backed off of deadlines just before they expire."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI is transforming work—and talent strategy must keep up",
-      "url": "https://fortune.com/2026/04/07/ai-transformation-talent-strategy-chro-ibm-future-of-work/",
-      "published_at": "2026-04-07T12:30:00+00:00",
-      "summary": "In the AI era, CHROs will play a pivotal role in equipping organizations for success."
+      "title": "Supermicro launches internal probe after cofounder’s arrest on charges of $2.5 billion in chip smuggling",
+      "url": "https://fortune.com/2026/04/07/supermicro-launches-probe-arrest-nvidia-chip/",
+      "published_at": "2026-04-07T22:59:02+00:00",
+      "summary": "This is the Nvidia-allied server maker's third internal investigation since 2017."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "MacKenzie Scott rewrote the rules of philanthropy. Who will follow her lead?",
-      "url": "https://fortune.com/2026/04/07/mackenzie-scott-philanthropy-black-led-organizations-dei-funding-gap/",
-      "published_at": "2026-04-07T12:00:00+00:00",
-      "summary": "Diversity pledges have curdled into anti-DEI PR, while Black-led organizations receive less than 1% of philanthropic giving."
+      "title": "H&R Block wants to be more than a tax company. It wants to be your year-round financial advisor",
+      "url": "https://fortune.com/article/hr-block-tax-year-round-financial-adviser-fintech-innovation/",
+      "published_at": "2026-04-07T19:33:51+00:00",
+      "summary": "H&#038;R Block wants to play a bigger role in Americans’ financial lives."
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "Small businesses are ‘doing fine.’ That’s a problem for the U.S. Chamber of Commerce",
-      "url": "https://fortune.com/2026/04/07/small-business-iran-war-impact-drop-chamber-commerce-report/",
-      "published_at": "2026-04-07T12:00:00+00:00",
-      "summary": "Small business owners are feeling uneasy about the Iran war. They're doing just fine, but that's not good considering all of the tax incentives created to help them do much better."
+      "title": "LLM-referred traffic converts at 30-40% — and most enterprises aren't optimizing for it",
+      "url": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing",
+      "published_at": "2026-04-07T22:45:09+00:00",
+      "summary": "<p>For more than two decades, digital discovery has operated on a simple model: search, scan, click, decide. </p><p>That worked when humans were the ones doing the web searching; but with the advent of AI agents, the primary consumer of information is no longer always human.</p><p>This is giving ris"
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "Exclusive: Crypto hedge fund Split Capital winds down as its founder nabs new gig as an exec at stablecoin startup Plasma",
-      "url": "https://fortune.com/2026/04/07/split-capital-winds-down-zaheer-ebtikar-plasma-stablecoins/",
-      "published_at": "2026-04-07T12:00:00+00:00",
-      "summary": "Zaheer Ebtikar believes that crypto hedge funds are things of the past."
+      "title": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey’s AI bet",
+      "url": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
+      "published_at": "2026-04-07T22:14:30+00:00",
+      "summary": "<p><a href=\"https://block.xyz/\">Block</a> today unveiled <a href=\"https://squareup.com/us/en/software\">Managerbot</a>, a new AI agent embedded in the <a href=\"https://squareup.com/us/en\">Square platform</a> that proactively monitors a seller&#x27;s business, identifies emerging problems, and propose"
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "SpaceX, OpenAI, and Anthropic could reopen the IPO market—or drain it",
-      "url": "https://fortune.com/2026/04/07/spacex-openai-anthropic-reopen-ipo-market-crunchbase/",
-      "published_at": "2026-04-07T11:46:18+00:00",
-      "summary": "Startups are now split between legacy unicorns struggling to prove AI growth and new AI leaders that may be too early for public markets."
+      "title": "Amazon S3 Files gives AI agents a native file system workspace, ending the object-file split that breaks multi-agent pipelines",
+      "url": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the",
+      "published_at": "2026-04-07T21:36:00+00:00",
+      "summary": "<p>AI agents run on file systems using standard tools to navigate directories and read file paths. </p><p>The challenge, however, is that there is a lot of enterprise data in object storage systems, notably Amazon S3. Object stores serve data through API calls, not file paths. Bridging that gap has"
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "I just became CEO of one of education’s Big 3. Here’s why AI will never replace a great teacher",
-      "url": "https://fortune.com/2026/04/07/ai-education-publishing-big-3-mcgraw-hill-why-teaching-is-safe/",
-      "published_at": "2026-04-07T11:30:00+00:00",
-      "summary": "From Microsoft to Amazon to Google, I've watched tech hype cycles up close. The classroom is where AI finally meets its match—and that's a thrill."
+      "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing",
+      "url": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release",
+      "published_at": "2026-04-07T21:35:44+00:00",
+      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> on Tuesday announced <a href=\"https://www.anthropic.com/glasswing\">Project Glasswing</a>, a sweeping cybersecurity initiative that pairs an unreleased frontier AI model — Claude Mythos Preview — with a coalition of twelve major technology and fin"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT-5.4 on SWE-Bench Pro",
+      "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
+      "published_at": "2026-04-07T21:27:07+00:00",
+      "summary": "<p>Is China picking back up the open source AI baton? </p><p>Z.ai, also known as Zhupai AI, a Chinese AI startup best known for its powerful, open source GLM family of models, has <a href=\"https://z.ai/blog/glm-5.1\">unveiled GLM-5.1 today</a> under a <a href=\"https://huggingface.co/datasets/chooseal"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "How MassMutual and Mass General Brigham turned AI pilot sprawl into production results",
       "url": "https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into",
-      "published_at": "2026-04-06T16:00:00+00:00",
+      "published_at": "2026-04-07T18:06:19+00:00",
       "summary": "<p>Enterprise AI programs rarely fail because of bad ideas. More often, they get stuck in ungoverned pilot mode and never reach production. At a recent VentureBeat event, technology leaders from MassMutual and Mass General Brigham explained how they avoided that trap — and what the results look like"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "AI agents that automatically prevent, detect and fix software issues are here as NeuBird AI launches Falcon, FalconClaw",
-      "url": "https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here",
-      "published_at": "2026-04-06T15:26:43+00:00",
-      "summary": "<p>The mantra of the modern tech industry was arguably coined by Facebook (before it became Meta): &quot;move fast and break things.&quot; </p><p>But as enterprise infrastructure has shifted into a dizzying maze of hybrid clouds, microservices, and ephemeral compute clusters, the &quot;breaking&quot"
+      "title": "AI-RAN is redefining enterprise edge intelligence and autonomy",
+      "url": "https://venturebeat.com/infrastructure/ai-ran-is-redefining-enterprise-edge-intelligence-and-autonomy",
+      "published_at": "2026-04-07T15:05:07+00:00",
+      "summary": "<p><i>Presented by Booz Allen </i></p><hr /><p>AI-RAN, or artificial intelligence radio area networks, is a reimagining of what wireless infrastructure can do. Rather than treating the network as a passive conduit for data, AI-RAN turns it into an active computational layer. It&#x27;s a sensor, a co"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Desalination plants in the Middle East are increasingly vulnerable",
+      "url": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
+      "published_at": "2026-04-07T14:54:06+00:00",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Enabling agent-first process redesign",
+      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+      "published_at": "2026-04-07T14:00:00+00:00",
+      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around age"
     },
     {
       "source": "MIT Tech Review",
@@ -164,12 +188,28 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually shed&#160;light on your job and AI&#160; Within Silicon Valley’s orbit, an AI-fueled&#160;jobs apocalyp"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-      "published_at": "2026-04-06T16:33:35+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, respo"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
+      "url": "https://36kr.com/p/3757589543813893?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，苏州灵动佳芯科技有限公司（下称“灵动佳芯”）近期完成A轮融资，融资金额近亿元。本轮融资引入锦秋基金、中芯聚源、瑞丞投资、润璋创投等多家产业方与财务投资机构，慕石资本担任长期战略财务顾问。</p>\n  <p>灵动佳芯成立于2021年，是一家基于压电材料与半导体技术开发传感器解决方案的企业，应用场景覆盖智能机器人、智能穿戴、新能源与锂电池等多个领域。</p>\n  <p>创始核心团队均出身于国内电子科技大厂，拥有数十年管理、研发及量产经验。</p>\n  <p>在业务路径上，"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "产品观察 | 追觅入局智能床垫赛道，3个月公司估值10亿",
+      "url": "https://36kr.com/p/3757587705873158?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>中国每年向全球出口价值100亿的床垫，但很长一段时间，智能床垫行业的明星公司并不诞生于此地。</p>\n  <p>这个行业的明星创业者，是一个来自意大利小城费拉拉的业余运动员。2014年，他在纽约和妻子成立了一家智能床垫公司Eight Sleep，如今每年卖出5亿美元，估值达到15亿美元。</p>\n  <p>毫无意外，Eight Sleep的代工厂和研发伙伴都在珠三角。在看到Eight Sleep让人惊讶的销量后，中国公司终于冲入这个市场。</p>\n  <p>今年年初，追觅生态旗"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+      "url": "https://36kr.com/p/3757404054930182?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>海康威视回应辟谣“监控系统出现漏洞，300多人被带走”</li>\n   <li>郭艾伦否认被骗千万</li>\n   <li>日本餐饮巨头食其家创始人心梗去世</li>\n   <li>产业链人士：苹果首款折叠屏手机项目正常推进</li>\n   <li>宇树科技移动机器人新专利获授权</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>嫣然天使儿童医院发文感谢陈光标捐赠1000万</strong></p>\n  <p>4月7日，“北京嫣然天使儿童医院体检中心”官方账号发文感谢陈光标对嫣然医院的支持，并"
     },
     {
       "source": "36氪",
@@ -210,30 +250,6 @@
       "url": "https://36kr.com/p/3750675963904513?f=rss",
       "published_at": null,
       "summary": "<p>36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。&nbsp;</p>\n  <p>成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让&nbsp;AI&nbsp;具备类似人类的\"情节记忆\"能力，从而在物理世界实现更精准的感知、决策与行动。创始人兼CEO温德亮向 36 氪透露红熊AI预计于2027年2-3季度向"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 领跑全彩AR微显示屏产品化落地，赛富乐斯完成3亿元C轮融资",
-      "url": "https://36kr.com/p/3756111263384071?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，AR显示技术企业——赛富乐斯近日已完成3亿元C轮融资。本轮投资方包括西安西高投繁星投资基金、无锡市梁溪科创产业投资二期基金、安徽金安产业引导基金、上海吉六零山海松金创业投资基金、西安财金龙门成长股权投资合伙企业、西安市人才发展基金等多家机构。资金将主要用于加速AR用全彩微显示屏的量产交付。</p>\n  <p>赛富乐斯成立于2017年，是一家从耶鲁大学实验室走出的光电半导体��业。公司基于多项原创技术，聚焦Micro-LED显示赛道，构建了覆盖AR微显示与XR大屏两大场景的产品矩阵，并持续推进规模商业化。</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
-      "url": "https://36kr.com/p/3754821568578050?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>26岁那一年，朱圣杰以2亿美元的价格，卖掉了第二家创业公司。</p>\n  <p>那个夏天，朱圣杰给自己放了个长假，开始漫无目的地环游世界，在不同纬度的天空和深海跳伞潜水。</p>\n  <p>毫无意外地，沉浸了大半年后，朱圣杰感到了一种空虚感。他必须思考一个问题：什么才是自己足以投入一生的事？</p>\n  <p>过去20多年，朱圣杰的生活顺利到让人羡慕。他出生在上海，从6岁第一次接触乐高Mindstorms开始，朱圣杰就对机器人着了迷。13、14岁时，他连续两年斩获乐高青少年世界机器人大赛冠军。14岁那年赴美留学，一路在机器人方"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
-      "url": "https://36kr.com/p/3755994793280000?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>曹操墓前摆满布洛芬，景区工作人员回应</li>\n   <li>胖东来再回应“鸡蛋被检出角黄素”</li>\n   <li>张雪机车创始人深夜回应“一个子儿都没有”言论</li>\n   <li>2026清明档电影票房已破2.8亿元</li>\n   <li>沙特：将原油升水上调至纪录高位</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>白宫回应特朗普病重住院</strong></p>\n  <p>当地时间4月4日，一则关于特朗普病重住院的消息迅速引爆网络。美国前参议员沃克·米特在社交媒体X上发文，表"
     }
   ]
 }

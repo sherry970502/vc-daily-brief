@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-08T15:00:35.952177+00:00",
+  "updated_at": "2026-04-09T03:52:16.018182+00:00",
   "period_hours": 24,
-  "tweet_count": 66,
+  "tweet_count": 45,
   "tweets": [
     {
       "account": "@paulg",
@@ -12,12 +12,36 @@
       "url": "https://x.com/paulg/status/2041812497410543910"
     },
     {
-      "account": "@sama",
-      "name": "Sam Altman",
-      "org": "OpenAI",
-      "created_at": "2026-04-07T23:25:45.000Z",
-      "text": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
-      "url": "https://x.com/sama/status/2041658719839383945"
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-09T01:55:09.000Z",
+      "text": "Worth watching! Matt Mahan @MattMahanSJ has been an outstanding mayor for San Jose. https://t.co/twPeDMaIZJ",
+      "url": "https://x.com/pmarca/status/2042058703688679827"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-08T23:00:46.000Z",
+      "text": "Overheard in Silicon Valley: \"LinkedIn is prison for middle managers.\"",
+      "url": "https://x.com/pmarca/status/2042014820590088609"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-08T22:06:49.000Z",
+      "text": "Overheard in Silicon Valley: \"Everyone in the world is now either 'too AI psychotic' or 'not AI psychotic enough'.\"",
+      "url": "https://x.com/pmarca/status/2042001243703538008"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-08T22:01:24.000Z",
+      "text": "Overheard in Silicon Valley: \"Everyone in the world is now either 'too online' or 'not online enough'.\"",
+      "url": "https://x.com/pmarca/status/2041999877664862246"
     },
     {
       "account": "@pmarca",
@@ -28,108 +52,44 @@
       "url": "https://x.com/pmarca/status/2041808277504454684"
     },
     {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-08T01:56:25.000Z",
-      "text": "https://t.co/KSsgzpswVK https://t.co/7u57VUz2WE",
-      "url": "https://x.com/pmarca/status/2041696637295505710"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-08T01:35:20.000Z",
-      "text": "New AGI pricing tier just dropped: negative $9 million if you're one of 11 specific companies; infinity otherwise.",
-      "url": "https://x.com/pmarca/status/2041691329097507047"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-08T00:13:50.000Z",
-      "text": "Yep! https://t.co/xk3rnrVUj3",
-      "url": "https://x.com/pmarca/status/2041670819424973054"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-07T23:59:34.000Z",
-      "text": "Every security engineer knows \"security through obscurity\" doesn't work. But that's how we've actually been running for the whole existence of computers, until now. AI can finally fix that.",
-      "url": "https://x.com/pmarca/status/2041667227532062841"
-    },
-    {
-      "account": "@chamath",
-      "name": "Chamath Palihapitiya",
-      "org": "Social Capital",
-      "created_at": "2026-04-07T21:03:10.000Z",
-      "text": "Try it here: https://t.co/UAxNYUWgf0",
-      "url": "https://x.com/chamath/status/2041622835144356208"
-    },
-    {
-      "account": "@chamath",
-      "name": "Chamath Palihapitiya",
-      "org": "Social Capital",
-      "created_at": "2026-04-07T21:03:09.000Z",
-      "text": "Manufacturing has SOPs, manuals, and systems.\n\nKnowledge work has… \"Ask Steve, he knows how it works.\"\n\nThat's not a process. That's a single point of failure wearing a lanyard.\n\nOne of Software Factory’s key selling points is its ability to absorb tribal knowledge and give",
-      "url": "https://x.com/chamath/status/2041622833546326486"
-    },
-    {
-      "account": "@chamath",
-      "name": "Chamath Palihapitiya",
-      "org": "Social Capital",
-      "created_at": "2026-04-07T15:49:38.000Z",
-      "text": "This is terrible. https://t.co/ngLaqtE7sA",
-      "url": "https://x.com/chamath/status/2041543935223566590"
-    },
-    {
-      "account": "@bgurley",
-      "name": "Bill Gurley",
-      "org": "Benchmark",
-      "created_at": "2026-04-07T22:37:38.000Z",
-      "text": "Fun, surreal, and exciting to see it in the wild! https://t.co/njlfyIv5et",
-      "url": "https://x.com/bgurley/status/2041646611864879134"
+      "account": "@jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
+      "created_at": "2026-04-08T22:25:29.000Z",
+      "text": "The number one goal on tech right now is to kill openclaw \n\nwe can't let that happen https://t.co/7hMf6iIpUP",
+      "url": "https://x.com/jason/status/2042005941084664213"
     },
     {
       "account": "@jason",
       "name": "Jason Calacanis",
       "org": "LAUNCH",
-      "created_at": "2026-04-08T00:06:43.000Z",
-      "text": "Say what you will, but @bariweiss has journalists knocking on doors and doing great work \n\nWhy isn’t @CNN doing this work @andersoncooper? https://t.co/WIZJrfrXek",
-      "url": "https://x.com/jason/status/2041669028884648087"
+      "created_at": "2026-04-08T20:40:10.000Z",
+      "text": "protect this man and @openclaw at all costs! https://t.co/wEhWP2zcSn",
+      "url": "https://x.com/jason/status/2041979437986484230"
     },
     {
       "account": "@jason",
       "name": "Jason Calacanis",
       "org": "LAUNCH",
-      "created_at": "2026-04-07T23:50:15.000Z",
-      "text": "https://t.co/1fgR4Ix6nk https://t.co/21B0oTndcy",
-      "url": "https://x.com/jason/status/2041664884522250366"
+      "created_at": "2026-04-08T20:39:19.000Z",
+      "text": "excellent cold open team! https://t.co/NX0mejZQZl",
+      "url": "https://x.com/jason/status/2041979221719879912"
     },
     {
       "account": "@jason",
       "name": "Jason Calacanis",
       "org": "LAUNCH",
-      "created_at": "2026-04-07T21:21:51.000Z",
-      "text": "It’s getting weird https://t.co/zoQhMNXczz",
-      "url": "https://x.com/jason/status/2041627537403437132"
+      "created_at": "2026-04-08T20:15:21.000Z",
+      "text": "... @TimJDillon @megynkelly @joerogan  @TuckerCarlson (amongst many others) breaking from the political tribalism mind virus, and calling balls and strikes, speaks volumes. https://t.co/vWNhaBKktY",
+      "url": "https://x.com/jason/status/2041973190084198704"
     },
     {
       "account": "@jason",
       "name": "Jason Calacanis",
       "org": "LAUNCH",
-      "created_at": "2026-04-07T15:51:59.000Z",
-      "text": "Agents must stay open source \n\nThey’re far to powerful/dangerous to have any one or two companies own the @openclaw space \n\nIt’s clear from the OpenAI acquisition of OpenClaw that they did so to kill it, by slowing it down \n\n🦞 FIGHT! FIGHT! FIGHT! 🦞",
-      "url": "https://x.com/jason/status/2041544525873598650"
-    },
-    {
-      "account": "@jason",
-      "name": "Jason Calacanis",
-      "org": "LAUNCH",
-      "created_at": "2026-04-07T15:39:31.000Z",
-      "text": "And.. @ShawnRyan762 has seen enough \n\n@grok which maga supporters have broken with the 47th administration over the Iran war and/or the Epstein files? https://t.co/Z34hQ8CZUN",
-      "url": "https://x.com/jason/status/2041541387699536337"
+      "created_at": "2026-04-08T19:53:20.000Z",
+      "text": "Three journalists... discuss how much they hate PC/woke culture... in the nytimes! \n\ntrigger warning: lots of vocal fry   https://t.co/x8ito3EmeH",
+      "url": "https://x.com/jason/status/2041967649366647096"
     },
     {
       "account": "@sriramk",
@@ -140,180 +100,148 @@
       "url": "https://x.com/sriramk/status/2041857102235292090"
     },
     {
-      "account": "@mwseibel",
-      "name": "Michael Seibel",
-      "org": "Y Combinator",
-      "created_at": "2026-04-07T17:58:42.000Z",
-      "text": "It’s hard to understand why someone would choose to be obviously immoral.  But when you understand they don’t see themselves that way, everything makes sense again.",
-      "url": "https://x.com/mwseibel/status/2041576414676447523"
-    },
-    {
-      "account": "@mwseibel",
-      "name": "Michael Seibel",
-      "org": "Y Combinator",
-      "created_at": "2026-04-07T17:56:43.000Z",
-      "text": "Your motivation shapes your ethics.  When you pursue your deepest desires your brain has a way of convincing itself that you are acting morally.",
-      "url": "https://x.com/mwseibel/status/2041575913914298865"
+      "account": "@joshk",
+      "name": "Josh Kopelman",
+      "org": "First Round Capital",
+      "created_at": "2026-04-08T23:28:14.000Z",
+      "text": "So cool!  Congrats to the entire @K2SpaceCo team!! https://t.co/DReP36THV7",
+      "url": "https://x.com/joshk/status/2042021732823794037"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-08T06:20:41.000Z",
-      "text": "Yes https://t.co/lUhYotNxqA",
-      "url": "https://x.com/elonmusk/status/2041763142137737577"
+      "created_at": "2026-04-09T03:51:31.000Z",
+      "text": "Tesla puts a lot of effort into ensuring that our cars don’t run over animals https://t.co/oJ7uTyuUVW",
+      "url": "https://x.com/elonmusk/status/2042087991347446070"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-08T06:12:47.000Z",
-      "text": "lol https://t.co/MBnTx9RoTQ",
-      "url": "https://x.com/elonmusk/status/2041761154419380444"
+      "created_at": "2026-04-09T03:50:08.000Z",
+      "text": "Exactly https://t.co/lDbuVgcaJW",
+      "url": "https://x.com/elonmusk/status/2042087642800779569"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-08T05:45:58.000Z",
-      "text": "SpaceXAI Colossus 2 now has 7 models in training:\n\n- Imagine V2\n- 2 variants of 1T\n- 2 variants of 1.5T\n- 6T\n- 10T\n\nSome catching up to do.",
-      "url": "https://x.com/elonmusk/status/2041754402239975479"
+      "created_at": "2026-04-09T03:23:02.000Z",
+      "text": "Tesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations. https://t.co/s4UK9RWw9f",
+      "url": "https://x.com/elonmusk/status/2042080823332258302"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-08T05:42:11.000Z",
-      "text": "Funny pricing indeed https://t.co/W1yvlwfjJx",
-      "url": "https://x.com/elonmusk/status/2041753450170741214"
+      "created_at": "2026-04-09T02:50:35.000Z",
+      "text": "A friend suggested this but on the Moon https://t.co/FYVYsigZgK",
+      "url": "https://x.com/elonmusk/status/2042072653658460260"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-08T05:22:52.000Z",
-      "text": "One day, we will be out there, among the stars https://t.co/idNvgG0y7I",
-      "url": "https://x.com/elonmusk/status/2041748590239084826"
+      "created_at": "2026-04-09T02:49:25.000Z",
+      "text": "I guess there are still some letters left in the alphabet",
+      "url": "https://x.com/elonmusk/status/2042072359956574631"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-08T14:59:30.000Z",
-      "text": "We are not cooked\n\nWe are the cooks https://t.co/3UxZsURHTP",
-      "url": "https://x.com/garrytan/status/2041893706710839781"
+      "created_at": "2026-04-09T03:25:01.000Z",
+      "text": "Legit baller @AnjneyMidha https://t.co/FU4417n34D",
+      "url": "https://x.com/garrytan/status/2042081320877408265"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-08T14:04:44.000Z",
-      "text": "This is awesome! https://t.co/8ywDK6YIim",
-      "url": "https://x.com/garrytan/status/2041879921103139325"
+      "created_at": "2026-04-09T02:08:10.000Z",
+      "text": "The cool thing about markdown is that the agent itself can decide when a GStack skill will help you\n\nJust make stuff as you might and it’ll trigger as needed https://t.co/7ogoZIhq8H",
+      "url": "https://x.com/garrytan/status/2042061979997831556"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-08T05:28:50.000Z",
-      "text": "Oh man Yahoo Tech... you got so close. You almost had it.\n\nBetter luck next time! https://t.co/yYmLHeQIOP",
-      "url": "https://x.com/garrytan/status/2041750093414731888"
+      "created_at": "2026-04-09T00:20:49.000Z",
+      "text": "How I get my claw to be a durable AI agent I never have to instruct twice \n\nPaste this into your OpenClaw's AGENTS.md or send it as a message:\n\nYou are not allowed to do one-off work. If I ask you to do something and it's the kind of thing that will need to happen again, you",
+      "url": "https://x.com/garrytan/status/2042034964825551072"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-07T23:09:38.000Z",
-      "text": "I like how Claude Code allows bash so the agent can’t use Write File tool outside its workspace but it can seemingly “cat &gt;&gt;” to any file in the file system https://t.co/DKrCZ8Kh1Z",
-      "url": "https://x.com/garrytan/status/2041654662764609735"
+      "created_at": "2026-04-08T23:55:37.000Z",
+      "text": "The “stop all datacenters” people are unwell https://t.co/n3I3XHv8xF",
+      "url": "https://x.com/garrytan/status/2042028621855125530"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-07T23:03:32.000Z",
-      "text": "We live in LISPy times for a specific reason: code is data and data is code again\n\nBut the weird thing? It’s Markdown.",
-      "url": "https://x.com/garrytan/status/2041653129020936328"
+      "created_at": "2026-04-08T23:54:00.000Z",
+      "text": "Intelligence is not enough. Clever use of intelligence is still needed. https://t.co/hnCQq94gAw",
+      "url": "https://x.com/garrytan/status/2042028215825526984"
     },
     {
       "account": "@andrewchen",
       "name": "Andrew Chen",
       "org": "a16z",
-      "created_at": "2026-04-07T22:18:59.000Z",
-      "text": "noticing a trend of startups replacing standard resumes/interviews with week-long (or at least 3-day weekend) in-office trials. Makes sense in a world of AI-generated resumes and interview responses\n\nTurns out the best signal for whether someone can do a job is watching them",
-      "url": "https://x.com/andrewchen/status/2041641918678102110"
+      "created_at": "2026-04-09T02:11:41.000Z",
+      "text": "built my openclaw a new home\n\n(mac mini + nvidia dgx spark\nin a 8U mini rack) https://t.co/gLBcKVqtjX",
+      "url": "https://x.com/andrewchen/status/2042062864077484402"
     },
     {
       "account": "@andrewchen",
       "name": "Andrew Chen",
       "org": "a16z",
-      "created_at": "2026-04-07T18:20:08.000Z",
-      "text": "Too many replies so just adding the webinar link here \n\nhttps://t.co/9OjpsqxT83",
-      "url": "https://x.com/andrewchen/status/2041581806244573303"
+      "created_at": "2026-04-08T22:25:18.000Z",
+      "text": "startup founding team in 2026:\nyour two co-founders are now Claude Code and ChatGPT\nyour head of growth is X and TikTok\nyour customer research is a whatsapp group\nyour startup lawyer is Stripe Atlas\nlol",
+      "url": "https://x.com/andrewchen/status/2042005895396388991"
     },
     {
       "account": "@andrewchen",
       "name": "Andrew Chen",
       "org": "a16z",
-      "created_at": "2026-04-07T16:51:40.000Z",
-      "text": "hosting zoom office hours this week for a16z speedrun\n\nyou'll be able to apply to a16z speedrun in just a few weeks, so so come AMA. first come, first served\n\ndrop a comment + like and I'll DM you a calendly link https://t.co/cGEP4w0eQd",
-      "url": "https://x.com/andrewchen/status/2041559546330861870"
-    },
-    {
-      "account": "@andrewchen",
-      "name": "Andrew Chen",
-      "org": "a16z",
-      "created_at": "2026-04-07T16:28:20.000Z",
-      "text": "prev startup advice: do things that don't scale\n\n2026 update: do things that don't scale, then build AI agents to scale them",
-      "url": "https://x.com/andrewchen/status/2041553671390146982"
-    },
-    {
-      "account": "@andrewchen",
-      "name": "Andrew Chen",
-      "org": "a16z",
-      "created_at": "2026-04-07T16:02:10.000Z",
-      "text": "old: Viral content\n\nnew: Viral demos",
-      "url": "https://x.com/andrewchen/status/2041547086425174118"
+      "created_at": "2026-04-08T20:28:50.000Z",
+      "text": "1 click buy https://t.co/8QkA9lHT1I",
+      "url": "https://x.com/andrewchen/status/2041976584194920872"
     },
     {
       "account": "@lennysan",
       "name": "Lenny Rachitsky",
       "org": "Independent",
-      "created_at": "2026-04-07T21:06:20.000Z",
-      "text": "Also available on:\n• Spotify: https://t.co/A4wBguklut\n• Apple: https://t.co/OxHWoCeL9y",
-      "url": "https://x.com/lennysan/status/2041623633073000738"
+      "created_at": "2026-04-08T22:15:54.000Z",
+      "text": "@cursor_ai @GoogleAI @NotionHQ @supabase @v0 @gumloop @Fin_ai Deal terms are same as always (e.g you have to be a new customer of the product to get the free year: https://t.co/JPcuI9anpv",
+      "url": "https://x.com/lennysan/status/2042003527497871394"
     },
     {
       "account": "@lennysan",
       "name": "Lenny Rachitsky",
       "org": "Independent",
-      "created_at": "2026-04-07T20:58:48.000Z",
-      "text": "How Anthropic is using Claude to automate its own growth with Amol Avasare (Head of Growth)\n\nhttps://t.co/KVIXFWaVkN",
-      "url": "https://x.com/lennysan/status/2041621737943773258"
+      "created_at": "2026-04-08T21:49:10.000Z",
+      "text": "Breaking: Lenny's Newsletter subscribers will be getting a free year of @Cursor_ai, @GoogleAI Pro (w/ Gemini), @NotionHQ, @Supabase, @v0, @Gumloop, and @Fin_ai\n\nThis is on top of the 25+ premium products that eligible subscribers already get free for a full year, including https://t.co/9BRlk5SohS",
+      "url": "https://x.com/lennysan/status/2041996800761196820"
     },
     {
       "account": "@lennysan",
       "name": "Lenny Rachitsky",
       "org": "Independent",
-      "created_at": "2026-04-07T20:58:47.000Z",
-      "text": "A rare glimpse into how Anthropic's growth team operates\n\n(Wild how out-of-date the $19B number is just a couple weeks after recording) https://t.co/TQKcjj6eI1 https://t.co/QruivDMBiD",
-      "url": "https://x.com/lennysan/status/2041621735783678379"
+      "created_at": "2026-04-08T16:43:50.000Z",
+      "text": "Amol (Head of Growth at @AnthropicAI) just joined Twitter. Follow for free alpha.\n\nBTW, can you believe they hit $30B ARR before they even released Mythos? https://t.co/J5AYtOX8Vw",
+      "url": "https://x.com/lennysan/status/2041919962969993578"
     },
     {
-      "account": "@lennysan",
-      "name": "Lenny Rachitsky",
-      "org": "Independent",
-      "created_at": "2026-04-07T19:34:33.000Z",
-      "text": "Our full chat https://t.co/KVIXFWaVkN",
-      "url": "https://x.com/lennysan/status/2041600534688493951"
-    },
-    {
-      "account": "@lennysan",
-      "name": "Lenny Rachitsky",
-      "org": "Independent",
-      "created_at": "2026-04-07T19:17:50.000Z",
-      "text": "Anthropic's Head of Growth: \"70% of what I spend my time on is what we internally refer to as 'success disasters.' Where things have gone so well that other things are breaking.\n\nIt's funny, because all the charts are green and fully up and to the right, but it can be quite tough https://t.co/1Om58KMZny https://t.co/dnF0CeuudT",
-      "url": "https://x.com/lennysan/status/2041596329311531291"
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
+      "created_at": "2026-04-08T22:43:17.000Z",
+      "text": "this video is the CLEAREST explanation of how claude skills + AI agents work and how to use them\n\nmost people set up an AI agent and wonder why it keeps disappointing them. \n\nthe context window is everything\n\ncontext is what the model assembles before it takes any action. think https://t.co/u4SgLoyYZi",
+      "url": "https://x.com/gregisenberg/status/2042010418454184325"
     },
     {
       "account": "@gregisenberg",
@@ -324,60 +252,12 @@
       "url": "https://x.com/gregisenberg/status/2041865199485936018"
     },
     {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
-      "created_at": "2026-04-08T00:26:26.000Z",
-      "text": "i did some research why anthropic won't release their best AI model ever Claude Mythos to everyone just yet \n\ntldr; it's too good at hacking\n \nit escaped sandboxes, found zero-days in every major OS, and posted exploit logs on random public websites just because it could\n\nFYI https://t.co/tbclTCv3qR",
-      "url": "https://x.com/gregisenberg/status/2041673990775726438"
-    },
-    {
       "account": "@venturetwins",
       "name": "Venture Twins",
       "org": "Angel",
-      "created_at": "2026-04-08T03:38:48.000Z",
-      "text": "Crazy story about a guy who started feeling congested after a team dinner and asked ChatGPT about it. \n\nTurns out he randomly developed a shellfish allergy - and ChatGPT caught it and got him to the hospital in time.\n\nHe shared the full chat thread, which is wild to read! https://t.co/ubaguWMaBd",
-      "url": "https://x.com/venturetwins/status/2041722400489017749"
-    },
-    {
-      "account": "@venturetwins",
-      "name": "Venture Twins",
-      "org": "Angel",
-      "created_at": "2026-04-07T18:37:27.000Z",
-      "text": "If you ban self-driving cars to protect the taxi union, you have blood on your hands https://t.co/v7nFea1MAl https://t.co/R01UD25GDt",
-      "url": "https://x.com/venturetwins/status/2041586164533227799"
-    },
-    {
-      "account": "@venturetwins",
-      "name": "Venture Twins",
-      "org": "Angel",
-      "created_at": "2026-04-07T17:06:22.000Z",
-      "text": "It's not perfect, but some of the motion is crazy good.\n\nThese are both image-to-video and blow away everything I've seen in the video arena for the same prompts.\n\n(bat taking off from a branch and horses racing in the snow, with one pulling ahead) https://t.co/aeHLMBrgeC",
-      "url": "https://x.com/venturetwins/status/2041563244603838627"
-    },
-    {
-      "account": "@venturetwins",
-      "name": "Venture Twins",
-      "org": "Angel",
-      "created_at": "2026-04-07T16:38:13.000Z",
-      "text": "Another impressive example - check out the product consistency across shots and prompt adherence 🤯\n\n\"A time-lapse of a family using a home voice assistant throughout the day. From setting morning alarms, playing music, checking the weather, and controlling smart lights, the https://t.co/pj2fk3EGFo",
-      "url": "https://x.com/venturetwins/status/2041556160055333180"
-    },
-    {
-      "account": "@venturetwins",
-      "name": "Venture Twins",
-      "org": "Angel",
-      "created_at": "2026-04-07T16:32:36.000Z",
-      "text": "A new video model dropped at #1 on the leaderboard 👀\n\nIt's called HappyHorse-1.0, and it's currently leading in both text-to-video and image-to-video.\n\nFrom my testing, it's particularly good at multi-shot videos and following detailed directions 👇 https://t.co/byeCw90IEr",
-      "url": "https://x.com/venturetwins/status/2041554747086553093"
-    },
-    {
-      "account": "@rrhoover",
-      "name": "Ryan Hoover",
-      "org": "Weekend Fund",
-      "created_at": "2026-04-07T19:29:55.000Z",
-      "text": "Tech debt is having a breakout year in 2026",
-      "url": "https://x.com/rrhoover/status/2041599369367929019"
+      "created_at": "2026-04-08T23:21:36.000Z",
+      "text": "SF relationship gaps are like:\n\n- do you have Waymo freeway access\n- what’s your daily token allocation \n- were you an IOI medalist\n- how long have you had a Mac Mini\n- have you tried Claude Mythos https://t.co/1ZUjY6GguP",
+      "url": "https://x.com/venturetwins/status/2042020063570751955"
     },
     {
       "account": "@tferriss",
@@ -396,132 +276,84 @@
       "url": "https://x.com/tferriss/status/2041873868348895653"
     },
     {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-04-07T22:01:12.000Z",
-      "text": "Links to everything discussed: https://t.co/wmEsdBFUfQ",
-      "url": "https://x.com/tferriss/status/2041637440209711212"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-04-07T22:01:11.000Z",
-      "text": "Watch on YouTube: https://t.co/qhjPuBPpC4",
-      "url": "https://x.com/tferriss/status/2041637438058082334"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-04-07T22:01:10.000Z",
-      "text": "NEW podcast episode is up! \n\nDaredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life\n\nDaredevil @MichelleKhare lives life to the extreme in Challenge https://t.co/ni4HYGK5jY",
-      "url": "https://x.com/tferriss/status/2041637432731562333"
-    },
-    {
-      "account": "@nmasc_",
-      "name": "Nnamdi Madu",
-      "org": "Lightspeed",
-      "created_at": "2026-04-07T15:11:23.000Z",
-      "text": "Scoop w @EdLudlow https://t.co/zyWVdzZPdM",
-      "url": "https://x.com/nmasc_/status/2041534308062736807"
-    },
-    {
       "account": "@lolitataub",
       "name": "Lolita Taub",
       "org": "Ganas Ventures",
-      "created_at": "2026-04-07T22:31:00.000Z",
-      "text": "💰 Founders: are you raising pre-seed or seed? We're looking for community-driven startups.\n\nGanas Ventures backs founders building around community in the US and LATAM. If that's you and you meet this profile, let's talk:\n- Pre-seed or seed stage\n- ≤ $10M post-money valuation\n- https://t.co/xVNVOqo3CE",
-      "url": "https://x.com/lolitataub/status/2041644940841619771"
-    },
-    {
-      "account": "@lolitataub",
-      "name": "Lolita Taub",
-      "org": "Ganas Ventures",
-      "created_at": "2026-04-07T17:41:33.000Z",
-      "text": "🗞My Lolita's Newsletter April issue is live! In it...\n\n🤔 Otroverts\n🤖 AI took 41% of all VC dollars but 10% of cos got half the funding\n⏳ First priced round to exit = 10 years\n💰 $1M+ in funding open now\n\nRead: https://t.co/qfScnpse3V https://t.co/BkXDf1Htql",
-      "url": "https://x.com/lolitataub/status/2041572097911353590"
+      "created_at": "2026-04-08T17:56:00.000Z",
+      "text": "🎉Congrats, Tallee (port co) on hitting 2025 profitability! https://t.co/wOfduMKike",
+      "url": "https://x.com/lolitataub/status/2041938121470963716"
     },
     {
       "account": "@hnshah",
       "name": "Hiten Shah",
       "org": "Independent",
-      "created_at": "2026-04-07T23:20:00.000Z",
-      "text": "Your story is either a competitive advantage or a hidden drag. If your team cannot tell it in one sentence, you do not have one yet. https://t.co/Wegg6TFBVI",
-      "url": "https://x.com/hnshah/status/2041657271089033430"
+      "created_at": "2026-04-09T00:06:08.000Z",
+      "text": "Channeling Bob Ross energy this month, except the “happy little trees” are B2B website pages.\n\nI built a full B2B marketing site in three days using AI. If you want AI to work on website copy, start with audience and positioning. Pages come after.\n\nI’m doing three live sessions https://t.co/bOHd8HqYWI",
+      "url": "https://x.com/hnshah/status/2042031268964295161"
     },
     {
       "account": "@hnshah",
       "name": "Hiten Shah",
       "org": "Independent",
-      "created_at": "2026-04-07T18:39:45.000Z",
-      "text": "https://t.co/kUGnkqKXL4",
-      "url": "https://x.com/hnshah/status/2041586743326208293"
-    },
-    {
-      "account": "@hnshah",
-      "name": "Hiten Shah",
-      "org": "Independent",
-      "created_at": "2026-04-07T17:56:14.000Z",
-      "text": "Name a street... https://t.co/VKnYcvzqRB https://t.co/6zsGfvJzBV",
-      "url": "https://x.com/hnshah/status/2041575793583931802"
+      "created_at": "2026-04-08T17:01:00.000Z",
+      "text": "Here’s the trap with AI website building:\n\nYou can get to a homepage draft in 10 minutes and still be nowhere close to a website that works.\n\nBecause speed at the copy layer is not the same as clarity at the message layer.\n\nWe built a B2B website in 3 days.\n\nI’m going to show",
+      "url": "https://x.com/hnshah/status/2041924281278370219"
     },
     {
       "account": "@a16z",
       "name": "Andreessen Horowitz",
       "org": "a16z",
-      "created_at": "2026-04-08T00:42:16.000Z",
-      "text": ".@pmarca on what motivates great entrepreneurs https://t.co/4PYyZgxXuG",
-      "url": "https://x.com/a16z/status/2041677976690114760"
+      "created_at": "2026-04-09T01:09:08.000Z",
+      "text": "The first rule of career planning: Do not plan your career.\n\nhttps://t.co/cNj7lgxL8o https://t.co/npCT4aUoQG",
+      "url": "https://x.com/a16z/status/2042047123001417945"
     },
     {
       "account": "@a16z",
       "name": "Andreessen Horowitz",
       "org": "a16z",
-      "created_at": "2026-04-07T20:26:09.000Z",
-      "text": ".@pmarca and @bhorowitz helped Adam Neumann find his CTO for Flow:\n\n“Flow spends more money on technology than anything else—not on real estate.”\n\n“We got to four final candidates, and I chose my pick. Then I introduced all four to Ben.”\n\n“Ben calls me: ‘Hey Adam, I finished my https://t.co/90wSJ053J8",
-      "url": "https://x.com/a16z/status/2041613521801392380"
+      "created_at": "2026-04-08T23:30:34.000Z",
+      "text": "Steven Sinofsky on why Wall Street may be underestimating AI by 10x:\n\n\"They're off by at least an order of magnitude on how big the opportunity is… they will absolutely come out with new models because that's what happens with every new technology.\"\n\n\"This was the problem with https://t.co/RqVn7XpIFr https://t.co/eQfE3bAjas",
+      "url": "https://x.com/a16z/status/2042022320815141324"
     },
     {
       "account": "@a16z",
       "name": "Andreessen Horowitz",
       "org": "a16z",
-      "created_at": "2026-04-07T18:28:32.000Z",
-      "text": "Adam Neumann’s new CTO had to pitch @pmarca and @bhorowitz on building Flow’s architecture from scratch—just three weeks into the job:\n\n\"Marc is very strong in architecture. Ben is very strong in use cases and how it’s used.\"\n\n\"After three hours, they said, 'We agree.'\"\n\n\"We go https://t.co/RPyH42nZ4K",
-      "url": "https://x.com/a16z/status/2041583920647696737"
+      "created_at": "2026-04-08T23:00:35.000Z",
+      "text": "Steven Sinofsky on why it's hard for AI to diffuse through firms:\n\n\"Algorithmic thinking is really, really, really hard for the vast majority of people who have jobs… If you were to go into any person and ask them to create a flow chart for a particular thing that they have to https://t.co/uKxyJtszZv https://t.co/eQfE3bAjas",
+      "url": "https://x.com/a16z/status/2042014774691819943"
     },
     {
       "account": "@a16z",
       "name": "Andreessen Horowitz",
       "org": "a16z",
-      "created_at": "2026-04-07T16:44:32.000Z",
-      "text": ".@balajis says AI verification is much harder in the digital world than it is for the physical world:\n\n\"AI for the physical world is very verifiable because the thing is, the digital world is fundamentally decentralized in a way the physical world isn't.\"\n\n\"There's only one https://t.co/40KysSiFDJ https://t.co/Bct6BzPcVr",
-      "url": "https://x.com/a16z/status/2041557749230923910"
+      "created_at": "2026-04-08T22:27:45.000Z",
+      "text": "Aaron Levie and Steven Sinofsky say companies don't yet know how to determine AI spend:\n\n\"The engineering compute budget conversation to me is going to be just like the most wild one in the next couple years. How much should you allocate of your engineering expense to tokens?... https://t.co/Ocj96QvXmU https://t.co/eQfE3bAjas",
+      "url": "https://x.com/a16z/status/2042006510323298779"
     },
     {
       "account": "@a16z",
       "name": "Andreessen Horowitz",
       "org": "a16z",
-      "created_at": "2026-04-07T15:31:51.000Z",
-      "text": "\"AI doesn't take your job. AI makes you the CEO.\"\n\nBalaji Srinivasan joins a16z’s Erik Torenberg for a conversation on the future of the AI economy, decentralization, and how work changes in an AI-native world, including:\n\n- How distillation and open source could decentralize AI https://t.co/ZHOKcIwPAP",
-      "url": "https://x.com/a16z/status/2041539457153933511"
+      "created_at": "2026-04-08T21:45:31.000Z",
+      "text": "Steven Sinofsky on why agents will widen the gap between startups and enterprises:\n\n\"We do have a cat and a mouse game going on where you can't just assume that the agent acts like a human does today because it's going to be the fastest, most thoughtful, craziest ass human that https://t.co/ilCEkZzW0L https://t.co/eQfE3bAjas",
+      "url": "https://x.com/a16z/status/2041995883198476688"
     },
     {
       "account": "@ycombinator",
       "name": "Y Combinator",
       "org": "Y Combinator",
-      "created_at": "2026-04-07T19:00:00.000Z",
-      "text": "Tasklet (@taskletai) is the cloud agent OS for knowledge work. It connects to all your tools, uses computers in the cloud, and runs 24/7 to get real work done. \n\nStarted by Firebase founder @startupandrew and @jonnydimond, it’s grown &gt;1,200% this year to $5M ARR and just raised https://t.co/nUC1Sw3KLd",
-      "url": "https://x.com/ycombinator/status/2041591839913079227"
+      "created_at": "2026-04-08T16:00:03.000Z",
+      "text": "Userlens (@userlens_hq) turns every CSM into a 100x CSM.\n\nUserlens predicts churn months before it happens, allowing CSMs to be proactive rather than reactive.\n\nCongrats on the launch, @HaiTa &amp; @ankur_d!\n\nhttps://t.co/GmpI0NnX8w https://t.co/ZZ19HPnqd1",
+      "url": "https://x.com/ycombinator/status/2041908942083694887"
     },
     {
-      "account": "@ycombinator",
-      "name": "Y Combinator",
-      "org": "Y Combinator",
-      "created_at": "2026-04-07T17:09:42.000Z",
-      "text": "Congrat to Adish, Kyle, and the @mosaic_so team on their $3.8M seed!\n\nMosaic is building video editing agents.\n\nWhat started as a side project to edit their own YouTube videos has quickly turned into something much bigger.\n\nToday, global agencies, platforms, and news networks https://t.co/kLJBwLtAUX",
-      "url": "https://x.com/ycombinator/status/2041564083590459518"
+      "account": "@lightspeedvp",
+      "name": "Lightspeed Venture Partners",
+      "org": "Lightspeed Venture Partners",
+      "created_at": "2026-04-08T16:00:30.000Z",
+      "text": "Modus Audit cofounder @PranavAPillai on what AI actually does to the engineering bar:\n\n\"There's this idea that AI makes software engineering easier—so maybe the bar should come down. I think that's wrong.\"\n\n\"The most technical people have, in the age of AI, grown superpowers. https://t.co/KlUOU1XRoV https://t.co/OsDyFLDzGw",
+      "url": "https://x.com/lightspeedvp/status/2041909056944930877"
     },
     {
       "account": "@lightspeedvp",

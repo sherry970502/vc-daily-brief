@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-04-08T15:01:01.855940+00:00",
+  "updated_at": "2026-04-09T03:52:42.075639+00:00",
   "period_hours": 24,
-  "article_count": 32,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
-      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
-      "published_at": "2026-04-08T15:00:00+00:00",
-      "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood."
+      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+      "url": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+      "published_at": "2026-04-08T21:50:41+00:00",
+      "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "As YouTube grows on TV, it eyes more interactive video across formats",
-      "url": "https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/",
-      "published_at": "2026-04-08T14:03:04+00:00",
-      "summary": "YouTube's hiring across roles, partnerships, and a Bengaluru hub shows how it is building out its TV strategy."
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "published_at": "2026-04-08T21:19:07+00:00",
+      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "published_at": "2026-04-08T14:00:00+00:00",
-      "summary": "Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register here."
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "published_at": "2026-04-08T21:05:13+00:00",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
-      "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-      "published_at": "2026-04-08T13:00:00+00:00",
-      "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma."
+      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+      "url": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+      "published_at": "2026-04-08T21:00:00+00:00",
+      "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X is rolling out automatic translation and photo editing powered by Grok",
-      "url": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/",
-      "published_at": "2026-04-08T12:06:22+00:00",
-      "summary": "New automatic translations and photo editing on X are powered by the company's flagship AI model."
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "published_at": "2026-04-08T20:09:14+00:00",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How nuclear batteries could speed the race to fusion power",
-      "url": "https://techcrunch.com/2026/04/08/how-nuclear-batteries-could-speed-the-race-to-fusion-power/",
-      "published_at": "2026-04-08T11:30:00+00:00",
-      "summary": "Avalanche Energy is working on an DARPA project to build a new class of materials capable of turning damaging radiation into electricity."
+      "title": "Amazon to end support for older Kindle devices",
+      "url": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+      "published_at": "2026-04-08T19:56:16+00:00",
+      "summary": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google quietly launched an AI dictation app that works offline",
-      "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "published_at": "2026-04-08T05:40:19+00:00",
-      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
+      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
+      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "published_at": "2026-04-08T18:53:19+00:00",
+      "summary": "This is the first model Meta has released under its Superintelligence Labs, led by former Scale AI CEO Alexandr Wang."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "I can’t help rooting for tiny open source AI model maker Arcee",
-      "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-      "published_at": "2026-04-07T21:35:02+00:00",
-      "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users."
+      "title": "Hack-for-hire group caught targeting Android devices and iCloud backups",
+      "url": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
+      "published_at": "2026-04-08T18:51:20+00:00",
+      "summary": "Security researchers exposed a spying campaign by a hack-for-hire group that used Android spyware and phishing to steal iCloud credentials and hack victims’ devices."
     },
     {
       "source": "Crunchbase News",
@@ -78,106 +78,98 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Who owns ideas in the AI age?",
-      "url": "https://fortune.com/2026/04/08/hachette-ceo-david-shelley-publishing-google-copyright-lawsuit-ai-llm/",
-      "published_at": "2026-04-08T11:02:30+00:00",
-      "summary": "David Shelley, CEO of Hachette’s U.K. and U.S. operations, on taking on Big Tech, defending copyright, and why the future of human creativity is at stake."
+      "title": "A Wall Street bank is giving workers earning under $100K over $6,000 in cash to get on the property ladder",
+      "url": "https://fortune.com/2026/04/08/housing-expensive-wall-street-bank-bny-giving-workers-6500-money-to-get-on-property-ladder/",
+      "published_at": "2026-04-08T15:09:49+00:00",
+      "summary": "U.S. staffers at Wall Street bank BNY earning $100,000 or less can qualify for a $6,500 down payment perk to buy their first home, in an effort to support the “financial security and economic prosperity” of its workers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jamie Dimon warns of growing crypto competition in annual letter: ‘We need to roll out our own blockchain technology’",
-      "url": "https://fortune.com/2026/04/07/jamie-dimon-warns-growing-crypto-competition-jpmorgan-shareholder-letter-we-need-to-roll-out-blockchain-technology/",
-      "published_at": "2026-04-07T22:44:41+00:00",
-      "summary": "The CEO’s latest remarks reflect his evolving attitude towards crypto, and coincide with a unit of JPMorgan embracing Solana"
+      "title": "Warner Bros. CEO David Zaslav’s ‘extraordinary’ $887 million golden parachute gets ripped by proxy advisory firm ISS",
+      "url": "https://fortune.com/2026/04/08/warner-bros-discovery-david-zaslav-887-million-golden-parachute-iss/",
+      "published_at": "2026-04-09T00:34:04+00:00",
+      "summary": "ISS has recommended investors vote against Warner Bros. Discovery’s compensation proposal that would see executives collect $1.35 billion in payments as part of a merger with Paramount Skydance."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Donald Trump Jr. says ‘the biggest names’ think Europe is a ‘disaster’ that needs to be fixed",
-      "url": "https://fortune.com/2026/04/08/donald-trump-jr-says-the-biggest-names-think-europe-is-a-disaster-that-needs-to-be-fixed/",
-      "published_at": "2026-04-08T13:37:36+00:00",
-      "summary": "“The biggest players, the biggest names in banking and finance, in tech and AI across the board” hold the same views, the president's oldest son said."
+      "title": "The Iran war is either concluding with the world worse off, or escalation is just delayed again",
+      "url": "https://fortune.com/2026/04/08/iran-war-concluding-world-worse-off-escalation-delayed-again/",
+      "published_at": "2026-04-08T20:54:16+00:00",
+      "summary": "Iran aims to control the Strait of Hormuz choke point for the foreseeable future with or without a ceasefire, experts said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why Oracle’s new CFO Hilary Maxson is key to its AI ambitions",
-      "url": "https://fortune.com/2026/04/08/why-oracle-new-cfo-hilary-maxson-key-ai-ambitions/",
-      "published_at": "2026-04-08T12:53:07+00:00",
-      "summary": "Maxson joins the company a critical phase of AI and cloud infrastructure expansion."
+      "title": "The New York Times says it found Satoshi Nakamoto, the inventor of Bitcoin. Not so fast",
+      "url": "https://fortune.com/2026/04/08/who-is-the-real-inventor-of-bitcoin-satoshi-nakamoto/",
+      "published_at": "2026-04-08T17:02:43+00:00",
+      "summary": "Legendary journalist John Carreyrou says he has found Satoshi Nakamoto, but his evidence looks shaky."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "What do you do when your AI agent hallucinates with your money?",
-      "url": "https://fortune.com/2026/04/08/agent-hallucinations-protocol-money-financial-system-economy/",
-      "published_at": "2026-04-08T13:00:00+00:00",
-      "summary": "Researchers from Google DeepMind, Microsoft, Columbia University, and t54 Labs want to build a financial safety net around autonomous AI."
+      "title": "Within a day, the Iran-U.S. ceasefire began breaking down. Markets shrugged",
+      "url": "https://fortune.com/2026/04/08/ceasefire-iran-breaking-markets-sp-dow-crude-oil-price/",
+      "published_at": "2026-04-08T20:12:11+00:00",
+      "summary": "Israeli strikes in Lebanon were at issue, according to the speaker of Iran’s parliament. Trump ripped into “Fraudsters, Charlatans, and WORSE.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Current price of oil as of April 8, 2026",
-      "url": "https://fortune.com/article/price-of-oil-04-08-2026/",
-      "published_at": "2026-04-08T12:44:48+00:00",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why."
+      "title": "Analysts warn the TACO trade won’t last forever after an Iran ceasefire wipes out weeks of losses in markets",
+      "url": "https://fortune.com/2026/04/08/analysts-taco-trade-donald-trump-finance-markets-tech-stocks-iran-war-strait-of-hormuz/",
+      "published_at": "2026-04-08T18:35:58+00:00",
+      "summary": "The announced ceasefire led to a $1.5 trillion market rally Wednesday."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Morgan Stanley’s Bitcoin ETF began trading. An analyst put it in the top 1% of ETF launches",
+      "url": "https://fortune.com/2026/04/08/morgan-stanley-bitcoin-etf-msbt-launch-ethereum-solana/",
+      "published_at": "2026-04-08T18:27:30+00:00",
+      "summary": "The new fund marks a “second wave of digital asset adoption,” said a Coinbase executive."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "‘You can never really catch up’: The Iran war is exacerbating already high grocery bills, and it will only get worse if the war continues, experts say",
+      "url": "https://fortune.com/2026/04/08/iran-war-high-grocery-prices-getting-worse/",
+      "published_at": "2026-04-08T17:06:21+00:00",
+      "summary": "Labor shortages, inflation, and energy costs were raising prices even before the war began, economists say."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+      "url": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
+      "published_at": "2026-04-08T22:26:37+00:00",
+      "summary": "<p>The age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. </p><p>More recently, fears of reaching artificial general intelligence (AGI)"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
+      "url": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
+      "published_at": "2026-04-08T20:34:01+00:00",
+      "summary": "<p>Meta has been one of the most interesting companies of the generative AI era — initially gaining a loyal and huge following of users for the release of its mostly open source Llama family of large language models (LLMs)<a href=\"https://venturebeat.com/ai/forget-chatgpt-why-llama-and-open-source-a"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "LLM-referred traffic converts at 30-40% — and most enterprises aren't optimizing for it",
       "url": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing",
-      "published_at": "2026-04-07T22:45:09+00:00",
+      "published_at": "2026-04-08T19:04:30+00:00",
       "summary": "<p>For more than two decades, digital discovery has operated on a simple model: search, scan, click, decide. </p><p>That worked when humans were the ones doing the web searching; but with the advent of AI agents, the primary consumer of information is no longer always human.</p><p>This is giving ris"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey’s AI bet",
-      "url": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
-      "published_at": "2026-04-07T22:14:30+00:00",
-      "summary": "<p><a href=\"https://block.xyz/\">Block</a> today unveiled <a href=\"https://squareup.com/us/en/software\">Managerbot</a>, a new AI agent embedded in the <a href=\"https://squareup.com/us/en\">Square platform</a> that proactively monitors a seller&#x27;s business, identifies emerging problems, and propose"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Amazon S3 Files gives AI agents a native file system workspace, ending the object-file split that breaks multi-agent pipelines",
-      "url": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the",
-      "published_at": "2026-04-07T21:36:00+00:00",
-      "summary": "<p>AI agents run on file systems using standard tools to navigate directories and read file paths. </p><p>The challenge, however, is that there is a lot of enterprise data in object storage systems, notably Amazon S3. Object stores serve data through API calls, not file paths. Bridging that gap has"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing",
-      "url": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release",
-      "published_at": "2026-04-07T21:35:44+00:00",
-      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> on Tuesday announced <a href=\"https://www.anthropic.com/glasswing\">Project Glasswing</a>, a sweeping cybersecurity initiative that pairs an unreleased frontier AI model — Claude Mythos Preview — with a coalition of twelve major technology and fin"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT-5.4 on SWE-Bench Pro",
-      "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
-      "published_at": "2026-04-07T21:27:07+00:00",
-      "summary": "<p>Is China picking back up the open source AI baton? </p><p>Z.ai, also known as Zhupai AI, a Chinese AI startup best known for its powerful, open source GLM family of models, has <a href=\"https://z.ai/blog/glm-5.1\">unveiled GLM-5.1 today</a> under a <a href=\"https://huggingface.co/datasets/chooseal"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "How MassMutual and Mass General Brigham turned AI pilot sprawl into production results",
-      "url": "https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into",
-      "published_at": "2026-04-07T18:06:19+00:00",
-      "summary": "<p>Enterprise AI programs rarely fail because of bad ideas. More often, they get stuck in ungoverned pilot mode and never reach production. At a recent VentureBeat event, technology leaders from MassMutual and Mass General Brigham explained how they avoided that trap — and what the results look like"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "AI-RAN is redefining enterprise edge intelligence and autonomy",
-      "url": "https://venturebeat.com/infrastructure/ai-ran-is-redefining-enterprise-edge-intelligence-and-autonomy",
-      "published_at": "2026-04-07T15:05:07+00:00",
-      "summary": "<p><i>Presented by Booz Allen </i></p><hr /><p>AI-RAN, or artificial intelligence radio area networks, is a reimagining of what wireless infrastructure can do. Rather than treating the network as a passive conduit for data, AI-RAN turns it into an active computational layer. It&#x27;s a sensor, a co"
+      "title": "New framework lets AI agents rewrite their own skills without retraining the underlying model",
+      "url": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the",
+      "published_at": "2026-04-08T17:18:21+00:00",
+      "summary": "<p>One major challenge in deploying autonomous agents is building systems that can adapt to changes in their environments without the need to retrain the underlying large language models (LLMs).</p><p><a href=\"https://arxiv.org/abs/2603.18743\"><u>Memento-Skills</u></a>, a new framework developed by"
     },
     {
       "source": "MIT Tech Review",
@@ -194,6 +186,46 @@
       "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
       "published_at": "2026-04-08T12:10:00+00:00",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable&#160; As the conflict in Iran has escalated, a crucial resource is under fire: the"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
+      "url": "https://36kr.com/p/3758982738641670?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>制药行业离“告别”动物实验又近了一步。</p>\n  <p>从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减少药企对动物实验的依赖。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260409/v2_4ef37bce8ff84d9b83be315d738f"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
+      "url": "https://36kr.com/p/3758979573121538?f=rss",
+      "published_at": null,
+      "summary": "<p>文丨彭倩</p>\n  <p>编辑丨乔芊</p>\n  <p>“苦大仇深”是马学军对自己的形容。</p>\n  <p>他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。</p>\n  <p>搞家装对他而言更是一场迟迟未决出胜负的赌局。2010年，马学军就在天猫掌管家装业务——从北京3万多方的“天猫爱蜂巢家装体验馆”、利用3D软件做了“设计师淘客”，到参与孵化“家装E站”所谓的“互联网家装”。回过头看，他认为这些项目只能算是提高了局"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+      "url": "https://36kr.com/p/3758900416348934?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，机器人全身级力觉自感知系统公司——智子力控（上海）科技有限公司（下称“智子力控”）近日完成新一轮融资，本轮由中芯聚源独家投资；此前，公司已获得浦东创投旗下浦东人工智能种子基金投资。这连续两轮融资达千万级别。资金将主要用于技术研发迭代、小批量产线建设及工程化团队扩充。</p>\n  <p>智子力控成立于2024年，现总部位于上海，是一家基于光学传感技术，为人形机器人提供分布式力觉感知一体化解决方案的公司。</p>\n  <p>公司创始人宋戈阳算是一名跨界创业者。他本科就读于谢菲尔德大学土木工程专业，又相继在伦敦帝国理工大学"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪专访 | 前小米高管王腾的下一站：从睡眠入手，抓住AI硬件十年一遇的创业窗口",
+      "url": "https://36kr.com/p/3758896443884033?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>今日宜休的创始人王腾觉得自己很庆幸，在39岁时赶上了AI硬件创业最好的时候。</p>\n  <p>过去很多年，王腾的日程表都以小时为单位切割，每一天似乎都处于战备状态。当这段职业生涯告一段落，大部分人选择休息。但王腾没有停下脚步。</p>\n  <p>刚离职时，王腾并不确定，干了十多年消费电子后，自己接下来要走向何方。他密集见投资人、老朋友，逐渐发现自己正处在一个转瞬即逝的拐点。“这是AI硬件十年一遇的创业窗口期。”王腾告诉硬氪。</p>\n  <p>高强度交流半个多月后，王腾立刻开始筹备硬件创业。他研究过AI眼镜、新能源车，最终却"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
+      "url": "https://36kr.com/p/3758836635730432?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>国资委成立境外国资工作局</p>\n  <p>李飞飞出任阿里云CTO</p>\n  <p>B站“按暂停弹出广告”功能将于4月10日上线</p>\n  <p>多款印度原料药被暂停进口</p>\n  <p>德勤：一季度香港新股集资1099亿港元，全球居首</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>张雪机车LOGO被指抄袭，设计公司回应</strong></p>\n  <p>4月8日，有网友在社交平台上指出，张雪机车的LOGO涉嫌抄袭，与ZETA、中乐国际等多家公司LOGO极为相似，“几何造型、线条走向都很像”。新京报贝壳财经记者注意到，"
     },
     {
       "source": "36氪",
@@ -218,46 +250,6 @@
       "url": "https://36kr.com/p/3757769438609920?f=rss",
       "published_at": null,
       "summary": "<p><strong>出品｜36氪创投研究院</strong></p>\n  <p><strong>文｜罗婧、杜梦</strong></p>\n  <p>如何形容2026的创投行业？</p>\n  <p>「暗涌Waves」回望过去一年，试图找到最恰当的形容：当AI重新搭建产业底座，当硬科技成为底色，当全球化与本土创新彼此缠绕，我们已全然接受一级市场的新叙事、新世代。</p>\n  <p>从肖弘2016年的一场黑客松，到2026年的蝴蝶效应，我们深知总有人挺立在创业前线；当一位位科学家从实验室走向量产前线，我们坚信总有人在开辟前路。</p>\n  <p>这群人，有一个共同点：<strong>不被风口塑形，"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
-      "url": "https://36kr.com/p/3757589543813893?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，苏州灵动佳芯科技有限公司（下称“灵动佳芯”）近期完成A轮融资，融资金额近亿元。本轮融资引入锦秋基金、中芯聚源、瑞丞投资、润璋创投等多家产业方与财务投资机构，慕石资本担任长期战略财务顾问。</p>\n  <p>灵动佳芯成立于2021年，是一家基于压电材料与半导体技术开发传感器解决方案的企业，应用场景覆盖智能机器人、智能穿戴、新能源与锂电池等多个领域。</p>\n  <p>创始核心团队均出身于国内电子科技大厂，拥有数十年管理、研发及量产经验。</p>\n  <p>在业务路径上，"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "产品观察 | 追觅入局智能床垫赛道，3个月公司估值10亿",
-      "url": "https://36kr.com/p/3757587705873158?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>中国每年向全球出口价值100亿的床垫，但很长一段时间，智能床垫行业的明星公司并不诞生于此地。</p>\n  <p>这个行业的明星创业者，是一个来自意大利小城费拉拉的业余运动员。2014年，他在纽约和妻子成立了一家智能床垫公司Eight Sleep，如今每年卖出5亿美元，估值达到15亿美元。</p>\n  <p>毫无意外，Eight Sleep的代工厂和研发伙伴都在珠三角。在看到Eight Sleep让人惊讶的销量后，中国公司终于冲入这个市场。</p>\n  <p>今年年初，追觅生态旗"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
-      "url": "https://36kr.com/p/3757404054930182?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>海康威视回应辟谣“监控系统出现漏洞，300多人被带走”</li>\n   <li>郭艾伦否认被骗千万</li>\n   <li>日本餐饮巨头食其家创始人心梗去世</li>\n   <li>产业链人士：苹果首款折叠屏手机项目正常推进</li>\n   <li>宇树科技移动机器人新专利获授权</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>嫣然天使儿童医院发文感谢陈光标捐赠1000万</strong></p>\n  <p>4月7日，“北京嫣然天使儿童医院体检中心”官方账号发文感谢陈光标对嫣然医院的支持，并"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
-      "url": "https://36kr.com/p/3756523983536905?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3756238124515848\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布</strong></a></p>\n  <p>4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "阿迪达斯不需要下一个Samba",
-      "url": "https://36kr.com/p/3745098994876420?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <p>天刚擦黑，上海新天地一处老校舍的灯就亮了，人群随着光涌进来。曾经是教室的空间被布置成不同的主题：陈列着《足球周刊》、挂满复古球衣或者摆着摊位。人群在楼上楼下反复流动，像在逛一个临时拼起来的跳蚤市场，而不是一场发布会。</p>\n  <p>但它确实是一场发布会。主角是阿迪达斯最新发布的世界杯国家队客场球衣——时隔36年，这些球衣的右襟上再次换回了三叶草标识，这确实让它们显得更时尚了。随后的秀场里，这些球衣被出色的设计师和搭配达人们带进日常穿搭的语境中，离“上街”只差了一步。</p>\n  <p>Superstar也被放在了更靠前的位置"
     }
   ]
 }

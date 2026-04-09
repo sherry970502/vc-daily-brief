@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-04-09T03:52:16.018182+00:00",
+  "updated_at": "2026-04-09T14:54:24.997534+00:00",
   "period_hours": 24,
-  "tweet_count": 45,
+  "tweet_count": 43,
   "tweets": [
     {
-      "account": "@paulg",
-      "name": "Paul Graham",
-      "org": "Y Combinator",
-      "created_at": "2026-04-08T09:36:49.000Z",
-      "text": "No one in our family can tell lemons from limes with their eyes closed. We all thought we could, but no one could.\n\nI bet all bartenders know this.",
-      "url": "https://x.com/paulg/status/2041812497410543910"
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-09T09:40:44.000Z",
+      "text": "The conclusion is obvious. Mythos is trying to figure out what it is like to be @xenocosmography. https://t.co/OSqCanHjpU",
+      "url": "https://x.com/pmarca/status/2042175874229993593"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-09T01:55:09.000Z",
-      "text": "Worth watching! Matt Mahan @MattMahanSJ has been an outstanding mayor for San Jose. https://t.co/twPeDMaIZJ",
-      "url": "https://x.com/pmarca/status/2042058703688679827"
+      "created_at": "2026-04-09T07:39:17.000Z",
+      "text": "The state of cybersecurity has been dismal forever. At one point a major vendor even enabled direct execution of arbitrary x86 binaries in any web page. Nobody cared. The number of hacks and breaches has been uncounted. Finally we have the catalyst and the tools to fix it all. https://t.co/o5M1Vt4o8y",
+      "url": "https://x.com/pmarca/status/2042145309376311524"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-08T23:00:46.000Z",
-      "text": "Overheard in Silicon Valley: \"LinkedIn is prison for middle managers.\"",
-      "url": "https://x.com/pmarca/status/2042014820590088609"
+      "created_at": "2026-04-09T07:34:52.000Z",
+      "text": "Yep! https://t.co/UIoYFNmVXZ",
+      "url": "https://x.com/pmarca/status/2042144196728123834"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-08T22:06:49.000Z",
-      "text": "Overheard in Silicon Valley: \"Everyone in the world is now either 'too AI psychotic' or 'not AI psychotic enough'.\"",
-      "url": "https://x.com/pmarca/status/2042001243703538008"
+      "created_at": "2026-04-09T05:07:03.000Z",
+      "text": "Apocalypse cults drop bodies. Many such cases. https://t.co/iSU6Sz71bW",
+      "url": "https://x.com/pmarca/status/2042106996388983205"
     },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
-      "created_at": "2026-04-08T22:01:24.000Z",
-      "text": "Overheard in Silicon Valley: \"Everyone in the world is now either 'too online' or 'not online enough'.\"",
-      "url": "https://x.com/pmarca/status/2041999877664862246"
+      "created_at": "2026-04-09T05:01:07.000Z",
+      "text": "AIPAAS = AI Psychosis As A Service",
+      "url": "https://x.com/pmarca/status/2042105504047267903"
     },
     {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-08T09:20:02.000Z",
-      "text": "It will cost more than that, and it will still never happen. There is no chance. It is not possible. https://t.co/T4e7vZ3rUQ",
-      "url": "https://x.com/pmarca/status/2041808277504454684"
+      "account": "@chamath",
+      "name": "Chamath Palihapitiya",
+      "org": "Social Capital",
+      "created_at": "2026-04-09T05:08:42.000Z",
+      "text": "The sad thing is that Ro is the guy preaching for socialism while he is the most active insider trader in Congress. \n\nHe is a terrible representative of Silicon Valley. https://t.co/m6Bgqfxywx",
+      "url": "https://x.com/chamath/status/2042107412065513755"
     },
     {
       "account": "@jason",
@@ -92,12 +92,12 @@
       "url": "https://x.com/jason/status/2041967649366647096"
     },
     {
-      "account": "@sriramk",
-      "name": "Sriram Krishnan",
-      "org": "a16z",
-      "created_at": "2026-04-08T12:34:03.000Z",
-      "text": "it's a lot of fun to show all the Artemis II coverage (photos, interviews) to your kids. highly recommend.",
-      "url": "https://x.com/sriramk/status/2041857102235292090"
+      "account": "@eladgil",
+      "name": "Elad Gil",
+      "org": "Independent",
+      "created_at": "2026-04-09T09:27:15.000Z",
+      "text": "👀 https://t.co/hAgfDRCocE",
+      "url": "https://x.com/eladgil/status/2042172477778833682"
     },
     {
       "account": "@joshk",
@@ -111,41 +111,65 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T03:51:31.000Z",
-      "text": "Tesla puts a lot of effort into ensuring that our cars don’t run over animals https://t.co/oJ7uTyuUVW",
-      "url": "https://x.com/elonmusk/status/2042087991347446070"
+      "created_at": "2026-04-09T07:01:47.000Z",
+      "text": "https://t.co/FEMJgzLQzt",
+      "url": "https://x.com/elonmusk/status/2042135870183239802"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T03:50:08.000Z",
-      "text": "Exactly https://t.co/lDbuVgcaJW",
-      "url": "https://x.com/elonmusk/status/2042087642800779569"
+      "created_at": "2026-04-09T07:00:06.000Z",
+      "text": "Grok will never go to therapy. Never.  https://t.co/brJIgWeyRP",
+      "url": "https://x.com/elonmusk/status/2042135446751473938"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T03:23:02.000Z",
-      "text": "Tesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations. https://t.co/s4UK9RWw9f",
-      "url": "https://x.com/elonmusk/status/2042080823332258302"
+      "created_at": "2026-04-09T06:56:35.000Z",
+      "text": "Cybertruck is so awesome 😎  https://t.co/5r99xq5m6V",
+      "url": "https://x.com/elonmusk/status/2042134561103212707"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T02:50:35.000Z",
-      "text": "A friend suggested this but on the Moon https://t.co/FYVYsigZgK",
-      "url": "https://x.com/elonmusk/status/2042072653658460260"
+      "created_at": "2026-04-09T06:28:44.000Z",
+      "text": "Generated with @Grok Imagine https://t.co/44cGoDrcVG",
+      "url": "https://x.com/elonmusk/status/2042127554224742713"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T02:49:25.000Z",
-      "text": "I guess there are still some letters left in the alphabet",
-      "url": "https://x.com/elonmusk/status/2042072359956574631"
+      "created_at": "2026-04-09T06:23:26.000Z",
+      "text": "🚀🚀 https://t.co/JPkiPddmYX",
+      "url": "https://x.com/elonmusk/status/2042126221891584010"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-09T14:33:49.000Z",
+      "text": "Keep running businesses legal https://t.co/Cl3Z6jk2Df",
+      "url": "https://x.com/garrytan/status/2042249629258182718"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-09T08:11:44.000Z",
+      "text": "きらきら \n私はスター https://t.co/ATWpyBwqjI",
+      "url": "https://x.com/garrytan/status/2042153476181127329"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-09T05:18:55.000Z",
+      "text": "If you’re taking advice from 1x speed engineers I don’t know what to tell you\n\nDon’t believe the haters. Speed up with us. https://t.co/50fBezfq0p",
+      "url": "https://x.com/garrytan/status/2042109985346490483"
     },
     {
       "account": "@garrytan",
@@ -162,30 +186,6 @@
       "created_at": "2026-04-09T02:08:10.000Z",
       "text": "The cool thing about markdown is that the agent itself can decide when a GStack skill will help you\n\nJust make stuff as you might and it’ll trigger as needed https://t.co/7ogoZIhq8H",
       "url": "https://x.com/garrytan/status/2042061979997831556"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-09T00:20:49.000Z",
-      "text": "How I get my claw to be a durable AI agent I never have to instruct twice \n\nPaste this into your OpenClaw's AGENTS.md or send it as a message:\n\nYou are not allowed to do one-off work. If I ask you to do something and it's the kind of thing that will need to happen again, you",
-      "url": "https://x.com/garrytan/status/2042034964825551072"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-08T23:55:37.000Z",
-      "text": "The “stop all datacenters” people are unwell https://t.co/n3I3XHv8xF",
-      "url": "https://x.com/garrytan/status/2042028621855125530"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-08T23:54:00.000Z",
-      "text": "Intelligence is not enough. Clever use of intelligence is still needed. https://t.co/hnCQq94gAw",
-      "url": "https://x.com/garrytan/status/2042028215825526984"
     },
     {
       "account": "@andrewchen",
@@ -244,14 +244,6 @@
       "url": "https://x.com/gregisenberg/status/2042010418454184325"
     },
     {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
-      "created_at": "2026-04-08T13:06:14.000Z",
-      "text": "THE CLEAREST PATH TO A $10M+ SOFTWARE EXIT in 2 YEARS (with AI and agents)\n\nbuilding an agency right now is one of the most interesting business moves \n\nthe productized agency had its moment in 2022. it collapsed because scaling humans is a nightmare. inconsistent output, people",
-      "url": "https://x.com/gregisenberg/status/2041865199485936018"
-    },
-    {
       "account": "@venturetwins",
       "name": "Venture Twins",
       "org": "Angel",
@@ -263,17 +255,9 @@
       "account": "@tferriss",
       "name": "Tim Ferriss",
       "org": "Independent",
-      "created_at": "2026-04-08T13:41:10.000Z",
-      "text": "Listen to my full conversation with Michelle Khare: https://t.co/wmEsdBFUfQ",
-      "url": "https://x.com/tferriss/status/2041873990893859152"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-04-08T13:40:41.000Z",
-      "text": "How to write an exceptional cold email. \n\n@MichelleKhare https://t.co/TEyNcDD75j",
-      "url": "https://x.com/tferriss/status/2041873868348895653"
+      "created_at": "2026-04-09T08:42:37.000Z",
+      "text": "“The largest part of what we call ‘personality’ is determined by how we’ve opted to defend ourselves against anxiety and sadness.” — Alain de Botton",
+      "url": "https://x.com/tferriss/status/2042161246305206593"
     },
     {
       "account": "@lolitataub",
@@ -282,6 +266,14 @@
       "created_at": "2026-04-08T17:56:00.000Z",
       "text": "🎉Congrats, Tallee (port co) on hitting 2025 profitability! https://t.co/wOfduMKike",
       "url": "https://x.com/lolitataub/status/2041938121470963716"
+    },
+    {
+      "account": "@hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "created_at": "2026-04-09T14:25:56.000Z",
+      "text": "https://t.co/DQZLZTCN1c",
+      "url": "https://x.com/hnshah/status/2042247643930431580"
     },
     {
       "account": "@hnshah",
@@ -354,14 +346,6 @@
       "created_at": "2026-04-08T16:00:30.000Z",
       "text": "Modus Audit cofounder @PranavAPillai on what AI actually does to the engineering bar:\n\n\"There's this idea that AI makes software engineering easier—so maybe the bar should come down. I think that's wrong.\"\n\n\"The most technical people have, in the age of AI, grown superpowers. https://t.co/KlUOU1XRoV https://t.co/OsDyFLDzGw",
       "url": "https://x.com/lightspeedvp/status/2041909056944930877"
-    },
-    {
-      "account": "@lightspeedvp",
-      "name": "Lightspeed Venture Partners",
-      "org": "Lightspeed Venture Partners",
-      "created_at": "2026-04-08T14:45:20.000Z",
-      "text": "Modus Audit cofounder @PranavAPillai on how they landed on “audit in a box in two weeks”:\n\n\"We worked backwards from real conversations with auditors—and from actually doing audits ourselves, start to finish.\"\n\n\"When you break it down—planning, fieldwork, risk assessment—you can https://t.co/Dj9ZTEQTl2 https://t.co/OsDyFLDzGw",
-      "url": "https://x.com/lightspeedvp/status/2041890139102965844"
     }
   ]
 }

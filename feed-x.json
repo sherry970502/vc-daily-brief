@@ -1,8 +1,24 @@
 {
-  "updated_at": "2026-04-10T04:11:55.198869+00:00",
+  "updated_at": "2026-04-10T14:05:18.966648+00:00",
   "period_hours": 24,
-  "tweet_count": 64,
+  "tweet_count": 63,
   "tweets": [
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-10T10:51:24.000Z",
+      "text": "For Jessica a significant part of the attraction of staying in a hotel is simply having someone else to cook the amount of food two teenage boys consume.",
+      "url": "https://x.com/paulg/status/2042556044686299292"
+    },
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-10T05:05:41.000Z",
+      "text": "How far gone I am. I see this and I think \"Ooh, 561.\" https://t.co/LxHlEohr9C",
+      "url": "https://x.com/paulg/status/2042469042594988375"
+    },
     {
       "account": "@paulg",
       "name": "Paul Graham",
@@ -28,14 +44,6 @@
       "url": "https://x.com/paulg/status/2042438925957153231"
     },
     {
-      "account": "@paulg",
-      "name": "Paul Graham",
-      "org": "Y Combinator",
-      "created_at": "2026-04-10T03:03:15.000Z",
-      "text": "Later stage investors always grumble about increasing valuations. But there is some basis in reality for it: companies do grow faster now. https://t.co/Nzt62yc0Fq",
-      "url": "https://x.com/paulg/status/2042438230994542677"
-    },
-    {
       "account": "@sama",
       "name": "Sam Altman",
       "org": "OpenAI",
@@ -47,41 +55,41 @@
       "account": "@pmarca",
       "name": "Marc Andreessen",
       "org": "a16z",
+      "created_at": "2026-04-10T07:39:12.000Z",
+      "text": "I remember that hysterical freakout too! https://t.co/tZ7KefC7pf",
+      "url": "https://x.com/pmarca/status/2042507674324209996"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-10T07:28:51.000Z",
+      "text": "Co-sign. https://t.co/YpywuRKAQz",
+      "url": "https://x.com/pmarca/status/2042505070902911477"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-10T07:21:56.000Z",
+      "text": "Many people are saying! https://t.co/R4SYetj6Kd",
+      "url": "https://x.com/pmarca/status/2042503328421331323"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-10T05:02:32.000Z",
+      "text": "It's time to pass the Clarity Act. https://t.co/JVkbsnTKWV",
+      "url": "https://x.com/pmarca/status/2042468250588758419"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
       "created_at": "2026-04-10T02:34:47.000Z",
       "text": "Conquest’s Third Law: “The behavior of any bureaucratic organization can best be understood by assuming that it is controlled by a secret cabal of its enemies.” https://t.co/Rsgo1hKof0",
       "url": "https://x.com/pmarca/status/2042431065000985070"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-10T02:31:45.000Z",
-      "text": "Are you @mgurri-pilled, anon? https://t.co/wjPoooWAdS https://t.co/m4HjzeIJhg",
-      "url": "https://x.com/pmarca/status/2042430303671894434"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-10T02:25:02.000Z",
-      "text": "I’m so old, I remember the hysterical freakout over this too. https://t.co/gntQTedYCN",
-      "url": "https://x.com/pmarca/status/2042428611874210010"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-10T00:33:04.000Z",
-      "text": "It’s only prudent. https://t.co/dY2p0pIqwr",
-      "url": "https://x.com/pmarca/status/2042400436125384875"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-09T23:42:16.000Z",
-      "text": "Every chart is a crime. https://t.co/D1nTpdw9mg",
-      "url": "https://x.com/pmarca/status/2042387651832267128"
     },
     {
       "account": "@chamath",
@@ -98,14 +106,6 @@
       "created_at": "2026-04-09T19:37:29.000Z",
       "text": "AI is stripping companies down to three key elements:\n\n1) Expert Knowledge - this is the vertical specific understanding of what to do\n\n2) Tribal Knowledge - this is knowledge of the fuzzy grey details that are poorly document and is what creates a dispersion in performance in",
       "url": "https://x.com/chamath/status/2042326050521448649"
-    },
-    {
-      "account": "@chamath",
-      "name": "Chamath Palihapitiya",
-      "org": "Social Capital",
-      "created_at": "2026-04-09T05:08:42.000Z",
-      "text": "The sad thing is that Ro is the guy preaching for socialism while he is the most active insider trader in Congress. \n\nHe is a terrible representative of Silicon Valley. https://t.co/m6Bgqfxywx",
-      "url": "https://x.com/chamath/status/2042107412065513755"
     },
     {
       "account": "@bgurley",
@@ -204,14 +204,6 @@
       "url": "https://x.com/msuster/status/2042286834504647150"
     },
     {
-      "account": "@eladgil",
-      "name": "Elad Gil",
-      "org": "Independent",
-      "created_at": "2026-04-09T09:27:15.000Z",
-      "text": "👀 https://t.co/hAgfDRCocE",
-      "url": "https://x.com/eladgil/status/2042172477778833682"
-    },
-    {
       "account": "@joshk",
       "name": "Josh Kopelman",
       "org": "First Round Capital",
@@ -223,81 +215,81 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-10T06:25:32.000Z",
+      "text": "Download the Tesla Robotaxi app https://t.co/x7eVGBWJ1R",
+      "url": "https://x.com/elonmusk/status/2042489137887133807"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-10T06:22:32.000Z",
+      "text": "Relatively smart\nfor a human, but\nnot by AI standards https://t.co/UQF4EKaPWP",
+      "url": "https://x.com/elonmusk/status/2042488382438482407"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-10T06:20:02.000Z",
+      "text": "🌍 🌎 🌏 https://t.co/TLDMZ5k2B4",
+      "url": "https://x.com/elonmusk/status/2042487754534305883"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-10T06:07:43.000Z",
+      "text": "True https://t.co/pxSPjEMehH",
+      "url": "https://x.com/elonmusk/status/2042484654004191388"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
       "created_at": "2026-04-10T01:34:23.000Z",
       "text": "Yeah https://t.co/jT4dPZbpqx",
       "url": "https://x.com/elonmusk/status/2042415868358103434"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T21:05:09.000Z",
-      "text": "Tesla driving itself around LA https://t.co/NyM36R6J7a",
-      "url": "https://x.com/elonmusk/status/2042348111809691858"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T20:13:50.000Z",
-      "text": "Accurate https://t.co/FtTVeEHSvI",
-      "url": "https://x.com/elonmusk/status/2042335198097129926"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T17:52:43.000Z",
-      "text": "Grok Law https://t.co/Bh0rkJnr8i",
-      "url": "https://x.com/elonmusk/status/2042299684182769672"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-09T17:17:25.000Z",
-      "text": "Use 𝕏 Chat for messaging and voice/video calls.\n\nComes with this great benefit of actual privacy. https://t.co/Ts55gVXqkD",
-      "url": "https://x.com/elonmusk/status/2042290799384412636"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-10T08:52:00.000Z",
+      "text": "I agree. I think in the future issues trackers will be how people fix OSS bugs and no longer PRs. https://t.co/ODi3XuWd0c",
+      "url": "https://x.com/garrytan/status/2042525997489361049"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-10T03:55:26.000Z",
-      "text": "They will share a brain, GBrain and git and MCP actually makes it trivially for both to interface with my knowledge LLM\n\nAccidental but perfect abstraction!\n\nhttps://t.co/yFpFU4pn5b",
-      "url": "https://x.com/garrytan/status/2042451362991259687"
+      "created_at": "2026-04-10T07:40:47.000Z",
+      "text": "Hats off to anyone releasing open source and showing what they do. \n\nGBrain is my actual setup, and now anyone can have it. Full MCP support with Supabase Auth coming soon.\n\nhttps://t.co/yFpFU4pn5b",
+      "url": "https://x.com/garrytan/status/2042508075509383273"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-10T03:54:27.000Z",
-      "text": "About to do the funniest thing and name my Hermes Agent Neuromancer\n\nThe matched pair to Wintermute my OpenClaw",
-      "url": "https://x.com/garrytan/status/2042451113954459950"
+      "created_at": "2026-04-10T07:39:26.000Z",
+      "text": "I've been legit impressed by @m_jovovich and MemPalace. \n\nThe awesome thing about open source is you can learn a lot about how people do things, and come up with what makes sense for you. \n\nGBrain is MemPalace built natively for OpenClaw/Hermes Agent: smarts in LLM, deterministic https://t.co/1sYmi7JRBa",
+      "url": "https://x.com/garrytan/status/2042507733237485994"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-10T03:18:48.000Z",
-      "text": "PS if you are looking for a good way to get up and running and don’t know how I recommend go to https://t.co/XvAOhsxLZu and click the Deploy on Render button and you can get set up with your own OpenClaw instance in 10 minutes or less.",
-      "url": "https://x.com/garrytan/status/2042442144724762676"
+      "created_at": "2026-04-10T07:00:15.000Z",
+      "text": "If you want your OpenClaw or Hermes Agent to be able to have perfect total recall of all 10,000+ markdown files, GBrain is here to help.\n\nIt's exactly my OpenClaw/Hermes Agent setup. MIT-licensed open source. Hope it helps you build your mini-AGI.\n\nhttps://t.co/yFpFU4pn5b",
+      "url": "https://x.com/garrytan/status/2042497872114090069"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-10T00:17:06.000Z",
-      "text": "Why do you need pgvector for 13,000 markdown files? Because Grep isn’t good enough once you have a corpus that big\n\nYou may never get to a corpus that big for your personal AI, but I did and I needed it. \n\nSometimes you need the truly right answer and this is worth it. https://t.co/nryXYieTyK",
-      "url": "https://x.com/garrytan/status/2042396415876530668"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-09T23:21:04.000Z",
-      "text": "Now it is live and available here https://t.co/Ng25iPtxnW",
-      "url": "https://x.com/garrytan/status/2042382317818429488"
+      "created_at": "2026-04-10T06:52:32.000Z",
+      "text": "GBrain works on Hermes Agent, paste the same install script and you're good to go. \n\nhttps://t.co/yFpFU4pn5b",
+      "url": "https://x.com/garrytan/status/2042495930948338048"
     },
     {
       "account": "@andrewchen",
@@ -375,14 +367,6 @@
       "account": "@gregisenberg",
       "name": "Greg Isenberg",
       "org": "Late Checkout",
-      "created_at": "2026-04-09T16:16:00.000Z",
-      "text": "Our kids will think we were crazy for how we handled passwords\n\n\"so you reused the same password everywhere, answered what's your mother's maiden name to prove it was you, got phished by an email that looked exactly like your fav social app\"\n\nYeah, I know my son, it was wild",
-      "url": "https://x.com/gregisenberg/status/2042275346112766142"
-    },
-    {
-      "account": "@gregisenberg",
-      "name": "Greg Isenberg",
-      "org": "Late Checkout",
       "created_at": "2026-04-09T15:44:05.000Z",
       "text": "The best thing ANY engineer/programmer can do right now is learn how to become a top 1% marketer\n\nFor 20 years, the engineer was the most important person in the room. They had the rarest skill. They could build the thing. Everyone else had to wait for them.\n\nClaude Mythos and",
       "url": "https://x.com/gregisenberg/status/2042267314494595542"
@@ -391,9 +375,25 @@
       "account": "@venturetwins",
       "name": "Venture Twins",
       "org": "Angel",
+      "created_at": "2026-04-10T04:24:01.000Z",
+      "text": "New killer use case of Seedance 2 is putting Chuck Norris into everything\n\n(from u/orichalchem) https://t.co/bkY4mh22sO",
+      "url": "https://x.com/venturetwins/status/2042458558114250847"
+    },
+    {
+      "account": "@venturetwins",
+      "name": "Venture Twins",
+      "org": "Angel",
       "created_at": "2026-04-09T15:32:30.000Z",
       "text": "New AI video format: felt animation ✨\n\nThis is a fun way to learn science because it’s weirdly engaging to watch - and now I know why space smells!\n\n(it’s a whole series on IG at feltweirdscience) https://t.co/nbymcSXxAo",
       "url": "https://x.com/venturetwins/status/2042264397335425139"
+    },
+    {
+      "account": "@rabois",
+      "name": "Keith Rabois",
+      "org": "Founders Fund / Khosla Ventures",
+      "created_at": "2026-04-10T10:33:02.000Z",
+      "text": "Interesting. https://t.co/KfDpZGytsO",
+      "url": "https://x.com/rabois/status/2042551421011185975"
     },
     {
       "account": "@rabois",
@@ -410,14 +410,6 @@
       "created_at": "2026-04-09T15:32:34.000Z",
       "text": "The rubik's cube in this video isn't AI\n\n(Kesava broke world records when he was a teen) https://t.co/oErYJxUjE2",
       "url": "https://x.com/rrhoover/status/2042264413634220367"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-04-09T08:42:37.000Z",
-      "text": "“The largest part of what we call ‘personality’ is determined by how we’ve opted to defend ourselves against anxiety and sadness.” — Alain de Botton",
-      "url": "https://x.com/tferriss/status/2042161246305206593"
     },
     {
       "account": "@nmasc_",

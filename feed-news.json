@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-04-10T04:12:21.854529+00:00",
+  "updated_at": "2026-04-10T14:05:45.276072+00:00",
   "period_hours": 24,
-  "article_count": 31,
+  "article_count": 29,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
+      "published_at": "2026-04-10T14:05:00+00:00",
+      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "published_at": "2026-04-10T14:00:00+00:00",
+      "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
+      "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
+      "published_at": "2026-04-10T13:52:02+00:00",
+      "summary": "Now that Meta released its Muse Spark model, more people are downloading the Meta AI app. And if you join the app, your friends will probably get an Instagram notification about it."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
+      "url": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
+      "published_at": "2026-04-10T12:00:00+00:00",
+      "summary": "Specs has long been teasing the next version of its augmented reality glasses. A new partnership with Qualcomm promises some movement in that department."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -36,116 +68,76 @@
       "summary": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hyperg"
     },
     {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
-      "url": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
-      "published_at": "2026-04-09T21:01:36+00:00",
-      "summary": "All resources at its U.S. factory are aimed at the upcoming Atlas SUV."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "published_at": "2026-04-09T20:11:55+00:00",
-      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
-      "url": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
-      "published_at": "2026-04-09T20:04:12+00:00",
-      "summary": "The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by \"deceptively\" advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "After data breach, $10B-valued startup Mercor is having a month",
-      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "published_at": "2026-04-09T19:33:54+00:00",
-      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers."
-    },
-    {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Juno, CPA-Founded Startup That Aims To Make Tax Returns Less Painful With AI, Raises $12M",
-      "url": "https://news.crunchbase.com/fintech/cpa-founded-ai-tax-return-startup-juno-seed-funding/",
-      "published_at": "2026-04-09T13:00:41+00:00",
-      "summary": "AI tax prep automation startup Juno, founded to address the opportunities — and risks — that come with advances in AI, and built for underserved SMB accounting firms, says it has received a $12 million seed investment."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Global Investors Help Boost Latin America’s Late-Stage Funding Boom In Q1",
-      "url": "https://news.crunchbase.com/venture/global-vcs-boost-late-stage-boom-latin-america-q1-2026/",
-      "published_at": "2026-04-09T11:00:32+00:00",
-      "summary": "Startups in Latin America raised a combined $1.03 billion across seed- and growth-stage deals in the three-month period ending March 31 — up year over year, but down from Q4 2025."
+      "title": "Fintech Startups Globally Raise More Money In Far Fewer Deals In Q1 2026",
+      "url": "https://news.crunchbase.com/fintech/global-startup-venture-funding-up-deals-down-q1-2026/",
+      "published_at": "2026-04-10T11:00:16+00:00",
+      "summary": "Global venture funding to financial technology startups totaled $12 billion across 751 deals in 2026 as of April 6, per Crunchbase data. That’s a 5% increase in dollars raised compared to the $11.4 billion raised across 1,097 deals during the same time period in 2025."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nutella jumps on the best product placement money can’t buy: A trip to the far side of the Moon",
-      "url": "https://fortune.com/2026/04/09/nutella-artemis-ii-nasa-astronauts/",
-      "published_at": "2026-04-09T13:34:35+00:00",
-      "summary": "The chocolate-hazelnut spread goes where no other spread has gone before. Now the company is eating up the free product placement within the Orion spacecraft."
+      "title": "‘Babies become sitting ducks’: Babies too young for vaccines remain vulnerable in measles ‘hotbed’ communities",
+      "url": "https://fortune.com/2026/04/10/vaccines-measles-babies-sitting-ducks/",
+      "published_at": "2026-04-10T13:47:00+00:00",
+      "summary": "Trump administration officials have been pushing anti-vaccine experts in statehouses."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The U.S. government is spending $88 billion a month in interest on national debt—equal to spending on defense and education combined",
-      "url": "https://fortune.com/2026/04/09/us-goverment-speding-interest-defense-education-total/",
-      "published_at": "2026-04-09T11:17:40+00:00",
-      "summary": "Maya MacGuineas, president of the Committee for a Responsible Federal Budget, called on lawmakers to “ultimately fix the broken process that got us into this mess.”"
+      "title": "Current price of oil as of April 10, 2026",
+      "url": "https://fortune.com/article/price-of-oil-04-10-2026/",
+      "published_at": "2026-04-10T12:59:30+00:00",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jamie Dimon says the best teams work like Navy SEALs, not sprawling ‘flat’ corporations",
-      "url": "https://fortune.com/2026/04/09/jamie-dimon-management-flat-hierarchy/",
-      "published_at": "2026-04-09T08:00:00+00:00",
-      "summary": "In his latest letter to shareholders, the JPMorgan Chase CEO pushes back on Big Tech’s “do more with less” megamanager model."
+      "title": "‘Downward mobility is incredibly radicalizing’: The college bargain is broken. What comes next could reshape America",
+      "url": "https://fortune.com/2026/04/10/college-bargain-broken-middle-class-mutiny-noam-scheiber-interview-book/",
+      "published_at": "2026-04-10T12:30:00+00:00",
+      "summary": "\"Creative, brilliant people are going to wake up this decade and realize the jobs that they thought they were going to have ... are gone.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The world’s 500 richest people made more than a quarter trillion yesterday as volatile markets react to fragile Iran war ceasefire",
-      "url": "https://fortune.com/2026/04/09/richest-billionaires-quarter-trillion-markets-iran-war-ceasefire/",
-      "published_at": "2026-04-09T21:15:41+00:00",
-      "summary": "Meta CEO Mark Zuckerberg gained the most and added $12.8 billion to his net worth after Meta shares rose 6.5%."
+      "title": "26% of CEOs think the greatest threat to their job security is their own CFO",
+      "url": "https://fortune.com/2026/04/10/ceos-think-greatest-threat-their-job-security-their-own-cfo/",
+      "published_at": "2026-04-10T11:38:52+00:00",
+      "summary": "A new BCG stress index finds CEOs are stretched thin by growth targets, board pressure, and increasingly powerful CFOs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "ARK Invest is betting on underdog drone delivery company Manna to beat out Alphabet and Zipline",
-      "url": "https://fortune.com/2026/04/09/ark-invest-betting-on-underdog-drone-delivery-company-manna-to-beat-out-alphabet-zipline/",
-      "published_at": "2026-04-09T11:39:36+00:00",
-      "summary": "Manna is leaning into a no-frills, ultra-low-cost strategy as regulators open the door to scaled autonomous delivery."
+      "title": "U.S. and Iran begin peace talks as Trump’s White House goes to war against the media, insider traders, and the Pope",
+      "url": "https://fortune.com/2026/04/10/us-iran-peace-talks-trump-wsj-insider-trading-pope/",
+      "published_at": "2026-04-10T09:57:07+00:00",
+      "summary": "Everything you need to know before you reach the office this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "JPMorgan CEO Jamie Dimon says he’s ‘learned and relearned’ to not make big decisions when he’s tired on Fridays",
-      "url": "https://fortune.com/2026/04/09/jpmorgan-ceo-jamie-dimon-dont-make-big-decisions-tired-fridays/",
-      "published_at": "2026-04-09T15:07:49+00:00",
-      "summary": "Over the course of his Wall Street career, JPMorgan’s Jamie Dimon has learned to avoid making big decisions when the weekend rolls around."
+      "title": "The next generation of senators has a ticking time bomb in its lap: Social Security’s impending insolvency and no plan for the national debt",
+      "url": "https://fortune.com/2026/04/10/next-generation-senators-social-security-deadline-national-debt-question/",
+      "published_at": "2026-04-10T10:53:54+00:00",
+      "summary": "\"My hope would be that, come January, the campaign is over and [they] lay down some of the weapons and pick up some of the calculators and pencils, and try and come up with a solution.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Only five ships crossed the Strait of Hormuz Thursday, far below Iran’s pledge as negotiations begin",
-      "url": "https://fortune.com/2026/04/09/strait-of-hormuz-tankers-ships-oil-crude-brent-gas-wti-prices-markets-taco-trump/",
-      "published_at": "2026-04-09T19:08:48+00:00",
-      "summary": "More ships were crossing during war-time than peacetime."
+      "title": "Defense executives worry Trump’s proposed military splurge could backfire",
+      "url": "https://fortune.com/2026/04/10/defense-executives-trumps-military-budget-backfire/",
+      "published_at": "2026-04-10T09:25:44+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘I hate working 5 days’: Zoom CEO says traditional work schedules are becoming obsolete—and predicts a 3-day workweek by 2031",
-      "url": "https://fortune.com/2026/04/09/zoom-ceo-eric-yuan-three-day-workweek-coming-ai-productivity-better-work-life-balance/",
-      "published_at": "2026-04-09T14:42:02+00:00",
-      "summary": "“I do not think we need to work for 5 days because literally we all will employ so many digital agents,” Zoom CEO Eric Yuan said."
+      "title": "The job market is so bad, workers now think they have worse odds of finding a role than during the pandemic",
+      "url": "https://fortune.com/2026/04/10/job-market-pessimism-fed-reserve-covid-pandemic/",
+      "published_at": "2026-04-10T08:37:00+00:00",
+      "summary": "Data from the Federal Reserve Bank of New York shows that Americans are increasingly pessimistic about their job prospects."
     },
     {
       "source": "VentureBeat",
@@ -166,26 +158,34 @@
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AstroTurf wars and exponential AI growth",
-      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
-      "published_at": "2026-04-09T12:25:10+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is&#160;fake&#160;grass&#160;a&#160;bad&#160;idea?&#160;The&#160;AstroTurf&#160;wars&#160;are&#160;far&#160;from&#160;over.&#160; In 2001,&#160;Americ"
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "published_at": "2026-04-10T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
-      "url": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
-      "published_at": "2026-04-09T10:00:00+00:00",
-      "summary": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more than an acre of synthetic turf roughly the color of the felt on a pool table, almost digital in its"
+      "title": "Constellations",
+      "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+      "published_at": "2026-04-10T10:00:00+00:00",
+      "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.&#160; Outside, the atmosphere registered as hostile to most organisms. We huddle"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Desalination technology, by the numbers",
-      "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
-      "published_at": "2026-04-09T10:00:00+00:00",
-      "summary": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an increasingly important technology, especially in water-stressed regions including the"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+      "url": "https://36kr.com/p/3760914298651400?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>长安汽车：2025年净利润40.75亿元</strong></p>\n  <p>36氪获悉，长安汽车公告，2025年实现营业收入1640亿元，同比增长2.67%；归属于上市公司股东的净利润40.75亿元，上年同期73.21亿元，同比下降44.34%；基本每股收益0.41元。以总股本99.13亿股为基数，向全体股东每10股派发现金红利1.15元（含税），不送红股，不以公积金转增股本。</p>\n  <p><strong>春秋航空：2025年净利润23.17亿元，同比增长1.96%</strong></p>\n  <p>36氪获悉，春秋航空公告，20"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "可能我们都低估了《王者荣耀世界》",
+      "url": "https://36kr.com/p/3760782917288705?f=rss",
+      "published_at": null,
+      "summary": "<p>今天，《王者荣耀世界》于PC端正式公测，并计划于4月内上线移动端。对于亿万王者玩家而言，等待多年的IP新作，终于揭开了面纱。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260410/v2_e6dba44e41a44a5f931b52df26dd4857@16519798_oswg119589oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">"
     },
     {
       "source": "36氪",
@@ -234,22 +234,6 @@
       "url": "https://36kr.com/p/3759269095113219?f=rss",
       "published_at": null,
       "summary": "<p>亦庄又“炸场”了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260409/v2_a147f009c7f94a1a8381c89e2eabf462@337187376_oswg1665990oswg4000oswg2666_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI未来大会现场</p>\n  <p>4月8日启幕的AI FUTURE北京亦"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "OBSBOT寻影新品发布，在口袋直播摄像头中实现AI智能跟踪与4K画质｜最前线",
-      "url": "https://36kr.com/p/3759286934356744?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>直播与视频会议已成为日常工作和生活的一部分，创作者对设备的需求也从“能拍就行”转向了“随时随地专业开播”。</p>\n  <p>但当前市场上的常见方案各有短板：手机直播容易过热降频，且无法灵活多机位；传统网络摄像头画质一般、对焦慢、缺少智能跟踪；单反加采集卡虽然画质好，但整套设备笨重，还需要复杂的供电和推流设置，移动场景下很难即开即用。</p>\n  <p>这个介于“专业画质”与“极致便携”之间的市场空白，正被越来越多设备厂商视为新的机会点。</p>\n  <p>4月9日，全球智能影像品牌OBSBOT寻影最新产品寻影Tiny 3正式"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
-      "url": "https://36kr.com/p/3759045427937793?f=rss",
-      "published_at": null,
-      "summary": "<p>近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。</p>\n  <p>Inair 多屏未来是一家专注于空间计算与移动生产力的科技公司，由两名在科技领域的连续创业者发起，初创团队拥有 AR 硬件、软件、产品和市场经验，团队成员来自于多家互联网及科技领域的知名企业。</p>\n  <p>该公司以 AR 眼镜作为入口，致力于为消费者提供下一代的 All-in-one 移动办公解决"
     }
   ]
 }

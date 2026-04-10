@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-04-09T14:54:50.932095+00:00",
+  "updated_at": "2026-04-10T04:12:21.854529+00:00",
   "period_hours": 24,
-  "article_count": 33,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
-      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-      "published_at": "2026-04-09T14:27:57+00:00",
-      "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex."
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "url": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "published_at": "2026-04-09T22:13:26+00:00",
+      "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State University last year."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-      "published_at": "2026-04-09T14:00:00+00:00",
-      "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech epicenters of the year. Register now to lock in these savings."
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "published_at": "2026-04-09T21:29:11+00:00",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Spotify now lets everyone turn off videos in its app",
-      "url": "https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/",
-      "published_at": "2026-04-09T13:49:56+00:00",
-      "summary": "The controls can be used to choose an audio-first experience on the app or a video-enhanced one, Spotify says."
+      "title": "EFF is the latest organization to leave X",
+      "url": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+      "published_at": "2026-04-09T21:26:18+00:00",
+      "summary": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Instagram expands its movie inspired content restrictions for teens internationally",
-      "url": "https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/",
-      "published_at": "2026-04-09T13:26:29+00:00",
-      "summary": "Instagram first debuted its movie rating inspired content settings in limited countries in 2025."
+      "title": "What founders can learn from Anjuna’s layoffs and recovery",
+      "url": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
+      "published_at": "2026-04-09T21:17:30+00:00",
+      "summary": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hyperg"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit’",
-      "url": "https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/",
-      "published_at": "2026-04-09T13:00:00+00:00",
-      "summary": "The company's novel rocket engine could be a game changer for the U.S. military."
+      "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
+      "url": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
+      "published_at": "2026-04-09T21:01:36+00:00",
+      "summary": "All resources at its U.S. factory are aimed at the upcoming Atlas SUV."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Collide Capital raises $95M fund to back fintech, future-of-work startups",
-      "url": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/",
-      "published_at": "2026-04-09T13:00:00+00:00",
-      "summary": "Collide Capital, founded by Brian Hollins and Aaron Samuels, announced Thursday the close of a $95 million Fund II."
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "published_at": "2026-04-09T20:11:55+00:00",
+      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Radify’s sci-fi plasma reactors could break China’s dominance of rare earth elements",
-      "url": "https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/",
-      "published_at": "2026-04-09T13:00:00+00:00",
-      "summary": "Radify Metals is developing a new way to process a variety of metals that promises to be pollution free."
+      "title": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
+      "url": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
+      "published_at": "2026-04-09T20:04:12+00:00",
+      "summary": "The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by \"deceptively\" advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Waymo robotaxis are tracking potholes and sharing that data with Waze users",
-      "url": "https://techcrunch.com/2026/04/09/waymo-robotaxis-are-tracking-potholes-and-sharing-that-data-with-waze-users/",
-      "published_at": "2026-04-09T13:00:00+00:00",
-      "summary": "Two Alphabet-owned businesses are teaming up to find potholes and share that information with cities."
+      "title": "After data breach, $10B-valued startup Mercor is having a month",
+      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+      "published_at": "2026-04-09T19:33:54+00:00",
+      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers."
     },
     {
       "source": "Crunchbase News",
@@ -86,98 +86,82 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s 2027 budget gambles on rosy assumptions—and if they don’t pan out, America edges closer to a fiscal crisis driven by runaway interest costs",
-      "url": "https://fortune.com/2026/04/09/trump-2027-budget-debt-deficit-interest-crisis/",
-      "published_at": "2026-04-09T07:00:00+00:00",
-      "summary": "$7.8 trillion in extra revenue, GDP growing at 3%, vanishing deficits, and a 42% defense hike—to skeptics Trump’s math just isn’t adding up."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "A Meta employee created a dashboard so coworkers can compete to be the company’s No. 1 AI token user—and Zuckerberg doesn’t even rank in the top 250",
-      "url": "https://fortune.com/2026/04/09/meta-killed-employee-ai-token-dashboard/",
-      "published_at": "2026-04-09T08:44:00+00:00",
-      "summary": "The company’s employees could compare themselves to their colleagues and earn achievement titles like “Model Connoisseur” and “Cache Wizard” on the “Claudeonomics” leaderboard."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Claudia Sheinbaum wants Mexico to start fracking to get away from Trump’s natural gas. But she won’t call it that",
-      "url": "https://fortune.com/2026/04/09/claudia-sheinbaum-mexico-fracking-iran-war-natural-gas-imports-from-america/",
-      "published_at": "2026-04-09T13:38:22+00:00",
-      "summary": "Since assuming power in October 2024, Sheinbaum has pledged to expand renewable energy while maintaining firm support for state-owned Petróleos Mexicanos."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The cease-fire that wasn’t: Here’s why Trump and Iran never really agreed to the same terms",
-      "url": "https://fortune.com/2026/04/09/what-is-iran-trump-cease-fire-is-strait-hormuz-open-closed/",
-      "published_at": "2026-04-09T13:35:07+00:00",
-      "summary": "Hours after Pete Hegseth said the strait was open, Iran announced that the strait was closing again in response to Israel's strikes in Lebanon."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Nutella jumps on the best product placement money can’t buy: a trip to the far side of the moon",
+      "title": "Nutella jumps on the best product placement money can’t buy: A trip to the far side of the Moon",
       "url": "https://fortune.com/2026/04/09/nutella-artemis-ii-nasa-astronauts/",
       "published_at": "2026-04-09T13:34:35+00:00",
-      "summary": "The chocolate-hazelnut spread has reached where no other spread has gone before. Now the company is eating up the free product placement along the Orion spaceship."
+      "summary": "The chocolate-hazelnut spread goes where no other spread has gone before. Now the company is eating up the free product placement within the Orion spacecraft."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s ‘cease-fire’ won’t stop Iranian hackers for long, cyber experts say",
-      "url": "https://fortune.com/2026/04/09/trumps-cease-fire-wont-stop-iranian-hackers-for-long-cyber-experts-say/",
-      "published_at": "2026-04-09T13:31:28+00:00",
-      "summary": "One leading hacking group known as Handala said it was temporarily postponing attacks on the U.S. but would continue to target Israel."
+      "title": "The U.S. government is spending $88 billion a month in interest on national debt—equal to spending on defense and education combined",
+      "url": "https://fortune.com/2026/04/09/us-goverment-speding-interest-defense-education-total/",
+      "published_at": "2026-04-09T11:17:40+00:00",
+      "summary": "Maya MacGuineas, president of the Committee for a Responsible Federal Budget, called on lawmakers to “ultimately fix the broken process that got us into this mess.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "First, Iran and Hormuz, second, China and Taiwan? The dangerous implications of a tollbooth on the open sea",
-      "url": "https://fortune.com/2026/04/09/toll-strait-hormuz-iran-implications-dangerous-precedent/",
-      "published_at": "2026-04-09T13:14:48+00:00",
-      "summary": "Collecting tolls in the strait would violate a basic and enduring principle of international maritime trade: freedom of peaceful navigation."
+      "title": "Jamie Dimon says the best teams work like Navy SEALs, not sprawling ‘flat’ corporations",
+      "url": "https://fortune.com/2026/04/09/jamie-dimon-management-flat-hierarchy/",
+      "published_at": "2026-04-09T08:00:00+00:00",
+      "summary": "In his latest letter to shareholders, the JPMorgan Chase CEO pushes back on Big Tech’s “do more with less” megamanager model."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Democrats begin to realize that an illegal war and a threat of genocide are grounds for Trump’s removal",
-      "url": "https://fortune.com/2026/04/09/democrats-impeachment-25th-amendment-trump-removal-iran-genocide/",
-      "published_at": "2026-04-09T13:00:28+00:00",
-      "summary": "By the dozens, Democrats are saying that Trump should no longer serve in the White House, either through the impeachment process or the 25th Amendment."
+      "title": "The world’s 500 richest people made more than a quarter trillion yesterday as volatile markets react to fragile Iran war ceasefire",
+      "url": "https://fortune.com/2026/04/09/richest-billionaires-quarter-trillion-markets-iran-war-ceasefire/",
+      "published_at": "2026-04-09T21:15:41+00:00",
+      "summary": "Meta CEO Mark Zuckerberg gained the most and added $12.8 billion to his net worth after Meta shares rose 6.5%."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "ARK Invest is betting on underdog drone delivery company Manna to beat out Alphabet and Zipline",
+      "url": "https://fortune.com/2026/04/09/ark-invest-betting-on-underdog-drone-delivery-company-manna-to-beat-out-alphabet-zipline/",
+      "published_at": "2026-04-09T11:39:36+00:00",
+      "summary": "Manna is leaning into a no-frills, ultra-low-cost strategy as regulators open the door to scaled autonomous delivery."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "JPMorgan CEO Jamie Dimon says he’s ‘learned and relearned’ to not make big decisions when he’s tired on Fridays",
+      "url": "https://fortune.com/2026/04/09/jpmorgan-ceo-jamie-dimon-dont-make-big-decisions-tired-fridays/",
+      "published_at": "2026-04-09T15:07:49+00:00",
+      "summary": "Over the course of his Wall Street career, JPMorgan’s Jamie Dimon has learned to avoid making big decisions when the weekend rolls around."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Only five ships crossed the Strait of Hormuz Thursday, far below Iran’s pledge as negotiations begin",
+      "url": "https://fortune.com/2026/04/09/strait-of-hormuz-tankers-ships-oil-crude-brent-gas-wti-prices-markets-taco-trump/",
+      "published_at": "2026-04-09T19:08:48+00:00",
+      "summary": "More ships were crossing during war-time than peacetime."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "‘I hate working 5 days’: Zoom CEO says traditional work schedules are becoming obsolete—and predicts a 3-day workweek by 2031",
+      "url": "https://fortune.com/2026/04/09/zoom-ceo-eric-yuan-three-day-workweek-coming-ai-productivity-better-work-life-balance/",
+      "published_at": "2026-04-09T14:42:02+00:00",
+      "summary": "“I do not think we need to work for 5 days because literally we all will employ so many digital agents,” Zoom CEO Eric Yuan said."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
-      "url": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
-      "published_at": "2026-04-08T22:26:37+00:00",
-      "summary": "<p>The age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. </p><p>More recently, fears of reaching artificial general intelligence (AGI)"
+      "title": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
+      "url": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex",
+      "published_at": "2026-04-09T23:07:00+00:00",
+      "summary": "<p>OpenAI is making moves to try and court more developers and vibe coders (those who build software using AI models and natural language) away from rivals like Anthropic.</p><p>Today, the firm arguably most synonymous with the generative AI boom <a href=\"https://x.com/OpenAI/status/2042295688323875"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
-      "url": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
-      "published_at": "2026-04-08T20:34:01+00:00",
-      "summary": "<p>Meta has been one of the most interesting companies of the generative AI era — initially gaining a loyal and huge following of users for the release of its mostly open source Llama family of large language models (LLMs)<a href=\"https://venturebeat.com/ai/forget-chatgpt-why-llama-and-open-source-a"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "LLM-referred traffic converts at 30-40% — and most enterprises aren't optimizing for it",
-      "url": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing",
-      "published_at": "2026-04-08T19:04:30+00:00",
-      "summary": "<p>For more than two decades, digital discovery has operated on a simple model: search, scan, click, decide. </p><p>That worked when humans were the ones doing the web searching; but with the advent of AI agents, the primary consumer of information is no longer always human.</p><p>This is giving ris"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "New framework lets AI agents rewrite their own skills without retraining the underlying model",
-      "url": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the",
-      "published_at": "2026-04-08T17:18:21+00:00",
-      "summary": "<p>One major challenge in deploying autonomous agents is building systems that can adapt to changes in their environments without the need to retrain the underlying large language models (LLMs).</p><p><a href=\"https://arxiv.org/abs/2603.18743\"><u>Memento-Skills</u></a>, a new framework developed by"
+      "title": "Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook",
+      "url": "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook",
+      "published_at": "2026-04-09T18:30:00+00:00",
+      "summary": "<p>A 27-year-old bug sat inside <a href=\"https://ftp.openbsd.org/pub/OpenBSD/patches/7.8/common/025_sack.patch.sig\">OpenBSD’s TCP stack</a> while auditors reviewed the code, fuzzers ran against it, and the operating system earned its reputation as one of the most security-hardened platforms on earth"
     },
     {
       "source": "MIT Tech Review",
@@ -202,6 +186,22 @@
       "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
       "published_at": "2026-04-09T10:00:00+00:00",
       "summary": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an increasingly important technology, especially in water-stressed regions including the"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界",
+      "url": "https://36kr.com/p/3760310709174784?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>过去两年，主流AI交互依赖于输入框——用户先组织语言提问，AI再给出答案。</p>\n  <p>这种“对话式”交互效率极高，却与人类最自然的认知路径相悖。我们认识世界，从来不是从“提问”开始，而是从“看见”开始。</p>\n  <p>一家成立于2025年的年轻公司Chance AI，正在尝试解决这个问题。它提出了另一种AI产品形态——Visual Agent（视觉智能体），试图让AI从“回答问题”的工具，进化为“看懂世界”的系统。</p>\n  <p>Chance AI的创始人曾熙，路径横跨学术与产业。他在巴塞罗那大学获得博士学位，"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”",
+      "url": "https://36kr.com/p/3760260422648327?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>刘强东、章泽天成立新公司，名叫“天强”</p>\n  <p>NASA发布有史以来最清晰的月球照片</p>\n  <p>法国清空在美国的129吨黄金</p>\n  <p>李佳琦深夜发文否认退休</p>\n  <p>亚马逊将停止对旧款Kindle设备提供支持</p>\n  <p>美宜佳：已与606家加盟商解除合作关系</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>“张雪峰.skill”上线GitHub引争议，律师：或侵犯人格权等多项权利</strong></p>\n  <p>近日，一款名为“张雪峰.skill”的开源项目在GitHub平台上引"
     },
     {
       "source": "36氪",
@@ -250,22 +250,6 @@
       "url": "https://36kr.com/p/3759045427937793?f=rss",
       "published_at": null,
       "summary": "<p>近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。</p>\n  <p>Inair 多屏未来是一家专注于空间计算与移动生产力的科技公司，由两名在科技领域的连续创业者发起，初创团队拥有 AR 硬件、软件、产品和市场经验，团队成员来自于多家互联网及科技领域的知名企业。</p>\n  <p>该公司以 AR 眼镜作为入口，致力于为消费者提供下一代的 All-in-one 移动办公解决"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
-      "url": "https://36kr.com/p/3758982738641670?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>制药行业离“告别”动物实验又近了一步。</p>\n  <p>从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减少药企对动物实验的依赖。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260409/v2_4ef37bce8ff84d9b83be315d738f"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
-      "url": "https://36kr.com/p/3758979573121538?f=rss",
-      "published_at": null,
-      "summary": "<p>文丨彭倩</p>\n  <p>编辑丨乔芊</p>\n  <p>“苦大仇深”是马学军对自己的形容。</p>\n  <p>他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。</p>\n  <p>搞家装对他而言更是一场迟迟未决出胜负的赌局。2010年，马学军就在天猫掌管家装业务——从北京3万多方的“天猫爱蜂巢家装体验馆”、利用3D软件做了“设计师淘客”，到参与孵化“家装E站”所谓的“互联网家装”。回过头看，他认为这些项目只能算是提高了局"
     }
   ]
 }

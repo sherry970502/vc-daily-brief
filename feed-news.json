@@ -1,71 +1,79 @@
 {
-  "updated_at": "2026-04-10T14:05:45.276072+00:00",
+  "updated_at": "2026-04-11T03:42:14.177167+00:00",
   "period_hours": 24,
-  "article_count": 29,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Every fusion startup that has raised over $100M",
-      "url": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
-      "published_at": "2026-04-10T14:05:00+00:00",
-      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies."
+      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
+      "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "published_at": "2026-04-11T00:44:17+00:00",
+      "summary": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "published_at": "2026-04-10T14:00:00+00:00",
-      "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT."
+      "title": "How to watch NASA’s Artemis II splash back down to Earth",
+      "url": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+      "published_at": "2026-04-10T21:18:09+00:00",
+      "summary": "NASA's Artemis II mission has traveled farther from Earth than any mission before. Here's how to watch the crew's return landing in the Pacific Ocean."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
-      "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
-      "published_at": "2026-04-10T13:52:02+00:00",
-      "summary": "Now that Meta released its Muse Spark model, more people are downloading the Meta AI app. And if you join the app, your friends will probably get an Instagram notification about it."
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "published_at": "2026-04-10T20:27:52+00:00",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
-      "url": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
-      "published_at": "2026-04-10T12:00:00+00:00",
-      "summary": "Specs has long been teasing the next version of its augmented reality glasses. A new partnership with Qualcomm promises some movement in that department."
+      "title": "Battery recycler Ascend Elements files for bankruptcy",
+      "url": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
+      "published_at": "2026-04-10T19:16:52+00:00",
+      "summary": "Ascend Elements said that it will be filing for Chapter 11 bankruptcy in the wake of a canceled government grant and a challenging market for lithium-ion batteries."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
-      "url": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
-      "published_at": "2026-04-09T22:13:26+00:00",
-      "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State University last year."
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "published_at": "2026-04-10T16:41:34+00:00",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "ChatGPT finally offers $100/month Pro plan",
-      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "published_at": "2026-04-09T21:29:11+00:00",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "published_at": "2026-04-10T16:38:43+00:00",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI i"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "EFF is the latest organization to leave X",
-      "url": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
-      "published_at": "2026-04-09T21:26:18+00:00",
-      "summary": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic."
+      "title": "France to ditch Windows for Linux to reduce reliance on US tech",
+      "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+      "published_at": "2026-04-10T14:39:32+00:00",
+      "summary": "France's move to ditch Windows for Linux is its latest effort to reduce its reliance on American tech giants."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What founders can learn from Anjuna’s layoffs and recovery",
-      "url": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
-      "published_at": "2026-04-09T21:17:30+00:00",
-      "summary": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hyperg"
+      "title": "YouTube Premium and YouTube Music are getting more expensive",
+      "url": "https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/",
+      "published_at": "2026-04-10T14:38:43+00:00",
+      "summary": "The YouTube Premium individual plan is increasing from $13.99 to $15.99 per month, while the family plan is increasing from $22.99 to $26.99 per month."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Week’s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/",
+      "published_at": "2026-04-10T15:23:22+00:00",
+      "summary": "While no billion-dollar rounds led this week’s list, we nonetheless saw a variety of startups in industries ranging from semiconductors to aerospace to biotech raise sizable rounds."
     },
     {
       "source": "Crunchbase News",
@@ -78,82 +86,90 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Babies become sitting ducks’: Babies too young for vaccines remain vulnerable in measles ‘hotbed’ communities",
-      "url": "https://fortune.com/2026/04/10/vaccines-measles-babies-sitting-ducks/",
-      "published_at": "2026-04-10T13:47:00+00:00",
-      "summary": "Trump administration officials have been pushing anti-vaccine experts in statehouses."
+      "title": "The Navy confirmed an ‘abundant amount’ of Uncrustables when the Artemis II crew lands. Smucker’s just offered them a lifetime supply",
+      "url": "https://fortune.com/2026/04/10/uncrustables-lifetime-supply-artemis-ii-crewmembers/",
+      "published_at": "2026-04-10T21:48:45+00:00",
+      "summary": "The crew aboard the Artemis II requested Uncrustables upon their return to Earth. The Smucker’s brand just offered them a lifetime supply."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Current price of oil as of April 10, 2026",
-      "url": "https://fortune.com/article/price-of-oil-04-10-2026/",
-      "published_at": "2026-04-10T12:59:30+00:00",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why."
+      "title": "‘It’s 13 minutes of things that have to go right’: Artemis II splashes down despite faulty heat shield",
+      "url": "https://fortune.com/2026/04/10/artemis-ii-lands-pacific-heat-shield-issues/",
+      "published_at": "2026-04-11T00:07:00+00:00",
+      "summary": "The crew aboard the Artemis II mission had only 13 minutes to get their angle and speed correctly in order to enter the earth's atmosphere."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Downward mobility is incredibly radicalizing’: The college bargain is broken. What comes next could reshape America",
-      "url": "https://fortune.com/2026/04/10/college-bargain-broken-middle-class-mutiny-noam-scheiber-interview-book/",
-      "published_at": "2026-04-10T12:30:00+00:00",
-      "summary": "\"Creative, brilliant people are going to wake up this decade and realize the jobs that they thought they were going to have ... are gone.\""
+      "title": "Fed seeks details on U.S. banks’ exposure to private credit firms",
+      "url": "https://fortune.com/2026/04/10/federal-reserve-us-banks-exposure-private-credit-firms-insurers-treasury-department/",
+      "published_at": "2026-04-10T23:51:44+00:00",
+      "summary": "The Treasury Department is also questioning the insurance industry about exposures to private credit."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "26% of CEOs think the greatest threat to their job security is their own CFO",
-      "url": "https://fortune.com/2026/04/10/ceos-think-greatest-threat-their-job-security-their-own-cfo/",
-      "published_at": "2026-04-10T11:38:52+00:00",
-      "summary": "A new BCG stress index finds CEOs are stretched thin by growth targets, board pressure, and increasingly powerful CFOs."
+      "title": "Meet ‘trendslop,’ the new, AI-fueled scourge of workplace consultants everywhere",
+      "url": "https://fortune.com/2026/04/10/what-is-trendslop-llm-hidden-bias-bad-advice-workplace-consultants/",
+      "published_at": "2026-04-10T21:47:41+00:00",
+      "summary": "Some economists have deemed consultants useless, but AI assistance could just be the old challenge in new clothing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. and Iran begin peace talks as Trump’s White House goes to war against the media, insider traders, and the Pope",
-      "url": "https://fortune.com/2026/04/10/us-iran-peace-talks-trump-wsj-insider-trading-pope/",
-      "published_at": "2026-04-10T09:57:07+00:00",
-      "summary": "Everything you need to know before you reach the office this morning."
+      "title": "Amazon is still paying Jeff Bezos an $80,000 yearly salary—but $1.6 million for travel and security",
+      "url": "https://fortune.com/2026/04/10/amazon-jeff-bezos-80k-salary-billionaires-ceo-executive-chairman/",
+      "published_at": "2026-04-10T20:05:02+00:00",
+      "summary": "Amazon’s 2026 proxy confirms Bezos still earns the same $81,400 salary he’s collected since 1998."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The next generation of senators has a ticking time bomb in its lap: Social Security’s impending insolvency and no plan for the national debt",
-      "url": "https://fortune.com/2026/04/10/next-generation-senators-social-security-deadline-national-debt-question/",
-      "published_at": "2026-04-10T10:53:54+00:00",
-      "summary": "\"My hope would be that, come January, the campaign is over and [they] lay down some of the weapons and pick up some of the calculators and pencils, and try and come up with a solution.\""
+      "title": "Trump-backed World Liberty Financial tokens hit all-time low on reports of insider loans",
+      "url": "https://fortune.com/2026/04/10/trump-world-liberty-financial-crypto-tokens-insider-loans/",
+      "published_at": "2026-04-10T19:22:57+00:00",
+      "summary": "The platform is “nowhere near liquidation” on its loans, World Liberty Financial said in an X post."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Defense executives worry Trump’s proposed military splurge could backfire",
-      "url": "https://fortune.com/2026/04/10/defense-executives-trumps-military-budget-backfire/",
-      "published_at": "2026-04-10T09:25:44+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
+      "title": "Iran is demanding tankers in the Strait of Hormuz pay tolls in crypto: What we know so far",
+      "url": "https://fortune.com/2026/04/10/iran-strait-of-hormuz-crypto-tolls-stablecoins-bitcoin-oil-tankers/",
+      "published_at": "2026-04-10T19:13:12+00:00",
+      "summary": "The Iranian regime has increasingly resorted to digital assets to evade U.S. sanctions."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The job market is so bad, workers now think they have worse odds of finding a role than during the pandemic",
-      "url": "https://fortune.com/2026/04/10/job-market-pessimism-fed-reserve-covid-pandemic/",
-      "published_at": "2026-04-10T08:37:00+00:00",
-      "summary": "Data from the Federal Reserve Bank of New York shows that Americans are increasingly pessimistic about their job prospects."
+      "title": "First they went after medtech, then Kash Patel. Iranian hackers’ next target is likely ‘low-hanging fruit’ in water, energy, and tourism, experts say",
+      "url": "https://fortune.com/2026/04/10/iran-hackers-water-energy-tourism-kash-patel-strategy/",
+      "published_at": "2026-04-10T19:08:17+00:00",
+      "summary": "While the attacks have little effect on military outcomes, disruption is the point, said CSIS senior fellow Nikita Shah."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
-      "url": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex",
-      "published_at": "2026-04-09T23:07:00+00:00",
-      "summary": "<p>OpenAI is making moves to try and court more developers and vibe coders (those who build software using AI models and natural language) away from rivals like Anthropic.</p><p>Today, the firm arguably most synonymous with the generative AI boom <a href=\"https://x.com/OpenAI/status/2042295688323875"
+      "title": "AI agent credentials live in the same box as untrusted code. Two new architectures show where the blast radius actually stops.",
+      "url": "https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw",
+      "published_at": "2026-04-10T22:26:53+00:00",
+      "summary": "<p>Four separate RSAC 2026 keynotes arrived at the same conclusion without coordinating. Microsoft&#x27;s Vasu Jakkal told attendees that zero trust must extend to AI. Cisco&#x27;s Jeetu Patel called for a shift from access control to action control, <a href=\"https://venturebeat.com/security/rsac-20"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook",
-      "url": "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook",
-      "published_at": "2026-04-09T18:30:00+00:00",
-      "summary": "<p>A 27-year-old bug sat inside <a href=\"https://ftp.openbsd.org/pub/OpenBSD/patches/7.8/common/025_sack.patch.sig\">OpenBSD’s TCP stack</a> while auditors reviewed the code, fuzzers ran against it, and the operating system earned its reputation as one of the most security-hardened platforms on earth"
+      "title": "Intuit compressed months of tax code implementation into hours — and built a workflow any regulated-industry team can adapt",
+      "url": "https://venturebeat.com/data/intuit-compressed-months-of-tax-code-implementation-into-hours-and-built-a",
+      "published_at": "2026-04-10T22:09:14+00:00",
+      "summary": "<p>When the <a href=\"https://www.congress.gov/bill/119th-congress/house-bill/1/text\">One Big Beautiful Bill</a> arrived as a 900-page unstructured document — with no standardized schema, no published IRS forms, and a hard shipping deadline — Intuit&#x27;s TurboTax team had a question: could AI compr"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+      "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+      "published_at": "2026-04-10T14:04:20+00:00",
+      "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and e"
     },
     {
       "source": "MIT Tech Review",
@@ -174,6 +190,54 @@
     {
       "source": "36氪",
       "lang": "zh",
+      "title": "雷军投的\"红娘\"要去IPO了",
+      "url": "https://36kr.com/p/3761856919093768?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260411/v2_715d94e8bd624485a209b86cf1bcb4e1@5579416_oswg73462oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">伊达母公司米连科技向港交所递交招股书</p>\n  <p>作者 | 王涛编辑 | 吾人</p>\n  <p>来源 |&nbsp;融中财经</p>\n  <"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "低空经济第一股，来了",
+      "url": "https://36kr.com/p/3761810181210633?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨韦香惠</p>\n  <p>来源丨东四十条资本</p>\n  <p>拿下开年低空经济最大一笔融资后，仅隔不到两个月，沃飞长空便迅速启动IPO进程，直指A股“低空经济第一股”。</p>\n  <p>就在签署上市辅导协议前一天，公司完成股份制改造，由“有限责任公司”整体变更为“股份有限公司”，注册资本由约1.77亿元提升至3.6亿元；与此同时，吉利科技集团CEO徐志豪接任董事长，标志着这家吉利系低空企业在治理结构与战略层面进一步向集团化、产业化靠拢。</p>\n  <p>从融资节奏来看，沃飞长空已累计完成五轮市场化融资，最新一轮金额近10亿元，刷新2026年开年以来低空经济领域最大单笔融资纪录"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
+      "url": "https://36kr.com/p/3761709375521288?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>【导读】刚刚，华尔街巨头被紧急召往华盛顿！Mythos这个模型让美国财长和美联储主席都恐慌了，向全美金融业CEO发出警告。短短一年内，SaaS市场经历了一场浩劫，2万亿美元直接蒸发。</strong></p>\n  <p>就在这周二，鲍威尔和贝森特紧急召见华尔街，向所有人发出警告——</p>\n  <p>Anthropic的最新模型Mythos，可能对金融业造成重大风险！</p>\n  <p>从蒸发2万亿美元，到紧急召集CEO进华盛顿——Anthropic的AI，正在触碰金融世界最敏感的神经。</p>\n  <p>就在今天，这个新闻已经在全网刷屏了。</p>\n  <p class"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
+      "url": "https://36kr.com/p/3761739153081096?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元天使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头的国产化替代进程。</p>\n  <p>阿基视觉成立于2022年，总部位于东莞松山湖。2025年，CEO吴选胜加入阿基视觉，吴选胜曾任日本工业镜头龙头Moritex中国区董事长兼总经理，负责技术团队与运营管理，此前还在全球500强捷普电子、欧洲企业XAL及台达电子任职，拥有超十年"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 深大教授AI芯片项目再融资近亿，主动式散热微系统服务传音",
+      "url": "https://36kr.com/p/3761737030894342?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，深圳锐盟半导体有限公司（下称“锐盟半导体”）近日完成近亿元A轮融资，由松禾资本领投，中风投-华融盛资本、深圳天使母基金、四海新材及上市公司飞荣达跟投。本轮融资将主要用于核心产品压电主动式散热微系统核心技术迭代、量产示范线建设及头部客户导入等，加快消费电子、AI 终端、高性能计算等领域的批量交付。</p>\n  <p>锐盟半导体成立于2020年底，聚焦AI芯片主动式散热微系统产品。公司创始人&amp;CEO黎冰是香港中文大学博士、深圳大学电子与信息工程学院/射频异质异构集成全国重点实验室教授，博士生导师。他在压电MEMS"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
+      "url": "https://36kr.com/p/3761718611624707?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <ul>\n   <li>香港最严控烟令来了，携带电子烟上街就罚3000港元，游客也不会豁免</li>\n   <li>小米食堂推出小米冰激凌</li>\n   <li>微信3月更新9项功能，微信、企微支持连接自己的龙虾</li>\n   <li>SpaceX去年因AI投入亏损近50亿美元</li>\n   <li>保时捷在华销量再降20%，较三年前缩水6成</li>\n   <li>《OpenClaw类智能体部署风险管理指南》正式发布</li>\n  </ul>\n  <h2><strong>TOP3大新闻</strong></h2>"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
       "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
       "url": "https://36kr.com/p/3760914298651400?f=rss",
       "published_at": null,
@@ -186,54 +250,6 @@
       "url": "https://36kr.com/p/3760782917288705?f=rss",
       "published_at": null,
       "summary": "<p>今天，《王者荣耀世界》于PC端正式公测，并计划于4月内上线移动端。对于亿万王者玩家而言，等待多年的IP新作，终于揭开了面纱。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260410/v2_e6dba44e41a44a5f931b52df26dd4857@16519798_oswg119589oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界",
-      "url": "https://36kr.com/p/3760310709174784?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>过去两年，主流AI交互依赖于输入框——用户先组织语言提问，AI再给出答案。</p>\n  <p>这种“对话式”交互效率极高，却与人类最自然的认知路径相悖。我们认识世界，从来不是从“提问”开始，而是从“看见”开始。</p>\n  <p>一家成立于2025年的年轻公司Chance AI，正在尝试解决这个问题。它提出了另一种AI产品形态——Visual Agent（视觉智能体），试图让AI从“回答问题”的工具，进化为“看懂世界”的系统。</p>\n  <p>Chance AI的创始人曾熙，路径横跨学术与产业。他在巴塞罗那大学获得博士学位，"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”",
-      "url": "https://36kr.com/p/3760260422648327?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>刘强东、章泽天成立新公司，名叫“天强”</p>\n  <p>NASA发布有史以来最清晰的月球照片</p>\n  <p>法国清空在美国的129吨黄金</p>\n  <p>李佳琦深夜发文否认退休</p>\n  <p>亚马逊将停止对旧款Kindle设备提供支持</p>\n  <p>美宜佳：已与606家加盟商解除合作关系</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>“张雪峰.skill”上线GitHub引争议，律师：或侵犯人格权等多项权利</strong></p>\n  <p>近日，一款名为“张雪峰.skill”的开源项目在GitHub平台上引"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "欣旺达装车特斯拉，供应全球车型｜36氪独家",
-      "url": "https://36kr.com/p/3759598959969030?f=rss",
-      "published_at": null,
-      "summary": "<p>特斯拉在中国的供应链布局还在扩大。</p>\n  <p>36氪汽车从多位产业人士处获悉，欣旺达旗下专注动力电池业务的子公司——欣旺达动力，已进入特斯拉全球供应链，成为特斯拉全球第五家动力电池供应商。</p>\n  <p>接触到项目的产业链人士透露，这款电池已从欣旺达浙江义乌工厂出货，搭载在特斯拉上海工厂销往海外的车型上，“已经出货有一阵子了。”</p>\n  <p>至于这款电池何时搭载于国内车型，目前还无定论。“通常来说，特斯拉上新的零部件，会有小一年的观察期。”有电池行业人士向36氪分析，但是不排除其他决策因素。</p>\n  <p>一直以来，特斯都在寻找宁德时代之外的第二家中国动力电池供应商"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜李佳琦回应“缺席”直播：没有退休；市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市",
-      "url": "https://36kr.com/p/3759461864424195?f=rss",
-      "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>苏宁易采云升级“青云计划”，三年培育50个亿元级伙伴</strong></p>\n  <p>36氪获悉，4月9日，2026苏宁易采云合作伙伴大会在南京举办。会上宣布升级“青云计划”，提出新一轮三年发展目标：培育50个以上年交易规模过亿的合作伙伴，拓展采购单位至800万个，新增超1600家KA客户，年度订单量提升至1470万单，供应商签约数量增至4000家以上。该计划将全面推动政企采购的智能化与无人化转型。</p>\n  <p><strong>李佳琦回应“缺席”直播：没有退休</strong></p>\n  <p>4月8日，主播李佳琦在淘宝直播活动"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
-      "url": "https://36kr.com/p/3759372854706953?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜任彩茹</p>\n  <p>编辑｜乔芊</p>\n  <p>并入美团两年半，GN06（光年之外应团队并入美团后的名字）被赋予的使命始终是：在主营业务之外，找AI Native的增长点。今年3月，他们把这件事落到了一个具体的产品上——AI浏览器「Tabbit」正式进入公测。</p>\n  <p>为什么是浏览器？大公司在AI领域争展锋芒，行业如今的热词是“虾”、“Agent”、“Token”，浏览器一定不是那个看起来“最性感”的形态，也很难与美团的核心业务紧密相融。</p>\n  <p>GN06负责人刘炯认为，AI应用的做法可以有100种，而他想做的事情，是让浏览器帮技术“小白”把活干了，解放"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
-      "url": "https://36kr.com/p/3759269095113219?f=rss",
-      "published_at": null,
-      "summary": "<p>亦庄又“炸场”了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260409/v2_a147f009c7f94a1a8381c89e2eabf462@337187376_oswg1665990oswg4000oswg2666_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI未来大会现场</p>\n  <p>4月8日启幕的AI FUTURE北京亦"
     }
   ]
 }

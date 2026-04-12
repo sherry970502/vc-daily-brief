@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-04-12T04:15:00.289126+00:00",
+  "updated_at": "2026-04-12T14:26:01.470881+00:00",
   "period_hours": 24,
-  "tweet_count": 37,
+  "tweet_count": 39,
   "tweets": [
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-12T10:26:57.000Z",
+      "text": "Looking at images upside down is a good way to see mistakes. Hundreds of people a day must look at this Ingres portrait in the Frick Collection without noticing her right arm is growing out of her sternum. https://t.co/TEfXpkZFib",
+      "url": "https://x.com/paulg/status/2043274667717279797"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-12T09:01:24.000Z",
+      "text": "Many people are saying. https://t.co/aP9XQ7dfVO",
+      "url": "https://x.com/pmarca/status/2043253139621740740"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-12T05:07:55.000Z",
+      "text": "Claude, is that you? https://t.co/MiH7ldJigc",
+      "url": "https://x.com/pmarca/status/2043194378475454930"
+    },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
@@ -26,22 +50,6 @@
       "created_at": "2026-04-11T22:44:09.000Z",
       "text": "The people cry out for retardmaxxing. https://t.co/KSamd7dj6s",
       "url": "https://x.com/pmarca/status/2043097799815033036"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-11T21:45:45.000Z",
-      "text": "Yep! https://t.co/KvRI5t6uTo",
-      "url": "https://x.com/pmarca/status/2043083105062535321"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-11T21:43:40.000Z",
-      "text": "(1) What https://t.co/l1EJ8zVfYb",
-      "url": "https://x.com/pmarca/status/2043082578488705482"
     },
     {
       "account": "@chamath",
@@ -87,6 +95,14 @@
       "account": "@jason",
       "name": "Jason Calacanis",
       "org": "LAUNCH",
+      "created_at": "2026-04-12T05:26:18.000Z",
+      "text": "So true gentleman https://t.co/C8UTQFRjud",
+      "url": "https://x.com/jason/status/2043199007368061248"
+    },
+    {
+      "account": "@jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
       "created_at": "2026-04-12T00:48:14.000Z",
       "text": "Good times 🎶 https://t.co/AmojKqHXDe",
       "url": "https://x.com/jason/status/2043129027872043474"
@@ -116,14 +132,6 @@
       "url": "https://x.com/jason/status/2043093119613440264"
     },
     {
-      "account": "@jason",
-      "name": "Jason Calacanis",
-      "org": "LAUNCH",
-      "created_at": "2026-04-11T18:51:35.000Z",
-      "text": "if anything remotely close to this CyberSUV concept drops, it will take over the entire SUV category \n\nWould love to have hyper-lifted feature in this, in order to navigate Tahoe blizzards! https://t.co/IonEHMUPBi",
-      "url": "https://x.com/jason/status/2043039273692123396"
-    },
-    {
       "account": "@sriramk",
       "name": "Sriram Krishnan",
       "org": "a16z",
@@ -151,41 +159,73 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-12T02:22:09.000Z",
-      "text": "True https://t.co/Jt0fHztNNj",
-      "url": "https://x.com/elonmusk/status/2043152663693668601"
+      "created_at": "2026-04-12T11:42:41.000Z",
+      "text": "Grok groks https://t.co/07POC9udXF",
+      "url": "https://x.com/elonmusk/status/2043293725804421596"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-12T02:21:13.000Z",
-      "text": "Starlink is alien-level technology https://t.co/EJpU2m1nOp",
-      "url": "https://x.com/elonmusk/status/2043152426627371119"
+      "created_at": "2026-04-12T11:36:23.000Z",
+      "text": "Yes https://t.co/hxyAUJvrh2",
+      "url": "https://x.com/elonmusk/status/2043292140974006435"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-12T01:38:41.000Z",
-      "text": "Starlink Internet is awesome https://t.co/suKjqXlmm1",
-      "url": "https://x.com/elonmusk/status/2043141724344824003"
+      "created_at": "2026-04-12T11:35:41.000Z",
+      "text": "𝕏 https://t.co/VOfKLjwnjL",
+      "url": "https://x.com/elonmusk/status/2043291964943253785"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-12T01:10:44.000Z",
-      "text": "Tesla Semi feels like a sports car to drive https://t.co/an2KiEh5wG",
-      "url": "https://x.com/elonmusk/status/2043134688890605888"
+      "created_at": "2026-04-12T11:35:13.000Z",
+      "text": "This is great. \n\nAt least those judges who release violent criminals who go on to hurt more people will be publicly shamed! https://t.co/KvAq9DOOGc",
+      "url": "https://x.com/elonmusk/status/2043291848920469979"
     },
     {
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-12T00:26:03.000Z",
-      "text": "Starship V3 with Raptor 3 https://t.co/HSM8UlR5rV",
-      "url": "https://x.com/elonmusk/status/2043123445492543506"
+      "created_at": "2026-04-12T11:32:07.000Z",
+      "text": "Yes https://t.co/NTwTOe8Q79",
+      "url": "https://x.com/elonmusk/status/2043291066087207102"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-12T07:47:52.000Z",
+      "text": "GBrain 0.9.0 just dropped. Just ask your Claw/Hermes to upgrade if you're already on. \n\nEvery change I make to my Claw, you get too. And your Claw works with you to pick up the things you want, and custom configure my concepts to what you need. \n\nIt's the dawn of Personal AI https://t.co/QExmX8qVdn",
+      "url": "https://x.com/garrytan/status/2043234633408798932"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-12T05:25:25.000Z",
+      "text": "Here is my counterpoint after 3 months of releasing open source used by tens of thousands of agentic engineers per day. \n\nThin harness, fat skills: \n\nhttps://t.co/K2Sx8Cb4tz",
+      "url": "https://x.com/garrytan/status/2043198783006355747"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-12T05:25:24.000Z",
+      "text": "If your memory dies when your harness dies, you built the harness too thick.\n\nMemory is markdown. Skills are markdown. Brain is a git repo. The harness is a thin conductor — it reads the files, it doesn't own them. https://t.co/JPjnu2FhV6",
+      "url": "https://x.com/garrytan/status/2043198780800197025"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-12T04:45:45.000Z",
+      "text": "What a powerful education in latency and how to build voice systems \n\n… all just by chatting with the Claw https://t.co/0bHezE7lzW",
+      "url": "https://x.com/garrytan/status/2043188801175220306"
     },
     {
       "account": "@garrytan",
@@ -194,38 +234,6 @@
       "created_at": "2026-04-12T02:40:32.000Z",
       "text": "Matt Mahan as California governor would be an *incredible* whitepill\n\nIf we want to save California, this is the one way it could happen https://t.co/tNzXxYeJcZ",
       "url": "https://x.com/garrytan/status/2043157289943867828"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-12T02:24:58.000Z",
-      "text": "More of this please\n\nActually if you believe computer aided design and engineering is about to become 100x more awesome thanks to AI, it might just happen now https://t.co/FAzDyzHTZU",
-      "url": "https://x.com/garrytan/status/2043153371797107039"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-11T23:05:46.000Z",
-      "text": "It turns out GBrain voice now has exceeded context capability of what OpenAI Realtime can handle \n\nNext up: my claw has determined @pipecat_ai is the best option for me now https://t.co/wgzuQ84EN0",
-      "url": "https://x.com/garrytan/status/2043103243732226496"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-11T22:56:56.000Z",
-      "text": "Virgin pina colada ✅\nPool ✅\niPhone with my OpenClaw ✅\n\nStill slangin those LOCs 🫡",
-      "url": "https://x.com/garrytan/status/2043101018049908781"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-11T22:55:31.000Z",
-      "text": "Day 2 of Agentic Engineering GBrain from the poolside of the Rosewood Kona Village Hawai’i \n\nRight now added improved GBrain file storage so that private Supabase Files linked from markdown can be clicked through via Supabase Edge Function temp redirects\n\nAll from Telegram chat https://t.co/fBrLyU5Ehh",
-      "url": "https://x.com/garrytan/status/2043100662549090516"
     },
     {
       "account": "@gregisenberg",
@@ -268,6 +276,14 @@
       "url": "https://x.com/venturetwins/status/2043067344541618279"
     },
     {
+      "account": "@rabois",
+      "name": "Keith Rabois",
+      "org": "Founders Fund / Khosla Ventures",
+      "created_at": "2026-04-12T13:20:49.000Z",
+      "text": "My debut on the @lennysan podcast:  Building a successful startup in the age of AI.  https://t.co/8TdALtH9kf",
+      "url": "https://x.com/rabois/status/2043318420159058195"
+    },
+    {
       "account": "@rrhoover",
       "name": "Ryan Hoover",
       "org": "Weekend Fund",
@@ -276,12 +292,12 @@
       "url": "https://x.com/rrhoover/status/2043018264742183197"
     },
     {
-      "account": "@rrhoover",
-      "name": "Ryan Hoover",
-      "org": "Weekend Fund",
-      "created_at": "2026-04-11T14:24:24.000Z",
-      "text": "TFW you need to pee but don't want to leave Claude hanging https://t.co/fm2X7zdpcC",
-      "url": "https://x.com/rrhoover/status/2042972036734087383"
+      "account": "@tferriss",
+      "name": "Tim Ferriss",
+      "org": "Independent",
+      "created_at": "2026-04-12T11:30:50.000Z",
+      "text": "“Beware the stories you read or tell; subtly, at night, beneath the waters of consciousness, they are altering your world.” — Ben Okri",
+      "url": "https://x.com/tferriss/status/2043290745327452543"
     },
     {
       "account": "@hnshah",

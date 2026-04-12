@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-04-12T04:15:14.873870+00:00",
+  "updated_at": "2026-04-12T14:26:29.813346+00:00",
   "period_hours": 24,
   "article_count": 21,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Slate Auto: Everything you need to know about the Bezos-backed EV startup",
+      "url": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
+      "published_at": "2026-04-12T14:00:00+00:00",
+      "summary": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -36,12 +44,36 @@
       "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
     },
     {
-      "source": "TechCrunch",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-      "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
-      "published_at": "2026-04-11T14:03:00+00:00",
-      "summary": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM."
+      "title": "‘Almost unmanageable’: Raising a child in the U.S. now costs more than $300,000",
+      "url": "https://fortune.com/2026/04/12/cost-of-raising-child-in-us-2026/",
+      "published_at": "2026-04-12T13:31:00+00:00",
+      "summary": "Costs are up 1.9% from a year ago, as rent prices have spiked across the country."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "As Iran peace talks fail, Trump and Joe Rogan watch a hobbled fighter triumph in a brutal cage match",
+      "url": "https://fortune.com/2026/04/12/trump-ufc-joe-rogan-carlos-ulberg/",
+      "published_at": "2026-04-12T13:08:55+00:00",
+      "summary": "As a Kid Rock song blasted from the speakers, Trump walked to his seat, where Marco Rubio was waiting."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Haiti stares down starvation as Iran War drives 200,000 into acute food emergency status",
+      "url": "https://fortune.com/2026/04/12/haiti-starvation-risk-iran-war-inflation-food-emergency-insecurity/",
+      "published_at": "2026-04-12T13:03:30+00:00",
+      "summary": "Even before the war, about half of Haiti's 12 million people were in a state of food emergency, according to the UN."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "‘I just keep seeing a lot of different aspects of life getting more expensive’: New car prices are up 30% over 6 years",
+      "url": "https://fortune.com/2026/04/12/how-much-to-buy-new-car-50000-k-shaped-economy-inflation-affordability/",
+      "published_at": "2026-04-12T12:58:41+00:00",
+      "summary": "The K-shaped car economy means the average for a new car is nearly $50,000."
     },
     {
       "source": "Fortune",
@@ -54,58 +86,26 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘This is the last warning.’ Iran threatens U.S. warships after they throw down the gauntlet for winner-take-all Strait of Hormuz",
-      "url": "https://fortune.com/2026/04/11/iran-war-us-warships-strait-of-hormuz-transit-irgc-ceasefir-talks/",
-      "published_at": "2026-04-11T22:39:17+00:00",
-      "summary": "\"One of the things that commercial ships were waiting to see was whether or not this strait was clear, and sailing two destroyers in is a big one.\""
+      "title": "$12 billion crypto company boss says Gen Z ‘create an absurd amount of chaos’ and make him want to pull his hair out—but he’s betting on them anyway",
+      "url": "https://fortune.com/article/gen-z-hires-create-chaos-crypto-boss-bets-on-them-anyways/",
+      "published_at": "2026-04-12T11:59:33+00:00",
+      "summary": "While other leaders complain about their Gen Z new hires, Paradigm CEO Matt Huang is promoting them into the C-suite. His first hire was a 19-year-old."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump downplays talks for ceasefire deal with Iran, claiming military victory. ‘It doesn’t matter. From the standpoint of America, we win’",
-      "url": "https://fortune.com/2026/04/11/trump-iran-war-ceasefire-talks-deal-military-victory-jd-vance/",
-      "published_at": "2026-04-11T23:15:50+00:00",
-      "summary": "“Let’s see what happens – maybe they make a deal maybe they don’t,” the president said."
+      "title": "A 93-year-old refused to sell her home to the Masters golf course that’s spent $280 million on expansion: ‘Money ain’t everything’",
+      "url": "https://fortune.com/article/augusta-national-holdout-home-masters-2026/",
+      "published_at": "2026-04-12T11:50:19+00:00",
+      "summary": "Elizabeth Thacker lived next to Augusta National Golf Club her entire adult life and refused to sell her home to the club despite multiple above-market offers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Appeals court says national security implications of halting White House ballroom construction must be weighed",
-      "url": "https://fortune.com/2026/04/11/appeals-court-national-security-white-house-ballroom-construction-halt/",
-      "published_at": "2026-04-11T23:05:18+00:00",
-      "summary": "The panel instructed U.S. District Judge Richard Leon to clarify whether — and how — his injunction interferes with the administration’s plans for safety and security."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Some communities are enduring unprecedented long waits on federal disaster requests, and Democrat-led states say they’re being denied",
-      "url": "https://fortune.com/2026/04/11/disaster-declaration-requests-fema-dhs-unprecedented-long-waits-democratic-states-denials/",
-      "published_at": "2026-04-11T20:51:56+00:00",
-      "summary": "About 15 requests for assistance from others states and tribes for extreme weather events this year and last seem to be pending, along with three appeals of previous denials."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The petrodollar faces increased risk, but a petroyuan is ‘far-fetched’ as fears of U.S. losing superpower status are overhyped, strategist says",
-      "url": "https://fortune.com/2026/04/11/petrodollar-petroyuan-dedollarization-us-superpower-status-currency-dominance-oil-trade-iran-hormuz/",
-      "published_at": "2026-04-11T19:36:33+00:00",
-      "summary": "\"Lastly, even Iran's proposals for yuan or crypto-denominated Strait tolls are not meaningfully dollar-bearish; most stablecoins are effectively dollar-denominated instruments.\""
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Average price of new cars nears $50,000 as automakers focus on big pickups and SUVs while cheaper sedans get phased out",
-      "url": "https://fortune.com/2026/04/11/average-price-new-cars-50000-automakers-pickups-suv-cheaper-sedans/",
-      "published_at": "2026-04-11T17:57:52+00:00",
-      "summary": "The share of vehicles listing for less than $30,000 is about 13% — down from 40% five years ago, per the car review site CarGurus."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "U.S. Navy ships transit Hormuz ahead of mine-clearing mission",
-      "url": "https://fortune.com/2026/04/11/us-navy-ships-strait-of-hormuz-crossing-ceasefire-talks-pakistan/",
-      "published_at": "2026-04-11T14:34:46+00:00",
-      "summary": "“Today, we began the process of establishing a new passage and we will share this safe pathway with the maritime industry soon to encourage the free flow of commerce.”"
+      "title": "Legendary investor says the AI boom masks a deeper crisis: Falling sperm counts, shrinking populations, and vanishing resources",
+      "url": "https://fortune.com/2026/04/12/jeremy-grantham-making-of-a-permabear-interview/",
+      "published_at": "2026-04-12T11:30:00+00:00",
+      "summary": "Jeremy Grantham remembers rattling investors in 2022: \"I irritated the stock market players, irritated the newbies who were investing their Biden's money.\""
     },
     {
       "source": "36氪",

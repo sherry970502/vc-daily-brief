@@ -1,16 +1,8 @@
 {
-  "updated_at": "2026-04-13T04:25:04.397701+00:00",
+  "updated_at": "2026-04-13T14:12:59.757308+00:00",
   "period_hours": 24,
-  "tweet_count": 33,
+  "tweet_count": 29,
   "tweets": [
-    {
-      "account": "@paulg",
-      "name": "Paul Graham",
-      "org": "Y Combinator",
-      "created_at": "2026-04-12T10:26:57.000Z",
-      "text": "Looking at images upside down is a good way to see mistakes. Hundreds of people a day must look at this Ingres portrait in the Frick Collection without noticing her right arm is growing out of her sternum. https://t.co/TEfXpkZFib",
-      "url": "https://x.com/paulg/status/2043274667717279797"
-    },
     {
       "account": "@pmarca",
       "name": "Marc Andreessen",
@@ -20,36 +12,12 @@
       "url": "https://x.com/pmarca/status/2043422414193959062"
     },
     {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-12T09:01:24.000Z",
-      "text": "Many people are saying. https://t.co/aP9XQ7dfVO",
-      "url": "https://x.com/pmarca/status/2043253139621740740"
-    },
-    {
-      "account": "@pmarca",
-      "name": "Marc Andreessen",
-      "org": "a16z",
-      "created_at": "2026-04-12T05:07:55.000Z",
-      "text": "Claude, is that you? https://t.co/MiH7ldJigc",
-      "url": "https://x.com/pmarca/status/2043194378475454930"
-    },
-    {
       "account": "@jason",
       "name": "Jason Calacanis",
       "org": "LAUNCH",
       "created_at": "2026-04-12T20:50:11.000Z",
       "text": "China is the most at risk and oddly silent during all of this chaos 🤔 \n\nSolar, nuclear and EV investments are obviously paying off for them. \n\nExpect them to redouble their already staggering efforts to be energy independent https://t.co/d92Cg4sy4B",
       "url": "https://x.com/jason/status/2043431509596713195"
-    },
-    {
-      "account": "@jason",
-      "name": "Jason Calacanis",
-      "org": "LAUNCH",
-      "created_at": "2026-04-12T05:26:18.000Z",
-      "text": "So true gentleman https://t.co/C8UTQFRjud",
-      "url": "https://x.com/jason/status/2043199007368061248"
     },
     {
       "account": "@sriramk",
@@ -95,6 +63,30 @@
       "account": "@elonmusk",
       "name": "Elon Musk",
       "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-13T05:59:40.000Z",
+      "text": "It is https://t.co/eOElXy83vQ",
+      "url": "https://x.com/elonmusk/status/2043569790481207799"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-13T05:51:29.000Z",
+      "text": "Exactly https://t.co/1v2SYXshII",
+      "url": "https://x.com/elonmusk/status/2043567730503430184"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-13T05:37:54.000Z",
+      "text": "Well said https://t.co/B2KtC4NGrx",
+      "url": "https://x.com/elonmusk/status/2043564314251112529"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
       "created_at": "2026-04-13T01:52:19.000Z",
       "text": "Pretty obvious https://t.co/z8sYcFr1xa",
       "url": "https://x.com/elonmusk/status/2043507544472326630"
@@ -108,68 +100,44 @@
       "url": "https://x.com/elonmusk/status/2043506462203453743"
     },
     {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-13T01:41:35.000Z",
-      "text": "An insane double-standard. Who is pushing this? We should identify the people and organizations by name. https://t.co/khMLyQejqF",
-      "url": "https://x.com/elonmusk/status/2043504840064868424"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-13T01:40:05.000Z",
-      "text": "Zero https://t.co/7I2dCWp0vD",
-      "url": "https://x.com/elonmusk/status/2043504464003543526"
-    },
-    {
-      "account": "@elonmusk",
-      "name": "Elon Musk",
-      "org": "Tesla / SpaceX / xAI",
-      "created_at": "2026-04-13T00:49:39.000Z",
-      "text": "Accurate https://t.co/xoIasm8jOF",
-      "url": "https://x.com/elonmusk/status/2043491772744294808"
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-13T06:45:39.000Z",
+      "text": "New item in my SOUL md tonight https://t.co/iAwcQ2QCB7",
+      "url": "https://x.com/garrytan/status/2043581361798500602"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-12T23:32:37.000Z",
-      "text": "Just because OpenClaw doesn't write tests on its own when it's creating software for you doesn't mean you shouldn't make it make tests for you... https://t.co/TqrgnU71SH",
-      "url": "https://x.com/garrytan/status/2043472385278628018"
+      "created_at": "2026-04-13T05:46:13.000Z",
+      "text": "Do the right job at the right layer \n\nEverything else is architecture astronomy https://t.co/jqiPf14F0B",
+      "url": "https://x.com/garrytan/status/2043566405862236254"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-12T21:41:17.000Z",
-      "text": "Install OpenClaw or Hermes from these instructions and get it on WebRTC or on your Twilio number in less than half an hour\n\nIt’s Homebrew computer club but for personal AI and I’m inviting you to my garage in Mountain View. I mean my GitHub account\n\nhttps://t.co/yFpFU4pn5b",
-      "url": "https://x.com/garrytan/status/2043444366908461230"
+      "created_at": "2026-04-13T05:45:28.000Z",
+      "text": "This is the simplest distillation of what I have learned about agentic engineering this year \n\nPush smart fuzzy operations humans do into markdown skills. Fat skills. \n\nPush must-be-perfect deterministic operations into code. Fat code. \n\nThe harness? Keep it thin. https://t.co/3ESkNepZrZ",
+      "url": "https://x.com/garrytan/status/2043566215927328955"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-12T21:37:42.000Z",
-      "text": "Coming to GBrain Voice probably by tonight \n\nFully working Gemini Live voice (I think this is the best I have ever seen) with all these skills \n\nNow why ask: Why can’t Amazon and Apple can’t ship this in Siri and Alexa? I have no idea. \n\nI made this by the pool in Hawaii https://t.co/mi7faUeYMe",
-      "url": "https://x.com/garrytan/status/2043443468736032828"
+      "created_at": "2026-04-13T05:41:19.000Z",
+      "text": "Thin harness fat skill confirmed https://t.co/kVMB6MXXgq",
+      "url": "https://x.com/garrytan/status/2043565174066475472"
     },
     {
       "account": "@garrytan",
       "name": "Garry Tan",
       "org": "Y Combinator",
-      "created_at": "2026-04-12T21:28:37.000Z",
-      "text": "Rats spread leptospirosis — a tropical disease — through Berkeley's Harrison encampment . Courts blocked cleanup. This is what \"protecting\" unhoused people looks like.\n\nhttps://t.co/YObL8rvtIt",
-      "url": "https://x.com/garrytan/status/2043441179183002099"
-    },
-    {
-      "account": "@garrytan",
-      "name": "Garry Tan",
-      "org": "Y Combinator",
-      "created_at": "2026-04-12T17:26:13.000Z",
-      "text": "It’s official, Gemini Live 2.5 voice agent is the best\n\nIt’s smart, it’s fast, it has large enough context\n\nComing to GBrain Voice shortly",
-      "url": "https://x.com/garrytan/status/2043380177221357790"
+      "created_at": "2026-04-13T04:34:33.000Z",
+      "text": "Not sure if we can get there but will try",
+      "url": "https://x.com/garrytan/status/2043548370975817785"
     },
     {
       "account": "@lennysan",
@@ -186,6 +154,14 @@
       "created_at": "2026-04-12T20:10:21.000Z",
       "text": "\"High performance machines don't have psychological safety. They're about winning.\"\n\nKeith Rabois (@rabois) was COO of Square, part of the PayPal Mafia, an early investor in Stripe, Palantir, Airbnb, DoorDash, and Ramp, and a 2x founder. He's spent 25 years obsessing over how to",
       "url": "https://x.com/lennysan/status/2043421483725476008"
+    },
+    {
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
+      "created_at": "2026-04-13T14:06:30.000Z",
+      "text": "NEW DISTRIBUTION HACK\n\nI never noticed this until today\n\nI was googling something random and saw Google now has 2 NEW dedicated tabs for \"Forums\" and \"Short Video\"\n\nShort video is \"show me someone actually doing this\"\n\nForums are \"show me someone who's actually been through this\" https://t.co/OCImPD6gc1",
+      "url": "https://x.com/gregisenberg/status/2043692305475936280"
     },
     {
       "account": "@gregisenberg",
@@ -223,17 +199,17 @@
       "account": "@rabois",
       "name": "Keith Rabois",
       "org": "Founders Fund / Khosla Ventures",
-      "created_at": "2026-04-12T20:12:10.000Z",
-      "text": "Don’t miss this podcast. https://t.co/CvN0zWeIbx",
-      "url": "https://x.com/rabois/status/2043421940342215161"
+      "created_at": "2026-04-13T10:36:24.000Z",
+      "text": "How to build a high growth startup:  https://t.co/Dn6zD3HGeS https://t.co/VPNwAm0H5A",
+      "url": "https://x.com/rabois/status/2043639432771768568"
     },
     {
       "account": "@rabois",
       "name": "Keith Rabois",
       "org": "Founders Fund / Khosla Ventures",
-      "created_at": "2026-04-12T13:20:49.000Z",
-      "text": "My debut on the @lennysan podcast:  Building a successful startup in the age of AI.  https://t.co/8TdALtH9kf",
-      "url": "https://x.com/rabois/status/2043318420159058195"
+      "created_at": "2026-04-12T20:12:10.000Z",
+      "text": "Don’t miss this podcast. https://t.co/CvN0zWeIbx",
+      "url": "https://x.com/rabois/status/2043421940342215161"
     },
     {
       "account": "@rrhoover",
@@ -250,14 +226,6 @@
       "created_at": "2026-04-12T22:02:56.000Z",
       "text": "“You have comfort. You don’t have luxury. And don’t tell me that money plays a part. The luxury I advocate has nothing to do with money. It cannot be bought. It is the reward of those who have no fear of discomfort.” — Jean Cocteau",
       "url": "https://x.com/tferriss/status/2043449815258845467"
-    },
-    {
-      "account": "@tferriss",
-      "name": "Tim Ferriss",
-      "org": "Independent",
-      "created_at": "2026-04-12T11:30:50.000Z",
-      "text": "“Beware the stories you read or tell; subtly, at night, beneath the waters of consciousness, they are altering your world.” — Ben Okri",
-      "url": "https://x.com/tferriss/status/2043290745327452543"
     },
     {
       "account": "@hnshah",

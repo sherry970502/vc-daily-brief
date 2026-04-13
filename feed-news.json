@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-04-13T04:25:30.950483+00:00",
+  "updated_at": "2026-04-13T14:13:26.165138+00:00",
   "period_hours": 24,
-  "article_count": 25,
+  "article_count": 31,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
+      "url": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
+      "published_at": "2026-04-13T13:26:33+00:00",
+      "summary": "Slate Auto's latest funding round was led by existing investor TWG Global, a firm run by LA Dodgers owner Mark Walter."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat",
+      "url": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/",
+      "published_at": "2026-04-13T12:15:00+00:00",
+      "summary": "Users aged five to nine will be assigned to a \"Roblox Kids\" account, and users aged nine to 15 to will be put in a \"Roblox Select\" account."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "The largest orbital compute cluster is open for business",
+      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "published_at": "2026-04-13T07:01:00+00:00",
+      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -44,84 +68,76 @@
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     },
     {
-      "source": "TechCrunch",
+      "source": "Crunchbase News",
       "lang": "en",
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "published_at": "2026-04-12T15:00:00+00:00",
-      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Slate Auto: Everything you need to know about the Bezos-backed EV startup",
-      "url": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
-      "published_at": "2026-04-12T14:00:00+00:00",
-      "summary": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details."
+      "title": "China Leads Asia’s Startup Funding To Its Highest Level In More Than 3 Years",
+      "url": "https://news.crunchbase.com/venture/china-leads-startup-funding-ai-seed-growth-asia-q1-2026/",
+      "published_at": "2026-04-13T11:00:30+00:00",
+      "summary": "Overall, investors put $27.4 billion to work across seed- through growth-stage financings for Asian companies in Q1, per Crunchbase data. That’s up about 20% from the prior quarter and nearly double year-ago levels, with total funding also hitting its highest level in more than three years."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Stock futures sink while oil spikes as the U.S. Navy looks to squeeze Iran’s economy and break its grip on the Strait of Hormuz",
-      "url": "https://fortune.com/2026/04/12/stock-futures-oil-prices-navy-blockade-iran-exports-strait-of-hormuz/",
-      "published_at": "2026-04-12T23:26:40+00:00",
-      "summary": "\"CENTCOM forces will not impede freedom of navigation for vessels transiting the Strait of Hormuz to and from non-Iranian ports.\""
+      "title": "Spinach is the most pesticide-laden produce in America, EWG’s Dirty Dozen shows. But farmers say the list ‘villainizes’ fruits and vegetables",
+      "url": "https://fortune.com/2026/04/13/spinach-pesticides-ewg-dirty-dozen-list/",
+      "published_at": "2026-04-13T13:20:32+00:00",
+      "summary": "For items on the list, EWG suggests buying organic or frozen versions."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A major U.S. gasoline production hub is in such a severe drought that its refineries may be hobbled. ‘We are actively praying for a hurricane’",
-      "url": "https://fortune.com/2026/04/12/us-gasoline-production-corpus-christi-severe-drought-refineries-water-supply/",
-      "published_at": "2026-04-12T21:44:58+00:00",
-      "summary": "At a time when the Iran war is already raising gas prices, the shortage is hitting an area that produces 5% of the U.S. gasoline supply."
+      "title": "Bitcoin mining giant Foundry adds new pool for privacy-focused Zcash",
+      "url": "https://fortune.com/2026/04/13/bitcoin-mining-giant-foundry-adds-new-pool-for-privacy-focused-zcash/",
+      "published_at": "2026-04-13T12:59:00+00:00",
+      "summary": "The move reflects a bet that institutions will embrace ZCash, and as Foundry positions itself as a linchpin of U.S. crypto strategy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.K. won’t take part in Trump’s planned blockade of Hormuz strait",
-      "url": "https://fortune.com/2026/04/12/uk-royal-navy-kier-starmer-trump-naval-blockade-hormuz-strait/",
-      "published_at": "2026-04-12T21:16:12+00:00",
-      "summary": "The British government said in a statement Sunday that it continued to call for freedom of navigation and the opening of the strait."
+      "title": "Current price of oil as of April 13, 2026",
+      "url": "https://fortune.com/article/price-of-oil-04-13-2026/",
+      "published_at": "2026-04-13T12:53:01+00:00",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hungarian voters oust Viktor Orbán, a close ally of Trump and Putin, despite late campaign push from JD Vance",
-      "url": "https://fortune.com/2026/04/12/hungary-election-loser-viktor-orban-ally-trump-putin-campaign-push-jd-vance/",
-      "published_at": "2026-04-12T21:05:10+00:00",
-      "summary": "Péter Magyar has pledged to rebuild Hungary's relationships with the European Union and NATO."
+      "title": "‘NO PORT in the region will be safe’: Iran responds to Trump blockade with Gulf-wide threat",
+      "url": "https://fortune.com/2026/04/13/iran-threatens-ports-gulf-after-trump-blockade/",
+      "published_at": "2026-04-13T12:46:44+00:00",
+      "summary": "“Security in the Persian Gulf and the Sea of Oman is either for everyone or for NO ONE,” the Islamic Republic of Iran Broadcasting reported Monday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Blazing hot IPOs, an AI agent craze, and a new word for ‘token’: Here’s what’s happening in the world of Chinese AI",
-      "url": "https://fortune.com/2026/04/12/china-token-economy-ai-boom-big-tech-startups/",
-      "published_at": "2026-04-12T21:00:00+00:00",
-      "summary": "China hopes to build a “token economy,” backed by open-source models and real-world AI applications—even as U.S. export controls still hold things back."
+      "title": "Under attack from Trump, Pope says the president doesn’t understand ‘the message of the Gospel’",
+      "url": "https://fortune.com/2026/04/13/trump-pope-leo-criticism-response-doesnt-understand-gospel/",
+      "published_at": "2026-04-13T12:43:47+00:00",
+      "summary": "Trump delivered an extraordinary broadside against Pope Leo X, calling him \"a very liberal person\" who was \"catering to the Radical Left.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran’s crumbling economy is the regime’s greatest weakness with prices up 40% since the war began while authorities worry about making payroll",
-      "url": "https://fortune.com/2026/04/12/iran-economy-crisis-inflation-prices-payroll-unemployment-currency-collapse/",
-      "published_at": "2026-04-12T19:41:51+00:00",
-      "summary": "An Iranian official told Reuters the country \"will face a disaster\" if sanctions aren't lifted."
+      "title": "When AI sells to AI, brands win on data and identity",
+      "url": "https://fortune.com/2026/04/13/when-ai-sells-to-ai-brands-win-data-acxiom/",
+      "published_at": "2026-04-13T12:30:00+00:00",
+      "summary": "In the modern era, brands can be present anywhere. Showing up intentionally is the key to success."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Here’s how a U.S. naval blockade of the Strait of Hormuz could work. ‘This is a big task, and it’s a big gamble’",
-      "url": "https://fortune.com/2026/04/12/us-naval-blockade-strait-of-hormuz-number-warships-oil-exports-iran-economy/",
-      "published_at": "2026-04-12T17:14:13+00:00",
-      "summary": "\"It puts economic pressure on Tehran without destroying the oil facilities, which you should want to preserve into the future.\""
+      "title": "What the latest search for Satoshi means for the crypto industry",
+      "url": "https://fortune.com/crypto/2026/04/13/new-york-times-bitcoin-adam-back-satoshi-nakamoto/",
+      "published_at": "2026-04-13T11:21:03+00:00",
+      "summary": "The New York Times’ exposé seems to take aim at the very idea of anonymity."
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "Intuit was an AI pioneer. Why its stock became a SaaSpocalypse casualty",
-      "url": "https://fortune.com/2026/04/12/intuit-ai-pioneer-saaspocalypse/",
-      "published_at": "2026-04-12T16:00:04+00:00",
-      "summary": "Intuit spent years weaving AI and human experts into its business, only to see investors dump the stock in an AI-driven investor panic."
+      "title": "Agentic coding at enterprise scale demands spec-driven development",
+      "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
+      "published_at": "2026-04-14T04:00:00+00:00",
+      "summary": "<p><i>Presented by AWS</i></p><hr /><p><i>Autonomous agents are compressing software delivery timelines from weeks to days. The enterprises that scale agents safely will be the ones that build using spec-driven development.</i></p><p>There’s a moment in every technology shift where the early adopter"
     },
     {
       "source": "VentureBeat",
@@ -140,68 +156,100 @@
       "summary": "<p>For the last 18 months, the CISO playbook for generative AI has been relatively simple: Control the browser.</p><p><a href=\"https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing?_gl=1*4903t3*_up*MQ..*_ga*MTcxNTczODYxLjE3NzYwMDUzOTE.*_ga_B8TDS1LE"
     },
     {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Want to understand the current state of AI? Check out these charts.",
+      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+      "published_at": "2026-04-13T13:00:00+00:00",
+      "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts th"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+      "published_at": "2026-04-13T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in hi"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Job titles of the future: Wildlife first responder",
+      "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+      "published_at": "2026-04-13T10:00:00+00:00",
+      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "You have no choice in reading this article—maybe",
+      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+      "published_at": "2026-04-13T10:00:00+00:00",
+      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad l"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
+      "url": "https://36kr.com/p/3765207394009602?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在AI+制造 新时代到来的开局之年，工业打磨这一长期依赖人工经验的“隐形工序”，正在迎来技术拐点。</p>\n  <p>4月10日，图速自动化科技（上海）有限公司正式发布砺眸®LumiSander具身智能平台与图御™|RouteMind 2.0在线路径规划系统，同步亮相的还有图匠® LumiCraft具身打磨机器人。</p>\n  <p>三款新品同时推出，标志着这家成立十年的自动化企业正加速向具身智能表面处理技术平台转型。</p>\n  <p>打磨是工业生产中的极为关键的工艺环节，下游应用广泛。硬氪了解到，工业打磨广泛应用于轨道交通"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜“马斯克版微信”或在本周五上线；Meta押注AI数字人，正打造AI版扎克伯格；AI潮玩品牌“MOMOTOY”完成数千万元融资",
+      "url": "https://36kr.com/p/3765146768376326?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>金山办公：一季度净利同比预增402%-473%</strong></p>\n  <p>36氪获悉，金山办公公告，预计2026年第一季度实现归属于上市公司股东的净利润20.22亿元-23.07亿元，同比增长401.89%-472.81%。</p>\n  <p><strong>沪电股份：一季度净利同比预增54.76%-65.25%</strong></p>\n  <p>36氪获悉，沪电股份公告，预计2026年第一季度归属于上市公司股东的净利润为11.8亿元-12.6亿元，比上年同期增长54.76%-65.25%。</p>\n  <p><strong>M"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "野人先生崔渐为：“网红”标签对我们不公平丨厚雪专访",
+      "url": "https://36kr.com/p/3765076875117314?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;钟艺璇</p>\n  <p>编辑&nbsp;|&nbsp;乔芊</p>\n  <p>如果你在一个意大利人面前，把Gelato等同于ice cream，他一定会难过。</p>\n  <p>16世纪，Gelato诞生于文艺复兴时期的佛罗伦萨，传说中一名炼金术师创造了它。在意大利语中，Gelato本就译为冰淇淋。但它和美式冰淇淋ice cream口感大有不同，Gelato使用口感更密实，也更新鲜、低脂和健康。</p>\n  <p>目前中国冰淇淋市场中，夫妻老婆店冷柜里卖的预制冰淇淋占据75%以上的市场份额，这个品类中的高端玩家是哈根达斯。现制冰淇淋只占约25%，以DQ、波"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "包容 探索 求真 守正｜2026光幕计划终审阵容与年度面孔公布",
+      "url": "https://36kr.com/p/3764886161048323?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260413/v2_9829b6380e514568b4857c8a2dec1beb@5889148_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>当短剧成为当下备受关注的叙事形态，当AI不断拓展表达的边界，表演这门古老的艺术，也站在了新的岔路口。效率与流量构筑了可见的赛道，而真正的叩问始终沉在深处：在技术的“巧"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "这届留学生，用AI看病省出一辆特斯拉",
+      "url": "https://36kr.com/p/3764892434711049?f=rss",
+      "published_at": null,
+      "summary": "<h2>01. 用AI硬扛20天，省出一辆特斯拉</h2>\n  <p>回国做完四颗牙的根管治疗后，英国留学生土土盯着一万多的账单算了算，<strong>发现自己回国这一趟，竟然省下了一辆二手“特斯拉”。</strong></p>\n  <p>就在20天前，土土的牙痛又犯了，连吃饭都变成了一种酷刑。他迫切需要找点缓解的办法，但脑海里闪过之前在国外的看牙经历——</p>\n  <p>之前一次，同样是牙疼，土土挂了当地的一家私人医院的牙医号。一套检查下来，医生给出的治疗方案是根管治疗，要先磨牙、清洗，价格1900磅，还要做牙冠，1500磅，再加上4、500磅的手术费，治一颗牙至少要花4000磅，折合人民"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "对话雅诗兰黛集团总裁兼CEO司泰峰：让一家公司变得更敏捷，这是他的第一年｜New Look专访",
+      "url": "https://36kr.com/p/3756542711120640?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <p>从外表看，司泰峰（Stéphane de La Faverie）并不是那类锋芒毕露的“改革派”。</p>\n  <p>他多数时候带着温和的笑意，步伐与语速都偏慢——或许带着一点法国人特有的松弛感。你也很难想象，在成为父亲之前，司泰峰是“狂热的风帆冲浪和跳伞爱好者”。</p>\n  <p>当下消费环境的惊险程度可能不亚于任何冒险运动。但在日前与36氪的专访中，司泰峰展现出一种从容：<strong>“我们是一家80年历史的公司，30多年前就进入中国市场，波动对我们来说不是什么新鲜事，我们的应对思路始终是一个——尽可能贴近消费者。</st"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
+      "url": "https://36kr.com/p/3764777930621705?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>陪伴机器人走向同质化的当下，什么样的产品能吸引人？</p>\n  <p>今年年初的CES 2026上，一款身着橙色连体衣的小型机器人COCOMO，意外成为外媒镜头频频捕捉的对象。</p>\n  <p>略带“异质感”的外星宠物气质，37度接近人体的温度，创新的分体式设计既可被抱起，又能主动跟随，吸引了不少现场观众在展台前试玩体验。</p>\n  <p>同一展台上，团队还带来了另一款更轻量的桌面陪伴机器人INU。INU被定义为一款“桌面外星小狗”，通过尾巴摇摆和身体扭动作出反馈，是一个为"
+    },
+    {
       "source": "36氪",
       "lang": "zh",
       "title": "创业老炮vs00后，谁是下一代“一人公司”的标准样板",
       "url": "https://36kr.com/p/3764728843289089?f=rss",
       "published_at": null,
       "summary": "<p><strong>文｜富充</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>2026年春天，“龙虾”火热异常，也直接带火了另一个概念：OPC（One Person Company，一人公司）。</p>\n  <p>一人公司的概念最早源于2013年英国公司法，原指法律意义上的“一人有限责任公司”。在AI浪潮下，它被重新定义，演变为一种个人或极小型团队，借助AI工具，即可实现全链路闭环的新型创业模式。</p>\n  <p>越来越多的商业领袖为OPC概念站台。周鸿祎说，一人公司是 AI 时代“超级个体”的极端形态。本质是<strong>1个人指挥"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "估值 2.5 亿，成立 4 个月，潮玩中的爱马仕 「MOMOTOY」获数千万元融资",
-      "url": "https://36kr.com/p/3756978314511110?f=rss",
-      "published_at": null,
-      "summary": "<p>资本市场对潮玩的关注一直未曾退却。</p>\n  <p>近日，36氪获悉，AI潮玩品牌「MOMOTOY」已完成数千万元融资，由翼朴基金投资，投后估值2.5亿。</p>\n  <p>成立仅4个月，MOMOTOY以999足金盲盒+AI情感交互为核心特色，走出高奢化与科技化并行的差异化路径。品牌负责人透露，本轮融资资金，会重点投向AI技术迭代、高端产品矩阵落地、全球渠道拓展及核心商圈旗舰店铺设四大核心领域。</p>\n  <p>行业数据显示，2025年中国潮玩市场规模已达879.7亿元，同比增长21%，���次超越传统玩具市场规模，预计2026年将突破1100亿元，年均增速保持在20%以上。</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”",
-      "url": "https://36kr.com/p/3763919765226240?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。</p>\n  <p>本轮资金将主要用于积木生成大模型训练、AI Agent的研发以及海外市场的拓展，持续构建“AI驱动的个性化制造”核心能力体系。</p>\n  <p>过去两年，生成式AI的爆发大多集中在数字世界，而UNICUS选择"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
-      "url": "https://36kr.com/p/3757975636050695?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>“医疗健康产业正在经历它们的chatGPT时刻。”3月结束2026GTC大会上，黄仁勋再次提及AI落地新药开发场景，正带来巨大机会。</p>\n  <p>近日，据外媒报道百图生科、华深智药已启动IPO进程；中国创新药产业链上，拿到阶段性结果的“AI原生公司”受到资本青睐。其中，AI临床研发服务公司深度智耀的融资节奏更引关注。</p>\n  <p>去年12月至今年3月，这家公司接连官宣3笔D轮系列融资，累计募资接近2亿美元。<strong>据了解，当前深度智耀估值已达到数十亿美金，与去年年中相比，估值涨幅超6倍；</strong>且"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨海底捞通报员工被强制自费买礼物；王石否认被抓；何超蕸去世，信德集团官网已变黑白",
-      "url": "https://36kr.com/p/3764503979328001?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>特朗普政府将打击赴美生子</p>\n  <p>闪迪股价1年暴涨2500%，华尔街分析师强烈看涨闪迪</p>\n  <p>蜜雪冰城南美首店开业价格曝光：柠檬水8元人民币一杯</p>\n  <p>欧盟航空燃油三周后或系统性短缺</p>\n  <p>&nbsp;YouTube近三年来首次在美国上调订阅价格</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>海底捞通报员工被强制自费买礼物：已通知一千多家门店内部排查</strong></p>\n  <p>近日，有消费者爆料称，海底捞门店赠送给顾客的玩具和礼物并非公司统一配发，而是由员工自掏腰包购买。"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "为什么有钱人也不买GUCCI了？",
-      "url": "https://36kr.com/p/3762200670077448?f=rss",
-      "published_at": null,
-      "summary": "<p>曾经一只酒神包便能掀起排队热潮的GUCCI（古驰），如今似乎正通过关店、降价来重新找回市场。</p>\n  <p>3月底，GUCCI上海环贸iapm旗舰店关闭。此前，该品牌已撤掉上海芮欧百货和新世界大丸百货两家标志性门店——仅两年内一个城市内就关了三家店，关店数量占了总数的三分之一。</p>\n  <p>但另一边，开进奥莱的GUCCI热闹非凡，成了排队王中的“当红炸子鸡”。只要去奥莱，大部分消费者首奔的店都是GUCCI，因为在那里可以淘到5折甚至2.5折的货品。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
-      "url": "https://36kr.com/p/3762088319484419?f=rss",
-      "published_at": null,
-      "summary": "<p>作者/吴琼</p>\n  <p>报道/投资界PEdaily</p>\n  <p>唏嘘一幕。</p>\n  <p>近日，知名AI创业公司Yupp宣布：将停止服务，于4月15日正式关闭。要知道，这距离Yupp产品上线才不到一年时间。</p>\n  <p>曾经，Yupp的故事颇具前景：瞄准AI模型评测赛道——通过免费模型服务吸引用户评测，再将测评数据卖给模型厂商。犹记得2024年，公司拿下3300万美元（约合2.2亿元）的豪华种子轮，身后聚集a16z合伙人、Google首席科学家、Twitter联合创始人等超45位天使投资人。</p>\n  <p>只是，Yupp却以极为荒诞的方式失败：投资人的钱还没花完"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "奥特曼家被炸了！",
-      "url": "https://36kr.com/p/3762027785224707?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260411/v2_647a9b6ec83a425c8f1f0182383f03c0@5579416_oswg710370oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">奥特曼家被炸了</p>\n  <p><strong>【导读】当地时间周五清晨，奥特曼家被炸了。奥特曼发出家人和孩子的照片，并且发出长文表示，AGI如"
     }
   ]
 }

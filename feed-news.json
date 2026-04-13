@@ -1,8 +1,56 @@
 {
-  "updated_at": "2026-04-12T14:26:29.813346+00:00",
+  "updated_at": "2026-04-13T04:25:30.950483+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 25,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "published_at": "2026-04-12T21:14:38+00:00",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "published_at": "2026-04-12T19:58:42+00:00",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "X says it’s reducing payments to clickbait accounts",
+      "url": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "published_at": "2026-04-12T17:02:20+00:00",
+      "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier"
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
+      "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+      "published_at": "2026-04-12T16:06:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published_at": "2026-04-12T15:07:08+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "published_at": "2026-04-12T15:00:00+00:00",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference."
+    },
     {
       "source": "TechCrunch",
       "lang": "en",
@@ -12,100 +60,124 @@
       "summary": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details."
     },
     {
-      "source": "TechCrunch",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
-      "url": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
-      "published_at": "2026-04-12T03:00:00+00:00",
-      "summary": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Kalshi wins temporary pause in Arizona criminal case",
-      "url": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
-      "published_at": "2026-04-11T21:20:24+00:00",
-      "summary": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
-      "url": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
-      "published_at": "2026-04-11T20:32:23+00:00",
-      "summary": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?"
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-      "published_at": "2026-04-11T17:18:22+00:00",
-      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
+      "title": "Stock futures sink while oil spikes as the U.S. Navy looks to squeeze Iran’s economy and break its grip on the Strait of Hormuz",
+      "url": "https://fortune.com/2026/04/12/stock-futures-oil-prices-navy-blockade-iran-exports-strait-of-hormuz/",
+      "published_at": "2026-04-12T23:26:40+00:00",
+      "summary": "\"CENTCOM forces will not impede freedom of navigation for vessels transiting the Strait of Hormuz to and from non-Iranian ports.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Almost unmanageable’: Raising a child in the U.S. now costs more than $300,000",
-      "url": "https://fortune.com/2026/04/12/cost-of-raising-child-in-us-2026/",
-      "published_at": "2026-04-12T13:31:00+00:00",
-      "summary": "Costs are up 1.9% from a year ago, as rent prices have spiked across the country."
+      "title": "A major U.S. gasoline production hub is in such a severe drought that its refineries may be hobbled. ‘We are actively praying for a hurricane’",
+      "url": "https://fortune.com/2026/04/12/us-gasoline-production-corpus-christi-severe-drought-refineries-water-supply/",
+      "published_at": "2026-04-12T21:44:58+00:00",
+      "summary": "At a time when the Iran war is already raising gas prices, the shortage is hitting an area that produces 5% of the U.S. gasoline supply."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As Iran peace talks fail, Trump and Joe Rogan watch a hobbled fighter triumph in a brutal cage match",
-      "url": "https://fortune.com/2026/04/12/trump-ufc-joe-rogan-carlos-ulberg/",
-      "published_at": "2026-04-12T13:08:55+00:00",
-      "summary": "As a Kid Rock song blasted from the speakers, Trump walked to his seat, where Marco Rubio was waiting."
+      "title": "U.K. won’t take part in Trump’s planned blockade of Hormuz strait",
+      "url": "https://fortune.com/2026/04/12/uk-royal-navy-kier-starmer-trump-naval-blockade-hormuz-strait/",
+      "published_at": "2026-04-12T21:16:12+00:00",
+      "summary": "The British government said in a statement Sunday that it continued to call for freedom of navigation and the opening of the strait."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Haiti stares down starvation as Iran War drives 200,000 into acute food emergency status",
-      "url": "https://fortune.com/2026/04/12/haiti-starvation-risk-iran-war-inflation-food-emergency-insecurity/",
-      "published_at": "2026-04-12T13:03:30+00:00",
-      "summary": "Even before the war, about half of Haiti's 12 million people were in a state of food emergency, according to the UN."
+      "title": "Hungarian voters oust Viktor Orbán, a close ally of Trump and Putin, despite late campaign push from JD Vance",
+      "url": "https://fortune.com/2026/04/12/hungary-election-loser-viktor-orban-ally-trump-putin-campaign-push-jd-vance/",
+      "published_at": "2026-04-12T21:05:10+00:00",
+      "summary": "Péter Magyar has pledged to rebuild Hungary's relationships with the European Union and NATO."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘I just keep seeing a lot of different aspects of life getting more expensive’: New car prices are up 30% over 6 years",
-      "url": "https://fortune.com/2026/04/12/how-much-to-buy-new-car-50000-k-shaped-economy-inflation-affordability/",
-      "published_at": "2026-04-12T12:58:41+00:00",
-      "summary": "The K-shaped car economy means the average for a new car is nearly $50,000."
+      "title": "Blazing hot IPOs, an AI agent craze, and a new word for ‘token’: Here’s what’s happening in the world of Chinese AI",
+      "url": "https://fortune.com/2026/04/12/china-token-economy-ai-boom-big-tech-startups/",
+      "published_at": "2026-04-12T21:00:00+00:00",
+      "summary": "China hopes to build a “token economy,” backed by open-source models and real-world AI applications—even as U.S. export controls still hold things back."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "JD Vance leaves Pakistan after marathon talks with Iran end without a deal as Tehran refuses U.S. demand not to develop nuclear weapons",
-      "url": "https://fortune.com/2026/04/11/jd-vance-pakistan-iran-talks-end-us-demand-nuclear-weapons-development/",
-      "published_at": "2026-04-12T03:05:55+00:00",
-      "summary": "The latest bargaining lasted 21 hours, Vance said, with the vice president in constant communication with U.S. President Donald Trump and others in the administration."
+      "title": "Iran’s crumbling economy is the regime’s greatest weakness with prices up 40% since the war began while authorities worry about making payroll",
+      "url": "https://fortune.com/2026/04/12/iran-economy-crisis-inflation-prices-payroll-unemployment-currency-collapse/",
+      "published_at": "2026-04-12T19:41:51+00:00",
+      "summary": "An Iranian official told Reuters the country \"will face a disaster\" if sanctions aren't lifted."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "$12 billion crypto company boss says Gen Z ‘create an absurd amount of chaos’ and make him want to pull his hair out—but he’s betting on them anyway",
-      "url": "https://fortune.com/article/gen-z-hires-create-chaos-crypto-boss-bets-on-them-anyways/",
-      "published_at": "2026-04-12T11:59:33+00:00",
-      "summary": "While other leaders complain about their Gen Z new hires, Paradigm CEO Matt Huang is promoting them into the C-suite. His first hire was a 19-year-old."
+      "title": "Here’s how a U.S. naval blockade of the Strait of Hormuz could work. ‘This is a big task, and it’s a big gamble’",
+      "url": "https://fortune.com/2026/04/12/us-naval-blockade-strait-of-hormuz-number-warships-oil-exports-iran-economy/",
+      "published_at": "2026-04-12T17:14:13+00:00",
+      "summary": "\"It puts economic pressure on Tehran without destroying the oil facilities, which you should want to preserve into the future.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A 93-year-old refused to sell her home to the Masters golf course that’s spent $280 million on expansion: ‘Money ain’t everything’",
-      "url": "https://fortune.com/article/augusta-national-holdout-home-masters-2026/",
-      "published_at": "2026-04-12T11:50:19+00:00",
-      "summary": "Elizabeth Thacker lived next to Augusta National Golf Club her entire adult life and refused to sell her home to the club despite multiple above-market offers."
+      "title": "Intuit was an AI pioneer. Why its stock became a SaaSpocalypse casualty",
+      "url": "https://fortune.com/2026/04/12/intuit-ai-pioneer-saaspocalypse/",
+      "published_at": "2026-04-12T16:00:04+00:00",
+      "summary": "Intuit spent years weaving AI and human experts into its business, only to see investors dump the stock in an AI-driven investor panic."
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "Legendary investor says the AI boom masks a deeper crisis: Falling sperm counts, shrinking populations, and vanishing resources",
-      "url": "https://fortune.com/2026/04/12/jeremy-grantham-making-of-a-permabear-interview/",
-      "published_at": "2026-04-12T11:30:00+00:00",
-      "summary": "Jeremy Grantham remembers rattling investors in 2022: \"I irritated the stock market players, irritated the newbies who were investing their Biden's money.\""
+      "title": "Five signs data drift is already undermining your security models",
+      "url": "https://venturebeat.com/security/five-signs-data-drift-is-already-undermining-your-security-models",
+      "published_at": "2026-04-12T19:00:00+00:00",
+      "summary": "<p>Data drift happens when the statistical properties of a machine learning (ML) model&#x27;s input data change over time, eventually rendering its predictions less accurate. <a href=\"https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing?_gl=1*yt0z"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot",
+      "url": "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is",
+      "published_at": "2026-04-12T15:00:20+00:00",
+      "summary": "<p>For the last 18 months, the CISO playbook for generative AI has been relatively simple: Control the browser.</p><p><a href=\"https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing?_gl=1*4903t3*_up*MQ..*_ga*MTcxNTczODYxLjE3NzYwMDUzOTE.*_ga_B8TDS1LE"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "创业老炮vs00后，谁是下一代“一人公司”的标准样板",
+      "url": "https://36kr.com/p/3764728843289089?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>文｜富充</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>2026年春天，“龙虾”火热异常，也直接带火了另一个概念：OPC（One Person Company，一人公司）。</p>\n  <p>一人公司的概念最早源于2013年英国公司法，原指法律意义上的“一人有限责任公司”。在AI浪潮下，它被重新定义，演变为一种个人或极小型团队，借助AI工具，即可实现全链路闭环的新型创业模式。</p>\n  <p>越来越多的商业领袖为OPC概念站台。周鸿祎说，一人公司是 AI 时代“超级个体”的极端形态。本质是<strong>1个人指挥"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "估值 2.5 亿，成立 4 个月，潮玩中的爱马仕 「MOMOTOY」获数千万元融资",
+      "url": "https://36kr.com/p/3756978314511110?f=rss",
+      "published_at": null,
+      "summary": "<p>资本市场对潮玩的关注一直未曾退却。</p>\n  <p>近日，36氪获悉，AI潮玩品牌「MOMOTOY」已完成数千万元融资，由翼朴基金投资，投后估值2.5亿。</p>\n  <p>成立仅4个月，MOMOTOY以999足金盲盒+AI情感交互为核心特色，走出高奢化与科技化并行的差异化路径。品牌负责人透露，本轮融资资金，会重点投向AI技术迭代、高端产品矩阵落地、全球渠道拓展及核心商圈旗舰店铺设四大核心领域。</p>\n  <p>行业数据显示，2025年中国潮玩市场规模已达879.7亿元，同比增长21%，���次超越传统玩具市场规模，预计2026年将突破1100亿元，年均增速保持在20%以上。</p>"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”",
+      "url": "https://36kr.com/p/3763919765226240?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。</p>\n  <p>本轮资金将主要用于积木生成大模型训练、AI Agent的研发以及海外市场的拓展，持续构建“AI驱动的个性化制造”核心能力体系。</p>\n  <p>过去两年，生成式AI的爆发大多集中在数字世界，而UNICUS选择"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+      "url": "https://36kr.com/p/3757975636050695?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>“医疗健康产业正在经历它们的chatGPT时刻。”3月结束2026GTC大会上，黄仁勋再次提及AI落地新药开发场景，正带来巨大机会。</p>\n  <p>近日，据外媒报道百图生科、华深智药已启动IPO进程；中国创新药产业链上，拿到阶段性结果的“AI原生公司”受到资本青睐。其中，AI临床研发服务公司深度智耀的融资节奏更引关注。</p>\n  <p>去年12月至今年3月，这家公司接连官宣3笔D轮系列融资，累计募资接近2亿美元。<strong>据了解，当前深度智耀估值已达到数十亿美金，与去年年中相比，估值涨幅超6倍；</strong>且"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨海底捞通报员工被强制自费买礼物；王石否认被抓；何超蕸去世，信德集团官网已变黑白",
+      "url": "https://36kr.com/p/3764503979328001?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>特朗普政府将打击赴美生子</p>\n  <p>闪迪股价1年暴涨2500%，华尔街分析师强烈看涨闪迪</p>\n  <p>蜜雪冰城南美首店开业价格曝光：柠檬水8元人民币一杯</p>\n  <p>欧盟航空燃油三周后或系统性短缺</p>\n  <p>&nbsp;YouTube近三年来首次在美国上调订阅价格</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>海底捞通报员工被强制自费买礼物：已通知一千多家门店内部排查</strong></p>\n  <p>近日，有消费者爆料称，海底捞门店赠送给顾客的玩具和礼物并非公司统一配发，而是由员工自掏腰包购买。"
     },
     {
       "source": "36氪",
@@ -130,46 +202,6 @@
       "url": "https://36kr.com/p/3762027785224707?f=rss",
       "published_at": null,
       "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260411/v2_647a9b6ec83a425c8f1f0182383f03c0@5579416_oswg710370oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">奥特曼家被炸了</p>\n  <p><strong>【导读】当地时间周五清晨，奥特曼家被炸了。奥特曼发出家人和孩子的照片，并且发出长文表示，AGI如"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "那个“爱马仕”，想拯救“智障”小龙虾",
-      "url": "https://36kr.com/p/3761883183530502?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>文｜Lambda</strong></p>\n  <p><strong>编辑｜晓静</strong></p>\n  <p>4月初，Hermes Agent 火了。这个名字直接让人联想到奢侈品牌爱马仕，所以也被戏称为“爱马仕Agent”。</p>\n  <p>它由 Nous Research 在 2 月发布，定位是「The agent that grows with you」。核心卖点是一个闭环学习系统：Agent 完成复杂任务后，自动把经验固化成 Skill，下次遇到类似任务直接复用，还能在使用过程中持续改进。Skill 自动生成、越用越强——这是 Agent 领域目前最有吸引"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "雷军投的\"红娘\"要去IPO了",
-      "url": "https://36kr.com/p/3761856919093768?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260411/v2_715d94e8bd624485a209b86cf1bcb4e1@5579416_oswg73462oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">伊达母公司米连科技向港交所递交招股书</p>\n  <p>作者 | 王涛编辑 | 吾人</p>\n  <p>来源 |&nbsp;融中财经</p>\n  <"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "低空经济第一股，来了",
-      "url": "https://36kr.com/p/3761810181210633?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨韦香惠</p>\n  <p>来源丨东四十条资本</p>\n  <p>拿下开年低空经济最大一笔融资后，仅隔不到两个月，沃飞长空便迅速启动IPO进程，直指A股“低空经济第一股”。</p>\n  <p>就在签署上市辅导协议前一天，公司完成股份制改造，由“有限责任公司”整体变更为“股份有限公司”，注册资本由约1.77亿元提升至3.6亿元；与此同时，吉利科技集团CEO徐志豪接任董事长，标志着这家吉利系低空企业在治理结构与战略层面进一步向集团化、产业化靠拢。</p>\n  <p>从融资节奏来看，沃飞长空已累计完成五轮市场化融资，最新一轮金额近10亿元，刷新2026年开年以来低空经济领域最大单笔融资纪录"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
-      "url": "https://36kr.com/p/3761709375521288?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>【导读】刚刚，华尔街巨头被紧急召往华盛顿！Mythos这个模型让美国财长和美联储主席都恐慌了，向全美金融业CEO发出警告。短短一年内，SaaS市场经历了一场浩劫，2万亿美元直接蒸发。</strong></p>\n  <p>就在这周二，鲍威尔和贝森特紧急召见华尔街，向所有人发出警告——</p>\n  <p>Anthropic的最新模型Mythos，可能对金融业造成重大风险！</p>\n  <p>从蒸发2万亿美元，到紧急召集CEO进华盛顿——Anthropic的AI，正在触碰金融世界最敏感的神经。</p>\n  <p>就在今天，这个新闻已经在全网刷屏了。</p>\n  <p class"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
-      "url": "https://36kr.com/p/3761739153081096?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元天使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头的国产化替代进程。</p>\n  <p>阿基视觉成立于2022年，总部位于东莞松山湖。2025年，CEO吴选胜加入阿基视觉，吴选胜曾任日本工业镜头龙头Moritex中国区董事长兼总经理，负责技术团队与运营管理，此前还在全球500强捷普电子、欧洲企业XAL及台达电子任职，拥有超十年"
     }
   ]
 }

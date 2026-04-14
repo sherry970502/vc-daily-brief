@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-04-13T14:13:26.165138+00:00",
+  "updated_at": "2026-04-14T04:13:52.781635+00:00",
   "period_hours": 24,
-  "article_count": 31,
+  "article_count": 33,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
-      "url": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
-      "published_at": "2026-04-13T13:26:33+00:00",
-      "summary": "Slate Auto's latest funding round was led by existing investor TWG Global, a firm run by LA Dodgers owner Mark Walter."
+      "title": "An Amazon warehouse worker died on the job at Oregon facility",
+      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+      "published_at": "2026-04-14T00:26:18+00:00",
+      "summary": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat",
-      "url": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/",
-      "published_at": "2026-04-13T12:15:00+00:00",
-      "summary": "Users aged five to nine will be assigned to a \"Roblox Kids\" account, and users aged nine to 15 to will be put in a \"Roblox Select\" account."
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "published_at": "2026-04-14T00:23:33+00:00",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The largest orbital compute cluster is open for business",
-      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-      "published_at": "2026-04-13T07:01:00+00:00",
-      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space."
+      "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
+      "url": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
+      "published_at": "2026-04-13T21:11:58+00:00",
+      "summary": "Uber employees can now hail a Lucid robotaxi as part of the testing."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-      "published_at": "2026-04-12T21:14:38+00:00",
-      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+      "title": "Microsoft is officially killing its Outlook Lite app next month",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
+      "published_at": "2026-04-13T20:59:12+00:00",
+      "summary": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections. The app had already been scheduled for retirement."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple reportedly testing four designs for upcoming smart glasses",
-      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-      "published_at": "2026-04-12T19:58:42+00:00",
-      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
+      "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "published_at": "2026-04-13T20:20:47+00:00",
+      "summary": "Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X says it’s reducing payments to clickbait accounts",
-      "url": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
-      "published_at": "2026-04-12T17:02:20+00:00",
-      "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier"
+      "title": "IBM pays $17M fine to end DOJ suit over DEI programs",
+      "url": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/",
+      "published_at": "2026-04-13T19:11:27+00:00",
+      "summary": "IBM entered into a $17 million settlement agreement on Friday with the U.S. DOJ over allegations that it engaged in “illegal DEI practices.”"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
-      "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
-      "published_at": "2026-04-12T16:06:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "published_at": "2026-04-13T19:05:19+00:00",
+      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published_at": "2026-04-12T15:07:08+00:00",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "published_at": "2026-04-13T18:55:37+00:00",
+      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy."
     },
     {
       "source": "Crunchbase News",
@@ -78,58 +78,66 @@
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Spinach is the most pesticide-laden produce in America, EWG’s Dirty Dozen shows. But farmers say the list ‘villainizes’ fruits and vegetables",
-      "url": "https://fortune.com/2026/04/13/spinach-pesticides-ewg-dirty-dozen-list/",
-      "published_at": "2026-04-13T13:20:32+00:00",
-      "summary": "For items on the list, EWG suggests buying organic or frozen versions."
+      "title": "United CEO has pitched possible combination with rival American",
+      "url": "https://fortune.com/2026/04/13/united-airlines-ceo-scott-kirby-possible-merger-rival-american-airlines/",
+      "published_at": "2026-04-13T23:22:58+00:00",
+      "summary": "A combination would create the largest airline on the planet."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Bitcoin mining giant Foundry adds new pool for privacy-focused Zcash",
-      "url": "https://fortune.com/2026/04/13/bitcoin-mining-giant-foundry-adds-new-pool-for-privacy-focused-zcash/",
-      "published_at": "2026-04-13T12:59:00+00:00",
-      "summary": "The move reflects a bet that institutions will embrace ZCash, and as Foundry positions itself as a linchpin of U.S. crypto strategy."
+      "title": "Wall Street is the biggest winner of the Iran war—and the S&P 500 just turned positive for the year",
+      "url": "https://fortune.com/2026/04/13/wall-street-is-the-biggest-winner-of-the-iran-war-sp-500-brent-crude-prices/",
+      "published_at": "2026-04-13T22:16:30+00:00",
+      "summary": "The “Trump always chickens out” trade has made investors a fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Current price of oil as of April 13, 2026",
-      "url": "https://fortune.com/article/price-of-oil-04-13-2026/",
-      "published_at": "2026-04-13T12:53:01+00:00",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why."
+      "title": "With the U.S. now blockading the Strait of Hormuz, the focus is on who has ‘the guts to go through first’",
+      "url": "https://fortune.com/2026/04/13/with-the-u-s-now-blockading-the-strait-of-hormuz-the-focus-is-on-who-has-the-guts-to-go-through-first/",
+      "published_at": "2026-04-13T20:55:04+00:00",
+      "summary": "A coalition of U.S. allies is now working on a plan to safely secure the Strait of Hormuz."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘NO PORT in the region will be safe’: Iran responds to Trump blockade with Gulf-wide threat",
-      "url": "https://fortune.com/2026/04/13/iran-threatens-ports-gulf-after-trump-blockade/",
-      "published_at": "2026-04-13T12:46:44+00:00",
-      "summary": "“Security in the Persian Gulf and the Sea of Oman is either for everyone or for NO ONE,” the Islamic Republic of Iran Broadcasting reported Monday."
+      "title": "Meet the man accused of throwing a Molotov cocktail at Sam Altman: a 20-year-old AI doomer",
+      "url": "https://fortune.com/2026/04/13/meet-the-man-accused-of-throwing-a-molotov-cocktail-at-sam-altman-a-20-year-old-ai-doomer/",
+      "published_at": "2026-04-13T22:20:44+00:00",
+      "summary": "Officials found a document discussing AI’s purported risk to humanity and “our impending extinction,” according to the criminal complaint."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Under attack from Trump, Pope says the president doesn’t understand ‘the message of the Gospel’",
-      "url": "https://fortune.com/2026/04/13/trump-pope-leo-criticism-response-doesnt-understand-gospel/",
-      "published_at": "2026-04-13T12:43:47+00:00",
-      "summary": "Trump delivered an extraordinary broadside against Pope Leo X, calling him \"a very liberal person\" who was \"catering to the Radical Left.”"
+      "title": "Colombia approves plan to kill cocaine hippos roaming through center of country",
+      "url": "https://fortune.com/2026/04/13/colombia-cocaine-hippos-pablo-escobar/",
+      "published_at": "2026-04-13T22:16:21+00:00",
+      "summary": "Colombia is the only country outside of Africa with a wild hippo population. They are descended from the private zoo of famous gangster Pablo Escobar."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "When AI sells to AI, brands win on data and identity",
-      "url": "https://fortune.com/2026/04/13/when-ai-sells-to-ai-brands-win-data-acxiom/",
-      "published_at": "2026-04-13T12:30:00+00:00",
-      "summary": "In the modern era, brands can be present anywhere. Showing up intentionally is the key to success."
+      "title": "Trump refuses to apologize to the Pope, offers implausible explanation for tweeting himself as Jesus",
+      "url": "https://fortune.com/2026/04/13/trump-refuses-apology-pope-social-media-jesus-campaign/",
+      "published_at": "2026-04-13T22:12:37+00:00",
+      "summary": "“I did post it, and I thought it was me as a doctor and it had to do with the Red Cross,” Trump said about the image of him as Jesus."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "What the latest search for Satoshi means for the crypto industry",
-      "url": "https://fortune.com/crypto/2026/04/13/new-york-times-bitcoin-adam-back-satoshi-nakamoto/",
-      "published_at": "2026-04-13T11:21:03+00:00",
-      "summary": "The New York Times’ exposé seems to take aim at the very idea of anonymity."
+      "title": "New drones are giving Ukraine a battlefield advantage and ravaging Russia’s oil industry",
+      "url": "https://fortune.com/2026/04/13/drone-warfare-ukraine-battlefield-advantage-russia-economy-oil-industry/",
+      "published_at": "2026-04-13T20:53:42+00:00",
+      "summary": "“Ukraine’s defensive successes, drone adaptations, and midrange strike campaign are creating compounding effects…degrading Russian frontline forces.”"
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Americans are credit-card-maxing tax season with sign-up bonuses while half the country relies on their refund to catch up on bills",
+      "url": "https://fortune.com/2026/04/13/credit-card-maxxing-sign-up-bonus-tax-season-refunds/",
+      "published_at": "2026-04-13T20:07:28+00:00",
+      "summary": "If you’ve been eyeing a credit card sign-up bonus, tax day might be the perfect opportunity for you to open a new credit card."
     },
     {
       "source": "VentureBeat",
@@ -142,18 +150,26 @@
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Five signs data drift is already undermining your security models",
-      "url": "https://venturebeat.com/security/five-signs-data-drift-is-already-undermining-your-security-models",
-      "published_at": "2026-04-12T19:00:00+00:00",
-      "summary": "<p>Data drift happens when the statistical properties of a machine learning (ML) model&#x27;s input data change over time, eventually rendering its predictions less accurate. <a href=\"https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing?_gl=1*yt0z"
+      "title": "Is Anthropic 'nerfing' Claude? Users increasingly report performance degradation as leaders push back",
+      "url": "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance",
+      "published_at": "2026-04-13T17:11:31+00:00",
+      "summary": "<p>A growing number of developers and AI power users are taking to social media to accuse Anthropic of degrading the performance of Claude Opus 4.6 and Claude Code — intentionally or as an outcome of compute limits — arguing that the company’s flagship coding model feels less capable, less reliable"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot",
-      "url": "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is",
-      "published_at": "2026-04-12T15:00:20+00:00",
-      "summary": "<p>For the last 18 months, the CISO playbook for generative AI has been relatively simple: Control the browser.</p><p><a href=\"https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing?_gl=1*4903t3*_up*MQ..*_ga*MTcxNTczODYxLjE3NzYwMDUzOTE.*_ga_B8TDS1LE"
+      "title": "Designing the agentic AI enterprise for measurable performance",
+      "url": "https://venturebeat.com/orchestration/designing-the-agentic-ai-enterprise-for-measurable-performance",
+      "published_at": "2026-04-13T07:00:00+00:00",
+      "summary": "<p><i>Presented by Edgeverve</i></p><hr /><p>Smart, semi‑autonomous AI agents handling complex, real‑time business work is a compelling vision. But moving from impressive pilots to production‑grade impact requires more than clever prompts or proof‑of‑concept demos. It takes clear goals, data‑driven"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Why opinion on AI is so divided",
+      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+      "published_at": "2026-04-13T15:48:28+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a s"
     },
     {
       "source": "MIT Tech Review",
@@ -190,6 +206,38 @@
     {
       "source": "36氪",
       "lang": "zh",
+      "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
+      "url": "https://36kr.com/p/3765986197684736?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260414/v2_f025427861ad4c7fa934b9a8b4530649@5920579_oswg32284oswg707oswg397_img_000?x-os"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+      "url": "https://36kr.com/p/3764953900990977?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。</p>\n  <p>张海波早把自己训练成了各种球类的高手。</p>\n  <p>2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学球。见到张海波时，他告诉硬氪，经过半年训练，现在已经打到了NTRP 3.0——相当于普通用户通常要练一两年才能达到的进阶水平。他没请私教，也没有陪练，唯一的老师，就是那台被自己反复击打的发球机器人。</p>\n  <p>张海波很早就精通乒乓球，他是国内最早一批将强化学习用于乒乓球对打的工程师。早年在上市公司任职期间，他"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+      "url": "https://36kr.com/p/3765932138103554?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>张雪回应机车新手禁令</p>\n  <p>西班牙首相桑切斯参观小米科技园</p>\n  <p>中央网信办：加强网络直播打赏规范管理</p>\n  <p>小红书跨境电商平台Redshop将于今年6月正式上线</p>\n  <p>A股景气度投资或回归主线</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>“马斯克版微信”或在4月17日上线</strong></p>\n  <p>美国当地时间4月11日，X平台宣布旗下独立社交应用XChat将于4月17日正式登陆App Store。这款被外界视为“西方版微信”的应用，主打端到端加密、无广告及无追踪，"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+      "url": "https://36kr.com/p/3765331768967686?f=rss",
+      "published_at": null,
+      "summary": "<p>4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。</p>\n  <p>此前，荣耀曾在Magic V6旗舰新品发布会宣布要带来龙虾宇宙，支持YOYO控虾、生态养虾、安全养虾三大能力。</p>\n  <p>YOYO Claw，是荣耀龙虾宇宙的第一步。YOYO Claw于3月27日开启封测，用户可以选择不同设备，在PC端、Pad端进行接入使用。</p>\n  <p>不过，这次荣耀直接把YOYO Claw封进了PC端，成为笔记本出厂即带的能力。荣耀PC产品总经理朱臣才分享道：“今年我们希望PC（Perso"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
       "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
       "url": "https://36kr.com/p/3765207394009602?f=rss",
       "published_at": null,
@@ -218,38 +266,6 @@
       "url": "https://36kr.com/p/3764886161048323?f=rss",
       "published_at": null,
       "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260413/v2_9829b6380e514568b4857c8a2dec1beb@5889148_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>当短剧成为当下备受关注的叙事形态，当AI不断拓展表达的边界，表演这门古老的艺术，也站在了新的岔路口。效率与流量构筑了可见的赛道，而真正的叩问始终沉在深处：在技术的“巧"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "这届留学生，用AI看病省出一辆特斯拉",
-      "url": "https://36kr.com/p/3764892434711049?f=rss",
-      "published_at": null,
-      "summary": "<h2>01. 用AI硬扛20天，省出一辆特斯拉</h2>\n  <p>回国做完四颗牙的根管治疗后，英国留学生土土盯着一万多的账单算了算，<strong>发现自己回国这一趟，竟然省下了一辆二手“特斯拉”。</strong></p>\n  <p>就在20天前，土土的牙痛又犯了，连吃饭都变成了一种酷刑。他迫切需要找点缓解的办法，但脑海里闪过之前在国外的看牙经历——</p>\n  <p>之前一次，同样是牙疼，土土挂了当地的一家私人医院的牙医号。一套检查下来，医生给出的治疗方案是根管治疗，要先磨牙、清洗，价格1900磅，还要做牙冠，1500磅，再加上4、500磅的手术费，治一颗牙至少要花4000磅，折合人民"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "对话雅诗兰黛集团总裁兼CEO司泰峰：让一家公司变得更敏捷，这是他的第一年｜New Look专访",
-      "url": "https://36kr.com/p/3756542711120640?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <p>从外表看，司泰峰（Stéphane de La Faverie）并不是那类锋芒毕露的“改革派”。</p>\n  <p>他多数时候带着温和的笑意，步伐与语速都偏慢——或许带着一点法国人特有的松弛感。你也很难想象，在成为父亲之前，司泰峰是“狂热的风帆冲浪和跳伞爱好者”。</p>\n  <p>当下消费环境的惊险程度可能不亚于任何冒险运动。但在日前与36氪的专访中，司泰峰展现出一种从容：<strong>“我们是一家80年历史的公司，30多年前就进入中国市场，波动对我们来说不是什么新鲜事，我们的应对思路始终是一个——尽可能贴近消费者。</st"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
-      "url": "https://36kr.com/p/3764777930621705?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>陪伴机器人走向同质化的当下，什么样的产品能吸引人？</p>\n  <p>今年年初的CES 2026上，一款身着橙色连体衣的小型机器人COCOMO，意外成为外媒镜头频频捕捉的对象。</p>\n  <p>略带“异质感”的外星宠物气质，37度接近人体的温度，创新的分体式设计既可被抱起，又能主动跟随，吸引了不少现场观众在展台前试玩体验。</p>\n  <p>同一展台上，团队还带来了另一款更轻量的桌面陪伴机器人INU。INU被定义为一款“桌面外星小狗”，通过尾巴摇摆和身体扭动作出反馈，是一个为"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "创业老炮vs00后，谁是下一代“一人公司”的标准样板",
-      "url": "https://36kr.com/p/3764728843289089?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>文｜富充</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>2026年春天，“龙虾”火热异常，也直接带火了另一个概念：OPC（One Person Company，一人公司）。</p>\n  <p>一人公司的概念最早源于2013年英国公司法，原指法律意义上的“一人有限责任公司”。在AI浪潮下，它被重新定义，演变为一种个人或极小型团队，借助AI工具，即可实现全链路闭环的新型创业模式。</p>\n  <p>越来越多的商业领袖为OPC概念站台。周鸿祎说，一人公司是 AI 时代“超级个体”的极端形态。本质是<strong>1个人指挥"
     }
   ]
 }

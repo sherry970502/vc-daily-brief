@@ -1,271 +1,287 @@
 {
-  "updated_at": "2026-04-14T04:13:52.781635+00:00",
+  "updated_at": "2026-04-15T04:13:00.935874+00:00",
   "period_hours": 24,
-  "article_count": 33,
+  "article_count": 35,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "An Amazon warehouse worker died on the job at Oregon facility",
-      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
-      "published_at": "2026-04-14T00:26:18+00:00",
-      "summary": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related."
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "published_at": "2026-04-15T02:31:04+00:00",
+      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "published_at": "2026-04-14T00:23:33+00:00",
-      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+      "published_at": "2026-04-14T21:33:38+00:00",
+      "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
-      "url": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
-      "published_at": "2026-04-13T21:11:58+00:00",
-      "summary": "Uber employees can now hail a Lucid robotaxi as part of the testing."
+      "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
+      "url": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
+      "published_at": "2026-04-14T18:31:34+00:00",
+      "summary": "Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft is officially killing its Outlook Lite app next month",
-      "url": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
-      "published_at": "2026-04-13T20:59:12+00:00",
-      "summary": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections. The app had already been scheduled for retirement."
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "published_at": "2026-04-14T18:09:12+00:00",
+      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
-      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "published_at": "2026-04-13T20:20:47+00:00",
-      "summary": "Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes."
+      "title": "London gets closer to its first robotaxi service as Waymo begins testing",
+      "url": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/",
+      "published_at": "2026-04-14T18:00:09+00:00",
+      "summary": "Waymo's commercial service will eventually follow testing if the U.K. government approves."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "IBM pays $17M fine to end DOJ suit over DEI programs",
-      "url": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/",
-      "published_at": "2026-04-13T19:11:27+00:00",
-      "summary": "IBM entered into a $17 million settlement agreement on Friday with the U.S. DOJ over allegations that it engaged in “illegal DEI practices.”"
+      "title": "YouTube livestreams will now hold back ads during peak engagement to protect the vibe",
+      "url": "https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/",
+      "published_at": "2026-04-14T17:18:20+00:00",
+      "summary": "Until now, the only way to avoid seeing ads was by paying for a YouTube Premium subscription."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft is working on yet another OpenClaw-like agent",
-      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-      "published_at": "2026-04-13T19:05:19+00:00",
-      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "published_at": "2026-04-14T17:13:03+00:00",
+      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "published_at": "2026-04-13T18:55:37+00:00",
-      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy."
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "published_at": "2026-04-14T17:00:00+00:00",
+      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "China Leads Asia’s Startup Funding To Its Highest Level In More Than 3 Years",
-      "url": "https://news.crunchbase.com/venture/china-leads-startup-funding-ai-seed-growth-asia-q1-2026/",
-      "published_at": "2026-04-13T11:00:30+00:00",
-      "summary": "Overall, investors put $27.4 billion to work across seed- through growth-stage financings for Asian companies in Q1, per Crunchbase data. That’s up about 20% from the prior quarter and nearly double year-ago levels, with total funding also hitting its highest level in more than three years."
+      "title": "AI Drives Europe’s Second Straight Quarter Of Funding Gain As Deal Volume Falls Sharply",
+      "url": "https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/",
+      "published_at": "2026-04-14T11:00:55+00:00",
+      "summary": "European venture funding reached $17.6 billion  in Q1 2026, Crunchbase data shows. That’s up nearly 30% year over year and marks the second consecutive quarter of growth. The main driver was AI, which for the first time claimed more than 50% of the continent’s total funding for the quarter."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "United CEO has pitched possible combination with rival American",
-      "url": "https://fortune.com/2026/04/13/united-airlines-ceo-scott-kirby-possible-merger-rival-american-airlines/",
-      "published_at": "2026-04-13T23:22:58+00:00",
-      "summary": "A combination would create the largest airline on the planet."
+      "title": "Another month, another record-high home price: March hits $408,800—the 33rd straight increase",
+      "url": "https://fortune.com/2026/04/14/march-home-price-record-high-affordability-buyers-market/",
+      "published_at": "2026-04-14T20:22:36+00:00",
+      "summary": "The median existing home price rose 1.4% from a year ago even as sales fell 3.6%, the NAR reported. Experts say the market needs up to 500,000 more homes to feel normal."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Wall Street is the biggest winner of the Iran war—and the S&P 500 just turned positive for the year",
-      "url": "https://fortune.com/2026/04/13/wall-street-is-the-biggest-winner-of-the-iran-war-sp-500-brent-crude-prices/",
-      "published_at": "2026-04-13T22:16:30+00:00",
-      "summary": "The “Trump always chickens out” trade has made investors a fortune."
+      "title": "Home sales just fell 3.6%—and the spring buying season may not save them",
+      "url": "https://fortune.com/2026/04/14/home-sales-fell-in-march-as-spring-buying-season-has-rough-start/",
+      "published_at": "2026-04-14T20:20:56+00:00",
+      "summary": "Affordability fears, high mortgage rates, and a war in the Middle East are rewriting the rules of the housing market’s most important season."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "With the U.S. now blockading the Strait of Hormuz, the focus is on who has ‘the guts to go through first’",
-      "url": "https://fortune.com/2026/04/13/with-the-u-s-now-blockading-the-strait-of-hormuz-the-focus-is-on-who-has-the-guts-to-go-through-first/",
-      "published_at": "2026-04-13T20:55:04+00:00",
-      "summary": "A coalition of U.S. allies is now working on a plan to safely secure the Strait of Hormuz."
+      "title": "Trump’s economy officially passes Biden’s for worst consumer sentiment in recorded history",
+      "url": "https://fortune.com/2026/04/14/michigan-consumer-sentiment-record-low-trump-economy-unfavorable-iran-war/",
+      "published_at": "2026-04-14T20:00:24+00:00",
+      "summary": "The University of Michigan's index plunged to 47.6 in April — shattering the prior floor set during the 2022 inflation crisis."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet the man accused of throwing a Molotov cocktail at Sam Altman: a 20-year-old AI doomer",
-      "url": "https://fortune.com/2026/04/13/meet-the-man-accused-of-throwing-a-molotov-cocktail-at-sam-altman-a-20-year-old-ai-doomer/",
-      "published_at": "2026-04-13T22:20:44+00:00",
-      "summary": "Officials found a document discussing AI’s purported risk to humanity and “our impending extinction,” according to the criminal complaint."
+      "title": "Xi Jinping says the world order is ‘crumbling into disarray.’ Larry Fink and the IMF are worried about a global recession",
+      "url": "https://fortune.com/2026/04/14/will-iran-war-cause-recession-xi-jinping-imf-larry-fink/",
+      "published_at": "2026-04-14T19:59:21+00:00",
+      "summary": "The Iran war, trade chaos, and a shifting geopolitical landscape are converging into what could be the defining economic moment of the decade."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Colombia approves plan to kill cocaine hippos roaming through center of country",
-      "url": "https://fortune.com/2026/04/13/colombia-cocaine-hippos-pablo-escobar/",
-      "published_at": "2026-04-13T22:16:21+00:00",
-      "summary": "Colombia is the only country outside of Africa with a wild hippo population. They are descended from the private zoo of famous gangster Pablo Escobar."
+      "title": "From Molotov cocktails to data center shutdowns, the AI backlash is turning revolutionary",
+      "url": "https://fortune.com/2026/04/14/ai-backlash-revolutionary-sam-altman-molotov-cocktails-data-centers/",
+      "published_at": "2026-04-14T19:58:28+00:00",
+      "summary": "Gen Z is furious about AI, and so is the American countryside."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump refuses to apologize to the Pope, offers implausible explanation for tweeting himself as Jesus",
-      "url": "https://fortune.com/2026/04/13/trump-refuses-apology-pope-social-media-jesus-campaign/",
-      "published_at": "2026-04-13T22:12:37+00:00",
-      "summary": "“I did post it, and I thought it was me as a doctor and it had to do with the Red Cross,” Trump said about the image of him as Jesus."
+      "title": "Trump’s macho MAGA economy is a bust. But there are plenty of high-paying jobs for men—in nursing and teaching",
+      "url": "https://fortune.com/2026/04/14/trump-manufacturing-maga-economy-bust-nurses-teachers/",
+      "published_at": "2026-04-14T19:51:02+00:00",
+      "summary": "Tired: Blue collar. Wired: Pink collar."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "New drones are giving Ukraine a battlefield advantage and ravaging Russia’s oil industry",
-      "url": "https://fortune.com/2026/04/13/drone-warfare-ukraine-battlefield-advantage-russia-economy-oil-industry/",
-      "published_at": "2026-04-13T20:53:42+00:00",
-      "summary": "“Ukraine’s defensive successes, drone adaptations, and midrange strike campaign are creating compounding effects…degrading Russian frontline forces.”"
+      "title": "Goldman Sachs makes surprise jump into Bitcoin ETFs with a product one analyst dubs ‘boomer candy’",
+      "url": "https://fortune.com/2026/04/14/goldman-sachs-bitcoin-etf-boomer-candy/",
+      "published_at": "2026-04-14T18:31:28+00:00",
+      "summary": "The filing from a major U.S. bank comes shortly after Morgan Stanley’s Bitcoin ETF launched."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Americans are credit-card-maxing tax season with sign-up bonuses while half the country relies on their refund to catch up on bills",
-      "url": "https://fortune.com/2026/04/13/credit-card-maxxing-sign-up-bonus-tax-season-refunds/",
-      "published_at": "2026-04-13T20:07:28+00:00",
-      "summary": "If you’ve been eyeing a credit card sign-up bonus, tax day might be the perfect opportunity for you to open a new credit card."
+      "title": "The billionaire Anthropic cofounder who majored in literature says knowing how to ask the right questions beats knowing how to code",
+      "url": "https://fortune.com/2026/04/14/billionaire-anthropic-cofounder-jack-clark-coding-programming-education-gen-z-unemployment/",
+      "published_at": "2026-04-14T20:56:17+00:00",
+      "summary": "Anthropic’s liberal-arts-educated cofounder says “rote programming” is best avoided."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Agentic coding at enterprise scale demands spec-driven development",
-      "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
-      "published_at": "2026-04-14T04:00:00+00:00",
-      "summary": "<p><i>Presented by AWS</i></p><hr /><p><i>Autonomous agents are compressing software delivery timelines from weeks to days. The enterprises that scale agents safely will be the ones that build using spec-driven development.</i></p><p>There’s a moment in every technology shift where the early adopter"
+      "title": "Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
+      "url": "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but",
+      "published_at": "2026-04-14T16:57:09+00:00",
+      "summary": "<p>Anthropic announced a new platform last week, <a href=\"https://claude.com/blog/claude-managed-agents\">Claude Managed Agents</a>, aiming to cut out the more complex parts of AI agent deployment for enterprises and competes with existing orchestration frameworks.</p><p>Claude Managed Agents is also"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Is Anthropic 'nerfing' Claude? Users increasingly report performance degradation as leaders push back",
-      "url": "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance",
-      "published_at": "2026-04-13T17:11:31+00:00",
-      "summary": "<p>A growing number of developers and AI power users are taking to social media to accuse Anthropic of degrading the performance of Claude Opus 4.6 and Claude Code — intentionally or as an outcome of compute limits — arguing that the company’s flagship coding model feels less capable, less reliable"
+      "title": "Google leaders including Demis Hassabis push back on claim of uneven AI adoption internally",
+      "url": "https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally",
+      "published_at": "2026-04-14T16:51:00+00:00",
+      "summary": "<p>A <a href=\"https://x.com/Steve_Yegge/status/2043747998740689171\">viral post on X</a> from veteran programmer and former Google engineer <a href=\"https://x.com/Steve_Yegge\">Steve Yegge</a> set off a rhetorical firestorm this week, drawing sharp public rebuttals from some of Google’s most prominent"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Designing the agentic AI enterprise for measurable performance",
-      "url": "https://venturebeat.com/orchestration/designing-the-agentic-ai-enterprise-for-measurable-performance",
-      "published_at": "2026-04-13T07:00:00+00:00",
-      "summary": "<p><i>Presented by Edgeverve</i></p><hr /><p>Smart, semi‑autonomous AI agents handling complex, real‑time business work is a compelling vision. But moving from impressive pilots to production‑grade impact requires more than clever prompts or proof‑of‑concept demos. It takes clear goals, data‑driven"
+      "title": "Microsoft launches MAI-Image-2-Efficient, a cheaper and faster AI image model",
+      "url": "https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model",
+      "published_at": "2026-04-14T16:00:00+00:00",
+      "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft</a> today launched <a href=\"https://microsoft.ai/news/mai-image-2e-flagship-quality-41-lower-cost/\">MAI-Image-2-Efficient</a>, a lower-cost, higher-speed variant of its flagship text-to-image model that the company says delivers production-ready"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Databricks tested a stronger model against its multi-step agent on hybrid queries. The stronger model still lost by 21%.",
+      "url": "https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single",
+      "published_at": "2026-04-14T15:00:00+00:00",
+      "summary": "<p>Data teams building AI agents keep running into the same failure mode. Questions that require joining structured data with unstructured content, sales figures alongside customer reviews or citation counts alongside academic papers, break single-turn RAG systems. </p><p>New research from Databrick"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "43% of AI-generated code changes need debugging in production, survey finds",
+      "url": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds",
+      "published_at": "2026-04-14T13:00:00+00:00",
+      "summary": "<p>The software industry is racing to write code with artificial intelligence. It is struggling, badly, to make sure that code holds up once it ships.</p><p>A survey of 200 senior site-reliability and DevOps leaders at large enterprises across the United States, United Kingdom, and European Union pa"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Why opinion on AI is so divided",
-      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-      "published_at": "2026-04-13T15:48:28+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a s"
+      "title": "Redefining the future of software engineering",
+      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+      "published_at": "2026-04-14T18:00:00+00:00",
+      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Want to understand the current state of AI? Check out these charts.",
-      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-      "published_at": "2026-04-13T13:00:00+00:00",
-      "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts th"
+      "title": "The Download: the state of AI, and protecting bears with drones",
+      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+      "published_at": "2026-04-14T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.&#160; If&#160;you’re&#160;following AI news,&#160;you’re&#160;probably getting&#16"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
-      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
-      "published_at": "2026-04-13T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in hi"
+      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+      "published_at": "2026-04-14T12:04:47+00:00",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administ"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Job titles of the future: Wildlife first responder",
-      "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
-      "published_at": "2026-04-13T10:00:00+00:00",
-      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered"
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "published_at": "2026-04-14T11:00:00+00:00",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "You have no choice in reading this article—maybe",
-      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
-      "published_at": "2026-04-13T10:00:00+00:00",
-      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad l"
+      "title": "The problem with thinking you’re part Neanderthal",
+      "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+      "published_at": "2026-04-14T10:00:00+00:00",
+      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
-      "url": "https://36kr.com/p/3765986197684736?f=rss",
+      "title": "粗门完成数千万A+轮融资，在AI时代让更多人“出门”｜36氪首发",
+      "url": "https://36kr.com/p/3766710136570368?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260414/v2_f025427861ad4c7fa934b9a8b4530649@5920579_oswg32284oswg707oswg397_img_000?x-os"
+      "summary": "<p>36氪获悉，线下兴趣活动社区“粗门”已完成新一轮融资，投资方为一家长期关注消费与生活方式领域的香港家族基金。&nbsp;本轮资金将主要用于扩大品牌影响力、提升优质主理人供给，并加速社区生态与玩法体系建设。这也是粗门继2023年获得Keep战略投资后的又一次融资。</p>\n  <p>粗门正在试图重构一件逐渐被忽视的事情——人们“如何在现实世界一起玩”。</p>\n  <h3>当线上娱乐极度丰富，线下体验反而变稀缺</h3>\n  <p>过去二十年，互联网解决的是“链接”和“内容”。但今天，一个新的问题正在出现：线上娱乐越丰富，线下真实体验反而越稀缺。</p>\n  <p>短视频、游戏、社交平台占"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
-      "url": "https://36kr.com/p/3764953900990977?f=rss",
+      "title": "最前线｜追觅生态企业娲宝科技发布宠物智能项圈，布局“项圈+宠粮”数据闭环",
+      "url": "https://36kr.com/p/3767424500171271?f=rss",
       "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。</p>\n  <p>张海波早把自己训练成了各种球类的高手。</p>\n  <p>2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学球。见到张海波时，他告诉硬氪，经过半年训练，现在已经打到了NTRP 3.0——相当于普通用户通常要练一两年才能达到的进阶水平。他没请私教，也没有陪练，唯一的老师，就是那台被自己反复击打的发球机器人。</p>\n  <p>张海波很早就精通乒乓球，他是国内最早一批将强化学习用于乒乓球对打的工程师。早年在上市公司任职期间，他"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>4月13日，娲宝科技正式推出新一代宠物智能项圈，并同步披露其技术架构及后续产品布局。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260415/v2_0313c5e37c564d988fb991d8a03a22f0@5920579_oswg418824oswg736oswg392_img_png?x-oss-process=image/quality,q_100/forma"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
-      "url": "https://36kr.com/p/3765932138103554?f=rss",
+      "title": "8点1氪丨许家印一审当庭认罪悔罪；交管部门回应新能源车牌绿色变白色；生成内容涉黄，哩布哩布AI回应",
+      "url": "https://36kr.com/p/3767326268392199?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>张雪回应机车新手禁令</p>\n  <p>西班牙首相桑切斯参观小米科技园</p>\n  <p>中央网信办：加强网络直播打赏规范管理</p>\n  <p>小红书跨境电商平台Redshop将于今年6月正式上线</p>\n  <p>A股景气度投资或回归主线</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>“马斯克版微信”或在4月17日上线</strong></p>\n  <p>美国当地时间4月11日，X平台宣布旗下独立社交应用XChat将于4月17日正式登陆App Store。这款被外界视为“西方版微信”的应用，主打端到端加密、无广告及无追踪，"
+      "summary": "<h2>今日热点导览</h2>\n  <p>可能含有“永久性化学物”，Lululemon在美被调查</p>\n  <p>近一周“一口价”黄金产品最高下跌17%</p>\n  <p>中国将健全药品价格形成机制</p>\n  <p>离境退税2.0版措施预计4月底前推出</p>\n  <p>苹果加码iPhone Fold</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>恒大集团、恒大地产及许家印案一审开庭</strong></p>\n  <p>2026年4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
-      "url": "https://36kr.com/p/3765331768967686?f=rss",
+      "title": "《明末》团队解散背后，国产单机究竟还缺什么？",
+      "url": "https://36kr.com/p/3766718158324489?f=rss",
       "published_at": null,
-      "summary": "<p>4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。</p>\n  <p>此前，荣耀曾在Magic V6旗舰新品发布会宣布要带来龙虾宇宙，支持YOYO控虾、生态养虾、安全养虾三大能力。</p>\n  <p>YOYO Claw，是荣耀龙虾宇宙的第一步。YOYO Claw于3月27日开启封测，用户可以选择不同设备，在PC端、Pad端进行接入使用。</p>\n  <p>不过，这次荣耀直接把YOYO Claw封进了PC端，成为笔记本出厂即带的能力。荣耀PC产品总经理朱臣才分享道：“今年我们希望PC（Perso"
+      "summary": "<p>文丨果脯</p>\n  <p>编辑丨刘士武</p>\n  <p>过去几天里，《明末：渊虚之羽》（后称：明末）制作组解散、制作人夏思源离职创业的消息，让不少人感到唏嘘。</p>\n  <p>这款由灵泽科技开发的国产类魂动作游戏，曾被寄予厚望，后续也取得了不错的成绩。</p>\n  <p>据统计，2025年上线后，游戏在Steam预估销量约120万套，主机平台PS5约30至40万套，加上其他渠道总计约200万套，销售额超过5亿元。这样的成绩，放在国内单机史上，已与《戴森球计划》《鬼谷八荒》等大火产品同处一个量级。</p>\n  <p>更重要的是，它把国产单机游戏的单价继续推到了3A级价位——Steam"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
-      "url": "https://36kr.com/p/3765207394009602?f=rss",
+      "title": "网易互娱架构调整，市场负责人王怡调任海外",
+      "url": "https://36kr.com/p/3766722584822537?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在AI+制造 新时代到来的开局之年，工业打磨这一长期依赖人工经验的“隐形工序”，正在迎来技术拐点。</p>\n  <p>4月10日，图速自动化科技（上海）有限公司正式发布砺眸®LumiSander具身智能平台与图御™|RouteMind 2.0在线路径规划系统，同步亮相的还有图匠® LumiCraft具身打磨机器人。</p>\n  <p>三款新品同时推出，标志着这家成立十年的自动化企业正加速向具身智能表面处理技术平台转型。</p>\n  <p>打磨是工业生产中的极为关键的工艺环节，下游应用广泛。硬氪了解到，工业打磨广泛应用于轨道交通"
+      "summary": "<p class=\"image-wrapper\">文 | 贝果树</p>\n  <p class=\"image-wrapper\">编辑 | 果脯</p>\n  <p class=\"image-wrapper\"><span style=\"letter-spacing: 0px;\">4月14日，网易互娱回应了“网易互娱市场中心负责人网怡离职”的传闻。网易互娱表示上述信息不实，“裁撤营销中台”也属子虚乌有，王怡因个人原因提出调任，已获公司批准。</span></p>\n  <p>网易互娱发布的内部邮件显示，市场负责人王怡工作地点将调整至海外。原市场中心更名为用户增长中心，原渠道发行中心更名为发行中心。相关"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报｜“马斯克版微信”或在本周五上线；Meta押注AI数字人，正打造AI版扎克伯格；AI潮玩品牌“MOMOTOY”完成数千万元融资",
-      "url": "https://36kr.com/p/3765146768376326?f=rss",
+      "title": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
+      "url": "https://36kr.com/p/3766487517594377?f=rss",
       "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>金山办公：一季度净利同比预增402%-473%</strong></p>\n  <p>36氪获悉，金山办公公告，预计2026年第一季度实现归属于上市公司股东的净利润20.22亿元-23.07亿元，同比增长401.89%-472.81%。</p>\n  <p><strong>沪电股份：一季度净利同比预增54.76%-65.25%</strong></p>\n  <p>36氪获悉，沪电股份公告，预计2026年第一季度归属于上市公司股东的净利润为11.8亿元-12.6亿元，比上年同期增长54.76%-65.25%。</p>\n  <p><strong>M"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3766433899037191\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>全球最大零食店“零食王国”将于4月17日开业</strong></a></p>\n  <p>36氪获悉，由鸣鸣很忙集团创建的全球规模最大的沉浸式零食体验空间“零食王国”，将于4月17日在湖南长沙芙蓉广场正式开业。该项目拥有超1.2万㎡的零售与体验空间，汇聚了全球约70个国家和地区的风味、超过6500个国内外品"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "野人先生崔渐为：“网红”标签对我们不公平丨厚雪专访",
-      "url": "https://36kr.com/p/3765076875117314?f=rss",
+      "title": "宁德时代、智元、银河通用联合投资，六维力传感器头部企业「蓝点触控」完成超亿元C+轮融资 | 36氪首发",
+      "url": "https://36kr.com/p/3766434507440903?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;钟艺璇</p>\n  <p>编辑&nbsp;|&nbsp;乔芊</p>\n  <p>如果你在一个意大利人面前，把Gelato等同于ice cream，他一定会难过。</p>\n  <p>16世纪，Gelato诞生于文艺复兴时期的佛罗伦萨，传说中一名炼金术师创造了它。在意大利语中，Gelato本就译为冰淇淋。但它和美式冰淇淋ice cream口感大有不同，Gelato使用口感更密实，也更新鲜、低脂和健康。</p>\n  <p>目前中国冰淇淋市场中，夫妻老婆店冷柜里卖的预制冰淇淋占据75%以上的市场份额，这个品类中的高端玩家是哈根达斯。现制冰淇淋只占约25%，以DQ、波"
+      "summary": "<p>文&nbsp;|&nbsp;张冰冰</p>\n  <p>编辑&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，蓝点触控（北京）科技有限公司（以下简称「蓝点触控」）<strong>近日宣布完成超亿元C+轮融资，由宁德时代旗下溥泉资本、智元机器人、银河通用、奥普特、银河源汇等机构联合投资。</strong>这是近一年内「蓝点触控」完成的第三轮过亿元融资。</p>\n  <p>「蓝点触控」是36氪长期关注的企业，聚焦机器人力传感器，已搭建涵盖高性能弹性体设计、嵌入式硬件电路、高精度结构解耦算法及六维同步校准在内的四大平台型技术，形成人形机器人专用力传感器、通用力传感器、力控综合解决方案"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "包容 探索 求真 守正｜2026光幕计划终审阵容与年度面孔公布",
-      "url": "https://36kr.com/p/3764886161048323?f=rss",
+      "title": "「美股例外」何时休？",
+      "url": "https://36kr.com/p/3766410231726855?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260413/v2_9829b6380e514568b4857c8a2dec1beb@5889148_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>当短剧成为当下备受关注的叙事形态，当AI不断拓展表达的边界，表演这门古老的艺术，也站在了新的岔路口。效率与流量构筑了可见的赛道，而真正的叩问始终沉在深处：在技术的“巧"
+      "summary": "<p>作者&nbsp;|&nbsp;黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>进入4月以来，受地缘关系缓和、“再通胀”预期走弱等利好的持续释放，美股三大指数持续走强。截至4月13日，标普500在4月的前8个交易日里实现6连阳，纳指的同期区间涨幅则相对更高，录得7.38%。</p>\n  <p>行业板块方面，<strong>科技板块作为本轮美股短期上涨的“领头羊”表现相对强势</strong>。细分领域中的半导体、芯片、AI、量子技术等方向的表现尤为突出；截至4月13日，万得美国半导体指数、万得美国芯片指数、万得美国AI指数4月以来的区间涨幅都超过了10%。<"
     }
   ]
 }

@@ -1,223 +1,263 @@
 {
-  "updated_at": "2026-04-15T04:13:00.935874+00:00",
+  "updated_at": "2026-04-16T04:19:17.590802+00:00",
   "period_hours": 24,
   "article_count": 35,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "published_at": "2026-04-15T02:31:04+00:00",
-      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain."
+      "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+      "url": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
+      "published_at": "2026-04-15T22:44:26+00:00",
+      "summary": "Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-      "published_at": "2026-04-14T21:33:38+00:00",
-      "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic."
+      "title": "Ford EV and tech chief leaving automaker",
+      "url": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+      "published_at": "2026-04-15T21:52:05+00:00",
+      "summary": "Doug Field had stints at Apple and Tesla before joining Ford in 2021."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
-      "url": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
-      "published_at": "2026-04-14T18:31:34+00:00",
-      "summary": "Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner."
+      "title": "Wait, could they still actually break up Live Nation?",
+      "url": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+      "published_at": "2026-04-15T21:38:09+00:00",
+      "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "published_at": "2026-04-14T18:09:12+00:00",
-      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them."
+      "title": "Monarch Tractor’s collapse ends with an acquisition by Caterpillar",
+      "url": "https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/",
+      "published_at": "2026-04-15T21:05:21+00:00",
+      "summary": "The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "London gets closer to its first robotaxi service as Waymo begins testing",
-      "url": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/",
-      "published_at": "2026-04-14T18:00:09+00:00",
-      "summary": "Waymo's commercial service will eventually follow testing if the U.K. government approves."
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "published_at": "2026-04-15T19:28:36+00:00",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "YouTube livestreams will now hold back ads during peak engagement to protect the vibe",
-      "url": "https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/",
-      "published_at": "2026-04-14T17:18:20+00:00",
-      "summary": "Until now, the only way to avoid seeing ads was by paying for a YouTube Premium subscription."
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "published_at": "2026-04-15T18:55:12+00:00",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
-      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
-      "published_at": "2026-04-14T17:13:03+00:00",
-      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing."
+      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "published_at": "2026-04-15T18:51:54+00:00",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "published_at": "2026-04-14T17:00:00+00:00",
-      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration."
+      "title": "Feds will require data centers to show their power bills",
+      "url": "https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/",
+      "published_at": "2026-04-15T18:50:48+00:00",
+      "summary": "In a first, the U.S. Energy Information Agency said it will require data centers to disclose details of their energy use."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "AI Drives Europe’s Second Straight Quarter Of Funding Gain As Deal Volume Falls Sharply",
-      "url": "https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/",
-      "published_at": "2026-04-14T11:00:55+00:00",
-      "summary": "European venture funding reached $17.6 billion  in Q1 2026, Crunchbase data shows. That’s up nearly 30% year over year and marks the second consecutive quarter of growth. The main driver was AI, which for the first time claimed more than 50% of the continent’s total funding for the quarter."
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-04-15T16:55:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "YC Once Again Tops Ranks Of Most Active Fintech Investors In Q1 Even As Deal Count Drops",
+      "url": "https://news.crunchbase.com/venture/most-active-fintech-investors-yc-q1-2026/",
+      "published_at": "2026-04-15T11:00:32+00:00",
+      "summary": "Global venture funding to financial technology startups totaled $12 billion across 751 deals in 2026 as of April 6, per Crunchbase data. In terms of dollars invested, that’s up 5% year over year, but that money went into almost a third fewer deals."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "I Sold My Startup A Year After Founding It. Here’s Why That Was The Fastest Way To Build Real-World Healthcare AI",
+      "url": "https://news.crunchbase.com/ma/selling-healthcare-ai-startup-success-blankemeier-cognita/",
+      "published_at": "2026-04-15T11:00:04+00:00",
+      "summary": "Although the conventional wisdom in tech is that real ambition means staying independent, sometimes joining forces through an acquisition by a large, established company is what it takes to improve your mission's odds. Guest author Louis Blankemeier, co-founder and CEO of Cognita, explains how that"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Another month, another record-high home price: March hits $408,800—the 33rd straight increase",
-      "url": "https://fortune.com/2026/04/14/march-home-price-record-high-affordability-buyers-market/",
-      "published_at": "2026-04-14T20:22:36+00:00",
-      "summary": "The median existing home price rose 1.4% from a year ago even as sales fell 3.6%, the NAR reported. Experts say the market needs up to 500,000 more homes to feel normal."
+      "title": "Pause AI and Stop AI: Meet the anti-AI groups facing questions after the attack on Sam Altman",
+      "url": "https://fortune.com/2026/04/15/pause-ai-and-stop-ai-meet-the-anti-ai-groups-facing-questions-after-the-attack-on-sam-altman/",
+      "published_at": "2026-04-15T20:12:17+00:00",
+      "summary": "After an alleged attack on Sam Altman’s home, attention has turned to two similarly named anti-AI groups. Here’s how they differ, and why both are facing scrutiny."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Home sales just fell 3.6%—and the spring buying season may not save them",
-      "url": "https://fortune.com/2026/04/14/home-sales-fell-in-march-as-spring-buying-season-has-rough-start/",
-      "published_at": "2026-04-14T20:20:56+00:00",
-      "summary": "Affordability fears, high mortgage rates, and a war in the Middle East are rewriting the rules of the housing market’s most important season."
+      "title": "From wool sneakers to GPUs: Allbirds’ desperate AI pivot and 600% stock surge, explained",
+      "url": "https://fortune.com/2026/04/15/allbirds-newbirdai-ai-company-pivot/",
+      "published_at": "2026-04-15T20:22:52+00:00",
+      "summary": "Allbirds is now NewBird AI. Wall Street doesn’t care that it knows nothing about AI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s economy officially passes Biden’s for worst consumer sentiment in recorded history",
-      "url": "https://fortune.com/2026/04/14/michigan-consumer-sentiment-record-low-trump-economy-unfavorable-iran-war/",
-      "published_at": "2026-04-14T20:00:24+00:00",
-      "summary": "The University of Michigan's index plunged to 47.6 in April — shattering the prior floor set during the 2022 inflation crisis."
+      "title": "Elizabeth Warren on her proposal to bring back IRS Direct File: ‘For just one day of bombing Iran, we could pay for 20 years’",
+      "url": "https://fortune.com/2026/04/15/exclusive-sen-elizabeth-warren-tax-preparers-direct-file/",
+      "published_at": "2026-04-15T19:49:52+00:00",
+      "summary": "“For years, giant tax prep companies like TurboTax and H&#038;R Block have rigged our system so they can cash in on your hard-earned dollars.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Xi Jinping says the world order is ‘crumbling into disarray.’ Larry Fink and the IMF are worried about a global recession",
-      "url": "https://fortune.com/2026/04/14/will-iran-war-cause-recession-xi-jinping-imf-larry-fink/",
-      "published_at": "2026-04-14T19:59:21+00:00",
-      "summary": "The Iran war, trade chaos, and a shifting geopolitical landscape are converging into what could be the defining economic moment of the decade."
+      "title": "‘I am certain’: Harvard policy expert warns the true cost of the Iran war to U.S. taxpayers will exceed $1 trillion",
+      "url": "https://fortune.com/2026/04/15/how-much-will-iran-war-cost-taxpayers-us-1-trillion-dollars/",
+      "published_at": "2026-04-15T19:47:01+00:00",
+      "summary": "Linda Bilmes, along with economist Joseph Stiglitz, previously calculated the true cost of the 2003 Iraq war was at least fourfold greater than initially projected."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "From Molotov cocktails to data center shutdowns, the AI backlash is turning revolutionary",
-      "url": "https://fortune.com/2026/04/14/ai-backlash-revolutionary-sam-altman-molotov-cocktails-data-centers/",
-      "published_at": "2026-04-14T19:58:28+00:00",
-      "summary": "Gen Z is furious about AI, and so is the American countryside."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Trump’s macho MAGA economy is a bust. But there are plenty of high-paying jobs for men—in nursing and teaching",
-      "url": "https://fortune.com/2026/04/14/trump-manufacturing-maga-economy-bust-nurses-teachers/",
-      "published_at": "2026-04-14T19:51:02+00:00",
-      "summary": "Tired: Blue collar. Wired: Pink collar."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Goldman Sachs makes surprise jump into Bitcoin ETFs with a product one analyst dubs ‘boomer candy’",
-      "url": "https://fortune.com/2026/04/14/goldman-sachs-bitcoin-etf-boomer-candy/",
-      "published_at": "2026-04-14T18:31:28+00:00",
-      "summary": "The filing from a major U.S. bank comes shortly after Morgan Stanley’s Bitcoin ETF launched."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The billionaire Anthropic cofounder who majored in literature says knowing how to ask the right questions beats knowing how to code",
-      "url": "https://fortune.com/2026/04/14/billionaire-anthropic-cofounder-jack-clark-coding-programming-education-gen-z-unemployment/",
-      "published_at": "2026-04-14T20:56:17+00:00",
-      "summary": "Anthropic’s liberal-arts-educated cofounder says “rote programming” is best avoided."
+      "title": "Trumpflation hits the World Cup: Fans face $80–$100 transit fares on top of $4,000-plus tickets",
+      "url": "https://fortune.com/2026/04/15/trump-fifa-world-cup-transit-fares-ticket-prices/",
+      "published_at": "2026-04-15T21:52:08+00:00",
+      "summary": "NJ Transit is modeling a 700% rail-fare surge to MetLife Stadium. Boston has already locked in 4x hikes. With $4,000 group-stage seats and $10,000 finals tickets, the World Cup's hidden costs are adding up fast."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
-      "url": "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but",
-      "published_at": "2026-04-14T16:57:09+00:00",
-      "summary": "<p>Anthropic announced a new platform last week, <a href=\"https://claude.com/blog/claude-managed-agents\">Claude Managed Agents</a>, aiming to cut out the more complex parts of AI agent deployment for enterprises and competes with existing orchestration frameworks.</p><p>Claude Managed Agents is also"
+      "title": "Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway.",
+      "url": "https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook",
+      "published_at": "2026-04-15T20:58:42+00:00",
+      "summary": "<p>Microsoft assigned <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2026-21520\">CVE-2026-21520</a>, a CVSS 7.5 indirect prompt injection vulnerability, to Copilot Studio. <a href=\"https://www.capsulesecurity.io/\">Capsule Security</a> discovered the flaw, coordinated disclosure with Microsoft, and th"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Google leaders including Demis Hassabis push back on claim of uneven AI adoption internally",
-      "url": "https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally",
-      "published_at": "2026-04-14T16:51:00+00:00",
-      "summary": "<p>A <a href=\"https://x.com/Steve_Yegge/status/2043747998740689171\">viral post on X</a> from veteran programmer and former Google engineer <a href=\"https://x.com/Steve_Yegge\">Steve Yegge</a> set off a rhetorical firestorm this week, drawing sharp public rebuttals from some of Google’s most prominent"
+      "title": "Frontier models are failing one in three production attempts — and getting harder to audit",
+      "url": "https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit",
+      "published_at": "2026-04-15T19:35:32+00:00",
+      "summary": "<p>AI agents are now embedded in real enterprise workflows, and they&#x27;re still failing roughly one in three attempts on structured benchmarks. That <a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\">gap between capability and reliability</a> is the defining operational challenge fo"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Microsoft launches MAI-Image-2-Efficient, a cheaper and faster AI image model",
-      "url": "https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model",
-      "published_at": "2026-04-14T16:00:00+00:00",
-      "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft</a> today launched <a href=\"https://microsoft.ai/news/mai-image-2e-flagship-quality-41-lower-cost/\">MAI-Image-2-Efficient</a>, a lower-cost, higher-speed variant of its flagship text-to-image model that the company says delivers production-ready"
+      "title": "Meta researchers introduce 'hyperagents' to unlock self-improving AI for non-coding tasks",
+      "url": "https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks",
+      "published_at": "2026-04-15T19:30:59+00:00",
+      "summary": "<p>Creating self-improving AI systems is an important step toward deploying agents in dynamic environments, especially in enterprise production environments, where tasks are not always predictable, nor consistent. </p><p>Current self-improving AI systems face severe limitations because they rely on"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Databricks tested a stronger model against its multi-step agent on hybrid queries. The stronger model still lost by 21%.",
-      "url": "https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single",
-      "published_at": "2026-04-14T15:00:00+00:00",
-      "summary": "<p>Data teams building AI agents keep running into the same failure mode. Questions that require joining structured data with unstructured content, sales figures alongside customer reviews or citation counts alongside academic papers, break single-turn RAG systems. </p><p>New research from Databrick"
+      "title": "We tested Anthropic’s redesigned Claude Code desktop app and 'Routines' — here's what enterprises should know",
+      "url": "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know",
+      "published_at": "2026-04-15T18:40:00+00:00",
+      "summary": "<p>The transition from AI as a chatbot to AI as a workforce is no longer a theoretical projection; it has become the primary design philosophy for the modern developer&#x27;s toolkit. </p><p>On April 14, 2026, Anthropic signaled this shift with a dual release: <a href=\"https://claude.com/blog/claude"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "43% of AI-generated code changes need debugging in production, survey finds",
-      "url": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds",
-      "published_at": "2026-04-14T13:00:00+00:00",
-      "summary": "<p>The software industry is racing to write code with artificial intelligence. It is struggling, badly, to make sure that code holds up once it ships.</p><p>A survey of 200 senior site-reliability and DevOps leaders at large enterprises across the United States, United Kingdom, and European Union pa"
+      "title": "AI's next bottleneck isn't the models — it's whether agents can think together",
+      "url": "https://venturebeat.com/orchestration/ais-next-bottleneck-isnt-the-models-its-whether-agents-can-think-together",
+      "published_at": "2026-04-15T17:52:37+00:00",
+      "summary": "<p>AI agents can connect together, but they cannot think together. That’s a huge difference and a bottleneck for next-gen systems, says Outshift by Cisco’s SVP and GM Vijoy Pandey.</p><p>As he describes the current state of AI: Agents can be stitched together in a workflow or plug into a supervisor"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Adobe’s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
+      "url": "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt",
+      "published_at": "2026-04-15T13:00:00+00:00",
+      "summary": "<p><a href=\"https://www.adobe.com/\">Adobe</a> today launched its most ambitious AI offensive to date, unveiling the <a href=\"https://news.adobe.com/\">Firefly AI Assistant</a> — a new agentic creative tool that can orchestrate complex, multi-step workflows across the company&#x27;s entire <a href=\"ht"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Traza raises $2.1 million led by Base10 to automate procurement workflows with AI",
+      "url": "https://venturebeat.com/orchestration/traza-raises-usd2-1-million-led-by-base10-to-automate-procurement-workflows-with-ai",
+      "published_at": "2026-04-15T12:55:00+00:00",
+      "summary": "<p>For decades, procurement has been the back office that enterprise software forgot. Billions of dollars flow through vendor negotiations, purchase orders, and supplier communications every year at the largest manufacturers and construction companies in the country — and the vast majority of that w"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Redefining the future of software engineering",
-      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-      "published_at": "2026-04-14T18:00:00+00:00",
-      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed"
+      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+      "published_at": "2026-04-15T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?&#160; Just before Artemis II began its historic slings"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: the state of AI, and protecting bears with drones",
-      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
-      "published_at": "2026-04-14T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.&#160; If&#160;you’re&#160;following AI news,&#160;you’re&#160;probably getting&#16"
+      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+      "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+      "published_at": "2026-04-15T11:26:12+00:00",
+      "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a picture of a 30-something Asian man. Next, the app requests to open the camera for a video “liveness”"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
-      "published_at": "2026-04-14T12:04:47+00:00",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administ"
+      "title": "No one’s sure if synthetic mirror life will kill us all",
+      "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+      "published_at": "2026-04-15T09:00:00+00:00",
+      "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a com"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Coming soon: 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-      "published_at": "2026-04-14T11:00:00+00:00",
-      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus"
+      "title": "Building trust in the AI era with privacy-led UX",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "published_at": "2026-04-15T06:00:00+00:00",
+      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercis"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The problem with thinking you’re part Neanderthal",
-      "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
-      "published_at": "2026-04-14T10:00:00+00:00",
-      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "王子杰逝世：创办丝芭、久游网，引进《劲舞团》",
+      "url": "https://36kr.com/p/3768979949027840?f=rss",
+      "published_at": null,
+      "summary": "<p>文丨刘士武</p>\n  <p><strong>4月16日，丝芭传媒发布讣告，确认其创始人、董事长王子杰于4月14日在上海因病离世，享年63岁。</strong>这位横跨网络游戏与偶像产业两代浪潮的创业者，其职业生涯的起落，折射了中国互动娱乐产业从代理引进、到本土化探索、直至原创内容竞争的关键转型。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260416/v2_33d1ee192a984506af726bb5050939bf@242988687_oswg230872osw"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "一线城市房地产率先出现企稳迹象",
+      "url": "https://36kr.com/p/3768928312001028?f=rss",
+      "published_at": null,
+      "summary": "<p>本轮楼市“小阳春”成色如何？&nbsp;</p>\n  <p>国家统计局4月16日发布的数据显示，3月份，一线城市新建商品住宅销售价格环比由上月持平转为上涨0.2%。其中，除北京环比持平之外，上海、广州和深圳的新房价格全部出现环比上涨。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260416/v2_163447453d6a478d8c3aeaadfe3aa680@337187376_oswg171924oswg981oswg1062_img_png?x-oss-process=ima"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "要做电商Agent OS，前钉钉最年轻副总裁创立的「攀峰智能」再次完成数千万天使轮融资",
+      "url": "https://36kr.com/p/3768320373441281?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜邓咏仪</strong></p>\n  <p>36氪获悉，近日，攀峰智能已完成数千万元天使轮融资，本轮融资由华控资本领投、云时资本跟投，将用于模型研发、团队增长以及市场扩张。</p>\n  <p>攀峰智能（K2 Lab）成立于2025年10月，成立仅一个月，便拿到了来自云时资本的数千万元融资。其三位联合创始人均来自阿里钉钉团队。CEO王铭曾是钉钉最年轻的副总裁，在钉钉近五年间负责AI创新产品、SaaS生态、大模型与AI生态、产业生态和战略终端等业务；联合创始人兼CSO汤明磊，此前深耕产业数字化和产业AI的投"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡",
+      "url": "https://36kr.com/p/3768734631527176?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>京东宣布推出“机器人救护车”</p>\n  <p>抖音集团将投入5亿专项资金扶持真人短剧</p>\n  <p>永辉超市38亿追款获胜，王健林等承担连带保证责任</p>\n  <p>张雪机车LOGO抄袭？设计公司发声明回应</p>\n  <p>小米汽车公布降噪处理新专利</p>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>美国将退还超1万亿元关税</strong></p>\n  <p>据路透社报道，美国特朗普政府计划于当地时间4月20日正式启动一个关税退款系统，用于向进口商退还1660亿美元（约合人民币1.13万亿元）的关税，这些关税在今年2"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜Snap宣布将裁员约1000人；字节启动新一轮期权回购；苹果CEO库克斥资106万美元增持耐克",
+      "url": "https://36kr.com/p/3767970803221251?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3767932351709953\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Snap宣布将裁员约1000人</strong></a></p>\n  <p>4月15日，社交媒体公司Snap宣布一系列调整，这些调整将影响Snap约1000名团队成员，包括16%的全职员工，此外，公司还将关闭300多个空缺职位。通过调整，公司预计到2026年下半年，年度成本将减少超过5亿美元。Snap表示，对即将离"
     },
     {
       "source": "36氪",
@@ -242,46 +282,6 @@
       "url": "https://36kr.com/p/3767326268392199?f=rss",
       "published_at": null,
       "summary": "<h2>今日热点导览</h2>\n  <p>可能含有“永久性化学物”，Lululemon在美被调查</p>\n  <p>近一周“一口价”黄金产品最高下跌17%</p>\n  <p>中国将健全药品价格形成机制</p>\n  <p>离境退税2.0版措施预计4月底前推出</p>\n  <p>苹果加码iPhone Fold</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>恒大集团、恒大地产及许家印案一审开庭</strong></p>\n  <p>2026年4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "《明末》团队解散背后，国产单机究竟还缺什么？",
-      "url": "https://36kr.com/p/3766718158324489?f=rss",
-      "published_at": null,
-      "summary": "<p>文丨果脯</p>\n  <p>编辑丨刘士武</p>\n  <p>过去几天里，《明末：渊虚之羽》（后称：明末）制作组解散、制作人夏思源离职创业的消息，让不少人感到唏嘘。</p>\n  <p>这款由灵泽科技开发的国产类魂动作游戏，曾被寄予厚望，后续也取得了不错的成绩。</p>\n  <p>据统计，2025年上线后，游戏在Steam预估销量约120万套，主机平台PS5约30至40万套，加上其他渠道总计约200万套，销售额超过5亿元。这样的成绩，放在国内单机史上，已与《戴森球计划》《鬼谷八荒》等大火产品同处一个量级。</p>\n  <p>更重要的是，它把国产单机游戏的单价继续推到了3A级价位——Steam"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "网易互娱架构调整，市场负责人王怡调任海外",
-      "url": "https://36kr.com/p/3766722584822537?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\">文 | 贝果树</p>\n  <p class=\"image-wrapper\">编辑 | 果脯</p>\n  <p class=\"image-wrapper\"><span style=\"letter-spacing: 0px;\">4月14日，网易互娱回应了“网易互娱市场中心负责人网怡离职”的传闻。网易互娱表示上述信息不实，“裁撤营销中台”也属子虚乌有，王怡因个人原因提出调任，已获公司批准。</span></p>\n  <p>网易互娱发布的内部邮件显示，市场负责人王怡工作地点将调整至海外。原市场中心更名为用户增长中心，原渠道发行中心更名为发行中心。相关"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
-      "url": "https://36kr.com/p/3766487517594377?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3766433899037191\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>全球最大零食店“零食王国”将于4月17日开业</strong></a></p>\n  <p>36氪获悉，由鸣鸣很忙集团创建的全球规模最大的沉浸式零食体验空间“零食王国”，将于4月17日在湖南长沙芙蓉广场正式开业。该项目拥有超1.2万㎡的零售与体验空间，汇聚了全球约70个国家和地区的风味、超过6500个国内外品"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "宁德时代、智元、银河通用联合投资，六维力传感器头部企业「蓝点触控」完成超亿元C+轮融资 | 36氪首发",
-      "url": "https://36kr.com/p/3766434507440903?f=rss",
-      "published_at": null,
-      "summary": "<p>文&nbsp;|&nbsp;张冰冰</p>\n  <p>编辑&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，蓝点触控（北京）科技有限公司（以下简称「蓝点触控」）<strong>近日宣布完成超亿元C+轮融资，由宁德时代旗下溥泉资本、智元机器人、银河通用、奥普特、银河源汇等机构联合投资。</strong>这是近一年内「蓝点触控」完成的第三轮过亿元融资。</p>\n  <p>「蓝点触控」是36氪长期关注的企业，聚焦机器人力传感器，已搭建涵盖高性能弹性体设计、嵌入式硬件电路、高精度结构解耦算法及六维同步校准在内的四大平台型技术，形成人形机器人专用力传感器、通用力传感器、力控综合解决方案"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "「美股例外」何时休？",
-      "url": "https://36kr.com/p/3766410231726855?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>进入4月以来，受地缘关系缓和、“再通胀”预期走弱等利好的持续释放，美股三大指数持续走强。截至4月13日，标普500在4月的前8个交易日里实现6连阳，纳指的同期区间涨幅则相对更高，录得7.38%。</p>\n  <p>行业板块方面，<strong>科技板块作为本轮美股短期上涨的“领头羊”表现相对强势</strong>。细分领域中的半导体、芯片、AI、量子技术等方向的表现尤为突出；截至4月13日，万得美国半导体指数、万得美国芯片指数、万得美国AI指数4月以来的区间涨幅都超过了10%。<"
     }
   ]
 }

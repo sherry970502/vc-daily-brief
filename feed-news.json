@@ -1,71 +1,79 @@
 {
-  "updated_at": "2026-04-17T11:47:45.135311+00:00",
+  "updated_at": "2026-04-18T03:52:34.396579+00:00",
   "period_hours": 24,
-  "article_count": 37,
+  "article_count": 34,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
-      "url": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
-      "published_at": "2026-04-17T02:55:06+00:00",
-      "summary": "The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm."
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "published_at": "2026-04-17T22:34:02+00:00",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-      "published_at": "2026-04-16T22:55:30+00:00",
-      "summary": "The three-year-old startup raised $150 million led by Khosla Ventures."
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "published_at": "2026-04-17T20:38:17+00:00",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-      "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-      "published_at": "2026-04-16T21:58:08+00:00",
-      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video."
+      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+      "url": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+      "published_at": "2026-04-17T20:16:13+00:00",
+      "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Netflix co-founder and chair Reed Hastings to leave board",
-      "url": "https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/",
-      "published_at": "2026-04-16T21:22:14+00:00",
-      "summary": "Hastings helped to transform the video rental industry — first with physical, then digital, delivery."
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "published_at": "2026-04-17T19:17:26+00:00",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Upscale AI in talks to raise at $2B valuation, says report",
-      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
-      "published_at": "2026-04-16T20:41:13+00:00",
-      "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago."
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "published_at": "2026-04-17T18:42:45+00:00",
+      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-      "published_at": "2026-04-16T20:26:44+00:00",
-      "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain."
+      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
+      "url": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
+      "published_at": "2026-04-17T17:48:46+00:00",
+      "summary": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life attacks, according to a cybersecurity firm."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product",
-      "url": "https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/",
-      "published_at": "2026-04-16T19:50:10+00:00",
-      "summary": "This week on Build Mode, Isabelle Johannessen speaks with Capella Kerst, founder and CEO of geCKo Materials."
+      "title": "Zoom teams up with World to verify humans in meetings",
+      "url": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/",
+      "published_at": "2026-04-17T17:15:00+00:00",
+      "summary": "Meeting platform Zoom has announced a partnership with World, Sam Altman's human ID verification company, to ensure that the people attending meetings are actually human and not AI-generated imposters. Zoom will show a badge on verified participants' tile."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation",
-      "url": "https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/",
-      "published_at": "2026-04-16T19:20:46+00:00",
-      "summary": "Five years later the founders, now 24 years old, say their startup has achieved $300 million in annualized revenue."
+      "title": "Gigs turns your concert history into a personal live music archive",
+      "url": "https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/",
+      "published_at": "2026-04-17T16:55:45+00:00",
+      "summary": "New iPhone app Gigs uses AI to turn old tickets, screenshots, and emails into a personal concert archive with stats, memories, and more."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/",
+      "published_at": "2026-04-17T19:06:41+00:00",
+      "summary": "The week’s largest round was a $650 million financing for electric pickup truck maker Slate Auto. Other sizable investments went to spaces including drug development, autonomous public transit and software engineering."
     },
     {
       "source": "Crunchbase News",
@@ -76,116 +84,116 @@
       "summary": "Several multibillion-dollar megadeals drove a spike in first-quarter investment in autonomous vehicles, signaling that investors aren't just paying for research, but betting on companies that are ready to scale up and put their AI technology into actual cars people can buy or hail."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: GetWhys Raises $5.2M To Help Companies Like Intel And Verizon Better Understand Their Customers",
-      "url": "https://news.crunchbase.com/venture/customer-intelligence-ai-getwhys-raises-more-seed-boutros/",
-      "published_at": "2026-04-16T14:00:02+00:00",
-      "summary": "GetWhys, a Boise, Idaho-based AI-powered customer intelligence platform, has raised $5.2 million in funding, it tells Crunchbase News exclusively."
+      "title": "Illinois is OpenAI and Anthropic’s latest battleground as the state tries to assess liability for catastrophes caused by AI",
+      "url": "https://fortune.com/2026/04/17/illinois-openai-anthropic-ai-catastrophe-liability-bills/",
+      "published_at": "2026-04-17T15:53:31+00:00",
+      "summary": "OpenAI is backing SB 3444, under which frontier AI developers would not be liable for the death or serious injury of 100 or more people or more than $1 billion in property damage."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Senator presses DOJ and Treasury over status of Binance monitors after $1.7 billion in Iran-linked crypto flows",
-      "url": "https://fortune.com/2026/04/17/senator-blumenthal-binance-doj-fincen-treasury-monitorships-status/",
-      "published_at": "2026-04-17T11:10:05+00:00",
-      "summary": "As part of its 2023 plea deal, the world’s largest crypto exchange agreed to have two separate firms oversee its operations for three years."
+      "title": "Exclusive: Adam Silver on winning the Edison Achievement Award: ‘Sports remind us that some of the most important forms of innovation are human’",
+      "url": "https://fortune.com/2026/04/17/exclusive-adam-silver-edison-award-achievement-nba-comissioner/",
+      "published_at": "2026-04-17T18:48:00+00:00",
+      "summary": "The NBA commissioner has an unlikely background to lead the league through crises and global expansion, but Adam Silver says executives should get hooped with some sports business know-how."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Could United and American airlines really merge? 5 key questions about a blockbuster deal",
-      "url": "https://fortune.com/2026/04/17/united-american-merger-scott-kirby-trump/",
-      "published_at": "2026-04-17T07:00:00+00:00",
-      "summary": "Industry insiders told Fortune that a tie-up between the first and fourth largest U.S. carriers faces hurdles, but can't be ruled out."
+      "title": "Tether extends $127.5 million in funding to crypto platform Drift as critics blast rival Circle for failing to freeze hacked funds",
+      "url": "https://fortune.com/2026/04/17/tether-127-5-million-drift-circle-freeze-hacked-funds/",
+      "published_at": "2026-04-17T18:43:27+00:00",
+      "summary": "The move brought Tether goodwill among users of the Solana blockchain."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "If the economy feels even worse for you than the inflation data says, that might be because childcare isn’t deemed a ‘necessity’",
-      "url": "https://fortune.com/2026/04/17/inflation-economy-worse-childcare-necessity-costs-women/",
-      "published_at": "2026-04-17T10:58:13+00:00",
-      "summary": "\"The cost of childcare obviously impacts labor force decisions, and that in turn impacts labor growth as a whole,\" Bowley tells Fortune."
+      "title": "OpenAI policy chief says AI companies ‘need to do a much better job’ talking about AI as industry leaders face personal attacks",
+      "url": "https://fortune.com/2026/04/17/openais-policy-chief-chris-lehane-ai-warning-violence/",
+      "published_at": "2026-04-17T17:05:35+00:00",
+      "summary": "OpenAI global policy chief Chris Lehane is asking industry leaders to tone down the rhetoric."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The world holds its breath: Trump says Iran war will end ‘pretty soon’ as uranium deal is in sight",
-      "url": "https://fortune.com/2026/04/17/trump-iran-war-peace-end-pretty-soon-uranium-deal/",
-      "published_at": "2026-04-17T10:09:37+00:00",
-      "summary": "Everything you need to know before you reach the office this morning."
+      "title": "Something is different about Trump’s $1 trillion war on Iran and its stress on the national debt, Harvard Kennedy scholar says",
+      "url": "https://fortune.com/2026/04/17/what-is-different-about-trump-1-trillion-war-on-national-debt/",
+      "published_at": "2026-04-17T20:01:40+00:00",
+      "summary": "During the wars in Iraq and Afghanistan, debt held by the public was around $4 trillion. Now it's $31 trillion, and 15% of the budget pays down interest."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Emma Grede—the self-made millionaire behind the $5 billion Skims empire—says it all began with an audacious cold call to Kris Jenner: ‘The difference between me and someone else is, I made it happen’",
-      "url": "https://fortune.com/article/emma-grede-millionaire-5-billion-skims-empire-kris-jenner/",
-      "published_at": "2026-04-16T18:29:01+00:00",
-      "summary": "Emma Grede runs multiple businesses with the Kardashians. In an exclusive interview with Fortune, she reveals that empire can all be traced back to one phone call she made to Kris Jenner that changed everything."
+      "title": "White House chief of staff to meet with Anthropic CEO about dangerous new Mythos model, official says",
+      "url": "https://fortune.com/2026/04/17/white-house-chief-of-staff-to-meet-anthropic-dario-amodei-mythos/",
+      "published_at": "2026-04-17T20:45:25+00:00",
+      "summary": "The meeting comes after tensions have run hot between the Trump administration and the safety-conscious Anthropic."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Pope Leo warned the world is in ‘big trouble’ if Elon Musk becomes the first trillionaire",
-      "url": "https://fortune.com/article/pope-leo-xiv-slams-wealth-inequality-ceo-pay-versus-workers-elon-musk-trillionaire-status-world-in-big-trouble/",
-      "published_at": "2026-04-17T09:47:01+00:00",
-      "summary": "The top 1% increased their wealth by nearly $34 trillion over the last decade—enough to eliminate annual poverty 22 times over."
+      "title": "Iran and White House say the Strait of Hormuz is ‘completely open.’ But it definitely isn’t—at least for now",
+      "url": "https://fortune.com/2026/04/17/iran-white-house-strait-hormuz-completely-open-but-definitely-remains-closed/",
+      "published_at": "2026-04-17T18:11:01+00:00",
+      "summary": "Iran remains unwilling to give up its control over the Strait of Hormuz for now."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The first wave of bank earnings shows why ‘resilience’ is Wall Street’s favorite word",
-      "url": "https://fortune.com/2026/04/17/jamie-dimon-jane-fraser-brian-moynihan-wall-street-earnings-resilience/",
-      "published_at": "2026-04-17T09:27:13+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The startup Blackstone just backed to turn any exec’s data question into instant answers",
-      "url": "https://fortune.com/2026/04/17/textql-blackstone/",
-      "published_at": "2026-04-17T09:28:57+00:00",
-      "summary": "Ethan Ding cofounded TextQL in 2022 with Mark Hay, and the startup just closed $17 million in strategic investment led by Blackstone."
+      "title": "Oil is back to early war days, S&P 500 jumps to all-time high",
+      "url": "https://fortune.com/2026/04/17/oil-is-back-to-early-war-days-sp-500-jumps-to-all-time-high/",
+      "published_at": "2026-04-17T20:40:28+00:00",
+      "summary": "The Dow Jones Industrial Average surged as many as 1,100 points before paring its gain to 868, or 1.8%. The Nasdaq composite climbed 1.5%."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
-      "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
-      "published_at": "2026-04-16T21:00:00+00:00",
-      "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Wednesday unveiled the most ambitious architectural transformation in its 27-year history, introducing &quot;<a href=\"https://www.salesforce.com/news/stories/salesforce-headless-360-announcement/\">Headless 360</a>&quot; — a sweeping initiati"
+      "title": "Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference",
+      "url": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference",
+      "published_at": "2026-04-17T17:34:02+00:00",
+      "summary": "<p>The standard guidelines for building large language models (LLMs) optimize only for training costs and ignore inference costs. This poses a challenge for real-world applications that use inference-time scaling techniques to increase the accuracy of model responses, such as drawing multiple reason"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Are we getting what we paid for? How to turn AI momentum into measurable value",
-      "url": "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value",
-      "published_at": "2026-04-16T19:55:13+00:00",
-      "summary": "<p>Enterprise AI is entering a new phase — one where the central question is no longer what can be built, but how to make the most of our AI investment.</p><p>At VentureBeat’s latest AI Impact Tour session, Brian Gracely, director of portfolio strategy at Red Hat, described the operational reality i"
+      "title": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
+      "url": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
+      "published_at": "2026-04-17T17:07:29+00:00",
+      "summary": "<p>A rogue AI agent at Meta <a href=\"https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix\">passed every identity check and still exposed sensitive data</a> to unauthorized employees in March. Two weeks later, <a href=\"https://fortune.com/2026/04/02/merc"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
-      "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
-      "published_at": "2026-04-16T19:02:45+00:00",
-      "summary": "<p>The journey from a laboratory hypothesis to a pharmacy shelf is one of the most grueling marathons in modern industry, typically spanning 10 to 15 years and billions of dollars in investment. </p><p>Progress is often stymied not just by the inherent mysteries of biology, but by the &quot;fragment"
+      "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
+      "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
+      "published_at": "2026-04-17T15:00:00+00:00",
+      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> today launched <a href=\"https://www.anthropic.com/news/claude-design-anthropic-labs\">Claude Design</a>, a new product from its Anthropic Labs division that allows users to create polished visual work — designs, interactive prototypes, slide decks"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "OpenAI drastically updates Codex desktop app to use all other apps on your computer, generate images, preview webpages",
-      "url": "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages",
-      "published_at": "2026-04-16T18:36:52+00:00",
-      "summary": "<p>Confirming it has reached 3 million weekly developers, <a href=\"https://openai.com/index/codex-for-almost-everything/\">OpenAI is massively updating its Codex developer environment</a> via its Mac and Windows desktop apps today to bring it closer to the “Super App” the company has confirmed it is"
+      "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
+      "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
+      "published_at": "2026-04-17T14:06:00+00:00",
+      "summary": "<p>For the past year, early adopters of autonomous AI agents have been forced to play a murky game of chance: keep the agent in a useless sandbox or give it the keys to the kingdom and hope it doesn&#x27;t hallucinate a catastrophic &quot;delete all&quot; command.</p><p>To unlock the true utility of"
     },
     {
-      "source": "VentureBeat",
+      "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
-      "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
-      "published_at": "2026-04-16T16:17:00+00:00",
-      "summary": "<p>Anthropic is publicly releasing its most powerful large language model yet,<a href=\"https://www.anthropic.com/news/claude-opus-4-7\"> Claude Opus 4.7</a>, today — as it continues to keep an<a href=\"https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-"
+      "title": "Pie Day 2026",
+      "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+      "published_at": "2026-04-17T14:07:41+00:00",
+      "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "published_at": "2026-04-17T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a co"
     },
     {
       "source": "MIT Tech Review",
@@ -204,36 +212,20 @@
       "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Making AI operational in constrained public sector environments",
-      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "published_at": "2026-04-16T13:00:00+00:00",
-      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, pu"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "智元机器人，要做AI大模型平台和开放生态",
+      "url": "https://36kr.com/p/3770721219035649?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜王毓婵</p>\n  <p>编辑｜杨轩</p>\n  <p>当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？</p>\n  <p>上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。</p>\n  <p>智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（AI Machine Architecture）全栈生态技术体系。这些软件产品将与硬件机器人一起，组成智元“一体三智”的架构。</p>"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Treating enterprise AI as an operating layer",
-      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "published_at": "2026-04-16T13:00:00+00:00",
-      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: wh"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
-      "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-      "published_at": "2026-04-16T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering&#160;center&#160;in Cambodia, an employee o"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Why having “humans in the loop” in an AI war is an illusion",
-      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "published_at": "2026-04-16T12:00:00+00:00",
-      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intellige"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "9点1氪丨霍尔木兹海峡完全开放；雷军称未来几年不会做十万元以内车型；四大一线城市房价全涨",
+      "url": "https://36kr.com/p/3771628958843398?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p><strong>瑞幸将上线瓶装咖啡，售价6-7元</strong></p>\n  <p><strong>阿嬷手作新品一杯48元，被吐槽太贵，创始人回应</strong></p>\n  <p><strong>新增海外工作地，字节跳动面向全球招募技术人才</strong></p>\n  <p><strong>苹果31年元老、营销副总裁斯坦·吴宣布退休</strong></p>\n  <p><strong>派拉蒙承诺电影至少上映45天再上流媒体</strong></p>\n  <h2><strong>TOP3大新闻</strong><"
     },
     {
       "source": "36氪",
@@ -282,22 +274,6 @@
       "url": "https://36kr.com/p/3770651778761481?f=rss",
       "published_at": null,
       "summary": "<p>36氪于日前与享刻智能创始人陈震进行了一次深入的沟通。在多数具身智能企业仍聚焦实验室打磨通用技术、扎堆布局人形机器人赛道的当下，成立仅3年的享刻智能走出了一条差异化发展路径，以场景落地为核心，推动具身智能技术的商业化落地。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260417/v2_f91d5792e2bc44bdb8b373280199dd29@517825446_oswg615251oswg1269oswg846_img_png?x-oss-process=image/qua"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "玩腻了AI的年轻人，爱上桔子酒店的「手搓」生活？",
-      "url": "https://36kr.com/p/3770578424676866?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260417/v2_c0e8c7027ea145d2bb9f6b7e3bd85108@5362858_oswg1122123oswg1080oswg1528_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>在AI万能的时代，一些“反效率”的生活乐趣正在城市里蔓延。</p>\n  <p>社交媒体上与“手搓”相关的话题持续升温，<strong>拼豆、钩织、扭扭棒</strong>……各"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | “华为天才少年”创业连融超4亿元，做新一代推理芯片重构显存成本",
-      "url": "https://36kr.com/p/3770363954954755?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，国内全自研GPGPU创新企业「北京行云集成电路有限公司」（以下简称“行云”）宣布连续完成Pre-A及Pre-A+多轮融资，融资金额超4亿元人民币。五源资本、赛富投资基金、春华资本联合领投，以及北京、江苏等地方国资、佰维存储（688525）、金沙江联合带动知名GPU企业创始人家办、创维资本等产业资本跟投。云岫资本连续多轮服务并担任下一轮独家融资财务顾问。</p>\n  <p>北京行云集成电路有限公司成立于2023年8月，专注针对大模型的新一代推理芯片，致力于使用非3D D"
     }
   ]
 }

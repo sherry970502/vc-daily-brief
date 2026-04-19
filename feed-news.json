@@ -1,215 +1,127 @@
 {
-  "updated_at": "2026-04-18T03:52:34.396579+00:00",
+  "updated_at": "2026-04-19T04:19:05.472605+00:00",
   "period_hours": 24,
-  "article_count": 34,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "published_at": "2026-04-17T22:34:02+00:00",
-      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "published_at": "2026-04-18T21:37:15+00:00",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "published_at": "2026-04-17T20:38:17+00:00",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
+      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+      "url": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+      "published_at": "2026-04-18T20:00:00+00:00",
+      "summary": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
-      "url": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
-      "published_at": "2026-04-17T20:16:13+00:00",
-      "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment."
+      "title": "AI chip startup Cerebras files for IPO",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "published_at": "2026-04-18T19:19:11+00:00",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "published_at": "2026-04-17T19:17:26+00:00",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round."
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "published_at": "2026-04-18T14:56:48+00:00",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "published_at": "2026-04-17T18:42:45+00:00",
-      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting."
+      "title": "The App Store is booming again, and AI may be why",
+      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "published_at": "2026-04-18T13:00:00+00:00",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
-      "url": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
-      "published_at": "2026-04-17T17:48:46+00:00",
-      "summary": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life attacks, according to a cybersecurity firm."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Zoom teams up with World to verify humans in meetings",
-      "url": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/",
-      "published_at": "2026-04-17T17:15:00+00:00",
-      "summary": "Meeting platform Zoom has announced a partnership with World, Sam Altman's human ID verification company, to ensure that the people attending meetings are actually human and not AI-generated imposters. Zoom will show a badge on verified participants' tile."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Gigs turns your concert history into a personal live music archive",
-      "url": "https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/",
-      "published_at": "2026-04-17T16:55:45+00:00",
-      "summary": "New iPhone app Gigs uses AI to turn old tickets, screenshots, and emails into a personal concert archive with stats, memories, and more."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/",
-      "published_at": "2026-04-17T19:06:41+00:00",
-      "summary": "The week’s largest round was a $650 million financing for electric pickup truck maker Slate Auto. Other sizable investments went to spaces including drug development, autonomous public transit and software engineering."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To Hit Record Amount",
-      "url": "https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/",
-      "published_at": "2026-04-17T11:00:42+00:00",
-      "summary": "Several multibillion-dollar megadeals drove a spike in first-quarter investment in autonomous vehicles, signaling that investors aren't just paying for research, but betting on companies that are ready to scale up and put their AI technology into actual cars people can buy or hail."
+      "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
+      "url": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
+      "published_at": "2026-04-18T05:20:11+00:00",
+      "summary": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Illinois is OpenAI and Anthropic’s latest battleground as the state tries to assess liability for catastrophes caused by AI",
-      "url": "https://fortune.com/2026/04/17/illinois-openai-anthropic-ai-catastrophe-liability-bills/",
-      "published_at": "2026-04-17T15:53:31+00:00",
-      "summary": "OpenAI is backing SB 3444, under which frontier AI developers would not be liable for the death or serious injury of 100 or more people or more than $1 billion in property damage."
+      "title": "Trump speeds review of psychedelics after Joe Rogan texted him about ibogaine. ‘Sounds great. Do you want FDA approval? Let’s do it’",
+      "url": "https://fortune.com/2026/04/18/trump-review-psychedelics-joe-rogan-ibogaine-fda-approval/",
+      "published_at": "2026-04-18T22:41:29+00:00",
+      "summary": "The administration is taking steps to ease restrictions and spur research on using the drugs for medical purposes, including conditions like severe depression."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Adam Silver on winning the Edison Achievement Award: ‘Sports remind us that some of the most important forms of innovation are human’",
-      "url": "https://fortune.com/2026/04/17/exclusive-adam-silver-edison-award-achievement-nba-comissioner/",
-      "published_at": "2026-04-17T18:48:00+00:00",
-      "summary": "The NBA commissioner has an unlikely background to lead the league through crises and global expansion, but Adam Silver says executives should get hooped with some sports business know-how."
+      "title": "The jet-fuel surge is making global flight connections disappear",
+      "url": "https://fortune.com/2026/04/18/jet-fuel-surge-shortage-oil-prices-iran-war-flight-connections-airline-capacity/",
+      "published_at": "2026-04-18T22:03:36+00:00",
+      "summary": "The International Energy Agency says Europe has “maybe six weeks” of supplies left."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tether extends $127.5 million in funding to crypto platform Drift as critics blast rival Circle for failing to freeze hacked funds",
-      "url": "https://fortune.com/2026/04/17/tether-127-5-million-drift-circle-freeze-hacked-funds/",
-      "published_at": "2026-04-17T18:43:27+00:00",
-      "summary": "The move brought Tether goodwill among users of the Solana blockchain."
+      "title": "Putin finally admits Russia’s economy is in trouble and grasps for answers, after warnings about a financial crisis have been piling up",
+      "url": "https://fortune.com/2026/04/18/russia-economy-contraction-vladimir-putin-financial-crisis-warnings-iran-ukraine-war-drones-oil-exports/",
+      "published_at": "2026-04-18T21:53:55+00:00",
+      "summary": "Putin revealed that GDP shrank by combined 1.8% in January and February, adding that manufacturing, industrial production and construction were negative."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI policy chief says AI companies ‘need to do a much better job’ talking about AI as industry leaders face personal attacks",
-      "url": "https://fortune.com/2026/04/17/openais-policy-chief-chris-lehane-ai-warning-violence/",
-      "published_at": "2026-04-17T17:05:35+00:00",
-      "summary": "OpenAI global policy chief Chris Lehane is asking industry leaders to tone down the rhetoric."
+      "title": "A bizarre insurance scam was exposed as ‘clearly a human in a bear suit’ damaging luxury cars",
+      "url": "https://fortune.com/2026/04/18/insurance-claim-scam-damage-luxury-cars-human-bear-suit/",
+      "published_at": "2026-04-18T20:16:57+00:00",
+      "summary": "The group is accused of providing several videos from the San Bernardino Mountains of a bear moving inside the vehicles to the insurance companies as part of their damage claims."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Something is different about Trump’s $1 trillion war on Iran and its stress on the national debt, Harvard Kennedy scholar says",
-      "url": "https://fortune.com/2026/04/17/what-is-different-about-trump-1-trillion-war-on-national-debt/",
-      "published_at": "2026-04-17T20:01:40+00:00",
-      "summary": "During the wars in Iraq and Afghanistan, debt held by the public was around $4 trillion. Now it's $31 trillion, and 15% of the budget pays down interest."
+      "title": "The record-setting U.S. drought is so bad that 97% of the Southeast and two-thirds of the West are parched",
+      "url": "https://fortune.com/2026/04/18/record-us-drought-rainfall-snowpack-wildfire-risk-southeast-west/",
+      "published_at": "2026-04-18T20:01:17+00:00",
+      "summary": "Drought usually peaks in summer, not spring, and that's what worries meteorologists."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "White House chief of staff to meet with Anthropic CEO about dangerous new Mythos model, official says",
-      "url": "https://fortune.com/2026/04/17/white-house-chief-of-staff-to-meet-anthropic-dario-amodei-mythos/",
-      "published_at": "2026-04-17T20:45:25+00:00",
-      "summary": "The meeting comes after tensions have run hot between the Trump administration and the safety-conscious Anthropic."
+      "title": "U.S. extends waiver on Russian oil sanctions to ease Iran war shortages, just days after Treasury Secretary Scott Bessent ruled it out",
+      "url": "https://fortune.com/2026/04/18/us-waiver-extension-russian-oil-sanctions-iran-war-shortages-treasury-secretary-scott-bessent/",
+      "published_at": "2026-04-18T19:52:02+00:00",
+      "summary": "The so-called general license means U.S. sanctions will not apply for 30 days on deliveries of Russian oil that has been loaded on tankers as of Friday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran and White House say the Strait of Hormuz is ‘completely open.’ But it definitely isn’t—at least for now",
-      "url": "https://fortune.com/2026/04/17/iran-white-house-strait-hormuz-completely-open-but-definitely-remains-closed/",
-      "published_at": "2026-04-17T18:11:01+00:00",
-      "summary": "Iran remains unwilling to give up its control over the Strait of Hormuz for now."
+      "title": "The U.S. is ready to seize Iran-linked ships with boarding parties, report says, while Marines practice maritime raids",
+      "url": "https://fortune.com/2026/04/18/us-iran-blockade-oil-weapons-strait-hormuz-marine-corps-maritime-raids/",
+      "published_at": "2026-04-18T19:22:51+00:00",
+      "summary": "\"During training evolutions like these, embarked Marines hone their skills for missions such as maritime interception operations.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Oil is back to early war days, S&P 500 jumps to all-time high",
-      "url": "https://fortune.com/2026/04/17/oil-is-back-to-early-war-days-sp-500-jumps-to-all-time-high/",
-      "published_at": "2026-04-17T20:40:28+00:00",
-      "summary": "The Dow Jones Industrial Average surged as many as 1,100 points before paring its gain to 868, or 1.8%. The Nasdaq composite climbed 1.5%."
+      "title": "Iran’s Hormuz whiplash highlights divide within regime as U.S. blockade tightens. ‘The fight between different factions has started’",
+      "url": "https://fortune.com/2026/04/18/iran-strait-of-hormuz-regime-factional-infighting-us-naval-blockade-oil-irgc/",
+      "published_at": "2026-04-18T16:29:46+00:00",
+      "summary": "The Institute for the Study of War said in a note on Friday that the IRGC’s criticism of Araghchi is \"reflective of broader divisions within the Iranian regime.\""
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference",
-      "url": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference",
-      "published_at": "2026-04-17T17:34:02+00:00",
-      "summary": "<p>The standard guidelines for building large language models (LLMs) optimize only for training costs and ignore inference costs. This poses a challenge for real-world applications that use inference-time scaling techniques to increase the accuracy of model responses, such as drawing multiple reason"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
-      "url": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
-      "published_at": "2026-04-17T17:07:29+00:00",
-      "summary": "<p>A rogue AI agent at Meta <a href=\"https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix\">passed every identity check and still exposed sensitive data</a> to unauthorized employees in March. Two weeks later, <a href=\"https://fortune.com/2026/04/02/merc"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
-      "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
-      "published_at": "2026-04-17T15:00:00+00:00",
-      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> today launched <a href=\"https://www.anthropic.com/news/claude-design-anthropic-labs\">Claude Design</a>, a new product from its Anthropic Labs division that allows users to create polished visual work — designs, interactive prototypes, slide decks"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
-      "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
-      "published_at": "2026-04-17T14:06:00+00:00",
-      "summary": "<p>For the past year, early adopters of autonomous AI agents have been forced to play a murky game of chance: keep the agent in a useless sandbox or give it the keys to the kingdom and hope it doesn&#x27;t hallucinate a catastrophic &quot;delete all&quot; command.</p><p>To unlock the true utility of"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Pie Day 2026",
-      "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
-      "published_at": "2026-04-17T14:07:41+00:00",
-      "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-      "published_at": "2026-04-17T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a co"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The case for fixing everything",
-      "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-      "published_at": "2026-04-17T10:00:00+00:00",
-      "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both coun"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "How robots learn: A brief, contemporary history",
-      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "published_at": "2026-04-17T10:00:00+00:00",
-      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证",
+      "url": "https://36kr.com/p/3773090942321155?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，环晶芯科技已于近期完成数千万元天使轮融资。本轮由啟赋资本领投，盛世投资、海益资本及湖南省大学生创业投资基金跟投。资金将主要用于公司在无锡的首条量产线建设、研发投入及补充流动资金。</p>\n  <p>环晶芯科技成立于2025年5月，是国内首家提出临时键合载板无损回收复用方案的公司。公司创始人张介元拥有中科院、中科大、哈工大的研究背景及华为从业经历，师从国内打破临时键合胶垄断的第一人，对该类材料特性有深刻理解。</p>\n  <p>硬氪了解到，在先进封装中，为加工超薄晶圆或器件，需通过临时键合胶将其固定在坚硬的载板上。加工"
     },
     {
       "source": "36氪",
@@ -266,14 +178,6 @@
       "url": "https://36kr.com/p/3770699297800707?f=rss",
       "published_at": null,
       "summary": "<p>零售业的风向，正在从线上狂奔转向线下深耕。</p>\n  <p>从沃尔玛试水社区店、东方甄选宣布开设实体店，到盒马、七鲜、小象持续加码线下门店，再到春节期间线下零售额增速一举反超线上，实体门店的价值正在被全面重估。</p>\n  <p>这背后是底层商业逻辑的回归。一方面，完善的物流基建已逐渐缩窄线上线下的价格鸿沟；另一方面，在追求质价比的同时，当下的消费者愈发注重体验式消费。</p>\n  <p>聚焦到生鲜行业，这种转变尤为显著。一度被视为颠覆者的纯线上生鲜电商，在经历高速扩张后，不少正陷入高昂履约成本与盈利艰难的现实泥潭。反观扎根社区的线下生鲜店，凭借无可替代的临场体验与健康的盈利模型，重获"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "科氪 | 享刻智能：不追人形机器人，深耕餐饮场景做具身智能落地派",
-      "url": "https://36kr.com/p/3770651778761481?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪于日前与享刻智能创始人陈震进行了一次深入的沟通。在多数具身智能企业仍聚焦实验室打磨通用技术、扎堆布局人形机器人赛道的当下，成立仅3年的享刻智能走出了一条差异化发展路径，以场景落地为核心，推动具身智能技术的商业化落地。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260417/v2_f91d5792e2bc44bdb8b373280199dd29@517825446_oswg615251oswg1269oswg846_img_png?x-oss-process=image/qua"
     }
   ]
 }

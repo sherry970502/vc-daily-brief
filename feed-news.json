@@ -1,199 +1,239 @@
 {
-  "updated_at": "2026-04-20T04:25:19.335847+00:00",
+  "updated_at": "2026-04-21T04:16:33.143431+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 29,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s existential questions",
-      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "published_at": "2026-04-19T21:24:06+00:00",
-      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
+      "title": "Who is John Ternus, the incoming Apple CEO?",
+      "url": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
+      "published_at": "2026-04-21T01:02:04+00:00",
+      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The 12-month window",
-      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "published_at": "2026-04-19T19:30:00+00:00",
-      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever."
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "published_at": "2026-04-20T23:10:27+00:00",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch",
-      "url": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
-      "published_at": "2026-04-19T19:02:09+00:00",
-      "summary": "The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon."
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "published_at": "2026-04-20T22:00:00+00:00",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Robots beat human records at Beijing half-marathon",
-      "url": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
-      "published_at": "2026-04-19T18:44:00+00:00",
-      "summary": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes."
+      "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
+      "url": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
+      "published_at": "2026-04-20T20:42:01+00:00",
+      "summary": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry watchers and enthusiasts struggled to separate from its famed founder. What he leaves behind is a $4 trillion business with"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "published_at": "2026-04-19T16:30:00+00:00",
-      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\""
+      "title": "Google Photos adds new touch-up tools for ‘quick’ fixes",
+      "url": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
+      "published_at": "2026-04-20T20:20:29+00:00",
+      "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "published_at": "2026-04-19T16:01:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      "title": "It’s not just one thing — it’s another thing",
+      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "published_at": "2026-04-20T19:37:07+00:00",
+      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cracks are starting to form on fusion energy’s funding boom",
-      "url": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
-      "published_at": "2026-04-19T12:51:10+00:00",
-      "summary": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably."
+      "title": "North Korean hackers blamed for $290M crypto theft",
+      "url": "https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/",
+      "published_at": "2026-04-20T17:04:05+00:00",
+      "summary": "The hack against Kelp DAO is the largest crypto heist of the year so far."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
-      "url": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
-      "published_at": "2026-04-19T11:45:38+00:00",
-      "summary": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market."
+      "title": "Mastodon says its flagship server was hit by a DDoS attack",
+      "url": "https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/",
+      "published_at": "2026-04-20T16:58:33+00:00",
+      "summary": "The DDoS attack against Mastodon's flagship server comes less than a week after Bluesky was targeted with junk web traffic."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Lilly Acquiring Kelonia In Largest Funded Biotech Startup Purchase In Years",
+      "url": "https://news.crunchbase.com/ma/lilly-acquiring-kelonia-cancer-treatment-biotech-startup/",
+      "published_at": "2026-04-20T21:06:42+00:00",
+      "summary": "Eli Lilly announced Monday that it is acquiring Kelonia Therapeutics, a developer of gene therapies with a particular focus on cancer treatment, in a deal valued at up to $7 billion in cash."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Cybersecurity Funding Holds Up At Robust Levels",
+      "url": "https://news.crunchbase.com/cybersecurity/data-robust-venture-funding-ai-q1-2026/",
+      "published_at": "2026-04-20T11:00:54+00:00",
+      "summary": "This past quarter, funding to security- and privacy-focused startups dipped slightly on a sequential basis, but remained well above year-ago levels. Overall, investors put $4.9 billion into global companies in the space in Q1, per Crunchbase data, a comparatively solid performance relative to recent"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Starting Monday, businesses can claim refunds for Trump’s unconstitutional tariffs. But it will take 60-90 days to get paid",
-      "url": "https://fortune.com/2026/04/19/businesses-trump-tariffs-refunds-cpd-portal-importers-brokers/",
-      "published_at": "2026-04-19T23:58:26+00:00",
-      "summary": "Importers and their brokers will be able to begin claiming refunds through an online portal beginning at 8 a.m., according to U.S. Customs and Border Protection."
+      "title": "Apple CEO Tim Cook is stepping down, and hardware boss John Ternus will be the new CEO",
+      "url": "https://fortune.com/2026/04/20/apple-ceo-tim-cook-stepping-down-hardware-exec-john-ternus-new-ceo/",
+      "published_at": "2026-04-20T21:04:44+00:00",
+      "summary": "The CEO change ends an extraordinary run by Cook, who succeeded Apple’s legendary cofounder Steve Jobs as CEO in 2011, stepping into perhaps the biggest shoes to fill in business history."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Feds arrest a Los Angeles woman at LAX on suspicion of helping Iran traffic weapons to Sudan",
-      "url": "https://fortune.com/2026/04/19/fbi-federal-prosecutors-los-angeles-woman-lax-iranc-weapons-trafficking-sudan/",
-      "published_at": "2026-04-19T23:48:55+00:00",
-      "summary": "Shamim Mafi will face charges that she brokered the sale of “drones, bombs, bomb fuses, and millions of rounds of ammunition” between Iran and the Sudanese Armed Forces."
+      "title": "Hillhouse-backed Ascentium buys fellow business services firm Dezan Shira, as the platform tries to ride China’s surge in outbound investment",
+      "url": "https://fortune.com/2026/04/20/ascentium-acquires-dezan-shira-hillhouse-china-investment/",
+      "published_at": "2026-04-21T02:00:00+00:00",
+      "summary": "Ascentium, founded in 2024, is pursuing an aggressive roll-up strategy to quickly build its geographic footprint across Asia."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets shudder as Strait of Hormuz starts resembling a combat zone. ‘We’re prepared to subject you to disabling fire’",
-      "url": "https://fortune.com/2026/04/19/markets-stock-futures-oil-prices-strait-of-hormuz-blockade-navy-iran-ship-seizure/",
-      "published_at": "2026-04-19T23:13:24+00:00",
-      "summary": "Tensions in the Gulf escalated Sunday, when the Navy seized a ship for the first time as part of its blockade, with a destroyer firing at a vessel attempting to evade the dragnet."
+      "title": "Trump insists there’s no pressure to end the war in Iran that he started, but ‘it will all happen, relatively quickly!’",
+      "url": "https://fortune.com/2026/04/20/trump-says-no-pressure-but-will-end-war-quickly/",
+      "published_at": "2026-04-21T01:13:54+00:00",
+      "summary": "“I am under no pressure whatsoever,” Trump said on his Truth Social platform."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "UAE in talks with U.S. for possible financial lifeline, WSJ says",
-      "url": "https://fortune.com/2026/04/19/uae-talks-us-possible-financial-lifeline-currency-swap-federal-reserve-treasury-iran-war/",
-      "published_at": "2026-04-19T21:49:12+00:00",
-      "summary": "UAE Central Bank Governor Khaled Mohamed Balama raised the idea of a currency swap line with Federal Reserve and Treasury officials during meetings in Washington last week."
+      "title": "This Apple doesn’t fall far from the tree: Tim Cook is leaving at a peak and John Ternus is exactly the right CEO for the AI era",
+      "url": "https://fortune.com/2026/04/20/apple-ceo-tim-cook-john-ternus-succession-ai-model-handoff/",
+      "published_at": "2026-04-21T01:05:31+00:00",
+      "summary": "The market's muted reaction to Apple's leadership handoff is shortsighted. Cook's deliberate, Steve Jobs–approved succession puts Apple ahead of AI rivals."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "8 children between the ages of 1 and 14 are dead after a Louisiana shooting that was ‘unlike anything most of us have ever seen,’ police say",
-      "url": "https://fortune.com/2026/04/19/shreveport-louisiana-mass-shooting-children-domestic-gun-violence/",
-      "published_at": "2026-04-19T21:13:43+00:00",
-      "summary": "The suspect died after a police pursuit, and the victims included children related to the gunman."
+      "title": "Nike’s ‘Walkers Tolerated’ sign at the Boston Marathon was meant to fire up runners. Instead, it insulted them",
+      "url": "https://fortune.com/2026/04/20/nike-boston-marathon-marketing-ad/",
+      "published_at": "2026-04-20T22:25:38+00:00",
+      "summary": "The sign sparked a backlash that reveals deeper problems for the brand."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Canada’s PM says strong U.S. economic ties were a strength but are now a weakness that must be fixed. ‘We have to take care of ourselves’",
-      "url": "https://fortune.com/2026/04/19/canada-prime-minister-mark-carney-us-economic-weakness-trump-tariffs-usmca-trade-deal/",
-      "published_at": "2026-04-19T21:03:43+00:00",
-      "summary": "“The U.S. has changed and we must respond,” he said. \"It’s about taking back control of our security, our borders and our future.”"
+      "title": "Labor Secretary Lori Chavez-DeRemer leaves Trump’s Cabinet after allegations of having an affair with a subordinate and drinking on the job",
+      "url": "https://fortune.com/2026/04/20/labor-secretary-lori-chavez-deremer-trump-cabinet-exit-allegations-affair-subordinate-alcohol/",
+      "published_at": "2026-04-20T23:17:05+00:00",
+      "summary": "Chavez-DeRemer is the third Cabinet member to leave her post after Trump fired Homeland Security Secretary Kristi Noem and ousted Attorney General Pam Bondi."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump says Marines have seized an Iranian-flagged cargo ship that tried to evade blockade after Navy blew a ‘hole in the engineroom’",
-      "url": "https://fortune.com/2026/04/19/trump-marines-custody-seizure-iranian-flagged-cargo-ship-blockade-navy-strait-of-hormuz/",
-      "published_at": "2026-04-19T20:49:48+00:00",
-      "summary": "Trump on social media said the ship was warned by a U.S. Navy guided missile destroyer in the Gulf of Oman to stop, but it did not."
+      "title": "Struggling AI power startup Fermi loses its CEO and CFO for ‘2.0’ reset",
+      "url": "https://fortune.com/2026/04/20/financially-struggling-ai-power-startup-fermi-loses-ceo-reset/",
+      "published_at": "2026-04-20T21:50:23+00:00",
+      "summary": "Fermi touts “acceleration in customer conversations” since the leadership changes."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The explosion of U.S. debt is wiping out the ‘safety premium’ of Treasury bonds, and time is running out for an orderly fiscal solution, IMF warns",
-      "url": "https://fortune.com/2026/04/19/us-debt-explosion-safety-premium-treasury-bonds-convenience-yield-imf/",
-      "published_at": "2026-04-19T19:24:24+00:00",
-      "summary": "\"In other words, Treasuries now offer a higher yield than the synthetic-dollar equivalents for hedged G10 sovereign bonds.\""
+      "title": "Jeff Bezos’ Blue Origin grounds New Glenn rocket after a bad engine put a satellite in the wrong orbit",
+      "url": "https://fortune.com/2026/04/20/jeff-bezos-blue-origin-new-glenn-rocket-bad-engine-satellite-wrong-orbit/",
+      "published_at": "2026-04-20T23:04:02+00:00",
+      "summary": "NASA is counting on New Glenn to launch Blue Moon lunar landers for the Artemis moon program."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "published_at": "2026-04-20T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly excit"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
+      "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
+      "published_at": "2026-04-20T10:00:00+00:00",
+      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussa"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "published_at": "2026-04-20T09:00:00+00:00",
+      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” the"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%｜独家",
-      "url": "https://36kr.com/p/3774566936216064?f=rss",
+      "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
+      "url": "https://36kr.com/p/3774707915440897?f=rss",
       "published_at": null,
-      "summary": "<p><strong>文｜李小霞</strong></p>\n  <p><strong>编辑｜乔芊 杨轩</strong></p>\n  <p>36氪独家从知情人士处获悉，字节跳动2025年海外营收增长近50%，远超约20%的国内营收增幅，海外业务营收占比也从2024年的25%提升至超三成，创下新高。</p>\n  <p>TikTok电商业务是字节跳动海外营收增长的主要动力。据悉，TikTok Shop 2025年GMV同比增速接近70%，不仅大幅提升了字节跳动的海外收入占比，同时也推动TikTok于2025年实现了大幅盈利。</p>\n  <p>不过，在海外业务帮助字节跳动的营收继续攀升的同时，该公"
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，劳尼克斯科技（南京）有限公司（以下简称“劳尼克斯”）近日完成数千万元融资，投资方为苏州天空工场、宜宾高新前沿科技产业基金、翼朴资本。资金将重点投向核心产品研发迭代、人才团队扩容升级，同时全力支撑海外市场的布局拓展与本地化落地。</p>\n  <p>劳尼克斯核心团队成员来自智能硬件、消费机器人与园林工具等相关领域的头部企业。其产品矩阵涵盖割草机、打草机、修枝机、链锯等多种动力工具，并配套电池包、充电器等电动配件方案，采取20V、40V、60V全电压平台策略，覆盖从中小庭院到高端大宅的全场景需求。</p>\n  <p>自今年"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
-      "url": "https://36kr.com/p/3773892499096068?f=rss",
+      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
+      "url": "https://36kr.com/p/3775892441301511?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>智能派的联合创始人兼副总经理陈波变了一个人。</p>\n  <p>三年前，你见到他，会觉得这人张扬到有些轻狂。陈波对于智能派产品和能力有绝对自信，至于对手，”没什么了不起”。</p>\n  <p>三年后，他告诉我们：有些事会尽力而为，如果几年后做不出想要的成绩，让更有能力的人来接管业务——甚至会引入职业经理人。</p>\n  <p>在“创始人崇拜”盛行的创投圈，这是一个让人震动的决定，却也有迹可循。</p>\n  <p><strong>硬氪独家获悉，智能派已完成数亿元B+轮融资。由美团"
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在海外风行几年，估值破15亿美元后，AI睡眠系统独角兽Eight Sleep终于决定进入中国。</p>\n  <p>4月，他们在深圳南山INNO100全球创新旗舰店正式发布了售价19999元起的Pod 5智能深眠系统，通过微信小程序、京东、天猫等渠道销售。前所未有地，Eight Sleep为中国普通版用户免除了199美元的软件订阅费——起码在这一点上，Eight Sleep还是很懂得中国市场。</p>\n  <p>Eight Sleep不是头一天和中国市场打交道。</p>\n  <p>2015年，Eight Sleep还在开发第一款"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
-      "url": "https://36kr.com/p/3774502008963841?f=rss",
+      "title": "8点1氪丨库克将不再担任苹果CEO；爱奇艺回应AI艺人库争议：入驻仅代表有接洽意愿；日本修正震级为7.7级",
+      "url": "https://36kr.com/p/3775833331286530?f=rss",
       "published_at": null,
-      "summary": "<p><strong>文｜邱晓芬</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>《智能涌现》独家获悉，自变量机器人已经于三月底至四月初完成近20亿元B轮融资，领投方为小米战投和红杉中国。</p>\n  <p>不久前，美团、阿里和字节分别在A轮、A+轮、A++轮领投或独投自变量机器人。截至目前，自变量已成为国内唯一一家同时被四家互联网大厂投资的具身智能企业。</p>\n  <p>对此，自变量方面暂无回应。</p>\n  <p>小米战投在具身智能机器人领域已落子，近两年公开的投资项目包括纬钛机器人（触觉传感）、曦诺未来（灵巧手）、萝博派对（本体）、"
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>美关税退款系统上线</li>\n   <li>字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%</li>\n   <li>“五一”临近航班遭取消？航空公司：优先签转，保障旅客顺利成行</li>\n   <li>贵州茅台盘中股价反超源杰科技，重新成为A股“一哥”</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>苹果公司宣布特纳斯将接替库克担任CEO</strong></p>\n  <p>当地时间4月20日，美国苹果公司宣布任命内部高管、长期负责硬件业务的约翰·特纳斯为该公司下一任首席"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发｜「东犁退休俱乐部」完成亿元级B轮融资，为300万活力银发族打造“线上+线下”社交生活方式",
-      "url": "https://36kr.com/p/3719736708200068?f=rss",
+      "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
+      "url": "https://36kr.com/p/3775059219792648?f=rss",
       "published_at": null,
-      "summary": "<p>36氪独家获悉，「上海东犁退休俱乐部」近日完成亿元级B轮融资，由恒旭资本领投，德同资本跟投。本轮资金将用于拓展多元化银发服务场景、加强上游供应链合作，以及推动AI技术与数据中台升级。</p>\n  <p>上海东犁退休俱乐部（以下简称“东犁”）是一家面向退休人群的社交娱乐服务平台，专注为50-80岁活力银发群体提供旅游、聚会、商品、兴趣爱好等综合性服务。</p>\n  <p>截至目前，东犁已累计服务超300万用户，覆盖江浙沪地区，复购率超过60%。2025年全年，其旅游业务营收超8亿元，银发电商业务预计今年突破3-4亿元。</p>\n  <h3>从电视制片人到银发创业者</h3>\n  <p>东犁"
+      "summary": "<h2>大公司：</h2>\n  <p><strong>天齐锂业：一季度净利润同比预增1530.31%—1818.01%</strong></p>\n  <p>36氪获悉，天齐锂业披露业绩预告，预计2026年一季度归属于上市公司股东的净利润为17亿元—20亿元，同比增长1530.31%—1818.01%。</p>\n  <p><strong>盛屯矿业：一季度净利润10.2亿元，同比增长250.4%</strong></p>\n  <p>36氪获悉，盛屯矿业披露一季报，公司2026年一季度实现营业收入93.54亿元，同比增长65.08%；归属于上市公司股东的净利润10.2亿元，同比增长250.40%。<"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
-      "url": "https://36kr.com/p/3774401650656001?f=rss",
+      "title": "空悬企业时驾科技获头部车企MPV车型独家定点 | 早期项目",
+      "url": "https://36kr.com/p/3775008761004549?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>张雪坦言流量已成为甜蜜负担</p>\n  <p>泰坦尼克号救生衣拍出90.6万美元</p>\n  <p>涉案金额2.6亿元，中国摧毁山西特大假酒网络</p>\n  <p>小米集团人事调整，首次任命汽车部CTO</p>\n  <p>国产光纤全球爆单，光纤价格暴涨650%&nbsp;</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>12306五一已拒绝抢票软件105.6万张票&nbsp;</strong></p>\n  <p>据中国铁路消息，五一假期火车票开售以来，铁路12306精准识别频繁大量为非本人购票的铁路12306注册账号和频繁大量为"
+      "summary": "<p>36氪获悉，国产空气悬架供应商时科技，已拿下某头部车企MPV车型的独家定点，项目将在今年四季度SOP（交付）。36氪了解到，这款车定位中大型MPV市场，是中国MPV界的标杆车型。</p>\n  <p>时驾科技创始人乌伟民告诉36氪：“企业花了很大精力打入这款车的供应链，因为MPV最突出的卖点之一就是舒适性，这款车尤甚。空悬对用户体验的主要影响正体现在舒适性上，因而拿下这款车的独家定点，意味着时驾科技在空悬的舒适性这一维度上，已走在行业前列。”</p>\n  <p><strong>八合一集成闭式空气供给模块+千段调节自适应天/地棚算法，构建软硬一体的竞争力</strong></p>\n  <p>"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "科氪 | 荣耀齐天大圣队机器人“闪电”夺冠  领跑2026亦庄人形机器人马拉松赛场",
-      "url": "https://36kr.com/p/3773492357169920?f=rss",
+      "title": "营销情怀、剧情不通，为什么《安魂曲》依旧好评如潮？| 36氪游戏",
+      "url": "https://36kr.com/p/3774966004892416?f=rss",
       "published_at": null,
-      "summary": "<p>4月19日，2026北京亦庄人形机器人半程马拉松比赛成功举办。荣耀齐天大圣队参赛选手机器人“闪电”以50分26秒（净用时）的成绩斩获赛事冠军，另一款参赛机器人“元气仔”以优美的跑姿同步完成赛事，展现了荣耀在人形机器人领域的深厚技术积淀与领先实力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260419/v2_e4e57d5e36824a7da10966c34e08ab81@517825446_oswg1559899oswg1268oswg846_img_png?x-oss-proc"
+      "summary": "<p>文丨贝果树</p>\n  <p>编辑丨果脯</p>\n  <p>发售初期，《生化危机9：安魂曲》曾以9.5的用户评分登顶Metacritic“用户评分游戏”的榜单。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260420/v2_c2cc72d9b9e44a05ba2235783acf6175@6255070_oswg122467oswg1080oswg1369_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证",
-      "url": "https://36kr.com/p/3773090942321155?f=rss",
+      "title": "申根签证申请同比增长20%，VFS Global观察中国市场回暖｜最前线",
+      "url": "https://36kr.com/p/3774760404894216?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，环晶芯科技已于近期完成数千万元天使轮融资。本轮由啟赋资本领投，盛世投资、海益资本及湖南省大学生创业投资基金跟投。资金将主要用于公司在无锡的首条量产线建设、研发投入及补充流动资金。</p>\n  <p>环晶芯科技成立于2025年5月，是国内首家提出临时键合载板无损回收复用方案的公司。公司创始人张介元拥有中科院、中科大、哈工大的研究背景及华为从业经历，师从国内打破临时键合胶垄断的第一人，对该类材料特性有深刻理解。</p>\n  <p>硬氪了解到，在先进封装中，为加工超薄晶圆或器件，需通过临时键合胶将其固定在坚硬的载板上。加工"
+      "summary": "<p>随着全球出境游持续修复，签证申请这一长期被视为“前置流程”的环节，正在被重新放回旅行产业链的核心位置。</p>\n  <p>近期，全球最大的政府和外交使团签证及护照外包服务商VFS Global（威孚仕）在中国市场释放出多个关键信号：<strong>一方面，2026年出行旺季已明显提前，申请需求快速回升；另一方面，中国申请人对签证服务的期待，正从单一的效率导向转向“效率+体验”的复合型需求。</strong>这一变化，不仅放大了签证体系在旺季的承压程度，也在重塑行业竞争的底层逻辑。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.3"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "智元机器人，要做AI大模型平台和开放生态",
-      "url": "https://36kr.com/p/3770721219035649?f=rss",
+      "title": "灵光把手搓应用做成「朋友圈」，一人应用时代来了",
+      "url": "https://36kr.com/p/3774865386144519?f=rss",
       "published_at": null,
-      "summary": "<p>文｜王毓婵</p>\n  <p>编辑｜杨轩</p>\n  <p>当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？</p>\n  <p>上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。</p>\n  <p>智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（AI Machine Architecture）全栈生态技术体系。这些软件产品将与硬件机器人一起，组成智元“一体三智”的架构。</p>"
+      "summary": "<p>最近，你的朋友圈被SBTI测试刷屏了吗？</p>\n  <p>某天深夜，微信突然被一串串神秘代码占据。“装死者”、“送钱者”、“伪人”、“吗喽”，大家纷纷晒起自己开出的奇葩人格，朋友圈更是被晒“SEXY尤物”的截图刷了屏。</p>\n  <p>而真相是，这个突然爆火的小测试不是什么大厂有预谋的营销，只是一位03年女孩用四五天时间手搓出来的小应用——创作者@Q肉儿串儿（B站ID）学的是金融，和编程完全不沾边，<strong>她搓这个小应用的初衷,只是为了通过一套整活的人格测试，劝她那嗜酒如命的朋友戒酒。</strong></p>\n  <p class=\"image-wrapper\"><img"
     }
   ]
 }

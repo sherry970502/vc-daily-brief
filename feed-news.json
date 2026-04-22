@@ -1,175 +1,335 @@
 {
-  "updated_at": "2026-04-21T04:16:33.143431+00:00",
+  "updated_at": "2026-04-22T04:12:31.119579+00:00",
   "period_hours": 24,
-  "article_count": 29,
+  "article_count": 42,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Who is John Ternus, the incoming Apple CEO?",
-      "url": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
-      "published_at": "2026-04-21T01:02:04+00:00",
-      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now."
+      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+      "url": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "published_at": "2026-04-22T00:37:33+00:00",
+      "summary": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "published_at": "2026-04-20T23:10:27+00:00",
-      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return."
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "published_at": "2026-04-21T23:45:21+00:00",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
-      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "published_at": "2026-04-20T22:00:00+00:00",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan."
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "published_at": "2026-04-21T23:26:45+00:00",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
-      "url": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
-      "published_at": "2026-04-20T20:42:01+00:00",
-      "summary": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry watchers and enthusiasts struggled to separate from its famed founder. What he leaves behind is a $4 trillion business with"
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "published_at": "2026-04-21T22:58:22+00:00",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google Photos adds new touch-up tools for ‘quick’ fixes",
-      "url": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
-      "published_at": "2026-04-20T20:20:29+00:00",
-      "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos."
+      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
+      "url": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+      "published_at": "2026-04-21T21:09:09+00:00",
+      "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "It’s not just one thing — it’s another thing",
-      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "published_at": "2026-04-20T19:37:07+00:00",
-      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee."
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "published_at": "2026-04-21T20:23:24+00:00",
+      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "North Korean hackers blamed for $290M crypto theft",
-      "url": "https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/",
-      "published_at": "2026-04-20T17:04:05+00:00",
-      "summary": "The hack against Kelp DAO is the largest crypto heist of the year so far."
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "published_at": "2026-04-21T19:11:29+00:00",
+      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Mastodon says its flagship server was hit by a DDoS attack",
-      "url": "https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/",
-      "published_at": "2026-04-20T16:58:33+00:00",
-      "summary": "The DDoS attack against Mastodon's flagship server comes less than a week after Bluesky was targeted with junk web traffic."
+      "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
+      "url": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
+      "published_at": "2026-04-21T19:09:12+00:00",
+      "summary": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Lilly Acquiring Kelonia In Largest Funded Biotech Startup Purchase In Years",
-      "url": "https://news.crunchbase.com/ma/lilly-acquiring-kelonia-cancer-treatment-biotech-startup/",
-      "published_at": "2026-04-20T21:06:42+00:00",
-      "summary": "Eli Lilly announced Monday that it is acquiring Kelonia Therapeutics, a developer of gene therapies with a particular focus on cancer treatment, in a deal valued at up to $7 billion in cash."
+      "title": "Exclusive: Schematic Raises $6.5M To Help Companies Update Their Pricing Faster And Easier In The AI Era",
+      "url": "https://news.crunchbase.com/venture/update-pricing-faster-easier-saas-ai-schematic/",
+      "published_at": "2026-04-21T14:00:24+00:00",
+      "summary": "Schematic, a startup that aims to simplify pricing and packaging for software and AI companies, has raised $6.5 million in seed funding, it tells Crunchbase News exclusively."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Cybersecurity Funding Holds Up At Robust Levels",
-      "url": "https://news.crunchbase.com/cybersecurity/data-robust-venture-funding-ai-q1-2026/",
-      "published_at": "2026-04-20T11:00:54+00:00",
-      "summary": "This past quarter, funding to security- and privacy-focused startups dipped slightly on a sequential basis, but remained well above year-ago levels. Overall, investors put $4.9 billion into global companies in the space in Q1, per Crunchbase data, a comparatively solid performance relative to recent"
+      "title": "The Counterintuitive Truth About Product Pricing",
+      "url": "https://news.crunchbase.com/fintech/counterintuitive-pricing-truth-sagie/",
+      "published_at": "2026-04-21T11:00:45+00:00",
+      "summary": "Low prices can actually reduce demand, writes frequent guest author Itay Sagie, who shares how higher pricing is often a signal of quality, attracting more committed customers to position a company in a more competitive, higher-value market."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The New Unicorn Count Reached A 4-Year High In March, Led By Robotics, Frontier Labs And AI Infrastructure",
+      "url": "https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/",
+      "published_at": "2026-04-21T11:00:24+00:00",
+      "summary": "A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Apple CEO Tim Cook is stepping down, and hardware boss John Ternus will be the new CEO",
-      "url": "https://fortune.com/2026/04/20/apple-ceo-tim-cook-stepping-down-hardware-exec-john-ternus-new-ceo/",
-      "published_at": "2026-04-20T21:04:44+00:00",
-      "summary": "The CEO change ends an extraordinary run by Cook, who succeeded Apple’s legendary cofounder Steve Jobs as CEO in 2011, stepping into perhaps the biggest shoes to fill in business history."
+      "title": "Meet Blackstone’s ‘accidental influencer’ who made LinkedIn jogs Wall Street’s must‑watch content",
+      "url": "https://fortune.com/2026/04/21/blackstone-linkedin-influencer-jon-gray-running-video/",
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "summary": "Blackstone COO Jon Gray is jogging his way to internet virality, and other C-suite executives are taking note."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hillhouse-backed Ascentium buys fellow business services firm Dezan Shira, as the platform tries to ride China’s surge in outbound investment",
-      "url": "https://fortune.com/2026/04/20/ascentium-acquires-dezan-shira-hillhouse-china-investment/",
-      "published_at": "2026-04-21T02:00:00+00:00",
-      "summary": "Ascentium, founded in 2024, is pursuing an aggressive roll-up strategy to quickly build its geographic footprint across Asia."
+      "title": "How the Iran energy crisis is supercharging Southeast Asia’s EV transition",
+      "url": "https://fortune.com/2026/04/21/how-the-iran-energy-crisis-supercharged-southeast-asias-ev-transition/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "summary": "Chinese EV giant BYD received the most orders of any automaker at the Bangkok Auto Show in early April, beating Toyota for the first time."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump insists there’s no pressure to end the war in Iran that he started, but ‘it will all happen, relatively quickly!’",
-      "url": "https://fortune.com/2026/04/20/trump-says-no-pressure-but-will-end-war-quickly/",
-      "published_at": "2026-04-21T01:13:54+00:00",
-      "summary": "“I am under no pressure whatsoever,” Trump said on his Truth Social platform."
+      "title": "Feud between AI power startup Fermi and its fired CEO and top shareholder heats up over proposed sale",
+      "url": "https://fortune.com/2026/04/21/feud-between-ai-power-startup-fermi-and-its-fired-ceo-and-top-shareholder-heats-up/",
+      "published_at": "2026-04-22T01:50:58+00:00",
+      "summary": "The former CEO wants to sell the company to make money for shareholders rather than see Fermi's plans to fruition."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "This Apple doesn’t fall far from the tree: Tim Cook is leaving at a peak and John Ternus is exactly the right CEO for the AI era",
-      "url": "https://fortune.com/2026/04/20/apple-ceo-tim-cook-john-ternus-succession-ai-model-handoff/",
-      "published_at": "2026-04-21T01:05:31+00:00",
-      "summary": "The market's muted reaction to Apple's leadership handoff is shortsighted. Cook's deliberate, Steve Jobs–approved succession puts Apple ahead of AI rivals."
+      "title": "‘Something sinister could be happening’: FBI looks into dead or missing nuclear and space defense scientists tied to NASA, Blue Origin, and SpaceX",
+      "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
+      "published_at": "2026-04-21T18:51:06+00:00",
+      "summary": "Eleven scientists related to nuclear and space defense programs are missing or dead since 2022. Nearly four years later, Congress is finally looking into it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nike’s ‘Walkers Tolerated’ sign at the Boston Marathon was meant to fire up runners. Instead, it insulted them",
-      "url": "https://fortune.com/2026/04/20/nike-boston-marathon-marketing-ad/",
-      "published_at": "2026-04-20T22:25:38+00:00",
-      "summary": "The sign sparked a backlash that reveals deeper problems for the brand."
+      "title": "The tables have turned: Florida and Texas are the biggest losers in the housing market as Ohio emerges a surprise winner",
+      "url": "https://fortune.com/2026/04/21/housing-market-winners-vs-losers-florida-texas-ohio/",
+      "published_at": "2026-04-21T17:53:26+00:00",
+      "summary": "Cleveland is becoming one of the more desirable markets for homebuyers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Labor Secretary Lori Chavez-DeRemer leaves Trump’s Cabinet after allegations of having an affair with a subordinate and drinking on the job",
-      "url": "https://fortune.com/2026/04/20/labor-secretary-lori-chavez-deremer-trump-cabinet-exit-allegations-affair-subordinate-alcohol/",
-      "published_at": "2026-04-20T23:17:05+00:00",
-      "summary": "Chavez-DeRemer is the third Cabinet member to leave her post after Trump fired Homeland Security Secretary Kristi Noem and ousted Attorney General Pam Bondi."
+      "title": "Trump extends Iran ceasefire after insisting he wouldn’t hours earlier, citing a ‘seriously fractured’ Iran",
+      "url": "https://fortune.com/2026/04/21/trump-extends-ceasefire-iran-war-markets-closing-bell-stocks/",
+      "published_at": "2026-04-21T21:08:47+00:00",
+      "summary": "The president promised a “great deal” before the opening bell and extended the ceasefire after the closing one."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Struggling AI power startup Fermi loses its CEO and CFO for ‘2.0’ reset",
-      "url": "https://fortune.com/2026/04/20/financially-struggling-ai-power-startup-fermi-loses-ceo-reset/",
-      "published_at": "2026-04-20T21:50:23+00:00",
-      "summary": "Fermi touts “acceleration in customer conversations” since the leadership changes."
+      "title": "Chip Roy introduces the Mamdani Act to punish immigrants for ideology—including socialism and Marxism",
+      "url": "https://fortune.com/2026/04/21/mamdani-act-zohran-chip-roy-communism-marxism-socialism/",
+      "published_at": "2026-04-21T20:28:17+00:00",
+      "summary": "The act expands on existing immigration law that bans the entry of any immigrant affiliated with the Communist Party. Roy’s act expands it to Marxism, socialism, and Islamists."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jeff Bezos’ Blue Origin grounds New Glenn rocket after a bad engine put a satellite in the wrong orbit",
-      "url": "https://fortune.com/2026/04/20/jeff-bezos-blue-origin-new-glenn-rocket-bad-engine-satellite-wrong-orbit/",
-      "published_at": "2026-04-20T23:04:02+00:00",
-      "summary": "NASA is counting on New Glenn to launch Blue Moon lunar landers for the Artemis moon program."
+      "title": "Halliburton CEO: U.S. oil is in the ‘early innings’ of a rebound—and a drilling ramp-up is coming",
+      "url": "https://fortune.com/2026/04/21/halliburton-us-oil-rebound-enters-early-innings-iran-war/",
+      "published_at": "2026-04-21T20:06:56+00:00",
+      "summary": "The smaller U.S. producers are the first movers bringing new oil wells online."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Google’s new Deep Research and Deep Research Max agents can search the web and your private data",
+      "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
+      "published_at": "2026-04-21T20:43:18+00:00",
+      "summary": "<p><a href=\"https://www.google.com/\">Google</a> on Monday unveiled the most significant upgrade to its autonomous research agent capabilities since the product&#x27;s debut, launching two new agents — <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-ge"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Vercel breach exposes the OAuth gap most security teams cannot detect, scope or contain",
+      "url": "https://venturebeat.com/security/vercel-breach-exposes-the-oauth-gap-most-security-teams-cannot-detect-scope-or-contain",
+      "published_at": "2026-04-21T20:07:26+00:00",
+      "summary": "<p>One employee at Vercel adopted an AI tool. One employee at that AI vendor got hit with an infostealer. That combination created a walk-in path to Vercel’s production environments through an OAuth grant that nobody had reviewed.</p><p>Vercel, the cloud platform behind Next.js and its millions of w"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "The AI governance mirage: Why 72% of enterprises don’t have the control and security they think they do",
+      "url": "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do",
+      "published_at": "2026-04-21T19:04:56+00:00",
+      "summary": "<p>Decision makers at <b>72% of organizations</b> claim to have two or more AI platforms that they identify as their &quot;primary&quot; layer, according to a survey of 40 enterprise companies conducted by VentureBeat last month, revealing real gaps in security and control. </p><p>For enterprise man"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
+      "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly",
+      "published_at": "2026-04-21T19:00:00+00:00",
+      "summary": "<p>It&#x27;s been only a few months since OpenAI released its last big improvement to AI image generations in ChatGPT and through its application programming interface (API) — namely, a new image generation model known as <a href=\"https://venturebeat.com/technology/openais-gpt-image-1-5-challenges-g"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration",
+      "url": "https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration",
+      "published_at": "2026-04-21T16:55:30+00:00",
+      "summary": "<p>Most orchestration frameworks were built for agents that run for seconds or minutes. Now that agents are <a href=\"https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents\">running for hour</a>s — and in some cases days — those frameworks are starting to c"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "What AI model should you use for revenue intelligence? Von says all the big ones, and it will automate mixing and matching for you",
+      "url": "https://venturebeat.com/orchestration/what-ai-model-should-you-use-for-revenue-intelligence-von-says-all-the-big-ones-and-it-will-automate-mixing-and-matching-for-you",
+      "published_at": "2026-04-21T14:55:00+00:00",
+      "summary": "<p>Looking at enterprise AI adoption, VentureBeat has anecdotally observed a fairly wide divergence when it comes to specific roles: For those who build—engineers and developers—the arrival of AI has been transformative, moving through the workflow with the speed of tools like Claude Code and Cursor"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
+      "url": "https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026",
+      "published_at": "2026-04-21T14:51:17+00:00",
+      "summary": "<p>A security researcher, working with colleagues at <a href=\"https://www.jhu.edu/\">Johns Hopkins University</a>, opened a GitHub pull request, typed a malicious instruction into the PR title, and watched Anthropic’s Claude Code Security Review action <a href=\"https://oddguan.com/blog/comment-and-co"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-      "published_at": "2026-04-20T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly excit"
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+      "published_at": "2026-04-21T22:09:25+00:00",
+      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful mo"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-      "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
-      "published_at": "2026-04-20T10:00:00+00:00",
-      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussa"
+      "title": "The new word in home construction could be “plastics”",
+      "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engi"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "published_at": "2026-04-20T09:00:00+00:00",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” the"
+      "title": "A natural protein may protect the GI tract from infection",
+      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bac"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "This tool could show how consciousness works",
+      "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Early life may have breathed oxygen earlier than believed",
+      "url": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "summary": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years bef"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Analog computing from waste heat",
+      "url": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "summary": "Heat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT’s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn’t rely on electricity. In this analog computing method, input data is encoded n"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Get ready for hotter, muggier, stormier summers",
+      "url": "https://www.technologyreview.com/2026/04/21/1134873/get-ready-for-hotter-muggier-stormier-summers/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "summary": "A long stretch of humid heat followed by a powerful thunderstorm is a familiar weather pattern in the tropics, but it’s also becoming more common in midlatitude regions such as the US Midwest. A recent study by two MIT scientists identifies a key atmospheric condition that determines how hot, humid,"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Recent books from the MIT community",
+      "url": "https://www.technologyreview.com/2026/04/21/1134879/recent-books-from-the-mit-community-28/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "summary": "Priority Technologies: Ensuring US Security and Shared ProsperityEdited by Elisabeth B. Reynolds, professor of the practice of urban studies and planning and former executive director of the MIT Task Force on the Work of the Future MIT PRESS, 2026, $24.95 The Shape of Wonder: How Scientists Think, W"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究",
+      "url": "https://36kr.com/p/3774632804057607?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>近期，万亿市值“药王”礼来斥资24亿美元（超160亿人民币）完成的一笔收购，将医药行业的目光重新吸引回细胞与基因治疗（CGT）领域。</p>\n  <p>被收购企业Orna Therapeutics主要从事环状RNA研究，核心药物是一款靶向CD19的体内CAR-T，即将步入临床试验阶段。相较动辄百万元一针的传统CAR-T，体内CAR-T是一种有潜力实现“物美价廉”的细胞疗法。有从业者认为，如果体内CAR-T未来能成药，且实现大规模生产，价格可以做到和普通抗体产品类似，有望解决困扰传统CAR-T已久的商业化难题。</p>\n  <p"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调",
+      "url": "https://36kr.com/p/3777227930224900?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>航旅纵横致歉：部分功能出现使用异常，正全力抢修</li>\n   <li>星巴克中国回应开放加盟传闻：不实信息</li>\n   <li>微信：韩国、斯里兰卡、泰国、马来西亚、新加坡的国家码接入微信支付</li>\n   <li>截至3月底，全国5G基站总数已达495.8万个</li>\n   <li>猪价开启“回暖”模式，5家公司去年净利润超1亿元</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>MCN机构回应女孩挪用上千万打赏主播：相关问题可对接平台处理</strong></p>\n  <p>4月"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
+      "url": "https://36kr.com/p/3776741071571200?f=rss",
+      "published_at": null,
+      "summary": "<p>智界，这个华为与奇瑞联合打造的汽车品牌，将翻身的希望押注在了智界V9。</p>\n  <p>36氪获悉，智界V9给供应商下达了年均约12万辆的生产量纲，这一销量指引接近去年MPV市场“常青树”别克GL8全年的销量。</p>\n  <p>据36氪了解，目前宁德时代与中创新航两家电池供应商，共计为智界V9准备了过万套月产能，也有供应商按1.5万辆/月的峰值产能去备件。从供应链的备件情况来看，供应商初步认可了智界V9的销量指引。</p>\n  <p>另有接近智界的行业人士告诉36氪，智界正规划一款轿跑车型，计划达到一个较为极限的性能目标。这款车或将被送往纽北赛道，挑战一众国外豪华超跑车型。显然，智界"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+      "url": "https://36kr.com/p/3776458805904129?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>猛士汽车携手华为乾崑发布智能越野黑科技</strong></p>\n  <p>36氪获悉，4月20日，猛士汽车举办春季焕新发布会。发布会上，猛士汽车携手华为乾崑联合发布智能越野黑科技，同时完成全方位焕新。未来两年，猛士汽车将会把智能越野的新技术逐步落地到4款以上的全新车型上。</p>\n  <p><strong>长安汽车朱华荣：2030年力争实现营收6000亿元</strong></p>\n  <p>36氪获悉，在中国长安汽车战略发布会上，中国长安汽车党委书记、董事长朱华荣表示，公司将按照“十年两步走”，到2030年，力争实现营业收入6000亿元"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+      "url": "https://36kr.com/p/3769659305427459?f=rss",
+      "published_at": null,
+      "summary": "<p>36氪获悉，宠物AI科技初创公司PettiChat于近期完成100万美元的种子轮融资。由浙大校友基金藕舫天使与华旦天使联合投资，本轮融资将主要用于动物行为世界模型的研发、高质量数据集的构建以及首款硬件产品的市场推广。</p>\n  <p>在通用人工智能（AGI）横扫人类语言世界的今天，一个被忽视的语言场景被一家初创企业投入了密切关注——那就是人类与动物之间的沟通。</p>\n  <p>长期以来，人类与宠物的互动多停留在感性猜测层面。虽然宠物市场规模巨大——据统计，2025年全球宠物市场规模预计将达到2700亿美元，且复合增长率达6.45%——但在“理解宠物真实需求”这一核心痛点上，市场仍缺乏"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "地产中介“二当家”去年亏损9663万，租赁业务成了压舱石",
+      "url": "https://36kr.com/p/3776220864103171?f=rss",
+      "published_at": null,
+      "summary": "<p>4月20日晚间，地产经纪公司我爱我家发布2025年年度报告。年报数据显示，我爱我家去年实现营业总收入104.8亿元，同比下滑16.4%；实现住房总交易金额（GTV）约2520亿元，同比下滑12.4%。</p>\n  <p>在利润方面，报告期内，我爱我家归属母公司所有者净利润为-9663.1万元，同比大幅减少231.63%。继2022年、2023年连续亏损，2024年扭亏为盈之后，我爱我家在去年再度由盈转亏。</p>\n  <p>我爱我家是地产中介领域规模第二大的企业，仅次于贝壳。从业绩表现来看，我爱我家业绩下滑的核心原因在于房地产经纪业务受市场环境拖累显著。</p>\n  <p class=\""
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
+      "url": "https://36kr.com/p/3774891479712514?f=rss",
+      "published_at": null,
+      "summary": "<p>专注于AI+母婴智能生态的奇世智能CheeChips正式宣布完成天使轮融资。</p>\n  <p>本轮资金近半数将被投入技术研发，用于AI模型迭代、新产品原型打磨与专利布局；30%用于引进顶尖人才、扩充研发与运营团队；剩余25%投入市场调研、品牌建设与用户需求挖掘。</p>\n  <p>奇世智能推出了家用AI模拟全彩胎儿记录仪，这款硬件能够记录全孕期胎儿成长，改变准妈妈们的孕期体验，让孕期不再是母亲一个人的感受，而成为一个能与家人分享的，有意义的、连续的内容。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/h"
     },
     {
       "source": "36氪",
@@ -178,62 +338,6 @@
       "url": "https://36kr.com/p/3774707915440897?f=rss",
       "published_at": null,
       "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，劳尼克斯科技（南京）有限公司（以下简称“劳尼克斯”）近日完成数千万元融资，投资方为苏州天空工场、宜宾高新前沿科技产业基金、翼朴资本。资金将重点投向核心产品研发迭代、人才团队扩容升级，同时全力支撑海外市场的布局拓展与本地化落地。</p>\n  <p>劳尼克斯核心团队成员来自智能硬件、消费机器人与园林工具等相关领域的头部企业。其产品矩阵涵盖割草机、打草机、修枝机、链锯等多种动力工具，并配套电池包、充电器等电动配件方案，采取20V、40V、60V全电压平台策略，覆盖从中小庭院到高端大宅的全场景需求。</p>\n  <p>自今年"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
-      "url": "https://36kr.com/p/3775892441301511?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在海外风行几年，估值破15亿美元后，AI睡眠系统独角兽Eight Sleep终于决定进入中国。</p>\n  <p>4月，他们在深圳南山INNO100全球创新旗舰店正式发布了售价19999元起的Pod 5智能深眠系统，通过微信小程序、京东、天猫等渠道销售。前所未有地，Eight Sleep为中国普通版用户免除了199美元的软件订阅费——起码在这一点上，Eight Sleep还是很懂得中国市场。</p>\n  <p>Eight Sleep不是头一天和中国市场打交道。</p>\n  <p>2015年，Eight Sleep还在开发第一款"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨库克将不再担任苹果CEO；爱奇艺回应AI艺人库争议：入驻仅代表有接洽意愿；日本修正震级为7.7级",
-      "url": "https://36kr.com/p/3775833331286530?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>美关税退款系统上线</li>\n   <li>字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%</li>\n   <li>“五一”临近航班遭取消？航空公司：优先签转，保障旅客顺利成行</li>\n   <li>贵州茅台盘中股价反超源杰科技，重新成为A股“一哥”</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>苹果公司宣布特纳斯将接替库克担任CEO</strong></p>\n  <p>当地时间4月20日，美国苹果公司宣布任命内部高管、长期负责硬件业务的约翰·特纳斯为该公司下一任首席"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
-      "url": "https://36kr.com/p/3775059219792648?f=rss",
-      "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>天齐锂业：一季度净利润同比预增1530.31%—1818.01%</strong></p>\n  <p>36氪获悉，天齐锂业披露业绩预告，预计2026年一季度归属于上市公司股东的净利润为17亿元—20亿元，同比增长1530.31%—1818.01%。</p>\n  <p><strong>盛屯矿业：一季度净利润10.2亿元，同比增长250.4%</strong></p>\n  <p>36氪获悉，盛屯矿业披露一季报，公司2026年一季度实现营业收入93.54亿元，同比增长65.08%；归属于上市公司股东的净利润10.2亿元，同比增长250.40%。<"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "空悬企业时驾科技获头部车企MPV车型独家定点 | 早期项目",
-      "url": "https://36kr.com/p/3775008761004549?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪获悉，国产空气悬架供应商时科技，已拿下某头部车企MPV车型的独家定点，项目将在今年四季度SOP（交付）。36氪了解到，这款车定位中大型MPV市场，是中国MPV界的标杆车型。</p>\n  <p>时驾科技创始人乌伟民告诉36氪：“企业花了很大精力打入这款车的供应链，因为MPV最突出的卖点之一就是舒适性，这款车尤甚。空悬对用户体验的主要影响正体现在舒适性上，因而拿下这款车的独家定点，意味着时驾科技在空悬的舒适性这一维度上，已走在行业前列。”</p>\n  <p><strong>八合一集成闭式空气供给模块+千段调节自适应天/地棚算法，构建软硬一体的竞争力</strong></p>\n  <p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "营销情怀、剧情不通，为什么《安魂曲》依旧好评如潮？| 36氪游戏",
-      "url": "https://36kr.com/p/3774966004892416?f=rss",
-      "published_at": null,
-      "summary": "<p>文丨贝果树</p>\n  <p>编辑丨果脯</p>\n  <p>发售初期，《生化危机9：安魂曲》曾以9.5的用户评分登顶Metacritic“用户评分游戏”的榜单。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260420/v2_c2cc72d9b9e44a05ba2235783acf6175@6255070_oswg122467oswg1080oswg1369_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "申根签证申请同比增长20%，VFS Global观察中国市场回暖｜最前线",
-      "url": "https://36kr.com/p/3774760404894216?f=rss",
-      "published_at": null,
-      "summary": "<p>随着全球出境游持续修复，签证申请这一长期被视为“前置流程”的环节，正在被重新放回旅行产业链的核心位置。</p>\n  <p>近期，全球最大的政府和外交使团签证及护照外包服务商VFS Global（威孚仕）在中国市场释放出多个关键信号：<strong>一方面，2026年出行旺季已明显提前，申请需求快速回升；另一方面，中国申请人对签证服务的期待，正从单一的效率导向转向“效率+体验”的复合型需求。</strong>这一变化，不仅放大了签证体系在旺季的承压程度，也在重塑行业竞争的底层逻辑。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.3"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "灵光把手搓应用做成「朋友圈」，一人应用时代来了",
-      "url": "https://36kr.com/p/3774865386144519?f=rss",
-      "published_at": null,
-      "summary": "<p>最近，你的朋友圈被SBTI测试刷屏了吗？</p>\n  <p>某天深夜，微信突然被一串串神秘代码占据。“装死者”、“送钱者”、“伪人”、“吗喽”，大家纷纷晒起自己开出的奇葩人格，朋友圈更是被晒“SEXY尤物”的截图刷了屏。</p>\n  <p>而真相是，这个突然爆火的小测试不是什么大厂有预谋的营销，只是一位03年女孩用四五天时间手搓出来的小应用——创作者@Q肉儿串儿（B站ID）学的是金融，和编程完全不沾边，<strong>她搓这个小应用的初衷,只是为了通过一套整活的人格测试，劝她那嗜酒如命的朋友戒酒。</strong></p>\n  <p class=\"image-wrapper\"><img"
     }
   ]
 }

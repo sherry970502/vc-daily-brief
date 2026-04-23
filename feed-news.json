@@ -1,343 +1,327 @@
 {
-  "updated_at": "2026-04-22T04:12:31.119579+00:00",
+  "updated_at": "2026-04-23T04:17:11.410484+00:00",
   "period_hours": 24,
-  "article_count": 42,
+  "article_count": 40,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
-      "url": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
-      "published_at": "2026-04-22T00:37:33+00:00",
-      "summary": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch."
+      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "published_at": "2026-04-22T23:56:52+00:00",
+      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "published_at": "2026-04-21T23:45:21+00:00",
-      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
+      "title": "Google updates Workspace to make AI your new office intern",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "published_at": "2026-04-22T22:44:26+00:00",
+      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-      "published_at": "2026-04-21T23:26:45+00:00",
-      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
+      "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
+      "url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+      "published_at": "2026-04-22T22:39:58+00:00",
+      "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-      "published_at": "2026-04-21T22:58:22+00:00",
-      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market."
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "published_at": "2026-04-22T22:25:53+00:00",
+      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
-      "url": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
-      "published_at": "2026-04-21T21:09:09+00:00",
-      "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse."
+      "title": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
+      "url": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
+      "published_at": "2026-04-22T21:37:34+00:00",
+      "summary": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-      "published_at": "2026-04-21T20:23:24+00:00",
-      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
+      "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
+      "url": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
+      "published_at": "2026-04-22T20:57:21+00:00",
+      "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "published_at": "2026-04-21T19:11:29+00:00",
-      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain."
+      "title": "NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale",
+      "url": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
+      "published_at": "2026-04-22T20:09:45+00:00",
+      "summary": "Observable Space and Quantum Opus teamed up to capture data beamed back from space."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
-      "url": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
-      "published_at": "2026-04-21T19:09:12+00:00",
-      "summary": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations."
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "published_at": "2026-04-22T19:51:51+00:00",
+      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Schematic Raises $6.5M To Help Companies Update Their Pricing Faster And Easier In The AI Era",
-      "url": "https://news.crunchbase.com/venture/update-pricing-faster-easier-saas-ai-schematic/",
-      "published_at": "2026-04-21T14:00:24+00:00",
-      "summary": "Schematic, a startup that aims to simplify pricing and packaging for software and AI companies, has raised $6.5 million in seed funding, it tells Crunchbase News exclusively."
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-04-22T16:55:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Counterintuitive Truth About Product Pricing",
-      "url": "https://news.crunchbase.com/fintech/counterintuitive-pricing-truth-sagie/",
-      "published_at": "2026-04-21T11:00:45+00:00",
-      "summary": "Low prices can actually reduce demand, writes frequent guest author Itay Sagie, who shares how higher pricing is often a signal of quality, attracting more committed customers to position a company in a more competitive, higher-value market."
+      "title": "A Better Way To Fail: How This Platform Aims To Turn Startup Shutdowns Into Something Salvageable",
+      "url": "https://news.crunchbase.com/startups/salvaging-shutdowns-simpleclosure-dori-yona-qa/",
+      "published_at": "2026-04-22T11:00:43+00:00",
+      "summary": "Los Angeles-based SimpleClosure has launched Asset Hub, a marketplace aimed at helping founders sell assets such as source code, data and equipment during the wind-down process. Crunchbase News spoke with founder Dori Yona about the new offering as closures rise and investors place greater value on"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The New Unicorn Count Reached A 4-Year High In March, Led By Robotics, Frontier Labs And AI Infrastructure",
-      "url": "https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/",
-      "published_at": "2026-04-21T11:00:24+00:00",
-      "summary": "A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups."
+      "title": "What The Record Venture Funding Quarter Actually Means For Your Startup’s Fundraise",
+      "url": "https://news.crunchbase.com/venture/building-successful-startup-vertical-ai-schroder-mgv/",
+      "published_at": "2026-04-22T11:00:28+00:00",
+      "summary": "For startup founders, the opportunity today is to solve real problems by building vertical, AI-driven solutions in specific industries. MGV's Marc Schröder shares tips on successfully building a startup with an eye toward acquisition."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet Blackstone’s ‘accidental influencer’ who made LinkedIn jogs Wall Street’s must‑watch content",
-      "url": "https://fortune.com/2026/04/21/blackstone-linkedin-influencer-jon-gray-running-video/",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "summary": "Blackstone COO Jon Gray is jogging his way to internet virality, and other C-suite executives are taking note."
+      "title": "The 10 best cities for college grads: Omaha ranks higher than New York and L.A. because Gen Z ‘actually have a shot at purchasing a house’ for under $300K",
+      "url": "https://fortune.com/2026/04/22/top-10-us-american-cities-gen-z-graduates-isnt-nyc-or-la-its-omaha-and-dallas-homeownership-salary-advice/",
+      "published_at": "2026-04-22T15:13:29+00:00",
+      "summary": "“With a lot of homes selling for under $300,000, young grads actually have a shot at purchasing a house,” one Omaha real estate agent said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How the Iran energy crisis is supercharging Southeast Asia’s EV transition",
-      "url": "https://fortune.com/2026/04/21/how-the-iran-energy-crisis-supercharged-southeast-asias-ev-transition/",
-      "published_at": "2026-04-21T21:00:00+00:00",
-      "summary": "Chinese EV giant BYD received the most orders of any automaker at the Bangkok Auto Show in early April, beating Toyota for the first time."
+      "title": "Cursor’s 25-year-old CEO is a former Google intern who just inked a $60 billion deal with SpaceX",
+      "url": "https://fortune.com/2026/04/22/who-is-cursor-25-year-old-ceo-michael-truell-tech-startups-csuite-elon-musk-spacex/",
+      "published_at": "2026-04-22T19:36:07+00:00",
+      "summary": "From Google intern at 18 to a billionaire at 25, Cursor CEO Michael Truell’s rise is one of Silicon Valley’s fastest."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Feud between AI power startup Fermi and its fired CEO and top shareholder heats up over proposed sale",
-      "url": "https://fortune.com/2026/04/21/feud-between-ai-power-startup-fermi-and-its-fired-ceo-and-top-shareholder-heats-up/",
-      "published_at": "2026-04-22T01:50:58+00:00",
-      "summary": "The former CEO wants to sell the company to make money for shareholders rather than see Fermi's plans to fruition."
+      "title": "The AI boom is single-handedly carrying the U.S. import market—and adding $200 billion to the trade deficit, Fed study finds",
+      "url": "https://fortune.com/2026/04/22/ai-related-imports-add-200-billion-to-us-trade-deficit/",
+      "published_at": "2026-04-22T17:16:17+00:00",
+      "summary": "Trump’s tariffs were supposed to narrow the country’s trade gap. The AI race won’t let that happen."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Something sinister could be happening’: FBI looks into dead or missing nuclear and space defense scientists tied to NASA, Blue Origin, and SpaceX",
-      "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
-      "published_at": "2026-04-21T18:51:06+00:00",
-      "summary": "Eleven scientists related to nuclear and space defense programs are missing or dead since 2022. Nearly four years later, Congress is finally looking into it."
+      "title": "Billionaire Michael Dell started his company in his University of Texas dorm room. Now, he’s betting on AI with a $750 million gift",
+      "url": "https://fortune.com/2026/04/22/michael-dell-ut-austin-750-million-donation-billionaire-philanthropy/",
+      "published_at": "2026-04-22T16:39:12+00:00",
+      "summary": "This gift pushes the Dells’ UT Austin donations to over $1 billion."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The tables have turned: Florida and Texas are the biggest losers in the housing market as Ohio emerges a surprise winner",
-      "url": "https://fortune.com/2026/04/21/housing-market-winners-vs-losers-florida-texas-ohio/",
-      "published_at": "2026-04-21T17:53:26+00:00",
-      "summary": "Cleveland is becoming one of the more desirable markets for homebuyers."
+      "title": "The internet isn’t just like real life, a top VC says—it is real life. For a16z, that’s not a philosophy, it’s an investment",
+      "url": "https://fortune.com/2026/04/22/internet-is-real-life-erik-torenberg-a16z-tabarrok-imas-luddites-ai/",
+      "published_at": "2026-04-22T16:13:53+00:00",
+      "summary": "A16z’s Erik Torenberg makes a sweeping argument, but he also challenges us to reconsider our definition of “real life.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump extends Iran ceasefire after insisting he wouldn’t hours earlier, citing a ‘seriously fractured’ Iran",
-      "url": "https://fortune.com/2026/04/21/trump-extends-ceasefire-iran-war-markets-closing-bell-stocks/",
-      "published_at": "2026-04-21T21:08:47+00:00",
-      "summary": "The president promised a “great deal” before the opening bell and extended the ceasefire after the closing one."
+      "title": "The AI economy runs on helium. The Iran war just created a $650 billion problem",
+      "url": "https://fortune.com/2026/04/22/helium-forecast-outlook-iran-war-moodys/",
+      "published_at": "2026-04-22T15:59:18+00:00",
+      "summary": "“Helium doesn’t get much attention in the AI supply chain, but it should,” says Moody’s David Pan. “There is no viable substitute at scale.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Chip Roy introduces the Mamdani Act to punish immigrants for ideology—including socialism and Marxism",
-      "url": "https://fortune.com/2026/04/21/mamdani-act-zohran-chip-roy-communism-marxism-socialism/",
-      "published_at": "2026-04-21T20:28:17+00:00",
-      "summary": "The act expands on existing immigration law that bans the entry of any immigrant affiliated with the Communist Party. Roy’s act expands it to Marxism, socialism, and Islamists."
+      "title": "Nvidia CEO Jensen Huang says you won’t lose your job to AI—you’ll lose it to your coworker who uses it",
+      "url": "https://fortune.com/2026/04/22/jensen-huang-nvidia-ai-replace-workers-not-jobs/",
+      "published_at": "2026-04-22T15:32:35+00:00",
+      "summary": "While other tech leaders warn of mass layoffs, Nvidia’s CEO says the real threat is the person sitting next to you."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Halliburton CEO: U.S. oil is in the ‘early innings’ of a rebound—and a drilling ramp-up is coming",
-      "url": "https://fortune.com/2026/04/21/halliburton-us-oil-rebound-enters-early-innings-iran-war/",
-      "published_at": "2026-04-21T20:06:56+00:00",
-      "summary": "The smaller U.S. producers are the first movers bringing new oil wells online."
+      "title": "Southwest Air drops as US airlines contend with soaring fuel",
+      "url": "https://fortune.com/2026/04/22/southwest-airlines-earnings-high-fuel-costs/",
+      "published_at": "2026-04-22T21:48:44+00:00",
+      "summary": "Shares in the Dallas-based airline extended losses in aftermarket trading after Southwest declined to update its full-year profit guidance of at least $4 a share."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Google’s new Deep Research and Deep Research Max agents can search the web and your private data",
-      "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
-      "published_at": "2026-04-21T20:43:18+00:00",
-      "summary": "<p><a href=\"https://www.google.com/\">Google</a> on Monday unveiled the most significant upgrade to its autonomous research agent capabilities since the product&#x27;s debut, launching two new agents — <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-ge"
+      "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
+      "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
+      "published_at": "2026-04-22T23:53:00+00:00",
+      "summary": "<p>OpenAI introduced a new paradigm and product today that is likely to have huge implications for enterprises seeking to adopt and control fleets of AI agent workers.</p><p>Called &quot;<a href=\"https://openai.com/index/introducing-workspace-agents-in-chatgpt/\">Workspace Agents</a>,&quot; OpenAI&#x"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Vercel breach exposes the OAuth gap most security teams cannot detect, scope or contain",
-      "url": "https://venturebeat.com/security/vercel-breach-exposes-the-oauth-gap-most-security-teams-cannot-detect-scope-or-contain",
-      "published_at": "2026-04-21T20:07:26+00:00",
-      "summary": "<p>One employee at Vercel adopted an AI tool. One employee at that AI vendor got hit with an infostealer. That combination created a walk-in path to Vercel’s production environments through an OAuth grant that nobody had reviewed.</p><p>Vercel, the cloud platform behind Next.js and its millions of w"
+      "title": "Google and AWS split the AI agent stack between control and execution",
+      "url": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution",
+      "published_at": "2026-04-22T21:37:00+00:00",
+      "summary": "<p>The era of enterprises stitching together prompt chains and shadow agents is nearing its end as more options for orchestrating complex multi-agent systems emerge. As organizations move AI agents into production, the question remains: &quot;how will we manage them?&quot;</p><p>Google and Amazon We"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "The AI governance mirage: Why 72% of enterprises don’t have the control and security they think they do",
-      "url": "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do",
-      "published_at": "2026-04-21T19:04:56+00:00",
-      "summary": "<p>Decision makers at <b>72% of organizations</b> claim to have two or more AI platforms that they identify as their &quot;primary&quot; layer, according to a survey of 40 enterprise companies conducted by VentureBeat last month, revealing real gaps in security and control. </p><p>For enterprise man"
+      "title": "Are you paying an AI ‘swarm tax’? Why single agents often beat complex systems",
+      "url": "https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems",
+      "published_at": "2026-04-22T21:24:49+00:00",
+      "summary": "<p>Enterprise teams building multi-agent AI systems may be paying a compute premium for gains that don&#x27;t hold up under equal-budget conditions. New Stanford University research finds that single-agent systems match or outperform multi-agent architectures on complex reasoning tasks when both are"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
-      "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly",
-      "published_at": "2026-04-21T19:00:00+00:00",
-      "summary": "<p>It&#x27;s been only a few months since OpenAI released its last big improvement to AI image generations in ChatGPT and through its application programming interface (API) — namely, a new image generation model known as <a href=\"https://venturebeat.com/technology/openais-gpt-image-1-5-challenges-g"
+      "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
+      "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets",
+      "published_at": "2026-04-22T18:01:00+00:00",
+      "summary": "<p>In a significant shift toward local-first privacy infrastructure, OpenAI has released <b>Privacy Filter</b>, a specialized open-source model designed to detect and redact personally identifiable information (PII) before it ever reaches a cloud-based server. </p><p>Launched today on AI code sharin"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration",
-      "url": "https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration",
-      "published_at": "2026-04-21T16:55:30+00:00",
-      "summary": "<p>Most orchestration frameworks were built for agents that run for seconds or minutes. Now that agents are <a href=\"https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents\">running for hour</a>s — and in some cases days — those frameworks are starting to c"
+      "title": "Google doesn't pay the Nvidia tax. Its new TPUs explain why.",
+      "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why",
+      "published_at": "2026-04-22T17:04:17+00:00",
+      "summary": "<p>Every frontier AI lab right now is rationing two things: electricity and compute. Most of them buy their compute for model training from the same supplier, at the steep gross margins that have turned Nvidia into one of the most valuable companies in the world. Google does not.</p><p>On Tuesday ni"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "What AI model should you use for revenue intelligence? Von says all the big ones, and it will automate mixing and matching for you",
-      "url": "https://venturebeat.com/orchestration/what-ai-model-should-you-use-for-revenue-intelligence-von-says-all-the-big-ones-and-it-will-automate-mixing-and-matching-for-you",
-      "published_at": "2026-04-21T14:55:00+00:00",
-      "summary": "<p>Looking at enterprise AI adoption, VentureBeat has anecdotally observed a fairly wide divergence when it comes to specific roles: For those who build—engineers and developers—the arrival of AI has been transformative, moving through the workflow with the speed of tools like Claude Code and Cursor"
+      "title": "Salesforce’s Agentforce Vibes 2.0 targets a hidden failure: context overload in AI agents",
+      "url": "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents",
+      "published_at": "2026-04-22T15:54:00+00:00",
+      "summary": "<p>When startup fundraising platform VentureCrowd began deploying AI coding agents, they saw the same gains as other enterprises: they cut the front-end development cycle by 90% in some projects.</p><p>However, it didn’t come easy or without a lot of trial and error. </p><p>VentureCrowd’s first chal"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
-      "url": "https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026",
-      "published_at": "2026-04-21T14:51:17+00:00",
-      "summary": "<p>A security researcher, working with colleagues at <a href=\"https://www.jhu.edu/\">Johns Hopkins University</a>, opened a GitHub pull request, typed a malicious instruction into the PR title, and watched Anthropic’s Claude Code Security Review action <a href=\"https://oddguan.com/blog/comment-and-co"
+      "title": "Google’s Gemini can now run on a single air-gapped server — and vanish when you pull the plug",
+      "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "summary": "<p><a href=\"https://www.cirrascale.com/\">Cirrascale Cloud Services</a> today announced it has expanded its partnership with <a href=\"https://cloud.google.com/?hl=en\">Google Cloud </a>to deliver the <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\">Gemi"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
-      "published_at": "2026-04-21T22:09:25+00:00",
-      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful mo"
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "published_at": "2026-04-22T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The new word in home construction could be “plastics”",
-      "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
-      "published_at": "2026-04-21T21:00:00+00:00",
-      "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engi"
+      "title": "AI needs a strong data fabric to deliver business value",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "published_at": "2026-04-22T10:05:06+00:00",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "A natural protein may protect the GI tract from infection",
-      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
-      "published_at": "2026-04-21T21:00:00+00:00",
-      "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bac"
+      "title": "3 things Michelle Kim is into right now",
+      "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegy"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "This tool could show how consciousness works",
-      "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
-      "published_at": "2026-04-21T21:00:00+00:00",
-      "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an"
+      "title": "One town’s scheme to get rid of its geese",
+      "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Early life may have breathed oxygen earlier than believed",
-      "url": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
-      "published_at": "2026-04-21T21:00:00+00:00",
-      "summary": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years bef"
+      "title": "There is no nature anymore",
+      "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scien"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Analog computing from waste heat",
-      "url": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
-      "published_at": "2026-04-21T21:00:00+00:00",
-      "summary": "Heat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT’s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn’t rely on electricity. In this analog computing method, input data is encoded n"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Get ready for hotter, muggier, stormier summers",
-      "url": "https://www.technologyreview.com/2026/04/21/1134873/get-ready-for-hotter-muggier-stormier-summers/",
-      "published_at": "2026-04-21T21:00:00+00:00",
-      "summary": "A long stretch of humid heat followed by a powerful thunderstorm is a familiar weather pattern in the tropics, but it’s also becoming more common in midlatitude regions such as the US Midwest. A recent study by two MIT scientists identifies a key atmospheric condition that determines how hot, humid,"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Recent books from the MIT community",
-      "url": "https://www.technologyreview.com/2026/04/21/1134879/recent-books-from-the-mit-community-28/",
-      "published_at": "2026-04-21T21:00:00+00:00",
-      "summary": "Priority Technologies: Ensuring US Security and Shared ProsperityEdited by Elisabeth B. Reynolds, professor of the practice of urban studies and planning and former executive director of the MIT Task Force on the Work of the Future MIT PRESS, 2026, $24.95 The Shape of Wonder: How Scientists Think, W"
+      "title": "Los Angeles is finally going underground",
+      "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolley"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究",
-      "url": "https://36kr.com/p/3774632804057607?f=rss",
+      "title": "36氪官方AI专属社群，正式开放招募！",
+      "url": "https://36kr.com/p/3777870287737860?f=rss",
       "published_at": null,
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>近期，万亿市值“药王”礼来斥资24亿美元（超160亿人民币）完成的一笔收购，将医药行业的目光重新吸引回细胞与基因治疗（CGT）领域。</p>\n  <p>被收购企业Orna Therapeutics主要从事环状RNA研究，核心药物是一款靶向CD19的体内CAR-T，即将步入临床试验阶段。相较动辄百万元一针的传统CAR-T，体内CAR-T是一种有潜力实现“物美价廉”的细胞疗法。有从业者认为，如果体内CAR-T未来能成药，且实现大规模生产，价格可以做到和普通抗体产品类似，有望解决困扰传统CAR-T已久的商业化难题。</p>\n  <p"
+      "summary": "<h2><strong>36氪AI测评官方社群现已正式开放， 从入门认知到实战应用，从工具使用到项目落地。</strong></h2>\n  <p><strong>36氪AI测评正式开放三大垂直社群：AI启航群、AI实战群、OPC超级个体群。面向不同阶段、不同目标的用户，帮助你更高效地理解AI、使用AI，并推动真实成长与结果落地。</strong></p>\n  <p class=\"wx-app-wrapper\">\n   \n    &nbsp;\n   </p>\n  <h3><strong>为什么要做三大专属社群？</strong></h3>\n  <p>AI&nbsp;已经从“了解一下”走向“真正使"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调",
-      "url": "https://36kr.com/p/3777227930224900?f=rss",
+      "title": "36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
+      "url": "https://36kr.com/p/3778732502095106?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>航旅纵横致歉：部分功能出现使用异常，正全力抢修</li>\n   <li>星巴克中国回应开放加盟传闻：不实信息</li>\n   <li>微信：韩国、斯里兰卡、泰国、马来西亚、新加坡的国家码接入微信支付</li>\n   <li>截至3月底，全国5G基站总数已达495.8万个</li>\n   <li>猪价开启“回暖”模式，5家公司去年净利润超1亿元</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>MCN机构回应女孩挪用上千万打赏主播：相关问题可对接平台处理</strong></p>\n  <p>4月"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，苏州极湃电磁科技有限公司（以下简称“极湃电磁”）近日完成新一轮数千万元融资。本轮融资由英诺天使基金、苏创投天使基金及苏高新融晟共同投资，资金将主要用于产线设备投入及研发升级。</p>\n  <p>极湃电磁成立于2023年5月，总部位于苏州，是一家面向工业自动化、汽车智能化及具身智能机器人领域的电磁执行器解决方案提供商，核心产品涵盖电磁阀、制动器及离合器等。</p>\n  <p><strong>公司核心团队成建制来自于全球电磁行业龙头，包括原中国区事业部管理团队、研发、产品"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
-      "url": "https://36kr.com/p/3776741071571200?f=rss",
+      "title": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
+      "url": "https://36kr.com/p/3778730451391751?f=rss",
       "published_at": null,
-      "summary": "<p>智界，这个华为与奇瑞联合打造的汽车品牌，将翻身的希望押注在了智界V9。</p>\n  <p>36氪获悉，智界V9给供应商下达了年均约12万辆的生产量纲，这一销量指引接近去年MPV市场“常青树”别克GL8全年的销量。</p>\n  <p>据36氪了解，目前宁德时代与中创新航两家电池供应商，共计为智界V9准备了过万套月产能，也有供应商按1.5万辆/月的峰值产能去备件。从供应链的备件情况来看，供应商初步认可了智界V9的销量指引。</p>\n  <p>另有接近智界的行业人士告诉36氪，智界正规划一款轿跑车型，计划达到一个较为极限的性能目标。这款车或将被送往纽北赛道，挑战一众国外豪华超跑车型。显然，智界"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，深圳市星际光年科技有限公司（以下简称“星际光年”）近日完成新一轮融资，本轮由顺创产投领投，老股东云时资本持续加注，微星宁元跟投。</p>\n  <p>至此，公司在过去三个月内连续完成两轮融资，累计融资规模近亿元。本轮融资将主要用于通用灵巧操作平台在真实工业场景落地、产品持续完善、规模化产线升级及全球团队生态建设。</p>\n  <p>星际光年专注于灵巧手及通用操作平台的研发与商业化，核心团队来自清华大学、哈尔滨工业大学、香港大学、香港科技大学、美国西北大学等海内外顶尖高校"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
-      "url": "https://36kr.com/p/3776458805904129?f=rss",
+      "title": "开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目",
+      "url": "https://36kr.com/p/3778135439709446?f=rss",
       "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>猛士汽车携手华为乾崑发布智能越野黑科技</strong></p>\n  <p>36氪获悉，4月20日，猛士汽车举办春季焕新发布会。发布会上，猛士汽车携手华为乾崑联合发布智能越野黑科技，同时完成全方位焕新。未来两年，猛士汽车将会把智能越野的新技术逐步落地到4款以上的全新车型上。</p>\n  <p><strong>长安汽车朱华荣：2030年力争实现营收6000亿元</strong></p>\n  <p>36氪获悉，在中国长安汽车战略发布会上，中国长安汽车党委书记、董事长朱华荣表示，公司将按照“十年两步走”，到2030年，力争实现营业收入6000亿元"
+      "summary": "<p>文｜周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <h3><strong>一句话介绍</strong></h3>\n  <p><a href=\"https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247515548&amp;idx=1&amp;sn=33416a6eb79e301c53c3766f6d038edc&amp;scene=21#wechat_redirect\" rel=\"noopener noreferrer\" target=\"_blank\">成立于2025年6月的“涌跃智能”，是《智能涌现》曾报道过的AI创"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
-      "url": "https://36kr.com/p/3769659305427459?f=rss",
+      "title": "一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？",
+      "url": "https://36kr.com/p/3778121523025154?f=rss",
       "published_at": null,
-      "summary": "<p>36氪获悉，宠物AI科技初创公司PettiChat于近期完成100万美元的种子轮融资。由浙大校友基金藕舫天使与华旦天使联合投资，本轮融资将主要用于动物行为世界模型的研发、高质量数据集的构建以及首款硬件产品的市场推广。</p>\n  <p>在通用人工智能（AGI）横扫人类语言世界的今天，一个被忽视的语言场景被一家初创企业投入了密切关注——那就是人类与动物之间的沟通。</p>\n  <p>长期以来，人类与宠物的互动多停留在感性猜测层面。虽然宠物市场规模巨大——据统计，2025年全球宠物市场规模预计将达到2700亿美元，且复合增长率达6.45%——但在“理解宠物真实需求”这一核心痛点上，市场仍缺乏"
+      "summary": "<p>访谈｜邓咏仪 周鑫雨</p>\n  <p>文｜周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <p>乍一使用，你很难给Ribbi一个准确的定义。</p>\n  <p>若说这是一个多模态内容创作工具，Ribbi能做得不止于此。比起一个“死”的工具，Ribbi更像一个可以自动管理创作全链路的“人”。</p>\n  <p>它能将用户的创作流程，自动沉淀为Skill；也能监测社交媒体的数据表现，总结复盘，并<strong>自动对后续的创作进行优化。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hs"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "地产中介“二当家”去年亏损9663万，租赁业务成了压舱石",
-      "url": "https://36kr.com/p/3776220864103171?f=rss",
+      "title": "8点1氪丨张雪机车发布召回通告；哪吒汽车创始人已被列为“老赖”；英国新法案规定08后终身不得购烟",
+      "url": "https://36kr.com/p/3778660962505989?f=rss",
       "published_at": null,
-      "summary": "<p>4月20日晚间，地产经纪公司我爱我家发布2025年年度报告。年报数据显示，我爱我家去年实现营业总收入104.8亿元，同比下滑16.4%；实现住房总交易金额（GTV）约2520亿元，同比下滑12.4%。</p>\n  <p>在利润方面，报告期内，我爱我家归属母公司所有者净利润为-9663.1万元，同比大幅减少231.63%。继2022年、2023年连续亏损，2024年扭亏为盈之后，我爱我家在去年再度由盈转亏。</p>\n  <p>我爱我家是地产中介领域规模第二大的企业，仅次于贝壳。从业绩表现来看，我爱我家业绩下滑的核心原因在于房地产经纪业务受市场环境拖累显著。</p>\n  <p class=\""
+      "summary": "<h2>今日热点导览</h2>\n  <p>新能源车主反映，多地公共充电桩价格上涨</p>\n  <p>因中东局势持续影响供应链， <strong>全球最大避孕套生产商计划涨价</strong></p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>张雪机车发布召回通告：一台银川的820RR发生了曲轴箱破裂</strong></p>\n  <p>36氪获悉，张雪机车发布820RR召回通告。通告称，4月16日，一台银川的820RR发生了曲轴箱破裂。4月21日，受损车辆返回工厂，经拆解检查，找到了造成曲轴箱破裂的原因：泄压阀的O型密封圈装配错误，车辆使用一段时间后，泄压阀松动导致机油压"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
-      "url": "https://36kr.com/p/3774891479712514?f=rss",
+      "title": "最前线｜华为猛士深化战略合作，新技术将逐步落地4款以上全新车型",
+      "url": "https://36kr.com/p/3777981126644745?f=rss",
       "published_at": null,
-      "summary": "<p>专注于AI+母婴智能生态的奇世智能CheeChips正式宣布完成天使轮融资。</p>\n  <p>本轮资金近半数将被投入技术研发，用于AI模型迭代、新产品原型打磨与专利布局；30%用于引进顶尖人才、扩充研发与运营团队；剩余25%投入市场调研、品牌建设与用户需求挖掘。</p>\n  <p>奇世智能推出了家用AI模拟全彩胎儿记录仪，这款硬件能够记录全孕期胎儿成长，改变准妈妈们的孕期体验，让孕期不再是母亲一个人的感受，而成为一个能与家人分享的，有意义的、连续的内容。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/h"
+      "summary": "<p>4月20日，猛士汽车春季焕新发布沟通会上，猛士与华为乾崑官宣深化合作，双方联合发布智能越野黑科技，同时完成全方位焕新。未来两年，猛士汽车将会把智能越野的新技术，逐步落地到4款以上的全新车型上。</p>\n  <p>在汽车行业“人均华为”的时代，猛士是目前和华为合作当中唯一一个越野底子的品牌，猛士汽车总经理万良渝认为，这是猛士与其他汽车品牌的最大差异点。在具体做差异化的过程中，万良渝表示，猛士会把品牌调性中“刚”的那一面和“柔”的那一面融合。“刚”的那一面，是东风的军工品质和越野内核，“这个硬核的东西会一直坚守下去，它是底子”；“智”的这一面，或者说“柔”的一面，是猛士和华为一起，把猛士对安"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
-      "url": "https://36kr.com/p/3774707915440897?f=rss",
+      "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+      "url": "https://36kr.com/p/3774776026874375?f=rss",
       "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，劳尼克斯科技（南京）有限公司（以下简称“劳尼克斯”）近日完成数千万元融资，投资方为苏州天空工场、宜宾高新前沿科技产业基金、翼朴资本。资金将重点投向核心产品研发迭代、人才团队扩容升级，同时全力支撑海外市场的布局拓展与本地化落地。</p>\n  <p>劳尼克斯核心团队成员来自智能硬件、消费机器人与园林工具等相关领域的头部企业。其产品矩阵涵盖割草机、打草机、修枝机、链锯等多种动力工具，并配套电池包、充电器等电动配件方案，采取20V、40V、60V全电压平台策略，覆盖从中小庭院到高端大宅的全场景需求。</p>\n  <p>自今年"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3777481893810696\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>特斯拉AI语音功能即将上线</strong></a></p>\n  <p>据网信上海消息，4月21日，上海新增1款已完成备案的生成式人工智能服务，为特斯拉车机语音大模型服务。对此，4月22日，特斯拉方面人士回应称：“敬请期待”。按照规定，已上线的生成式人工智能应用应在显著位置或产品详情页面公示所使用已备案生成式人工智"
     }
   ]
 }

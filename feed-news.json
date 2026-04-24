@@ -1,327 +1,231 @@
 {
-  "updated_at": "2026-04-23T04:17:11.410484+00:00",
+  "updated_at": "2026-04-24T04:22:08.396989+00:00",
   "period_hours": 24,
-  "article_count": 40,
+  "article_count": 28,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "published_at": "2026-04-22T23:56:52+00:00",
-      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year."
+      "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
+      "url": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
+      "published_at": "2026-04-24T04:01:00+00:00",
+      "summary": "Porsche will start selling the Cayenne Coupe Electric in late summer."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google updates Workspace to make AI your new office intern",
-      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "published_at": "2026-04-22T22:44:26+00:00",
-      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system."
+      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+      "url": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+      "published_at": "2026-04-24T00:11:25+00:00",
+      "summary": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
-      "url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
-      "published_at": "2026-04-22T22:39:58+00:00",
-      "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars."
+      "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
+      "url": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
+      "published_at": "2026-04-23T23:32:33+00:00",
+      "summary": "The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hands on with X’s new AI-powered custom feeds",
-      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-      "published_at": "2026-04-22T22:25:53+00:00",
-      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
+      "title": "Redwood Materials loses COO amid layoffs, restructuring",
+      "url": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+      "published_at": "2026-04-23T22:44:12+00:00",
+      "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
-      "url": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
-      "published_at": "2026-04-22T21:37:34+00:00",
-      "summary": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately."
+      "title": "These are the countries moving to ban social media for children",
+      "url": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+      "published_at": "2026-04-23T21:33:51+00:00",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
-      "url": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
-      "published_at": "2026-04-22T20:57:21+00:00",
-      "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab."
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "published_at": "2026-04-23T21:00:00+00:00",
+      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale",
-      "url": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
-      "published_at": "2026-04-22T20:09:45+00:00",
-      "summary": "Observable Space and Quantum Opus teamed up to capture data beamed back from space."
+      "title": "Instagram tests a new ‘Instants’ app for sharing disappearing photos",
+      "url": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/",
+      "published_at": "2026-04-23T20:03:53+00:00",
+      "summary": "The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-      "published_at": "2026-04-22T19:51:51+00:00",
-      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition."
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "published_at": "2026-04-23T19:38:25+00:00",
+      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-04-22T16:55:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+      "title": "Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With Agentic AI For Utilities And Infrastructure",
+      "url": "https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/",
+      "published_at": "2026-04-23T12:00:34+00:00",
+      "summary": "Cloneable, a startup that uses AI to shadow human experts in heavy industries such as energy and replicate their specialized workflows into autonomous agents, has raised $4.6 million in seed funding, the company tells Crunchbase News exclusively."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "A Better Way To Fail: How This Platform Aims To Turn Startup Shutdowns Into Something Salvageable",
-      "url": "https://news.crunchbase.com/startups/salvaging-shutdowns-simpleclosure-dori-yona-qa/",
-      "published_at": "2026-04-22T11:00:43+00:00",
-      "summary": "Los Angeles-based SimpleClosure has launched Asset Hub, a marketplace aimed at helping founders sell assets such as source code, data and equipment during the wind-down process. Crunchbase News spoke with founder Dori Yona about the new offering as closures rise and investors place greater value on"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "What The Record Venture Funding Quarter Actually Means For Your Startup’s Fundraise",
-      "url": "https://news.crunchbase.com/venture/building-successful-startup-vertical-ai-schroder-mgv/",
-      "published_at": "2026-04-22T11:00:28+00:00",
-      "summary": "For startup founders, the opportunity today is to solve real problems by building vertical, AI-driven solutions in specific industries. MGV's Marc Schröder shares tips on successfully building a startup with an eye toward acquisition."
+      "title": "Sector Snapshot: EV Funding On Track For Modest Gains",
+      "url": "https://news.crunchbase.com/venture/modest-gains-for-electric-vehicle-funding-wayve/",
+      "published_at": "2026-04-23T11:00:17+00:00",
+      "summary": "Funding to EV-related startups reflects a mix of optimism and restraint. While investors are backing big rounds for a handful of upstart brands, funding remains far below prior peaks and exit activity appears muted."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The 10 best cities for college grads: Omaha ranks higher than New York and L.A. because Gen Z ‘actually have a shot at purchasing a house’ for under $300K",
-      "url": "https://fortune.com/2026/04/22/top-10-us-american-cities-gen-z-graduates-isnt-nyc-or-la-its-omaha-and-dallas-homeownership-salary-advice/",
-      "published_at": "2026-04-22T15:13:29+00:00",
-      "summary": "“With a lot of homes selling for under $300,000, young grads actually have a shot at purchasing a house,” one Omaha real estate agent said."
+      "title": "Feds charge U.S. Army soldier who made $400,000 from Polymarket bets tied to Maduro capture",
+      "url": "https://fortune.com/2026/04/23/insider-trading-polymarket-soldier-venezuela/",
+      "published_at": "2026-04-23T22:56:37+00:00",
+      "summary": "The Justice Department said the solider made 13 bets on the basis of classified information he acquired from being part of the Venezuela operation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Cursor’s 25-year-old CEO is a former Google intern who just inked a $60 billion deal with SpaceX",
-      "url": "https://fortune.com/2026/04/22/who-is-cursor-25-year-old-ceo-michael-truell-tech-startups-csuite-elon-musk-spacex/",
-      "published_at": "2026-04-22T19:36:07+00:00",
-      "summary": "From Google intern at 18 to a billionaire at 25, Cursor CEO Michael Truell’s rise is one of Silicon Valley’s fastest."
+      "title": "Intel CEO Lip Bu Tan crushed Wall Street targets on his 1-year anniversary: We are embracing our ‘paranoid’ roots",
+      "url": "https://fortune.com/2026/04/23/intel-went-back-to-its-roots-paranoid-earnings-shares-ceo-lip-bu-tan/",
+      "published_at": "2026-04-24T02:01:52+00:00",
+      "summary": "Changes in AI, including the rise of agentic AI, are rekindling demand for CPU chips, says Intel after a blowout quarter that sent shares up 22%."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The AI boom is single-handedly carrying the U.S. import market—and adding $200 billion to the trade deficit, Fed study finds",
-      "url": "https://fortune.com/2026/04/22/ai-related-imports-add-200-billion-to-us-trade-deficit/",
-      "published_at": "2026-04-22T17:16:17+00:00",
-      "summary": "Trump’s tariffs were supposed to narrow the country’s trade gap. The AI race won’t let that happen."
+      "title": "How Chris Ong helped Seatrium emerge from a messy merger between two shipyards to become a profitable offshore oil and wind giant",
+      "url": "https://fortune.com/2026/04/23/seatrium-ceo-chris-ong-iran-energy-offshore-wind/",
+      "published_at": "2026-04-23T21:00:00+00:00",
+      "summary": "CEO Chris Ong has to balance customers like Brazil’s Petrobras, Royal Caribbean, and the U.S. Navy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Billionaire Michael Dell started his company in his University of Texas dorm room. Now, he’s betting on AI with a $750 million gift",
-      "url": "https://fortune.com/2026/04/22/michael-dell-ut-austin-750-million-donation-billionaire-philanthropy/",
-      "published_at": "2026-04-22T16:39:12+00:00",
-      "summary": "This gift pushes the Dells’ UT Austin donations to over $1 billion."
+      "title": "Cadence CEO on the AI boom and human nature: ‘there are more tools, but the human part is not different’",
+      "url": "https://fortune.com/2026/04/23/cadence-anirudh-devgan-39-trillion-national-debt-big-problem-for-america/",
+      "published_at": "2026-04-23T19:56:55+00:00",
+      "summary": "Cadence's Anirudh Devgan talked to Fortune about how technology will impact the future."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The internet isn’t just like real life, a top VC says—it is real life. For a16z, that’s not a philosophy, it’s an investment",
-      "url": "https://fortune.com/2026/04/22/internet-is-real-life-erik-torenberg-a16z-tabarrok-imas-luddites-ai/",
-      "published_at": "2026-04-22T16:13:53+00:00",
-      "summary": "A16z’s Erik Torenberg makes a sweeping argument, but he also challenges us to reconsider our definition of “real life.”"
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The AI economy runs on helium. The Iran war just created a $650 billion problem",
-      "url": "https://fortune.com/2026/04/22/helium-forecast-outlook-iran-war-moodys/",
-      "published_at": "2026-04-22T15:59:18+00:00",
-      "summary": "“Helium doesn’t get much attention in the AI supply chain, but it should,” says Moody’s David Pan. “There is no viable substitute at scale.”"
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Nvidia CEO Jensen Huang says you won’t lose your job to AI—you’ll lose it to your coworker who uses it",
-      "url": "https://fortune.com/2026/04/22/jensen-huang-nvidia-ai-replace-workers-not-jobs/",
-      "published_at": "2026-04-22T15:32:35+00:00",
-      "summary": "While other tech leaders warn of mass layoffs, Nvidia’s CEO says the real threat is the person sitting next to you."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Southwest Air drops as US airlines contend with soaring fuel",
-      "url": "https://fortune.com/2026/04/22/southwest-airlines-earnings-high-fuel-costs/",
-      "published_at": "2026-04-22T21:48:44+00:00",
-      "summary": "Shares in the Dallas-based airline extended losses in aftermarket trading after Southwest declined to update its full-year profit guidance of at least $4 a share."
+      "title": "Ken Griffin’s Citadel fires back at NYC Mayor Zohran Mamdani ‘tax the rich’ video featuring his $238 million penthouse",
+      "url": "https://fortune.com/article/ken-griffin-fires-back-nyc-mayor-zohran-mamdani-238-million-penthouse/",
+      "published_at": "2026-04-23T22:14:46+00:00",
+      "summary": "Citadel's COO subtly hinted the company may forgo a potential $6 billion investment in Midtown Manhattan after the NYC Mayor vowed to \"tax the rich.\""
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
-      "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
-      "published_at": "2026-04-22T23:53:00+00:00",
-      "summary": "<p>OpenAI introduced a new paradigm and product today that is likely to have huge implications for enterprises seeking to adopt and control fleets of AI agent workers.</p><p>Called &quot;<a href=\"https://openai.com/index/introducing-workspace-agents-in-chatgpt/\">Workspace Agents</a>,&quot; OpenAI&#x"
+      "title": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
+      "url": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation",
+      "published_at": "2026-04-23T21:50:00+00:00",
+      "summary": "<p>For several weeks, a growing chorus of developers and AI power users claimed that Anthropic’s flagship models were losing their edge. Users across GitHub, X, and Reddit reported <a href=\"https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance\">a phenom"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Google and AWS split the AI agent stack between control and execution",
-      "url": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution",
-      "published_at": "2026-04-22T21:37:00+00:00",
-      "summary": "<p>The era of enterprises stitching together prompt chains and shadow agents is nearing its end as more options for orchestrating complex multi-agent systems emerge. As organizations move AI agents into production, the question remains: &quot;how will we manage them?&quot;</p><p>Google and Amazon We"
+      "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
+      "url": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0",
+      "published_at": "2026-04-23T18:27:00+00:00",
+      "summary": "<p>After months of rumors and <a href=\"https://apnews.com/article/openai-chatgpt-spud-sam-altman-anthropic-mythos-3c2674f5cdf67ac6d88eedb207de117c\">reports</a> that OpenAI was developing a new, more powerful AI large language model for use in ChatGPT and through its application programming interface"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Are you paying an AI ‘swarm tax’? Why single agents often beat complex systems",
-      "url": "https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems",
-      "published_at": "2026-04-22T21:24:49+00:00",
-      "summary": "<p>Enterprise teams building multi-agent AI systems may be paying a compute premium for gains that don&#x27;t hold up under equal-budget conditions. New Stanford University research finds that single-agent systems match or outperform multi-agent architectures on complex reasoning tasks when both are"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
-      "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets",
-      "published_at": "2026-04-22T18:01:00+00:00",
-      "summary": "<p>In a significant shift toward local-first privacy infrastructure, OpenAI has released <b>Privacy Filter</b>, a specialized open-source model designed to detect and redact personally identifiable information (PII) before it ever reaches a cloud-based server. </p><p>Launched today on AI code sharin"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Google doesn't pay the Nvidia tax. Its new TPUs explain why.",
-      "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why",
-      "published_at": "2026-04-22T17:04:17+00:00",
-      "summary": "<p>Every frontier AI lab right now is rationing two things: electricity and compute. Most of them buy their compute for model training from the same supplier, at the steep gross margins that have turned Nvidia into one of the most valuable companies in the world. Google does not.</p><p>On Tuesday ni"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Salesforce’s Agentforce Vibes 2.0 targets a hidden failure: context overload in AI agents",
-      "url": "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents",
-      "published_at": "2026-04-22T15:54:00+00:00",
-      "summary": "<p>When startup fundraising platform VentureCrowd began deploying AI coding agents, they saw the same gains as other enterprises: they cut the front-end development cycle by 90% in some projects.</p><p>However, it didn’t come easy or without a lot of trial and error. </p><p>VentureCrowd’s first chal"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Google’s Gemini can now run on a single air-gapped server — and vanish when you pull the plug",
-      "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
-      "published_at": "2026-04-22T12:00:00+00:00",
-      "summary": "<p><a href=\"https://www.cirrascale.com/\">Cirrascale Cloud Services</a> today announced it has expanded its partnership with <a href=\"https://cloud.google.com/?hl=en\">Google Cloud </a>to deliver the <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\">Gemi"
+      "title": "Talking to AI agents is one thing — what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
+      "url": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator",
+      "published_at": "2026-04-23T15:41:10+00:00",
+      "summary": "<p>For the past eighteen months, the corporate world has been obsessed with the &quot;builder&quot; phase of the generative AI revolution. Enterprises have raced to deploy autonomous agents to handle everything from customer support to complex codebase refactoring. </p><p>However, as these digital w"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-      "published_at": "2026-04-22T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype"
+      "title": "The Download: introducing the Nature issue",
+      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+      "published_at": "2026-04-23T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.&#160;"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "AI needs a strong data fabric to deliver business value",
-      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-      "published_at": "2026-04-22T10:05:06+00:00",
-      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "3 things Michelle Kim is into right now",
-      "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
-      "published_at": "2026-04-22T10:00:00+00:00",
-      "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegy"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "One town’s scheme to get rid of its geese",
-      "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
-      "published_at": "2026-04-22T10:00:00+00:00",
-      "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "There is no nature anymore",
-      "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
-      "published_at": "2026-04-22T10:00:00+00:00",
-      "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scien"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Los Angeles is finally going underground",
-      "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
-      "published_at": "2026-04-22T10:00:00+00:00",
-      "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolley"
+      "title": "Will fusion power get cheap? Don’t count on it.",
+      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+      "published_at": "2026-04-23T10:00:00+00:00",
+      "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪官方AI专属社群，正式开放招募！",
-      "url": "https://36kr.com/p/3777870287737860?f=rss",
+      "title": "用“活人感”做科技社区，小红书能成吗？",
+      "url": "https://36kr.com/p/3778772970444033?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>36氪AI测评官方社群现已正式开放， 从入门认知到实战应用，从工具使用到项目落地。</strong></h2>\n  <p><strong>36氪AI测评正式开放三大垂直社群：AI启航群、AI实战群、OPC超级个体群。面向不同阶段、不同目标的用户，帮助你更高效地理解AI、使用AI，并推动真实成长与结果落地。</strong></p>\n  <p class=\"wx-app-wrapper\">\n   \n    &nbsp;\n   </p>\n  <h3><strong>为什么要做三大专属社群？</strong></h3>\n  <p>AI&nbsp;已经从“了解一下”走向“真正使"
+      "summary": "<p>文 | 钟艺璇</p>\n  <p>编辑 | 乔芊</p>\n  <p>没人能脱离AI这个浪潮，社区APP也不例外。</p>\n  <p>只是对比豆包、千问——它们背后往往站着有能力制造C端入口的大公司，社区似乎天然有短板，从过去的路径看，它似乎只能做到在内容上与科技无限靠近，成为一个极客范儿的存在，但终究面临垂类用户增长见顶的事实。</p>\n  <p>如果是一个综合类社区呢？在过去的垂类运营中，大规模引入KOL、KOC是迅速解决行业覆盖率的通用办法，但大水漫灌，或许会带来新老住民的气质冲突，尤其科技还是一个门槛较高的垂类，如果没有获得感，新用户的生命周期将会迅速缩短。</p>\n  <p>今天"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
-      "url": "https://36kr.com/p/3778732502095106?f=rss",
+      "title": "博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸｜硬氪独家",
+      "url": "https://36kr.com/p/3778175428777218?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，苏州极湃电磁科技有限公司（以下简称“极湃电磁”）近日完成新一轮数千万元融资。本轮融资由英诺天使基金、苏创投天使基金及苏高新融晟共同投资，资金将主要用于产线设备投入及研发升级。</p>\n  <p>极湃电磁成立于2023年5月，总部位于苏州，是一家面向工业自动化、汽车智能化及具身智能机器人领域的电磁执行器解决方案提供商，核心产品涵盖电磁阀、制动器及离合器等。</p>\n  <p><strong>公司核心团队成建制来自于全球电磁行业龙头，包括原中国区事业部管理团队、研发、产品"
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>当智能手机陷入性能过剩、AI功能同质化内卷，用户注意力被无限拆解与争夺时，一个被长期忽视的角落正悄然打开新赛道——手机背面的闲置空间。</p>\n  <p>硬氪独家获悉，AI超便携电子纸品牌阅星曈近日完成天使轮至A轮融资，累计五轮金额超亿元人民币，投资方包括博裕创投、清流资本、希扬资本、小红书、经纬创投、顺为资本，多数股东持续追加。资金将用于完善生产制造与质量审核体系、拓展海外市场，搭建社区内容、优化产品体验，与全球用户共同构建AI时代手机副屏生态。</p>\n  <p>阅星曈开创了“超便携电子纸”品类，其产品以极简的硬件设计与流"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
-      "url": "https://36kr.com/p/3778730451391751?f=rss",
+      "title": "8点1氪丨华谊兄弟被申请破产重整；普华永道因恒大审计赔偿10亿港元；伊朗将恢复往返中国的航班",
+      "url": "https://36kr.com/p/3780065714148610?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，深圳市星际光年科技有限公司（以下简称“星际光年”）近日完成新一轮融资，本轮由顺创产投领投，老股东云时资本持续加注，微星宁元跟投。</p>\n  <p>至此，公司在过去三个月内连续完成两轮融资，累计融资规模近亿元。本轮融资将主要用于通用灵巧操作平台在真实工业场景落地、产品持续完善、规模化产线升级及全球团队生态建设。</p>\n  <p>星际光年专注于灵巧手及通用操作平台的研发与商业化，核心团队来自清华大学、哈尔滨工业大学、香港大学、香港科技大学、美国西北大学等海内外顶尖高校"
+      "summary": "<h2>今日热点导览</h2>\n  <p>抖音整治AI不当内容，重点处置利用AI技术换脸、盗声</p>\n  <p>受燃油价格冲击，德国汉莎拟削减2万架次航班</p>\n  <p>刹车功能或丧失，大众在美召回18853辆汽车</p>\n  <p>光线传媒：公司第一款3A游戏开发进展比较顺利</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>华谊兄弟被申请破产重整</strong></p>\n  <p>近日，华谊兄弟（300027）新增一则破产审查案件信息，申请人为北京泰睿飞克科技有限公司，经办法院为浙江省金华市中级人民法院。</p>\n  <p>此次申请重整的债务，源于华谊兄弟与泰"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目",
-      "url": "https://36kr.com/p/3778135439709446?f=rss",
+      "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+      "url": "https://36kr.com/p/3778831119897600?f=rss",
       "published_at": null,
-      "summary": "<p>文｜周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <h3><strong>一句话介绍</strong></h3>\n  <p><a href=\"https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247515548&amp;idx=1&amp;sn=33416a6eb79e301c53c3766f6d038edc&amp;scene=21#wechat_redirect\" rel=\"noopener noreferrer\" target=\"_blank\">成立于2025年6月的“涌跃智能”，是《智能涌现》曾报道过的AI创"
+      "summary": "<p>36氪获悉，AI for Science公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及多地国资。同时，公司也与包括深圳湾实验室在内的多家国际顶尖科研机构建立了深度成果转化合作机制，形成覆盖技术研发、临床应用及产业生态赋能的全链条布局。</p>\n  <p>2025年被视作AI4S发展的分水岭。随着通用科研引擎的出现，以及英伟达GTC大会将AI4S与大语言模型、具身智能并列为人工智能三大核心方向，全球资本与技术资源正加速向该领域聚集。然而，当前多数AI在科学探索中仍停留在“结"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？",
-      "url": "https://36kr.com/p/3778121523025154?f=rss",
+      "title": "美国百年太妃糖易手，Roca乐家被全资收购",
+      "url": "https://36kr.com/p/3779468716938499?f=rss",
       "published_at": null,
-      "summary": "<p>访谈｜邓咏仪 周鑫雨</p>\n  <p>文｜周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <p>乍一使用，你很难给Ribbi一个准确的定义。</p>\n  <p>若说这是一个多模态内容创作工具，Ribbi能做得不止于此。比起一个“死”的工具，Ribbi更像一个可以自动管理创作全链路的“人”。</p>\n  <p>它能将用户的创作流程，自动沉淀为Skill；也能监测社交媒体的数据表现，总结复盘，并<strong>自动对后续的创作进行优化。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hs"
+      "summary": "<p>作者&nbsp;|&nbsp;钟艺璇</p>\n  <p>编辑&nbsp;|&nbsp;乔芊</p>\n  <p>36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown &amp; Haley公司的全资收购，Brown &amp; Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年4月17日正式完成交割。本次收购不会对Brown &amp; Haley位于塔科马的总部生产基地造成影响，其原有生产运营将保持稳定。</p>\n  <p>据悉，孟一烽（Sam Meng）将会出任Brown &amp; Hal"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨张雪机车发布召回通告；哪吒汽车创始人已被列为“老赖”；英国新法案规定08后终身不得购烟",
-      "url": "https://36kr.com/p/3778660962505989?f=rss",
+      "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
+      "url": "https://36kr.com/p/3779369343144965?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>新能源车主反映，多地公共充电桩价格上涨</p>\n  <p>因中东局势持续影响供应链， <strong>全球最大避孕套生产商计划涨价</strong></p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>张雪机车发布召回通告：一台银川的820RR发生了曲轴箱破裂</strong></p>\n  <p>36氪获悉，张雪机车发布820RR召回通告。通告称，4月16日，一台银川的820RR发生了曲轴箱破裂。4月21日，受损车辆返回工厂，经拆解检查，找到了造成曲轴箱破裂的原因：泄压阀的O型密封圈装配错误，车辆使用一段时间后，泄压阀松动导致机油压"
+      "summary": "<p>智驾圈杀出了一匹“黑马”，智能驾驶的市场格局正面临重新洗牌的变量。</p>\n  <p>在4月22日举办的千里科技AI战略暨产品发布会上，千里科技公布了一组数据：千里智驾装车量已突破46万辆，覆盖极氪、领克17款车型，并预计在2026年正式跨入“百万量级俱乐部”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260423/v2_9ab724ef5a95498a823f8b339e763b39@5679941_oswg51251oswg1080oswg718_img_000?x-oss-"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "最前线｜华为猛士深化战略合作，新技术将逐步落地4款以上全新车型",
-      "url": "https://36kr.com/p/3777981126644745?f=rss",
+      "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
+      "url": "https://36kr.com/p/3774776226923272?f=rss",
       "published_at": null,
-      "summary": "<p>4月20日，猛士汽车春季焕新发布沟通会上，猛士与华为乾崑官宣深化合作，双方联合发布智能越野黑科技，同时完成全方位焕新。未来两年，猛士汽车将会把智能越野的新技术，逐步落地到4款以上的全新车型上。</p>\n  <p>在汽车行业“人均华为”的时代，猛士是目前和华为合作当中唯一一个越野底子的品牌，猛士汽车总经理万良渝认为，这是猛士与其他汽车品牌的最大差异点。在具体做差异化的过程中，万良渝表示，猛士会把品牌调性中“刚”的那一面和“柔”的那一面融合。“刚”的那一面，是东风的军工品质和越野内核，“这个硬核的东西会一直坚守下去，它是底子”；“智”的这一面，或者说“柔”的一面，是猛士和华为一起，把猛士对安"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3779112053658880\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限</strong></a></p>\n  <p>三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
-      "url": "https://36kr.com/p/3774776026874375?f=rss",
+      "title": "创·问｜炜璨医疗李强：从理解规则，到建立规则——重塑植入式给药路径",
+      "url": "https://36kr.com/p/3779145497515269?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3777481893810696\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>特斯拉AI语音功能即将上线</strong></a></p>\n  <p>据网信上海消息，4月21日，上海新增1款已完成备案的生成式人工智能服务，为特斯拉车机语音大模型服务。对此，4月22日，特斯拉方面人士回应称：“敬请期待”。按照规定，已上线的生成式人工智能应用应在显著位置或产品详情页面公示所使用已备案生成式人工智"
+      "summary": "<p>优秀的企业长什么样，成功的创业者都有哪些特质？在他们的奋斗路上，有哪些需要避开的“坑”，最重要的改变是什么？</p>\n  <p>创·问 向一些优秀的华创派、投资人、业界牛人抛出问题，也希望分享他们的想法给你。</p>\n  <p>本期主角是炜璨医疗创始人、董事长李强。炜璨医疗是目前全球首个涵盖静脉、动脉、脊柱、腹腔、透析、颅内等全场景植入式给药装置+智能化植入式自体给药装置的创新型医疗器械公司，公司依靠自研团队开发的多种植入式给药装置系列产品，均为国内外首创。</p>\n  <p>2023年，华创资本在种子轮独家投资了炜璨医疗，并在后续融资中持续加注。</p>\n  <p class=\"ima"
     }
   ]
 }

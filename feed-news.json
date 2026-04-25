@@ -1,231 +1,263 @@
 {
-  "updated_at": "2026-04-24T04:22:08.396989+00:00",
+  "updated_at": "2026-04-25T03:56:08.743101+00:00",
   "period_hours": 24,
-  "article_count": 28,
+  "article_count": 32,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
-      "url": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
-      "published_at": "2026-04-24T04:01:00+00:00",
-      "summary": "Porsche will start selling the Cayenne Coupe Electric in late summer."
+      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+      "published_at": "2026-04-25T03:30:00+00:00",
+      "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
-      "url": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
-      "published_at": "2026-04-24T00:11:25+00:00",
-      "summary": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm."
+      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+      "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+      "published_at": "2026-04-24T23:32:11+00:00",
+      "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
-      "url": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
-      "published_at": "2026-04-23T23:32:33+00:00",
-      "summary": "The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket."
+      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+      "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+      "published_at": "2026-04-24T21:53:44+00:00",
+      "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Redwood Materials loses COO amid layoffs, restructuring",
-      "url": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
-      "published_at": "2026-04-23T22:44:12+00:00",
-      "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned."
+      "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "published_at": "2026-04-24T21:35:30+00:00",
+      "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "These are the countries moving to ban social media for children",
-      "url": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
-      "published_at": "2026-04-23T21:33:51+00:00",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
+      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+      "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+      "published_at": "2026-04-24T21:05:59+00:00",
+      "summary": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-      "published_at": "2026-04-23T21:00:00+00:00",
-      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment."
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "published_at": "2026-04-24T20:52:07+00:00",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Instagram tests a new ‘Instants’ app for sharing disappearing photos",
-      "url": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/",
-      "published_at": "2026-04-23T20:03:53+00:00",
-      "summary": "The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours."
+      "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
+      "url": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
+      "published_at": "2026-04-24T20:10:54+00:00",
+      "summary": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-      "published_at": "2026-04-23T19:38:25+00:00",
-      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you."
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "published_at": "2026-04-24T19:49:35+00:00",
+      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With Agentic AI For Utilities And Infrastructure",
-      "url": "https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/",
-      "published_at": "2026-04-23T12:00:34+00:00",
-      "summary": "Cloneable, a startup that uses AI to shadow human experts in heavy industries such as energy and replicate their specialized workflows into autonomous agents, has raised $4.6 million in seed funding, the company tells Crunchbase News exclusively."
+      "title": "The Week’s 10 Biggest Funding Rounds: AI, Autonomy And Biotech Top The Ranks",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-autonomy-biotech-anthropic/",
+      "published_at": "2026-04-24T18:18:35+00:00",
+      "summary": "This week, just half of the top 10 rounds crossed the $100 million mark, which is somewhat unusual in this high-flying era for venture megarounds. Nonetheless some large checks did get written, led by Amazon’s $5 billion investment and partnership deal with Anthropic."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Sector Snapshot: EV Funding On Track For Modest Gains",
-      "url": "https://news.crunchbase.com/venture/modest-gains-for-electric-vehicle-funding-wayve/",
-      "published_at": "2026-04-23T11:00:17+00:00",
-      "summary": "Funding to EV-related startups reflects a mix of optimism and restraint. While investors are backing big rounds for a handful of upstart brands, funding remains far below prior peaks and exit activity appears muted."
+      "title": "The IPO Pipeline Finally Gets Interesting",
+      "url": "https://news.crunchbase.com/public/ipo-pipeline-thawing-ai-semiconductors-clean-energy/",
+      "published_at": "2026-04-24T11:00:40+00:00",
+      "summary": "S-1 filings have been plentiful the past few weeks for venture-backed startups providing semiconductors, nuclear and geothermal power, biotech, and space and defense tech queuing up for a possible trip to the public markets."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Feds charge U.S. Army soldier who made $400,000 from Polymarket bets tied to Maduro capture",
-      "url": "https://fortune.com/2026/04/23/insider-trading-polymarket-soldier-venezuela/",
-      "published_at": "2026-04-23T22:56:37+00:00",
-      "summary": "The Justice Department said the solider made 13 bets on the basis of classified information he acquired from being part of the Venezuela operation."
+      "title": "This is a ‘come to Jesus moment’: Ford CEO says American carmakers are battling a perfect storm",
+      "url": "https://fortune.com/2026/04/24/ford-ceo-jim-farley-automakers-threats-three-perfect-storms-us-companies/",
+      "published_at": "2026-04-24T19:31:35+00:00",
+      "summary": "If Ford \"doesn't put its chips on the right number,\" it may not survive, said Farley."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Intel CEO Lip Bu Tan crushed Wall Street targets on his 1-year anniversary: We are embracing our ‘paranoid’ roots",
-      "url": "https://fortune.com/2026/04/23/intel-went-back-to-its-roots-paranoid-earnings-shares-ceo-lip-bu-tan/",
-      "published_at": "2026-04-24T02:01:52+00:00",
-      "summary": "Changes in AI, including the rise of agentic AI, are rekindling demand for CPU chips, says Intel after a blowout quarter that sent shares up 22%."
+      "title": "The U.S. military may have already used up half of its most expensive missiles, and it could take up to 4 years to rebuild its stockpiles",
+      "url": "https://fortune.com/2026/04/24/us-military-depleted-half-most-expensive-missiles-cost-of-iran-war/",
+      "published_at": "2026-04-24T17:39:31+00:00",
+      "summary": "“The diminished munitions stockpiles have created a near-term risk,” analysts warned in a recent report. “The levels today will constrain U.S. operations should a future conflict arise.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Chris Ong helped Seatrium emerge from a messy merger between two shipyards to become a profitable offshore oil and wind giant",
-      "url": "https://fortune.com/2026/04/23/seatrium-ceo-chris-ong-iran-energy-offshore-wind/",
-      "published_at": "2026-04-23T21:00:00+00:00",
-      "summary": "CEO Chris Ong has to balance customers like Brazil’s Petrobras, Royal Caribbean, and the U.S. Navy."
+      "title": "Anthropic says engineering missteps were behind Claude Code’s monthlong decline after weeks of user backlash",
+      "url": "https://fortune.com/2026/04/24/anthropic-engineering-missteps-claude-code-performance-decline-user-backlash/",
+      "published_at": "2026-04-24T17:21:12+00:00",
+      "summary": "Claude Code turned Anthropic into developers’ most trusted AI platform. A month of degraded performance is now threatening the goodwill that fueled its $30 billion revenue run."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Cadence CEO on the AI boom and human nature: ‘there are more tools, but the human part is not different’",
-      "url": "https://fortune.com/2026/04/23/cadence-anirudh-devgan-39-trillion-national-debt-big-problem-for-america/",
-      "published_at": "2026-04-23T19:56:55+00:00",
-      "summary": "Cadence's Anirudh Devgan talked to Fortune about how technology will impact the future."
+      "title": "Even as businesses spend $4 million to cross Panama Canal, they say ‘it’s safer and less expensive’ than the Strait of Hormuz",
+      "url": "https://fortune.com/2026/04/24/businesses-spend-millions-panama-canal-safer-strait-of-hormuz/",
+      "published_at": "2026-04-24T21:56:21+00:00",
+      "summary": "While passage through the canal usually comes at a flat rate via reservations, companies without bookings can pay more to cross through an auction that awards slots to the highest bidder. The alternative would be waiting for days off the coast of Panama City."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Ken Griffin’s Citadel fires back at NYC Mayor Zohran Mamdani ‘tax the rich’ video featuring his $238 million penthouse",
-      "url": "https://fortune.com/article/ken-griffin-fires-back-nyc-mayor-zohran-mamdani-238-million-penthouse/",
-      "published_at": "2026-04-23T22:14:46+00:00",
-      "summary": "Citadel's COO subtly hinted the company may forgo a potential $6 billion investment in Midtown Manhattan after the NYC Mayor vowed to \"tax the rich.\""
+      "title": "Intel’s blowout quarter just sparked its best day since 1987",
+      "url": "https://fortune.com/2026/04/24/intel-blows-past-record-high-s-and-p-500/",
+      "published_at": "2026-04-24T21:55:15+00:00",
+      "summary": "Intel led the way and roared past its 2000 peak during the dot-com boom to an all-time high."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Trump’s own judge just sided against his asylum crackdown—White House blames ‘political lens’",
+      "url": "https://fortune.com/2026/04/24/trump-aslyum-immigration-crackdown-immigration-nationality-act-southern-border/",
+      "published_at": "2026-04-24T21:53:17+00:00",
+      "summary": "For Josue Martinez, a psychologist who works at a small migrant shelter in southern Mexico, the ruling marked a potential “light at the end of the tunnel.\""
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Pirro drops Powell probe, handing Kevin Warsh a lifeline, though U.S. attorney vows to restart probe ‘should the facts warrant doing so’",
+      "url": "https://fortune.com/2026/04/24/doj-drops-powell-probe-trump-tom-tillis-senator-kevin-warsh-confirmation/",
+      "published_at": "2026-04-24T14:59:30+00:00",
+      "summary": "It’s unclear whether or not Powell will choose to stay on the board."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Firing squads are back: Trump’s DOJ revives rarely used execution method once limited to five states",
+      "url": "https://fortune.com/2026/04/24/firing-squads-trump-revives-rare-execution-method/",
+      "published_at": "2026-04-24T21:35:02+00:00",
+      "summary": "The Justice Department is also reauthorizing the use of single-drug lethal injections."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
-      "url": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation",
-      "published_at": "2026-04-23T21:50:00+00:00",
-      "summary": "<p>For several weeks, a growing chorus of developers and AI power users claimed that Anthropic’s flagship models were losing their edge. Users across GitHub, X, and Reddit reported <a href=\"https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance\">a phenom"
+      "title": "CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices.",
+      "url": "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors",
+      "published_at": "2026-04-24T21:34:21+00:00",
+      "summary": "<p>During <a href=\"https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/\">Operation Lunar Peek in November 2024</a>, attackers gained unauthenticated remote admin access — and eventual root — across more than <a href=\"https://censys.com/advisory/cve-2024-0012/\">13,000 exposed Palo Alto Ne"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
-      "url": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0",
-      "published_at": "2026-04-23T18:27:00+00:00",
-      "summary": "<p>After months of rumors and <a href=\"https://apnews.com/article/openai-chatgpt-spud-sam-altman-anthropic-mythos-3c2674f5cdf67ac6d88eedb207de117c\">reports</a> that OpenAI was developing a new, more powerful AI large language model for use in ChatGPT and through its application programming interface"
+      "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5",
+      "url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5",
+      "published_at": "2026-04-24T16:34:00+00:00",
+      "summary": "<p>The whale has resurfaced. </p><p>DeepSeek, the Chinese AI startup offshoot of High-Flyer Capital Management quantitative analysis firm, became a <a href=\"https://venturebeat.com/ai/why-everyone-in-ai-is-freaking-out-about-deepseek\">near-overnight sensation globally in January 2025</a> with the re"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Talking to AI agents is one thing — what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
-      "url": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator",
-      "published_at": "2026-04-23T15:41:10+00:00",
-      "summary": "<p>For the past eighteen months, the corporate world has been obsessed with the &quot;builder&quot; phase of the generative AI revolution. Enterprises have raced to deploy autonomous agents to handle everything from customer support to complex codebase refactoring. </p><p>However, as these digital w"
+      "title": "85% of enterprises are running AI agents. Only 5% trust them enough to ship.",
+      "url": "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship",
+      "published_at": "2026-04-24T13:00:00+00:00",
+      "summary": "<p>Eighty-five percent of enterprises are running AI agent pilots, but only 5% have moved those agents into production. In an exclusive interview at <a href=\"https://www.cisco.com/site/us/en/learn/events/rsac.html\">RSA Conference 2026</a>, Cisco President and Chief Product Officer Jeetu Patel said t"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: introducing the Nature issue",
-      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
-      "published_at": "2026-04-23T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.&#160;"
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "published_at": "2026-04-24T21:40:58+00:00",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Will fusion power get cheap? Don’t count on it.",
-      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
-      "published_at": "2026-04-23T10:00:00+00:00",
-      "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now"
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "published_at": "2026-04-24T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This qu"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "published_at": "2026-04-24T09:00:00+00:00",
+      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "用“活人感”做科技社区，小红书能成吗？",
-      "url": "https://36kr.com/p/3778772970444033?f=rss",
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "url": "https://36kr.com/p/3781548853533959?f=rss",
       "published_at": null,
-      "summary": "<p>文 | 钟艺璇</p>\n  <p>编辑 | 乔芊</p>\n  <p>没人能脱离AI这个浪潮，社区APP也不例外。</p>\n  <p>只是对比豆包、千问——它们背后往往站着有能力制造C端入口的大公司，社区似乎天然有短板，从过去的路径看，它似乎只能做到在内容上与科技无限靠近，成为一个极客范儿的存在，但终究面临垂类用户增长见顶的事实。</p>\n  <p>如果是一个综合类社区呢？在过去的垂类运营中，大规模引入KOL、KOC是迅速解决行业覆盖率的通用办法，但大水漫灌，或许会带来新老住民的气质冲突，尤其科技还是一个门槛较高的垂类，如果没有获得感，新用户的生命周期将会迅速缩短。</p>\n  <p>今天"
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。</p>\n  <p>这已是智用开物过去一年内的第三轮融资。2025年，公司先后完成由瑞枫资本、豫资涨泉及上市公司制造业数字化龙头企业赛意信息的投资。</p>\n  <p>智用开物2024年1月成立于广州，专注于通过“工业语义引擎+工业级多智能体系统”，将复杂的工业知识转化为A"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸｜硬氪独家",
-      "url": "https://36kr.com/p/3778175428777218?f=rss",
+      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+      "url": "https://36kr.com/p/3781532841581576?f=rss",
       "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>当智能手机陷入性能过剩、AI功能同质化内卷，用户注意力被无限拆解与争夺时，一个被长期忽视的角落正悄然打开新赛道——手机背面的闲置空间。</p>\n  <p>硬氪独家获悉，AI超便携电子纸品牌阅星曈近日完成天使轮至A轮融资，累计五轮金额超亿元人民币，投资方包括博裕创投、清流资本、希扬资本、小红书、经纬创投、顺为资本，多数股东持续追加。资金将用于完善生产制造与质量审核体系、拓展海外市场，搭建社区内容、优化产品体验，与全球用户共同构建AI时代手机副屏生态。</p>\n  <p>阅星曈开创了“超便携电子纸”品类，其产品以极简的硬件设计与流"
+      "summary": "<p><strong>整理</strong>｜孟孟&nbsp;</p>\n  <h2><strong>今日热点导览</strong></h2>\n  <p>铁路部门将实行老年旅客购票优惠</p>\n  <p>哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元</p>\n  <p>网友称用豆包提前查到事业编成绩，官方回应&nbsp;</p>\n  <p>耐克将裁减1400个公司职位，主要集中在技术部门</p>\n  <p>中国再发现两种月球新矿物，嫦娥五号样品研究获新突破</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>马斯克花4000多亿买下"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨华谊兄弟被申请破产重整；普华永道因恒大审计赔偿10亿港元；伊朗将恢复往返中国的航班",
-      "url": "https://36kr.com/p/3780065714148610?f=rss",
+      "title": "低头是日常，抬头是阅读",
+      "url": "https://36kr.com/p/3780986341153798?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>抖音整治AI不当内容，重点处置利用AI技术换脸、盗声</p>\n  <p>受燃油价格冲击，德国汉莎拟削减2万架次航班</p>\n  <p>刹车功能或丧失，大众在美召回18853辆汽车</p>\n  <p>光线传媒：公司第一款3A游戏开发进展比较顺利</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>华谊兄弟被申请破产重整</strong></p>\n  <p>近日，华谊兄弟（300027）新增一则破产审查案件信息，申请人为北京泰睿飞克科技有限公司，经办法院为浙江省金华市中级人民法院。</p>\n  <p>此次申请重整的债务，源于华谊兄弟与泰"
+      "summary": "<p>建筑设计师陈敏的手机里有一份极其多元的“阅读清单”。清晨通勤的地铁上，她习惯戴上降噪耳机，在播客节目中了解行业前沿信息；午休时的餐厅里，她会利用等餐的碎片时间，快速翻阅手机上关注的几篇建筑美学推文。而在工作间隙，她喜欢走出办公室，在上海的街道上散步，观察那些历史建筑的肌理与城市空间的流动。对她而言，这同样是一种深度阅读。到了深夜临睡前，她又会回归那种更传统的体验，在平板电脑上追更一章连载网文。</p>\n  <p><strong>事实上，如今的阅读早已不是一种需要正襟危坐的特定仪式，而是像空气一样，自然地渗入了生活的每一处缝隙。</strong>这种“随时随地”的阅读状态，在研究数据中得到"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
-      "url": "https://36kr.com/p/3778831119897600?f=rss",
+      "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
+      "url": "https://36kr.com/p/3780910411193602?f=rss",
       "published_at": null,
-      "summary": "<p>36氪获悉，AI for Science公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及多地国资。同时，公司也与包括深圳湾实验室在内的多家国际顶尖科研机构建立了深度成果转化合作机制，形成覆盖技术研发、临床应用及产业生态赋能的全链条布局。</p>\n  <p>2025年被视作AI4S发展的分水岭。随着通用科研引擎的出现，以及英伟达GTC大会将AI4S与大语言模型、具身智能并列为人工智能三大核心方向，全球资本与技术资源正加速向该领域聚集。然而，当前多数AI在科学探索中仍停留在“结"
+      "summary": "<p>随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。</p>\n  <p>有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。</p>\n  <p>要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。</p>\n  <p>在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "美国百年太妃糖易手，Roca乐家被全资收购",
-      "url": "https://36kr.com/p/3779468716938499?f=rss",
+      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+      "url": "https://36kr.com/p/3777694346548482?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;钟艺璇</p>\n  <p>编辑&nbsp;|&nbsp;乔芊</p>\n  <p>36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown &amp; Haley公司的全资收购，Brown &amp; Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年4月17日正式完成交割。本次收购不会对Brown &amp; Haley位于塔科马的总部生产基地造成影响，其原有生产运营将保持稳定。</p>\n  <p>据悉，孟一烽（Sam Meng）将会出任Brown &amp; Hal"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3780641726897156\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>京东和格力推出空调换新全包服务</strong></a></p>\n  <p>36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。 据了解，京东与格力已合作多年，在去年双方合作安装空调量达数百万台。</p>\n  <p><a href=\"https://36kr.com/n"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
-      "url": "https://36kr.com/p/3779369343144965?f=rss",
+      "title": "科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起",
+      "url": "https://36kr.com/p/3780654186535941?f=rss",
       "published_at": null,
-      "summary": "<p>智驾圈杀出了一匹“黑马”，智能驾驶的市场格局正面临重新洗牌的变量。</p>\n  <p>在4月22日举办的千里科技AI战略暨产品发布会上，千里科技公布了一组数据：千里智驾装车量已突破46万辆，覆盖极氪、领克17款车型，并预计在2026年正式跨入“百万量级俱乐部”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260423/v2_9ab724ef5a95498a823f8b339e763b39@5679941_oswg51251oswg1080oswg718_img_000?x-oss-"
+      "summary": "<p>4月23日，京东汽车与深蓝汽车联合推出的国民好车2.0车型——深蓝L06增程版正式公布售价，开启大定。京东汽车宣布京东PLUS会员购车可享95折，深蓝L06增程版叠加会员折扣后价格低至127155元起。这也是汽车行业首次开创平台会员直接享受整车价格折扣的新模式，标志着“电商+车企”合作模式迈向了新阶段，平台会员价值也从日常消费延伸到了涵盖购车、用车等更广阔链路。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260424/v2_04b4a6abff254467af9b92033ed2d"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
-      "url": "https://36kr.com/p/3774776226923272?f=rss",
+      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
+      "url": "https://36kr.com/p/3780556402531330?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3779112053658880\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限</strong></a></p>\n  <p>三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成"
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。</p>\n  <p>根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的��品辅助插件地位提升至业务底座高度。</p>\n  <p>微盟此次提出的“AI First”战略，核心覆盖了AI+SaaS、AI+营销、AI+出海及AI To C等方向。</p>\n  <p>在技"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "创·问｜炜璨医疗李强：从理解规则，到建立规则——重塑植入式给药路径",
-      "url": "https://36kr.com/p/3779145497515269?f=rss",
+      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
+      "url": "https://36kr.com/p/3780375304312072?f=rss",
       "published_at": null,
-      "summary": "<p>优秀的企业长什么样，成功的创业者都有哪些特质？在他们的奋斗路上，有哪些需要避开的“坑”，最重要的改变是什么？</p>\n  <p>创·问 向一些优秀的华创派、投资人、业界牛人抛出问题，也希望分享他们的想法给你。</p>\n  <p>本期主角是炜璨医疗创始人、董事长李强。炜璨医疗是目前全球首个涵盖静脉、动脉、脊柱、腹腔、透析、颅内等全场景植入式给药装置+智能化植入式自体给药装置的创新型医疗器械公司，公司依靠自研团队开发的多种植入式给药装置系列产品，均为国内外首创。</p>\n  <p>2023年，华创资本在种子轮独家投资了炜璨医疗，并在后续融资中持续加注。</p>\n  <p class=\"ima"
+      "summary": "<p>文｜周鑫雨</p>\n  <p>资料整理｜钟楚笛</p>\n  <p>编辑｜苏建勋 杨轩</p>\n  <p>靴子终于落地。</p>\n  <p>被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。</p>\n  <p>1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260"
     }
   ]
 }

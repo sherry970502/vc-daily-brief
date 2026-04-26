@@ -1,199 +1,175 @@
 {
-  "updated_at": "2026-04-25T03:56:08.743101+00:00",
+  "updated_at": "2026-04-26T04:28:11.666977+00:00",
   "period_hours": 24,
-  "article_count": 32,
+  "article_count": 24,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
-      "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-      "published_at": "2026-04-25T03:30:00+00:00",
-      "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks."
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "published_at": "2026-04-25T21:43:37+00:00",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-      "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-      "published_at": "2026-04-24T23:32:11+00:00",
-      "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor."
+      "title": "Maine’s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "published_at": "2026-04-25T20:57:08+00:00",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
-      "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
-      "published_at": "2026-04-24T21:53:44+00:00",
-      "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports."
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "published_at": "2026-04-25T17:17:56+00:00",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
-      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-      "published_at": "2026-04-24T21:35:30+00:00",
-      "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments."
+      "title": "The climate tech IPO window could finally be cracking open",
+      "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+      "published_at": "2026-04-25T16:33:00+00:00",
+      "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
-      "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
-      "published_at": "2026-04-24T21:05:59+00:00",
-      "summary": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech."
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "published_at": "2026-04-25T16:00:00+00:00",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "published_at": "2026-04-24T20:52:07+00:00",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street."
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "published_at": "2026-04-25T15:03:00+00:00",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
-      "url": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
-      "published_at": "2026-04-24T20:10:54+00:00",
-      "summary": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq."
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "url": "https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "published_at": "2026-04-25T15:00:07+00:00",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "published_at": "2026-04-24T19:49:35+00:00",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: AI, Autonomy And Biotech Top The Ranks",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-autonomy-biotech-anthropic/",
-      "published_at": "2026-04-24T18:18:35+00:00",
-      "summary": "This week, just half of the top 10 rounds crossed the $100 million mark, which is somewhat unusual in this high-flying era for venture megarounds. Nonetheless some large checks did get written, led by Amazon’s $5 billion investment and partnership deal with Anthropic."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The IPO Pipeline Finally Gets Interesting",
-      "url": "https://news.crunchbase.com/public/ipo-pipeline-thawing-ai-semiconductors-clean-energy/",
-      "published_at": "2026-04-24T11:00:40+00:00",
-      "summary": "S-1 filings have been plentiful the past few weeks for venture-backed startups providing semiconductors, nuclear and geothermal power, biotech, and space and defense tech queuing up for a possible trip to the public markets."
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "published_at": "2026-04-25T15:00:00+00:00",
+      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "This is a ‘come to Jesus moment’: Ford CEO says American carmakers are battling a perfect storm",
-      "url": "https://fortune.com/2026/04/24/ford-ceo-jim-farley-automakers-threats-three-perfect-storms-us-companies/",
-      "published_at": "2026-04-24T19:31:35+00:00",
-      "summary": "If Ford \"doesn't put its chips on the right number,\" it may not survive, said Farley."
+      "title": "Trump uninjured and other top officials evacuated after a shooter opened fire in hotel where White House correspondents dinner held",
+      "url": "https://fortune.com/2026/04/25/trump-top-officials-shooter-opened-fire-white-house-correspondents-dinner/",
+      "published_at": "2026-04-26T01:27:15+00:00",
+      "summary": "Some in the crowd reported hearing what they believed to be five to eight shots fired."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The U.S. military may have already used up half of its most expensive missiles, and it could take up to 4 years to rebuild its stockpiles",
-      "url": "https://fortune.com/2026/04/24/us-military-depleted-half-most-expensive-missiles-cost-of-iran-war/",
-      "published_at": "2026-04-24T17:39:31+00:00",
-      "summary": "“The diminished munitions stockpiles have created a near-term risk,” analysts warned in a recent report. “The levels today will constrain U.S. operations should a future conflict arise.”"
+      "title": "From maritime trench warfare to a ‘sloppy peace’: Here’s how the Strait of Hormuz standoff could play out, according to Goldman Sachs",
+      "url": "https://fortune.com/2026/04/25/iran-war-peace-deal-maritime-trench-warfare-naval-blockade-strait-of-hormuz-oil/",
+      "published_at": "2026-04-25T23:30:43+00:00",
+      "summary": "\"And a sloppy peace is basically a bunch of half solutions on all the big issues.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic says engineering missteps were behind Claude Code’s monthlong decline after weeks of user backlash",
-      "url": "https://fortune.com/2026/04/24/anthropic-engineering-missteps-claude-code-performance-decline-user-backlash/",
-      "published_at": "2026-04-24T17:21:12+00:00",
-      "summary": "Claude Code turned Anthropic into developers’ most trusted AI platform. A month of degraded performance is now threatening the goodwill that fueled its $30 billion revenue run."
+      "title": "CIA agents who died in a car crash after Mexican drug lab raid weren’t allowed to participate in local operations, security ministry says",
+      "url": "https://fortune.com/2026/04/25/cia-agents-deaths-car-crash-mexican-drug-lab-raid/",
+      "published_at": "2026-04-25T23:40:46+00:00",
+      "summary": "A statement from Mexico’s Ministry of Security said one U.S. agent entered Mexico as a visitor while the other entered with a diplomatic passport."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Even as businesses spend $4 million to cross Panama Canal, they say ‘it’s safer and less expensive’ than the Strait of Hormuz",
-      "url": "https://fortune.com/2026/04/24/businesses-spend-millions-panama-canal-safer-strait-of-hormuz/",
-      "published_at": "2026-04-24T21:56:21+00:00",
-      "summary": "While passage through the canal usually comes at a flat rate via reservations, companies without bookings can pay more to cross through an auction that awards slots to the highest bidder. The alternative would be waiting for days off the coast of Panama City."
+      "title": "A Mark Cuban-backed AI startup is helping families turn conversations with their elderly relatives into lasting memories",
+      "url": "https://fortune.com/2026/04/25/mark-cuban-shark-tank-remento-saving-memories-elderly-relatives-ai-startups-kindred-tales/",
+      "published_at": "2026-04-25T22:19:15+00:00",
+      "summary": "“AI in our company is being used to get people to do things that they've always wanted to do but haven't been able to, and to make that experience as seamless and humanlike as possible.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Intel’s blowout quarter just sparked its best day since 1987",
-      "url": "https://fortune.com/2026/04/24/intel-blows-past-record-high-s-and-p-500/",
-      "published_at": "2026-04-24T21:55:15+00:00",
-      "summary": "Intel led the way and roared past its 2000 peak during the dot-com boom to an all-time high."
+      "title": "SpaceX, Anduril among companies to win Golden Dome contracts",
+      "url": "https://fortune.com/2026/04/25/spacex-anduril-lockheed-raytheon-northrop-golden-dome-interceptor-contracts/",
+      "published_at": "2026-04-25T21:44:15+00:00",
+      "summary": "The companies will be tasked with demonstrating a capability for space-based interceptors by 2028."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s own judge just sided against his asylum crackdown—White House blames ‘political lens’",
-      "url": "https://fortune.com/2026/04/24/trump-aslyum-immigration-crackdown-immigration-nationality-act-southern-border/",
-      "published_at": "2026-04-24T21:53:17+00:00",
-      "summary": "For Josue Martinez, a psychologist who works at a small migrant shelter in southern Mexico, the ruling marked a potential “light at the end of the tunnel.\""
+      "title": "Tim Cook built Apple into a $4 trillion company. Then his greatest strength became his biggest liability",
+      "url": "https://fortune.com/2026/04/25/leadership-tim-cook-apple-ceo-identity-leadership-outgrow-success/",
+      "published_at": "2026-04-25T13:30:00+00:00",
+      "summary": "The instincts that make a CEO great are often the same that eventually hold them back. Cook's departure is the most public example in corporate history."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Pirro drops Powell probe, handing Kevin Warsh a lifeline, though U.S. attorney vows to restart probe ‘should the facts warrant doing so’",
-      "url": "https://fortune.com/2026/04/24/doj-drops-powell-probe-trump-tom-tillis-senator-kevin-warsh-confirmation/",
-      "published_at": "2026-04-24T14:59:30+00:00",
-      "summary": "It’s unclear whether or not Powell will choose to stay on the board."
+      "title": "U.S. Air Force, Navy plan to boost F-35 fleet after record budget",
+      "url": "https://fortune.com/2026/04/25/us-air-force-navy-marine-corps-f35-fleet-record-defense-budget-lockheed-martin/",
+      "published_at": "2026-04-25T21:27:06+00:00",
+      "summary": "The planned F-35 purchases would be good news for Lockheed, with the total number of F-35s requested up to 85 jets from the 47 Congress approved for this year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Firing squads are back: Trump’s DOJ revives rarely used execution method once limited to five states",
-      "url": "https://fortune.com/2026/04/24/firing-squads-trump-revives-rare-execution-method/",
-      "published_at": "2026-04-24T21:35:02+00:00",
-      "summary": "The Justice Department is also reauthorizing the use of single-drug lethal injections."
+      "title": "Musk drops fraud claims against OpenAI, Altman ahead of trial",
+      "url": "https://fortune.com/2026/04/25/elon-musk-fraud-claims-openai-sam-altman-trial/",
+      "published_at": "2026-04-25T21:21:19+00:00",
+      "summary": "District Judge Yvonne Gonzalez Rogers on Friday agreed to Musk’s request to “streamline” the case."
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices.",
-      "url": "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors",
-      "published_at": "2026-04-24T21:34:21+00:00",
-      "summary": "<p>During <a href=\"https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/\">Operation Lunar Peek in November 2024</a>, attackers gained unauthenticated remote admin access — and eventual root — across more than <a href=\"https://censys.com/advisory/cve-2024-0012/\">13,000 exposed Palo Alto Ne"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+      "url": "https://36kr.com/p/3782960065108996?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在传统工厂里，流水线像是被固定在铁轨上的火车——高效但僵硬。这种“效率与柔性不可兼得”的痛点，正被一家中国公司用“磁悬浮”技术破解。</p>\n  <p>佛山市增广智能科技有限公司（下称“增广智能”）成立于2018年，总部位于佛山，是全球唯二、中国唯一掌握六自由度平面磁悬浮输送系统核心技术的企业。</p>\n  <p>“这个技术涉及面很广——通信、控制、操作系统、磁场仿真，每个点想做到完美很难。”公司创始人黄安杰回忆。经过5年研发，增广智能在2023年正式对外发布磁悬浮产品，并在随后的2年内成功实现大规模量产销售。</p>\n  <"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5",
-      "url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5",
-      "published_at": "2026-04-24T16:34:00+00:00",
-      "summary": "<p>The whale has resurfaced. </p><p>DeepSeek, the Chinese AI startup offshoot of High-Flyer Capital Management quantitative analysis firm, became a <a href=\"https://venturebeat.com/ai/why-everyone-in-ai-is-freaking-out-about-deepseek\">near-overnight sensation globally in January 2025</a> with the re"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+      "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "published_at": null,
+      "summary": "<p>4月25日，以“芯视野·新格局”为主题的润芯微战略与产品发布会在北京车展期间举行。作为行业稀缺的“芯片+操作系统+AI”全栈解决方案提供商，润芯微首次完整展示已打造的可应用于多端场景的“国产软硬一体AI智能基座”。本次发布会通过战略、技术、产品、生态的完整呈现，全面展现润芯微在多端智能领域的进展情况。从百万量产上车到openvela通过兼容性认证，从车载座舱到两轮车智能终端、机器人算力平台，体现润芯微“国产软硬一体AI智能基座”产品及解决方案的核心竞争力持续凸显。</p>\n  <p>&nbsp;当天活动上，润芯微正式发布“1+4+N”战略体系。该体系是以知芯·国产计算平台+知微·AIOS"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "85% of enterprises are running AI agents. Only 5% trust them enough to ship.",
-      "url": "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship",
-      "published_at": "2026-04-24T13:00:00+00:00",
-      "summary": "<p>Eighty-five percent of enterprises are running AI agent pilots, but only 5% have moved those agents into production. In an exclusive interview at <a href=\"https://www.cisco.com/site/us/en/learn/events/rsac.html\">RSA Conference 2026</a>, Cisco President and Chief Product Officer Jeetu Patel said t"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元",
+      "url": "https://36kr.com/p/3782437007039488?f=rss",
+      "published_at": null,
+      "summary": "<p>4月24日，2026北京国际汽车展览会在京正式开幕。京东汽车与深蓝汽车联合推出的国民好车2.0——深蓝L06增程版登陆深蓝汽车展台，以行业首创会员购车折扣、车展专属权益及越级产品实力，吸引更多汽车用户关注。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260426/v2_0e54c7c94ef44e418bfc934976759e9c@517825446_oswg1565166oswg1135oswg757_img_png?x-oss-process=image/quality,q_"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "published_at": "2026-04-24T21:40:58+00:00",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
+      "url": "https://36kr.com/p/3782434723355655?f=rss",
+      "published_at": null,
+      "summary": "<p>4月25日，在2026北京国际汽车展览会现场，京东汽车与212越野车宣布达成战略合作。京东汽车将作为线上独家渠道，销售212越野车首个越野生态系列METTA旗下全新车型——T01 METTA和T01 METTA巴丹吉林，新车上市指导价分别为18.99万元和21.99万元，京东PLUS会员购车更可享至高3000元购车补贴。同时，京东汽车还将联合越野e族发起“全民越野合伙人”招募计划，邀请合作伙伴共赢越野市场新机遇。即日起，在京东APP搜索“全民越野”，即可预订T01 METTA的全新车型。</p>\n  <p class=\"image-wrapper\"><img src=\"https://i"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "published_at": "2026-04-24T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This qu"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-      "published_at": "2026-04-24T09:00:00+00:00",
-      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。</p>\n  <p>2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。</p>\n  <p><strong>2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18"
     },
     {
       "source": "36氪",
@@ -218,46 +194,6 @@
       "url": "https://36kr.com/p/3780986341153798?f=rss",
       "published_at": null,
       "summary": "<p>建筑设计师陈敏的手机里有一份极其多元的“阅读清单”。清晨通勤的地铁上，她习惯戴上降噪耳机，在播客节目中了解行业前沿信息；午休时的餐厅里，她会利用等餐的碎片时间，快速翻阅手机上关注的几篇建筑美学推文。而在工作间隙，她喜欢走出办公室，在上海的街道上散步，观察那些历史建筑的肌理与城市空间的流动。对她而言，这同样是一种深度阅读。到了深夜临睡前，她又会回归那种更传统的体验，在平板电脑上追更一章连载网文。</p>\n  <p><strong>事实上，如今的阅读早已不是一种需要正襟危坐的特定仪式，而是像空气一样，自然地渗入了生活的每一处缝隙。</strong>这种“随时随地”的阅读状态，在研究数据中得到"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
-      "url": "https://36kr.com/p/3780910411193602?f=rss",
-      "published_at": null,
-      "summary": "<p>随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。</p>\n  <p>有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。</p>\n  <p>要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。</p>\n  <p>在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
-      "url": "https://36kr.com/p/3777694346548482?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3780641726897156\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>京东和格力推出空调换新全包服务</strong></a></p>\n  <p>36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。 据了解，京东与格力已合作多年，在去年双方合作安装空调量达数百万台。</p>\n  <p><a href=\"https://36kr.com/n"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起",
-      "url": "https://36kr.com/p/3780654186535941?f=rss",
-      "published_at": null,
-      "summary": "<p>4月23日，京东汽车与深蓝汽车联合推出的国民好车2.0车型——深蓝L06增程版正式公布售价，开启大定。京东汽车宣布京东PLUS会员购车可享95折，深蓝L06增程版叠加会员折扣后价格低至127155元起。这也是汽车行业首次开创平台会员直接享受整车价格折扣的新模式，标志着“电商+车企”合作模式迈向了新阶段，平台会员价值也从日常消费延伸到了涵盖购车、用车等更广阔链路。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260424/v2_04b4a6abff254467af9b92033ed2d"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
-      "url": "https://36kr.com/p/3780556402531330?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。</p>\n  <p>根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的��品辅助插件地位提升至业务底座高度。</p>\n  <p>微盟此次提出的“AI First”战略，核心覆盖了AI+SaaS、AI+营销、AI+出海及AI To C等方向。</p>\n  <p>在技"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-      "url": "https://36kr.com/p/3780375304312072?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜周鑫雨</p>\n  <p>资料整理｜钟楚笛</p>\n  <p>编辑｜苏建勋 杨轩</p>\n  <p>靴子终于落地。</p>\n  <p>被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。</p>\n  <p>1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260"
     }
   ]
 }

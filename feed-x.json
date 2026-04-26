@@ -1,6 +1,407 @@
 {
-  "updated_at": "2026-04-25T03:55:42.232308+00:00",
+  "updated_at": "2026-04-26T04:27:45.387470+00:00",
   "period_hours": 24,
-  "tweet_count": 0,
-  "tweets": []
+  "tweet_count": 50,
+  "tweets": [
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T13:02:57.000Z",
+      "text": "Edith and Shahed from Noora Health came to visit. They've saved over 75,000 lives so far. A small city of people. https://t.co/k9S2vtMUTE",
+      "url": "https://x.com/paulg/status/2048024967996993760"
+    },
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T12:32:40.000Z",
+      "text": "Whoah, self-driving cars compete with airlines. I never considered that till now. https://t.co/AOErOLme2a",
+      "url": "https://x.com/paulg/status/2048017345000415744"
+    },
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T07:44:30.000Z",
+      "text": "Hamming's talk is so important that I reproduced it on my site. It's one of the only things on my site written by someone else.\n\nhttps://t.co/kWvKdwIiOm https://t.co/FlIUz1PzkS",
+      "url": "https://x.com/paulg/status/2047944827887591681"
+    },
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T07:35:28.000Z",
+      "text": "Auction houses could fix this by giving you timegrapher numbers. But the only auction house that does this so far is a small Swiss one that specializes in watches (Ineichen). None of the big houses do.",
+      "url": "https://x.com/paulg/status/2047942555254288757"
+    },
+    {
+      "account": "@paulg",
+      "name": "Paul Graham",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T07:30:15.000Z",
+      "text": "The best way to buy art is at auction, once you know what you're doing. But old watches you should buy from dealers. You can get enough information about paintings to judge their condition, but you have no idea what's inside watches.",
+      "url": "https://x.com/paulg/status/2047941243234107691"
+    },
+    {
+      "account": "@sama",
+      "name": "Sam Altman",
+      "org": "OpenAI",
+      "created_at": "2026-04-25T22:20:08.000Z",
+      "text": "how can they write code so fast?! https://t.co/xjZACrnogB",
+      "url": "https://x.com/sama/status/2048165186482389253"
+    },
+    {
+      "account": "@sama",
+      "name": "Sam Altman",
+      "org": "OpenAI",
+      "created_at": "2026-04-25T22:01:18.000Z",
+      "text": "(and we will fix the former)",
+      "url": "https://x.com/sama/status/2048160448340767038"
+    },
+    {
+      "account": "@sama",
+      "name": "Sam Altman",
+      "org": "OpenAI",
+      "created_at": "2026-04-25T22:01:08.000Z",
+      "text": "we still get looksmaxxed on frontend a little but we IQmog hard now",
+      "url": "https://x.com/sama/status/2048160404376105179"
+    },
+    {
+      "account": "@sama",
+      "name": "Sam Altman",
+      "org": "OpenAI",
+      "created_at": "2026-04-25T15:31:08.000Z",
+      "text": "5.5 is so earnest\n\n\"little engine that could\" energy",
+      "url": "https://x.com/sama/status/2048062261584077149"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-26T02:04:57.000Z",
+      "text": "When something becomes abundant and cheap, someone else becomes scarce and valuable. https://t.co/tsKkuyq4ML",
+      "url": "https://x.com/pmarca/status/2048221762991910974"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-26T00:48:54.000Z",
+      "text": "👀 https://t.co/yD1UKdfqje",
+      "url": "https://x.com/pmarca/status/2048202624940556488"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-26T00:46:23.000Z",
+      "text": "\"I'm asked one question more than any other, at speeches, dinners, conversation. Most popular podcast question. Should I have kids, given the climate crisis they will face, knowing they will contribute to the climate crisis the world faces?\" https://t.co/uqqLT7vmBU",
+      "url": "https://x.com/pmarca/status/2048201994410885171"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-25T23:34:38.000Z",
+      "text": "👀 https://t.co/u1pvnCZSQ4",
+      "url": "https://x.com/pmarca/status/2048183938292838533"
+    },
+    {
+      "account": "@pmarca",
+      "name": "Marc Andreessen",
+      "org": "a16z",
+      "created_at": "2026-04-25T23:31:46.000Z",
+      "text": "👀 https://t.co/hhT88TV7sM",
+      "url": "https://x.com/pmarca/status/2048183213588369523"
+    },
+    {
+      "account": "@chamath",
+      "name": "Chamath Palihapitiya",
+      "org": "Social Capital",
+      "created_at": "2026-04-25T20:23:45.000Z",
+      "text": "Probable. https://t.co/32aTzzc4Oq",
+      "url": "https://x.com/chamath/status/2048135899142295637"
+    },
+    {
+      "account": "@chamath",
+      "name": "Chamath Palihapitiya",
+      "org": "Social Capital",
+      "created_at": "2026-04-25T20:22:54.000Z",
+      "text": "On page twenty-six of “The Billionaire Tax” proposal in California, it explains how the state legislature can convert from a Billionaire Tax to an Everyone Tax without voter approval. \n\nThey can also adjust the tax to be a yearly tax, not just one time…again, without your https://t.co/NhoFQZqWSV",
+      "url": "https://x.com/chamath/status/2048135686541492599"
+    },
+    {
+      "account": "@chamath",
+      "name": "Chamath Palihapitiya",
+      "org": "Social Capital",
+      "created_at": "2026-04-25T18:57:11.000Z",
+      "text": "The Billionaire Tax is actually an Everyone Tax.\n\nThe Billionaire Tax is a new tax proposal written by four professors who don't believe in the American dream. Some of them aren’t even American…go figure. \n\nDespite its name, it applies to every California resident who currently",
+      "url": "https://x.com/chamath/status/2048114115001143679"
+    },
+    {
+      "account": "@chamath",
+      "name": "Chamath Palihapitiya",
+      "org": "Social Capital",
+      "created_at": "2026-04-25T14:50:54.000Z",
+      "text": "Agreed. https://t.co/Hhw3zgYTdQ",
+      "url": "https://x.com/chamath/status/2048052134298714309"
+    },
+    {
+      "account": "@chamath",
+      "name": "Chamath Palihapitiya",
+      "org": "Social Capital",
+      "created_at": "2026-04-25T04:45:01.000Z",
+      "text": "Pod!!!! https://t.co/kipf2OowQm",
+      "url": "https://x.com/chamath/status/2047899657003827597"
+    },
+    {
+      "account": "@jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
+      "created_at": "2026-04-26T03:57:07.000Z",
+      "text": "The left has a serious violence problem, which @DavidSacks called out early and often. \n\nThis generation of woke democratic socialists are morally bankrupt. \n\nThey believe in looting and violence as a political tool — and they’re vocal about it. \n\nIf you called out the violent",
+      "url": "https://x.com/jason/status/2048249992163242220"
+    },
+    {
+      "account": "@jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
+      "created_at": "2026-04-26T03:46:17.000Z",
+      "text": "If you’re not condemning these lunatics, you’re advocating for the end of the American empire. \n\nI’m not for canceling people, but the fact the @nytimes and @newyorker not only employees these individuals, but selects them to represent their brands, shows exactly how bankrupt https://t.co/0xfDibXcEj",
+      "url": "https://x.com/jason/status/2048247267182658004"
+    },
+    {
+      "account": "@jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
+      "created_at": "2026-04-26T03:40:08.000Z",
+      "text": "Heroes 🫡 https://t.co/PzzObljg1r",
+      "url": "https://x.com/jason/status/2048245718171648271"
+    },
+    {
+      "account": "@jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
+      "created_at": "2026-04-25T21:25:29.000Z",
+      "text": "https://t.co/21kSMfRvmO",
+      "url": "https://x.com/jason/status/2048151434928017429"
+    },
+    {
+      "account": "@jason",
+      "name": "Jason Calacanis",
+      "org": "LAUNCH",
+      "created_at": "2026-04-25T19:06:45.000Z",
+      "text": "nightmare blunt rotation https://t.co/w0irBiacvO",
+      "url": "https://x.com/jason/status/2048116521436590260"
+    },
+    {
+      "account": "@msuster",
+      "name": "Mark Suster",
+      "org": "Upfront Ventures",
+      "created_at": "2026-04-25T14:53:48.000Z",
+      "text": "This is the way of @StubHub and why I always use @Ticketmaster when I can. \n\nBeen here before. StubHub will not help. https://t.co/1Bu9KH4XkJ",
+      "url": "https://x.com/msuster/status/2048052864787071340"
+    },
+    {
+      "account": "@eladgil",
+      "name": "Elad Gil",
+      "org": "Independent",
+      "created_at": "2026-04-26T02:40:47.000Z",
+      "text": "Saturday song\n\nhttps://t.co/klzQcQWIvG",
+      "url": "https://x.com/eladgil/status/2048230781739581745"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-26T02:57:11.000Z",
+      "text": "Indeed it will https://t.co/hXC1n6HxxI",
+      "url": "https://x.com/elonmusk/status/2048234907965526306"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-25T14:00:06.000Z",
+      "text": "https://t.co/BpmIpYrzqR",
+      "url": "https://x.com/elonmusk/status/2048039351863406736"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-25T13:42:58.000Z",
+      "text": "Exactly https://t.co/ibmJtP8rtW",
+      "url": "https://x.com/elonmusk/status/2048035037057048824"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-25T12:27:52.000Z",
+      "text": "https://t.co/CHhHyQSxjR",
+      "url": "https://x.com/elonmusk/status/2048016137695138021"
+    },
+    {
+      "account": "@elonmusk",
+      "name": "Elon Musk",
+      "org": "Tesla / SpaceX / xAI",
+      "created_at": "2026-04-25T12:10:30.000Z",
+      "text": "Checkmate, assholes",
+      "url": "https://x.com/elonmusk/status/2048011769377919082"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-26T03:40:34.000Z",
+      "text": "I’m safe. It was a crazy night. https://t.co/BnQgTHOOmR",
+      "url": "https://x.com/garrytan/status/2048245828498657479"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T23:27:36.000Z",
+      "text": "Are people trying to clout chase this post?\n\nYeah but it’s fine it doesn’t change the facts https://t.co/ynXyOF98xf",
+      "url": "https://x.com/garrytan/status/2048182167352590786"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T19:26:17.000Z",
+      "text": "GBrain v0.21 now adds code graph support to our existing retrieval for non-code: graph, vector, hybrid RRF, and of course grep\n\nI'm working on revisions to GStack to support this code graph AND incorporate memory and dreaming from your code sessions into your GBrain instance https://t.co/VIAJeymotJ",
+      "url": "https://x.com/garrytan/status/2048121438914154664"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T19:14:57.000Z",
+      "text": "A bunch of people are starting to dunk on this as if us releasing this were bad. If you're 18 and a brilliant engineer, you aren't born with this. This is 101, basic knowledge.\n\nAnd is it complicated? Yes Accounting you could spend a lifetime learning! Hard to distill to 1 page.",
+      "url": "https://x.com/garrytan/status/2048118584438595665"
+    },
+    {
+      "account": "@garrytan",
+      "name": "Garry Tan",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T18:54:16.000Z",
+      "text": "GStack v1.13 shipped - simple feature, I'm spending a lot more time using GPT-5.5 with Conductor and so I realized I sometimes wanted to get Opus 4.7's take on a change before I kept going. Cross-modal synthesis is something I find myself relying on more and more. https://t.co/r5P6IkBfoK",
+      "url": "https://x.com/garrytan/status/2048113377990303762"
+    },
+    {
+      "account": "@andrewchen",
+      "name": "Andrew Chen",
+      "org": "a16z",
+      "created_at": "2026-04-25T21:17:37.000Z",
+      "text": "the first 100 users teach you more than your next 10,000\n\nThe former is about PMF, the latter is GTM. And of course you can learn a ton about GTM, but it's a more tractable problem particularly b2b",
+      "url": "https://x.com/andrewchen/status/2048149453832655174"
+    },
+    {
+      "account": "@andrewchen",
+      "name": "Andrew Chen",
+      "org": "a16z",
+      "created_at": "2026-04-25T04:34:42.000Z",
+      "text": "gonna be weird to watch AI streamers play video games that don’t exist - just AI generated streams willed into existence\n\nand then these streams will get so popular they game devs will actually then build the games https://t.co/L4qHL2lhEf",
+      "url": "https://x.com/andrewchen/status/2047897061543256159"
+    },
+    {
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
+      "created_at": "2026-04-26T00:11:10.000Z",
+      "text": "The replies are interesting https://t.co/Be3FXz7zCb",
+      "url": "https://x.com/gregisenberg/status/2048193131976237400"
+    },
+    {
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
+      "created_at": "2026-04-25T19:51:17.000Z",
+      "text": "What are the best businesses to be in a post-AGI world?",
+      "url": "https://x.com/gregisenberg/status/2048127728742805834"
+    },
+    {
+      "account": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "org": "Late Checkout",
+      "created_at": "2026-04-25T18:23:27.000Z",
+      "text": "startup idea for you \n\nuse postiz (20k+ github stars project) to sell AI social media content/management to 1 niche of SMBs.\n\nwhat's postiz? it's an open source social media scheduler with AI built in. basically buffer + AI and free to download. \n\n1. self-host postiz. use https://t.co/cbGz7nc6nl",
+      "url": "https://x.com/gregisenberg/status/2048105623846350977"
+    },
+    {
+      "account": "@venturetwins",
+      "name": "Venture Twins",
+      "org": "Angel",
+      "created_at": "2026-04-25T22:35:59.000Z",
+      "text": "Welcoming new life into the world https://t.co/NautJ3Ls7I",
+      "url": "https://x.com/venturetwins/status/2048169174632169932"
+    },
+    {
+      "account": "@venturetwins",
+      "name": "Venture Twins",
+      "org": "Angel",
+      "created_at": "2026-04-25T17:13:20.000Z",
+      "text": "Tested out the new Grok Imagine video model ✨\n\nThe speech, sound, and lip sync upgrades are really impressive. \n\nIt works with lots of face angles, multiple speakers, pets - and the prompt adherence is quite strong.\n\nA few clips I generated this morning (all one shots) 👇 https://t.co/XVcRjQyEsB https://t.co/7oq7hRzGZ7",
+      "url": "https://x.com/venturetwins/status/2048087980913648120"
+    },
+    {
+      "account": "@hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "created_at": "2026-04-25T23:36:44.000Z",
+      "text": "I use Slack too much with AI not to think about this.",
+      "url": "https://x.com/hnshah/status/2048184466074693715"
+    },
+    {
+      "account": "@hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "created_at": "2026-04-25T19:54:55.000Z",
+      "text": "If Slack were built from the ground up today, what would it be like?",
+      "url": "https://x.com/hnshah/status/2048128643575210129"
+    },
+    {
+      "account": "@hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "created_at": "2026-04-25T17:30:13.000Z",
+      "text": "If you don’t use the best available technology to serve customers better, someone else will. That is the oldest law in business. The only thing that changes is how long customers have to wait for a better option. Right now, that wait is getting shorter.",
+      "url": "https://x.com/hnshah/status/2048092227587694726"
+    },
+    {
+      "account": "@hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "created_at": "2026-04-25T16:20:39.000Z",
+      "text": "This gets at something I see all the time.\n\nExperience only stays valuable when it keeps updating.\n\nAI lowers the cost of trying, learning, and changing your mind. That makes stale judgment easier to spot.\n\nThe most effective operators treat experience like a living system. It https://t.co/47YJPL2Nxn",
+      "url": "https://x.com/hnshah/status/2048074721267527835"
+    },
+    {
+      "account": "@hnshah",
+      "name": "Hiten Shah",
+      "org": "Independent",
+      "created_at": "2026-04-25T05:54:41.000Z",
+      "text": "Redesigning your company is the new role of a founder.",
+      "url": "https://x.com/hnshah/status/2047917191610478784"
+    },
+    {
+      "account": "@ycombinator",
+      "name": "Y Combinator",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T16:27:57.000Z",
+      "text": "Tune in: https://t.co/41mzUkmkhg https://t.co/Nsyjf6ZQ3t",
+      "url": "https://x.com/ycombinator/status/2048076556736872657"
+    },
+    {
+      "account": "@ycombinator",
+      "name": "Y Combinator",
+      "org": "Y Combinator",
+      "created_at": "2026-04-25T16:27:56.000Z",
+      "text": "Replit is the leading no-code app builder for consumers and enterprise, letting anyone with an idea build real, deployed software using natural language. The company just raised a $400 million Series D at a $9 billion valuation.\n\nIn this episode of Founder Firesides, co-founder https://t.co/tH1l7XKQ3o",
+      "url": "https://x.com/ycombinator/status/2048076553196892171"
+    }
+  ]
 }

@@ -1,199 +1,279 @@
 {
-  "updated_at": "2026-04-27T04:35:40.839148+00:00",
+  "updated_at": "2026-04-28T04:39:14.801426+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 34,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Truecaller faces mounting pressures as its growth matures",
-      "url": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
-      "published_at": "2026-04-27T03:00:00+00:00",
-      "summary": "As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India."
+      "title": "India’s Snabbit closes $56M round as investor interest in on-demand home services heats up",
+      "url": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
+      "published_at": "2026-04-28T03:30:00+00:00",
+      "summary": "Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
-      "url": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
-      "published_at": "2026-04-26T22:00:46+00:00",
-      "summary": "Can a book like this actually change anything? Or does the spotlight, as it always seems to, send more students racing to the place?"
+      "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
+      "url": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
+      "published_at": "2026-04-27T20:37:49+00:00",
+      "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon’s new podcast strategy: Monetize everything",
-      "url": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
-      "published_at": "2026-04-26T21:38:08+00:00",
-      "summary": "Amazon's podcasting business seems to have transformed over the past six months."
+      "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
+      "url": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
+      "published_at": "2026-04-27T19:09:53+00:00",
+      "summary": "The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to contact consumers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What Tim Cook built",
-      "url": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
-      "published_at": "2026-04-26T20:22:51+00:00",
-      "summary": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing."
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "published_at": "2026-04-27T17:40:38+00:00",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Elon’s admission",
-      "url": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
-      "published_at": "2026-04-26T16:03:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "published_at": "2026-04-27T17:24:21+00:00",
+      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "published_at": "2026-04-26T15:30:00+00:00",
-      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+      "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
+      "url": "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/",
+      "published_at": "2026-04-27T17:07:06+00:00",
+      "summary": "Xu Zewei is accused of participating in a Chinese government hacking group that broke into thousands of U.S. organizations and stole COVID-19-related research."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpeakOn’s dictation device is a good idea marred by platform limitations",
-      "url": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
-      "published_at": "2026-04-26T15:00:00+00:00",
-      "summary": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps"
+      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "published_at": "2026-04-27T16:13:02+00:00",
+      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Data center demand drives 66% surge in natural gas power plant costs",
+      "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
+      "published_at": "2026-04-27T15:27:52+00:00",
+      "summary": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Exclusive: Goldman Sachs Leads $60M Series C For Personal Loan Fintech Kashable",
+      "url": "https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/",
+      "published_at": "2026-04-27T12:00:42+00:00",
+      "summary": "Kashable, a fintech that provides access to “socially responsible” credit and financial wellness programs for employees as a voluntary benefit, has secured $60 million in a Series C funding round led by Goldman Sachs Alternatives’ Sustainable Investing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The ‘obscene economics’ of modern warfare show how the race to military supremacy is transforming, while U.S. rearmament relies on China",
-      "url": "https://fortune.com/2026/04/26/obscene-economics-warfare-iran-war-ukraine-military-supremacy-us-china/",
-      "published_at": "2026-04-26T22:48:28+00:00",
-      "summary": "\"This imbalance has haunted Western military planners since the early days of Russia's invasion of Ukraine.\""
+      "title": "You should pick your credit card perks like Warren Buffett picks his stocks, TD Bank exec says",
+      "url": "https://fortune.com/2026/04/27/credit-card-warren-buffett-picks-stocks/",
+      "published_at": "2026-04-27T20:15:31+00:00",
+      "summary": "The billionaire’s philosophy for preaching the ways of compound interest might also apply to how many credit cards you have in your wallet."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "DOJ uses White House correspondents’ dinner shooting to pressure preservations to drop lawsuit over Trump’s $400 million ballroom",
-      "url": "https://fortune.com/2026/04/26/justice-department-white-house-correspondents-dinner-shooting-preservations-lawsuit-trump-ballroom/",
-      "published_at": "2026-04-26T23:35:39+00:00",
-      "summary": "Assistant Attorney General Brett Shumate gave the National Trust for Historic Preservation, which has sued to block construction, until 9 a.m. Monday to dismiss its lawsuit."
+      "title": "Bitcoin drives back toward $80K—but one billionaire may be fueling much of the rally",
+      "url": "https://fortune.com/2026/04/27/bitcoin-80k-rally-michael-saylor-strategy/",
+      "published_at": "2026-04-27T18:32:13+00:00",
+      "summary": "Michael Saylor’s Strategy purchased $7.7 billion in Bitcoin in March and April."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The White House correspondents’ dinner shooting suspect apparently traveled by train with guns. ‘This isn’t about, in my mind, changing the law’",
-      "url": "https://fortune.com/2026/04/26/white-house-correspondents-dinner-shooting-suspect-train-security-guns-amtrak-screening/",
-      "published_at": "2026-04-26T19:06:31+00:00",
-      "summary": "\"I don't think that's something that we should be focused on right now in any way, shape or form,\" acting Attorney General Todd Blanche said."
+      "title": "Musk vs. Altman: Burning Man, a ‘diary,’ and a trial almost no one thinks Musk can win",
+      "url": "https://fortune.com/2026/04/27/sam-altman-elon-musk-trial-burning-man-nonprofit-status-fraud/",
+      "published_at": "2026-04-27T19:55:48+00:00",
+      "summary": "The lawsuit is a long shot for Elon Musk, nonprofit legal expert Sam Brunson warns."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "John Ternus, Apple’s new CEO, inherits a rebounding China business—and some messy headaches",
-      "url": "https://fortune.com/2026/04/26/john-ternus-tim-cook-apple-china-iphone-ai/",
-      "published_at": "2026-04-26T21:00:00+00:00",
-      "summary": "Ternus must navigate a protectionist Washington, a prickly Beijing and a Chinese consumer less interested in foreign brands."
+      "title": "White House to evaluate event security protocols after third shooting attempt against Trump",
+      "url": "https://fortune.com/2026/04/27/white-house-to-evaluate-event-security-protocols-after-third-shooting-attempt-against-trump/",
+      "published_at": "2026-04-27T17:57:27+00:00",
+      "summary": "White House chief of staff Susie Wiles will hold a meeting this week with officials from the White House operations team, the Secret Service and the Department of Homeland Security to discuss security protocol at events with the president, according to a senior White House official."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Chevron CEO says Venezuela must do more for oil industry revival",
-      "url": "https://fortune.com/2026/04/26/chevron-ceo-mike-wirth-venezuela-oil-industry-revival-production-workforce-investment/",
-      "published_at": "2026-04-26T20:43:18+00:00",
-      "summary": "He said Venezuela’s diminished oil workforce, with many skilled workers lost to emigration, makes any large-scale industry recovery dependent on whether expatriates return."
+      "title": "Toxic chemicals are raising infertility in humans, fish, birds, and insects: ‘A whisper that is powerful enough to redirect a hurricane’",
+      "url": "https://fortune.com/2026/04/27/toxic-chemicals-and-climate-change-raising-infertility-in-animals/",
+      "published_at": "2026-04-27T17:29:32+00:00",
+      "summary": "Combined with rising temperatures, chemical pollutants are obliterating animals’ chances of successfully reproducing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Another attack at ‘Hinckley Hilton’ raises new security concerns",
-      "url": "https://fortune.com/2026/04/26/hinckley-hilton-security-concerns-ronald-reagan-white-house-correspondents-dinner-shooting/",
-      "published_at": "2026-04-26T20:33:44+00:00",
-      "summary": "The Hilton is already infamous in Washington as the site where then-President Ronald Reagan was shot by gunman John Hinckley Jr. outside the hotel doors."
+      "title": "As Spirit Airlines looks for a lifeline, Frontier and Avelo are asking the Trump administration for $2.5 billion to cover jet fuel costs",
+      "url": "https://fortune.com/2026/04/27/frontier-avelo-request-trump-billions-jet-fuel-spirit-airlines/",
+      "published_at": "2026-04-27T17:24:13+00:00",
+      "summary": "In a meeting with Transportation Secretary Sean Duffy and Federal Aviation Administration chief Bryan Bedford, the airlines discussed a plan to stay afloat."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Sergey Brin confronted Gavin Newsom at a treehouse party — then launched a political war",
-      "url": "https://fortune.com/2026/04/26/california-billionaire-tax-ballot-measure-sergey-brin-gavin-newsom-political-war/",
-      "published_at": "2026-04-26T20:23:21+00:00",
-      "summary": "Brin has spent more than $58 million in the last four months, but more importantly has helped mobilize a network of fellow tech titans in a push to sway state issues."
+      "title": "Reed Hastings says AI will drive a return to humanities: ‘I’d be doubling down on emotional skills’",
+      "url": "https://fortune.com/2026/04/27/reed-hastings-netflix-chairman-emotional-skills-ai-revolution/",
+      "published_at": "2026-04-27T16:55:34+00:00",
+      "summary": "Reed Hastings donated $50 million to his alma mater Bowdoin College to fund a program integrating AI and the humanities."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After the gunshots, JD Vance was first to be pulled off stage, then Trump and the first lady. Someone started a ‘U.S.A.’ chant but was shushed",
-      "url": "https://fortune.com/2026/04/26/secret-service-security-jd-vance-trump-first-lady-correspondents-dinner-shooting/",
-      "published_at": "2026-04-26T19:21:08+00:00",
-      "summary": "Erika Kirk, widow of assassinated conservative activist Charlie Kirk, was seen in tears as she was escorted from the ballroom."
+      "title": "Salesforce CEO Marc Benioff says AI won’t kill entry-level jobs. He’s hiring 1,000 new grads to prove it",
+      "url": "https://fortune.com/2026/04/27/salesforce-ceo-marc-benioff-hiring-1000-new-grads-ai-jobs/",
+      "published_at": "2026-04-27T16:05:09+00:00",
+      "summary": "The billionaire said the SaaS giant would hire recent grads to help build its AI platforms."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Monitoring LLM behavior: Drift, retries, and refusal patterns",
-      "url": "https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns",
-      "published_at": "2026-04-26T15:13:54+00:00",
-      "summary": "<h2>The stochastic challenge</h2><p>Traditional software is predictable: Input A plus function B always equals output C. This determinism allows engineers to develop robust tests. On the other hand, generative AI is stochastic and unpredictable. The exact same prompt often yields different results o"
+      "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
+      "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
+      "published_at": "2026-04-27T22:27:00+00:00",
+      "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft</a> and <a href=\"https://openai.com/\">OpenAI</a> on Monday announced a sweeping overhaul of the <a href=\"https://openai.com/index/next-phase-of-microsoft-partnership/\">partnership</a> that has defined the commercial AI era, dismantling key pilla"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks",
+      "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
+      "published_at": "2026-04-27T21:45:49+00:00",
+      "summary": "<p>Xiaomi, the Chinese firm best known for its smartphones and electric vehicles, has lately been shipping some incredibly affordable and high-powered open source AI large language models.</p><p>The trend continued today with the <a href=\"https://x.com/xiaomimimo/status/2048821516079661561?s=46\">rel"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "New AI framework autonomously optimizes training data, architectures and algorithms — outperforming human baselines",
+      "url": "https://venturebeat.com/orchestration/new-ai-framework-autonomously-optimizes-training-data-architectures-and-algorithms-outperforming-human-baselines",
+      "published_at": "2026-04-27T15:56:59+00:00",
+      "summary": "<p>AI R&amp;D runs on a cycle of hypothesis, experiment, and analysis — each step demanding substantial manual engineering effort. A new framework from researchers at SII-GAIR aims to close that bottleneck by automating the full optimization loop for training data, model architectures, and learning"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Why supply chains are the proving ground for automation‑led iPaaS",
+      "url": "https://venturebeat.com/orchestration/why-supply-chains-are-the-proving-ground-for-automation-led-ipaas",
+      "published_at": "2026-04-27T14:39:15+00:00",
+      "summary": "<p><i>Presented by Edgeverve</i></p><hr /><p>Supply chains are where legacy integration models reach their limits. As partner networks expand and operational volatility increases, traditional middleware is buckling under costs and complexity. That’s why supply chain has emerged as a proving ground f"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk",
+      "url": "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk",
+      "published_at": "2026-04-27T13:00:00+00:00",
+      "summary": "<p>Enterprise teams that fine-tune their RAG embedding models for better precision may be unintentionally degrading the retrieval quality those pipelines depend on, according to new research from Redis.</p><p>The paper, &quot;Training for Compositional Sensitivity Reduces Dense Retrieval Generalizat"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "published_at": "2026-04-27T22:52:57+00:00",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The missing step between hype and profit",
+      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "published_at": "2026-04-27T16:13:41+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Rebuilding the data stack for AI",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "published_at": "2026-04-27T13:00:00+00:00",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "published_at": "2026-04-27T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Nota"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "12款产品入选，2026春季「焦点」产品计划重磅发布",
-      "url": "https://36kr.com/p/3784491394784519?f=rss",
+      "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
+      "url": "https://36kr.com/p/3785955616152839?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260427/v2_91c1af849aa6449ca4fe893040a42664@5679941_oswg424392oswg902oswg2577_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>【点音Divoom桌搭全家桶评测视频】</p>\n  <p class=\"loading-entity\">&amp;amp;amp;nbsp;</p>\n  <p class=\"ima"
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。</p>\n  <p>昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。</p>\n  <p>昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
-      "url": "https://36kr.com/p/3783828639571203?f=rss",
+      "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
+      "url": "https://36kr.com/p/3785730095127817?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪&nbsp;</p>\n  <p>编辑丨袁斯来</p>\n  <p>2025年黑五，美国游戏主机市场有些不同寻常。</p>\n  <p>根据追踪美国游戏主机与软件销售的Circana统计数据，在黑色星期五当周，PS5以47%的市场份额领跑，任天堂Switch2占据24%，而一款名为Nex Playground的体感游戏机，则以14%的市占率冲上第三名——将Xbox挤出了前三位置。</p>\n  <p>当游戏主机市场固化多年后，没人想到还会有年轻公司杀出重围。</p>\n  <p>更让人意外的是，这家公司诞生于香港。其创始人李景辉（David Lee）曾在苹果工作8年，2017年离职创立了"
+      "summary": "<h2>TOP3大新闻</h2>\n  <p>DeepSeek 输入缓存降价</p>\n  <p>多家美国廉价航空公司寻求政府资金纾困</p>\n  <p>东方甄选回应大量用户申请退会员</p>\n  <p>穿西装开空调太费电，日本东京鼓励公务员穿短裤</p>\n  <p>印度移动支付平台MobiKwik获央行批准</p>\n  <h2>TOP3大事件</h2>\n  <p><strong>国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定</strong></p>\n  <p>据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
-      "url": "https://36kr.com/p/3783824870317312?f=rss",
+      "title": "用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发",
+      "url": "https://36kr.com/p/3784697499786503?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在具身智能行业普遍沉迷双足人形和仿真训练的当下，有一家公司选择了一条不太一样的路径：聚焦仓储物流场景，用“轮式底盘+双臂”死磕占人力成本60%的“拿放”动作。这是一家由中科南京软件技术研究院孵化出来的具身智能企业——智往未来。</p>\n  <p>智往未来2025年11月成立于南京，创始人孙浚凯曾在地平线担任智能座舱产品线总经理，推动百万终端量产，具备从0到1的产品设计与量产经验。公司早期以“具身智能课题组”在中科系旗下孵化两年，2025年底独立注册。</p>\n  <p>具身智能在真实环境中的泛化难题，核心在于Sim2Real鸿"
+      "summary": "<p>近期，数字科技文娱公司星迹互动完成了数千万元的天使轮融资。本轮投资方包括正大集团、北京大融文化传媒、禹牧智能以及麦迈科技等。36氪获悉，此次融资将主要用于公司人员规模的扩张、产能拉升以及平台建设。</p>\n  <p>星迹互动于2025年成立，以AI为核心驱动力，专注于精品IP的开发与运营。具体来讲，公司的业务包括新老IP的开发与运营、漫剧的承制与出海、儿童原创动画孵化，以及数字人IP与虚拟偶像的打造。</p>\n  <p>公司创始人张文广是连续创业者，曾是二更联合创始人、微梦传媒高级副总裁，在品牌传播领域积累了丰富的经验。</p>\n  <p>资方北京大融文化传媒CEO曹柏松如此评价张文广和"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
-      "url": "https://36kr.com/p/3784365164322055?f=rss",
+      "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
+      "url": "https://36kr.com/p/3784480103455748?f=rss",
       "published_at": null,
-      "summary": "<p><strong>文｜邱晓芬</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>2026年，全球的具身智能机器人创业者不约而同将目光方向调转向深水区：家庭。</p>\n  <p>点燃这份热情的，是近期行业里闪烁着的一丝丝Scaling Law苗头——</p>\n  <p>先是硅谷具身智能公司Generalist AI在GEN-1模型上验证了确定性，当他们给机器人喂进海量数据后，精细操作任务成功率竟从64%提升到了惊人的99%；</p>\n  <p>随后，硅谷当红的具身智能独角兽公司Sunday Robotics也试图解决家庭场景数据难关，不仅推"
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。</p>\n  <p>去年底，寻明生科就曾获得一笔数千万美元的<a href=\"https://36kr.com/p/3532832224516994\" rel=\"noopener noreferrer\" target=\"_blank\">A轮融资</a>。截至目前，公司A轮次融资的累计金额已接近1亿美元。</p>\n  <p>寻明生科"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
-      "url": "https://36kr.com/p/3784311487945735?f=rss",
+      "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
+      "url": "https://36kr.com/p/3784806758243587?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>美国白宫记者晚宴大厅发生枪击事件</p>\n  <p>王传福夫妇坐地铁参加北京车展被偶遇</p>\n  <p>DeepSeekV4成OpenClaw默认模型</p>\n  <p>2025年全国大型演唱会票房295.58亿</p>\n  <p>OpenAI首席执行官就未通报枪击案嫌疑人道歉</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>豆包提前查到2026山东事业编成绩？最新回应</strong></p>\n  <p>4月23日晚间，有网友发帖称，“豆包查到2026山东事业编成绩了”，并附上一张成绩单，但成绩部分涂掉了。“不过好像只有济南"
+      "summary": "<p>在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。</p>\n  <p>爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，传统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算业务的收入占比较低，仇肖莘预计未来三年内，这一局面将被改写。</p>\n  <p>仇肖莘对M97的性能表现颇为信心，她表示：“当前主流高阶辅"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
-      "url": "https://36kr.com/p/3783249100397570?f=rss",
+      "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
+      "url": "https://36kr.com/p/3784879395134465?f=rss",
       "published_at": null,
-      "summary": "<p>欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官。本届赛事聚焦奢华香氛领域，中国赛区吸引超72000人报名，经多轮选拔后六支队伍进入总决赛。最终，UNIBLOCK、SOS和Move with Scent三支队伍分获冠亚季军，将代表中国赛区赴巴黎参加全球总决赛。</p>\n  <p>BRANDSTORM大赛已举办34年，覆盖全球40多个国家和地区，累计参与人数超37万。中国赛区自2003年启动以来，累计参与人数已超过7万。</p>\n  <p>今年赛事与欧莱雅高档化妆品部合作，赛程持续六个多月，参赛者可获取欧莱雅业务专家提供的市场数据和品牌案例。<str"
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。</p>\n  <p>在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与全球化布局的一次系统验证。从2021年发布第一款无边界智能割草机器人，到2026年累计量产突破100万台，未岚大陆的路径勾勒了一家中国庭院机器人公司的崛起曲线。</p>\n  <p class=\"image-wrap"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-      "url": "https://36kr.com/p/3782960065108996?f=rss",
+      "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
+      "url": "https://36kr.com/p/3784957482523648?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在传统工厂里，流水线像是被固定在铁轨上的火车——高效但僵硬。这种“效率与柔性不可兼得”的痛点，正被一家中国公司用“磁悬浮”技术破解。</p>\n  <p>佛山市增广智能科技有限公司（下称“增广智能”）成立于2018年，总部位于佛山，是全球唯二、中国唯一掌握六自由度平面磁悬浮输送系统核心技术的企业。</p>\n  <p>“这个技术涉及面很广——通信、控制、操作系统、磁场仿真，每个点想做到完美很难。”公司创始人黄安杰回忆。经过5年研发，增广智能在2023年正式对外发布磁悬浮产品，并在随后的2年内成功实现大规模量产销售。</p>\n  <"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3784924206750979\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>谷歌将在韩国新建人工智能园区，韩国总统府证实</strong></a></p>\n  <p>韩国总统政策顾问金龙范于周一表示，韩国政府与谷歌达成协议，将在首尔共建一座人工智能园区，深化谷歌与韩国本土技术人才、初创企业的合作。金龙范介绍，韩国总统李在明当日在首尔会见了谷歌深度思维（DeepMind）首席执行官德米斯・哈"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-      "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "title": "告别屏幕沉迷，小红书把年轻人「赶出门」",
+      "url": "https://36kr.com/p/3784867361381633?f=rss",
       "published_at": null,
-      "summary": "<p>4月25日，以“芯视野·新格局”为主题的润芯微战略与产品发布会在北京车展期间举行。作为行业稀缺的“芯片+操作系统+AI”全栈解决方案提供商，润芯微首次完整展示已打造的可应用于多端场景的“国产软硬一体AI智能基座”。本次发布会通过战略、技术、产品、生态的完整呈现，全面展现润芯微在多端智能领域的进展情况。从百万量产上车到openvela通过兼容性认证，从车载座舱到两轮车智能终端、机器人算力平台，体现润芯微“国产软硬一体AI智能基座”产品及解决方案的核心竞争力持续凸显。</p>\n  <p>&nbsp;当天活动上，润芯微正式发布“1+4+N”战略体系。该体系是以知芯·国产计算平台+知微·AIOS"
+      "summary": "<h4><strong>撰文｜锅包柚</strong></h4>\n  <h4><strong>封面来源｜Unsplash&nbsp;</strong></h4>\n  <h2><strong>年轻人，开始在小红书上“找颜色”</strong></h2>\n  <p>前些日子，我刷到了或许是这个春天最有生命力的一组照片。</p>\n  <p>小红书博主 @里维斯 Lewis做了一次奇妙的尝试，把相机交给了一对清晨劳作的环卫阿姨和叔叔，邀请他们开启了一场属于自己的colorwalk。</p>\n  <p><strong>他们不懂构图的镜头，却捕捉到了春天最容易被忽略的角落</strong>——那些被风摇落"
     }
   ]
 }

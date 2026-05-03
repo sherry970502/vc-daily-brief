@@ -1,247 +1,175 @@
 {
-  "updated_at": "2026-05-02T04:22:58.730175+00:00",
+  "updated_at": "2026-05-03T04:45:19.147316+00:00",
   "period_hours": 24,
-  "article_count": 38,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "published_at": "2026-05-01T23:06:50+00:00",
-      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit"
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "published_at": "2026-05-02T21:54:58+00:00",
+      "summary": "Bad news for Tilly Norwood."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Musely secures $360M from General Catalyst without giving up equity",
-      "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
-      "published_at": "2026-05-01T22:39:05+00:00",
-      "summary": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition."
+      "title": "Farewell, Jeeves: Ask.com shuts down",
+      "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+      "published_at": "2026-05-02T21:11:28+00:00",
+      "summary": "Owner IAC says it's discontinuing its search business."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "published_at": "2026-05-01T22:13:27+00:00",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said."
+      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+      "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+      "published_at": "2026-05-02T17:05:41+00:00",
+      "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "published_at": "2026-05-01T18:23:04+00:00",
-      "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources."
+      "title": "The best AI dictation apps, tested and ranked",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "published_at": "2026-05-02T16:00:00+00:00",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "published_at": "2026-05-01T16:02:36+00:00",
-      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models."
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "published_at": "2026-05-02T14:00:00+00:00",
+      "summary": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ubuntu services hit by outages after DDoS attack",
-      "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
-      "published_at": "2026-05-01T15:00:14+00:00",
-      "summary": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Musk v. Altman is just getting started",
-      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-      "published_at": "2026-05-01T14:00:00+00:00",
-      "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s arg"
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "People are finally using Reddit’s search",
-      "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
-      "published_at": "2026-05-01T12:00:11+00:00",
-      "summary": "The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Defense Tech Leads With Multiple Large Deals, Topped By $600M For Space Security Startup True Anomaly",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-aerospace-ai-fintech/",
-      "published_at": "2026-05-01T19:00:30+00:00",
-      "summary": "Large U.S. venture deals this week were led by a massive defense tech raise for space security startup True Anomaly. We also saw sizable deals for startups applying AI to fintech, marketing, customer service, healthcare and developer tools."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Data: The Seed Funding Boom Is Concentrating Capital In The San Francisco Bay Area",
-      "url": "https://news.crunchbase.com/seed/us-startup-venture-funding-boom-concentration-bay-area/",
-      "published_at": "2026-05-01T11:00:29+00:00",
-      "summary": "In 2025, the Bay Area expanded its dominance of U.S. seed funding — capturing a growing share of both deals and dollars — even as most startups remained geographically dispersed, an analysis of Crunchbase data shows, resulting in a more bifurcated landscape."
+      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "published_at": "2026-05-02T06:36:28+00:00",
+      "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump says a ‘final proposal’ for a taxpayer-funded takeover of Spirit Airlines is under consideration",
-      "url": "https://fortune.com/2026/05/01/trump-final-proposal-taxpayer-takeover-spirit-airlines-bankruptcy-bailout/",
-      "published_at": "2026-05-01T23:03:12+00:00",
-      "summary": "“We’re looking at it. If we could do it, we’ll do it. But only if it’s a good deal.”"
+      "title": "Trump vows to reduce U.S. troops in Germany ‘a lot further’ than 5,000 as defense official says armed services were blindsided by move",
+      "url": "https://fortune.com/2026/05/02/trump-us-troops-germany-a-lot-further-5000-nato-europe-force-posture/",
+      "published_at": "2026-05-03T01:15:56+00:00",
+      "summary": "A U.S. defense official said the branches of the U.S. military didn’t have prior knowledge of the decision to draw down the 5,000 troops and learned about it “in real time.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. to withdraw 5,000 troops from Germany as Trump feuds with Merz over the Iran war",
-      "url": "https://fortune.com/2026/05/01/us-troop-withdrawal-5000-germany-trump-merz-iran-war/",
-      "published_at": "2026-05-01T22:53:26+00:00",
-      "summary": "Merz said the U.S. was being “humiliated” by the Iranian leadership and criticized Washington’s lack of strategy in the war."
+      "title": "Trump says he is reviewing a new Iranian proposal to end the war but ‘can’t imagine that it would be acceptable’",
+      "url": "https://fortune.com/2026/05/02/trump-new-iranian-proposal-war-strait-of-hormuz-shipping-sanctions/",
+      "published_at": "2026-05-03T00:59:05+00:00",
+      "summary": "Two semiofficial Iranian news outlets, Tasnim and Fars said Iran has sent a 14-point proposal via Pakistan in response to a nine-point U.S. proposal."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "EBay soars on report that GameStop is preparing a takeover bid",
-      "url": "https://fortune.com/2026/05/01/ebay-stock-gamestop-takeover-bid-ryan-cohen/",
-      "published_at": "2026-05-01T22:37:25+00:00",
-      "summary": "GameStop, led by e-commerce entrepreneur Ryan Cohen, has been building a position in the online auctioneer and plans to make an offer for the business this month."
+      "title": "Can the ‘blue economy’ deliver on its promise? Investors are starting see the ocean as an asset worth protecting",
+      "url": "https://fortune.com/2026/05/02/can-blue-economy-deliver-promise/",
+      "published_at": "2026-05-03T00:00:00+00:00",
+      "summary": "Investors, scientists, and leaders are no longer asking if the blue economy is real and instead figuring out how quickly they can scale it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exxon Mobil CEO sees ‘more to come’ on price spikes from Iran war as Exxon, Chevron beat on earnings despite plunging profits",
-      "url": "https://fortune.com/2026/05/01/exxon-ceo-more-to-come-prices-spikes-iran-war-as-exxon-chevron-beat/",
-      "published_at": "2026-05-01T20:56:00+00:00",
-      "summary": "Exxon and Chevron are maintaining a wait-and-see approach to Venezuela, but they're taking diverging paths in the booming Permian Basin."
+      "title": "Iran juggles oil cuts and storage strain to resist U.S. blockade",
+      "url": "https://fortune.com/2026/05/02/iran-oil-production-cuts-crude-storage-limits-tank-tops-us-naval-blockade-hormuz/",
+      "published_at": "2026-05-02T22:38:11+00:00",
+      "summary": "Tehran is proactively reducing crude output in a move to stay ahead of capacity limits rather than waiting for tanks to fill completely."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A Mark Cuban–backed vegan cheese company trained AI to scrutinize cardboard boxes. It’s saved $400,000",
-      "url": "https://fortune.com/2026/05/01/rebel-cheese-mark-cuban-ai-shipping/",
-      "published_at": "2026-05-01T17:28:18+00:00",
-      "summary": "Austin-based Rebel Cheese says an AI agent helped uncover shipping-box overcharges after a holiday rush and has saved the company $400,000 in one year."
+      "title": "Disney’s new CEO is exploring a ‘super app’ for theme park tickets, movies and more",
+      "url": "https://fortune.com/2026/05/02/disney-super-app-theme-park-tickets-movies-streaming-cruise-line-navigator-josh-damaro/",
+      "published_at": "2026-05-02T22:29:20+00:00",
+      "summary": "The new app would marry Disney+ with mobile platforms such as the Disneyland Resort and Disney Cruise Line Navigator apps."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "CEOs got an 11% pay raise in 2025. Workers got 0.5%",
-      "url": "https://fortune.com/2026/05/01/ceo-pay-raise-billionaires-workers-elon-musk-wealth-gap/",
-      "published_at": "2026-05-01T18:31:04+00:00",
-      "summary": "A new ITUC-Oxfam report covering 1,500 companies found CEO pay is outpacing worker wages by a factor of 20—and the gap is only getting wider."
+      "title": "Apple raises Mac Mini’s starting price to $799 after AI frenzy drains supply",
+      "url": "https://fortune.com/2026/05/02/apple-mac-minis-starting-price-hike-799-ai-demand-supply-shortage/",
+      "published_at": "2026-05-02T22:22:16+00:00",
+      "summary": "“These are amazing platforms for AI and agentic tools, and the customer recognition of that is happening faster than what we had predicted.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Cut up the credit cards:’ Congress is getting brutal about ‘embarrassing’ $31 trillion national debt",
-      "url": "https://fortune.com/2026/05/01/cut-up-the-credit-cards-congress-reaction-debt-gdp-limit-reached/",
-      "published_at": "2026-05-01T10:48:38+00:00",
-      "summary": "“It’s only going to get worse until we cut up the credit cards and get serious.”"
+      "title": "Unionized workers form alliance with rich tech giants on AI data centers, pushing back on local opposition and redrawing political lines",
+      "url": "https://fortune.com/2026/05/02/unionized-workers-skilled-trades-alliance-tech-giants-ai-data-centers-construction/",
+      "published_at": "2026-05-02T22:08:42+00:00",
+      "summary": "With data center construction accelerating, unions are expanding training centers and seeing their ranks grow faster than many union leaders have ever seen."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A Chick-fil-A worker got fired and then showed up behind the register to allegedly refund himself over $80,000 in mac and cheese",
-      "url": "https://fortune.com/2026/05/01/fired-chick-fil-mac-and-cheese-80000-refund/",
-      "published_at": "2026-05-01T17:42:09+00:00",
-      "summary": "The cheesy scheme allegedly netted a former employee over $80,000 in fraudulent refunds."
+      "title": "San Diego Padres to sell team to investor group led by Kwanza Jones and José E. Feliciano, who will become the second Latino owner in baseball",
+      "url": "https://fortune.com/2026/05/02/san-diego-padres-team-sale-deal-investor-group-kwanza-jones-jose-e-feliciano/",
+      "published_at": "2026-05-02T21:51:53+00:00",
+      "summary": "The deal with private equity billionaire Feliciano and his wife took shape last month at an MLB-record valuation of $3.9 billion."
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI",
-      "url": "https://venturebeat.com/orchestration/salesforce-launches-agentforce-operations-to-fix-the-workflows-breaking-enterprise-ai",
-      "published_at": "2026-05-01T21:14:29+00:00",
-      "summary": "<p>Enterprise AI teams are hitting a wall — not because their models can&#x27;t reason, but because the workflows underneath them were never built for agents. Tasks fail, handoffs break, and the problem compounds as organizations push agents deeper into back-office systems. A new architectural layer"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
+      "url": "https://36kr.com/p/3792228036615430?f=rss",
+      "published_at": null,
+      "summary": "<p>在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得冠军。赛后，荣耀CEO李健发文祝贺，并宣布作为张雪机车WSBK的首席战略合作品牌，荣耀将推出双方的冠军联名款手表，以庆祝这一夺冠时刻。 此前在4月初，荣耀已正式成为张雪机车WSBK首席战略合作品牌。荣耀首席营销官关海涛曾代表品牌向车队赠送荣耀WIN系列手机及荣耀WIN游戏本，寄望该系列产品能为车手带来胜利。荣耀此次通过与冠军联名，旨在借助国际赛事热度与效应，进一步提升品牌在年轻用户群体及运动场景中的影响力。 5月2日消息，在刚刚结"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
-      "url": "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit",
-      "published_at": "2026-05-01T20:35:46+00:00",
-      "summary": "<p>Anthropic created the <a href=\"https://modelcontextprotocol.io/\">Model Context Protocol</a> as the open standard for AI agent-to-tool communication. OpenAI <a href=\"https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/\">adopted it in March 202"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+      "url": "https://36kr.com/p/3789475357400068?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜肖漫</p>\n  <p>编辑｜李勤</p>\n  <p>当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。</p>\n  <p>卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。</p>\n  <p>“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。</p>\n  <p>在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。</p>\n  <p>"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.",
-      "url": "https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives",
-      "published_at": "2026-05-01T18:01:52+00:00",
-      "summary": "<p>The scaffolding layer that developers once needed to ship LLM applications — indexing layers, query engines, retrieval pipelines, carefully orchestrated agent loops — is collapsing. And according to Jerry Liu, co-founder and CEO of <a href=\"http://www.llamaindex.ai/\">LlamaIndex</a>, that&#x27;s n"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+      "url": "https://36kr.com/p/3792155815304450?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <p>规模化落地，今年的具身公司都在谈这个。</p>\n  <p>数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。</p>\n  <p>激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。</p>\n  <p>在这些具身玩家"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite",
-      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite",
-      "published_at": "2026-05-01T17:49:00+00:00",
-      "summary": "<p>While Elon Musk faces off against his former colleague and OpenAI co-founder Sam Altman in <a href=\"https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial\">court</a>, Musk&#x27;s rival firm xAI, founded to take on OpenAI, isn&#x27;t slowing"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "周杰伦伙伴，要被卖了",
+      "url": "https://36kr.com/p/3791838183234816?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_bf67b6f28a8247679c68b9f7cf9f7a25@5579416_oswg407782oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：视觉中国</p>\n  <p>作者/吴琼</p>\n  <p>报道/投资界PEdaily</p>\n  <p>音乐顶流也迎来了卖身结局。</p>"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Hidden IT problems are quietly creating risk, shadow IT, and lost productivity",
-      "url": "https://venturebeat.com/technology/hidden-it-problems-are-quietly-creating-risk-shadow-it-and-lost-productivity",
-      "published_at": "2026-05-01T13:03:15+00:00",
-      "summary": "<p><i>Presented by TeamViewer</i></p><hr /><p>Enterprise technology failures are largely invisible. <a href=\"https://ad.doubleclick.net/ddm/trackclk/N2700600.133013VENTUREBEAT/B35613896.445429744;dc_trk_aid=639044651;dc_trk_cid=253275872;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr="
+      "source": "36氪",
+      "lang": "zh",
+      "title": "茶颜悦色 , 装不下去了",
+      "url": "https://36kr.com/p/3791800373664772?f=rss",
+      "published_at": null,
+      "summary": "<p>以慢著称，不爱出省的奶茶界“初代网红”茶颜悦色，终于又向外迈出了一步。</p>\n  <p>近日，茶颜悦色深圳门店开业，两家门店分别坐落于深圳万象城与深圳万象天地。据媒体报道，开业首日，门店外就聚集了大批顾客，等位队伍已经排至商场外围，提示牌显示，“排队需要5小时”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_95c539d85cd94dc8a62ceaab7563b937@5579416_oswg292232oswg1080oswg1762_img_000?x-"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "published_at": "2026-05-01T22:08:19+00:00",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "又一算力独角兽，冲击IPO",
+      "url": "https://36kr.com/p/3791796527602951?f=rss",
+      "published_at": null,
+      "summary": "<p>作者丨韦香惠</p>\n  <p>来源丨东四十条资本</p>\n  <p>A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。</p>\n  <p>主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。</p>\n  <p>这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系中国移动旗下中移资本，持股15.14%。成立至今，核聚变已至少完成8轮股权融资，身"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Cyber-Insecurity in the AI Era",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "published_at": "2026-05-01T15:54:01+00:00",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethoug"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "published_at": "2026-05-01T15:31:09+00:00",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factori"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "published_at": "2026-05-01T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
-      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
-      "published_at": "2026-05-01T10:00:00+00:00",
-      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Trump’s mass firing just dealt another blow to American science",
-      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-      "published_at": "2026-05-01T09:00:00+00:00",
-      "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday la"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "published_at": "2026-05-01T09:00:00+00:00",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "url": "https://36kr.com/p/3791662444911617?f=rss",
+      "published_at": null,
+      "summary": "<p>梦晨 发自 凹非寺</p>\n  <p>苹果大失误！把自用的Claude.md打包到了官方App里。</p>\n  <p>这下直接被坐实了：<strong>苹果内部在使用Claude Code构建生产级应用</strong>。</p>\n  <p>这么大的公司，也在Vibe Coding？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_8d710b3a2ed241d59c0263113445c899@5579416_oswg57692oswg826oswg434_img_"
     },
     {
       "source": "36氪",
@@ -250,62 +178,6 @@
       "url": "https://36kr.com/p/3791546608049152?f=rss",
       "published_at": null,
       "summary": "<p>作者 |&nbsp;冯晓亭 编辑 | 吾人</p>\n  <p>来源 |&nbsp;融中财经</p>\n  <p>4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。</p>\n  <p>拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35万元”成了这笔“亿元债权”的新主人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "续集没翻车 ，但这次“女魔头”也顶不住了",
-      "url": "https://36kr.com/p/3791555958922504?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_d781835278e0484ea652763ae71b2069@5579416_oswg85360oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图/《穿普拉达的女王2》</p>\n  <p>作者 | 易天天</p>\n  <p>编辑 |&nbsp;Felicia</p>\n  <p>题图 | 《穿"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
-      "url": "https://36kr.com/p/3791460373929221?f=rss",
-      "published_at": null,
-      "summary": "<p>编辑：桃子</p>\n  <p><strong>【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。</strong></p>\n  <p>对薄公堂第四天，马斯克爆出了大瓜！</p>\n  <p>4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。</p>\n  <p>现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题：</p>\n  <p>xAI是否蒸馏了OpenAI的模型？</p>\n  <p>马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "追觅造车，从“火箭”开始",
-      "url": "https://36kr.com/p/3790587098832137?f=rss",
-      "published_at": null,
-      "summary": "<p>4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。</p>\n  <p>追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。&nbsp;</p>\n  <p>从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。&nbsp;</p>\n  <p>这款火箭车搭载专属定制双固体火箭助推系统，可实现150毫秒瞬时响应，最大推力100千牛，与波音737单台发动机的推力接近，车辆零百加速仅需0.9秒。&n"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资",
-      "url": "https://36kr.com/p/3790141500366085?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，近日，上海大航跃迁航天科技有限公司（下称“大航跃迁”）完成5亿元融资。本轮融资由前海方舟、厚纪资本、普华资本领投，君领资本、海愿资本、惠丰达、君川资本、重庆沙创科技、中重科技、元创资本、汉理资本、上海天使会等机构，以及产业方神猴电缆联合参与投资，部分老股东持续加仓；华兴资本担任长期财务顾问。</p>\n  <p>本轮资金将主要用于加速大航跃迁核心产品，国内首款塔架回收运载火箭“跃迁一号”的研制与首飞，百吨级液氧甲烷发动机研发与测试。</p>\n  <p>大航跃迁成立于20"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线",
-      "url": "https://36kr.com/p/3787830454787330?f=rss",
-      "published_at": null,
-      "summary": "<p>在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。</p>\n  <p>4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国空间站建设以及太空生活等多个维度，并通过模型展示、VR体验等形式强化互动性。</p>\n  <p>从形式上看，这类跨界活动近年来在美妆行业并不罕见，但其背后所指向的“科技背书”，正在成为品"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发",
-      "url": "https://36kr.com/p/3789235646094339?f=rss",
-      "published_at": null,
-      "summary": "<p>文&nbsp;|&nbsp;张冰冰</p>\n  <p>编辑&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，<strong>武汉天石科丰新能源科技有限公司（以下简称「天石科丰」）近期宣布完成数千万元pre-A轮融资，由元禾原点领投，天泓投资跟投，启辰资本担任长期财务顾问</strong>，本轮融资将主要用于产品研发及百吨级产线落地。</p>\n  <p>「天石科丰」成立于2022年12月，聚焦于硫化物固态电解质粉体材料研发和生产，技术孵化于武汉理工大学和德国吉森大学，开发出空气稳定性良好且室温离子电导率达12&nbsp;mS/cm的硫化物电解质粉体，室温离子电导率达3mS/cm"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "错过第一波投影上市潮后，索诺克想靠「枭龙系列」实现超车｜项目报道",
-      "url": "https://36kr.com/p/3785172264197384?f=rss",
-      "published_at": null,
-      "summary": "<p>在投影行业深耕了几十年，从灯泡到单色激光，再到现在的三色激光，索诺克董事长朱谆见过太多技术路线的起落。</p>\n  <p>2014年日本研发团队加入后，索诺克就认定三色激光是显示技术的终极方案。只不过，这条路走了很久，直到2026年春天，「枭龙系列」纯三色激光工程投影机才正式发布。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260430/v2_9df2ac4e2fa840fc94c23ce544499edc@5654145_oswg1665815oswg1912oswg1134_i"
     }
   ]
 }

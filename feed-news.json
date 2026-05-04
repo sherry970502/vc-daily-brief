@@ -1,119 +1,111 @@
 {
-  "updated_at": "2026-05-03T04:45:19.147316+00:00",
+  "updated_at": "2026-05-04T04:45:19.882534+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "published_at": "2026-05-02T21:54:58+00:00",
-      "summary": "Bad news for Tilly Norwood."
+      "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+      "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+      "published_at": "2026-05-04T02:02:25+00:00",
+      "summary": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Farewell, Jeeves: Ask.com shuts down",
-      "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
-      "published_at": "2026-05-02T21:11:28+00:00",
-      "summary": "Owner IAC says it's discontinuing its search business."
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "published_at": "2026-05-03T20:16:51+00:00",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-      "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
-      "published_at": "2026-05-02T17:05:41+00:00",
-      "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters."
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "published_at": "2026-05-03T18:00:09+00:00",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The best AI dictation apps, tested and ranked",
-      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "published_at": "2026-05-02T16:00:00+00:00",
-      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice"
+      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+      "published_at": "2026-05-03T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-      "published_at": "2026-05-02T14:00:00+00:00",
-      "summary": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
-      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "published_at": "2026-05-02T06:36:28+00:00",
-      "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs."
+      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
+      "url": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
+      "published_at": "2026-05-03T13:00:00+00:00",
+      "summary": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump vows to reduce U.S. troops in Germany ‘a lot further’ than 5,000 as defense official says armed services were blindsided by move",
-      "url": "https://fortune.com/2026/05/02/trump-us-troops-germany-a-lot-further-5000-nato-europe-force-posture/",
-      "published_at": "2026-05-03T01:15:56+00:00",
-      "summary": "A U.S. defense official said the branches of the U.S. military didn’t have prior knowledge of the decision to draw down the 5,000 troops and learned about it “in real time.”"
+      "title": "Markets on alert as Trump vows ‘Project Freedom’ for Hormuz, setting up potential showdown after renewed attacks on ships",
+      "url": "https://fortune.com/2026/05/03/markets-trump-project-freedom-strait-hormuz-renewed-attacks-ships/",
+      "published_at": "2026-05-04T02:33:45+00:00",
+      "summary": "\"This is a Humanitarian gesture on behalf of the United States, Middle Eastern Countries but, in particular, the Country of Iran.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump says he is reviewing a new Iranian proposal to end the war but ‘can’t imagine that it would be acceptable’",
-      "url": "https://fortune.com/2026/05/02/trump-new-iranian-proposal-war-strait-of-hormuz-shipping-sanctions/",
-      "published_at": "2026-05-03T00:59:05+00:00",
-      "summary": "Two semiofficial Iranian news outlets, Tasnim and Fars said Iran has sent a 14-point proposal via Pakistan in response to a nine-point U.S. proposal."
+      "title": "Meme stock GameStop pitches $56 Billion takeover of eBay",
+      "url": "https://fortune.com/2026/05/03/gamestop-56-billion-takeover-offer-ebay-stock-price-125/",
+      "published_at": "2026-05-03T23:50:03+00:00",
+      "summary": "The gaming retail chain offered $125 per share in cash and stock for the online retailer, or about a 20% premium to its Friday close."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Can the ‘blue economy’ deliver on its promise? Investors are starting see the ocean as an asset worth protecting",
-      "url": "https://fortune.com/2026/05/02/can-blue-economy-deliver-promise/",
-      "published_at": "2026-05-03T00:00:00+00:00",
-      "summary": "Investors, scientists, and leaders are no longer asking if the blue economy is real and instead figuring out how quickly they can scale it."
+      "title": "Former NYC Mayor Giuliani in critical condition, Trump says",
+      "url": "https://fortune.com/2026/05/03/former-nyc-mayor-rudy-giuliani-critical-condition-trump/",
+      "published_at": "2026-05-03T23:45:21+00:00",
+      "summary": "Giuliani, 81, “remains in critical but stable condition,” his spokesperson Ted Goodman posted on X on Sunday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran juggles oil cuts and storage strain to resist U.S. blockade",
-      "url": "https://fortune.com/2026/05/02/iran-oil-production-cuts-crude-storage-limits-tank-tops-us-naval-blockade-hormuz/",
-      "published_at": "2026-05-02T22:38:11+00:00",
-      "summary": "Tehran is proactively reducing crude output in a move to stay ahead of capacity limits rather than waiting for tanks to fill completely."
+      "title": "Trump says U.S. will guide stranded ships from ‘neutral and innocent’ countries out of the Strait of Hormuz while hinting at positive Iran talks",
+      "url": "https://fortune.com/2026/05/03/trump-project-freedom-stranded-ships-neutral-innocent-countries-strait-of-hormuz/",
+      "published_at": "2026-05-03T21:31:12+00:00",
+      "summary": "“Project Freedom” would begin on Monday morning in the Middle East, Trump said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Disney’s new CEO is exploring a ‘super app’ for theme park tickets, movies and more",
-      "url": "https://fortune.com/2026/05/02/disney-super-app-theme-park-tickets-movies-streaming-cruise-line-navigator-josh-damaro/",
-      "published_at": "2026-05-02T22:29:20+00:00",
-      "summary": "The new app would marry Disney+ with mobile platforms such as the Disneyland Resort and Disney Cruise Line Navigator apps."
+      "title": "Basic goods in Cuba are increasingly sold in U.S. dollars as economy collapses. ‘Everything is scarce here — everything — even that wretched bread’",
+      "url": "https://fortune.com/2026/05/03/cuba-economy-collapse-basic-goods-us-dollars-ration-books-government-bodegas/",
+      "published_at": "2026-05-03T21:17:15+00:00",
+      "summary": "“No Cuban can truly survive on the products from the ration book anymore.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Apple raises Mac Mini’s starting price to $799 after AI frenzy drains supply",
-      "url": "https://fortune.com/2026/05/02/apple-mac-minis-starting-price-hike-799-ai-demand-supply-shortage/",
-      "published_at": "2026-05-02T22:22:16+00:00",
-      "summary": "“These are amazing platforms for AI and agentic tools, and the customer recognition of that is happening faster than what we had predicted.”"
+      "title": "Hong Kong is the hub for China’s AI IPOs. It can be so much more than that",
+      "url": "https://fortune.com/2026/05/03/hong-kong-chinese-ai-boom-ipos-governance/",
+      "published_at": "2026-05-03T21:00:00+00:00",
+      "summary": "There’s more to Hong Kong than just finance and venture capital."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Unionized workers form alliance with rich tech giants on AI data centers, pushing back on local opposition and redrawing political lines",
-      "url": "https://fortune.com/2026/05/02/unionized-workers-skilled-trades-alliance-tech-giants-ai-data-centers-construction/",
-      "published_at": "2026-05-02T22:08:42+00:00",
-      "summary": "With data center construction accelerating, unions are expanding training centers and seeing their ranks grow faster than many union leaders have ever seen."
+      "title": "As economic despair mounts, Russian official admits the country has had enough of Putin’s war on Ukraine. ‘We can’t even take one region’",
+      "url": "https://fortune.com/2026/05/03/russia-economic-despair-vladimir-putin-approval-rating-ukraine-war/",
+      "published_at": "2026-05-03T20:47:12+00:00",
+      "summary": "“The overall mood is that’s enough already; you’ve been fighting for long enough.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "San Diego Padres to sell team to investor group led by Kwanza Jones and José E. Feliciano, who will become the second Latino owner in baseball",
-      "url": "https://fortune.com/2026/05/02/san-diego-padres-team-sale-deal-investor-group-kwanza-jones-jose-e-feliciano/",
-      "published_at": "2026-05-02T21:51:53+00:00",
-      "summary": "The deal with private equity billionaire Feliciano and his wife took shape last month at an MLB-record valuation of $3.9 billion."
+      "title": "Secret Service agent was struck by buckshot from alleged White House correspondents’ dinner shooter, not friendly fire, Pirro says",
+      "url": "https://fortune.com/2026/05/03/secret-service-agent-buckshot-white-house-correspondents-dinner-shooter-friendly-fire-pirro/",
+      "published_at": "2026-05-03T18:56:26+00:00",
+      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, said a shot from one of Cole Tomas Allen's weapons hit the officer's bullet-resistant vest."
     },
     {
       "source": "36氪",

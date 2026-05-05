@@ -1,111 +1,191 @@
 {
-  "updated_at": "2026-05-04T04:45:19.882534+00:00",
+  "updated_at": "2026-05-05T04:21:25.558091+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 29,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
-      "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
-      "published_at": "2026-05-04T02:02:25+00:00",
-      "summary": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process."
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "published_at": "2026-05-05T03:31:54+00:00",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "published_at": "2026-05-03T20:16:51+00:00",
-      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "url": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "published_at": "2026-05-05T00:13:30+00:00",
+      "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "published_at": "2026-05-03T18:00:09+00:00",
-      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors."
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "published_at": "2026-05-04T22:21:32+00:00",
+      "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
-      "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
-      "published_at": "2026-05-03T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "published_at": "2026-05-04T21:53:21+00:00",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
-      "url": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
-      "published_at": "2026-05-03T13:00:00+00:00",
-      "summary": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket."
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "published_at": "2026-05-04T19:12:49+00:00",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "url": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "published_at": "2026-05-04T19:12:15+00:00",
+      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+      "url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+      "published_at": "2026-05-04T18:02:18+00:00",
+      "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "published_at": "2026-05-04T16:57:47+00:00",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets on alert as Trump vows ‘Project Freedom’ for Hormuz, setting up potential showdown after renewed attacks on ships",
-      "url": "https://fortune.com/2026/05/03/markets-trump-project-freedom-strait-hormuz-renewed-attacks-ships/",
-      "published_at": "2026-05-04T02:33:45+00:00",
-      "summary": "\"This is a Humanitarian gesture on behalf of the United States, Middle Eastern Countries but, in particular, the Country of Iran.\""
+      "title": "Britney Spears pleads guilty to lesser ‘wet reckless’ charge in DUI case to avoid jail time",
+      "url": "https://fortune.com/2026/05/04/britney-spears-pleads-guilty-wet-reckless/",
+      "published_at": "2026-05-04T22:50:53+00:00",
+      "summary": "The 44-year-old pop star, who recently completed a stint at a rehabilitation facility, didn’t appear in Ventura County court."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meme stock GameStop pitches $56 Billion takeover of eBay",
-      "url": "https://fortune.com/2026/05/03/gamestop-56-billion-takeover-offer-ebay-stock-price-125/",
-      "published_at": "2026-05-03T23:50:03+00:00",
-      "summary": "The gaming retail chain offered $125 per share in cash and stock for the online retailer, or about a 20% premium to its Friday close."
+      "title": "Top U.S. oil producer declares ‘green’ light on drilling for more oil amid Iran war",
+      "url": "https://fortune.com/2026/05/04/top-us-oil-producer-declares-green-light-drilling-oil-amid-iran-war/",
+      "published_at": "2026-05-04T22:05:15+00:00",
+      "summary": "Diamondback is the largest U.S. oil producer to hike spending and drilling as a result of the Iran war thus far."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Former NYC Mayor Giuliani in critical condition, Trump says",
-      "url": "https://fortune.com/2026/05/03/former-nyc-mayor-rudy-giuliani-critical-condition-trump/",
-      "published_at": "2026-05-03T23:45:21+00:00",
-      "summary": "Giuliani, 81, “remains in critical but stable condition,” his spokesperson Ted Goodman posted on X on Sunday."
+      "title": "‘You could say the ceasefire has ceased’: Iran is back on Wall Street’s radar as oil prices spike 6%",
+      "url": "https://fortune.com/2026/05/04/iran-ceasefire-oil-brent-crude-stock-project-freedom-strait-of-hormuz/",
+      "published_at": "2026-05-04T21:25:05+00:00",
+      "summary": "The U.S. and Iran traded shots, while the UAE was slammed by drone strikes."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump says U.S. will guide stranded ships from ‘neutral and innocent’ countries out of the Strait of Hormuz while hinting at positive Iran talks",
-      "url": "https://fortune.com/2026/05/03/trump-project-freedom-stranded-ships-neutral-innocent-countries-strait-of-hormuz/",
-      "published_at": "2026-05-03T21:31:12+00:00",
-      "summary": "“Project Freedom” would begin on Monday morning in the Middle East, Trump said."
+      "title": "Trump’s former AI czar says the quiet part out loud on the economy: ‘Stopping progress in AI would be equivalent to halting the U.S. economy’",
+      "url": "https://fortune.com/2026/05/04/trump-ai-czar-david-sacks-american-gdp-economy/",
+      "published_at": "2026-05-04T20:09:09+00:00",
+      "summary": "With across-the-board job growth yet to materialize, AI investment is propping up economic activity."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Basic goods in Cuba are increasingly sold in U.S. dollars as economy collapses. ‘Everything is scarce here — everything — even that wretched bread’",
-      "url": "https://fortune.com/2026/05/03/cuba-economy-collapse-basic-goods-us-dollars-ration-books-government-bodegas/",
-      "published_at": "2026-05-03T21:17:15+00:00",
-      "summary": "“No Cuban can truly survive on the products from the ration book anymore.”"
+      "title": "Starbucks CEO gets roasted for $9 ‘premium experience’ remarks, but Wall Street toasts his tariff-era turnaround strategy",
+      "url": "https://fortune.com/2026/05/04/starbucks-ceo-roasted-9dollar-coffee-premium-wall-street-earnings/",
+      "published_at": "2026-05-04T21:36:55+00:00",
+      "summary": "Brian Niccol pitched a $9 cup of coffee as an affordable luxury that people don't mind \"splurging\" on. The internet didn't agree."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hong Kong is the hub for China’s AI IPOs. It can be so much more than that",
-      "url": "https://fortune.com/2026/05/03/hong-kong-chinese-ai-boom-ipos-governance/",
-      "published_at": "2026-05-03T21:00:00+00:00",
-      "summary": "There’s more to Hong Kong than just finance and venture capital."
+      "title": "Palisades Fire suspect ranted about Luigi Mangione and being angry at the world before sparking the deadly blaze",
+      "url": "https://fortune.com/2026/05/04/palisades-fire-suspect-luigi-mangione-anger/",
+      "published_at": "2026-05-04T21:12:26+00:00",
+      "summary": "Jonathan Rinderknecht, 29, has pleaded not guilty to starting what became one of the most destructive wildfires in California history."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As economic despair mounts, Russian official admits the country has had enough of Putin’s war on Ukraine. ‘We can’t even take one region’",
-      "url": "https://fortune.com/2026/05/03/russia-economic-despair-vladimir-putin-approval-rating-ukraine-war/",
-      "published_at": "2026-05-03T20:47:12+00:00",
-      "summary": "“The overall mood is that’s enough already; you’ve been fighting for long enough.”"
+      "title": "Investors endorse Greg Abel—even as Berkshire crowd thins without Buffett as CEO. ‘This was definitely the meeting with the deepest insights’",
+      "url": "https://fortune.com/2026/05/04/annual-meeting-berkshire-hathaway-warren-buffett-greg-abel-charlie-munger/",
+      "published_at": "2026-05-04T19:46:09+00:00",
+      "summary": "Longtime investors say any concerns about the transition from Buffett to Abel are now put to rest."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Secret Service agent was struck by buckshot from alleged White House correspondents’ dinner shooter, not friendly fire, Pirro says",
-      "url": "https://fortune.com/2026/05/03/secret-service-agent-buckshot-white-house-correspondents-dinner-shooter-friendly-fire-pirro/",
-      "published_at": "2026-05-03T18:56:26+00:00",
-      "summary": "Jeanine Pirro, the U.S. attorney for the District of Columbia, said a shot from one of Cole Tomas Allen's weapons hit the officer's bullet-resistant vest."
+      "title": "China stopped issuing new robotaxi licenses over a glitch. America can’t stop them from rolling into active shooter situations",
+      "url": "https://fortune.com/2026/05/04/china-robotaxis-glitch-us-autonomous-vehicles-tesla-waymo-baidu-weride/",
+      "published_at": "2026-05-04T20:39:36+00:00",
+      "summary": "As robotaxis rack up incidents with zero federal consequences, new research finds more states are passing laws to get Americans to drive less."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
+      "url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions",
+      "published_at": "2026-05-04T20:33:56+00:00",
+      "summary": "<p>American Express (Amex) is building a system that lets AI agents shop and pay on behalf of users — but right now it’s only within its own payment network, and still involves a black box that could hinder trust and auditability. </p><p>Amex already participates in agentic commerce protocol project"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat",
+      "url": "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat",
+      "published_at": "2026-05-04T19:21:17+00:00",
+      "summary": "<p><a href=\"https://microsoft.com/\">Microsoft</a> last week took <a href=\"https://www.microsoft.com/en-us/microsoft-agent-365\">Agent 365</a>, its management platform for AI agents, out of preview and into <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-gener"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "The RAG era is ending for agentic AI — a new compilation-stage knowledge layer is what comes next",
+      "url": "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next",
+      "published_at": "2026-05-04T19:13:44+00:00",
+      "summary": "<p>The vector database category is undergoing a shift in response to the needs of agentic AI. </p><p>The retrieval-augmented generation (RAG)-to-vector database pipeline doesn&#x27;t cut it anymore; agentic AI requires a different approach that incorporates context.<a href=\"https://venturebeat.com/d"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "published_at": "2026-05-04T15:51:27+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, allegin"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Tailoring AI solutions for health care needs",
+      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+      "published_at": "2026-05-04T13:00:00+00:00",
+      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cance"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "五月，适合想清楚一件事｜幕启",
+      "url": "https://36kr.com/p/3794961189821698?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260504/v2_5ef3b16f1e4e43169a275cb124e3bc5d@5509299_oswg3314242oswg1690oswg1671_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：公众号「有三思 &nbsp;U &nbsp;Sense」</p>\n  <p>5月4日，一个被默认为“青年专属”"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+      "url": "https://36kr.com/p/3794799114476809?f=rss",
+      "published_at": null,
+      "summary": "<p>近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260504/v2_777b0af85c5d47b2b0a2702bc4a57c99@56"
     },
     {
       "source": "36氪",
@@ -154,22 +234,6 @@
       "url": "https://36kr.com/p/3791796527602951?f=rss",
       "published_at": null,
       "summary": "<p>作者丨韦香惠</p>\n  <p>来源丨东四十条资本</p>\n  <p>A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。</p>\n  <p>主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。</p>\n  <p>这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系中国移动旗下中移资本，持股15.14%。成立至今，核聚变已至少完成8轮股权融资，身"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "url": "https://36kr.com/p/3791662444911617?f=rss",
-      "published_at": null,
-      "summary": "<p>梦晨 发自 凹非寺</p>\n  <p>苹果大失误！把自用的Claude.md打包到了官方App里。</p>\n  <p>这下直接被坐实了：<strong>苹果内部在使用Claude Code构建生产级应用</strong>。</p>\n  <p>这么大的公司，也在Vibe Coding？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_8d710b3a2ed241d59c0263113445c899@5579416_oswg57692oswg826oswg434_img_"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "9.35万, 威马破产大甩卖",
-      "url": "https://36kr.com/p/3791546608049152?f=rss",
-      "published_at": null,
-      "summary": "<p>作者 |&nbsp;冯晓亭 编辑 | 吾人</p>\n  <p>来源 |&nbsp;融中财经</p>\n  <p>4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。</p>\n  <p>拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35万元”成了这笔“亿元债权”的新主人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn"
     }
   ]
 }

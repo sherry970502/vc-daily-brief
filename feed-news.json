@@ -1,175 +1,239 @@
 {
-  "updated_at": "2026-05-05T04:21:25.558091+00:00",
+  "updated_at": "2026-05-06T04:38:10.995784+00:00",
   "period_hours": 24,
-  "article_count": 29,
+  "article_count": 33,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-      "published_at": "2026-05-05T03:31:54+00:00",
-      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
+      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+      "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+      "published_at": "2026-05-06T00:07:47+00:00",
+      "summary": "The Silicon Valley AV startup has not started driverless testing yet."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
-      "url": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
-      "published_at": "2026-05-05T00:13:30+00:00",
-      "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion."
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "published_at": "2026-05-05T23:50:10+00:00",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
-      "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
-      "published_at": "2026-05-04T22:21:32+00:00",
-      "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux."
+      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+      "url": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+      "published_at": "2026-05-05T23:05:50+00:00",
+      "summary": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "published_at": "2026-05-04T21:53:21+00:00",
-      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "published_at": "2026-05-05T22:57:41+00:00",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying  data siloed across spreadsheets and legacy systems."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
-      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-      "published_at": "2026-05-04T19:12:49+00:00",
-      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue."
+      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+      "url": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
+      "published_at": "2026-05-05T22:31:57+00:00",
+      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Katie Haun raises $1B for new venture funds",
-      "url": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
-      "published_at": "2026-05-04T19:12:15+00:00",
-      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups."
+      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+      "url": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
+      "published_at": "2026-05-05T21:15:56+00:00",
+      "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
-      "url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
-      "published_at": "2026-05-04T18:02:18+00:00",
-      "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites."
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "published_at": "2026-05-05T20:56:41+00:00",
+      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-      "published_at": "2026-05-04T16:57:47+00:00",
-      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
+      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "published_at": "2026-05-05T20:06:40+00:00",
+      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxe"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development",
+      "url": "https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/",
+      "published_at": "2026-05-05T17:21:55+00:00",
+      "summary": "Blitzy, an autonomous software development startup, said it has raised $200 million in a funding round that values it at $1.4 billion, making it the latest company to receive major investor backing to streamline coding for large enterprises with the help of AI.    Cambridge, Mass.-based Blitzy has n"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The No. 1 Reason M&A Deals Fail Before They Even Start",
+      "url": "https://news.crunchbase.com/ma/reason-acquisition-deals-fail-disconnect-sagie/",
+      "published_at": "2026-05-05T11:00:54+00:00",
+      "summary": "Founder expectations often misalign with how M&#038;A actually works, writes guest author and strategic adviser Itay Sagie, who highlights common issues M&#038;A deals don't close."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Billion-Dollar AI Rounds Push April To Third-Highest Startup Funding Month In A Year",
+      "url": "https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/",
+      "published_at": "2026-05-05T11:00:13+00:00",
+      "summary": "Global venture funding reached $56 billion in April, marking the third-largest monthly funding in a year. Funding was up 100% year over year, an increase driven by a handful of large rounds."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Britney Spears pleads guilty to lesser ‘wet reckless’ charge in DUI case to avoid jail time",
-      "url": "https://fortune.com/2026/05/04/britney-spears-pleads-guilty-wet-reckless/",
-      "published_at": "2026-05-04T22:50:53+00:00",
-      "summary": "The 44-year-old pop star, who recently completed a stint at a rehabilitation facility, didn’t appear in Ventura County court."
+      "title": "Supermicro CEO insists ‘no one’ beyond indicted employees were involved in alleged $2.5 billion smuggling scheme",
+      "url": "https://fortune.com/2026/05/05/supermicro-ceo-stock-smuggling-nvidia-amd-broadcom-intel/",
+      "published_at": "2026-05-06T01:51:41+00:00",
+      "summary": "CEO and Chairman Charles Liang said Supermicro’s relationship with vendors including Nvidia, AMD, Intel, and Broadcom was “strong” despite the accusations against a Supermicro cofounder. Supermicro stock rose 17% in after-hours trading."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Top U.S. oil producer declares ‘green’ light on drilling for more oil amid Iran war",
-      "url": "https://fortune.com/2026/05/04/top-us-oil-producer-declares-green-light-drilling-oil-amid-iran-war/",
-      "published_at": "2026-05-04T22:05:15+00:00",
-      "summary": "Diamondback is the largest U.S. oil producer to hike spending and drilling as a result of the Iran war thus far."
+      "title": "Over 98% of stablecoins are dollar backed. That’s good for the U.S.—until it’s not",
+      "url": "https://fortune.com/2026/05/05/over-98-of-stablecoins-are-dollar-backed-thats-will-be-good-for-the-u-s-until-its-not/",
+      "published_at": "2026-05-05T23:15:08+00:00",
+      "summary": "Crypto billionaire says growing global demand for U.S. dollar-backed stablecoins will tempt the government to print more money."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘You could say the ceasefire has ceased’: Iran is back on Wall Street’s radar as oil prices spike 6%",
-      "url": "https://fortune.com/2026/05/04/iran-ceasefire-oil-brent-crude-stock-project-freedom-strait-of-hormuz/",
-      "published_at": "2026-05-04T21:25:05+00:00",
-      "summary": "The U.S. and Iran traded shots, while the UAE was slammed by drone strikes."
+      "title": "A jittery CEO crowd at Milken looks abroad for growth—and answers",
+      "url": "https://fortune.com/2026/05/05/milken-institute-ceos-emerging-markets/",
+      "published_at": "2026-05-05T10:01:19+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s former AI czar says the quiet part out loud on the economy: ‘Stopping progress in AI would be equivalent to halting the U.S. economy’",
-      "url": "https://fortune.com/2026/05/04/trump-ai-czar-david-sacks-american-gdp-economy/",
-      "published_at": "2026-05-04T20:09:09+00:00",
-      "summary": "With across-the-board job growth yet to materialize, AI investment is propping up economic activity."
+      "title": "One American loses their job for every 6 immigrants removed from the workforce as researchers see ‘no evidence’ that ICE is helping the economy",
+      "url": "https://fortune.com/2026/05/05/ice-deportations-us-born-job-losses-study/",
+      "published_at": "2026-05-05T18:04:03+00:00",
+      "summary": "“If anything, job opportunities for U.S.-born workers are going down as a result,” the University of Colorado Boulder’s Chloe East said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Starbucks CEO gets roasted for $9 ‘premium experience’ remarks, but Wall Street toasts his tariff-era turnaround strategy",
-      "url": "https://fortune.com/2026/05/04/starbucks-ceo-roasted-9dollar-coffee-premium-wall-street-earnings/",
-      "published_at": "2026-05-04T21:36:55+00:00",
-      "summary": "Brian Niccol pitched a $9 cup of coffee as an affordable luxury that people don't mind \"splurging\" on. The internet didn't agree."
+      "title": "Coinbase’s Brian Armstrong replacing ‘pure managers’ with ‘player-coaches’ is another sign the org chart is changing in a big way",
+      "url": "https://fortune.com/2026/05/05/coinbase-layoffs-org-chart-player-coach-replaces-managers/",
+      "published_at": "2026-05-05T20:27:23+00:00",
+      "summary": "A landmark KPMG index finds boards demanding transformation, execs spending billions on tech, and the people caught in the middle burning out."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Palisades Fire suspect ranted about Luigi Mangione and being angry at the world before sparking the deadly blaze",
-      "url": "https://fortune.com/2026/05/04/palisades-fire-suspect-luigi-mangione-anger/",
-      "published_at": "2026-05-04T21:12:26+00:00",
-      "summary": "Jonathan Rinderknecht, 29, has pleaded not guilty to starting what became one of the most destructive wildfires in California history."
+      "title": "Jamie Dimon and Dario Amodei shared a stage for the first time. Here’s what they revealed about AI, cyber risk and the future of Wall Street",
+      "url": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/",
+      "published_at": "2026-05-05T15:00:00+00:00",
+      "summary": "\"The cone is even wider than I thought,\" Amodei said, disclosing that Anthropic projected 10x growth only to see 80x instead."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Investors endorse Greg Abel—even as Berkshire crowd thins without Buffett as CEO. ‘This was definitely the meeting with the deepest insights’",
-      "url": "https://fortune.com/2026/05/04/annual-meeting-berkshire-hathaway-warren-buffett-greg-abel-charlie-munger/",
-      "published_at": "2026-05-04T19:46:09+00:00",
-      "summary": "Longtime investors say any concerns about the transition from Buffett to Abel are now put to rest."
+      "title": "Gen Alpha is using makeup to pass age verification tech online. One mom caught her son using an eyebrow pencil",
+      "url": "https://fortune.com/2026/05/05/gen-alpha-using-makeup-to-pass-age-verification-tech-online/",
+      "published_at": "2026-05-05T19:52:16+00:00",
+      "summary": "The youth are no longer wearing makeup to sneak into the newest bar: they're drawing on mustaches to get into the next hottest club, the Internet."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "China stopped issuing new robotaxi licenses over a glitch. America can’t stop them from rolling into active shooter situations",
-      "url": "https://fortune.com/2026/05/04/china-robotaxis-glitch-us-autonomous-vehicles-tesla-waymo-baidu-weride/",
-      "published_at": "2026-05-04T20:39:36+00:00",
-      "summary": "As robotaxis rack up incidents with zero federal consequences, new research finds more states are passing laws to get Americans to drive less."
+      "title": "UK-based Google DeepMind workers vote to unionize over military AI contracts amid internal backlash over its Pentagon deal",
+      "url": "https://fortune.com/2026/05/05/google-deepmind-unionize-vote-military-ai-contracts-internal-backlash-pentagon-deal-israeli-defense-forces/",
+      "published_at": "2026-05-05T14:33:05+00:00",
+      "summary": "London-based employees are demanding that Google walk back its Pentagon deal, but the power workers once had to kill such contracts has eroded significantly."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
-      "url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions",
-      "published_at": "2026-05-04T20:33:56+00:00",
-      "summary": "<p>American Express (Amex) is building a system that lets AI agents shop and pay on behalf of users — but right now it’s only within its own payment network, and still involves a black box that could hinder trust and auditability. </p><p>Amex already participates in agentic commerce protocol project"
+      "title": "Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.",
+      "url": "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof",
+      "published_at": "2026-05-05T23:30:14+00:00",
+      "summary": "<p>A little-known Miami-based startup called <a href=\"https://subq.ai/\">Subquadratic</a> emerged from stealth on Tuesday with a sweeping claim: that it has built the first large language model to fully escape the mathematical constraint that has defined — and limited — every major AI system since 20"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat",
-      "url": "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat",
-      "published_at": "2026-05-04T19:21:17+00:00",
-      "summary": "<p><a href=\"https://microsoft.com/\">Microsoft</a> last week took <a href=\"https://www.microsoft.com/en-us/microsoft-agent-365\">Agent 365</a>, its management platform for AI agents, out of preview and into <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-gener"
+      "title": "GPT-5.5 Instant shows you what it remembered — just not all of it",
+      "url": "https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it",
+      "published_at": "2026-05-05T23:26:21+00:00",
+      "summary": "<p>OpenAI updated the default model for ChatGPT to its new GPT-5.5 Instant, along with a new memory capability that finally shows which context shaped responses — at least some of them. </p><p>This limitation signals that models are starting to create a second, incomplete memory observability layer"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "The RAG era is ending for agentic AI — a new compilation-stage knowledge layer is what comes next",
-      "url": "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next",
-      "published_at": "2026-05-04T19:13:44+00:00",
-      "summary": "<p>The vector database category is undergoing a shift in response to the needs of agentic AI. </p><p>The retrieval-augmented generation (RAG)-to-vector database pipeline doesn&#x27;t cut it anymore; agentic AI requires a different approach that incorporates context.<a href=\"https://venturebeat.com/d"
+      "title": "One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it",
+      "url": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner",
+      "published_at": "2026-05-05T22:09:32+00:00",
+      "summary": "<p>Just two months ago, researchers at the <a href=\"https://github.com/HKUDS\">Data Intelligence Lab at the University of Hong Kong</a> introduced <a href=\"https://github.com/HKUDS/CLI-Anything\">CLI-Anything</a>, a new state-of-the-art tool that analyzes any repo’s source code and generates a structu"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "OpenAI turns its sold-out GPT-5.5 party into a monthlong Codex giveaway for 8,000 developers",
+      "url": "https://venturebeat.com/technology/openai-turns-its-sold-out-gpt-5-5-party-into-a-monthlong-codex-giveaway-for-8-000-developers",
+      "published_at": "2026-05-05T07:34:33+00:00",
+      "summary": "<p><a href=\"https://openai.com/\">OpenAI</a> on Monday began emailing more than 8,000 developers who applied for its <a href=\"https://luma.com/5.5\">invite-only</a><a href=\"https://luma.com/5.5\"> GPT-5.5 party</a> with a surprise consolation prize: a tenfold increase in Codex rate limits on their pers"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "published_at": "2026-05-04T15:51:27+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, allegin"
+      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+      "published_at": "2026-05-05T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle o"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Tailoring AI solutions for health care needs",
-      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
-      "published_at": "2026-05-04T13:00:00+00:00",
-      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cance"
+      "title": "A blueprint for using AI to strengthen democracy",
+      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "published_at": "2026-05-05T09:00:00+00:00",
+      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
+      "url": "https://36kr.com/p/3797276726893569?f=rss",
+      "published_at": null,
+      "summary": "<p>2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600mAh 超巨量「冰川电池」 + 120W 超级闪充组合，首发自研OPPO冰川电池聚能芯片，支持IP66/IP68/IP69/IP69K满级防尘防水，并搭载超流畅更 AI 的新一代ColorOS 1"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
+      "url": "https://36kr.com/p/3797224394284033?f=rss",
+      "published_at": null,
+      "summary": "<p>“传统工业软件太难用了。”</p>\n  <p>这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。</p>\n  <p>“AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，<strong>Orthogonal想做的，是把“vibe”的方式带入硬件开发。</strong></p>\n  <p>Orthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了近二十年，参与过达索系统仿真工具核心功能的研发，领导了空客A350宽"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+      "url": "https://36kr.com/p/3682907323150215?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。</p>\n  <p>此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授旗下ICANX基金等。本轮资金将用于旗下DTC消费医疗产品的上市进程、推进B端定制化模块的交付落地，以及开展国内外医疗注册证的申报工作。</p>\n  <p>家用健康检"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
+      "url": "https://36kr.com/p/3797041945304327?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>分析师称iPhone 18 Pro定价策略激进，起步价8999元&nbsp;</li>\n   <li>胖东来郑州店注册成立，预计今年10月开业&nbsp;</li>\n   <li>保时捷卖掉布加迪，预计2026年销量下滑至3万辆&nbsp;</li>\n   <li>马斯克就推特持股披露诉讼与美证监会达成和解&nbsp;</li>\n   <li>三星继承人已付清12万亿韩元遗产税</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>豆包将在免费模式外新增付费订阅，官方回应</strong></p"
     },
     {
       "source": "36氪",
@@ -202,38 +266,6 @@
       "url": "https://36kr.com/p/3789475357400068?f=rss",
       "published_at": null,
       "summary": "<p>文｜肖漫</p>\n  <p>编辑｜李勤</p>\n  <p>当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。</p>\n  <p>卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。</p>\n  <p>“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。</p>\n  <p>在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。</p>\n  <p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
-      "url": "https://36kr.com/p/3792155815304450?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <p>规模化落地，今年的具身公司都在谈这个。</p>\n  <p>数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。</p>\n  <p>激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。</p>\n  <p>在这些具身玩家"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "周杰伦伙伴，要被卖了",
-      "url": "https://36kr.com/p/3791838183234816?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_bf67b6f28a8247679c68b9f7cf9f7a25@5579416_oswg407782oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：视觉中国</p>\n  <p>作者/吴琼</p>\n  <p>报道/投资界PEdaily</p>\n  <p>音乐顶流也迎来了卖身结局。</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "茶颜悦色 , 装不下去了",
-      "url": "https://36kr.com/p/3791800373664772?f=rss",
-      "published_at": null,
-      "summary": "<p>以慢著称，不爱出省的奶茶界“初代网红”茶颜悦色，终于又向外迈出了一步。</p>\n  <p>近日，茶颜悦色深圳门店开业，两家门店分别坐落于深圳万象城与深圳万象天地。据媒体报道，开业首日，门店外就聚集了大批顾客，等位队伍已经排至商场外围，提示牌显示，“排队需要5小时”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260502/v2_95c539d85cd94dc8a62ceaab7563b937@5579416_oswg292232oswg1080oswg1762_img_000?x-"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "又一算力独角兽，冲击IPO",
-      "url": "https://36kr.com/p/3791796527602951?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨韦香惠</p>\n  <p>来源丨东四十条资本</p>\n  <p>A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。</p>\n  <p>主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。</p>\n  <p>这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系中国移动旗下中移资本，持股15.14%。成立至今，核聚变已至少完成8轮股权融资，身"
     }
   ]
 }

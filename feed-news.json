@@ -1,207 +1,231 @@
 {
-  "updated_at": "2026-05-06T04:38:10.995784+00:00",
+  "updated_at": "2026-05-07T04:38:54.081150+00:00",
   "period_hours": 24,
-  "article_count": 33,
+  "article_count": 30,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
-      "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
-      "published_at": "2026-05-06T00:07:47+00:00",
-      "summary": "The Silicon Valley AV startup has not started driverless testing yet."
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+      "published_at": "2026-05-06T22:30:00+00:00",
+      "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "published_at": "2026-05-05T23:50:10+00:00",
-      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "published_at": "2026-05-06T21:57:56+00:00",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
-      "url": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
-      "published_at": "2026-05-05T23:05:50+00:00",
-      "summary": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life."
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "published_at": "2026-05-06T21:43:24+00:00",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-      "published_at": "2026-05-05T22:57:41+00:00",
-      "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying  data siloed across spreadsheets and legacy systems."
+      "title": "Is xAI a neocloud now?",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "published_at": "2026-05-06T21:32:55+00:00",
+      "summary": "xAI's real business may be more about building data centers than training AI models."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
-      "url": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
-      "published_at": "2026-05-05T22:31:57+00:00",
-      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure."
+      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+      "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
+      "published_at": "2026-05-06T20:39:16+00:00",
+      "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
-      "url": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
-      "published_at": "2026-05-05T21:15:56+00:00",
-      "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course."
+      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+      "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+      "published_at": "2026-05-06T19:57:31+00:00",
+      "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "published_at": "2026-05-05T20:56:41+00:00",
-      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks."
+      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "published_at": "2026-05-06T19:10:09+00:00",
+      "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-      "published_at": "2026-05-05T20:06:40+00:00",
-      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxe"
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "published_at": "2026-05-06T18:23:54+00:00",
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development",
-      "url": "https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/",
-      "published_at": "2026-05-05T17:21:55+00:00",
-      "summary": "Blitzy, an autonomous software development startup, said it has raised $200 million in a funding round that values it at $1.4 billion, making it the latest company to receive major investor backing to streamline coding for large enterprises with the help of AI.    Cambridge, Mass.-based Blitzy has n"
+      "title": "AI Is Rewriting What Investors Should Look For In Early Startup Teams",
+      "url": "https://news.crunchbase.com/startups/ai-is-rewriting-what-investors-should-look-for-in-early-startup-teams/",
+      "published_at": "2026-05-06T11:00:49+00:00",
+      "summary": "Technical expertise still matters, but when everyone can build, thanks to AI, it no longer differentiates, writes guest author Aaron Tainter, director of accelerator programs at Innovation Works. And that forces a harder question for investors: If the product isn’t the moat, what is?"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The No. 1 Reason M&A Deals Fail Before They Even Start",
-      "url": "https://news.crunchbase.com/ma/reason-acquisition-deals-fail-disconnect-sagie/",
-      "published_at": "2026-05-05T11:00:54+00:00",
-      "summary": "Founder expectations often misalign with how M&#038;A actually works, writes guest author and strategic adviser Itay Sagie, who highlights common issues M&#038;A deals don't close."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Billion-Dollar AI Rounds Push April To Third-Highest Startup Funding Month In A Year",
-      "url": "https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/",
-      "published_at": "2026-05-05T11:00:13+00:00",
-      "summary": "Global venture funding reached $56 billion in April, marking the third-largest monthly funding in a year. Funding was up 100% year over year, an increase driven by a handful of large rounds."
+      "title": "Frontier Labs And Robotics Companies Again Top List Of New Unicorns In April",
+      "url": "https://news.crunchbase.com/venture/new-ai-unicorn-startups-april-2026-frontier-labs-ineffable-intelligence-recursive-superintelligence/",
+      "published_at": "2026-05-06T11:00:30+00:00",
+      "summary": "A total of 28 companies joined The Crunchbase Unicorn Board in April, with robotics startups and frontier labs leading by number of entrants for the second consecutive month."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Supermicro CEO insists ‘no one’ beyond indicted employees were involved in alleged $2.5 billion smuggling scheme",
-      "url": "https://fortune.com/2026/05/05/supermicro-ceo-stock-smuggling-nvidia-amd-broadcom-intel/",
-      "published_at": "2026-05-06T01:51:41+00:00",
-      "summary": "CEO and Chairman Charles Liang said Supermicro’s relationship with vendors including Nvidia, AMD, Intel, and Broadcom was “strong” despite the accusations against a Supermicro cofounder. Supermicro stock rose 17% in after-hours trading."
+      "title": "Was it a secret Chinese spy headquarters or a ping-pong parlor? New York Chinatown case goes to trial",
+      "url": "https://fortune.com/2026/05/06/was-it-a-secret-chinese-spy-headquarters-or-a-ping-pong-parlor-new-york-chinatown-case-goes-to-trial/",
+      "published_at": "2026-05-06T23:34:50+00:00",
+      "summary": "China's communist government uses the outposts to monitor people it “views as enemies of its interests,” a prosecutor told jurors."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Over 98% of stablecoins are dollar backed. That’s good for the U.S.—until it’s not",
-      "url": "https://fortune.com/2026/05/05/over-98-of-stablecoins-are-dollar-backed-thats-will-be-good-for-the-u-s-until-its-not/",
-      "published_at": "2026-05-05T23:15:08+00:00",
-      "summary": "Crypto billionaire says growing global demand for U.S. dollar-backed stablecoins will tempt the government to print more money."
+      "title": "‘Highly qualified White, Asian, and other students were denied admission’: DOJ accuses UCLA of discrimination",
+      "url": "https://fortune.com/2026/05/06/highly-qualified-white-asian-and-other-students-were-denied-admission-doj-accuses-ucla-of-discrimination/",
+      "published_at": "2026-05-06T23:33:32+00:00",
+      "summary": "The finding escalates the ongoing standoff with UCLA, which has focused mostly on the main campus’s response to allegations of antisemitic harassment."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A jittery CEO crowd at Milken looks abroad for growth—and answers",
-      "url": "https://fortune.com/2026/05/05/milken-institute-ceos-emerging-markets/",
-      "published_at": "2026-05-05T10:01:19+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
+      "title": "Before Mark Cuban and Jerry Jones, there was Ted Turner, the larger-than-life billionaire owner who changed sports",
+      "url": "https://fortune.com/2026/05/06/ted-turner-sports-owner-atlanta-braves-larger-than-life/",
+      "published_at": "2026-05-06T23:26:19+00:00",
+      "summary": "Turner was a sportsman of all types, a world champion in sailing and a World Series-winning owner in baseball."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "One American loses their job for every 6 immigrants removed from the workforce as researchers see ‘no evidence’ that ICE is helping the economy",
-      "url": "https://fortune.com/2026/05/05/ice-deportations-us-born-job-losses-study/",
-      "published_at": "2026-05-05T18:04:03+00:00",
-      "summary": "“If anything, job opportunities for U.S.-born workers are going down as a result,” the University of Colorado Boulder’s Chloe East said."
+      "title": "Understanding the legacy of Ted Turner and the creation of the 24-hour news cycle: ‘there is no hyperbole here’",
+      "url": "https://fortune.com/2026/05/06/ted-turner-24-hour-news-cycle-legacy-cnn-founder/",
+      "published_at": "2026-05-06T23:21:11+00:00",
+      "summary": "“Death and hyperbole often go together,” said media scholar Robert Thompson of Syracuse University. But not in this case."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Coinbase’s Brian Armstrong replacing ‘pure managers’ with ‘player-coaches’ is another sign the org chart is changing in a big way",
-      "url": "https://fortune.com/2026/05/05/coinbase-layoffs-org-chart-player-coach-replaces-managers/",
-      "published_at": "2026-05-05T20:27:23+00:00",
-      "summary": "A landmark KPMG index finds boards demanding transformation, execs spending billions on tech, and the people caught in the middle burning out."
+      "title": "He was ‘The Mouth of the South’ and ‘Captain Outrageous,’ but Ted Turner said ‘If only I had a little humility, I’d be perfect’",
+      "url": "https://fortune.com/2026/05/06/ted-turner-nicknames-mouth-of-the-south-captain-outrageous/",
+      "published_at": "2026-05-06T23:15:59+00:00",
+      "summary": "President Donald Trump, reacting to Turner's death, called him “one of the Greats of All Time.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jamie Dimon and Dario Amodei shared a stage for the first time. Here’s what they revealed about AI, cyber risk and the future of Wall Street",
-      "url": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/",
-      "published_at": "2026-05-05T15:00:00+00:00",
-      "summary": "\"The cone is even wider than I thought,\" Amodei said, disclosing that Anthropic projected 10x growth only to see 80x instead."
+      "title": "‘FOMO has proven a stronger incentive than poor stock performance’: Goldman Sachs finds insecurity is a key part of the AI boom",
+      "url": "https://fortune.com/2026/05/06/is-ai-a-bubble-goldman-sachs-skeptics-overhyped/",
+      "published_at": "2026-05-06T17:33:15+00:00",
+      "summary": "Goldman Sachs looked at the giant data-center question from both sides of the equation — and shrugged."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Alpha is using makeup to pass age verification tech online. One mom caught her son using an eyebrow pencil",
-      "url": "https://fortune.com/2026/05/05/gen-alpha-using-makeup-to-pass-age-verification-tech-online/",
-      "published_at": "2026-05-05T19:52:16+00:00",
-      "summary": "The youth are no longer wearing makeup to sneak into the newest bar: they're drawing on mustaches to get into the next hottest club, the Internet."
+      "title": "The U.S. leads in 14 of 18 industries shaping the future economy — but the lead isn’t guaranteed",
+      "url": "https://fortune.com/2026/05/06/mckinsey-18-industries-arenas-global-economy-us-china-ai/",
+      "published_at": "2026-05-06T12:30:00+00:00",
+      "summary": "The McKinsey Global Institute identified the 18 \"arenas\" driving tomorrow's growth. Here's where America stands — and what companies must do to stay ahead."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "UK-based Google DeepMind workers vote to unionize over military AI contracts amid internal backlash over its Pentagon deal",
-      "url": "https://fortune.com/2026/05/05/google-deepmind-unionize-vote-military-ai-contracts-internal-backlash-pentagon-deal-israeli-defense-forces/",
-      "published_at": "2026-05-05T14:33:05+00:00",
-      "summary": "London-based employees are demanding that Google walk back its Pentagon deal, but the power workers once had to kill such contracts has eroded significantly."
+      "title": "Cargo ship crews face attacks waiting the Gulf as Trump pauses two-day-old project to ‘guide’ ships",
+      "url": "https://fortune.com/2026/05/06/cargo-ship-crews-attacks-gulf-trump-pauses-project-guide/",
+      "published_at": "2026-05-06T20:23:30+00:00",
+      "summary": "A cargo container ship operated by the French CMA CGM Group  came under attack while attempting to transit the Strait of Hormuz as concerns about Iranian speedboats and drones are leading major ship owners and operators to say the strait remains too dangerous."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.",
-      "url": "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof",
-      "published_at": "2026-05-05T23:30:14+00:00",
-      "summary": "<p>A little-known Miami-based startup called <a href=\"https://subq.ai/\">Subquadratic</a> emerged from stealth on Tuesday with a sweeping claim: that it has built the first large language model to fully escape the mathematical constraint that has defined — and limited — every major AI system since 20"
+      "title": "Market research is too slow for the AI era, so Brox built 60,000 identical 'digital twins' of real people you can survey instantly, repeatedly",
+      "url": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
+      "published_at": "2026-05-06T16:16:49+00:00",
+      "summary": "<p>In a world where a viral TikTok video can cause a brand to trend globally in mere hours, the traditional market research cycle — often spanning 12 weeks — is becoming a liability. </p><p>The lag between a survey question and the answers from a wide (or targeted) pool of respondents has become a p"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "GPT-5.5 Instant shows you what it remembered — just not all of it",
-      "url": "https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it",
-      "published_at": "2026-05-05T23:26:21+00:00",
-      "summary": "<p>OpenAI updated the default model for ChatGPT to its new GPT-5.5 Instant, along with a new memory capability that finally shows which context shaped responses — at least some of them. </p><p>This limitation signals that models are starting to create a second, incomplete memory observability layer"
+      "title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
+      "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
+      "published_at": "2026-05-06T15:00:00+00:00",
+      "summary": "<p>There&#x27;s an app for nearly every imaginable user and use case these days, but one thing they all have in common is that they&#x27;re centered around one device: the smartphone.</p><p>That changes today as <a href=\"https://huggingface.co/\">Hugging Face</a>, the 10-year-old New York City startu"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it",
-      "url": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner",
-      "published_at": "2026-05-05T22:09:32+00:00",
-      "summary": "<p>Just two months ago, researchers at the <a href=\"https://github.com/HKUDS\">Data Intelligence Lab at the University of Hong Kong</a> introduced <a href=\"https://github.com/HKUDS/CLI-Anything\">CLI-Anything</a>, a new state-of-the-art tool that analyzes any repo’s source code and generates a structu"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "OpenAI turns its sold-out GPT-5.5 party into a monthlong Codex giveaway for 8,000 developers",
-      "url": "https://venturebeat.com/technology/openai-turns-its-sold-out-gpt-5-5-party-into-a-monthlong-codex-giveaway-for-8-000-developers",
-      "published_at": "2026-05-05T07:34:33+00:00",
-      "summary": "<p><a href=\"https://openai.com/\">OpenAI</a> on Monday began emailing more than 8,000 developers who applied for its <a href=\"https://luma.com/5.5\">invite-only</a><a href=\"https://luma.com/5.5\"> GPT-5.5 party</a> with a surprise consolation prize: a tenfold increase in Codex rate limits on their pers"
+      "title": "Scaling AI into production is forcing a rethink of enterprise infrastructure",
+      "url": "https://venturebeat.com/orchestration/scaling-ai-into-production-is-forcing-a-rethink-of-enterprise-infrastructure",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "summary": "<p><i>Presented by Nutanix</i></p><hr /><p>Across industries, organizations are focused on how to move from AI pilots, proofs of concept, and cloud-based experimentation to deploying it at scale — across real workloads, for real users, in real business environments. VentureBeat spoke with Tarkan Man"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-      "published_at": "2026-05-05T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle o"
+      "title": "The Download: seafloor science and military chatbots",
+      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+      "published_at": "2026-05-06T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "published_at": "2026-05-05T09:00:00+00:00",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访",
+      "url": "https://36kr.com/p/3797662460419337?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>作者&nbsp;|&nbsp;李小霞</strong></p>\n  <p><strong>访谈|&nbsp;李小霞、杨轩</strong></p>\n  <p><strong>编辑&nbsp;|</strong>&nbsp;<strong>乔芊</strong></p>\n  <p>林清轩创始人孙来春有一段广为人知的惊险故事。</p>\n  <p>那是2020年春节疫情初起，林清轩大面积闭店，业绩断崖式下滑90%，公司账户里的现金最多支撑67天。</p>\n  <p>在那一刻，孙来春突然发现自己过去十几年引以为傲的线下基因，变成了最不堪一击的包袱。</p>\n  <p>后来的故事很"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发",
+      "url": "https://36kr.com/p/3797155747748867?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，途见科技（北京）有限公司（以下简称“途见科技”）近日完成Pre-A轮、Pre-A+轮融资，两轮累计金额超亿元，投资方包括联想之星、华控基金、元禾璞华、元禾控股、洪泰基金等。资金将主要用于核心技术研发，机器人全身触觉、触觉手套、触觉数据采集工具链等产品矩阵拓展和生产体系升级，加速市场化落地验证。</p>\n  <p>途见科技成立于2020年1月，聚焦可拉伸多模态柔性电子皮肤和具身触觉感知系统的研发与制造，以及触觉数据采集工具链的开发和模型建立，推动技术在具身智能、智能座舱、健康生活及情感陪伴等场景落地。公司分设北京和深圳"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”",
+      "url": "https://36kr.com/p/3797787228151048?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>作者｜梁键强</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260506/v2_0853f897d5044f1c87d058c166a18394@6162492_oswg122252oswg1268oswg714_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△图片来源：像素绽放PixelBloom</p>"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
+      "url": "https://36kr.com/p/3798462137637892?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>小米汽车：新一代SU7上市仅48天，锁单已超过80000台</p>\n  <p>胖东来19名管理人员被降级，1名管理人员被免职</p>\n  <p>追觅俞浩：建议年轻人别炒股</p>\n  <p>五一档票��7.58亿元</p>\n  <p>三星电子借AI热潮市值突破1万亿美元</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>三星宣布停止在中国大陆市场销售所有家电产品</strong></p>\n  <p>5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
+      "url": "https://36kr.com/p/3797482256325888?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3797641268042759\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>SpaceX提议投入550亿美元在得州启动Terafab项目</strong></a></p>\n  <p>埃隆·马斯克旗下的SpaceX公司提议斥资550亿美元，在得克萨斯州启动一座名为Terafab的新半导体生产设施的建设。根据格兰姆斯县官网发布的一份公告，如果该项目的后续阶段得以完成，预计总投资额可能升至119"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "从二游到种田：米哈游《星布谷地》能否走出舒适圈",
+      "url": "https://36kr.com/p/3797166332206338?f=rss",
+      "published_at": null,
+      "summary": "<p>文丨小葵</p>\n  <p>编辑丨果脯</p>\n  <p>2026年，生活模拟赛道正在经历一场“神仙打架”。腾讯的《粒粒的小人国》用微观世界把玩家缩回书桌，网易的《星绘友晴天》在外太空搞起了开荒叙事，而在海外，任天堂也上线了新作《朋友收集：梦想生活》。</p>\n  <p>4月21日，米哈游的《星布谷地》开启了二测。对他们来说，首次挑战社交大DAU品类的生活模拟游戏，无疑是一次不寻常且有压力的跨界。</p>\n  <p>自《原神》大火后，米哈游就围绕游戏性做过多次尝试，如主打回合制玩法的《崩坏：星穹铁道》，强调动作的《绝区零》。而在研产品里，除了《星布谷地》，还有捉宠like产品《崩坏：因缘"
     },
     {
       "source": "36氪",
@@ -218,54 +242,6 @@
       "url": "https://36kr.com/p/3797224394284033?f=rss",
       "published_at": null,
       "summary": "<p>“传统工业软件太难用了。”</p>\n  <p>这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。</p>\n  <p>“AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，<strong>Orthogonal想做的，是把“vibe”的方式带入硬件开发。</strong></p>\n  <p>Orthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了近二十年，参与过达索系统仿真工具核心功能的研发，领导了空客A350宽"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
-      "url": "https://36kr.com/p/3682907323150215?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。</p>\n  <p>此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授旗下ICANX基金等。本轮资金将用于旗下DTC消费医疗产品的上市进程、推进B端定制化模块的交付落地，以及开展国内外医疗注册证的申报工作。</p>\n  <p>家用健康检"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-      "url": "https://36kr.com/p/3797041945304327?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>分析师称iPhone 18 Pro定价策略激进，起步价8999元&nbsp;</li>\n   <li>胖东来郑州店注册成立，预计今年10月开业&nbsp;</li>\n   <li>保时捷卖掉布加迪，预计2026年销量下滑至3万辆&nbsp;</li>\n   <li>马斯克就推特持股披露诉讼与美证监会达成和解&nbsp;</li>\n   <li>三星继承人已付清12万亿韩元遗产税</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>豆包将在免费模式外新增付费订阅，官方回应</strong></p"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "五月，适合想清楚一件事｜幕启",
-      "url": "https://36kr.com/p/3794961189821698?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260504/v2_5ef3b16f1e4e43169a275cb124e3bc5d@5509299_oswg3314242oswg1690oswg1671_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：公众号「有三思 &nbsp;U &nbsp;Sense」</p>\n  <p>5月4日，一个被默认为“青年专属”"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
-      "url": "https://36kr.com/p/3794799114476809?f=rss",
-      "published_at": null,
-      "summary": "<p>近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260504/v2_777b0af85c5d47b2b0a2702bc4a57c99@56"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
-      "url": "https://36kr.com/p/3792228036615430?f=rss",
-      "published_at": null,
-      "summary": "<p>在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得冠军。赛后，荣耀CEO李健发文祝贺，并宣布作为张雪机车WSBK的首席战略合作品牌，荣耀将推出双方的冠军联名款手表，以庆祝这一夺冠时刻。 此前在4月初，荣耀已正式成为张雪机车WSBK首席战略合作品牌。荣耀首席营销官关海涛曾代表品牌向车队赠送荣耀WIN系列手机及荣耀WIN游戏本，寄望该系列产品能为车手带来胜利。荣耀此次通过与冠军联名，旨在借助国际赛事热度与效应，进一步提升品牌在年轻用户群体及运动场景中的影响力。 5月2日消息，在刚刚结"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
-      "url": "https://36kr.com/p/3789475357400068?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜肖漫</p>\n  <p>编辑｜李勤</p>\n  <p>当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。</p>\n  <p>卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。</p>\n  <p>“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。</p>\n  <p>在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。</p>\n  <p>"
     }
   ]
 }

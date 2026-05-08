@@ -1,183 +1,271 @@
 {
-  "updated_at": "2026-05-07T04:38:54.081150+00:00",
+  "updated_at": "2026-05-08T04:20:26.266683+00:00",
   "period_hours": 24,
-  "article_count": 30,
+  "article_count": 34,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
-      "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
-      "published_at": "2026-05-06T22:30:00+00:00",
-      "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size."
+      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
+      "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
+      "published_at": "2026-05-07T23:11:43+00:00",
+      "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "published_at": "2026-05-06T21:57:56+00:00",
-      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails."
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "published_at": "2026-05-07T22:24:50+00:00",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-      "published_at": "2026-05-06T21:43:24+00:00",
-      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat."
+      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+      "url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+      "published_at": "2026-05-07T21:49:24+00:00",
+      "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Is xAI a neocloud now?",
-      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "published_at": "2026-05-06T21:32:55+00:00",
-      "summary": "xAI's real business may be more about building data centers than training AI models."
+      "title": "Disney looking to make a unified ‘super app,’ report says",
+      "url": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
+      "published_at": "2026-05-07T21:40:10+00:00",
+      "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
-      "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
-      "published_at": "2026-05-06T20:39:16+00:00",
-      "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion."
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "published_at": "2026-05-07T21:02:11+00:00",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
-      "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
-      "published_at": "2026-05-06T19:57:31+00:00",
-      "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk."
+      "title": "Hackers deface school login pages after claiming another Instructure hack",
+      "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+      "published_at": "2026-05-07T20:59:09+00:00",
+      "summary": "The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
-      "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-      "published_at": "2026-05-06T19:10:09+00:00",
-      "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public."
+      "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
+      "url": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
+      "published_at": "2026-05-07T20:41:27+00:00",
+      "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-      "published_at": "2026-05-06T18:23:54+00:00",
-      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI."
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "published_at": "2026-05-07T20:20:20+00:00",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "AI Is Rewriting What Investors Should Look For In Early Startup Teams",
-      "url": "https://news.crunchbase.com/startups/ai-is-rewriting-what-investors-should-look-for-in-early-startup-teams/",
-      "published_at": "2026-05-06T11:00:49+00:00",
-      "summary": "Technical expertise still matters, but when everyone can build, thanks to AI, it no longer differentiates, writes guest author Aaron Tainter, director of accelerator programs at Innovation Works. And that forces a harder question for investors: If the product isn’t the moat, what is?"
+      "title": "Exclusive: Fazeshift Scores $17M As Investors Bet On AI-Powered Finance Ops, Starting With Accounts Receivable",
+      "url": "https://news.crunchbase.com/fintech/fazeshift-accounts-receivable-ai-finance-ops-startup-funding/",
+      "published_at": "2026-05-07T14:00:47+00:00",
+      "summary": "Fazeshift, a startup that uses AI agents to automate accounts receivable, has raised $17 million in a Series A round of funding, it tells Crunchbase News exclusively."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Frontier Labs And Robotics Companies Again Top List Of New Unicorns In April",
-      "url": "https://news.crunchbase.com/venture/new-ai-unicorn-startups-april-2026-frontier-labs-ineffable-intelligence-recursive-superintelligence/",
-      "published_at": "2026-05-06T11:00:30+00:00",
-      "summary": "A total of 28 companies joined The Crunchbase Unicorn Board in April, with robotics startups and frontier labs leading by number of entrants for the second consecutive month."
+      "title": "From Credit Cards To An AI Concierge: How Amex Ventures Backs Startups Building Autonomous Commerce",
+      "url": "https://news.crunchbase.com/fintech/amex-ventures-portfolio-strategy-agentic-ai-startups-kevin-tsang/",
+      "published_at": "2026-05-07T11:00:09+00:00",
+      "summary": "Crunchbase News interviews Kevin Tsang, managing director of Amex Ventures, about the firm’s investment thesis, the kinds of startups it aims to back, and how it works with founders to build and scale projects with a vision toward becoming a \"global agentic concierge.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Was it a secret Chinese spy headquarters or a ping-pong parlor? New York Chinatown case goes to trial",
-      "url": "https://fortune.com/2026/05/06/was-it-a-secret-chinese-spy-headquarters-or-a-ping-pong-parlor-new-york-chinatown-case-goes-to-trial/",
-      "published_at": "2026-05-06T23:34:50+00:00",
-      "summary": "China's communist government uses the outposts to monitor people it “views as enemies of its interests,” a prosecutor told jurors."
+      "title": "$96 billion giant ServiceNow doesn’t see a ‘SaaSpocalypse.’ It sees the ‘hard lift, heavy lifting’ phase just beginning",
+      "url": "https://fortune.com/2026/05/07/servicenow-knowledge-2026-conference-hard-work-just-beginning/",
+      "published_at": "2026-05-08T00:38:42+00:00",
+      "summary": "From the sidelines of its biggest-ever annual conference, ServiceNow COO Amit Zavery talked to Fortune about what should and shouldn't be sexy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Highly qualified White, Asian, and other students were denied admission’: DOJ accuses UCLA of discrimination",
-      "url": "https://fortune.com/2026/05/06/highly-qualified-white-asian-and-other-students-were-denied-admission-doj-accuses-ucla-of-discrimination/",
-      "published_at": "2026-05-06T23:33:32+00:00",
-      "summary": "The finding escalates the ongoing standoff with UCLA, which has focused mostly on the main campus’s response to allegations of antisemitic harassment."
+      "title": "Ford CEO says his Gen Z son is choosing hands-on work: ‘He feels like that’s more fulfilling than doing summer school at some fancy college’",
+      "url": "https://fortune.com/2026/05/07/ford-ceo-gen-z-son-blue-collar-work-not-fancy-college-summer-school/",
+      "published_at": "2026-05-07T22:30:00+00:00",
+      "summary": "Jim Farley told Fortune that we're still only in the \"second or third inning\" of solving the shortage of blue-collar workers in the essential economy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Before Mark Cuban and Jerry Jones, there was Ted Turner, the larger-than-life billionaire owner who changed sports",
-      "url": "https://fortune.com/2026/05/06/ted-turner-sports-owner-atlanta-braves-larger-than-life/",
-      "published_at": "2026-05-06T23:26:19+00:00",
-      "summary": "Turner was a sportsman of all types, a world champion in sailing and a World Series-winning owner in baseball."
+      "title": "73-year-old Susan Collins has been a senator for decades. She only just disclosed a benign essential tremor",
+      "url": "https://fortune.com/2026/05/07/what-medical-condition-does-susan-collins-have-maine-senate/",
+      "published_at": "2026-05-07T21:25:41+00:00",
+      "summary": "“The tremor is occasionally inconvenient, and sometimes the subject of cruel comments online, but it does not hinder my ability to work.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Understanding the legacy of Ted Turner and the creation of the 24-hour news cycle: ‘there is no hyperbole here’",
-      "url": "https://fortune.com/2026/05/06/ted-turner-24-hour-news-cycle-legacy-cnn-founder/",
-      "published_at": "2026-05-06T23:21:11+00:00",
-      "summary": "“Death and hyperbole often go together,” said media scholar Robert Thompson of Syracuse University. But not in this case."
+      "title": "Indosat CEO Vikram Sinha is building an AI for Indonesia’s local languages. Can he make a business case for sovereignty?",
+      "url": "https://fortune.com/2026/05/07/indosat-ooredoo-hutchison-ceo-vikram-sinha-indonesia-ai-sahabat/",
+      "published_at": "2026-05-07T21:00:00+00:00",
+      "summary": "Vikram Sinha wants Sahabat AI to be a platform for Indonesia's startups—even if he admits his team can't quite think of a \"business case\" right now."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "He was ‘The Mouth of the South’ and ‘Captain Outrageous,’ but Ted Turner said ‘If only I had a little humility, I’d be perfect’",
-      "url": "https://fortune.com/2026/05/06/ted-turner-nicknames-mouth-of-the-south-captain-outrageous/",
-      "published_at": "2026-05-06T23:15:59+00:00",
-      "summary": "President Donald Trump, reacting to Turner's death, called him “one of the Greats of All Time.”"
+      "title": "Tapestry thinks it’s cracked the code of ‘expressive luxury’ for Gen Z: a ‘Goldilocks’ combo of aspirational and approachable",
+      "url": "https://fortune.com/2026/05/07/gen-z-coach-expressive-luxury-tapestry-earnings-aspirational-approachable/",
+      "published_at": "2026-05-07T20:53:04+00:00",
+      "summary": "The Coach parent delivered a record quarter, with its flagship brand posting 29% revenue growth—powered by a Gen Z flywheel may be just getting started."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘FOMO has proven a stronger incentive than poor stock performance’: Goldman Sachs finds insecurity is a key part of the AI boom",
-      "url": "https://fortune.com/2026/05/06/is-ai-a-bubble-goldman-sachs-skeptics-overhyped/",
-      "published_at": "2026-05-06T17:33:15+00:00",
-      "summary": "Goldman Sachs looked at the giant data-center question from both sides of the equation — and shrugged."
+      "title": "Trump administration thinks maybe it’s okay to let people send handguns to each other through the mail",
+      "url": "https://fortune.com/2026/05/07/trump-usps-ship-guns-department-of-justice/",
+      "published_at": "2026-05-07T20:38:45+00:00",
+      "summary": "In 1927, Congress passed a law barring the USPS from mailing firearms unless they were from licensed dealers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The U.S. leads in 14 of 18 industries shaping the future economy — but the lead isn’t guaranteed",
-      "url": "https://fortune.com/2026/05/06/mckinsey-18-industries-arenas-global-economy-us-china-ai/",
-      "published_at": "2026-05-06T12:30:00+00:00",
-      "summary": "The McKinsey Global Institute identified the 18 \"arenas\" driving tomorrow's growth. Here's where America stands — and what companies must do to stay ahead."
+      "title": "Iran is setting up an agency to tax ships passing through Hormuz even as it negotiates a peace deal",
+      "url": "https://fortune.com/2026/05/07/iran-ship-tax-strait-of-hormuz-us-peace-deal/",
+      "published_at": "2026-05-07T20:30:02+00:00",
+      "summary": "The Iranian effort to formalize control over the channel raised new concerns about international shipping."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Cargo ship crews face attacks waiting the Gulf as Trump pauses two-day-old project to ‘guide’ ships",
-      "url": "https://fortune.com/2026/05/06/cargo-ship-crews-attacks-gulf-trump-pauses-project-guide/",
-      "published_at": "2026-05-06T20:23:30+00:00",
-      "summary": "A cargo container ship operated by the French CMA CGM Group  came under attack while attempting to transit the Strait of Hormuz as concerns about Iranian speedboats and drones are leading major ship owners and operators to say the strait remains too dangerous."
+      "title": "California farmers must destroy 420,000 peach trees after Del Monte closes its canneries and cancels more than $550 million in long-term contracts",
+      "url": "https://fortune.com/2026/05/07/california-peach-farmers-destroy-420000-peach-trees-del-monte-bankruptcy-filing/",
+      "published_at": "2026-05-07T20:23:32+00:00",
+      "summary": "One Del Monte canning facility processed 30% of the state’s cling peaches, and its closure left growers with a glut of crops with no one to process them."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Market research is too slow for the AI era, so Brox built 60,000 identical 'digital twins' of real people you can survey instantly, repeatedly",
-      "url": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
-      "published_at": "2026-05-06T16:16:49+00:00",
-      "summary": "<p>In a world where a viral TikTok video can cause a brand to trend globally in mere hours, the traditional market research cycle — often spanning 12 weeks — is becoming a liability. </p><p>The lag between a survey question and the answers from a wide (or targeted) pool of respondents has become a p"
+      "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
+      "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+      "published_at": "2026-05-08T00:09:35+00:00",
+      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> on Tuesday unveiled a suite of updates to its <a href=\"https://platform.claude.com/docs/en/managed-agents/overview\">Claude Managed Agents</a> platform at its second annual <a href=\"https://claude.com/code-with-claude\">Code with Claude developer c"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
-      "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
-      "published_at": "2026-05-06T15:00:00+00:00",
-      "summary": "<p>There&#x27;s an app for nearly every imaginable user and use case these days, but one thing they all have in common is that they&#x27;re centered around one device: the smartphone.</p><p>That changes today as <a href=\"https://huggingface.co/\">Hugging Face</a>, the 10-year-old New York City startu"
+      "title": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro",
+      "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
+      "published_at": "2026-05-07T21:23:46+00:00",
+      "summary": "<p>Every LangChain pipeline your team hardcodes starts breaking the moment the query distribution shifts — and it always shifts. That bottleneck is what Sakana AI set out to eliminate.</p><p>Researchers at Sakana AI have introduced the &quot;<a href=\"https://arxiv.org/abs/2512.04388\">RL Conductor</a"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Scaling AI into production is forcing a rethink of enterprise infrastructure",
-      "url": "https://venturebeat.com/orchestration/scaling-ai-into-production-is-forcing-a-rethink-of-enterprise-infrastructure",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "summary": "<p><i>Presented by Nutanix</i></p><hr /><p>Across industries, organizations are focused on how to move from AI pilots, proofs of concept, and cloud-based experimentation to deploying it at scale — across real workloads, for real users, in real business environments. VentureBeat spoke with Tarkan Man"
+      "title": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
+      "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus",
+      "published_at": "2026-05-07T18:24:00+00:00",
+      "summary": "<p>Even as leading AI providers like OpenAI and Anthropic <a href=\"https://x.ai/news/anthropic-compute-partnership\">battle over the compute</a> to train and release ever larger, more powerful models, other labs are going in a different direction — pursuing the development of smaller, more efficient"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Anthropic Skill scanners passed every check. The malicious code rode in on a test file.",
+      "url": "https://venturebeat.com/security/anthropic-skill-scanners-passed-every-check-malicious-code-test-file",
+      "published_at": "2026-05-07T07:00:00+00:00",
+      "summary": "<p>Picture this scenario: An Anthropic Skill scanner runs a full analysis of a Skill pulled from ClawHub or skills.sh. Its markdown instructions are clean, and no prompt injection is detected. No shell commands are hiding in the SKILL.md. Green across the board.</p><p>The scanner never looked at the"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Why AI breaks without context — and how to fix it",
+      "url": "https://venturebeat.com/orchestration/why-ai-breaks-without-context-and-how-to-fix-it",
+      "published_at": "2026-05-07T07:00:00+00:00",
+      "summary": "<p><i>Presented by Zeta Global</i></p><hr /><p>The gap between what AI promises and what it delivers is not subtle. The same model can produce precise, useful output in one system and generic, irrelevant results in another. </p><p>The issue is not the model. It&#x27;s the context.</p><p>Most enterpr"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: seafloor science and military chatbots",
-      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-      "published_at": "2026-05-06T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,"
+      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+      "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+      "published_at": "2026-05-07T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expe"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The balcony solar boom is coming to the US",
+      "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+      "published_at": "2026-05-07T10:00:00+00:00",
+      "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems co"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "What’s next for IVF",
+      "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+      "published_at": "2026-05-07T09:04:50+00:00",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Mil"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
+      "url": "https://36kr.com/p/3800022823951363?f=rss",
+      "published_at": null,
+      "summary": "<p>文&nbsp;|&nbsp;张冰冰</p>\n  <p>编辑&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，<strong>北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，</strong>资金将用于产品研发、市场拓展及产线落地。</p>\n  <p>「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难题。2023年4月在北京亦庄建成小试线，量产10Ah全固态电芯；2023年5月在河南兰考县国电投新能源产业园启动建设500M"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+      "url": "https://36kr.com/p/3799984046333186?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。</p>\n  <p>AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效率不足，内存无法实现统一地址空间共享，整体算力利用率较低。<"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+      "url": "https://36kr.com/p/3799129165863937?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠 周鑫雨</p>\n  <p>编辑｜袁斯来 杨轩</p>\n  <p>硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；<strong>目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。</strong></p>\n  <p>有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。</p>\n  <p><strong>一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差不多涨了3倍”。另有知情者透露，2"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应",
+      "url": "https://36kr.com/p/3799881836633093?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>30年前捐赠书画部分去向不明？天津美院回应</p>\n  <p>张雪怒斥门店给用户备注磨叽并补偿车主1万</p>\n  <p>茅台集团总经理王莉已回归</p>\n  <p>港交所计划未来数月推出黄金期货</p>\n  <p>马斯克：xAI作为独立公司将解散并入SpaceX</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>“很久没有这种兴奋感了”，段永平再加仓泡泡玛特</strong></p>\n  <p>5月7日，知名投资人段永平在社交平台发文称，把中国神华全部换成了泡泡玛特。值得注意的是，段永平此前已经多次表达了对泡泡玛特的看好，并直言"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+      "url": "https://36kr.com/p/3786528811572481?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜王毓婵 周鑫雨</p>\n  <p>编辑｜杨轩</p>\n  <p>“看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。&nbsp;</p>\n  <p>中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。&nbsp;</p>\n  <p>愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
+      "url": "https://36kr.com/p/3799089350712324?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>腾讯等入股机器人灵巧手研发商临界点</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等，现由智元创新（上海）科技股份有限公司、上海蓝驰新皓创业投资合伙企业（有限合伙）及上述新增股东等共同持股。公开资料显示，该公司由智元机"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "最前线|将彩色打印与激光切割合二为一，xTool发布新品",
+      "url": "https://36kr.com/p/3798845086882820?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>36氪获悉，个人创意工具品牌xTool于今日正式发布其新款消费级激光创作工具——xTool M2彩色智能激光雕刻机。</p>\n  <p>在目前的消费级激光雕刻市场中，用户面临的一个核心痛点在于“机械加工与色彩表现”的脱节：传统的激光雕刻机擅长物理切割与灼烧成痕，但若要制作彩色作品，用户往往需要经历繁琐的手动涂色、转印或多台设备切换对位，过程既复杂又难以保证精度。</p>\n  <p>xTool M2试图通过硬件层面的深度整合，将喷墨打印、激光雕刻与激光切割三项功能集成在单一设备内，让用户在同一套桌面流程中完成从设计到成品的闭环。"
     },
     {
       "source": "36氪",
@@ -186,62 +274,6 @@
       "url": "https://36kr.com/p/3797662460419337?f=rss",
       "published_at": null,
       "summary": "<p><strong>作者&nbsp;|&nbsp;李小霞</strong></p>\n  <p><strong>访谈|&nbsp;李小霞、杨轩</strong></p>\n  <p><strong>编辑&nbsp;|</strong>&nbsp;<strong>乔芊</strong></p>\n  <p>林清轩创始人孙来春有一段广为人知的惊险故事。</p>\n  <p>那是2020年春节疫情初起，林清轩大面积闭店，业绩断崖式下滑90%，公司账户里的现金最多支撑67天。</p>\n  <p>在那一刻，孙来春突然发现自己过去十几年引以为傲的线下基因，变成了最不堪一击的包袱。</p>\n  <p>后来的故事很"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发",
-      "url": "https://36kr.com/p/3797155747748867?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，途见科技（北京）有限公司（以下简称“途见科技”）近日完成Pre-A轮、Pre-A+轮融资，两轮累计金额超亿元，投资方包括联想之星、华控基金、元禾璞华、元禾控股、洪泰基金等。资金将主要用于核心技术研发，机器人全身触觉、触觉手套、触觉数据采集工具链等产品矩阵拓展和生产体系升级，加速市场化落地验证。</p>\n  <p>途见科技成立于2020年1月，聚焦可拉伸多模态柔性电子皮肤和具身触觉感知系统的研发与制造，以及触觉数据采集工具链的开发和模型建立，推动技术在具身智能、智能座舱、健康生活及情感陪伴等场景落地。公司分设北京和深圳"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”",
-      "url": "https://36kr.com/p/3797787228151048?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>作者｜梁键强</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260506/v2_0853f897d5044f1c87d058c166a18394@6162492_oswg122252oswg1268oswg714_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△图片来源：像素绽放PixelBloom</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
-      "url": "https://36kr.com/p/3798462137637892?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>小米汽车：新一代SU7上市仅48天，锁单已超过80000台</p>\n  <p>胖东来19名管理人员被降级，1名管理人员被免职</p>\n  <p>追觅俞浩：建议年轻人别炒股</p>\n  <p>五一档票��7.58亿元</p>\n  <p>三星电子借AI热潮市值突破1万亿美元</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>三星宣布停止在中国大陆市场销售所有家电产品</strong></p>\n  <p>5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
-      "url": "https://36kr.com/p/3797482256325888?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3797641268042759\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>SpaceX提议投入550亿美元在得州启动Terafab项目</strong></a></p>\n  <p>埃隆·马斯克旗下的SpaceX公司提议斥资550亿美元，在得克萨斯州启动一座名为Terafab的新半导体生产设施的建设。根据格兰姆斯县官网发布的一份公告，如果该项目的后续阶段得以完成，预计总投资额可能升至119"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "从二游到种田：米哈游《星布谷地》能否走出舒适圈",
-      "url": "https://36kr.com/p/3797166332206338?f=rss",
-      "published_at": null,
-      "summary": "<p>文丨小葵</p>\n  <p>编辑丨果脯</p>\n  <p>2026年，生活模拟赛道正在经历一场“神仙打架”。腾讯的《粒粒的小人国》用微观世界把玩家缩回书桌，网易的《星绘友晴天》在外太空搞起了开荒叙事，而在海外，任天堂也上线了新作《朋友收集：梦想生活》。</p>\n  <p>4月21日，米哈游的《星布谷地》开启了二测。对他们来说，首次挑战社交大DAU品类的生活模拟游戏，无疑是一次不寻常且有压力的跨界。</p>\n  <p>自《原神》大火后，米哈游就围绕游戏性做过多次尝试，如主打回合制玩法的《崩坏：星穹铁道》，强调动作的《绝区零》。而在研产品里，除了《星布谷地》，还有捉宠like产品《崩坏：因缘"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
-      "url": "https://36kr.com/p/3797276726893569?f=rss",
-      "published_at": null,
-      "summary": "<p>2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600mAh 超巨量「冰川电池」 + 120W 超级闪充组合，首发自研OPPO冰川电池聚能芯片，支持IP66/IP68/IP69/IP69K满级防尘防水，并搭载超流畅更 AI 的新一代ColorOS 1"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
-      "url": "https://36kr.com/p/3797224394284033?f=rss",
-      "published_at": null,
-      "summary": "<p>“传统工业软件太难用了。”</p>\n  <p>这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。</p>\n  <p>“AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，<strong>Orthogonal想做的，是把“vibe”的方式带入硬件开发。</strong></p>\n  <p>Orthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了近二十年，参与过达索系统仿真工具核心功能的研发，领导了空客A350宽"
     }
   ]
 }

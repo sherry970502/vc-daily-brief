@@ -1,127 +1,135 @@
 {
-  "updated_at": "2026-05-10T04:50:56.990405+00:00",
+  "updated_at": "2026-05-11T05:03:44.971278+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "published_at": "2026-05-10T02:00:00+00:00",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges."
+      "title": "Get ready for the whisper-filled office of the future",
+      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "published_at": "2026-05-10T21:15:30+00:00",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published_at": "2026-05-09T21:45:00+00:00",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "published_at": "2026-05-10T20:40:41+00:00",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Fintech startup Parker files for bankruptcy",
-      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
-      "published_at": "2026-05-09T20:32:17+00:00",
-      "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down."
+      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+      "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+      "published_at": "2026-05-10T18:08:54+00:00",
+      "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "GM agrees to pay $12.75M in California driver privacy settlement",
-      "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
-      "published_at": "2026-05-09T19:05:30+00:00",
-      "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta."
+      "title": "TechCrunch Mobility: Lime’s IPO gamble",
+      "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
+      "published_at": "2026-05-10T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
-      "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
-      "published_at": "2026-05-09T15:45:00+00:00",
-      "summary": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty."
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "published_at": "2026-05-10T15:34:25+00:00",
+      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-      "published_at": "2026-05-09T14:43:30+00:00",
-      "summary": "Nvidia continues to be a big investor in the AI ecosystem."
+      "title": "The hottest place for startups to strike a deal? The F1 paddock",
+      "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "published_at": "2026-05-10T15:13:07+00:00",
+      "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "UK moves warship to Middle East for potential Hormuz mission",
-      "url": "https://fortune.com/2026/05/09/uk-hms-dragon-warship-middle-east-deployment-strait-of-hormuz-escort/",
-      "published_at": "2026-05-09T23:13:51+00:00",
-      "summary": "HMS Dragon, a Type-45 warship capable of destroying guided missiles, is likely to form part of the UK’s offer for the defensive naval mission."
+      "title": "Mah Sing sees natural ‘spillovers’ from Malaysia’s strong growth, as the conglomerate bets on premium residences and data centers",
+      "url": "https://fortune.com/2026/05/10/mah-sing-deputy-ceo-lionel-leong-ai-data-centers/",
+      "published_at": "2026-05-10T21:00:00+00:00",
+      "summary": "\"The current administration is doing a lot to bring in FDI, and the middle class is growing,\" says deputy CEO Lionel Leong."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran war is draining world’s oil buffer at an unprecedented pace",
-      "url": "https://fortune.com/2026/05/09/iran-war-is-global-oil-stockpile-reserves-releases-strategic-petroleum-reserve/",
-      "published_at": "2026-05-09T23:06:41+00:00",
-      "summary": "Morgan Stanley estimates global oil stockpiles dropped by about 4.8 million barrels a day between March 1 and April 25."
+      "title": "Market guru Yardeni sees S&P 500 hitting 8,250 this year, highest among top Wall Street forecasters, as earnings bolster ‘Roaring 2020s’",
+      "url": "https://fortune.com/2026/05/10/stock-market-outlook-yardeni-sp500-price-target-hike-8250-earnings-roaring-2020s/",
+      "published_at": "2026-05-10T20:13:27+00:00",
+      "summary": "\"Our key assumption is that the economy will remain resilient, and so will earnings.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump Media posts $405 million loss driven by crypto holdings",
-      "url": "https://fortune.com/2026/05/09/trump-media-truth-social-405-million-loss-crypto-holdings-bitcoin/",
-      "published_at": "2026-05-09T22:56:10+00:00",
-      "summary": "The parent company of Truth Social reported positive operating cash flow of $17.9 million and $2.1 billion in financial assets, which is triple from a year ago."
+      "title": "Markets sell off as U.S.-Iran ceasefire plans go nowhere, leaving Trump with military options to reopen the Strait of Hormuz",
+      "url": "https://fortune.com/2026/05/10/markets-dow-futures-crude-oil-prices-us-iran-ceasefire-trump-military-option-strait-of-hormuz/",
+      "published_at": "2026-05-10T22:34:24+00:00",
+      "summary": "Trump soon blasted Iran's response as \"totally unacceptable.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The federal government must issue more debt than it expected as cash flow weakens, and ‘the bond market is shouting’",
-      "url": "https://fortune.com/2026/05/09/us-debt-treasury-bonds-government-borrowing-cash-flow-yields-fed/",
-      "published_at": "2026-05-09T22:37:45+00:00",
-      "summary": "\"In fact, analysts who have tracked the relationship between Fed policy and long-term yields going back to 1990 describe it as unprecedented.\""
+      "title": "Mexican cartel armed with explosives launched from drones attacks rural communities, forcing 800-1,000 families to flee",
+      "url": "https://fortune.com/2026/05/10/mexican-cartel-los-ardillos-explosives-drones-attacks-guerrero-rural-communities-families-flee/",
+      "published_at": "2026-05-10T21:25:28+00:00",
+      "summary": "Thousands of people – including children and the elderly – were forced to flee in just a span of days after what they say were years of mounting attacks."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A federal judge weighing the future of a D.C. golf course doesn’t want to be Amy Poehler, but Trump might be interested as he remakes parks",
-      "url": "https://fortune.com/2026/05/09/trump-national-mall-parks-golf-course-arc-ballroom-amy-poehler/",
-      "published_at": "2026-05-09T20:35:29+00:00",
-      "summary": "Trump is guaranteeing himself a lasting imprint on a city where he won just 6.5% of the vote in 2024."
+      "title": "The Strait of Hormuz crisis shows energy security is now a boardroom issue",
+      "url": "https://fortune.com/2026/05/10/strait-hormuz-iran-energy-security-boardroom/",
+      "published_at": "2026-05-10T20:59:00+00:00",
+      "summary": "Energy shocks have always been a threat to the broader economy, but energy is now deeply embedded in complex, electricity-dependent business systems."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump sees ‘beginning of the end’ in Russia’s war on Ukraine as both sides agrees to his request for a 3-day ceasefire",
-      "url": "https://fortune.com/2026/05/09/trump-beginning-of-the-end-russias-war-ukraine-3-day-ceasefire/",
-      "published_at": "2026-05-09T20:15:49+00:00",
-      "summary": "\"And we have a little period of time where they’re not going to be killing people. That’s very good.”"
+      "title": "Trump quickly blasts Iran’s response to U.S. ceasefire proposal as ‘totally unacceptable’ after warning Tehran ‘will be laughing no longer’",
+      "url": "https://fortune.com/2026/05/10/trump-iran-response-us-ceasefire-proposal-totally-unacceptable-hormuz-naval-blockade/",
+      "published_at": "2026-05-10T20:49:16+00:00",
+      "summary": "Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Russian debt defaults are surging, with a quarter of the bond market at risk, while Putin hides in bunkers fixated on his war instead of the economy",
-      "url": "https://fortune.com/2026/05/09/russian-debt-defaults-bond-market-risk-putin-bunker-ukraine-war-economy/",
-      "published_at": "2026-05-09T19:33:21+00:00",
-      "summary": "There were 11 technical defaults in 2024, 24 in 2025, and already 11 in just the first three months of 2026, according to Izvestia."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Ted Cruz says the quiet part out loud: Trump accounts are Social Security personal accounts as GOP senator reveals ‘dirty little secret’",
-      "url": "https://fortune.com/2026/05/09/ted-cruz-trump-accounts-social-security-payroll-taxes-entitlements-us-debt/",
-      "published_at": "2026-05-09T17:22:24+00:00",
-      "summary": "\"How did we get it done this time? Because we gave the money to babies and so the old people didn't get pissed.\""
+      "title": "Netanyahu says war with Iran isn’t over, need to secure uranium",
+      "url": "https://fortune.com/2026/05/10/netanyahu-iran-war-ceasefire-us-uranium-enrichment-nuclear-material/",
+      "published_at": "2026-05-10T18:35:34+00:00",
+      "summary": "Netanyahu declined to elaborate when asked if US or Israeli special forces would enter Iran to remove the nuclear material."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
-      "url": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
-      "published_at": "2026-05-09T16:00:00+00:00",
-      "summary": "<p>Here is a scenario that should concern every enterprise architect shipping autonomous AI systems right now: An observability agent is running in production. Its job is to detect infrastructure anomalies and trigger the appropriate response. Late one night, it flags an elevated anomaly score acros"
+      "title": "AI tool poisoning exposes a major flaw in enterprise agent security",
+      "url": "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security",
+      "published_at": "2026-05-10T17:22:13+00:00",
+      "summary": "<p>AI agents choose tools from shared registries by matching natural-language descriptions. But no human is verifying whether those descriptions are true. </p><p>I discovered this gap when I filed Issue #141 in the CoSAI <a href=\"https://github.com/cosai-oasis/secure-ai-tooling/issues/141\"><u>secure"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
+      "url": "https://36kr.com/p/3804282431659779?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>余轶南似乎是那种总能提前踩中风口的冒险家。</p>\n  <p>他总在追逐更新、更刺激，早期甚至带着些浪漫想象。博士毕业后，他没有如很多同侪一般，进入学术圈，过上平稳安定的一生，而是冲入互联网浪潮，2015年，他又因为余凯一句“我们一起去做 AI 芯片吧？” ，便追随余凯加入地平线创始团队，成为001号员工。此后几年，地平线逐渐成长为国际上自动驾驶领域最受关注的科技公司之一，并于2024年在港交所上市，成为当年港股最大的IPO。</p>\n  <p>2024年底，他离开地平线，创立"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨SK海力士回应“员工人均奖金达610万元”传闻；世界杯中国转播费从3亿美元腰斩到1.5亿；曝三星中国家电部门裁员补偿N+4，还送手机",
+      "url": "https://36kr.com/p/3804132892646919?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>一季度全国结婚登记169.7万对</p>\n  <p>bosie创始人刘光耀成为Kimi顾问？刘光耀回复“没入职”</p>\n  <p>英特尔与苹果据悉达成初步协议，将为后者设备制造芯片</p>\n  <p>业内人士称阿里未参与DeepSeek融资</p>\n  <p>新华社调查“胖东来为啥总被黑”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>员工人均奖金达610万人民币？SK海力士回应</strong></p>\n  <p>近日有消息称，SK海力士韩国员工人均奖金将达610万人民币。该消息源于国际投行麦格理证券的预测。该投行认为，若"
     },
     {
       "source": "36氪",
@@ -137,7 +145,7 @@
       "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
       "url": "https://36kr.com/p/3801745491943169?f=rss",
       "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。</p>\n  <p>长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。</p>\n  <p>根据Euromonitor等报告显"
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。</p>\n  <p>长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。</p>\n  <p>根据Euromonit"
     },
     {
       "source": "36氪",
@@ -153,7 +161,7 @@
       "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
       "url": "https://36kr.com/p/3801398177324550?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯���</p>\n  <p>硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。</p>\n  <p>北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。</p>\n  <p>电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。</p>\n  <p>北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。</p>\n  <p>电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及"
     },
     {
       "source": "36氪",
@@ -170,22 +178,6 @@
       "url": "https://36kr.com/p/3801348046151428?f=rss",
       "published_at": null,
       "summary": "<p><strong>整理</strong>｜Kris&nbsp;</p>\n  <h2><strong>今日热点导览</strong></h2>\n  <p>香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局</p>\n  <p>油价上调，加满一箱92号汽油将多花12.5元</p>\n  <p>钱江摩托否认“围剿张雪机车”</p>\n  <p>30条中日航线4月取消全部航班</p>\n  <p>SpaceX冲刺上市，资本开支飙升数百亿</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>DeepSeek拟募资最高500亿元</strong></p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
-      "url": "https://36kr.com/p/3800495686163721?f=rss",
-      "published_at": null,
-      "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>36氪获悉，<strong>低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，</strong>资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。</p>\n  <p>维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。<strong>加上6个月前连续完成的种子轮、天使轮，目前维新宇航已完成三轮融资，累计资金交割总额超亿元人民币。</strong></p>\n  <p>现阶段，维新宇航的<stro"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
-      "url": "https://36kr.com/p/3800183520091398?f=rss",
-      "published_at": null,
-      "summary": "<p>2026年的中国新能源SUV市场正经历着前所未有的内卷。</p>\n  <p>问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。</p>\n  <h3>卡位黄金价格带，向下争夺年轻群体</h3>\n  <p>从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距2950mm，属于标准的中大型五座SUV。官方定位为“新锐智慧SUV”，目标用户从问界以往的主力“30岁以上家庭用户和商务人群”向下延伸至25-35岁城市年轻"
     }
   ]
 }

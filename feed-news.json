@@ -1,119 +1,207 @@
 {
-  "updated_at": "2026-05-11T05:03:44.971278+00:00",
+  "updated_at": "2026-05-12T04:42:52.735736+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 27,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Get ready for the whisper-filled office of the future",
-      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "published_at": "2026-05-10T21:15:30+00:00",
-      "summary": "How will work setups change if we spend more and more time talking to our computers?"
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "published_at": "2026-05-12T00:09:01+00:00",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "published_at": "2026-05-10T20:40:41+00:00",
-      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "published_at": "2026-05-11T23:04:10+00:00",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
-      "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
-      "published_at": "2026-05-10T18:08:54+00:00",
-      "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important."
+      "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+      "url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+      "published_at": "2026-05-11T21:59:34+00:00",
+      "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Lime’s IPO gamble",
-      "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
-      "published_at": "2026-05-10T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+      "url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
+      "published_at": "2026-05-11T17:38:32+00:00",
+      "summary": "Five-year old European military drone startup Helsing is close to raising another monster round."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "published_at": "2026-05-10T15:34:25+00:00",
-      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX."
+      "title": "Bravo is creating unscripted microdramas for the Peacock app",
+      "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
+      "published_at": "2026-05-11T17:14:01+00:00",
+      "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The hottest place for startups to strike a deal? The F1 paddock",
-      "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-      "published_at": "2026-05-10T15:13:07+00:00",
-      "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor."
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "published_at": "2026-05-11T17:02:35+00:00",
+      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\""
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
+      "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
+      "published_at": "2026-05-11T16:00:00+00:00",
+      "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "NYT’s Wordle to become a TV game show",
+      "url": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
+      "published_at": "2026-05-11T14:23:25+00:00",
+      "summary": "This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustainable digital subscription business as print revenue continues to decline."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mah Sing sees natural ‘spillovers’ from Malaysia’s strong growth, as the conglomerate bets on premium residences and data centers",
-      "url": "https://fortune.com/2026/05/10/mah-sing-deputy-ceo-lionel-leong-ai-data-centers/",
-      "published_at": "2026-05-10T21:00:00+00:00",
-      "summary": "\"The current administration is doing a lot to bring in FDI, and the middle class is growing,\" says deputy CEO Lionel Leong."
+      "title": "This Gen Zer dropped out of college to become an influencer—now he’s a millionaire from selling products like Medicube and Neutrogena on TikTok Shop",
+      "url": "https://fortune.com/2026/05/11/logan-walter-dropped-out-of-college-become-influencer-millionaire-selling-products-on-tiktok-shop/",
+      "published_at": "2026-05-11T13:12:56+00:00",
+      "summary": "Logan Walter, a 21-year-old content creator selling products on TikTok Shop, reels in a seven-figure monthly income making videos in his childhood bedroom."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Market guru Yardeni sees S&P 500 hitting 8,250 this year, highest among top Wall Street forecasters, as earnings bolster ‘Roaring 2020s’",
-      "url": "https://fortune.com/2026/05/10/stock-market-outlook-yardeni-sp500-price-target-hike-8250-earnings-roaring-2020s/",
-      "published_at": "2026-05-10T20:13:27+00:00",
-      "summary": "\"Our key assumption is that the economy will remain resilient, and so will earnings.\""
+      "title": "Santa Clara County is suing Meta over allegations it profited from scam advertisements that particularly targeted seniors and families",
+      "url": "https://fortune.com/2026/05/11/santa-clara-county-meta-lawsuit-ads-fraud-profit/",
+      "published_at": "2026-05-11T18:31:41+00:00",
+      "summary": "The lawsuit claims certain ads promoted scams likes financial products and fraudulent cures."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets sell off as U.S.-Iran ceasefire plans go nowhere, leaving Trump with military options to reopen the Strait of Hormuz",
-      "url": "https://fortune.com/2026/05/10/markets-dow-futures-crude-oil-prices-us-iran-ceasefire-trump-military-option-strait-of-hormuz/",
-      "published_at": "2026-05-10T22:34:24+00:00",
-      "summary": "Trump soon blasted Iran's response as \"totally unacceptable.\""
+      "title": "Navy plans to buy 15 costly Trump-class battleships by 2055",
+      "url": "https://fortune.com/2026/05/11/navy-shipbuilding-budget-long-term-acquisition-15-trump-class-battleships-2055/",
+      "published_at": "2026-05-11T23:22:03+00:00",
+      "summary": "The new Trump battleships — unveiled and personally approved by the president — could cost at least $14.5 billion apiece."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mexican cartel armed with explosives launched from drones attacks rural communities, forcing 800-1,000 families to flee",
-      "url": "https://fortune.com/2026/05/10/mexican-cartel-los-ardillos-explosives-drones-attacks-guerrero-rural-communities-families-flee/",
-      "published_at": "2026-05-10T21:25:28+00:00",
-      "summary": "Thousands of people – including children and the elderly – were forced to flee in just a span of days after what they say were years of mounting attacks."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The Strait of Hormuz crisis shows energy security is now a boardroom issue",
-      "url": "https://fortune.com/2026/05/10/strait-hormuz-iran-energy-security-boardroom/",
-      "published_at": "2026-05-10T20:59:00+00:00",
-      "summary": "Energy shocks have always been a threat to the broader economy, but energy is now deeply embedded in complex, electricity-dependent business systems."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Trump quickly blasts Iran’s response to U.S. ceasefire proposal as ‘totally unacceptable’ after warning Tehran ‘will be laughing no longer’",
-      "url": "https://fortune.com/2026/05/10/trump-iran-response-us-ceasefire-proposal-totally-unacceptable-hormuz-naval-blockade/",
-      "published_at": "2026-05-10T20:49:16+00:00",
-      "summary": "Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Netanyahu says war with Iran isn’t over, need to secure uranium",
-      "url": "https://fortune.com/2026/05/10/netanyahu-iran-war-ceasefire-us-uranium-enrichment-nuclear-material/",
-      "published_at": "2026-05-10T18:35:34+00:00",
-      "summary": "Netanyahu declined to elaborate when asked if US or Israeli special forces would enter Iran to remove the nuclear material."
+      "title": "Trump Mobile quietly rewrote its fine print to say the gold Trump phone may never be made, a year after taking $100 deposits",
+      "url": "https://fortune.com/2026/05/11/trump-mobile-gold-trump-phone-deposits-t1-device-fcc/",
+      "published_at": "2026-05-11T22:41:14+00:00",
+      "summary": "The terms and conditions said the preorder deposit gives people \"a conditional opportunity\" to buy the phone if the company makes it."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "AI tool poisoning exposes a major flaw in enterprise agent security",
-      "url": "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security",
-      "published_at": "2026-05-10T17:22:13+00:00",
-      "summary": "<p>AI agents choose tools from shared registries by matching natural-language descriptions. But no human is verifying whether those descriptions are true. </p><p>I discovered this gap when I filed Issue #141 in the CoSAI <a href=\"https://github.com/cosai-oasis/secure-ai-tooling/issues/141\"><u>secure"
+      "title": "Thinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models'",
+      "url": "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models",
+      "published_at": "2026-05-11T22:21:02+00:00",
+      "summary": "<p>Is AI leaving the era of &quot;turn-based&quot; chat?</p><p>Right now, all of us who use AI models regularly for work or in our personal lives know that the basic interaction mode across text, imagery, audio, and video remains the same: the human user provides an input, waits anywhere between mil"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.",
+      "url": "https://venturebeat.com/security/cisco-dickman-agentic-ai-trust-identity-governance-microsegmentation",
+      "published_at": "2026-05-11T17:15:18+00:00",
+      "summary": "<p>A doctor in a hospital exam room watches as a medical transcription agent updates electronic health records, prompts prescription options, and surfaces patient history in real time. A computer vision agent on a manufacturing line is running quality control at speeds no human inspector can match."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "published_at": "2026-05-11T17:35:12+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "published_at": "2026-05-11T13:33:06+00:00",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Innovation abounds in device charging",
+      "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+      "published_at": "2026-05-11T13:00:00+00:00",
+      "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Implementing advanced AI technologies in finance",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "published_at": "2026-05-11T13:00:00+00:00",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+      "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+      "published_at": "2026-05-11T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a typ"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "Walulu：用六个月撕开一条新赛道",
+      "url": "https://36kr.com/p/3805761383751427?f=rss",
+      "published_at": null,
+      "summary": "<p>文丨果脯</p>\n  <p>近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。</p>\n  <p>目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。</p>\n  <p>雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财务投资人的直觉，也获得了产品方对其产品的市场期望。</p>\n  <p>雨之灵动的核心产品是AI仿生毛绒宠物Walulu。在公司创始人兼CEO顾小毛的愿景中，他"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+      "url": "https://36kr.com/p/3805672617959173?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。</p>\n  <p>熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。</p>\n  <p>目前，熵约科技的首款产品针对家庭空间设计，为全球首款家庭飞行机器人Flyer O1。</p>"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
+      "url": "https://36kr.com/p/3805557782486785?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>天舟十号货运飞船与空间站组合体完成交会对接</p>\n  <p>国家广播电视总局：4月经备案国产电视动画片51部、9659分钟</p>\n  <p>任天堂股价因Switch 2游戏前景不佳大幅下跌</p>\n  <p><strong>千问与淘宝打通，正式上线AI购物</strong></p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>美国总统特朗普：非常期待中国之行</strong></p>\n  <p>外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。</p>\n  <p>当地"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例",
+      "url": "https://36kr.com/p/3804356346879495?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。</p>\n  <p>按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场层面的热度同样高涨：据IT桔子数据，到今年4月，国内量子计算赛道中的企业已超过90家，TOP 10企业的总估值逼近500亿元。其中，那些拥有海外顶尖学术背景和"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+      "url": "https://36kr.com/p/3804795647729411?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>百济神州：第一季度净利润为16.08亿元，同比扭亏为盈</strong></p>\n  <p>36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。</p>\n  <p><strong>营收确认规则是否存在调整可能？贵州茅台回应</strong></p>\n  <p>5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "理想整车研发负责人刘立国：说理想不重视技术，是大大的误解",
+      "url": "https://36kr.com/p/3804380633554696?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260511/v2_45abe9e6e11a4260adccea3884e45ea0@6310690_oswg3765504oswg2408oswg1702_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">理想汽车整车电动研发高级副总裁 刘立国</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜李勤</p>\n  <p>"
     },
     {
       "source": "36氪",
@@ -130,54 +218,6 @@
       "url": "https://36kr.com/p/3804132892646919?f=rss",
       "published_at": null,
       "summary": "<h2>今日热点导览</h2>\n  <p>一季度全国结婚登记169.7万对</p>\n  <p>bosie创始人刘光耀成为Kimi顾问？刘光耀回复“没入职”</p>\n  <p>英特尔与苹果据悉达成初步协议，将为后者设备制造芯片</p>\n  <p>业内人士称阿里未参与DeepSeek融资</p>\n  <p>新华社调查“胖东来为啥总被黑”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>员工人均奖金达610万人民币？SK海力士回应</strong></p>\n  <p>近日有消息称，SK海力士韩国员工人均奖金将达610万人民币。该消息源于国际投行麦格理证券的预测。该投行认为，若"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
-      "url": "https://36kr.com/p/3802822550839047?f=rss",
-      "published_at": null,
-      "summary": "<blockquote>\n   <p>编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。</p>\n   <p>这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着这些疑问，36氪和Ozon大中华区总裁Simon Huang（黄效）进行了一次交流。结论就是：俄语区还有比较长的红利期，中国电商迁移过去有足够的品牌优势、"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
-      "url": "https://36kr.com/p/3801745491943169?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。</p>\n  <p>长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。</p>\n  <p>根据Euromonit"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "AI开始接管年轻人的「精神自留地」",
-      "url": "https://36kr.com/p/3801461350702855?f=rss",
-      "published_at": null,
-      "summary": "<h4><strong>撰文｜锅包柚</strong></h4>\n  <h4><strong>封面来源｜Unsplash（AI辅助扩图）</strong></h4>\n  <p>五一假期已经结束，但打工人的“节后综合症”并未消退。</p>\n  <p>面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。</p>\n  <p>屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，<strong>伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。</strong></p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
-      "url": "https://36kr.com/p/3801398177324550?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。</p>\n  <p>北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。</p>\n  <p>电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-      "url": "https://36kr.com/p/3797202414820359?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下宁波智能技术研究院、清水湾二期基金及奇绩创坛的种子轮及天使轮投资。</p>\n  <p>星识科技是一家专注智能影像技术研发与硬件制造的企业，以远景观测场景为切点，曾推出融合A"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-      "url": "https://36kr.com/p/3801348046151428?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>整理</strong>｜Kris&nbsp;</p>\n  <h2><strong>今日热点导览</strong></h2>\n  <p>香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局</p>\n  <p>油价上调，加满一箱92号汽油将多花12.5元</p>\n  <p>钱江摩托否认“围剿张雪机车”</p>\n  <p>30条中日航线4月取消全部航班</p>\n  <p>SpaceX冲刺上市，资本开支飙升数百亿</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>DeepSeek拟募资最高500亿元</strong></p>"
     }
   ]
 }

@@ -1,199 +1,159 @@
 {
-  "updated_at": "2026-05-16T04:34:23.644114+00:00",
+  "updated_at": "2026-05-17T04:58:08.878404+00:00",
   "period_hours": 24,
-  "article_count": 32,
+  "article_count": 24,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-      "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-      "published_at": "2026-05-15T20:30:20+00:00",
-      "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees."
+      "title": "The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "published_at": "2026-05-16T20:17:16+00:00",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-      "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
-      "published_at": "2026-05-15T20:25:35+00:00",
-      "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times."
+      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "published_at": "2026-05-16T19:26:14+00:00",
+      "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
-      "url": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
-      "published_at": "2026-05-15T18:51:33+00:00",
-      "summary": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password."
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "published_at": "2026-05-16T18:54:28+00:00",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-      "published_at": "2026-05-15T18:14:44+00:00",
-      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity."
+      "title": "The offline desk gadget that actually got me to sit up straight",
+      "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+      "published_at": "2026-05-16T16:00:00+00:00",
+      "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
-      "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-      "published_at": "2026-05-15T17:13:26+00:00",
-      "summary": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis."
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "published_at": "2026-05-16T15:33:33+00:00",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "published_at": "2026-05-15T16:00:00+00:00",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "published_at": "2026-05-16T15:00:00+00:00",
+      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
-      "url": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
-      "published_at": "2026-05-15T15:45:53+00:00",
-      "summary": "The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
-      "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
-      "published_at": "2026-05-15T15:42:11+00:00",
-      "summary": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Anduril Leads Varied Lineup Of Large Deals",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-anduril-voltagrid-mind-robotics/",
-      "published_at": "2026-05-15T19:50:02+00:00",
-      "summary": "Defense tech unicorn Anduril Industries led the fundraising lineup in a week heavy with rounds for companies focused on applications in the physical world. Anduril’s $5 billion financing was by far the biggest. Other large rounds went to companies focused on supplying data power, robotics, space tec"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "5 Interesting Startup Deals You May Have Missed: A Law Firm Operating System, Building Defense Tech Near The Battlefield, And Cell-Based Milk",
-      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-defense-physical-ai-manifest-law-solar-recycling-cell-milk/",
-      "published_at": "2026-05-15T11:00:52+00:00",
-      "summary": "Most of the interesting companies that caught our eye in the past month were working on problems in the physical world, often far from the glow of a laptop screen. They include a supplier of cell-based milk, a startup that bills itself as the operating system for modern law firms, and a defense tech"
+      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+      "published_at": "2026-05-16T14:00:00+00:00",
+      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Trump’s ‘unusual’ brokerage account traded around his own market-moving decisions—selling hyperscalers and buying energy stocks during the war",
-      "url": "https://fortune.com/2026/05/15/trump-stock-trades-brokerage-iran-war-ai-big-tech-market-moving/",
-      "published_at": "2026-05-16T00:05:53+00:00",
-      "summary": "A new filing reveals 3,642 trades in Q1 in an account held in Trump’s name. The Trump Organization and White House say the president has no role in directing the account."
+      "title": "IDEO invented ‘human-centered design.’ Can it survive an AI world where everything looks the same?",
+      "url": "https://fortune.com/2026/05/16/ideo-invented-human-centered-design-mike-peng-ceo-ai-innovation/",
+      "published_at": "2026-05-16T07:00:00+00:00",
+      "summary": "After decades championing human-centered design, IDEO is reinventing itself as a teacher of innovation rather than a seller of design."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Berkshire triples Alphabet stake and buys Delta stock while dumping Amazon in Greg Abel’s first quarter as CEO",
-      "url": "https://fortune.com/2026/05/15/berkshire-hathaway-alphabet-stock-delta-stock-amazon-shares-ceo-greg-abel-13f-q1/",
-      "published_at": "2026-05-15T23:32:59+00:00",
-      "summary": "By the end of March, Berkshire owned nearly 58 million Alphabet shares worth almost $17 billion."
+      "title": "U.S. allows Russia oil sales waiver to expire despite tight market",
+      "url": "https://fortune.com/2026/05/16/us-russia-oil-sales-sanctions-waiver-expire-tight-market/",
+      "published_at": "2026-05-16T23:32:44+00:00",
+      "summary": "The expiration effectively ends for now a brief period where the administration eased sanctions on some Russian oil, enabling purchases that would otherwise be barred."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX said to plan public IPO filing as soon as Wednesday",
-      "url": "https://fortune.com/2026/05/15/spacex-ipo-public-filing-elon-musk-trading-debut-ticker-spcx/",
-      "published_at": "2026-05-15T23:22:24+00:00",
-      "summary": "Elon Musk’s rocket, satellite and AI company aims to kick off formal marketing as soon as June 4, price its IPO as early as June 11 and list on June 12"
+      "title": "AI poised to tilt job market leverage toward older workers",
+      "url": "https://fortune.com/2026/05/16/ai-job-market-leverage-older-workers-entry-level-positions/",
+      "published_at": "2026-05-16T23:13:55+00:00",
+      "summary": "“It’s those mid- and senior-level employees that CEOs are now looking at to drive productivity.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Startups are installing tiny data centers in people’s homes to reduce strain on the beleaguered electrical grid",
-      "url": "https://fortune.com/2026/05/15/startups-tiny-data-centers-beleaguered-electrical-grid-heata-span/",
-      "published_at": "2026-05-15T19:58:58+00:00",
-      "summary": "Span, in partnership with Nvidia and PulteGroup, uses homes’ underutilized electrical capacity in computer processing."
+      "title": "U.S., Iran stall on Hormuz reopening as oil supplies tighten",
+      "url": "https://fortune.com/2026/05/16/us-trump-iran-war-ceasefire-strait-of-hormuz-reopening-oil-supplies-china-summit/",
+      "published_at": "2026-05-16T23:03:53+00:00",
+      "summary": "Physical crude markets have also firmed again in recent days, offering a reminder of the wider supply tightness that’s hitting the global oil industry."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dominoes are steadily falling in the path of the rate cuts Trump wants to see from Kevin Warsh",
-      "url": "https://fortune.com/2026/05/15/treasury-inflation-data-rate-cuts-fomc-trump-kevin-warsh/",
-      "published_at": "2026-05-15T16:12:30+00:00",
-      "summary": "\"In his confirmation hearing, Warsh testified that 'inflation is a choice.' He may get the chance to prove he actually believes it.\""
+      "title": "Former top Russian official admits the country is over Putin and can ‘imagine a future without him’ — even elites bail as Kremlin seizes their assets",
+      "url": "https://fortune.com/2026/05/16/russian-regime-economy-putin-future-inflation-ukraine-war-oligarchs-asset-seizures/",
+      "published_at": "2026-05-16T22:07:06+00:00",
+      "summary": "People are required to be loyal without being told what future that loyalty serves.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Bill Ackman has been quietly buying Microsoft since February, when AI fears were dragging the stock",
-      "url": "https://fortune.com/2026/05/15/bill-ackman-microsoft-stock-openai-azure-spending/",
-      "published_at": "2026-05-15T15:14:49+00:00",
-      "summary": "The Pershing Square founder is betting that investors are wrong about Microsoft's Azure growth and $190 billion capex budget."
+      "title": "Trump’s IRS suit may end with a $1.7 billion compensation fund",
+      "url": "https://fortune.com/2026/05/16/trump-irs-lawsuit-compensation-fund-government-weaponization/",
+      "published_at": "2026-05-16T20:15:27+00:00",
+      "summary": "The fund would pay victims of so-called government weaponization."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "America’s productivity boom started before AI, and a Stanford economist who decoded the Great Resignation says working from home is the reason why",
-      "url": "https://fortune.com/2026/05/15/america-productivity-boom-stanford-economist-nicholas-bloom-remote-work-future/",
-      "published_at": "2026-05-15T20:40:51+00:00",
-      "summary": "National data show “a clear post-2020 surge in productivity growth exactly when WFH ramped up,” said Stanford economist Nicholas Bloom."
+      "title": "World’s largest aircraft carrier returns from 11-month deployment, longest since Vietnam, after supporting Iran war and Maduro raid",
+      "url": "https://fortune.com/2026/05/16/uss-gerald-ford-aircraft-carrier-return-11-month-deployment-iran-war-maduro-raid/",
+      "published_at": "2026-05-16T19:58:47+00:00",
+      "summary": "In recognition of their service during the Iran war, the Ford and the accompanying ships were awarded the prestigious Presidential Unit Citation."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Ray Dalio says China’s ascent ushers in era of ‘tribute system’",
+      "url": "https://fortune.com/2026/05/16/ray-dalio-bridgewater-china-ascent-global-powers-trump-xi-summit-tribute-system/",
+      "published_at": "2026-05-16T19:50:22+00:00",
+      "summary": "“You’re seeing a number of leaders go up to China. It’s like the tribute system that existed throughout history to come and recognize the differences in power.\""
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
-      "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
-      "published_at": "2026-05-15T21:06:09+00:00",
-      "summary": "<p>The company formerly known as <a href=\"https://www.intercom.com/\">Intercom</a> just did something that no major customer service platform has attempted at scale: it built an AI agent whose sole job is to manage another AI agent.</p><p><a href=\"https://fin.ai/operator\">Fin Operator</a>, announced"
+      "title": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
+      "url": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from",
+      "published_at": "2026-05-16T21:05:53+00:00",
+      "summary": "<p>For <a href=\"https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly?_gl=1*11n0mtp*_up*MQ..*_ga*NTg2MjM1NTE0LjE3Nzg5NjQ5NzA.*_ga_SCH1J7LNKY*czE3Nzg5NjQ5NjkkbzEkZzAkdDE3Nzg5NjQ5NjkkajYwJGwwJGgw*_ga_B8TDS1LEXQ*czE3Nzg5NjQ5NjkkbzEkZzA"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
-      "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
-      "published_at": "2026-05-15T21:04:15+00:00",
-      "summary": "<p>One of the key challenges of current multi-agent AI systems is that they communicate by generating and sharing text sequences, which introduces latency, drives up token costs, and makes it difficult to train the entire system as a cohesive unit. </p><p>To overcome this challenge, researchers at U"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
+      "url": "https://36kr.com/p/3812789087264519?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260517/v2_fd10bea31a37453aa18408f32cf8c275@5579416_oswg83833oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">SpaceX</p>\n  <h3>5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
-      "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
-      "published_at": "2026-05-15T16:45:00+00:00",
-      "summary": "<p><i>New VB Pulse data shows Microsoft and OpenAI leading enterprise agent orchestration, but Anthropic’s first measurable foothold points to a larger fight over who controls the infrastructure where AI agents run.</i></p><p>For the last two years, the enterprise AI race has mostly been framed as a"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
+      "url": "https://36kr.com/p/3812788568907520?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。</p>\n  <p>绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。</p>\n  <p>绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "published_at": "2026-05-15T23:39:35+00:00",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-      "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
-      "published_at": "2026-05-15T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for sma"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The world is on track to miss its health targets",
-      "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
-      "published_at": "2026-05-15T09:00:00+00:00",
-      "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday."
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "How Chinese short dramas became AI content machines",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "published_at": "2026-05-15T09:00:00+00:00",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "48022桌需退款，这家网红店出了什么事？",
+      "url": "https://36kr.com/p/3812706162220548?f=rss",
+      "published_at": null,
+      "summary": "<p>“由于您吃到的只是‘烤熟的羊肉串’，而不是‘最佳状态的羊肉串’，我们内心感到惭愧，所以原路‘退回首轮烤制一半羊肉串的钱’作为补偿。”</p>\n  <p>近日，不少网友在社交平台发文称，收到了“很久以前羊肉串”的部分退款及一条道歉短信。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260517/v2_443e0701ae7844f4a3d2b9876e8b2421@5579416_oswg135434oswg742oswg842_img_000?x-oss-process=image/"
     },
     {
       "source": "36氪",
@@ -234,30 +194,6 @@
       "url": "https://36kr.com/p/3810380205989632?f=rss",
       "published_at": null,
       "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260515/v2_cac9f14671cf448da9ad565f32eee432@6381723_oswg367230oswg900oswg480_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260515/v2_0"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
-      "url": "https://36kr.com/p/3810308239465986?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260515/v2_c7d0815052cc403cad37eb9b3a9973d9@5889148_oswg353064oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p>当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
-      "url": "https://36kr.com/p/3810091479293449?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。</p>\n  <p>其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。</p>\n  <p>36氪了解到，北汽是千里科技眼下最具确定性的外部客户，双方计划于今年内成立合资公司。</p>\n  <p>千里科技与北汽计划合作5款车型，其中包含一款轿车，一款越野车型，还有一款轿跑猎装版。其中部分车型计划于今年发布。</p>\n  <p>除长安、北汽之外，传统高端品牌奥迪、安徽地方国企奇瑞等车企，也在与千里科技商谈辅助驾驶领"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业",
-      "url": "https://36kr.com/p/3809936183860740?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，北京思创航天精密制造有限公司（以下简称“思创航天”）近日完成新一轮数千万元融资，由丹诚资本独家投资。</p>\n  <p>思创航天前身为沈阳融创精密制造有限公司航天项目中心（融创精密为上市公司富创精密全资子公司），早在2020年3月便已开始参与航天发动机零部件制造业务，并于2025年正式独立成立公司。</p>\n  <p><strong>目前，公司专注于航天发动机、卫星及其他航天产品核心零部件的精密制造。主要客户包括星河动力、星际荣耀、东方空间、大航跃迁、中船重工、沈阳铸"
     }
   ]
 }

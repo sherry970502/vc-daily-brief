@@ -1,199 +1,183 @@
 {
-  "updated_at": "2026-05-17T04:58:08.878404+00:00",
+  "updated_at": "2026-05-18T05:13:41.380867+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The haves and have nots of the AI gold rush",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "published_at": "2026-05-16T20:17:16+00:00",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "published_at": "2026-05-17T20:15:00+00:00",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-      "published_at": "2026-05-16T19:26:14+00:00",
-      "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic."
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "published_at": "2026-05-17T19:46:34+00:00",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "published_at": "2026-05-16T18:54:28+00:00",
-      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "published_at": "2026-05-17T16:32:04+00:00",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The offline desk gadget that actually got me to sit up straight",
-      "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-      "published_at": "2026-05-16T16:00:00+00:00",
-      "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits"
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "published_at": "2026-05-17T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "published_at": "2026-05-16T15:33:33+00:00",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-      "published_at": "2026-05-16T15:00:00+00:00",
-      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
-      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
-      "published_at": "2026-05-16T14:00:00+00:00",
-      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks."
+      "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+      "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+      "published_at": "2026-05-17T15:00:00+00:00",
+      "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "IDEO invented ‘human-centered design.’ Can it survive an AI world where everything looks the same?",
-      "url": "https://fortune.com/2026/05/16/ideo-invented-human-centered-design-mike-peng-ceo-ai-innovation/",
-      "published_at": "2026-05-16T07:00:00+00:00",
-      "summary": "After decades championing human-centered design, IDEO is reinventing itself as a teacher of innovation rather than a seller of design."
+      "title": "World Economic Forum: women’s health gets only 20% of R&D funding. We must seize this $1 trillion opportunity",
+      "url": "https://fortune.com/2026/05/18/womens-health-innovation-gap-wef-radar-shyam-bishen/",
+      "published_at": "2026-05-18T04:00:00+00:00",
+      "summary": "A new radar developed with the Gates Foundation and Wellcome Leap reveals that fewer than 3% of clinical trials are women-specific."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. allows Russia oil sales waiver to expire despite tight market",
-      "url": "https://fortune.com/2026/05/16/us-russia-oil-sales-sanctions-waiver-expire-tight-market/",
-      "published_at": "2026-05-16T23:32:44+00:00",
-      "summary": "The expiration effectively ends for now a brief period where the administration eased sanctions on some Russian oil, enabling purchases that would otherwise be barred."
+      "title": "Markets are jittery as the global oil crisis bleeds into a global debt selloff, while Trump weighs new military options on Iran",
+      "url": "https://fortune.com/2026/05/17/dow-futures-oil-crisis-debt-selloff-bond-yields-iran-hormuz-military-options/",
+      "published_at": "2026-05-17T23:38:33+00:00",
+      "summary": "Trump told Axios \"the clock is ticking\" for Iran and warned if the regime doesn't make a better deal \"they are going to get hit much harder.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI poised to tilt job market leverage toward older workers",
-      "url": "https://fortune.com/2026/05/16/ai-job-market-leverage-older-workers-entry-level-positions/",
-      "published_at": "2026-05-16T23:13:55+00:00",
-      "summary": "“It’s those mid- and senior-level employees that CEOs are now looking at to drive productivity.”"
+      "title": "CDC to escalate Ebola response after WHO declares emergency",
+      "url": "https://fortune.com/2026/05/17/cdc-ebola-response-who-global-health-emergency-congo-uganda/",
+      "published_at": "2026-05-17T23:03:36+00:00",
+      "summary": "The agency plans to deploy additional staff to the affected countries and will provide technical support."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S., Iran stall on Hormuz reopening as oil supplies tighten",
-      "url": "https://fortune.com/2026/05/16/us-trump-iran-war-ceasefire-strait-of-hormuz-reopening-oil-supplies-china-summit/",
-      "published_at": "2026-05-16T23:03:53+00:00",
-      "summary": "Physical crude markets have also firmed again in recent days, offering a reminder of the wider supply tightness that’s hitting the global oil industry."
+      "title": "Four crew members ejected safely after two Navy jets collide and crash during air show in Idaho",
+      "url": "https://fortune.com/2026/05/17/navy-crew-members-jets-collision-crash-air-show-idaho/",
+      "published_at": "2026-05-17T21:13:40+00:00",
+      "summary": "The base said in a social media post that it was locked down following the incident during the Gunfighter Skies Air Show."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Former top Russian official admits the country is over Putin and can ‘imagine a future without him’ — even elites bail as Kremlin seizes their assets",
-      "url": "https://fortune.com/2026/05/16/russian-regime-economy-putin-future-inflation-ukraine-war-oligarchs-asset-seizures/",
-      "published_at": "2026-05-16T22:07:06+00:00",
-      "summary": "People are required to be loyal without being told what future that loyalty serves.\""
+      "title": "Gundlach says it’s ‘just not possible’ for the Fed to cut rates",
+      "url": "https://fortune.com/2026/05/17/jeffrey-gundlach-doubleline-fed-rate-cuts-not-possible-inflation-kevin-warsh/",
+      "published_at": "2026-05-17T20:37:18+00:00",
+      "summary": "Newly confirmed as Federal Reserve chair, Kevin Warsh is coming into the role at a “rough time,” Gundlach said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s IRS suit may end with a $1.7 billion compensation fund",
-      "url": "https://fortune.com/2026/05/16/trump-irs-lawsuit-compensation-fund-government-weaponization/",
-      "published_at": "2026-05-16T20:15:27+00:00",
-      "summary": "The fund would pay victims of so-called government weaponization."
+      "title": "Supply shocks weren’t random. They were strategic—and should be seen as ‘supply coercion’ instead, former Fed official says",
+      "url": "https://fortune.com/2026/05/17/supply-shocks-coercion-random-strategic-russia-gas-hormuz-oil-china-rare-earths-fed-rates/",
+      "published_at": "2026-05-17T20:13:30+00:00",
+      "summary": "\"The word 'shock' assumes the world resets. The world has stopped resetting.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "World’s largest aircraft carrier returns from 11-month deployment, longest since Vietnam, after supporting Iran war and Maduro raid",
-      "url": "https://fortune.com/2026/05/16/uss-gerald-ford-aircraft-carrier-return-11-month-deployment-iran-war-maduro-raid/",
-      "published_at": "2026-05-16T19:58:47+00:00",
-      "summary": "In recognition of their service during the Iran war, the Ford and the accompanying ships were awarded the prestigious Presidential Unit Citation."
+      "title": "U.S. says China to buy $17 billion of agricultural goods annually",
+      "url": "https://fortune.com/2026/05/17/us-china-purchase-17-billion-agricultural-goods-trump-xi-jinping-summit/",
+      "published_at": "2026-05-17T18:24:16+00:00",
+      "summary": "The White House issued a fact sheet detailing President Donald Trump’s two-day summit in China."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Ray Dalio says China’s ascent ushers in era of ‘tribute system’",
-      "url": "https://fortune.com/2026/05/16/ray-dalio-bridgewater-china-ascent-global-powers-trump-xi-summit-tribute-system/",
-      "published_at": "2026-05-16T19:50:22+00:00",
-      "summary": "“You’re seeing a number of leaders go up to China. It’s like the tribute system that existed throughout history to come and recognize the differences in power.\""
+      "title": "Taiwan’s president says the U.S. arms sales that Trump called a bargaining chip with China are ‘the most important deterrent’ of regional conflict",
+      "url": "https://fortune.com/2026/05/17/taiwan-president-us-arms-sales-trump-china-bargaining-chip-deterrent-regional-conflict/",
+      "published_at": "2026-05-17T18:13:40+00:00",
+      "summary": "Trump approved in December a record-breaking $11 billion arms package to Taiwan including missiles, drones, artillery systems and military software."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
-      "url": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from",
-      "published_at": "2026-05-16T21:05:53+00:00",
-      "summary": "<p>For <a href=\"https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly?_gl=1*11n0mtp*_up*MQ..*_ga*NTg2MjM1NTE0LjE3Nzg5NjQ5NzA.*_ga_SCH1J7LNKY*czE3Nzg5NjQ5NjkkbzEkZzAkdDE3Nzg5NjQ5NjkkajYwJGwwJGgw*_ga_B8TDS1LEXQ*czE3Nzg5NjQ5NjkkbzEkZzA"
+      "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
+      "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
+      "published_at": "2026-05-17T18:00:23+00:00",
+      "summary": "<p>Retrieval-augmented generation (RAG) has become the de facto standard for grounding large language models (LLMs) in private data. The standard architecture — chunking documents, embedding them into a vector database, and retrieving top-k results via cosine similarity — is effective for unstructur"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-      "url": "https://36kr.com/p/3812789087264519?f=rss",
+      "title": "对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么",
+      "url": "https://36kr.com/p/3814337101111044?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260517/v2_fd10bea31a37453aa18408f32cf8c275@5579416_oswg83833oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">SpaceX</p>\n  <h3>5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为"
+      "summary": "<p>“帮我搭配一套适合海边度假的衣服。”</p>\n  <p>“帮我推荐一家适合约会的西餐厅。”</p>\n  <p>“3000元预算，买哪款扫地机器人最划算？”</p>\n  <p>这类与AI的问答正发生在全球数亿用户身上。过去，人们会把这些问题输入百度、谷歌等搜索引擎，因此产生了SEO（Search EngineOptimization，搜索引擎优化）营销。而当流量入口从搜索引擎转向AI工具，GEO（Generative EngineOptimization，生成引擎优化）也应运而生。</p>\n  <p>区别于传统SEO追求的“搜索结果排名”，<strong>GEO的核心目标是让品牌信息在AI"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
-      "url": "https://36kr.com/p/3812788568907520?f=rss",
+      "title": "36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道",
+      "url": "https://36kr.com/p/3813463119863553?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。</p>\n  <p>绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。</p>\n  <p>绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技"
+      "summary": "<p>36 氪获悉，「律动节拍」已于近期完成超千万级新一轮融资，由天空工场创投基金领投，投后估值达数亿元。</p>\n  <p>「律动节拍」成立于2025 年，是一家为用户提供跨城观演全消费场景的科技型文旅服务企业。公司聚焦 “因演出行” 垂直领域，以 “让一张票成为一座城市的游乐场” 为理念，搭建了面向 C 端用户的 AI演出行程管家。</p>\n  <p>依托集团其背后的生态资源与市场化合作，律动节拍已完成演出票品、酒旅、交通、餐饮、衍生品等多维度供给接入，通过AI与大数据模型训练，将演出资源与文旅资源整合，开发成为一站式定制化的演出行程管家产品&nbsp;。</p>\n  <p>本轮资金将主要"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "48022桌需退款，这家网红店出了什么事？",
-      "url": "https://36kr.com/p/3812706162220548?f=rss",
+      "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元",
+      "url": "https://36kr.com/p/3814030630084354?f=rss",
       "published_at": null,
-      "summary": "<p>“由于您吃到的只是‘烤熟的羊肉串’，而不是‘最佳状态的羊肉串’，我们内心感到惭愧，所以原路‘退回首轮烤制一半羊肉串的钱’作为补偿。”</p>\n  <p>近日，不少网友在社交平台发文称，收到了“很久以前羊肉串”的部分退款及一条道歉短信。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260517/v2_443e0701ae7844f4a3d2b9876e8b2421@5579416_oswg135434oswg742oswg842_img_000?x-oss-process=image/"
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>张雪机车，再夺冠</li>\n   <li>长安汽车否认与千里科技合作</li>\n   <li>深圳发布2026年住房发展计划</li>\n   <li>贵州茅台宣布公斤茅台等四款产品提价</li>\n   <li>法拉第未来宣布获得2500万美元融资</li>\n   <li>三星电子会长就公司“内部问题”公开道歉</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>多款燃油车大降价，降幅最高近30%</strong></p>\n  <p>日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
-      "url": "https://36kr.com/p/3810520138243593?f=rss",
+      "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
+      "url": "https://36kr.com/p/3813305543794440?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。</p>\n  <p>据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。</p>\n  <p>在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。</p>\n  <p>调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计"
+      "summary": "<h2>从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力</h2>\n  <p>在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广阔的泛场景音频帝国发起攻坚。</p>\n  <p>过去两年，开放式耳机在中国蓝牙耳机市场的整体销售额份额已率先突破30%。这不仅是一次产品形态的更迭，更是一场由韶音引领、正在席卷全球的"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-      "url": "https://36kr.com/p/3811265856626440?f=rss",
+      "title": "又诞生一位千亿女富豪",
+      "url": "https://36kr.com/p/3813040859258373?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>OpenAI正考虑采取法律手段起诉苹果公司</li>\n   <li>三星电子开发下一代HBM封装技术，或用于智能手机等移动设备</li>\n   <li>海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群</li>\n   <li>世界银行首席经济学家英德米特・吉尔将于8月卸任退休</li>\n   <li>“海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>央视确认获得2026年世界杯版权，费用为6000万美元&nbsp;</st"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260517/v2_f37d0b5651d64379a82dd7eca23a4dfa@5579416_oswg65665oswg1080oswg780_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">示意图</p>\n  <p>自4月初以来，立讯精密股价上涨超过55%。</p>\n  <p>5月11日，立讯精密市值创下历史新高，达到了5542亿人民币"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
-      "url": "https://36kr.com/p/3810562142445058?f=rss",
+      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+      "url": "https://36kr.com/p/3812925591887368?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260515/v2_90d236a32d4a4f71bd00c6834b43d348@6310690_oswg1021806oswg2622oswg1206_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">理想汽车CEO 李想</p>\n  <p>能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。</p>\n  <"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260517/v2_399370c00c2a4df2b0ea4535d62d0160@5579416_oswg664907oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Peter Steinberger</p>\n  <p>编辑：所罗门</p>\n  <p><strong>【新智元导读】3个人，100个AI agen"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
-      "url": "https://36kr.com/p/3810607581634056?f=rss",
+      "title": "28亿，这五个市场的肯德基要被卖了？",
+      "url": "https://36kr.com/p/3812816225459713?f=rss",
       "published_at": null,
-      "summary": "<p>2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/2026"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260517/v2_638e14f6f528497a931f101151ea3a5d@5579416_oswg93092oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">肯德基</p>\n  <p>作者 | 王涛</p>\n  <p>编辑 | 吾人</p>\n  <p>来源 |&nbsp;融中财经</p>\n  <p>路透社"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏",
-      "url": "https://36kr.com/p/3810380205989632?f=rss",
+      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+      "url": "https://36kr.com/p/3812800346742274?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260515/v2_cac9f14671cf448da9ad565f32eee432@6381723_oswg367230oswg900oswg480_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260515/v2_0"
+      "summary": "<p>听雨 发自 凹非寺量子位 | 公众号 QbitAI</p>\n  <p><strong>用Claude Code写论文的一整套流水线</strong>，有人打包开源出来了。</p>\n  <p>完全戳中了学生党的痛点，github星标直达<strong>6.4k</strong>。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260517/v2_347c6212e2e145359e811d49ef0ac87b@5579416_oswg200090oswg1080oswg574_img_0"
     }
   ]
 }

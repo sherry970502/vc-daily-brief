@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-05-19T05:08:59.165025+00:00",
+  "updated_at": "2026-05-20T05:11:54.844052+00:00",
   "post_count": 48,
   "posts": [
-    {
-      "subreddit": "r/venturecapital",
-      "title": "Questions to ask a fund administrator before signing, what am I missing?",
-      "url": "https://www.reddit.com/r/venturecapital/comments/1tglmp8/questions_to_ask_a_fund_administrator_before/",
-      "created_at": null
-    },
     {
       "subreddit": "r/venturecapital",
       "title": "Scraping tooling is moving from \"data extraction\" to reliability infrastructure",
@@ -51,6 +45,12 @@
       "created_at": null
     },
     {
+      "subreddit": "r/venturecapital",
+      "title": "Ideas for Claude Agents in VC workflows",
+      "url": "https://www.reddit.com/r/venturecapital/comments/1t78poc/ideas_for_claude_agents_in_vc_workflows/",
+      "created_at": null
+    },
+    {
       "subreddit": "r/startups",
       "title": "Share your startup - quarterly post",
       "url": "https://www.reddit.com/r/startups/comments/1siohta/share_your_startup_quarterly_post/",
@@ -64,38 +64,38 @@
     },
     {
       "subreddit": "r/startups",
-      "title": "What is up with the absolute slop from YC these days?(i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1th2mr2/what_is_up_with_the_absolute_slop_from_yc_these/",
+      "title": "Offered \"Founding Engineer\" (3.5% Equity) at Pre-Seed Startup. How should I structure this to minimize taxes (ISOs vs RSAs)? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1ti4bxi/offered_founding_engineer_35_equity_at_preseed/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "What’s wrong with Colgate? I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1th54yy/whats_wrong_with_colgate_i_will_not_promote/",
+      "title": "Would you use this (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1ti77my/would_you_use_this_i_will_not_promote/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "What is the most important thing in acquiring a legal advisor for a startup? *I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1th7182/what_is_the_most_important_thing_in_acquiring_a/",
+      "title": "What could differentiate your startup from the competition? (i will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1tiak49/what_could_differentiate_your_startup_from_the/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "PLG founders: which free trial model worked better for you? I will not promote.",
-      "url": "https://www.reddit.com/r/startups/comments/1th7hq3/plg_founders_which_free_trial_model_worked_better/",
+      "title": "At which point do we hire a PR team … and which agency? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1thz9v3/at_which_point_do_we_hire_a_pr_team_and_which/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "How to answer \"what to build\" question? i will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1tgzx26/how_to_answer_what_to_build_question_i_will_not/",
+      "title": "I’m so stoked, things are finally going well for me (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1thneew/im_so_stoked_things_are_finally_going_well_for_me/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "How do you confidently handle objections in fundraising conversations and convince hesitant people to donate? I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1tgzlf1/how_do_you_confidently_handle_objections_in/",
+      "title": "Founder exit (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1thj226/founder_exit_i_will_not_promote/",
       "created_at": null
     },
     {
@@ -112,26 +112,20 @@
     },
     {
       "subreddit": "r/ycombinator",
+      "title": "Is price really a problem?",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1tiars6/is_price_really_a_problem/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/ycombinator",
       "title": "Any introverted founders that made it?",
       "url": "https://www.reddit.com/r/ycombinator/comments/1th8wy5/any_introverted_founders_that_made_it/",
       "created_at": null
     },
     {
       "subreddit": "r/ycombinator",
-      "title": "Have folks started to hear back from yc?",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1thc1sx/have_folks_started_to_hear_back_from_yc/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/ycombinator",
       "title": "Has anyone here actually found a serious long-term co-founder through YC Co-Founder Matching?",
       "url": "https://www.reddit.com/r/ycombinator/comments/1tgdxgg/has_anyone_here_actually_found_a_serious_longterm/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/ycombinator",
-      "title": "Domain Specific Knowledge",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1th0l8t/domain_specific_knowledge/",
       "created_at": null
     },
     {
@@ -147,51 +141,57 @@
       "created_at": null
     },
     {
-      "subreddit": "r/artificial",
-      "title": "Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late",
-      "url": "https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/",
+      "subreddit": "r/ycombinator",
+      "title": "Founders, would appreciate your take on this",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1tgw7wg/founders_would_appreciate_your_take_on_this/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "What's the most useful thing an LLM does for you that isn't writing or coding?",
-      "url": "https://www.reddit.com/r/artificial/comments/1th2m6p/whats_the_most_useful_thing_an_llm_does_for_you/",
+      "title": "“AI vs Creativity” from a pro-AI greedy corpo",
+      "url": "https://www.reddit.com/r/artificial/comments/1ti5pq7/ai_vs_creativity_from_a_proai_greedy_corpo/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Cloudflare just published what they found after running Anthropic's Mythos Preview against 50+ of their own repos and the results are worth reading",
-      "url": "https://www.reddit.com/r/artificial/comments/1tgy0j4/cloudflare_just_published_what_they_found_after/",
+      "title": "Give back my em-dashes!",
+      "url": "https://www.reddit.com/r/artificial/comments/1thvyif/give_back_my_emdashes/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Linus Torvalds comments on \"unmanageable\" AI bug reports for Linux maintainers",
-      "url": "https://www.reddit.com/r/artificial/comments/1tgrzbj/linus_torvalds_comments_on_unmanageable_ai_bug/",
+      "title": "Barnes & Noble CEO backs selling AI-written books in stores",
+      "url": "https://www.reddit.com/r/artificial/comments/1ti86hf/barnes_noble_ceo_backs_selling_aiwritten_books_in/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Elon Musk: will appeal to the Ninth Circuit.",
-      "url": "https://www.reddit.com/r/artificial/comments/1th1v4h/elon_musk_will_appeal_to_the_ninth_circuit/",
+      "title": "I think people are underestimating how quickly AI-generated content will blend in online",
+      "url": "https://www.reddit.com/r/artificial/comments/1thrz6z/i_think_people_are_underestimating_how_quickly/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "The \"just add more compute\" argument for ai reasoning is getting exhausting",
-      "url": "https://www.reddit.com/r/artificial/comments/1th1jkt/the_just_add_more_compute_argument_for_ai/",
+      "title": "Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.",
+      "url": "https://www.reddit.com/r/artificial/comments/1thtite/book_on_truth_in_the_age_of_ai_contains_quotes/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "EU AI Act enforcement starts in 75 days - affects any team building AI agents for European clients",
-      "url": "https://www.reddit.com/r/artificial/comments/1tgf0gm/eu_ai_act_enforcement_starts_in_75_days_affects/",
+      "title": "Meta Made $56B in Q1 and Is Still Firing 8,000 People to Pay for AI",
+      "url": "https://www.reddit.com/r/artificial/comments/1thq6cn/meta_made_56b_in_q1_and_is_still_firing_8000/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Today's Irony. We as small creators cannot use AI but big companies can ban us using same AI",
-      "url": "https://www.reddit.com/r/artificial/comments/1tgx5p1/todays_irony_we_as_small_creators_cannot_use_ai/",
+      "title": "Claude Is Citing Iranian State Media. It Doesn't Know Why.",
+      "url": "https://www.reddit.com/r/artificial/comments/1ti0dhl/claude_is_citing_iranian_state_media_it_doesnt/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "I built a live ranking of every AI agent and foundation model (open source)",
+      "url": "https://www.reddit.com/r/artificial/comments/1ti1pio/i_built_a_live_ranking_of_every_ai_agent_and/",
       "created_at": null
     },
     {
@@ -214,32 +214,62 @@
     },
     {
       "subreddit": "r/SaaS",
-      "title": "crossed 200k revenue on my dictation app, but honestly most of it was from lifetime deal not MRR",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tgohgd/crossed_200k_revenue_on_my_dictation_app_but/",
+      "title": "$216 in 1 day by listening to a customer. Here is how I did it.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thvdxa/216_in_1_day_by_listening_to_a_customer_here_is/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "I know 71 users isn't huge but it feels unreal without marketing",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tgiuy4/i_know_71_users_isnt_huge_but_it_feels_unreal/",
+      "title": "Never host your app on Vercel or Railway",
+      "url": "https://www.reddit.com/r/SaaS/comments/1ti6v5w/never_host_your_app_on_vercel_or_railway/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "Outbound in 2026 looks nothing like it did just a few short years ago. The whole process now functions on a much noisier wavelength and it's far less predictable",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tgq2rv/outbound_in_2026_looks_nothing_like_it_did_just_a/",
+      "title": "The smartest people i know are often the worst at turning their intelligence into income, and i think i finally understand why",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thyvhn/the_smartest_people_i_know_are_often_the_worst_at/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "It's not much, but my platform just made its first £95",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tgxmwd/its_not_much_but_my_platform_just_made_its_first/",
+      "title": "Our first $300+ day!",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thzxus/our_first_300_day/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "AI character generator SaaS scaling to 100K images/month. API provider with better unit economics?",
-      "url": "https://www.reddit.com/r/SaaS/comments/1th4gni/ai_character_generator_saas_scaling_to_100k/",
+      "title": "Would you use a safe, one-click Windows app to shrink game install sizes by 20-40%? (Looking for raw feedback)",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tibomw/would_you_use_a_safe_oneclick_windows_app_to/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "LocusFounder: AI that builds and runs entire businesses autonomously. nine months in, YC and VC backed, real users generating real revenue. here is the full picture.",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1ti9kue/locusfounder_ai_that_builds_and_runs_entire/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "How much does it cost to start an online dating website and app?",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1ti7h47/how_much_does_it_cost_to_start_an_online_dating/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "Harder than i thought.",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1ti1xzu/harder_than_i_thought/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "Built a college super-app, looking for beta testers, anyone interested?",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1thq1iy/built_a_college_superapp_looking_for_beta_testers/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "What are you currently building, learning, or struggling with in digital/business/tech?",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1thjaj5/what_are_you_currently_building_learning_or/",
       "created_at": null
     },
     {
@@ -250,44 +280,14 @@
     },
     {
       "subreddit": "r/techstartups",
-      "title": "What’s the most annoying thing about Rocket Money or budgeting apps?",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1th4wag/whats_the_most_annoying_thing_about_rocket_money/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/techstartups",
       "title": "I need tips & guidance",
       "url": "https://www.reddit.com/r/TechStartups/comments/1tgjmki/i_need_tips_guidance/",
       "created_at": null
     },
     {
       "subreddit": "r/techstartups",
-      "title": "My dev partner is asking what to build next, and I don’t have a clear answer",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1tgw17v/my_dev_partner_is_asking_what_to_build_next_and_i/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/techstartups",
-      "title": "Looking for VPN Partnership",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1tgmwkt/looking_for_vpn_partnership/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/techstartups",
-      "title": "Seeking Business Co-Founder for US Fintech App (Equity Partnership)",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1tgc81q/seeking_business_cofounder_for_us_fintech_app/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/techstartups",
-      "title": "Startups in vlsi field",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1tggkpu/startups_in_vlsi_field/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/techstartups",
-      "title": "Anyone here building or thinking about building in the legal-tech space?",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1tgg0og/anyone_here_building_or_thinking_about_building/",
+      "title": "What’s the most annoying thing about Rocket Money or budgeting apps?",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1th4wag/whats_the_most_annoying_thing_about_rocket_money/",
       "created_at": null
     }
   ]

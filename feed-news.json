@@ -1,191 +1,159 @@
 {
-  "updated_at": "2026-05-23T04:48:48.576197+00:00",
+  "updated_at": "2026-05-24T05:08:22.305317+00:00",
   "period_hours": 24,
-  "article_count": 31,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI is being used to resurrect the voices of dead pilots",
-      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "published_at": "2026-05-22T23:03:33+00:00",
-      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
+      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "published_at": "2026-05-23T20:03:13+00:00",
+      "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-      "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-      "published_at": "2026-05-22T22:55:57+00:00",
-      "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come."
+      "title": "These special phone and app features can help protect you from spyware",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "published_at": "2026-05-23T16:00:00+00:00",
+      "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
-      "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
-      "published_at": "2026-05-22T21:37:17+00:00",
-      "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail."
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "published_at": "2026-05-23T15:08:00+00:00",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-      "published_at": "2026-05-22T21:02:36+00:00",
-      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google."
+      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+      "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+      "published_at": "2026-05-23T14:50:00+00:00",
+      "summary": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "published_at": "2026-05-22T20:40:48+00:00",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "published_at": "2026-05-23T13:00:00+00:00",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
-      "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
-      "published_at": "2026-05-22T16:28:06+00:00",
-      "summary": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
-      "url": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
-      "published_at": "2026-05-22T16:27:57+00:00",
-      "summary": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Spotify’s AI bet: more of everything, less of what you want",
-      "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
-      "published_at": "2026-05-22T16:18:10+00:00",
-      "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Massive Deals For Medical Devices, Futuristic AI Gadgets And Frontier Labs Lead",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/",
-      "published_at": "2026-05-22T18:09:12+00:00",
-      "summary": "Along with the usual heavy dose of AI, this week’s list also includes large deals for aerospace and defense, fintech, and retail technology."
+      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+      "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+      "published_at": "2026-05-23T07:01:00+00:00",
+      "summary": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Grab’s CTO sees the superapp’s push into physical AI and automated driving—and why he uses his competitors’ robots in the office",
-      "url": "https://fortune.com/2026/05/22/grab-cto-suthen-paradatheth-ai-strategy-delivery-robots-self-driving/",
-      "published_at": "2026-05-22T21:00:00+00:00",
-      "summary": "“If you go to the Grab office now, you'll see robots from other companies as well. We use a 1+n strategy which keeps us on our toes.”"
+      "title": "Secret Service shoot and kill suspect who fired at White House checkpoint; bystander was also struck but Trump was not affected",
+      "url": "https://fortune.com/2026/05/23/shooting-near-white-house-trump-inside-secret-service-fbi/",
+      "published_at": "2026-05-24T00:47:56+00:00",
+      "summary": "Secret Service said none of its officers were injured, and that President Donald Trump — who was at the White House at the time — was not \"impacted.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tech billionaires convinced Trump to back off an AI executive order. But much of MAGA favors AI regulation",
-      "url": "https://fortune.com/2026/05/22/tech-billionaires-convince-trump-to-back-off-ai-executive-order-but-much-of-maga-favors-ai-regulation/",
-      "published_at": "2026-05-22T20:43:33+00:00",
-      "summary": "Former AI czar David Sacks along with Elon Musk and Mark Zuckerberg swayed Trump against the executive order"
+      "title": "Ukrainian drone attack causes fire at Russian oil terminal used for exports as Kyiv expands long-range strike capabilities",
+      "url": "https://fortune.com/2026/05/23/ukrainian-drone-attack-russian-oil-terminal-exports-black-sea-long-range-strike-capabilities/",
+      "published_at": "2026-05-23T23:07:54+00:00",
+      "summary": "Ukrainian forces had also hit a tanker in the Black Sea belonging to Russia’s so-called “shadow fleet.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Barnes & Noble CEO clarifies the bookseller’s stance on AI-written books after refusing to ban them: ‘This is a straightforward rejection of AI books’",
-      "url": "https://fortune.com/2026/05/22/barnes-noble-ceo-stance-ai-generated-books-refusing-to-ban/",
-      "published_at": "2026-05-22T18:55:37+00:00",
-      "summary": "James Daunt told Fortune the responsibility to decide on what AI-generated means lies with the publisher, not the seller."
+      "title": "U.S. reaches limit of sanctions power in targeting Iran’s economy",
+      "url": "https://fortune.com/2026/05/23/us-limit-sanctions-power-iran-war-economic-fury-naval-blockade/",
+      "published_at": "2026-05-23T22:49:20+00:00",
+      "summary": "“We need to either overwhelm them with something new — and this Economic Fury stuff isn’t it — or we need to start limiting our ambitions.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Apple’s Steve Wozniak says he cofounded the tech giant after 5 rejections from HP—not to ‘make money.’ For years, his paycheck was just $50",
-      "url": "https://fortune.com/2026/05/22/apple-cofounder-steve-wozniak-not-in-it-for-the-money-rejected-from-hp-personal-computer-passions-gen-z-advice/",
-      "published_at": "2026-05-22T15:02:07+00:00",
-      "summary": "While he could’ve been a trillionaire today, Apple cofounder Steve Wozniak sold his stake early: “I didn’t want to be near money, because it could corrupt your values.”"
+      "title": "Trump’s 3,711 trades point to multiple stock-market strategies",
+      "url": "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/",
+      "published_at": "2026-05-23T22:37:40+00:00",
+      "summary": "The patterns bear the hallmarks of overlapping portfolio-management strategies, often index-based and much of it likely automated, and all of it difficult to disentangle."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Fortune Brainstorm Tech 2026 will be brilliant",
-      "url": "https://fortune.com/2026/05/22/brainstorm-tech-2026-will-be-brilliant/",
-      "published_at": "2026-05-22T18:21:36+00:00",
-      "summary": "Our 25th anniversary gathering in Aspen will mix tech icons with the new and the next in a celebration of Fortune's enduring flagship tech event."
+      "title": "As U.S.-Iran deal nears, Trump ally warns against creating perception Tehran controls Hormuz — ‘it makes one wonder why the war started to begin with’",
+      "url": "https://fortune.com/2026/05/23/us-iran-deal-reopen-hormuz-strait-persian-gulf-balance-of-power-trump/",
+      "published_at": "2026-05-23T22:17:47+00:00",
+      "summary": "\"I personally am a skeptic of the idea that Iran cannot be denied the ability to terrorize the Strait and the region cannot protect itself against Iranian military capability.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Beyond the diploma: Skills that actually get graduates hired",
-      "url": "https://fortune.com/2026/05/22/beyond-the-diploma-skills-that-actually-get-graduates-hired/",
-      "published_at": "2026-05-22T17:23:34+00:00",
-      "summary": "The rules of entry-level hiring have changed—and experts at Fortune's Workplace Innovation Summit weighed in on the implications."
+      "title": "Trump says a deal with Iran that would reopen the Strait of Hormuz has been ‘largely negotiated’",
+      "url": "https://fortune.com/2026/05/23/iran-war-us-agreement-memorandum-of-understanding-strait-hormuz-nuclear-weapons/",
+      "published_at": "2026-05-23T20:52:21+00:00",
+      "summary": "Secretary of State Marco Rubio told journalists in India that “there’s been some progress made” and “there may be news later today.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘A pressure cooker ready to explode’: The wild secondaries scramble for Anthropic shares",
-      "url": "https://fortune.com/2026/05/22/anthropic-secondaries-scramble-term-sheet/",
-      "published_at": "2026-05-22T11:12:51+00:00",
-      "summary": "The secondaries market for the biggest private tech companies has gotten scorching hot, and is potentially ripe for fraud."
+      "title": "U.S. debt is the ‘elephant in the room’ amid bond market rout as Fed-fueled interest costs could drive even larger deficits, analysts warn",
+      "url": "https://fortune.com/2026/05/23/us-debt-bond-market-selloff-fed-rate-hikes-inflation-interest-costs-deficits/",
+      "published_at": "2026-05-23T19:53:59+00:00",
+      "summary": "\"In our view, unsustainable fiscal dynamics are compounding with a reflation story, turning a short-term problem into a long-end selloff.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft reports are exposing AI’s real cost problem: Using the tech is more expensive than paying human employees",
-      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-      "published_at": "2026-05-22T16:56:36+00:00",
-      "summary": "Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill."
+      "title": "The Fed’s worst inflation fears may be coming true as consumers lose faith in long-term prices—and even Trump supporters doubt he can bring relief",
+      "url": "https://fortune.com/2026/05/23/fed-inflation-nightmare-consumer-expecations-unanchored-rate-hike-oil-prices-iran-war/",
+      "published_at": "2026-05-23T17:08:38+00:00",
+      "summary": "\"Critically, consumers appear worried that inflation will increase and proliferate beyond fuel prices, even in the long run.\""
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Valid certificates, stolen accounts: how attackers broke npm's last trust signal",
-      "url": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026",
-      "published_at": "2026-05-22T22:21:34+00:00",
-      "summary": "<p>On May 19, 633 malicious npm package versions <a href=\"https://www.endorlabs.com/learn/mini-shai-hulud-returns-42-malicious-npm-packages-fake-sigstore-badges-in-antv-ecosystem-attack\">passed Sigstore provenance verification</a>. They were cleared by the system because the attacker had generated v"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3821714896408713?f=rss",
+      "published_at": null,
+      "summary": "<p>下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。</p>\n  <p>硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+AI原生智能体+可穿戴硬件”三位一体，才能让AI从聊天框真正走进现实。</p>\n  <p>以下为圆桌对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrappe"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Your AI agents need a terminal, not just a vector database",
-      "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
-      "published_at": "2026-05-22T21:05:07+00:00",
-      "summary": "<p>When agentic workflows fail, developers often assume the problem lies in the underlying model’s reasoning abilities. In reality, the limited information provided by the retrieval interface is often the primary limiting factor.</p><p>Researchers at multiple universities propose a technique called"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3821542483857801?f=rss",
+      "published_at": null,
+      "summary": "<p>稀缺的，到底是懂AI的人，还是懂业务的人？</p>\n  <p>一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。</p>\n  <p>以下为圆桌对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn."
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
-      "url": "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it",
-      "published_at": "2026-05-22T13:00:00+00:00",
-      "summary": "<p>Dun &amp; Bradstreet has spent over 180 years building a comprehensive commercial database. Its Commercial Graph, covering 642 million businesses and their relationships, corporate hierarchies and risk profiles, was designed for people. Credit analysts, risk managers and sales professionals who c"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3821533415985283?f=rss",
+      "published_at": null,
+      "summary": "<p>真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。</p>\n  <p>只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。</p>\n  <p>以下为圆桌对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_f07df67ae7a04a409e"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-      "published_at": "2026-05-22T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claud"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "对话王小川：离开通用人工智能的主干道之后",
+      "url": "https://36kr.com/p/3821521291038856?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_1bcbe99c94144e16a662a304451ba9f8@2057308263_oswg935427oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“如果没有转型，继续走主流道路，你也会有同等程度的焦虑。”王小川说，这次转型，让他真正回归到从创业第一天就最想做的事情：造AI医生。</p>"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "published_at": "2026-05-22T10:00:00+00:00",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
-      "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
-      "published_at": "2026-05-22T09:00:00+00:00",
-      "summary": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+      "url": "https://36kr.com/p/3821519307591811?f=rss",
+      "published_at": null,
+      "summary": "<p>AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。</p>\n  <p>“AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。</p>\n  <p>以下为圆桌对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_f9ed01209f35400dbbd1e3e2066497aa@6381723_oswg140412oswg1000oswg666_img_"
     },
     {
       "source": "36氪",
@@ -210,46 +178,6 @@
       "url": "https://36kr.com/p/3821213026570627?f=rss",
       "published_at": null,
       "summary": "<p>过去这几年，餐饮行业的新店越开越多，淘汰速度也越来越快。<strong>精致餐饮仍在发展，但人们愿意为摆盘和氛围买单的冲动在减弱，转而开始寻求一种体面而高性价比的社交空间。</strong></p>\n  <p>在这样的节奏中，上岛咖啡、米萝咖啡、老树咖啡、良木缘、绿茵阁、豪享来等颇具年代感的老式咖啡餐吧，又开始悄悄爬上了年轻人的打卡清单。</p>\n  <p>二三十年前，它们是城市里最洋气的餐厅，菜单上写着影视剧男女主角才会点的黑椒牛排意面和卡布奇诺咖啡。隔壁桌是商务人士谈生意，或是时髦情侣在约会，小朋友则眼巴巴地等着大人给自己点上一碗香蕉船。</p>\n  <p class=\"image-"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”",
-      "url": "https://36kr.com/p/3821177784881541?f=rss",
-      "published_at": null,
-      "summary": "<h2 label=\"一级标题\"><span>今日热点导览</span></h2>\n  <ul class=\" list-paddingleft-2\">\n   <li><p>曝泡泡玛特8.8亿买楼：不予置评</p></li>\n   <li><p>雷军透露小米YU7临时降价</p></li>\n   <li><p>教育部拟同意设置34所新大学</p></li>\n   <li><p>腾讯承诺不再与相关版权方达成或变相达成版权独家授权合同</p></li>\n   <li><p>特朗普凯旋门方案获批</p></li>\n  </ul>\n  <h2 label=\"一级标题\">TOP 3大新闻</h2>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "新鲜零食品牌「金粒门」加速全国化：粤鄂6店同装｜最前线",
-      "url": "https://36kr.com/p/3808777731464966?f=rss",
-      "published_at": null,
-      "summary": "<p>新鲜零食品牌争相竞逐新市场。</p>\n  <p>36氪获悉，新鲜零食品牌「金粒门」近期密集落地全国布局，正式开启跨区域快速发展阶段。<strong>近日，金粒门华南首店、湖北首批合计6家门店已经进场装修。与此同时，金粒门华东首店将于5月29日正式入驻南京新街口IFCX，持续布局长三角核心市场。</strong></p>\n  <p>金粒门相关负责人表示，金粒门将持续加码门店布局，年内将全力推进拓店计划，让更多消费者体验到新鲜短保零食产品与服务。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
-      "url": "https://36kr.com/p/3816943010071427?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3820248974102913\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲</strong></a></p>\n  <p>投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&amp;I控股（Seven &"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3820318177841541?f=rss",
-      "published_at": null,
-      "summary": "<blockquote>\n   <p>AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。</p>\n  </blockquote>\n  <p>AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。</p>\n  <p>以下为演讲内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36k"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3820298219425924?f=rss",
-      "published_at": null,
-      "summary": "<blockquote>\n   <p>中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。</p>\n  </blockquote>\n  <p>江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。</p>\n  <p>以下为演讲内容，经36氪整理编辑：</p"
     }
   ]
 }

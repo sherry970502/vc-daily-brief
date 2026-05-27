@@ -1,183 +1,239 @@
 {
-  "updated_at": "2026-05-26T05:09:48.743506+00:00",
+  "updated_at": "2026-05-27T05:24:09.789709+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 29,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "published_at": "2026-05-25T16:00:00+00:00",
-      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+      "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+      "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "published_at": "2026-05-26T23:49:05+00:00",
+      "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-      "published_at": "2026-05-25T15:09:41+00:00",
-      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
+      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+      "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+      "published_at": "2026-05-26T22:55:01+00:00",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-      "published_at": "2026-05-25T15:00:00+00:00",
-      "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it."
+      "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+      "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+      "published_at": "2026-05-26T22:55:01+00:00",
+      "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
-      "published_at": "2026-05-25T14:30:00+00:00",
-      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now."
+      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+      "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+      "published_at": "2026-05-26T22:37:46+00:00",
+      "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
-      "published_at": "2026-05-25T14:00:00+00:00",
-      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase."
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "published_at": "2026-05-26T22:32:56+00:00",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+      "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+      "published_at": "2026-05-26T21:03:56+00:00",
+      "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+      "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+      "published_at": "2026-05-26T18:48:04+00:00",
+      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "published_at": "2026-05-26T18:33:01+00:00",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The IPO Comeback Has A Catch",
+      "url": "https://news.crunchbase.com/public/ipo-comeback-catch-exits-liquidity-declines-bercuson-earlyasset/",
+      "published_at": "2026-05-26T11:00:39+00:00",
+      "summary": "The threshold for going public has steadily risen, leaving many mid-sized firms and their shareholders without viable exit opportunities, writes guest author Shawn Bercuson, founder of Earlyasset, who contends it has created growing pressure for a more mature private secondary market."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "In Charts: Seed Deals Keep Getting Bigger As Odds Of Reaching Series A Fall Dramatically",
+      "url": "https://news.crunchbase.com/seed/data-bigger-deals-longer-seriesa-2026/",
+      "published_at": "2026-05-26T11:00:14+00:00",
+      "summary": "Seed rounds are larger than ever, with some startups now raising $8 million to $10 million deals once associated with later stages. But the path forward has also become tougher."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Rosewood Hotel Group institutes a global 16-week paid parental leave policy as Asia grapples with crashing birth rates",
-      "url": "https://fortune.com/2026/05/25/rosewood-16-week-paid-parental-leave-asia-birth-rate-slump/",
-      "published_at": "2026-05-25T21:00:00+00:00",
-      "summary": "The Hong Kong-based hotel chain hopes to shift attitudes towards caregiving, and \"drive business resilience in the long-term.\""
+      "title": "Trump spent 3 hours at Walter Reed. he claims ‘everything checked out PERFECTLY’",
+      "url": "https://fortune.com/2026/05/26/trump-medical-exam-walter-reed-health-disclosure/",
+      "published_at": "2026-05-26T19:31:36+00:00",
+      "summary": "Four exams in 16 months, a condition that pools blood in his legs, and a poll showing most Americans doubt his fitness: the presidential fitness test."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As the U.S. and Europe pull back from global climate aid, can Asian funders fill the gap?",
-      "url": "https://fortune.com/2026/05/25/asian-philanthropists-climate-aid-gap/",
-      "published_at": "2026-05-25T21:15:00+00:00",
-      "summary": "Globally, less than 2% of philanthropic giving goes to mitigating climate change. Of that small amount, an even smaller sliver—just 12%—goes to Asia."
+      "title": "Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies as they eye blockbuster IPOs",
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "published_at": "2026-05-26T20:34:01+00:00",
+      "summary": "Goldman's David Solomon and Box’s Aaron Levie have been saying that there won’t be a white-collar wipeout. Altman says he's \"delighted to be wrong.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets rejoice as deal to reopen Hormuz nears, but U.S. forces conduct ‘self-defense strikes’ on Iranian missile sites and boats laying mines",
-      "url": "https://fortune.com/2026/05/25/dow-futures-oil-prices-bond-yields-hormuz-reopening-us-airstrikes-iran-missiles-mines/",
-      "published_at": "2026-05-26T00:42:24+00:00",
-      "summary": "“U.S. forces conducted self-defense strikes in southern Iran today to protect our troops from threats posed by Iranian forces.\""
+      "title": "Billionaire Mark Cuban says bye-bye Bitcoin: Why he is ‘disappointed’ by crypto",
+      "url": "https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/",
+      "published_at": "2026-05-26T20:25:05+00:00",
+      "summary": "‘It’s not the hedge that I expected it to be,’ Cuban said"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Pope Leo called AI an ‘instrument of domination, exclusion and death.’ Anthropic was in the room",
-      "url": "https://fortune.com/2026/05/25/pope-leo-xiv-ai-domination-death-anthropic-olah-encyclical/",
-      "published_at": "2026-05-25T16:54:32+00:00",
-      "summary": "Leo’s first encyclical, “Magnifica Humanitas,\" was very consciously signed on the 135th anniversary of \"Rerum Novarum,\" on the first Industrial Revolution."
+      "title": "After receiving backlash, the CEO of Standard Chartered apologizes for hurt over saying ‘lower value human capital’ will be automated by AI",
+      "url": "https://fortune.com/2026/05/26/standard-chartered-ceo-bill-winters-apologizes-calling-some-workers-lower-value-human-capital-ai-push/",
+      "published_at": "2026-05-26T15:52:14+00:00",
+      "summary": "Bill Winters, the CEO of Standard Chartered, says about 15% of “back office” corporate function roles will be reduced in the next four years."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Memorial Day is 161 years old — and its true origin was buried almost immediately",
-      "url": "https://fortune.com/2026/05/25/what-is-history-of-memorial-day-why-civil-war/",
-      "published_at": "2026-05-25T16:46:06+00:00",
-      "summary": "Memorial Day is a U.S. holiday that is officially about mourning the nation&#8217;s fallen service members, but it has come to signal the&#160;unofficial start of summer&#160;and&#160;a long weekend of travel&#160;and discounts on anything from mattresses to lawn mowers. Here is a look at the holida"
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "A country of 2.9 million people on Russia’s border just had 600,000 national records stolen",
-      "url": "https://fortune.com/2026/05/25/lithuania-data-breach-russia-spy-addresses-hybrid-war/",
-      "published_at": "2026-05-25T16:41:14+00:00",
-      "summary": "Spy addresses may be among the national data records from Lithuania that are now compromised."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "For 60 years, nobody knew where the Muppets were made. Now you can go see",
-      "url": "https://fortune.com/2026/05/25/jim-henson-creature-shop-tours-muppets-queens-first-time/",
-      "published_at": "2026-05-25T16:35:33+00:00",
-      "summary": "Jim Henson's Creature Shop has worked in deliberate obscurity since the 1960s. Now it's letting people in — Saturdays only, no cameras past the first room."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Star Wars won the weekend. Nobody’s quite sure whether to celebrate",
-      "url": "https://fortune.com/2026/05/25/star-wars-mandalorian-grogu-box-office-disney-franchise/",
-      "published_at": "2026-05-25T16:32:21+00:00",
-      "summary": "The likely $102 million haul exceeded opening weekend expectations, but it’s also on the low end of Disney-era Star Wars releases."
+      "title": "Uber drivers in Massachusetts just pulled off the biggest labor win since 1941 — just before the robots arrive",
+      "url": "https://fortune.com/2026/05/26/massachusetts-gig-drivers-union-automation-uber-lyft/",
+      "published_at": "2026-05-26T19:40:41+00:00",
+      "summary": "Jean Fredo drives 60-hour weeks terrified of losing app access with no appeal. Now he has a union. So does everyone watching from California."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk",
-      "url": "https://venturebeat.com/technology/why-prompt-debt-retrieval-debt-and-evaluation-debt-are-quietly-reshaping-enterprise-ai-risk",
-      "published_at": "2026-05-25T19:30:18+00:00",
-      "summary": "<p>Over the past two decades, technical debt meant outdated architecture, messy code, and poorly maintained documentation. That definition is no longer sufficient in the AI era, where failure modes are more subtle and often non-linear. AI systems are introducing new layers of technical debt that liv"
+      "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
+      "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+      "published_at": "2026-05-26T22:32:44+00:00",
+      "summary": "<p>For months, the leading AI coding benchmarks have told enterprise buyers a comforting but misleading story: the top models are all roughly the same. OpenAI&#x27;s <a href=\"https://openai.com/gpt-5/\">GPT-5 family</a>, Anthropic&#x27;s <a href=\"https://www.anthropic.com/claude/opus\">Claude Opus</a>"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token.",
+      "url": "https://venturebeat.com/security/attack-dominating-financial-services-resets-mfa-steals-token",
+      "published_at": "2026-05-26T19:34:30+00:00",
+      "summary": "<p>The attacker who hit the most financial services organizations over the past 12 months never phished a password. They called an IT support line, convinced an employee to reset their MFA, and registered their own device on the network.</p><p>CrowdStrike’s <a href=\"https://www.crowdstrike.com/en-us"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "published_at": "2026-05-26T14:54:10+00:00",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: puncturing the AI jobs panic",
+      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "published_at": "2026-05-26T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the tech"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "A reality check on the AI jobs hysteria",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "published_at": "2026-05-26T09:00:00+00:00",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "published_at": "2026-05-26T09:00:00+00:00",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 国家级产业基金出手，桥田智能获亿元融资",
-      "url": "https://36kr.com/p/3825527430025856?f=rss",
+      "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+      "url": "https://36kr.com/p/3826932509364869?f=rss",
       "published_at": null,
-      "summary": "<p>硬氪获悉，上海桥田智能设备有限公司（下称“桥田智能”）已完成A+轮亿元级融资，由国家工业母机产业投资基金独家投资。资金将用于高端产能扩建、核心技术研发迭代及全球化市场布局。</p>\n  <p>桥田智能成立于2016年，专注于汽车主机厂机器人末端及周边设备，产品矩阵涵盖快换盘、磁力换模系统、修磨机、工业连接器等。公司此前已获吉利厚同、哇牛资本、美的资本、浙创投等产业资本投资。</p>\n  <p>公司创始人兼董事长刘小平拥有20年行业经验，曾任日本沙迪克生产厂长、技术总监，2010年曾创立桥田精密为KUKA机器人提供OEM服务。</p>\n  <p>公司去年底正式成为北京奔驰国产化快换盘设备供"
+      "summary": "<p>当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。</p>\n  <p>2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。</p>\n  <p>5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场别开生面的“世"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3824179485233541?f=rss",
+      "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
+      "url": "https://36kr.com/p/3826922264286083?f=rss",
       "published_at": null,
-      "summary": "<blockquote>\n   <p>从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。</p>\n  </blockquote>\n  <p>2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。</p>\n  <p>以下为演讲内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260"
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，AI母婴智能硬件品牌珂迪Coddie（以下简称“Coddie”）完成天使轮融资，融资金额数千万元，由钟鼎资本投资，向阳资本担任独家财务顾问。</p>\n  <p>Coddie团队于2026年初组建，由95后连续创业者何鋡威创立。何鋡威毕业于德国慕尼黑工业大学，先后任职华为、传音控股、拓竹科技等全球化科技企业。技术负责人毕业于国内顶级高校计算机专业，曾就职半导体龙头上市公司，负责大疆与Insta360影像IC方案落地；后加入国家“小巨人”第三代半导体企业担任产品负责人，具"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "对话云鲸CEO张峻彬：理解人性，告别天真",
-      "url": "https://36kr.com/p/3824244844859525?f=rss",
+      "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
+      "url": "https://36kr.com/p/3826354349412992?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;黄楠</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>36岁时，云鲸CEO张峻彬意识到，自己不能再只做一个温和的人。</p>\n  <p>他做过一些得罪人的决定，但更多时候，张峻彬不善于说重话，以至于有人私下说他有些优柔寡断。“公司内部都说，要是彬哥对你的评价是‘还行’，说明你这东西已经很烂了。”他自己开玩笑。</p>\n  <p>过去几年，这种性格底色没有暴露太大短板。因为张峻彬更多泡在产品里，离琐碎而复杂的事务保持着一定距离。他喜欢自己做的事，也的确得以找到一角纯粹之地沉浸其中。</p>\n  <p>但一个产品经理终究不是CEO。成功"
+      "summary": "<p>文丨果脯</p>\n  <p><span style=\"letter-spacing: 0px;\">2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。&nbsp;</span><br /></p>\n  <p>S2赛季上线前，这款产品更是被寄予厚望，<strong>腾讯方面称其“有望成为下一款长青产品”。</strong>此时，距离《三角洲行动》正式官宣跻身“长"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "两部 AI 剧集闯入戛纳，水母智能要做 AI 内容工业化的破局者｜项目报道",
-      "url": "https://36kr.com/p/3823033729061253?f=rss",
+      "title": "36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事",
+      "url": "https://36kr.com/p/3825817310368385?f=rss",
       "published_at": null,
-      "summary": "<p>5月8日，第79届戛纳国际电影节內 Fantastic Pavilion 单元公布竖屏剧展演名单。</p>\n  <p>由水母智能旗下中国AI影视公司水母映画出品的竖屏剧集《摸金之天机入梦》（英文名：The Golden Tomb Seeker）以及水母星际出品的《饿塔》（英文名：Series Tower）从全球120个国家、超过1000件竖屏作品中脱颖而出，成为正式展映的21部作品之一。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260524/v2_c93578737bdf46e3"
+      "summary": "<p>36氪获悉，无感化面部理容品牌「GREENLAB绿所」（以下简称“绿所”）近日宣布完成千万级新一轮融资，本轮由宝顶创投战略投资。融资完成后，宝顶创投创始合伙人张耀东将出任绿所公司董事，参与品牌战略、产品矩阵、渠道经营等方面的长期建设。</p>\n  <p>这也是继2025年完成Pre-A轮融资后，绿所在半年左右时间内再次获得外部资本加注。据了解，本轮资金将主要用于新品研发量产、品牌建设、渠道经营及组织能力提升等方面。</p>\n  <p><strong>绿所是36氪持续关注的品牌，定位“无感化面部理容”，重点面向“精致懒”的年轻男性用户。所谓“无感化”，指的是用户在购买、使用和呈现效果上都尽"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”",
-      "url": "https://36kr.com/p/3825357879497346?f=rss",
+      "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+      "url": "https://36kr.com/p/3826390617870984?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>美媒：美伊已就全面开放霍尔木兹海峡达成一致</p>\n  <p>拉勾网及创始人被限消</p>\n  <p>宇树科技6月1日科创板IPO上会，一季度扣非净利润同比下降52.55%</p>\n  <p>1瓶水蜜桃只有0.01克水蜜桃汁，康师傅被指蹭奉化水蜜桃玩文字游戏</p>\n  <p>寒武纪盘中涨超11%，总市值超9000亿创历史新高</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>胖东来进军房地产？投资65亿元的“梦之城”开工</strong></p>\n  <p>胖东来或将进军地产市场。近日，于东来在直播中称，梦之城建好后，如果还有空"
+      "summary": "<p><strong>文｜周鑫雨 邓咏仪</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。</p>\n  <p>前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员工，有被裁的风险。</p>\n  <p>不过，当我们在4月末来到硅谷，Meta的朋友带来了故事的后续：榜单上线一个"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
-      "url": "https://36kr.com/p/3824601267196037?f=rss",
+      "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+      "url": "https://36kr.com/p/3826385821192841?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260525/v2_7e9d1114399e47c4b2142b6de84e04ba@5509299_oswg1010944oswg1080oswg1068_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：公众号「有三思 &nbsp;U &nbsp;Sense」</p>\n  <p>做个测试。读一下这段话：</p>\n  <p>“熊猫是最可爱的"
+      "summary": "<p><strong>文｜周鑫雨</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态：</p>\n  <p>这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260527/v2_fdb4140794734c0393e7b57b240bcc10@5"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3824164325412992?f=rss",
+      "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
+      "url": "https://36kr.com/p/3826779946930822?f=rss",
       "published_at": null,
-      "summary": "<blockquote>\n   <p>新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。</p>\n  </blockquote>\n  <p>麻亚炜将AI转型划分为四个递进阶段：</p>\n  <p>第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。</p>\n  <p>第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品"
+      "summary": "<h2>今日热点导览</h2>\n  <p>三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡</p>\n  <p>算力租赁，遭传闻突袭，上市公司回应</p>\n  <p>胖东来成立文化娱乐公司</p>\n  <p>双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因</p>\n  <p>知情人士：字节跳动本月向Seed员工开放“豆包股”认购权</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>商品标签陷性暗示争议，盒马致歉并下架整改</strong></p>\n  <p>近日，盒马旗下一款“粉木耳”产品因标签设计涉嫌性暗示引发争议。图片显示，该产品名为“盒马菌菇星球贵妃粉耳"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
-      "url": "https://36kr.com/p/3824439681520002?f=rss",
+      "title": "36氪企业全情报｜更懂股民的舆情数据工具，好用又省心",
+      "url": "https://36kr.com/p/3826003757437573?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3824432259699072\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>番茄小说持续加强低质内容治理，5月处置低质书籍超15万本</strong></a></p>\n  <p>36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。</p>\n  <p><a hr"
+      "summary": "<p>炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。</p>\n  <p>好消息是 ——<strong>36氪企业全情报小程序新版本正式上线啦</strong>！这次更新完全站在大家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻松拿到靠谱情报，不再被信息差牵着走。</p>\n  <p><strong>点击直达小程序：</strong><a href=\"https://wxaurl.cn/J8iJTlzFWSr\" rel=\"noopener noreferrer\" targe"
     }
   ]
 }

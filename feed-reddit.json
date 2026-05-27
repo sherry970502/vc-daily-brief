@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-05-26T05:09:58.459521+00:00",
+  "updated_at": "2026-05-27T05:24:19.264788+00:00",
   "post_count": 48,
   "posts": [
-    {
-      "subreddit": "r/venturecapital",
-      "title": "Filmmaker Raising question: I have 1.7 million and need 500k to close. Many people suggesting VC but I’m not sure how or who?",
-      "url": "https://www.reddit.com/r/venturecapital/comments/1tnktk7/filmmaker_raising_question_i_have_17_million_and/",
-      "created_at": null
-    },
     {
       "subreddit": "r/venturecapital",
       "title": "Looking for Fintech people for validation/support",
@@ -51,6 +45,12 @@
       "created_at": null
     },
     {
+      "subreddit": "r/venturecapital",
+      "title": "Show me the money!",
+      "url": "https://www.reddit.com/r/venturecapital/comments/1tg6i2k/show_me_the_money/",
+      "created_at": null
+    },
+    {
       "subreddit": "r/startups",
       "title": "Share your startup - quarterly post",
       "url": "https://www.reddit.com/r/startups/comments/1siohta/share_your_startup_quarterly_post/",
@@ -64,38 +64,38 @@
     },
     {
       "subreddit": "r/startups",
-      "title": "How do you deal with a failing start up? I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1tnjihf/how_do_you_deal_with_a_failing_start_up_i_will/",
+      "title": "How do a startup raise pre-seed funding? What are the strategies to raising pre-seed funding? [I will not promote]",
+      "url": "https://www.reddit.com/r/startups/comments/1tofvk3/how_do_a_startup_raise_preseed_funding_what_are/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "(I will not promote) How much time do you waste on Microsoft Word formatting in your early stage?",
-      "url": "https://www.reddit.com/r/startups/comments/1tnwf2j/i_will_not_promote_how_much_time_do_you_waste_on/",
+      "title": "My mum and I run a small consulting business with no real process. Getting clients but everything is held together with a string. How did you formalise yours? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1to70k4/my_mum_and_i_run_a_small_consulting_business_with/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "How to Negotiate Equity in a Niche Startup Market? (I Will Not Promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1tnvrej/how_to_negotiate_equity_in_a_niche_startup_market/",
+      "title": "Banks for AI Agents? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1toocxf/banks_for_ai_agents_i_will_not_promote/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "What are some red flags to watch out for when raising investment from angels? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1tnqky4/what_are_some_red_flags_to_watch_out_for_when/",
+      "title": "Founder communities. I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1toenvo/founder_communities_i_will_not_promote/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "What are things I should do before launching my app to the app stores? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1tnvbka/what_are_things_i_should_do_before_launching_my/",
+      "title": "Why I publish information that makes my industry uncomfortable and I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1toj899/why_i_publish_information_that_makes_my_industry/",
       "created_at": null
     },
     {
       "subreddit": "r/startups",
-      "title": "Help landing first clients - I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1tndrwd/help_landing_first_clients_i_will_not_promote/",
+      "title": "who will be the future payment infrastructure for AI agents? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1too849/who_will_be_the_future_payment_infrastructure_for/",
       "created_at": null
     },
     {
@@ -108,6 +108,18 @@
       "subreddit": "r/ycombinator",
       "title": "YC Resources {Please read this first!}",
       "url": "https://www.reddit.com/r/ycombinator/comments/12z5k88/yc_resources_please_read_this_first/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/ycombinator",
+      "title": "Non technical assessments?",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1to6z59/non_technical_assessments/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/ycombinator",
+      "title": "How are you actually managing multiple AI agents in your workflow? Feels chaotic rn",
+      "url": "https://www.reddit.com/r/ycombinator/comments/1to2ea5/how_are_you_actually_managing_multiple_ai_agents/",
       "created_at": null
     },
     {
@@ -135,63 +147,51 @@
       "created_at": null
     },
     {
-      "subreddit": "r/ycombinator",
-      "title": "B2B MVP Sale: Success Stories",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1tjkj4k/b2b_mvp_sale_success_stories/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/ycombinator",
-      "title": "I’m about to waste 6 months of my life, someone stop m",
-      "url": "https://www.reddit.com/r/ycombinator/comments/1tj4ajp/im_about_to_waste_6_months_of_my_life_someone/",
+      "subreddit": "r/artificial",
+      "title": "The Young Are Being Battered by AI as Hiring Shifts to Older Workers",
+      "url": "https://www.reddit.com/r/artificial/comments/1tosfvj/the_young_are_being_battered_by_ai_as_hiring/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Scientists trained an AI model using an IBM quantum computer — and it answered questions correctly that the base model couldn't",
-      "url": "https://www.reddit.com/r/artificial/comments/1tnreia/scientists_trained_an_ai_model_using_an_ibm/",
+      "title": "Claude as an Orchestrator: Why Agentic AI Can't Be Secured by the AI Alone",
+      "url": "https://www.reddit.com/r/artificial/comments/1tosyby/claude_as_an_orchestrator_why_agentic_ai_cant_be/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing",
-      "url": "https://www.reddit.com/r/artificial/comments/1tndgv8/ubers_coo_says_its_getting_harder_to_justify_the/",
+      "title": "Anthropic just published how they contain Claude agents, including two security incidents they got wrong",
+      "url": "https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Wiz Integrates with Anthropic's Compliance API",
-      "url": "https://www.reddit.com/r/artificial/comments/1tnvmgt/wiz_integrates_with_anthropics_compliance_api/",
+      "title": "AI is becoming epistemic infrastructure controlled by a handful of private individuals?",
+      "url": "https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Top 10 Fastest Growing AI repos this week",
-      "url": "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/",
+      "title": "Which AI image generator is actually worth the money?",
+      "url": "https://www.reddit.com/r/artificial/comments/1to5v3m/which_ai_image_generator_is_actually_worth_the/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "We're reaching a point where \"AI-generated but visually realistic\" content will become the norm, not the exception. 👀",
-      "url": "https://www.reddit.com/r/artificial/comments/1tn3e7k/were_reaching_a_point_where_aigenerated_but/",
+      "title": "Built a tool to save Claude responses (and ChatGPT, Gemini) into one searchable vault - sharing in case it's useful",
+      "url": "https://www.reddit.com/r/artificial/comments/1toga8l/built_a_tool_to_save_claude_responses_and_chatgpt/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "AI agents need audit trails more than they need more autonomy",
-      "url": "https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/",
+      "title": "The creator of LAGK (AI governance framework) just did an AMA on r/artificial — here's what sparked debate",
+      "url": "https://www.reddit.com/r/artificial/comments/1toti6g/the_creator_of_lagk_ai_governance_framework_just/",
       "created_at": null
     },
     {
       "subreddit": "r/artificial",
-      "title": "Why is there a sudden demand for a bunch of data centers?",
-      "url": "https://www.reddit.com/r/artificial/comments/1tndecr/why_is_there_a_sudden_demand_for_a_bunch_of_data/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/artificial",
-      "title": "If you've ever wondered how rigorous data analysis+social science research can look with AI, I've finally launched a nice website for my open-source Claude Code researcher's toolkit: the Data Analyst Augmentation Framework! Equal parts interactive explainer on agentic orchestration + free tool",
-      "url": "https://www.reddit.com/r/artificial/comments/1tnovfd/if_youve_ever_wondered_how_rigorous_data/",
+      "title": "Is AI coming for your job? A bigger government can help",
+      "url": "https://www.reddit.com/r/artificial/comments/1too4xn/is_ai_coming_for_your_job_a_bigger_government_can/",
       "created_at": null
     },
     {
@@ -208,38 +208,44 @@
     },
     {
       "subreddit": "r/SaaS",
-      "title": "Reality check: no one is going to pay for your vibe-coded SaaS.",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tnnyd4/reality_check_no_one_is_going_to_pay_for_your/",
+      "title": "Wish I saw this BEFORE chasing enterprise leads for 12 months",
+      "url": "https://www.reddit.com/r/SaaS/comments/1toa1u7/wish_i_saw_this_before_chasing_enterprise_leads/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "I genuinely cannot believe people care about my project",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tnfghl/i_genuinely_cannot_believe_people_care_about_my/",
+      "title": "A LinkedIn alternative for people who actually build things",
+      "url": "https://www.reddit.com/r/SaaS/comments/1toka86/a_linkedin_alternative_for_people_who_actually/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "Don't let bitter people who gave up discourage you",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tnovu8/dont_let_bitter_people_who_gave_up_discourage_you/",
+      "title": "What SaaS products are you building right now? Share your startup",
+      "url": "https://www.reddit.com/r/SaaS/comments/1topoas/what_saas_products_are_you_building_right_now/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "We just hit 71.43% trial-to-paid conversion rate - here’s how",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tnrbul/we_just_hit_7143_trialtopaid_conversion_rate/",
+      "title": "Maps API is 92% of my cost; AI is 8%. I had it completely backwards.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1toub85/maps_api_is_92_of_my_cost_ai_is_8_i_had_it/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "Transitioning my side project into my main income: Technical architecture and B2B pricing model of my RAG Enterprise SaaS",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tnptuh/transitioning_my_side_project_into_my_main_income/",
+      "title": "Best channel to get leads or clients for my Saas?",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tov5un/best_channel_to_get_leads_or_clients_for_my_saas/",
       "created_at": null
     },
     {
       "subreddit": "r/SaaS",
-      "title": "I crossed the 100 users in 4 weeks",
-      "url": "https://www.reddit.com/r/SaaS/comments/1tn5b4u/i_crossed_the_100_users_in_4_weeks/",
+      "title": "I built it. When will they come?",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tor1sq/i_built_it_when_will_they_come/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "Help",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1toe3fk/help/",
       "created_at": null
     },
     {
@@ -282,12 +288,6 @@
       "subreddit": "r/techstartups",
       "title": "Need Suggestion",
       "url": "https://www.reddit.com/r/TechStartups/comments/1tlb8x6/need_suggestion/",
-      "created_at": null
-    },
-    {
-      "subreddit": "r/techstartups",
-      "title": "I am a Hardware and IoT Engineer, Anyone have startup idea and looking for a technical person or a CTO, You can DM me",
-      "url": "https://www.reddit.com/r/TechStartups/comments/1tlhj17/i_am_a_hardware_and_iot_engineer_anyone_have/",
       "created_at": null
     }
   ]

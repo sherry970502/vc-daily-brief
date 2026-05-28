@@ -1,175 +1,207 @@
 {
-  "updated_at": "2026-05-27T05:24:09.789709+00:00",
+  "updated_at": "2026-05-28T05:16:16.948771+00:00",
   "period_hours": 24,
-  "article_count": 29,
+  "article_count": 28,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
-      "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
-      "published_at": "2026-05-26T23:49:05+00:00",
-      "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys."
+      "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+      "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+      "published_at": "2026-05-28T00:45:37+00:00",
+      "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
-      "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
-      "published_at": "2026-05-26T22:55:01+00:00",
-      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!"
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "published_at": "2026-05-28T00:17:41+00:00",
+      "summary": "Google is embarrassing itself, again."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Trump administration permits Volvo to keep selling connected cars in the US",
-      "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
-      "published_at": "2026-05-26T22:55:01+00:00",
-      "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory."
+      "title": "Rivian will deliver the first R2 SUVs on June 9",
+      "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+      "published_at": "2026-05-27T21:15:04+00:00",
+      "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
-      "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
-      "published_at": "2026-05-26T22:37:46+00:00",
-      "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it."
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "published_at": "2026-05-27T21:11:15+00:00",
+      "summary": "The Series B round was led by Battery Ventures."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "published_at": "2026-05-26T22:32:56+00:00",
-      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "published_at": "2026-05-27T20:10:00+00:00",
+      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
-      "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
-      "published_at": "2026-05-26T21:03:56+00:00",
-      "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics."
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "published_at": "2026-05-27T19:39:45+00:00",
+      "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
-      "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
-      "published_at": "2026-05-26T18:48:04+00:00",
-      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX."
+      "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
+      "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "published_at": "2026-05-27T18:25:00+00:00",
+      "summary": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "published_at": "2026-05-26T18:33:01+00:00",
-      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "published_at": "2026-05-27T18:00:00+00:00",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The IPO Comeback Has A Catch",
-      "url": "https://news.crunchbase.com/public/ipo-comeback-catch-exits-liquidity-declines-bercuson-earlyasset/",
-      "published_at": "2026-05-26T11:00:39+00:00",
-      "summary": "The threshold for going public has steadily risen, leaving many mid-sized firms and their shareholders without viable exit opportunities, writes guest author Shawn Bercuson, founder of Earlyasset, who contends it has created growing pressure for a more mature private secondary market."
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-05-27T17:18:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "In Charts: Seed Deals Keep Getting Bigger As Odds Of Reaching Series A Fall Dramatically",
-      "url": "https://news.crunchbase.com/seed/data-bigger-deals-longer-seriesa-2026/",
-      "published_at": "2026-05-26T11:00:14+00:00",
-      "summary": "Seed rounds are larger than ever, with some startups now raising $8 million to $10 million deals once associated with later stages. But the path forward has also become tougher."
+      "title": "Exclusive: Capchase, The ‘Affirm for B2B,’ Secures $200M In Debt And Equity",
+      "url": "https://news.crunchbase.com/venture/fintech-capchase-b2b-bnpl-200m-debt-equity/",
+      "published_at": "2026-05-27T14:00:50+00:00",
+      "summary": "Financing startup Capchase has secured a new round of funding, consisting of $26 million in equity and a $174 million credit facility, the company told Crunchbase News exclusively."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Savvy Logic Behind VC Bets In ‘Uninvestable’ Sectors",
+      "url": "https://news.crunchbase.com/venture/logic-behind-vc-bets-uninvestable-sectors-cuvelier-rtp-global/",
+      "published_at": "2026-05-27T11:00:56+00:00",
+      "summary": "Historically “uninvestable” sectors are getting more opportunities to bring in funding, creating a rare opportunity for specialized founders and investors to disrupt trillion-dollar industrial markets with vertically integrated, AI-driven software. In this guest commentary, Thomas Cuvelier of RTP Gl"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump spent 3 hours at Walter Reed. he claims ‘everything checked out PERFECTLY’",
-      "url": "https://fortune.com/2026/05/26/trump-medical-exam-walter-reed-health-disclosure/",
-      "published_at": "2026-05-26T19:31:36+00:00",
-      "summary": "Four exams in 16 months, a condition that pools blood in his legs, and a poll showing most Americans doubt his fitness: the presidential fitness test."
+      "title": "Salesforce turbocharges $25 billion stock buying spree with debt, cuts cash flow guidance in half",
+      "url": "https://fortune.com/2026/05/27/salesforce-turbocharges-25-billion-stock-buying-spree-with-debt-cuts-cash-flow-guidance-in-half/",
+      "published_at": "2026-05-28T02:27:38+00:00",
+      "summary": "In the first quarter of fiscal 2027, Salesforce returned $27.5 billion to shareholders."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies as they eye blockbuster IPOs",
-      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-      "published_at": "2026-05-26T20:34:01+00:00",
-      "summary": "Goldman's David Solomon and Box’s Aaron Levie have been saying that there won’t be a white-collar wipeout. Altman says he's \"delighted to be wrong.\""
+      "title": "Like Bill Gates, this founder is cutting his kids inheritance to 8 figures because he’d rather give more to philanthropy than his great-grandkids",
+      "url": "https://fortune.com/2026/05/27/voyager-founder-dylan-taylor-billionaire-kids-inheritance-cap-bill-gates-generational-wealth-bad-philanthropy/",
+      "published_at": "2026-05-27T07:03:00+00:00",
+      "summary": "Voyager founder Dylan Taylor says he'd rather fund philanthropy than future generations he'll never meet."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Billionaire Mark Cuban says bye-bye Bitcoin: Why he is ‘disappointed’ by crypto",
-      "url": "https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/",
-      "published_at": "2026-05-26T20:25:05+00:00",
-      "summary": "‘It’s not the hedge that I expected it to be,’ Cuban said"
+      "title": "Employees using AI are working faster, but the economy isn’t more efficient. A look at what happened in the pre-Internet era might explain why",
+      "url": "https://fortune.com/2026/05/27/ai-productivity-internet-boom-solow-paradox/",
+      "published_at": "2026-05-27T19:46:07+00:00",
+      "summary": "The U.S. might be in the early days of a productivity boom without even knowing it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After receiving backlash, the CEO of Standard Chartered apologizes for hurt over saying ‘lower value human capital’ will be automated by AI",
-      "url": "https://fortune.com/2026/05/26/standard-chartered-ceo-bill-winters-apologizes-calling-some-workers-lower-value-human-capital-ai-push/",
-      "published_at": "2026-05-26T15:52:14+00:00",
-      "summary": "Bill Winters, the CEO of Standard Chartered, says about 15% of “back office” corporate function roles will be reduced in the next four years."
+      "title": "Despite having a $25 million net worth, Hilary Duff thinks saying yes too much to opportunities actually hurt her career",
+      "url": "https://fortune.com/2026/05/27/hilary-duff-disney-star-millionaire-career-advice-gen-z-know-when-to-say-no/",
+      "published_at": "2026-05-27T15:08:14+00:00",
+      "summary": "The “Lizzie McGuire” Disney star admits she said yes to almost everything early in her career—and has regrets. Now, she's telling Gen Z to be more selective."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Uber drivers in Massachusetts just pulled off the biggest labor win since 1941 — just before the robots arrive",
-      "url": "https://fortune.com/2026/05/26/massachusetts-gig-drivers-union-automation-uber-lyft/",
-      "published_at": "2026-05-26T19:40:41+00:00",
-      "summary": "Jean Fredo drives 60-hour weeks terrified of losing app access with no appeal. Now he has a union. So does everyone watching from California."
+      "title": "Real estate billionaire was called the ‘worst analyst’ at Goldman Sachs—now he says the criticism was the best thing that ever happened to him",
+      "url": "https://fortune.com/2026/05/27/real-estate-billionaire-fernando-de-leon-launched-career-called-worst-analyst-quit-job-goldman-sachs/",
+      "published_at": "2026-05-27T14:43:48+00:00",
+      "summary": "Real estate mogul Fernando De Leon left Goldman Sachs after being told that he wasn’t the best fit for the $293.4 billion bank—and it set him up to become a self-made billionaire."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
-      "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
-      "published_at": "2026-05-26T22:32:44+00:00",
-      "summary": "<p>For months, the leading AI coding benchmarks have told enterprise buyers a comforting but misleading story: the top models are all roughly the same. OpenAI&#x27;s <a href=\"https://openai.com/gpt-5/\">GPT-5 family</a>, Anthropic&#x27;s <a href=\"https://www.anthropic.com/claude/opus\">Claude Opus</a>"
+      "title": "MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost",
+      "url": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
+      "published_at": "2026-05-27T19:59:06+00:00",
+      "summary": "<p>Among the many Chinese AI companies and laboratories vying for market share and attention (no pun intended) on the global marketplace, <a href=\"https://www.minimax.io/\">MiniMax</a> stands out for its commitment to providing frontier-level intelligence across a range of modalities, including text,"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token.",
-      "url": "https://venturebeat.com/security/attack-dominating-financial-services-resets-mfa-steals-token",
-      "published_at": "2026-05-26T19:34:30+00:00",
-      "summary": "<p>The attacker who hit the most financial services organizations over the past 12 months never phished a password. They called an IT support line, convinced an employee to reset their MFA, and registered their own device on the network.</p><p>CrowdStrike’s <a href=\"https://www.crowdstrike.com/en-us"
+      "title": "Merck and Mastercard are seeing real agentic AI results. Both say the plumbing came first.",
+      "url": "https://venturebeat.com/infrastructure/merck-and-mastercard-are-seeing-real-agentic-ai-results-both-say-the-plumbing-came-first",
+      "published_at": "2026-05-27T18:23:45+00:00",
+      "summary": "<p>Merck is using AI agents to cut drug discovery cycles by a third and ship compliant marketing materials up to 80% faster — but VP of Digital Platforms Sean Finnerty says the only reason it&#x27;s working is because they built the infrastructure first.</p><p>And the pharmaceutical manufacturer is"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "DataGrail report finds your vendor may be sending data to AI models you never approved",
+      "url": "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved",
+      "published_at": "2026-05-27T16:00:00+00:00",
+      "summary": "<p>The data processing agreement (DPA) — the bedrock contract companies use to evaluate how vendors handle personal data — can no longer be trusted at face value. That is the central, and arguably most alarming, conclusion of DataGrail&#x27;s <a href=\"https://www.datagrail.io/resources/interactive/d"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "published_at": "2026-05-26T14:54:10+00:00",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They"
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "published_at": "2026-05-27T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world o"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: puncturing the AI jobs panic",
-      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-      "published_at": "2026-05-26T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the tech"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "前逸动员工创立消费级智能船艇公司，半年内再获新融资｜硬氪首发",
+      "url": "https://36kr.com/p/3820713545846917?f=rss",
+      "published_at": null,
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，安澜动力科技（深圳）有限公司（以下称“安澜动力”）日前完成数千万天使++轮融资，本轮由南山战新投独家投资。这是公司成立不足一年内完成的第三轮融资。资金将主要用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓，并为下半年种子用户测试的BETA样机交付做好储备。</p>\n  <p>当陆地新能源载具进入存量博弈，一片长期被欧美垄断的蓝海市场正在水面觉醒。随着全球水域环保政策持续收紧、电动化技术日趋成熟、年轻用户对智能硬件接受度提升，消费级休闲船艇站在电动化与智能化跃迁的临界点，成为继新能源汽车后的又一个变革赛道"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A reality check on the AI jobs hysteria",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "published_at": "2026-05-26T09:00:00+00:00",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+      "url": "https://36kr.com/p/3827585618154118?f=rss",
+      "published_at": null,
+      "summary": "<p>文丨刘士武</p>\n  <p>封面来源 | Funloom 官网</p>\n  <p>36氪获悉，<strong>AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。</strong>本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&amp;连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。&nbsp;</p>\n  <p>库兰织梦成立于2023年，<strong>创始人吴同</strong>曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-      "published_at": "2026-05-26T09:00:00+00:00",
-      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+      "url": "https://36kr.com/p/3828191630348934?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>阿里员工十三薪将并入年终奖</li>\n   <li>曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方</li>\n   <li>微信小游戏月活跃用户超过5亿</li>\n   <li>聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争</li>\n   <li>SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温</li>\n   <li>长鑫科技科创板IPO获上市委会议通过</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>“高考期间AI工具将禁用”？豆包、元宝等回应</"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "腾讯游戏的One More Thing，是AI",
+      "url": "https://36kr.com/p/3827658881323649?f=rss",
+      "published_at": null,
+      "summary": "<p>文丨贝果树</p>\n  <p>编辑丨刘士武</p>\n  <p>5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260527/v2_f806117f3fa1466cb1e99ba0a128cd64@242988687_oswg336625oswg554oswg312_img_000?x-oss-pro"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
+      "url": "https://36kr.com/p/3827497128465287?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍</strong></p>\n  <p>36氪获悉，在2026年第一季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，2026年3月，可灵AI年化收入运行率（ARR）近5亿美元，较去年3月的1亿美元增长4倍。程一笑表示，可灵AI一季度收入高速增长，主要来自B端企业客户API调用收入和P端付费会员订阅收入的双轮驱动。无论是用户数还是月均付费金额，可灵AI均实现了高速增长。从留存看，B端企业客户和P端付费会员均保持较好留存趋势，体现出可灵AI在专业创作场景中的技术和产品实力。</p>"
     },
     {
       "source": "36氪",
@@ -194,46 +226,6 @@
       "url": "https://36kr.com/p/3826354349412992?f=rss",
       "published_at": null,
       "summary": "<p>文丨果脯</p>\n  <p><span style=\"letter-spacing: 0px;\">2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。&nbsp;</span><br /></p>\n  <p>S2赛季上线前，这款产品更是被寄予厚望，<strong>腾讯方面称其“有望成为下一款长青产品”。</strong>此时，距离《三角洲行动》正式官宣跻身“长"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事",
-      "url": "https://36kr.com/p/3825817310368385?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪获悉，无感化面部理容品牌「GREENLAB绿所」（以下简称“绿所”）近日宣布完成千万级新一轮融资，本轮由宝顶创投战略投资。融资完成后，宝顶创投创始合伙人张耀东将出任绿所公司董事，参与品牌战略、产品矩阵、渠道经营等方面的长期建设。</p>\n  <p>这也是继2025年完成Pre-A轮融资后，绿所在半年左右时间内再次获得外部资本加注。据了解，本轮资金将主要用于新品研发量产、品牌建设、渠道经营及组织能力提升等方面。</p>\n  <p><strong>绿所是36氪持续关注的品牌，定位“无感化面部理容”，重点面向“精致懒”的年轻男性用户。所谓“无感化”，指的是用户在购买、使用和呈现效果上都尽"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
-      "url": "https://36kr.com/p/3826390617870984?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>文｜周鑫雨 邓咏仪</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。</p>\n  <p>前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员工，有被裁的风险。</p>\n  <p>不过，当我们在4月末来到硅谷，Meta的朋友带来了故事的后续：榜单上线一个"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
-      "url": "https://36kr.com/p/3826385821192841?f=rss",
-      "published_at": null,
-      "summary": "<p><strong>文｜周鑫雨</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态：</p>\n  <p>这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260527/v2_fdb4140794734c0393e7b57b240bcc10@5"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
-      "url": "https://36kr.com/p/3826779946930822?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡</p>\n  <p>算力租赁，遭传闻突袭，上市公司回应</p>\n  <p>胖东来成立文化娱乐公司</p>\n  <p>双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因</p>\n  <p>知情人士：字节跳动本月向Seed员工开放“豆包股”认购权</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>商品标签陷性暗示争议，盒马致歉并下架整改</strong></p>\n  <p>近日，盒马旗下一款“粉木耳”产品因标签设计涉嫌性暗示引发争议。图片显示，该产品名为“盒马菌菇星球贵妃粉耳"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪企业全情报｜更懂股民的舆情数据工具，好用又省心",
-      "url": "https://36kr.com/p/3826003757437573?f=rss",
-      "published_at": null,
-      "summary": "<p>炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。</p>\n  <p>好消息是 ——<strong>36氪企业全情报小程序新版本正式上线啦</strong>！这次更新完全站在大家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻松拿到靠谱情报，不再被信息差牵着走。</p>\n  <p><strong>点击直达小程序：</strong><a href=\"https://wxaurl.cn/J8iJTlzFWSr\" rel=\"noopener noreferrer\" targe"
     }
   ]
 }

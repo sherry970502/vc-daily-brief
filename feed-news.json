@@ -1,199 +1,263 @@
 {
-  "updated_at": "2026-06-01T06:11:43.650298+00:00",
+  "updated_at": "2026-06-02T05:56:38.540306+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 32,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "published_at": "2026-05-31T21:05:14+00:00",
-      "summary": "Environmental activist Erin Brockovich has a new mission."
+      "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+      "url": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+      "published_at": "2026-06-01T23:20:52+00:00",
+      "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "This weekend’s two biggest movies were both directed by YouTubers",
-      "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-      "published_at": "2026-05-31T18:34:58+00:00",
-      "summary": "The YouTube-to-prestige-horror pipeline is looking very strong."
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "published_at": "2026-06-01T22:55:09+00:00",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
-      "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
-      "published_at": "2026-05-31T18:28:17+00:00",
-      "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme."
+      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+      "url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+      "published_at": "2026-06-01T21:40:35+00:00",
+      "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
-      "url": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
-      "published_at": "2026-05-31T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "published_at": "2026-06-01T21:35:00+00:00",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Making sense of the debate over AI psychosis",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "published_at": "2026-05-31T15:30:00+00:00",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\""
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+      "url": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+      "published_at": "2026-06-01T20:26:08+00:00",
+      "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
-      "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
-      "published_at": "2026-05-31T15:00:00+00:00",
-      "summary": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\""
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "published_at": "2026-06-01T20:03:40+00:00",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
-      "url": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
-      "published_at": "2026-05-31T13:00:00+00:00",
-      "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace."
+      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "published_at": "2026-06-01T18:34:32+00:00",
+      "summary": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "published_at": "2026-06-01T18:19:53+00:00",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Anthropic Files Confidentially For IPO",
+      "url": "https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo/",
+      "published_at": "2026-06-01T17:19:04+00:00",
+      "summary": "Anthropic said Monday that it has submitted a confidential filing for a proposed IPO, marking an escalation in the race among generative AI behemoths to make it first to the public market."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "How I Raised $14M For My Startup When I Stopped Pitching And Started Speaking",
+      "url": "https://news.crunchbase.com/venture/startup-founder-building-personal-connections-fundraise-vandervorm-clyx/",
+      "published_at": "2026-06-01T11:00:26+00:00",
+      "summary": "When investor trust is built through repeated in-person encounters, authentic conversations and thought leadership on meaningful problems, relationships and visibility matter more than aggressive fundraising outreach, argues guest author Alyx van der Vorm, whose startup raised $14 million as the res"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Boston Startup Fundraising Looks Strong Only By Pre-AI Parameters",
+      "url": "https://news.crunchbase.com/venture/boston-startup-funding-gains-ai-biotech-healthcare-whoop/",
+      "published_at": "2026-06-01T11:00:05+00:00",
+      "summary": "So far this year, investors have put about $7.8 billion into Boston-area startups, per Crunchbase data. That puts the region on track for a moderate annual gain and the strongest tally in about four years."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Being married is hard’: Graham Platner’s wife rips media reports of her husband’s sexual texts as ‘gossip’",
-      "url": "https://fortune.com/2026/05/31/graham-platner-wife-sexual-text-messages-maine-election-senate/",
-      "published_at": "2026-06-01T01:51:31+00:00",
-      "summary": "“I find it really shameful that there’s a group of media outlets and people who are willing to spread gossip.\""
+      "title": "The automation illusion: Why AI is making COOs’ jobs harder, not easier",
+      "url": "https://fortune.com/2026/06/01/automation-illusion-nike-sysco-box-coos-say-adoption-hard/",
+      "published_at": "2026-06-01T23:37:02+00:00",
+      "summary": "The executives responsible for keeping the world's biggest companies running thought AI would simplify their jobs. They were wrong."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Powell keeps battling Trump without saying his name: ‘Like many other institutions, the Fed has been undergoing a stress test’",
-      "url": "https://fortune.com/2026/05/31/powell-fed-stress-test-trump-board-seat-courage-award/",
-      "published_at": "2026-06-01T01:48:29+00:00",
-      "summary": "The former Fed chair accepted a Profile in Courage award Sunday for his efforts on Fed independence and noted he's keeping his board seat until 2028."
+      "title": "Okta’s President and COO says companies are in denial about the hardest part of the AI revolution: redesigning work itself",
+      "url": "https://fortune.com/2026/06/01/oktas-coo-kelleher-companies-in-denial-about-redesigning-work-ai-agents/",
+      "published_at": "2026-06-01T20:55:53+00:00",
+      "summary": "The transition from workforce to work planning — budgeting for both \"human workers and digital workers,\" is breaking people's brains, Eric Kelleher said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A Gen Z YouTube mogul’s $10 million horror movie almost beat Star Wars at the box office this weekend",
-      "url": "https://fortune.com/2026/05/31/low-budget-films-backrooms-obsession-youtubers-star-wars-mandalorian-grogu-box-office/",
-      "published_at": "2026-05-31T18:07:07+00:00",
-      "summary": "“Backrooms,” which was directed and co-written by YouTube creator Kane Parsons, stunned Hollywood with $81.5 million in its first three days in theaters."
+      "title": "6 years of jersey design, 4 years of prep, 4 weeks of games: Execs at U.S. Soccer and Nike know how much this World Cup means",
+      "url": "https://fortune.com/2026/06/01/world-cup-soccer-how-nike-made-kit-6-years-design/",
+      "published_at": "2026-06-02T01:02:39+00:00",
+      "summary": "Despite ticket chaos and readiness questions swirling around the 2026 World Cup, Nike and U.S. Soccer chief operating officers say years of planning are built around one goal: winning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Berkshire Hathaway to buy Taylor Morrison for $6.8 billion",
-      "url": "https://fortune.com/2026/05/31/berkshire-hathaway-acquisition-taylor-morrison-homebuilder-greg-abel/",
-      "published_at": "2026-05-31T23:01:32+00:00",
-      "summary": "This is the first multibillion-dollar acquisition under Abel, who took over Berkshire Hathaway earlier this year after legendary investor Warren Buffett retired last year."
+      "title": "Cognizant CEO is swimming against the tide on AI: he’s hiring over 20,000 graduates this year and says AI tokenmaxxing is a ‘vanity metric’",
+      "url": "https://fortune.com/2026/06/01/cognizant-ceo-ravi-kumar-s-hiring-entry-level-tokenmaxxing-vanity-metric/",
+      "published_at": "2026-06-01T23:40:01+00:00",
+      "summary": "Ravi Kumar S., CEO of $27 billion IT firm Cognizant, says AI won’t kill entry-level jobs—and companies obsessed with tokens are measuring the wrong thing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Wall Street may have solved a nagging mystery in global oil markets as doomsday scenarios have yet to arrive",
-      "url": "https://fortune.com/2026/05/31/oil-prices-mystery-supply-iran-war-inventories-china-stockpiles-refinery-imports/",
-      "published_at": "2026-05-31T22:40:09+00:00",
-      "summary": "China has quietly emerged as the global oil market's stealthy swing consumer, potentially holding off doomsday a while longer."
+      "title": "Grey rhinos, black swans, and the kidnapping of Nancy Guthrie: What Corporate America still gets wrong about risk",
+      "url": "https://fortune.com/2026/06/01/grey-rhinos-black-swans-nancy-guthrie-kidnapping-cyber-risk/",
+      "published_at": "2026-06-01T23:22:43+00:00",
+      "summary": "Crisis24 President Sid Kosaraju said hackers at his firm were able to pinpoint his daughter's activity. \"They could get into the school website.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A rare ‘super’ El Niño is looking more likely. Here’s what to expect",
-      "url": "https://fortune.com/2026/05/31/rare-super-el-nino-forecast-drought-flooding-climate-change/",
-      "published_at": "2026-05-31T20:49:25+00:00",
-      "summary": "Scientists expect 2027 to be one of the hottest years on record, potentially dethroning 2024, which came in 1.5C above the pre-industrial average."
+      "title": "The ‘godfather of AI’ says we’re not just creating new beings — they’ll be much smarter than us, and soon",
+      "url": "https://fortune.com/2026/06/01/godfather-of-ai-geoffrey-hinton-beings-smarter-than-us/",
+      "published_at": "2026-06-01T22:53:31+00:00",
+      "summary": "The race to make the smartest possible AI that can do the most things will \"lead to things that aren't nice beings towards us,\" Geofrey Hinton said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Sheinbaum accuses U.S. of interfering in Mexico’s politics",
-      "url": "https://fortune.com/2026/05/31/mexico-president-claudia-sheinbaum-us-interfering-domestic-politics-doj-indictment/",
-      "published_at": "2026-05-31T20:37:15+00:00",
-      "summary": "\"Or are we perhaps seeing sectors of the US far right positioning themselves ahead of their 2026 elections?”"
+      "title": "‘Nobody’s safe’: Cognizant projected 90% of jobs would be disrupted by 2032—but we’re beyond it 6 years early",
+      "url": "https://fortune.com/2026/06/01/cognizant-predictions-future-of-work-job-distruption-six-years-early-ai-proof-jobs-not-immune/",
+      "published_at": "2026-06-01T21:26:32+00:00",
+      "summary": "Head of Research Ollie O’Donoghue said even plumbers aren’t immune to AI. “The plumber still fixes the pipe,” but AI can inspect and diagnose."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Israel expands Lebanon assault with Iran-U.S. talks in balance",
-      "url": "https://fortune.com/2026/05/31/israel-lebanon-ground-assault-beaufort-castle-hezbollah-iran-us-talks/",
-      "published_at": "2026-05-31T20:28:22+00:00",
-      "summary": "Israel Katz, the Israeli defense minister, said the IDF had planted an Israeli flag on the historic Beaufort castle near Nabatieh."
+      "title": "Why Amy Lee, the niece of Singapore’s first prime minister, helped launch a crypto-friendly bank",
+      "url": "https://fortune.com/2026/06/01/amy-lee-singapore-gulf-bank-crypto/",
+      "published_at": "2026-06-01T21:00:00+00:00",
+      "summary": "Singapore Gulf Bank comes from a partnership between the Whampoa Group and Mumtalakat, Bahrain’s sovereign wealth fund."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Claude Mythos exposed a hard truth: Your enterprise patching process is way too slow",
-      "url": "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow",
-      "published_at": "2026-05-31T16:30:23+00:00",
-      "summary": "<p>In 2024,<a href=\"https://arxiv.org/abs/2404.08144\"> <u>researchers from the University of Illinois</u></a> found that GPT-4, when provided with a common vulnerabilities and exposures (CVE) description, could autonomously exploit 87% of a curated 15-vulnerability one-day dataset. Without the descr"
+      "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
+      "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
+      "published_at": "2026-06-01T16:10:05+00:00",
+      "summary": "<p>Big news in enterprise AI broke over the weekend as Chinese AI startup<a href=\"https://www.minimax.io/blog/minimax-m3\"> MiniMax released its highly anticipated M3 large language model</a> on Sunday evening Eastern time, pairing frontier-tier coding and agentic performance with a 1-million-token c"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Anthropic’s browser agent got hijacked 31.5% of the time before safeguards engaged",
+      "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged",
+      "published_at": "2026-06-01T15:50:32+00:00",
+      "summary": "<p>Across the frontier labs, the highest prompt injection figures published this spring are Anthropic’s. Point a red-teamer at <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">its newest model</a> in a browser, and the attacker hijacked it <a href=\"https://cdn.sanity.io/files/4zrzovbb/websit"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI doesn't break security. Complexity does",
+      "url": "https://venturebeat.com/security/ai-doesnt-break-security-complexity-does",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "summary": "<p><i>Presented by Snowflake</i></p><hr /><p>Too often, the history of enterprise security has been a history of making things harder to use. A new threat emerges, a new control gets bolted on, and somewhere in the process, people start working around the very systems designed to protect them.</p><p"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: China’s brain implant ambitions",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "published_at": "2026-06-01T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province l"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "published_at": "2026-06-01T09:09:00+00:00",
+      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.&#160; Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly,"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "获国家队采购、联名比音勒芬，「PLAYTOP」想用东方美学演绎户外功能服饰｜早期项目",
-      "url": "https://36kr.com/p/3824416083825027?f=rss",
+      "title": "做了18年民宿的爱彼迎，开始卖酒店了？",
+      "url": "https://36kr.com/p/3835511712363657?f=rss",
       "published_at": null,
-      "summary": "<p>当户外运动品牌纷纷在“防晒”“速干”“保暖”等参数上展开竞赛时，一家成立仅三年的新锐品牌，开始在功能的基础上，将“东方美学”元素融入一件功能衣中。</p>\n  <p><strong>成立于2022年的「PLAYTOP」，是一家将东方美学与天然功能材料融合的户外品牌，瞄准25-40岁追求颜值与舒适体验的高智菁英人群。2025年雪季，PLAYTOP做到了小红书滑雪速干衣用户主动搜索排名第一。</strong></p>\n  <p>目前，PLAYTOP已获得12项独家专利及多国环保创意新材料奖，产品被国家队和军事科学院采购，也是首个连续登上中国国际时装周的户外针织品牌。</p>\n  <p>PLA"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260602/v2_7b07d12e29bd42fbb2dab51b5d041fa0@325131774_oswg132265oswg1080oswg1620_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">爱彼迎的”进化“</p>\n  <p>五月的旧金山，正在经历一场技术的集体癫狂。硅谷的各路AI新贵忙着为机器进化摇旗呐喊，把发布会开成一场场技"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "硬氪观察 | 苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移",
-      "url": "https://36kr.com/p/3833985105782402?f=rss",
+      "title": "商业共生・文明致远——2026虎啸盛典启幕上海",
+      "url": "https://36kr.com/p/3835447060329865?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>在龙旗位于南昌的智能制造工厂中，两台智元精灵G2人形机器人已融入平板产线，承担起多媒体集成测试（MMIT）工站的上下料作业。</p>\n  <p>其工作节拍已接近熟练产线员工——依托腰部的三个运动自由度与全向移动底盘，机器人精准从传送带抓取生产完成的平板，送入检测机箱；待测试完毕，又能迅速取出合格产品、利落放回传送带分流。</p>\n  <p>据现场实测数据，单台机器人每小时可稳定处理约310台平板设备，峰值达316台，8小时连续作业整体成功率超99.5%</p>\n  <p>这并非"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260602/v2_b018f849a9ff4cddaf859fe2d3121df8@6381723_oswg121155oswg1080oswg720_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <blockquote>\n   <p>商业的终极价值，不止于增长的刻度，更在于文明的高度。</p>\n  </blockquote>\n  <p>文明的高度，决"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "“世纪合并”落空，雅诗兰黛松了一口气",
-      "url": "https://36kr.com/p/3825786926633607?f=rss",
+      "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+      "url": "https://36kr.com/p/3800191597583621?f=rss",
       "published_at": null,
-      "summary": "<p>化妆品公司全球市值第四和第九的合并交易落空。</p>\n  <p>5月21日，美国高端美妆巨头雅诗兰黛与西班牙香水美容集团Puig联合宣布，双方已正式终止就潜在合并事宜展开的谈判，协议未能达成。雅诗兰黛盘后股价随即跳涨逾10%，至86.9美元；Puig股价则在马德里市场重挫逾14%。</p>\n  <p>交易告吹的导火索，外界说法不一。路透社援引两名知情人士称，Puig旗下英国彩妆品牌Charlotte Tilbury的同名创始人在谈判过程中提出了一系列涉及自身持股回购条款的诉求，在财务上大幅抬高了交易推进的复杂程度。据悉，Charlotte Tilbury目前仍持有品牌约21.5%的股份，"
+      "summary": "<p>36氪获悉，植物纤维皮革面料公司深圳朴飞生物（以下简称超级皮儿PEELSPHERE®）已完成新一轮融资，由头部创投机构——深圳市创新投资集团有限公司（深创投）独家战略投资。此轮资金将主要用于新产品研发与团队扩充。</p>\n  <p>超级皮儿PEELSPHERE®是一家做植纤皮革面料的公司。它所切入的场景清晰而纯粹：在消费品牌对材料性能、设计表达、健康环保和综合赋能提出更高要求的背景下，如何通过绿色科技，将咖啡渣、橘子皮、苹果皮等农业废料转化为兼具皮革性能质感、设计表现力和规模化制造潜力的新型面料，为品牌提供更多元、更具产品力的可持续整体解决方案。</p>\n  <p>其技术路径是一套兼顾科"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
-      "url": "https://36kr.com/p/3833859545343618?f=rss",
+      "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+      "url": "https://36kr.com/p/3835387558065541?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>OpenAI称使用AI攻克“80岁”数学难题</li>\n   <li>亚马逊：关停词元跟踪榜单</li>\n   <li>马斯克辟谣SpaceX估值下调</li>\n   <li>三花智控高管“为孩子教育”减持套现超4.3亿</li>\n   <li>哈根达斯中国被曝将被柠季收购</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>天涯社区正式恢复访问</strong></p>\n  <p>6月1日起，天涯社区正式恢复访问。据“天涯社区”官方微博发布的《关于天涯社区恢复访问进展的情况说明》，自2023年"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，近日，居家养老消费电子品牌「元生智能」完成新一轮超千万元Pre-A轮融资。本轮融资由银创资本领投，东科创跟投。本轮资金将主要用于渠道拓展以及相关新产品的持续迭代。</p>\n  <p>元生智能是硬氪长期关注的企业，成立于2022年，主要为65岁以上空巢、独居老人提供居家看护产品。公司创始人、CEO邓龙生曾任小天才学习平板产品负责人、星火教育合伙人；联合创始人房少杰同样来自小天才，曾任小天才电话手表及火火兔产品负责人。</p>\n  <p>元生智能旗下老年看护品牌「亲鹿」于"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
-      "url": "https://36kr.com/p/3831348302358408?f=rss",
+      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+      "url": "https://36kr.com/p/3834292242130825?f=rss",
       "published_at": null,
-      "summary": "<p>5月29日，欧莱雅中国在复旦大学启动2026年度“有意思青年”高校公益计划，并首次以校园运动会形式开启新一年的项目活动。活动现场，乒乓球运动员马龙、篮球运动员杨力维、足球运动员赵丽娜等体育界人士与高校学生展开互动，欧莱雅同时宣布向中国青少年发展基金会捐赠总价值约468万元的产品，并启动新一年度校园义卖活动。</p>\n  <p>从表面来看，这是一场校园公益活动；但放在全球美妆行业的发展背景下，它更像是美妆品牌持续拥抱运动文化和健康生活方式的一次缩影。</p>\n  <p>过去很长一段时间，美妆与运动被视为两个相对独立的消费领域。前者围绕审美表达展开，后者则强调竞技和功能价值。<strong>"
+      "summary": "<p>具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。</p>\n  <p>而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。</p>\n  <p>36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。</p>\n  <p><strong>元节核心团队在成立公司前有过较长时期的探索和孵化，此次融资标志着项目初步验证可行性，并已拿到国内外多家头部公司的产品合作部署意向。</strong></p>\n  <p>元节智能的创始团队带有鲜明的"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
-      "url": "https://36kr.com/p/3831135917107075?f=rss",
+      "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
+      "url": "https://36kr.com/p/3835278829008257?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。</p>\n  <p>乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部署与维护的一体化技术能力。</p>\n  <p>创始人黄金龙技术出身，拥有十余年机器人全栈研发与产业化经验，主导过多类工业机器人产品研发与落地；联合创始人单玉虎"
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>闲鱼回应读取用户手机内文物照片上架售卖</li>\n   <li>赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力</li>\n   <li>英伟达推出NVIDIA DSX平台</li>\n   <li>OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人</li>\n   <li>4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>豆包预计6月下旬正式付费，并加速打通抖音电商</strong></p>\n  <p>5月初旬，豆包将推出付费"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
-      "url": "https://36kr.com/p/3831073348855433?f=rss",
+      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+      "url": "https://36kr.com/p/3834400181741440?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>黄仁勋披露“赶飞机”细节，特朗普要出发时来电话</li>\n   <li>国内航线燃油附加费6月5日起首次下调</li>\n   <li>铁路将实施新规：违规乘车拒不补票将被限制购票</li>\n   <li>iPhone 17系列中国销量破3000万台，Pro Max版占近一半</li>\n   <li>SpaceX据悉将IPO估值目标下调至至少1.8万亿美元</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>泡泡玛特上涨，段永平单日盈利近10亿港币</strong></p>\n  <p>泡泡玛特迎来强"
+      "summary": "<p>36氪获悉，<strong>NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。</strong>本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。</p>\n  <p>Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO&nbsp;Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
-      "url": "https://36kr.com/p/3831071878358659?f=rss",
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
+      "url": "https://36kr.com/p/3834544830721671?f=rss",
       "published_at": null,
-      "summary": "<p>“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。”</p>\n  <p>5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260530/v2_896e0741b5d441d48842a792a569594f@5920579_oswg994152oswg1268oswg846_img_png?x-"
+      "summary": "<p>5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。</p>\n  <p>随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。”</p>\n  <p>据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，<strong>豆包预计将在6月下旬正式上线付费内容，"
     }
   ]
 }

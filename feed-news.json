@@ -1,175 +1,255 @@
 {
-  "updated_at": "2026-06-05T05:25:26.961639+00:00",
+  "updated_at": "2026-06-06T05:00:54.484873+00:00",
   "period_hours": 24,
-  "article_count": 29,
+  "article_count": 34,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-      "published_at": "2026-06-05T05:06:37+00:00",
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist."
+      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+      "published_at": "2026-06-05T22:35:01+00:00",
+      "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-      "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
-      "published_at": "2026-06-05T00:06:47+00:00",
-      "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries."
+      "title": "Founders share VC horror stories, and some are naming names",
+      "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+      "published_at": "2026-06-05T21:47:56+00:00",
+      "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "published_at": "2026-06-04T22:43:26+00:00",
-      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though."
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+      "published_at": "2026-06-05T20:31:04+00:00",
+      "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "published_at": "2026-06-04T22:29:50+00:00",
-      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "published_at": "2026-06-05T20:00:00+00:00",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
-      "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
-      "published_at": "2026-06-04T21:44:09+00:00",
-      "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software."
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "published_at": "2026-06-05T18:57:20+00:00",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "published_at": "2026-06-04T21:30:00+00:00",
-      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure"
+      "title": "GM’s electric future depends on a new battery — and this facility",
+      "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+      "published_at": "2026-06-05T17:44:18+00:00",
+      "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
-      "url": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
-      "published_at": "2026-06-04T20:55:38+00:00",
-      "summary": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget."
+      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+      "url": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
+      "published_at": "2026-06-05T17:38:06+00:00",
+      "summary": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "published_at": "2026-06-04T19:33:09+00:00",
-      "summary": "Meta may have found one way to slash its massive data center bill: tents."
+      "title": "The most interesting startups right now want to get you off your phone",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "published_at": "2026-06-05T17:17:06+00:00",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck cr"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Active Startup Investors Didn’t Hold Back In May",
-      "url": "https://news.crunchbase.com/venture/active-startup-investors-may-2026-a16z-y-combinator-general-catalyst/",
-      "published_at": "2026-06-04T11:00:25+00:00",
-      "summary": "Overall, May’s active investor tallies painted a picture of a startup funding scene still dominated by familiar names."
+      "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
+      "published_at": "2026-06-05T15:49:12+00:00",
+      "summary": "Want to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U.S. Check out last we"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Scotch Raises $20M Series A To Disrupt Legacy Liquor Retail Tech With AI",
-      "url": "https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/",
-      "published_at": "2026-06-04T11:00:21+00:00",
-      "summary": "All-in-one software ecosystem provider Scotch is a Denver-based AI-native operating system designed specifically for liquor store owners."
+      "title": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity",
+      "url": "https://news.crunchbase.com/ai/defense-legal-tech-venture-funding-ip-theo/",
+      "published_at": "2026-06-05T11:00:55+00:00",
+      "summary": "Although defense-side legal AI remains underdeveloped despite a large market opportunity, writes guest author Patrick Ip, investors are increasingly watching whether startups can build scalable platforms around litigation intelligence, risk benchmarking and proprietary outcome data for corporate leg"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "5 Interesting Startup Deals You May Have Missed: On-Demand Custom Manufacturing, Underwater Geothermal Energy, And Adventure Group Travel",
+      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-custom-metal-group-travel-geothermal-energy/",
+      "published_at": "2026-06-05T11:00:37+00:00",
+      "summary": "A grab bag of funded startups caught our attention this past month, from a previously bootstrapped custom metal manufacturer that got its first outside funding from big-name Silicon Valley backers, to a startup that aims to provide geothermal energy from underwater volcanoes to small island nations."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘The next China is still China’: McKinsey’s Joe Ngai and Nick Leung on why global business can’t write off the Chinese economy",
-      "url": "https://fortune.com/2026/06/04/next-china-still-china-mckinsey-joe-ngai-nick-leung/",
-      "published_at": "2026-06-04T21:00:00+00:00",
-      "summary": "“You can’t find another China. There’s no other China out there now,\" Greater China chair Joe Ngai says."
+      "title": "What AI is actually good for",
+      "url": "https://fortune.com/2026/06/05/ai-executive-judgment-agents-strategy/",
+      "published_at": "2026-06-05T12:30:00+00:00",
+      "summary": "AI can do far more than most people realize and far less than many assume. The hardest part isn't the technology."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "IBM, AT&T accused by whistleblower of covering up foreign hacks",
-      "url": "https://fortune.com/2026/06/04/ibm-att-accused-by-whistleblower-of-covering-up-foreign-hacks/",
-      "published_at": "2026-06-04T20:39:03+00:00",
-      "summary": "The hackers allegedly breached massive IBM cloud computing infrastructure that’s widely used by many parts of the U.S. government, including the military."
+      "title": "MAGA hates AI, but Trump agrees with Bernie it might be time for partial government ownership",
+      "url": "https://fortune.com/2026/06/05/trump-partnership-openai-anthropic-xai-nationalization-bernie-sanders-altman/",
+      "published_at": "2026-06-06T01:39:26+00:00",
+      "summary": "\"You make them a partnership in this revolution,\" Trump told reporters Friday. \"It would be a beautiful thing.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Airbnb CEO Brian Chesky plans to start a new AI company",
-      "url": "https://fortune.com/2026/06/04/airbnb-ceo-brian-chesky-plans-to-start-a-new-ai-company/",
-      "published_at": "2026-06-04T20:32:48+00:00",
-      "summary": "Chesky plans to create an AI venture to develop artificial intelligence models and is considering a focus on user interaction and design."
+      "title": "Markets have worst day since October as tech stocks lead the way down, traders lose hope of rate cut",
+      "url": "https://fortune.com/2026/06/05/auto-draft-5/",
+      "published_at": "2026-06-05T23:10:12+00:00",
+      "summary": "Nvidia fell 6.2%, Broadcom dropped 7.9% and Micron Technology slid 13.3% for the biggest loss among stocks in the S&#038;P 500."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX and Anthropic are about to go public—and your 401(k) may be forced to buy in",
-      "url": "https://fortune.com/2026/06/04/spacex-anthropic-massive-ipo-401k-retirement-accounts/",
-      "published_at": "2026-06-04T17:10:55+00:00",
-      "summary": "The dot-com guardrails are being dismantled just as SpaceX and Anthropic go public, experts warn. Your retirement account could feel it."
+      "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out",
+      "url": "https://fortune.com/2026/06/05/tech-stocks-market-bloodbath-fed-rate-hikes-jobs-report-ai-fueled-chip-boom/",
+      "published_at": "2026-06-05T22:33:23+00:00",
+      "summary": "\"The lack of a reacceleration of wage growth in recent months points to a labor market that is stable, but not hot.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "BofA on the ‘fundamental disconnect’ in the housing market: You’re blaming the wrong person for why you can’t afford a home",
-      "url": "https://fortune.com/2026/06/04/housing-market-fundamental-disconnect-why-cant-i-buy-a-house/",
-      "published_at": "2026-06-04T20:00:46+00:00",
-      "summary": "\"Affordability is a key voter issue, but proposals to fix structural supply shortages are politically unpopular and lack short-term payoffs.\""
+      "title": "Jamie Dimon called Elon Musk the ‘Edison of our time’ as JPMorgan hosted SpaceX’s $75 billion IPO road show—and even invited Musk’s mom",
+      "url": "https://fortune.com/2026/06/05/jamie-dimon-calls-elon-musk-edison-of-our-time-before-spacex-ipo/",
+      "published_at": "2026-06-05T17:20:29+00:00",
+      "summary": "Top bankers are lavishing praise on Musk ahead of his rocket company’s record-setting listing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Union Pacific CEO responds to Trump idea for U.S.  stake in $71.5 billion railroad mega merger: ‘We do not need anybody’s help to do this’",
-      "url": "https://fortune.com/2026/06/04/union-pacific-ceo-trump-wanting-15-stake-71-billion-norfolk-southern-merger/",
-      "published_at": "2026-06-04T19:46:16+00:00",
-      "summary": "Union Pacific's CEO Jim Vena said he's not had any direct conversations with Trump about the government acquiring a 15% stake in the pending UP-Norfolk Southern merger."
+      "title": "The Class of 2026: Meet the 12 companies making their Fortune 500 debut",
+      "url": "https://fortune.com/2026/06/05/fortune-500-debut-class-of-2026-galaxy-digital-marvell-technologies-bitgo-arista/",
+      "published_at": "2026-06-05T21:51:06+00:00",
+      "summary": "From crypto companies to mattress makers, these companies made it in the list’s 72nd year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "World’s largest sovereign wealth fund backs push for Google oversight on government use of its AI and cloud technology",
-      "url": "https://fortune.com/2026/06/04/worlds-largest-sovereign-wealth-fund-backs-push-for-google-oversight-on-government-ai-contracts/",
-      "published_at": "2026-06-04T18:34:30+00:00",
-      "summary": "A coalition of investors managing $1.15 trillion is pressing Alphabet to explain how it monitors government use of its cloud and AI services."
+      "title": "The U.S. is still one of the world’s biggest meat producers. So why are Americans paying so much for beef?",
+      "url": "https://fortune.com/2026/06/05/us-meat-supply-not-enough-to-stop-high-beef-prices/",
+      "published_at": "2026-06-05T20:30:19+00:00",
+      "summary": "The average price of a pound of ground beef hit a record average retail price of $6.90 last month, up around 19% from a year ago."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI is primarily a blue state problem, and Democrats have the most to lose amid brewing voter ‘techlash’",
-      "url": "https://fortune.com/2026/06/04/ai-blue-state-problem-democrats-have-most-to-lose/",
-      "published_at": "2026-06-04T17:20:46+00:00",
-      "summary": "AI-exposed workers are concentrated in Democratic strongholds and swing states. That's either the party's biggest opening in the midterms—or its biggest vulnerability."
+      "title": "Putin is running out of money to wage war on Ukraine, and this Russian-occupied territory is running out of fuel as Kyiv smashes supply lines",
+      "url": "https://fortune.com/2026/06/05/russia-economy-ukraine-war-unaffordable-occupied-crimea-fuel-shortages-drone-attacks-supply-lines/",
+      "published_at": "2026-06-05T17:11:44+00:00",
+      "summary": "Russia is reeling as casualties reach staggering heights; recruitment of replacement troops wanes; and areas far from the front lines come under attack."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up",
-      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
-      "published_at": "2026-06-04T20:25:00+00:00",
-      "summary": "<p>Anthropic co-founder and CEO Dario Amodei <a href=\"https://medium.com/@coders.stop/dario-amodei-said-90-of-code-will-be-ai-written-in-6-months-6b8060720d97\">said it was coming</a>, but it still feels like a milestone: More than 80% of the code merged into Anthropic’s production codebase in May wa"
+      "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
+      "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
+      "published_at": "2026-06-05T22:55:38+00:00",
+      "summary": "<p>For three years, Microsoft&#x27;s artificial intelligence story has been inseparable from OpenAI. The partnership — cemented by a cumulative investment exceeding $13 billion — gave Microsoft early access to the most advanced AI models on the planet, catapulting its Copilot products into the enter"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Microsoft's AI Futurist explains how he uses Copilot — and the real-world problems enterprises are solving with agents",
+      "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
+      "published_at": "2026-06-05T19:31:00+00:00",
+      "summary": "<p>Microsoft used its <a href=\"https://news.microsoft.com/build-2026/\">Build 2026 conference </a>this week to push a clear message: agents are rapidly moving into production throughout enterprise systems, and the winning platform will be the one that gives them reliable context, governance, identity"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI agents are learning on the job — just not for your whole team",
+      "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team",
+      "published_at": "2026-06-05T17:51:03+00:00",
+      "summary": "<p>When someone on a team corrects an AI agent — better prompts, better feedback, better context — that improvement disappears the moment a colleague opens the same tool. The correction doesn&#x27;t transfer, and the next person starts from zero.</p><p>The problem compounds in multi-agent workflows,"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.",
+      "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid",
+      "published_at": "2026-06-05T16:42:50+00:00",
+      "summary": "<p>Meta&#x27;s AI support agent bound recovery emails to accounts for whoever asked, and SOCs never saw an alert. An authorized agent writes a log of legitimate transactions, so nothing in the detection stack fired. Attackers asked the bot to make the change, took the one-time code it sent, <a href="
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-      "published_at": "2026-06-04T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado,"
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "published_at": "2026-06-05T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to ste"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "published_at": "2026-06-04T10:50:18+00:00",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind"
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "published_at": "2026-06-05T09:00:00+00:00",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital techno"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "published_at": "2026-06-05T09:00:00+00:00",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>SpaceX据悉将其IPO的日本融资目标提高至25亿美元</p>\n  <p>二手房挂牌量回落新房库存下降，楼市供需关系向好</p>\n  <p>B站宣布启动AI创造公开赛</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>数据显示，豆包推出付费后月活减少610万&nbsp;</strong></p>\n  <p>据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+      "url": "https://36kr.com/p/3840267945969929?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>首关15亿元，英诺科创三期基金持续聚焦早期科技投资</strong></p>\n  <p>36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。</p>\n  <p><strong>比特币“金库”公司市值蒸发620亿美元</strong></p>\n  <p>比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“金库型”公"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "Token大战中，华为云选择了第三条路｜最前线",
+      "url": "https://36kr.com/p/3840016255126016?f=rss",
+      "published_at": null,
+      "summary": "<p>作者 | 邓咏仪</p>\n  <p>编辑 | 张雨忻</p>\n  <p>“在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”</p>\n  <p>6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。</p>\n  <p>他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Toke"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "中国入境游距离「世界第一」还有多远？",
+      "url": "https://36kr.com/p/3840001908361472?f=rss",
+      "published_at": null,
+      "summary": "<p>“曾有外国友人让我推荐中国的最佳旅行目的地，我的回答是：你应该看看中国的山。”</p>\n  <p>最近的一场入境游研讨会，携程集团联合创始人兼董事局主席梁建章这样回答。在他的表述中，中国有世界最高的山——喜马拉雅；全世界最美的山，则在中国南方最独特的喀斯特地貌——桂林。</p>\n  <p>与此同时，他正将这份“私藏推荐”转化为全球旅行者的实际行动。</p>\n  <p>近期<strong>，携程集团宣布了一项新的战略计划：未来五年，公司将引入2亿人次的入境游客。</strong></p>\n  <p>在同期进行的桂林之夜入境游推广活动上，国际影星成龙也以“携程入境游大使”的身份亮相活动现场。"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "探店13家，理想/蔚来/问界如何征服50万客群？",
+      "url": "https://36kr.com/p/3839803361741313?f=rss",
+      "published_at": null,
+      "summary": "<p>一周之内，三款“9系”旗舰SUV密集上市，高端新能源市场竞争战况升级。</p>\n  <p>5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线控底盘，售价50.98万元起。</p>\n  <p>5月27日，蔚来ES9与问界新M9同天发布。姚明也称“空间大”的蔚来ES9，起售价49.8万元；在高端市场已经破局的问界M9，起售价49.98万元。</p>\n  <p>冲击50万元级的高端市场，似乎已成为头部新能源车品牌的共识。这背后是战略需要，也是直接的财务驱动。</p>\n  <p>2026年一季度，理想汽车销量同比增长，但由于70%订单为L6、i6等入"
     },
     {
       "source": "36氪",
@@ -185,7 +265,7 @@
       "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
       "url": "https://36kr.com/p/3839600052898054?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。</p>\n  <p>毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的研发与生产。</p>\n  <p>毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰是线控转向新国标修订的联合牵头人，在集度汽车任职期间作为企业方核心代表，全程深度参与了标准的制定工作，履历完整覆盖上汽、蔚来、华为、集度所代表的"
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。</p>\n  <p>毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的���发与生产。</p>\n  <p>毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰是线控转向新国标修订的联合牵头人，在集度汽车任职期间作为企业方核心代表，全程深度参与了标准的制定工作，履历完整覆盖上汽、蔚来、华为、集度所代"
     },
     {
       "source": "36氪",
@@ -194,46 +274,6 @@
       "url": "https://36kr.com/p/3838835333253385?f=rss",
       "published_at": null,
       "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括<strong>智谱、阶跃星辰、商汤科技。</strong>此外，<strong>华勤、上汽恒旭</strong>等产业投资方持续加注<strong>。</strong></p>\n  <p><strong>「原力灵机」</strong>是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO<strong>唐文斌</strong>创立，团队核心创始成员为旷视科技原班人马。</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "为什么库里没有选择安踏？",
-      "url": "https://36kr.com/p/3836116289877385?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <p>2026年6月2日，NBA现役金州勇士队球星斯蒂芬·库里（Stephen Curry）在其个人社交媒体上宣布，个人品牌“库里品牌”（Curry Brand）将与李宁正式签约。</p>\n  <p>ESPN援引知情人士称，这份合同有效期长达十年，内容涵盖篮球产品、运动休闲服饰、库里以个人品牌签约运动员的权利，以及完整的高尔夫球杆产品线，合同具体金额未披露。</p>\n  <p>李宁由此成为库里自2025年11月结束与安德玛（Under Armour）十二年合作之后的新东家。值得注意的是，在李宁之前，安踏也曾与库里方面有过接触，也有一度"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
-      "url": "https://36kr.com/p/3835460873385348?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。</p>\n  <p>百曜科技是36氪持续追踪报道的企业（<a href=\"https://36kr.com/p/3519810822249601\" rel=\"noopener noreferrer\" target=\"_blank\">附链"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉",
-      "url": "https://36kr.com/p/3839505332161026?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>微信正与手机厂商合作推出Agent-to-Agent助手能力</li>\n   <li>擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万</li>\n   <li>腾讯客服回应与华为、小米等合作</li>\n   <li>神农旅游集团就国道收费进行道歉</li>\n   <li>苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>分析师曝苹果Vision Pro产品线被移除，2027年推AI眼镜</strong></"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
-      "url": "https://36kr.com/p/3838702884604421?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_5c7186e6a6734309b3f533a8a9bc5fcd@577536001_oswg155346oswg1080oswg1455_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。</p>\n  <p>许多误判"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发",
-      "url": "https://36kr.com/p/3838488706370054?f=rss",
-      "published_at": null,
-      "summary": "<p>从芯片行业在资本市场的狂飙，到华为发布“韬（τ）定律”，AI浪潮带动下，烈火烹油的半导体行业进入超级周期，推动芯片设计等上游产业链迎来需求爆发。</p>\n  <p>但随着需求暴增，设计复杂度不断提高，芯片验证周期过长，拖累开发节奏的瓶颈也越来越明显。2024年西门子和威尔逊研究集团的研究报��中指出高工艺复杂芯片的流片风险非常大，首次流片成功率只有14%。“一款芯片从架构到流片一般需要两年时间，其中验证环节消耗的人力与时间往往超过60%。”王翕对36氪表示。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/"
     }
   ]
 }

@@ -1,215 +1,111 @@
 {
-  "updated_at": "2026-06-06T05:00:54.484873+00:00",
+  "updated_at": "2026-06-07T05:46:12.861049+00:00",
   "period_hours": 24,
-  "article_count": 34,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
-      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-      "published_at": "2026-06-05T22:35:01+00:00",
-      "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus."
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "published_at": "2026-06-06T20:32:24+00:00",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Founders share VC horror stories, and some are naming names",
-      "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
-      "published_at": "2026-06-05T21:47:56+00:00",
-      "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating."
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "published_at": "2026-06-06T18:13:36+00:00",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
-      "published_at": "2026-06-05T20:31:04+00:00",
-      "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up."
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "published_at": "2026-06-06T17:42:15+00:00",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Startup Battlefield 200 applications officially close in 3 days",
-      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "published_at": "2026-06-05T20:00:00+00:00",
-      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West."
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "published_at": "2026-06-06T16:17:21+00:00",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "published_at": "2026-06-05T18:57:20+00:00",
-      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "GM’s electric future depends on a new battery — and this facility",
-      "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
-      "published_at": "2026-06-05T17:44:18+00:00",
-      "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
-      "url": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
-      "published_at": "2026-06-05T17:38:06+00:00",
-      "summary": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "The most interesting startups right now want to get you off your phone",
-      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "published_at": "2026-06-05T17:17:06+00:00",
-      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck cr"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
-      "published_at": "2026-06-05T15:49:12+00:00",
-      "summary": "Want to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U.S. Check out last we"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity",
-      "url": "https://news.crunchbase.com/ai/defense-legal-tech-venture-funding-ip-theo/",
-      "published_at": "2026-06-05T11:00:55+00:00",
-      "summary": "Although defense-side legal AI remains underdeveloped despite a large market opportunity, writes guest author Patrick Ip, investors are increasingly watching whether startups can build scalable platforms around litigation intelligence, risk benchmarking and proprietary outcome data for corporate leg"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "5 Interesting Startup Deals You May Have Missed: On-Demand Custom Manufacturing, Underwater Geothermal Energy, And Adventure Group Travel",
-      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-custom-metal-group-travel-geothermal-energy/",
-      "published_at": "2026-06-05T11:00:37+00:00",
-      "summary": "A grab bag of funded startups caught our attention this past month, from a previously bootstrapped custom metal manufacturer that got its first outside funding from big-name Silicon Valley backers, to a startup that aims to provide geothermal energy from underwater volcanoes to small island nations."
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "published_at": "2026-06-06T15:00:00+00:00",
+      "summary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "What AI is actually good for",
-      "url": "https://fortune.com/2026/06/05/ai-executive-judgment-agents-strategy/",
-      "published_at": "2026-06-05T12:30:00+00:00",
-      "summary": "AI can do far more than most people realize and far less than many assume. The hardest part isn't the technology."
+      "title": "The Strait of Hormuz is more open than previously thought as the U.S. shoots down Iranian drones threatening ships and provides ‘naval overwatch’",
+      "url": "https://fortune.com/2026/06/06/strait-of-hormuz-ship-traffic-iranian-drones-missiles-us-naval-overwatch/",
+      "published_at": "2026-06-07T02:46:48+00:00",
+      "summary": "\"The attack drones posed an immediate threat to regional maritime traffic,\" U.S. Central Command said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "MAGA hates AI, but Trump agrees with Bernie it might be time for partial government ownership",
-      "url": "https://fortune.com/2026/06/05/trump-partnership-openai-anthropic-xai-nationalization-bernie-sanders-altman/",
-      "published_at": "2026-06-06T01:39:26+00:00",
-      "summary": "\"You make them a partnership in this revolution,\" Trump told reporters Friday. \"It would be a beautiful thing.\""
+      "title": "Elon Musk bullet-proofed his $1 trillion ‘Mars-shot’ pay at SpaceX after the epic battle over his $56 billion moonshot at Tesla",
+      "url": "https://fortune.com/2026/06/06/elon-musk-spacex-ipo-tesla-moonshot-mars/",
+      "published_at": "2026-06-06T10:26:00+00:00",
+      "summary": "The CEO will have almost complete control of his Texas-based space company, without colonizing Mars or building a single non-Earth data center."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets have worst day since October as tech stocks lead the way down, traders lose hope of rate cut",
-      "url": "https://fortune.com/2026/06/05/auto-draft-5/",
-      "published_at": "2026-06-05T23:10:12+00:00",
-      "summary": "Nvidia fell 6.2%, Broadcom dropped 7.9% and Micron Technology slid 13.3% for the biggest loss among stocks in the S&#038;P 500."
+      "title": "Illinois joins Ohio in ordering pause on data center tax credits",
+      "url": "https://fortune.com/2026/06/06/illinois-jb-pritzker-ohio-mike-dewine-pause-data-center-tax-credits-water-use-electricity/",
+      "published_at": "2026-06-06T23:20:38+00:00",
+      "summary": "“Data centers are asking just too much for too little in return, whether it’s electricity or clean water. We can’t let them cause our utility bills to go up.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out",
-      "url": "https://fortune.com/2026/06/05/tech-stocks-market-bloodbath-fed-rate-hikes-jobs-report-ai-fueled-chip-boom/",
-      "published_at": "2026-06-05T22:33:23+00:00",
-      "summary": "\"The lack of a reacceleration of wage growth in recent months points to a labor market that is stable, but not hot.\""
+      "title": "Here’s where U.S. debt may become unsustainable with interest payments triggering a default crisis that even steep tax hikes can’t fix",
+      "url": "https://fortune.com/2026/06/06/us-debt-maximum-level-sustainable-interest-payments-default-crisis-tax-hikes/",
+      "published_at": "2026-06-06T23:09:08+00:00",
+      "summary": "\"Bond markets unravel sooner when investors believe that the government will not restore fiscal sustainability.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jamie Dimon called Elon Musk the ‘Edison of our time’ as JPMorgan hosted SpaceX’s $75 billion IPO road show—and even invited Musk’s mom",
-      "url": "https://fortune.com/2026/06/05/jamie-dimon-calls-elon-musk-edison-of-our-time-before-spacex-ipo/",
-      "published_at": "2026-06-05T17:20:29+00:00",
-      "summary": "Top bankers are lavishing praise on Musk ahead of his rocket company’s record-setting listing."
+      "title": "SpaceX needs to grow 600x in a decade to justify a $1.75 trillion valuation. No company has ever come close",
+      "url": "https://fortune.com/2026/06/06/spacex-ipo-stock-price-valuation/",
+      "published_at": "2026-06-06T07:00:00+00:00",
+      "summary": "SpaceX's valuation will set the bar for what the must achieve going forward to reward investors."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Class of 2026: Meet the 12 companies making their Fortune 500 debut",
-      "url": "https://fortune.com/2026/06/05/fortune-500-debut-class-of-2026-galaxy-digital-marvell-technologies-bitgo-arista/",
-      "published_at": "2026-06-05T21:51:06+00:00",
-      "summary": "From crypto companies to mattress makers, these companies made it in the list’s 72nd year."
+      "title": "Trump says he supports salary cap for Major League Baseball",
+      "url": "https://fortune.com/2026/06/06/trump-salary-cap-major-league-baseball-players-union-lockout-contract-talks/",
+      "published_at": "2026-06-06T20:52:20+00:00",
+      "summary": "“If you don’t have a salary cap you don’t have a sport. Because they can’t help themselves. You know, in sports they can’t help themselves.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The U.S. is still one of the world’s biggest meat producers. So why are Americans paying so much for beef?",
-      "url": "https://fortune.com/2026/06/05/us-meat-supply-not-enough-to-stop-high-beef-prices/",
-      "published_at": "2026-06-05T20:30:19+00:00",
-      "summary": "The average price of a pound of ground beef hit a record average retail price of $6.90 last month, up around 19% from a year ago."
+      "title": "Oil drilling rises in longest U.S. streak since 2022 on price bump",
+      "url": "https://fortune.com/2026/06/06/oil-drilling-rigs-longest-streak-2022-crude-prices-iran-war/",
+      "published_at": "2026-06-06T20:44:38+00:00",
+      "summary": "The number of rigs drilling across US oil fields rose by two this week to 431, according to data released by Baker Hughes Co. on Friday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Putin is running out of money to wage war on Ukraine, and this Russian-occupied territory is running out of fuel as Kyiv smashes supply lines",
-      "url": "https://fortune.com/2026/06/05/russia-economy-ukraine-war-unaffordable-occupied-crimea-fuel-shortages-drone-attacks-supply-lines/",
-      "published_at": "2026-06-05T17:11:44+00:00",
-      "summary": "Russia is reeling as casualties reach staggering heights; recruitment of replacement troops wanes; and areas far from the front lines come under attack."
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
-      "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
-      "published_at": "2026-06-05T22:55:38+00:00",
-      "summary": "<p>For three years, Microsoft&#x27;s artificial intelligence story has been inseparable from OpenAI. The partnership — cemented by a cumulative investment exceeding $13 billion — gave Microsoft early access to the most advanced AI models on the planet, catapulting its Copilot products into the enter"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Microsoft's AI Futurist explains how he uses Copilot — and the real-world problems enterprises are solving with agents",
-      "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
-      "published_at": "2026-06-05T19:31:00+00:00",
-      "summary": "<p>Microsoft used its <a href=\"https://news.microsoft.com/build-2026/\">Build 2026 conference </a>this week to push a clear message: agents are rapidly moving into production throughout enterprise systems, and the winning platform will be the one that gives them reliable context, governance, identity"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "AI agents are learning on the job — just not for your whole team",
-      "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team",
-      "published_at": "2026-06-05T17:51:03+00:00",
-      "summary": "<p>When someone on a team corrects an AI agent — better prompts, better feedback, better context — that improvement disappears the moment a colleague opens the same tool. The correction doesn&#x27;t transfer, and the next person starts from zero.</p><p>The problem compounds in multi-agent workflows,"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.",
-      "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid",
-      "published_at": "2026-06-05T16:42:50+00:00",
-      "summary": "<p>Meta&#x27;s AI support agent bound recovery emails to accounts for whoever asked, and SOCs never saw an alert. An authorized agent writes a log of legitimate transactions, so nothing in the detection stack fired. Attackers asked the bot to make the change, took the one-time code it sent, <a href="
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-      "published_at": "2026-06-05T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to ste"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Are AI chatbots making us lose control of our brains?",
-      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-      "published_at": "2026-06-05T09:00:00+00:00",
-      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital techno"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "published_at": "2026-06-05T09:00:00+00:00",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh"
+      "title": "SpaceX and other mega IPOs may wait years to join the S&P 500",
+      "url": "https://fortune.com/2026/06/06/spacex-openai-anthropic-mega-ipo-sp500-inclusion-nasdaq-russell/",
+      "published_at": "2026-06-06T20:38:27+00:00",
+      "summary": "Unlike S&#038;P, Nasdaq Inc. did change its rules, allowing Nasdaq 100 entry in just 15 trading days, down from a three-month minimum."
     },
     {
       "source": "36氪",
@@ -265,7 +161,7 @@
       "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
       "url": "https://36kr.com/p/3839600052898054?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。</p>\n  <p>毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的���发与生产。</p>\n  <p>毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰是线控转向新国标修订的联合牵头人，在集度汽车任职期间作为企业方核心代表，全程深度参与了标准的制定工作，履历完整覆盖上汽、蔚来、华为、集度所代"
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。</p>\n  <p>毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的研发与生产。</p>\n  <p>毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰是线控转向新国标修订的联合牵头人，在集度汽车任职期间作为企业方核心代表，全程深度参与了标准的制定工作，履历完整覆盖上汽、蔚来、华为、集度所代表的"
     },
     {
       "source": "36氪",

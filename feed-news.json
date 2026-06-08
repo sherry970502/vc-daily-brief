@@ -1,111 +1,151 @@
 {
-  "updated_at": "2026-06-07T05:46:12.861049+00:00",
+  "updated_at": "2026-06-08T06:00:40.591682+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "published_at": "2026-06-06T20:32:24+00:00",
-      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "published_at": "2026-06-07T20:26:13+00:00",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "published_at": "2026-06-06T18:13:36+00:00",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to."
+      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "published_at": "2026-06-07T17:56:22+00:00",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "published_at": "2026-06-06T17:42:15+00:00",
-      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy."
+      "title": "OpenAI is still working on that ‘super app’",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "published_at": "2026-06-07T16:23:22+00:00",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "published_at": "2026-06-06T16:17:21+00:00",
-      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
+      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+      "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+      "published_at": "2026-06-07T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Beyond Instagram: Introducing the next generation of social apps",
-      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
-      "published_at": "2026-06-06T15:00:00+00:00",
-      "summary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community."
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "published_at": "2026-06-07T14:00:00+00:00",
+      "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Strait of Hormuz is more open than previously thought as the U.S. shoots down Iranian drones threatening ships and provides ‘naval overwatch’",
-      "url": "https://fortune.com/2026/06/06/strait-of-hormuz-ship-traffic-iranian-drones-missiles-us-naval-overwatch/",
-      "published_at": "2026-06-07T02:46:48+00:00",
-      "summary": "\"The attack drones posed an immediate threat to regional maritime traffic,\" U.S. Central Command said."
+      "title": "Another low-budget film crushes an expensive action movie at the box office — ‘an outstanding opening for a comedy sequel this far into the series’",
+      "url": "https://fortune.com/2026/06/07/low-budget-film-scary-movie-masters-of-the-universe-weekend-box-office-sales/",
+      "published_at": "2026-06-07T23:22:15+00:00",
+      "summary": "The slasher spoof “Scary Movie” topped ticket sales with $55 million over the weekend, easily besting the far-from-mighty “Masters of the Universe.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Elon Musk bullet-proofed his $1 trillion ‘Mars-shot’ pay at SpaceX after the epic battle over his $56 billion moonshot at Tesla",
-      "url": "https://fortune.com/2026/06/06/elon-musk-spacex-ipo-tesla-moonshot-mars/",
-      "published_at": "2026-06-06T10:26:00+00:00",
-      "summary": "The CEO will have almost complete control of his Texas-based space company, without colonizing Mars or building a single non-Earth data center."
+      "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",
+      "url": "https://fortune.com/2026/06/07/stock-market-today-dow-futures-iran-war-ai-bubble-fed-rates-spacex-ipo/",
+      "published_at": "2026-06-07T22:43:39+00:00",
+      "summary": "Tensions in the Gulf had already been escalating as the U.S. and Iran increasingly exchange fire, with both sides trying to establish their own shipping lanes in the Strait of Hormuz."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Illinois joins Ohio in ordering pause on data center tax credits",
-      "url": "https://fortune.com/2026/06/06/illinois-jb-pritzker-ohio-mike-dewine-pause-data-center-tax-credits-water-use-electricity/",
-      "published_at": "2026-06-06T23:20:38+00:00",
-      "summary": "“Data centers are asking just too much for too little in return, whether it’s electricity or clean water. We can’t let them cause our utility bills to go up.”"
+      "title": "Nvidia’s CEO says new Vera chip will use SK Hynix’s memory chips",
+      "url": "https://fortune.com/2026/06/07/nvidia-ceo-jensen-huang-vera-chip-sk-hynix-memory-processor-korea-stocks/",
+      "published_at": "2026-06-07T21:38:26+00:00",
+      "summary": "“We had a very big year this year with SK Hynix, and we are preparing for a very, very large second half of the year and next year.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Here’s where U.S. debt may become unsustainable with interest payments triggering a default crisis that even steep tax hikes can’t fix",
-      "url": "https://fortune.com/2026/06/06/us-debt-maximum-level-sustainable-interest-payments-default-crisis-tax-hikes/",
-      "published_at": "2026-06-06T23:09:08+00:00",
-      "summary": "\"Bond markets unravel sooner when investors believe that the government will not restore fiscal sustainability.\""
+      "title": "Novo Nordisk CEO looks beyond weight loss to longevity and aesthetics",
+      "url": "https://fortune.com/2026/06/07/novo-nordisk-ceo-ozempic-wegovy-glp-weight-loss-longevity-aesthetics/",
+      "published_at": "2026-06-07T21:28:51+00:00",
+      "summary": "Novo itself is beginning to generate data suggesting semaglutide may actually affect biological processes linked to aging, not just body weight."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX needs to grow 600x in a decade to justify a $1.75 trillion valuation. No company has ever come close",
-      "url": "https://fortune.com/2026/06/06/spacex-ipo-stock-price-valuation/",
-      "published_at": "2026-06-06T07:00:00+00:00",
-      "summary": "SpaceX's valuation will set the bar for what the must achieve going forward to reward investors."
+      "title": "SpaceX’s IPO will also be a massive selling event triggering big price dislocations across the stock market as investors dump shares to buy SPCX",
+      "url": "https://fortune.com/2026/06/07/spacex-ipo-selling-price-dislocations-spcx-stock-passive-index-flows-retail-investors/",
+      "published_at": "2026-06-07T20:39:06+00:00",
+      "summary": "\"Selling flows in recent winners and levered products from retail to invest in SpaceX could be very large.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump says he supports salary cap for Major League Baseball",
-      "url": "https://fortune.com/2026/06/06/trump-salary-cap-major-league-baseball-players-union-lockout-contract-talks/",
-      "published_at": "2026-06-06T20:52:20+00:00",
-      "summary": "“If you don’t have a salary cap you don’t have a sport. Because they can’t help themselves. You know, in sports they can’t help themselves.”"
+      "title": "Iran fires missiles at Israel in first such bombardment since ceasefire as Trump says ‘I’m not happy about’ Israeli strikes on Lebanon",
+      "url": "https://fortune.com/2026/06/07/iran-missiles-israel-ceasefire-trump-lebanon-hezbollah/",
+      "published_at": "2026-06-07T20:59:15+00:00",
+      "summary": "Tehran had warned of retaliation after Israel struck Beirut’s southern suburbs without warning earlier Sunday in defiance of Washington’s request days ago to stand down."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Oil drilling rises in longest U.S. streak since 2022 on price bump",
-      "url": "https://fortune.com/2026/06/06/oil-drilling-rigs-longest-streak-2022-crude-prices-iran-war/",
-      "published_at": "2026-06-06T20:44:38+00:00",
-      "summary": "The number of rigs drilling across US oil fields rose by two this week to 431, according to data released by Baker Hughes Co. on Friday."
+      "title": "Trump says Fed rate increase would be wrong ahead of Warsh debut",
+      "url": "https://fortune.com/2026/06/07/trump-fed-rate-increase-kevin-warsh-fomc-meeting-debut/",
+      "published_at": "2026-06-07T18:24:32+00:00",
+      "summary": "“I’m living with Kevin. I have a lot of respect for him, but my feeling is that when a country is doing well, they shouldn’t be penalized by immediately raising interest rates.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX and other mega IPOs may wait years to join the S&P 500",
-      "url": "https://fortune.com/2026/06/06/spacex-openai-anthropic-mega-ipo-sp500-inclusion-nasdaq-russell/",
-      "published_at": "2026-06-06T20:38:27+00:00",
-      "summary": "Unlike S&#038;P, Nasdaq Inc. did change its rules, allowing Nasdaq 100 entry in just 15 trading days, down from a three-month minimum."
+      "title": "Trump calls Iran war a ‘military exercise’ even as Hormuz fighting heats up and denies promising no new wars — despite repeated pledges",
+      "url": "https://fortune.com/2026/06/07/trump-iran-war-military-exercise-fighting-strait-of-hormuz-no-new-wars-promise/",
+      "published_at": "2026-06-07T17:59:05+00:00",
+      "summary": "\"First of all, I didn't guarantee no war,\" Trump claimed. \"Why would I have built the strongest military in the world?\""
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "When Claude changed, everything changed: Managing AI blast radius in production",
+      "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
+      "published_at": "2026-06-08T01:02:33+00:00",
+      "summary": "<p>Our system did one thing, and it did it well: It turned natural-language questions into API calls.</p><p>The users were analysts, account managers, and operations leads. They knew what data they needed, but assembling it manually meant pulling from four dashboards, two BI tools, and a Salesforce"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
+      "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
+      "published_at": "2026-06-07T16:00:20+00:00",
+      "summary": "<p>Agentic AI is now a core part of the engineering process, driving massive execution leverage and helping us generate more code than ever before. Yet, a difficult question I’ve increasingly heard from business leaders is: <i>if we’re shipping code faster than ever, why aren’t our products improvin"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+      "url": "https://36kr.com/p/3844006775360002?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。</p>\n  <p>作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。</p>\n  <p>但范典做第一款产品用了三年。</p>\n  <p>2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+      "url": "https://36kr.com/p/3841459663030532?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。</p>\n  <p>华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任GE医疗全球科研中心中国区负责人，并连续创立创新科技及医疗公司，在医疗影像、AI、脑机接口与产业转化方面拥有深厚积累。</p>\n  <p>公司核心团队汇聚了来自"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
+      "url": "https://36kr.com/p/3843764238174729?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>AI等机器网络请求量首超人类</p>\n  <p>瑞幸咖啡回应拿铁去冰仅半杯</p>\n  <p>宗馥莉自有品牌KELLYONE回归</p>\n  <p>多家低成本航空公司对登机箱登机收费</p>\n  <p>黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>八家上市公司集中公告“补税”&nbsp;</strong></p>\n  <p>6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中，苹果中国最大授权经销商爱施德（002416."
     },
     {
       "source": "36氪",
@@ -146,30 +186,6 @@
       "url": "https://36kr.com/p/3839803361741313?f=rss",
       "published_at": null,
       "summary": "<p>一周之内，三款“9系”旗舰SUV密集上市，高端新能源市场竞争战况升级。</p>\n  <p>5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线控底盘，售价50.98万元起。</p>\n  <p>5月27日，蔚来ES9与问界新M9同天发布。姚明也称“空间大”的蔚来ES9，起售价49.8万元；在高端市场已经破局的问界M9，起售价49.98万元。</p>\n  <p>冲击50万元级的高端市场，似乎已成为头部新能源车品牌的共识。这背后是战略需要，也是直接的财务驱动。</p>\n  <p>2026年一季度，理想汽车销量同比增长，但由于70%订单为L6、i6等入"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "url": "https://36kr.com/p/3839575253993985?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜王毓婵 梁键强</p>\n  <p>编辑｜张雨忻</p>\n  <p>昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。</p>\n  <p>“您可以通过对应手机系统的AI助手发起<strong>微信音视频通话</strong>或<strong>向指定好友发送消息</strong>。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。</p>\n  <p>与之前字节跳动推出的豆包手机相比，"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
-      "url": "https://36kr.com/p/3839600052898054?f=rss",
-      "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。</p>\n  <p>毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的研发与生产。</p>\n  <p>毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰是线控转向新国标修订的联合牵头人，在集度汽车任职期间作为企业方核心代表，全程深度参与了标准的制定工作，履历完整覆盖上汽、蔚来、华为、集度所代表的"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
-      "url": "https://36kr.com/p/3838835333253385?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括<strong>智谱、阶跃星辰、商汤科技。</strong>此外，<strong>华勤、上汽恒旭</strong>等产业投资方持续加注<strong>。</strong></p>\n  <p><strong>「原力灵机」</strong>是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO<strong>唐文斌</strong>创立，团队核心创始成员为旷视科技原班人马。</p>"
     }
   ]
 }

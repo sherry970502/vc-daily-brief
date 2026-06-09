@@ -1,191 +1,239 @@
 {
-  "updated_at": "2026-06-08T06:00:40.591682+00:00",
+  "updated_at": "2026-06-09T05:13:37.450895+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 29,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "published_at": "2026-06-07T20:26:13+00:00",
-      "summary": "We're likely to see more price increases as the big AI companies plan to go public."
+      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+      "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "published_at": "2026-06-09T05:07:17+00:00",
+      "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "published_at": "2026-06-07T17:56:22+00:00",
-      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\""
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "published_at": "2026-06-09T01:56:48+00:00",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI is still working on that ‘super app’",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "published_at": "2026-06-07T16:23:22+00:00",
-      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee."
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "published_at": "2026-06-09T00:45:56+00:00",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
-      "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
-      "published_at": "2026-06-07T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "published_at": "2026-06-08T22:41:45+00:00",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
-      "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "published_at": "2026-06-07T14:00:00+00:00",
-      "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026."
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "published_at": "2026-06-08T22:39:57+00:00",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "published_at": "2026-06-08T21:29:57+00:00",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Apple plays catch-up at WWDC",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "published_at": "2026-06-08T21:15:42+00:00",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "published_at": "2026-06-08T20:53:55+00:00",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "How Bigger ACVs Are Bringing Direct Sales Back To Vertical AI",
+      "url": "https://news.crunchbase.com/ai/bigger-acvs-bring-direct-sales-vertical-ai-agarwal-defy/",
+      "published_at": "2026-06-08T11:00:27+00:00",
+      "summary": "Successful vertical AI startups are increasingly using channels like private equity networks and industry conferences to drive distribution, recognizing that larger deal sizes require a fundamentally different go-to-market playbook than traditional vertical SaaS. Guest author Medha Agarwal, a genera"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Another low-budget film crushes an expensive action movie at the box office — ‘an outstanding opening for a comedy sequel this far into the series’",
-      "url": "https://fortune.com/2026/06/07/low-budget-film-scary-movie-masters-of-the-universe-weekend-box-office-sales/",
-      "published_at": "2026-06-07T23:22:15+00:00",
-      "summary": "The slasher spoof “Scary Movie” topped ticket sales with $55 million over the weekend, easily besting the far-from-mighty “Masters of the Universe.”"
+      "title": "Chinese beauty brands flock to Southeast Asia as their first step in going global",
+      "url": "https://fortune.com/2026/06/09/chinese-beauty-brands-southeast-asia-go-global/",
+      "published_at": "2026-06-09T04:30:00+00:00",
+      "summary": "Southeast Asia is \"closer to home and encompasses many emerging economies with young populations.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",
-      "url": "https://fortune.com/2026/06/07/stock-market-today-dow-futures-iran-war-ai-bubble-fed-rates-spacex-ipo/",
-      "published_at": "2026-06-07T22:43:39+00:00",
-      "summary": "Tensions in the Gulf had already been escalating as the U.S. and Iran increasingly exchange fire, with both sides trying to establish their own shipping lanes in the Strait of Hormuz."
+      "title": "Walmart CEO John Furner says even wealthy shoppers are now shopping at the discount grocery chain as high prices stretch six-figure earners",
+      "url": "https://fortune.com/2026/06/08/even-ultra-wealthy-having-to-shop-walmart-right-now-ceo-john-furner-says-meeting-more-buying-more/",
+      "published_at": "2026-06-08T15:04:39+00:00",
+      "summary": "Walmart CEO John Furner says wealthy customers are shopping at the budget grocery chain as high prices stretch family finances to a breaking point."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia’s CEO says new Vera chip will use SK Hynix’s memory chips",
-      "url": "https://fortune.com/2026/06/07/nvidia-ceo-jensen-huang-vera-chip-sk-hynix-memory-processor-korea-stocks/",
-      "published_at": "2026-06-07T21:38:26+00:00",
-      "summary": "“We had a very big year this year with SK Hynix, and we are preparing for a very, very large second half of the year and next year.”"
+      "title": "Twitch CEO: Social media has become ‘antisocial’ and can’t match the shared, human connection of livestreaming",
+      "url": "https://fortune.com/2026/06/08/twitch-whatnot-ceo-why-live-stream-more-human-than-social-media/",
+      "published_at": "2026-06-08T23:01:58+00:00",
+      "summary": "Dan Clancy, CEO of the Amazon-owned company, spoke at Fortune Brainstorm Tech in Aspen on Monday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Novo Nordisk CEO looks beyond weight loss to longevity and aesthetics",
-      "url": "https://fortune.com/2026/06/07/novo-nordisk-ceo-ozempic-wegovy-glp-weight-loss-longevity-aesthetics/",
-      "published_at": "2026-06-07T21:28:51+00:00",
-      "summary": "Novo itself is beginning to generate data suggesting semaglutide may actually affect biological processes linked to aging, not just body weight."
+      "title": "Your career needs a ‘gym membership’ to keep up with continuous AI advancements, says Campus founder Tade Oyerinde",
+      "url": "https://fortune.com/2026/06/08/ai-advances-careers-continuous-learning-tade-oyerinde-campus-founder/",
+      "published_at": "2026-06-08T22:43:38+00:00",
+      "summary": "“I’m sorry if you’re exhausted,” said Campus founder and chancellor Tade Oyerinde."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX’s IPO will also be a massive selling event triggering big price dislocations across the stock market as investors dump shares to buy SPCX",
-      "url": "https://fortune.com/2026/06/07/spacex-ipo-selling-price-dislocations-spcx-stock-passive-index-flows-retail-investors/",
-      "published_at": "2026-06-07T20:39:06+00:00",
-      "summary": "\"Selling flows in recent winners and levered products from retail to invest in SpaceX could be very large.\""
+      "title": "Anthropic’s Boris Cherny, creator of Claude Code, says there are days he manages tens of thousands of AI agents at once",
+      "url": "https://fortune.com/2026/06/08/anthropics-boris-cherny-creator-of-claude-code-says-there-are-days-he-manages-tens-of-thousands-of-ai-agents-at-once/",
+      "published_at": "2026-06-08T20:56:45+00:00",
+      "summary": "As Claude Code increasingly writes, tests, reviews, and proposes improvements to itself, Cherny says developers are becoming managers of vast fleets of AI agents."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran fires missiles at Israel in first such bombardment since ceasefire as Trump says ‘I’m not happy about’ Israeli strikes on Lebanon",
-      "url": "https://fortune.com/2026/06/07/iran-missiles-israel-ceasefire-trump-lebanon-hezbollah/",
-      "published_at": "2026-06-07T20:59:15+00:00",
-      "summary": "Tehran had warned of retaliation after Israel struck Beirut’s southern suburbs without warning earlier Sunday in defiance of Washington’s request days ago to stand down."
+      "title": "Anduril CEO Brian Schimpf says economic warfare is the ‘new normal’ for military conflicts—and the U.S. needs to get serious",
+      "url": "https://fortune.com/2026/06/08/anduril-ceo-brian-schimpf-economic-warfare-brainstorm-tech-iran/",
+      "published_at": "2026-06-09T00:03:21+00:00",
+      "summary": "The defense tech CEO told Fortune that America's biggest vulnerability may not be on the battlefield—but in its factories and supply chains."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump says Fed rate increase would be wrong ahead of Warsh debut",
-      "url": "https://fortune.com/2026/06/07/trump-fed-rate-increase-kevin-warsh-fomc-meeting-debut/",
-      "published_at": "2026-06-07T18:24:32+00:00",
-      "summary": "“I’m living with Kevin. I have a lot of respect for him, but my feeling is that when a country is doing well, they shouldn’t be penalized by immediately raising interest rates.”"
+      "title": "AXA launches a new insurance and wealth platform for HNWIs as Hong Kong wealth surges past Switzerland",
+      "url": "https://fortune.com/2026/06/08/axa-launches-global-private-hong-kong-china-hnwi-insurance/",
+      "published_at": "2026-06-08T21:00:00+00:00",
+      "summary": "Hong Kong insurance policies have become a popular investment option for wealthy mainland Chinese."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump calls Iran war a ‘military exercise’ even as Hormuz fighting heats up and denies promising no new wars — despite repeated pledges",
-      "url": "https://fortune.com/2026/06/07/trump-iran-war-military-exercise-fighting-strait-of-hormuz-no-new-wars-promise/",
-      "published_at": "2026-06-07T17:59:05+00:00",
-      "summary": "\"First of all, I didn't guarantee no war,\" Trump claimed. \"Why would I have built the strongest military in the world?\""
+      "title": "Pentagon accuses Alibaba, Baidu and BYD, three of China’s biggest companies, of supporting the Chinese military",
+      "url": "https://fortune.com/2026/06/08/pentagon-accuses-alibaba-baidu-byd-china-military-companies/",
+      "published_at": "2026-06-08T23:12:29+00:00",
+      "summary": "The Defense Department announced designations naming the three companies as providing aid to the People’s Liberation Army."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "When Claude changed, everything changed: Managing AI blast radius in production",
-      "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
-      "published_at": "2026-06-08T01:02:33+00:00",
-      "summary": "<p>Our system did one thing, and it did it well: It turned natural-language questions into API calls.</p><p>The users were analysts, account managers, and operations leads. They knew what data they needed, but assembling it manually meant pulling from four dashboards, two BI tools, and a Salesforce"
+      "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
+      "url": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
+      "published_at": "2026-06-08T22:19:00+00:00",
+      "summary": "<p>A joint research collaboration between researchers at the University of Illinois at Urbana-Champaign (UIUC), UC Berkeley, and the open source AI-native vector database platform Chroma <a href=\"https://arxiv.org/abs/2606.02373\">unveiled Harness-1</a>, a 20-billion parameter open-source search agen"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
-      "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
-      "published_at": "2026-06-07T16:00:20+00:00",
-      "summary": "<p>Agentic AI is now a core part of the engineering process, driving massive execution leverage and helping us generate more code than ever before. Yet, a difficult question I’ve increasingly heard from business leaders is: <i>if we’re shipping code faster than ever, why aren’t our products improvin"
+      "title": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem — and most are building the wrong solution",
+      "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
+      "published_at": "2026-06-08T21:01:00+00:00",
+      "summary": "<p>In Q1 2026, VentureBeat&#x27;s Pulse Research surfaced the <a href=\"https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do\">“Governance Mirage”</a>: the gap between the governance org charts enterprises had drawn"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "published_at": "2026-06-08T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Why this year’s World Cup ball may not fly as far",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "published_at": "2026-06-08T09:00:00+00:00",
+      "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
-      "url": "https://36kr.com/p/3844006775360002?f=rss",
+      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
+      "url": "https://36kr.com/p/3845356968839680?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。</p>\n  <p>作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。</p>\n  <p>但范典做第一款产品用了三年。</p>\n  <p>2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个"
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线——</p>\n  <p>这次，苹果没有如往常一般发布新硬件，也不预热万众瞩目的折叠屏，而是把一个多小时演讲的最大篇幅，留给了软件与AI。</p>\n  <p>显然，苹果正试图把过去两年的\"AI迟到者\"的标签，编译成另一套叙事。</p>\n  <p>在发布会上，苹果软件工程高级副总裁克雷格·费德里吉（Craig Federighi）先是纠偏了多数"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
-      "url": "https://36kr.com/p/3841459663030532?f=rss",
+      "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
+      "url": "https://36kr.com/p/3845295918909954?f=rss",
       "published_at": null,
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。</p>\n  <p>华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任GE医疗全球科研中心中国区负责人，并连续创立创新科技及医疗公司，在医疗影像、AI、脑机接口与产业转化方面拥有深厚积累。</p>\n  <p>公司核心团队汇聚了来自"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，苏州墨锋新材料科技有限公司（下称“墨锋科技”）近日完成新一轮千万元融资，由险峰基金、成都科创投集团投资，资金将主要用于产线扩建与产能扩张。</p>\n  <p>墨锋科技成立于2023年，技术源自四川大学近20年高分子材料研究成果，聚焦高性能POD（聚芳噁二唑）薄膜产业化。</p>\n  <p>POD作为一种耐高温聚合物，早在上世纪六七十年代便受到关注，但由于加工成型过程中的工艺问题和设备腐蚀问题，产业化难度极高，相关研究一度长期停滞。</p>\n  <p>国内对于POD的系"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
-      "url": "https://36kr.com/p/3843764238174729?f=rss",
+      "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
+      "url": "https://36kr.com/p/3845293120621057?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>AI等机器网络请求量首超人类</p>\n  <p>瑞幸咖啡回应拿铁去冰仅半杯</p>\n  <p>宗馥莉自有品牌KELLYONE回归</p>\n  <p>多家低成本航空公司对登机箱登机收费</p>\n  <p>黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>八家上市公司集中公告“补税”&nbsp;</strong></p>\n  <p>6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中，苹果中国最大授权经销商爱施德（002416."
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，隼瞻科技有限公司（下称“隼瞻科技”）近日完成近亿元天使+轮融资。本轮融资引入英飞尼迪资本、白云金控、深圳中小担创投、厚天资本、华盖资本、嘉誉创投等多家战略投资人，老股东毅达资本、达泰资本持续加持。</p>\n  <p>隼瞻科技成立于2023年初，专注芯片处理器模块及开发平台，致力于打造基于“RISC-V+DSA”的新一代处理器设计体系，公司希望通过“IP货架+EDA工具链”的模式，降低AI时代定制化处理器设计门槛。</p>\n  <p>当前，AI模型快速垂直化，正在推动芯"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "title": "生殖学博士入局脑机接口，想做一款缓解女性经期情绪问题的脑机\"发箍\"｜早期项目",
+      "url": "https://36kr.com/p/3843971153267208?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>SpaceX据悉将其IPO的日本融资目标提高至25亿美元</p>\n  <p>二手房挂牌量回落新房库存下降，楼市供需关系向好</p>\n  <p>B站宣布启动AI创造公开赛</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>数据显示，豆包推出付费后月活减少610万&nbsp;</strong></p>\n  <p>据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以"
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>对许多女性而言，经期不只是一次生理周期的重复，更是一场身心双重的考验。腹痛、头痛、疲劳、焦虑、易怒……这些经前期综合征（PMS）带来的不适，严重时甚至会影响工作和生活。然而，目前主流的缓解方式仍然高度依赖止痛药，长期服药存在副作用风险，而物理热敷、休息调整固然能带来一定舒缓，却效果有限。</p>\n  <p>有没有一种更温和、无创的方式，能安全有效地缓解经期不适？这一市场痛点，吸引了一位生殖学博士跨界进入脑机接口领域，试图用科技为女性经期健康问题带来新的解题思路。</p>\n  <p>智子银河成立于2026年，专注于无创脑机接口等"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
-      "url": "https://36kr.com/p/3840267945969929?f=rss",
+      "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
+      "url": "https://36kr.com/p/3839626642344454?f=rss",
       "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>首关15亿元，英诺科创三期基金持续聚焦早期科技投资</strong></p>\n  <p>36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。</p>\n  <p><strong>比特币“金库”公司市值蒸发620亿美元</strong></p>\n  <p>比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“金库型”公"
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，近日，AI原生生物科技公司百奥几何已完成数亿元战略融资。由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投。指数资本担任独家财务顾问。另据介绍，本轮募集资金将重点用于生命科学微观世界模型GeoFlow的持续迭代，以及自研药物管线的推进。</p>\n  <p>当前，人工智能正沿两条主线加速演进：��大语言模型与多模态模型为代表的数字AI（Digital AI），以自动驾驶与人形机器人为代表的物理AI（Physical AI）。而生命AI（Bio AI）或将成为下一个"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "Token大战中，华为云选择了第三条路｜最前线",
-      "url": "https://36kr.com/p/3840016255126016?f=rss",
+      "title": "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件",
+      "url": "https://36kr.com/p/3845196412193284?f=rss",
       "published_at": null,
-      "summary": "<p>作者 | 邓咏仪</p>\n  <p>编辑 | 张雨忻</p>\n  <p>“在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”</p>\n  <p>6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。</p>\n  <p>他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Toke"
+      "summary": "<h2>今日热点导览</h2>\n  <p>阿里巴巴成立Token Foundry事业部</p>\n  <p>微信宣布面向开发者提供接入微信AI生态的能力</p>\n  <p>全球70%PPE树脂断供，PCB价格大涨</p>\n  <p>英伟达与LG集团合建AI工厂，合作推进机器人、自动驾驶及自主AI</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>苹果推出全新Siri AI，新一代操作系统iOS 27正式发布</strong></p>\n  <p>在WWDC 2026开发者大会上，新一代操作系统iOS 27正式发布，本次iOS 27的升级重点，是新一代Apple Intelli"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "中国入境游距离「世界第一」还有多远？",
-      "url": "https://36kr.com/p/3840001908361472?f=rss",
+      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "url": "https://36kr.com/p/3844185422400008?f=rss",
       "published_at": null,
-      "summary": "<p>“曾有外国友人让我推荐中国的最佳旅行目的地，我的回答是：你应该看看中国的山。”</p>\n  <p>最近的一场入境游研讨会，携程集团联合创始人兼董事局主席梁建章这样回答。在他的表述中，中国有世界最高的山——喜马拉雅；全世界最美的山，则在中国南方最独特的喀斯特地貌——桂林。</p>\n  <p>与此同时，他正将这份“私藏推荐”转化为全球旅行者的实际行动。</p>\n  <p>近期<strong>，携程集团宣布了一项新的战略计划：未来五年，公司将引入2亿人次的入境游客。</strong></p>\n  <p>在同期进行的桂林之夜入境游推广活动上，国际影星成龙也以“携程入境游大使”的身份亮相活动现场。"
+      "summary": "<p>2026年美加墨世界杯进入倒计时，对于普通球迷而言，世界杯意味着绿茵场上的竞争与激情；但对于体育装备制造业来说，这项全球顶级赛事同样是检验供应链实力与技术能力的重要时刻。</p>\n  <p>2025年10月，阿迪达斯正式发布2026年世界杯官方比赛用球\"三重浪（TRIONDA）\"。据阿迪达斯方面介绍，这款比赛用球在中国广东的一家代工厂完成生产与检测，每一颗出厂用球均印有\"MADE IN CHINA\"字样。</p>\n  <p>值得说明的是，全球足球制造的版图并非由单一地区主导。公开资料显示，巴基斯坦锡亚尔科特一城便生产了全球约七成足球，历届世界杯的大量用球亦出自当地的Forward Spo"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "探店13家，理想/蔚来/问界如何征服50万客群？",
-      "url": "https://36kr.com/p/3839803361741313?f=rss",
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "url": "https://36kr.com/p/3844559758936582?f=rss",
       "published_at": null,
-      "summary": "<p>一周之内，三款“9系”旗舰SUV密集上市，高端新能源市场竞争战况升级。</p>\n  <p>5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线控底盘，售价50.98万元起。</p>\n  <p>5月27日，蔚来ES9与问界新M9同天发布。姚明也称“空间大”的蔚来ES9，起售价49.8万元；在高端市场已经破局的问界M9，起售价49.98万元。</p>\n  <p>冲击50万元级的高端市场，似乎已成为头部新能源车品牌的共识。这背后是战略需要，也是直接的财务驱动。</p>\n  <p>2026年一季度，理想汽车销量同比增长，但由于70%订单为L6、i6等入"
+      "summary": "<h2>大公司：</h2>\n  <p><strong>热门中概股美股盘前多数上涨，哔哩哔哩涨超5%</strong></p>\n  <p>36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。</p>\n  <p><strong>天娱数科：目前无物理AI业务，未形成相关业务收入</strong></p>\n  <p>36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。经公司自查并向第一大"
     }
   ]
 }

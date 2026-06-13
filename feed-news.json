@@ -1,311 +1,271 @@
 {
-  "updated_at": "2026-06-12T05:55:54.433192+00:00",
+  "updated_at": "2026-06-13T05:26:18.904615+00:00",
   "period_hours": 24,
-  "article_count": 38,
+  "article_count": 33,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "published_at": "2026-06-12T04:30:00+00:00",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation"
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "published_at": "2026-06-13T04:14:19+00:00",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-      "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-      "published_at": "2026-06-12T04:30:00+00:00",
-      "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users."
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "published_at": "2026-06-13T02:26:30+00:00",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "published_at": "2026-06-12T01:48:07+00:00",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "published_at": "2026-06-12T23:15:14+00:00",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "published_at": "2026-06-12T01:04:38+00:00",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "published_at": "2026-06-12T23:00:54+00:00",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "published_at": "2026-06-11T20:33:10+00:00",
-      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun."
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "published_at": "2026-06-12T20:38:09+00:00",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "published_at": "2026-06-11T20:27:25+00:00",
-      "summary": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers."
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+      "published_at": "2026-06-12T20:20:00+00:00",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "published_at": "2026-06-11T19:58:01+00:00",
-      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud."
+      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+      "url": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
+      "published_at": "2026-06-12T19:28:31+00:00",
+      "summary": "A SpaceX-Tesla merger seems inevitable."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bluesky launches group chats, as company shifts focus to community features",
-      "url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
-      "published_at": "2026-06-11T19:41:05+00:00",
-      "summary": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities."
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "published_at": "2026-06-12T17:38:11+00:00",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Before You Cheer The IPO Window, Watch Where The Money Goes",
-      "url": "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv/",
-      "published_at": "2026-06-11T17:41:42+00:00",
-      "summary": "A public SpaceX, OpenAI and Anthropic would become some of the best-capitalized acquirers on the planet, writes MGV's Marc Schröder, who explains that the bigger impact for startups is likely to be stronger M&#038;A activity, with acquisitions rather than IPOs being the most important exit path for"
+      "title": "The Week’s 10 Biggest Funding Rounds: NinjaOne Leads With $400M As Large Deals Also Go To Blockchain, Cloud Infrastructure, Biotech And Robotics",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-healthcare-ninjaone-leads/",
+      "published_at": "2026-06-12T18:48:32+00:00",
+      "summary": "In the U.S., the largest financings went to enterprise software company NinjaOne and blockchain technology provider Digital Asset. The largest deals of the week, however, were for European companies."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Base10 Partners Closes 2 Funds Totaling $850M To Invest In Real Economy Automation",
-      "url": "https://news.crunchbase.com/venture/base10-partners-invests-real-economy-automation-ajao/",
-      "published_at": "2026-06-11T16:45:18+00:00",
-      "summary": "With a strong focus on logistics, payroll, construction and other sectors, San Francisco-based Base10 Partners has raised two funds totaling $850 million: a seed and Series A fund 4, and a Series B fund 2 to invest in automation for the real economy."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The $100M+ Round Is Now Just Your Typical Late-Stage Financing",
-      "url": "https://news.crunchbase.com/venture/median-late-stage-startup-funding-round-size-2026-data/",
-      "published_at": "2026-06-11T11:00:42+00:00",
-      "summary": "Not only is a round of $100 million not remarkably large anymore, it’s not even atypical."
+      "title": "SpaceX Shares Close Up 19% After Largest IPO Of All Time",
+      "url": "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/",
+      "published_at": "2026-06-12T13:00:25+00:00",
+      "summary": "The SpaceX offering caps a remarkable journey for a company that has raised nearly $12 billion in private investment since its founding in 2002 to become the world’s most valuable venture-backed startup. Along the way, the company helped redefine both the space industry and the late-stage venture ma"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump says Europe freeloads on defense. Britain’s own (former) Defense Secretary just agreed",
-      "url": "https://fortune.com/2026/06/11/healey-resignation-hormuz-uk-defense-treasury-gap/",
-      "published_at": "2026-06-12T01:54:35+00:00",
-      "summary": "Joihn Healey was working on a plan to reopen the Strait of Hormuz. He quit three days after seeing the spending budget."
+      "title": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access",
+      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
+      "published_at": "2026-06-13T04:25:25+00:00",
+      "summary": "The directive would even bars Anthropic's own foreign employees from using Fable and Mythos. Anthropic called the government position \"a misunderstanding\"."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As SpaceX goes public, a $100 billion shadow market faces a reckoning",
-      "url": "https://fortune.com/2026/06/11/as-spacex-goes-public-a-100-billion-shadow-market-faces-a-reckoning/",
-      "published_at": "2026-06-11T17:26:04+00:00",
-      "summary": "SpaceX’s public debut could kick off months (or even years) of reckoning in the venture secondaries market, the pre-IPO Wild West."
+      "title": "Ken Griffin has Miami. Stephen Ross has West Palm Beach. Fort Lauderdale had Wayne Huizenga — and it’s been winning ever since",
+      "url": "https://fortune.com/2026/06/12/fort-lauderdale-huizenga-griffin-ross-gold-coast-investment/",
+      "published_at": "2026-06-12T11:00:00+00:00",
+      "summary": "I've spent spent 26 years building Fort Lauderdale's future and we don't need a billionaire champion — we already had one."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why is it so hard to get ROI from AI? Because building from first principles isn’t easy",
-      "url": "https://fortune.com/2026/06/11/roi-from-ai-requires-first-principles-thinking-eye-on-ai-execs-say-brainstorm-tech/",
-      "published_at": "2026-06-11T23:18:47+00:00",
-      "summary": "At Fortune Brainstorm Tech, executives said that finding value from AI starts with strategy and continues with process reinvention."
+      "title": "AI shopping agents are coming. No one is ready for them",
+      "url": "https://fortune.com/2026/06/12/ai-shopping-agents-are-coming-no-one-is-ready-for-them/",
+      "published_at": "2026-06-13T00:08:25+00:00",
+      "summary": "Lack of standards around fraud prevention, security, and returns hamper growth of AI agents, experts said at the Fortune Brainstorm Tech conference."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Oh God, no! Not another thing’: What Anthropic’s Mythos-class Fable 5 means for CEOs trying to govern AI",
-      "url": "https://fortune.com/2026/06/11/anthropic-mythos-fable-5-ceos-govern-ai/",
-      "published_at": "2026-06-11T09:27:52+00:00",
+      "title": "AI can be a ‘secret sauce’ or a way of ‘democratizing mediocrity’—Here’s how business leaders are getting the best of the technology",
+      "url": "https://fortune.com/2026/06/12/brainstorm-tech-hard-part-of-ai-typeface-liquid-death-athenahealth-simbe/",
+      "published_at": "2026-06-12T23:59:33+00:00",
+      "summary": "AI tools can be the most effective and well-designed in the world, but two people can use the same tool and get to vastly different results."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "How Elon Musk sold a $1.77 trillion dream—and what other CEOs can learn from the SpaceX IPO",
+      "url": "https://fortune.com/2026/06/12/spacex-ipo-elon-musk-lessons-for-ceos/",
+      "published_at": "2026-06-12T09:29:31+00:00",
       "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX lowballed its bankers on fees. Goldman Sachs has another way to win big",
-      "url": "https://fortune.com/2026/06/11/spacex-bankers-goldman-sachs-ipo/",
-      "published_at": "2026-06-11T22:19:27+00:00",
-      "summary": "The real money comes after the opening bell."
+      "title": "Live updates from SpaceX IPO debut: SpaceX valuation at $2.1 trillion as stock closes at $161.11 following record first day of trading",
+      "url": "https://fortune.com/2026/06/12/spacex-ipo-trading-first-day-live-updates-elon-musk/",
+      "published_at": "2026-06-12T14:42:02+00:00",
+      "summary": "After 24 years of anticipation, the SpaceX IPO finally debuted at just over $150 a share, turning Elon Musk into the world’s first trillionaire."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Bank of America told investors to ‘take profits.’ Then the Nasdaq fell 7%",
-      "url": "https://fortune.com/2026/06/11/bofa-take-profits-nasdaq-selloff-ai-bubble/",
-      "published_at": "2026-06-11T22:16:27+00:00",
-      "summary": "Days before the worst chip rout since 2020, BofA warned that seven warning lights were flashing."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Three ways that Asia’s enterprises are adopting AI—and where they are falling behind",
-      "url": "https://fortune.com/2026/06/11/three-ways-asia-enterprises-ai-automation-oracle/",
-      "published_at": "2026-06-11T21:00:00+00:00",
-      "summary": "Asia’s AI race won’t be won by early adopters. It will be won by businesses that rebuild processes, data, and governance around AI at scale."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it",
-      "url": "https://fortune.com/2026/06/11/abridge-operating-system-medicine-nvidia-eli-lilly-artsight/",
-      "published_at": "2026-06-11T18:39:44+00:00",
-      "summary": "The $5.3 billion ambient AI startup is expanding from clinical notes into billing, drug trials, and real-time insurance claims."
+      "title": "Founders Fund, Andreessen Horowitz, Valor, and the biggest VC winners from SpaceX’s IPO",
+      "url": "https://fortune.com/2026/06/12/founders-fund-andreessen-horowitz-valor-and-the-biggest-vc-winners-from-spacexs-ipo/",
+      "published_at": "2026-06-12T20:40:03+00:00",
+      "summary": "SpaceX’s IPO will crown a few select VC winners. But it’s only the beginning of Hot IPO Summer."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
-      "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
-      "published_at": "2026-06-11T23:37:00+00:00",
-      "summary": "<p><a href=\"https://agentskills.io/home\">Agent skills</a> have become an important part of real-world AI applications, providing a mechanism — a set of instructions saved in a folder of text-based markdown (.md) files, usually — for models to adapt to specific enterprise use cases and complex workfl"
+      "title": "Kimi K2.7-Code cuts thinking tokens 30% — but practitioners say the benchmarks don't check out",
+      "url": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out",
+      "published_at": "2026-06-12T21:55:22+00:00",
+      "summary": "<p>Moonshot AI released Kimi K2.7-Code this week, an open-source update to its <a href=\"https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming\">K2 coding model </a>family, claiming leaner reasoning and double-digit performance gains.</p><p>K2.7-Code is"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
-      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
-      "published_at": "2026-06-11T23:14:00+00:00",
-      "summary": "<p>Xiaomi&#x27;s MiMo AI team has <a href=\"https://mimo.xiaomi.com/blog/mimo-code-long-horizon\">open-sourced MiMo Code V0.1.0</a>, a terminal-native AI coding assistant that the Chinese electronics giant says outperforms Anthropic&#x27;s Claude Code on key agentic coding benchmarks, especially on lo"
+      "title": "Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations",
+      "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
+      "published_at": "2026-06-12T21:27:29+00:00",
+      "summary": "<p>Large language models continue to struggle with hallucinations, presenting a major roadblock for real-world enterprise applications. Reducing these errors is a messy business, forcing model developers to navigate a strict tradeoff where eliminating factual errors often suppresses valid answers.</"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit",
-      "url": "https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit",
-      "published_at": "2026-06-11T17:23:57+00:00",
-      "summary": "<p>Context windows are becoming a computational bottleneck. The longer an agent runs, the more tokens accumulate from retrieved documents, reasoning traces and conversation history, and the more memory and compute that growing context demands. Most existing solutions either degrade model accuracy, r"
+      "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
+      "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
+      "published_at": "2026-06-12T16:46:00+00:00",
+      "summary": "<p>The creators of the hit, enterprise-friendly, open source OpenClaw variant <a href=\"https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain\">NanoClaw</a> are partnering with software supply chain management leade"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "What AI benchmarks miss about real-world performance",
-      "url": "https://venturebeat.com/orchestration/what-ai-benchmarks-miss-about-real-world-performance",
-      "published_at": "2026-06-11T15:34:06+00:00",
-      "summary": "<p><i>Presented by F5</i></p><hr /><p>Enterprise AI teams have spent years solving for compute, securing GPU allocations, negotiating cloud capacity, and benchmarking training throughput. The assumption embedded in that work is that the path between storage and compute will keep up. In production, t"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes",
-      "url": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes",
-      "published_at": "2026-06-11T15:16:23+00:00",
-      "summary": "<p>GenAI image generators like Stable Diffusion do not draw a picture pixel by pixel from left to right. They start with noise and iteratively refine the entire image in parallel until it converges, in a process known as diffusion. For years, applying that same principle to text generation had remai"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Why AI that works in the lab often fails in production — and what actually fixes it",
-      "url": "https://venturebeat.com/orchestration/why-ai-that-works-in-the-lab-often-fails-in-production-and-what-actually-fixes-it",
-      "published_at": "2026-06-11T07:00:00+00:00",
-      "summary": "<p><i>Presented by Capital One </i></p><hr /><p>Enterprises aren’t struggling to experiment with AI; they’re struggling to make it work in the real world. Moving from promising prototypes to reliable, production-scale systems is where most efforts stall.</p><p>In my role within Capital One’s AI Foun"
+      "title": "PixelRAG beats text parsers on accuracy and cuts AI agent token costs 10x",
+      "url": "https://venturebeat.com/data/pixelrag-beats-text-parsers-on-accuracy-and-cuts-ai-agent-token-costs-10x",
+      "published_at": "2026-06-12T15:39:11+00:00",
+      "summary": "<p>Most enterprise RAG pipelines start the same way: a text parser converts web pages and documents into plain text so they can be chunked and indexed for retrieval. That conversion step destroys retrieval signals — and according to new research, it&#x27;s responsible for the majority of wrong answe"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-      "published_at": "2026-06-11T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of"
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "published_at": "2026-06-12T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "published_at": "2026-06-11T11:00:45+00:00",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without"
+      "title": "You do your own time",
+      "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+      "published_at": "2026-06-12T10:00:00+00:00",
+      "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Job titles of the future: Nature’s drug designer",
-      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
-      "published_at": "2026-06-11T10:00:00+00:00",
-      "summary": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he"
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "published_at": "2026-06-12T09:00:00+00:00",
+      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vi"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Inside soccer’s data renaissance",
-      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
-      "published_at": "2026-06-11T10:00:00+00:00",
-      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Why China is betting on big nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
-      "published_at": "2026-06-11T10:00:00+00:00",
-      "summary": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Mean"
+      "title": "Inside interoception: The hidden sense of how you feel inside",
+      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "published_at": "2026-06-12T09:00:00+00:00",
+      "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on you"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
-      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "title": "“宁王系”，排队 IPO",
+      "url": "https://36kr.com/p/3851106394117383?f=rss",
       "published_at": null,
-      "summary": "<p>2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。</p>\n  <p>院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。</p>\n  <p>国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志峰买下院子最主要的理由。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsos"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_58350c4bd51f4d4996cf27cd413e3d9a@5579416_oswg103747oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">越来越多CVC在路上</p>\n  <p>作者 |&nbsp;冯晓亭&nbsp;</p>\n  <p>&nbsp;编辑 | 吾人&nbsp;</p>"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
-      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+      "url": "https://36kr.com/p/3851073239372809?f=rss",
       "published_at": null,
-      "summary": "<p>当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础物料，工业用品尤其是MRO物料，直接关系设备维护、产线运行、安全生产和综合运营效率。然而，长期以来，工业用品采购普遍存在供应商分散、商品参数不统一、选型比价困难、履约稳定性不足、库存管理粗放等问题，成"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_92aaa336bcb4400e8d6697c9d789b56c@5579416_oswg209725oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">飞向宇宙、浩瀚无垠</p>\n  <p><strong>作者｜曹思颀</strong></p>\n  <p><strong>编辑｜靖宇</strong"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
-      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "title": "突发！Anthropic全球停用Claude 5",
+      "url": "https://36kr.com/p/3851015329027336?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。</p>\n  <p>力普司2025年7月成立于连云港，聚焦大型船舶综合电力推进系统的研发、设计与生产，产品覆盖领先一代的L型永磁全回转推进器、永磁吊舱推进器、破冰型全回转推进器等全矩阵系列，全系列产品采用"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_74565134293746cf8b34869e6309d618@5579416_oswg82577oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">究竟为何，Anthropic突然下线了地表最强Claude？</p>\n  <p><strong>【导读】上线72小时，最强Claude Fable"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
-      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "url": "https://36kr.com/p/3850904887268611?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争</li>\n   <li>全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录</li>\n   <li>SK海力士设备供应商要求涨价</li>\n   <li>端午前机票价格跳水</li>\n   <li>SpaceX上市前夕，美股太空股提前狂欢</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>SpaceX上市在即，马斯克或成全球首位万亿富翁</strong></p>\n  <p>据报道，SpaceX将于美东"
+      "summary": "<p>硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资将主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。</p>\n  <p>伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。</p>\n  <p>目前市场主流调光技术主要包括PDLC（液晶调光）、SPD（悬浮粒子调光）以及EC（电致变色）三种路线。PDLC和SPD主要依靠光散射实现遮蔽效果，普遍存在雾度较高、隔热能力有限、驱动电压较高等问题。而电"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+      "url": "https://36kr.com/p/3850902095336449?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3848492224681223\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官</strong></a></p>\n  <p>7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克"
+      "summary": "<p>6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_3e347a3fd2bf4c729355071525e08d5c@5920579_oswg57991oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class="
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
-      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+      "url": "https://36kr.com/p/3850898430989577?f=rss",
       "published_at": null,
-      "summary": "<p>两个月后，<strong>ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。</strong></p>\n  <p>作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。</p>\n  <p><strong>作为ChinaJoy Vision Future 前沿科技展区的战略合作伙伴，以及ChinaJoy AI未来生态大会的战略合作伙伴，36氪游戏与ChinaJoy 联"
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>Kimi与一国有银行合作，全球首张AI原生信用卡开放预约</p>\n  <p>韩美半导体将使用500亿韩元投资于SpaceX</p>\n  <p>SK海力士回应本月发生第二起火灾</p>\n  <p>杭州小龙虾降价超50%</p>\n  <p>金价连跌，批发商集中补货</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍</strong></p>\n  <p>当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
-      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/p/3849942472512769?f=rss",
       "published_at": null,
-      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。</p>\n  <p>这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺乏面向普通消费者的量产产品。</p>\n  <p>坦途科技此次选择的“地效贴水飞行”形态，旨在通过技术手段降低个人飞行的准入和操作门槛。</p>"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3849894508041220\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>OpenAI CEO奥特曼推迟访韩计划</strong></a></p>\n  <p>据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。</p>\n  <p><a href=\"https://36kr.com/newsfl"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
-      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
       "published_at": null,
-      "summary": "<p>文丨贝果树</p>\n  <p>编辑丨果脯</p>\n  <p>5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。</p>\n  <p>彼时，这款游戏刚发售12天，销量超过了20万份。</p>\n  <p>或许对于销量动辄百万��大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论数。但如今，借着20万份的热度，《梦幻魔法公主》在游戏发售后甚至发起了众筹计划，打算向玩家贩售游戏周边。</p>\n  <p c"
+      "summary": "<p>比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。</p>\n  <p>实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。</p>\n  <p>那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。</p>\n  <p>李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受邀参加当地泰籍员工间的聚会，他才找到这些被“偷走”的BYD Logo。</p>\n  <p>“<strong>有一个当地人穿了一件T恤，那不是我们的"
     }
   ]
 }

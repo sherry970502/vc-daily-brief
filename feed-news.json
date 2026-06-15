@@ -1,135 +1,151 @@
 {
-  "updated_at": "2026-06-14T05:59:16.982445+00:00",
+  "updated_at": "2026-06-15T06:33:12.464747+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "published_at": "2026-06-14T03:00:00+00:00",
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
+      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+      "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+      "published_at": "2026-06-15T04:01:00+00:00",
+      "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "published_at": "2026-06-14T00:03:49+00:00",
-      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+      "url": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+      "published_at": "2026-06-14T21:55:34+00:00",
+      "summary": "JPMorgan can't be pleased by any of this."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "published_at": "2026-06-13T20:42:31+00:00",
-      "summary": "Once again, AI proves to be an unreliable source of information about AI."
+      "title": "UK may ban social media for children under 16",
+      "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+      "published_at": "2026-06-14T20:17:00+00:00",
+      "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "published_at": "2026-06-13T19:11:41+00:00",
-      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "published_at": "2026-06-14T16:38:09+00:00",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI faces investigation from state attorneys general",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "published_at": "2026-06-13T16:47:18+00:00",
-      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "published_at": "2026-06-14T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
-      "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
-      "published_at": "2026-06-13T16:00:00+00:00",
-      "summary": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t"
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-      "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
-      "published_at": "2026-06-13T11:00:00+00:00",
-      "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks."
+      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+      "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+      "published_at": "2026-06-14T14:00:00+00:00",
+      "summary": "The new Sonos Play can act as a portable speaker inside and outside your home."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump expects to sign a deal with Iran on Sunday, but Tehran may want to avoid giving him a gift on his birthday",
-      "url": "https://fortune.com/2026/06/13/trump-us-iran-peace-deal-mou-birthday-gift/",
-      "published_at": "2026-06-13T20:26:20+00:00",
-      "summary": "\"Seems fitting that this should serve as the endgame.\""
+      "title": "Meet Gwynne Shotwell, the engineer-turned-COO who runs SpaceX in platform heels and is now worth over $2 billion",
+      "url": "https://fortune.com/2026/06/15/gwynne-shotwell-spacex-engineer-mars-nasa-ipo/",
+      "published_at": "2026-06-15T06:00:00+00:00",
+      "summary": "\"I need more data than Elon does to make a decision,\" Gwynn Shotwell once said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump at 80 works to project strength as political woes mount",
-      "url": "https://fortune.com/2026/06/13/trump-age-80-birthday-strength-image-political-threats/",
-      "published_at": "2026-06-13T23:47:38+00:00",
-      "summary": "He is struggling to end an unpopular war with Iran, some fellow Republicans have begun to resist his ideas and polls show his support outside his devoted base is waning."
+      "title": "Markets celebrate U.S.-Iran deal as both sides confirm this time is real. Trump says oil will flow and ‘I never cared about regime change’",
+      "url": "https://fortune.com/2026/06/14/stock-market-today-dow-futures-us-iran-war-deal-hormuz-oil-prices-naval-blockade/",
+      "published_at": "2026-06-15T02:35:13+00:00",
+      "summary": "“Deal with the Islamic Republic of Iran is now complete. Congratulations to all!\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S.’s screwworm fix is still a year away, risking more spread",
-      "url": "https://fortune.com/2026/06/13/us-screwworm-fix-cattle-beef-prices-supply-infection/",
-      "published_at": "2026-06-13T23:37:07+00:00",
-      "summary": "A facility that breeds sterile flies to halt reproduction of the parasite isn’t slated to begin operating until November 2027."
+      "title": "A warning from Amazon led the White House to shut down Anthropic’s Mythos model",
+      "url": "https://fortune.com/2026/06/14/how-a-warning-from-amazon-led-the-white-house-to-shut-down-anthropics-mythos-model/",
+      "published_at": "2026-06-14T21:10:21+00:00",
+      "summary": "Amazon's CEO raised the alarm about a jailbreak in Anthropic's Fable 5 model, triggering an unprecedented export control order and a fresh clash with the White House."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The hottest debate on Wall Street right now: Does the flood of mega-IPOs and new shares signal a downturn ahead? That depends",
-      "url": "https://fortune.com/2026/06/13/stock-market-outlook-peak-mega-ipo-wave-issuance-downturn-signal/",
-      "published_at": "2026-06-13T23:23:20+00:00",
-      "summary": "\"The reason is that companies tend to issue when equity demand is strong, earnings momentum is healthy and investor risk appetite is elevated.\""
+      "title": "Oil and gas supplies could take months to return to normal after Iran deal, energy experts say",
+      "url": "https://fortune.com/2026/06/14/oil-gas-supplies-outlook-months-normal-us-iran-deal-hormuz-shutin-fields/",
+      "published_at": "2026-06-15T00:01:51+00:00",
+      "summary": "In addition, some producers in the Middle East paused extracting oil from the ground, known as a shut-in, when they ran out of storage space."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump to name one of his personal lawyers for powerful Southern District of New York, which handles terrorism, espionage, and securities cases",
-      "url": "https://fortune.com/2026/06/13/trump-personal-lawyers-us-attorney-southern-district-new-york-wall-street-top-cop/",
-      "published_at": "2026-06-13T21:59:13+00:00",
-      "summary": "James M. McDonald, a former federal prosecutor, is part of the legal team handling Trump’s appeal of felony convictions related to hush money payments to Stormy Daniels."
+      "title": "Trump says a deal has been reached with Iran and orders end to U.S. naval blockade as Hormuz to reopen — ‘Ships of the World, start your engines’",
+      "url": "https://fortune.com/2026/06/14/trump-us-iran-ceasefire-deal-us-naval-blockade-end-strait-of-hormuz-reopening/",
+      "published_at": "2026-06-14T21:53:20+00:00",
+      "summary": "“Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon,” Pakistan said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "You can ignore AI giants like SpaceX, but your 401(k) won’t",
-      "url": "https://fortune.com/2026/06/13/spacex-stock-index-funds-passive-investing-401k-nasdaq-100-russell/",
-      "published_at": "2026-06-13T21:39:19+00:00",
-      "summary": "Nasdaq changed its rules to allow some huge companies to join its Nasdaq 100 index after just 15 trading days."
+      "title": "Social Security faces steep cuts. These senators want to bet on stocks and $27 trillion in debt to save it—but ‘the gamble does not always pay off’",
+      "url": "https://fortune.com/2026/06/14/social-security-benefit-cuts-trust-fund-insolvency-stock-returns-us-debt/",
+      "published_at": "2026-06-14T21:27:24+00:00",
+      "summary": "\"As a result, the most likely outcome is that in the 75th year, the government will end up with a big pile of debt, requiring large interest payments.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Canadian Prime Minister Mark Carney says ‘new world order will be built starting with Europe’",
-      "url": "https://fortune.com/2026/06/13/canadian-prime-minister-mark-carney-new-world-order-european-union-us-vs-middle-powers/",
-      "published_at": "2026-06-13T21:29:23+00:00",
-      "summary": "“Canada is the most European of non-European countries. We are transforming our cooperation with Europe.”"
+      "title": "Vietnam has bold plans for its economic future. It will need U.S. tech, capital, and speed to make them happen",
+      "url": "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/",
+      "published_at": "2026-06-14T21:00:00+00:00",
+      "summary": "Vietnam already has the attention of global business, but it needs to convert that interest into committed capital."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI hit with multistate probe into possible user harm, days after filing for a highly anticipated IPO",
-      "url": "https://fortune.com/2026/06/13/openai-multistate-probe-possible-user-harm-confidential-filing-ipo/",
-      "published_at": "2026-06-13T21:14:09+00:00",
-      "summary": "“AI is a new and powerful technology, and we work every day to safely bring its benefits to people in a responsible way,\" OpenAI said."
+      "title": "Iran pushes differing versions of deal as U.S. sticks to timeline",
+      "url": "https://fortune.com/2026/06/14/iran-ceasefire-terms-mou-versions-us-deal-sanctions-hormuz-blockade-nuclear-program-frozen-assets/",
+      "published_at": "2026-06-14T19:03:51+00:00",
+      "summary": "The versions diverge in key respects, making it hard to assess how much of a win the deal will be for either side."
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
-      "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
-      "published_at": "2026-06-13T12:24:00+00:00",
-      "summary": "<p>The US government last night issued an unprecedented export control directive <a href=\"https://www.anthropic.com/news/fable-mythos-access\">ordering Anthropic to immediately suspend</a> all access to its top-tier Claude Fable 5 and Claude Mythos 5 models for foreign nationals, citing unspecified n"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "url": "https://36kr.com/p/3853016586359817?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。</p>\n  <p>行业的目光转向背后是切实的焦虑。</p>\n  <p>一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。</p>\n  <p>也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
+      "url": "https://36kr.com/p/3853011900142848?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。</p>\n  <p>另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。</p>\n  <p>「世航智能」创始人兼CEO陈晓博为1989"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
+      "url": "https://36kr.com/p/3853252135654660?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。</p>\n  <p>据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。</p>\n  <p>洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+      "url": "https://36kr.com/p/3853670570743040?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀</li>\n   <li>A股10家退市公司波及超25万股民</li>\n   <li>SK海力士去年新增员工超2000人</li>\n   <li>H&amp;M重组全球架构，大中华区降级</li>\n   <li>世界杯期间英格兰队装备遭窃，大部分已被追回</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单</strong></p>\n  <p>据当地时间6月12日，"
     },
     {
       "source": "36氪",
@@ -145,7 +161,7 @@
       "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
       "url": "https://36kr.com/p/3851572421432324?f=rss",
       "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。</p>\n  <p>SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。</p>\n  <p>家庭"
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，消费级柔性机器人公司SoulX日���已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。</p>\n  <p>SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。</p>\n  <p>"
     },
     {
       "source": "36氪",
@@ -162,38 +178,6 @@
       "url": "https://36kr.com/p/3846972367866119?f=rss",
       "published_at": null,
       "summary": "<p>在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。</p>\n  <h2><str"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "“宁王系”，排队 IPO",
-      "url": "https://36kr.com/p/3851106394117383?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_58350c4bd51f4d4996cf27cd413e3d9a@5579416_oswg103747oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">越来越多CVC在路上</p>\n  <p>作者 |&nbsp;冯晓亭&nbsp;</p>\n  <p>&nbsp;编辑 | 吾人&nbsp;</p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
-      "url": "https://36kr.com/p/3851073239372809?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_92aaa336bcb4400e8d6697c9d789b56c@5579416_oswg209725oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">飞向宇宙、浩瀚无垠</p>\n  <p><strong>作者｜曹思颀</strong></p>\n  <p><strong>编辑｜靖宇</strong"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "突发！Anthropic全球停用Claude 5",
-      "url": "https://36kr.com/p/3851015329027336?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_74565134293746cf8b34869e6309d618@5579416_oswg82577oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">究竟为何，Anthropic突然下线了地表最强Claude？</p>\n  <p><strong>【导读】上线72小时，最强Claude Fable"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
-      "url": "https://36kr.com/p/3850904887268611?f=rss",
-      "published_at": null,
-      "summary": "<p>硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资��主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。</p>\n  <p>伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。</p>\n  <p>目前市场主流调光技术主要包括PDLC（液晶调光）、SPD（悬浮粒子调光）以及EC（电致变色）三种路线。PDLC和SPD主要依靠光散射实现遮蔽效果，普遍存在雾度较高、隔热能力有限、驱动电压较高等问题。而"
     }
   ]
 }

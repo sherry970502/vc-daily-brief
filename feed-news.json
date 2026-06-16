@@ -1,119 +1,255 @@
 {
-  "updated_at": "2026-06-15T06:33:12.464747+00:00",
+  "updated_at": "2026-06-16T06:39:22.787190+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 35,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
-      "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-      "published_at": "2026-06-15T04:01:00+00:00",
-      "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital."
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "published_at": "2026-06-15T23:51:44+00:00",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
-      "url": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
-      "published_at": "2026-06-14T21:55:34+00:00",
-      "summary": "JPMorgan can't be pleased by any of this."
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "published_at": "2026-06-15T21:50:21+00:00",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "UK may ban social media for children under 16",
-      "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
-      "published_at": "2026-06-14T20:17:00+00:00",
-      "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens."
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "published_at": "2026-06-15T18:30:58+00:00",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "published_at": "2026-06-14T16:38:09+00:00",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "published_at": "2026-06-15T18:30:34+00:00",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-      "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-      "published_at": "2026-06-14T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      "title": "These are the countries moving to ban social media for children",
+      "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "published_at": "2026-06-15T17:41:02+00:00",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-      "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-      "published_at": "2026-06-14T14:00:00+00:00",
-      "summary": "The new Sonos Play can act as a portable speaker inside and outside your home."
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "published_at": "2026-06-15T15:29:51+00:00",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
+      "url": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+      "published_at": "2026-06-15T14:45:03+00:00",
+      "summary": "SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "UK unveils sweeping social media ban for users under 16",
+      "url": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+      "published_at": "2026-06-15T14:36:56+00:00",
+      "summary": "The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Rewriting Your Pitch: SaaS Isn’t Dead, But The Playbook For Founders Is Changing",
+      "url": "https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate/",
+      "published_at": "2026-06-15T11:00:41+00:00",
+      "summary": "Because AI and LLMs are reshaping the traditional SaaS model, founders are forced to focus less on software alone and more on delivering measurable business outcomes, defensible workflow ownership, strong retention, and efficient growth. Crunchbase guest author, Ivan Nikkhoo argues that rather than"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The AI Startup Funding Boom Is Not A Global Phenomenon",
+      "url": "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/",
+      "published_at": "2026-06-15T11:00:23+00:00",
+      "summary": "So far in 2026, U.S. companies have pulled in nearly 80% of global seed- through growth-stage financing, per Crunchbase data. That’s a sharp divergence from the years leading up to the AI boom, when American companies typically secured less than half of all investment."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet Gwynne Shotwell, the engineer-turned-COO who runs SpaceX in platform heels and is now worth over $2 billion",
-      "url": "https://fortune.com/2026/06/15/gwynne-shotwell-spacex-engineer-mars-nasa-ipo/",
-      "published_at": "2026-06-15T06:00:00+00:00",
-      "summary": "\"I need more data than Elon does to make a decision,\" Gwynn Shotwell once said."
+      "title": "Steven Spielberg takes top spot in box office with ‘Disclosure Day’ performing as expected",
+      "url": "https://fortune.com/2026/06/15/spielberg-disclosure-day-obsession-box-office-summer/",
+      "published_at": "2026-06-15T12:48:38+00:00",
+      "summary": "“Disclosure Day” collected $92.9 million worldwide over the weekend, good enough to give the 79-year-old his best opening weekend for an original movie."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets celebrate U.S.-Iran deal as both sides confirm this time is real. Trump says oil will flow and ‘I never cared about regime change’",
-      "url": "https://fortune.com/2026/06/14/stock-market-today-dow-futures-us-iran-war-deal-hormuz-oil-prices-naval-blockade/",
-      "published_at": "2026-06-15T02:35:13+00:00",
-      "summary": "“Deal with the Islamic Republic of Iran is now complete. Congratulations to all!\""
+      "title": "Agentic AI systems are doing more and more work. Now humans need to figure out how to verify it all",
+      "url": "https://fortune.com/2026/06/15/as-ai-systems-produce-more-work/",
+      "published_at": "2026-06-16T00:08:20+00:00",
+      "summary": "At Fortune Brainstorm Tech, industry executives discussed the challenges and techniques for bringing accountability into AI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A warning from Amazon led the White House to shut down Anthropic’s Mythos model",
-      "url": "https://fortune.com/2026/06/14/how-a-warning-from-amazon-led-the-white-house-to-shut-down-anthropics-mythos-model/",
-      "published_at": "2026-06-14T21:10:21+00:00",
-      "summary": "Amazon's CEO raised the alarm about a jailbreak in Anthropic's Fable 5 model, triggering an unprecedented export control order and a fresh clash with the White House."
+      "title": "The Southeast Asia 500 has a new engine: Vietnam",
+      "url": "https://fortune.com/2026/06/15/southeast-asia-500-list-vietnam-singapore/",
+      "published_at": "2026-06-16T00:00:00+00:00",
+      "summary": "Thailand and Indonesia have the most companies on the list. But Vietnam is responsible for roughly a quarter of this year's total revenue growth."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Oil and gas supplies could take months to return to normal after Iran deal, energy experts say",
-      "url": "https://fortune.com/2026/06/14/oil-gas-supplies-outlook-months-normal-us-iran-deal-hormuz-shutin-fields/",
-      "published_at": "2026-06-15T00:01:51+00:00",
-      "summary": "In addition, some producers in the Middle East paused extracting oil from the ground, known as a shut-in, when they ran out of storage space."
+      "title": "Top analyst: 71% of SpaceX’s $2 trillion value rests on AI. Grok’s numbers are ‘almost comical’ by comparison",
+      "url": "https://fortune.com/2026/06/15/spacex-valuation-2-trillion-how-much-ai-grok-elon-musk/",
+      "published_at": "2026-06-15T19:58:54+00:00",
+      "summary": "Keith Snyder at CFRA can’t justify SpaceX’s $2 trillion post-IPO market cap without assuming growth that current Grok adoption data doesn’t support."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump says a deal has been reached with Iran and orders end to U.S. naval blockade as Hormuz to reopen — ‘Ships of the World, start your engines’",
-      "url": "https://fortune.com/2026/06/14/trump-us-iran-ceasefire-deal-us-naval-blockade-end-strait-of-hormuz-reopening/",
-      "published_at": "2026-06-14T21:53:20+00:00",
-      "summary": "“Both sides have declared the immediate and permanent termination of military operations on all fronts, including in Lebanon,” Pakistan said."
+      "title": "The Strait of Hormuz is finally reopening, but energy flows may not get back to normal until next year",
+      "url": "https://fortune.com/2026/06/15/when-will-gas-prices-come-down-strait-hormuz-reopening-2027/",
+      "published_at": "2026-06-15T21:13:59+00:00",
+      "summary": "“Our working assumption is that ~80% of energy flows will resume by the end of Q3, but a return to ‘normal’ could stretch into 2027.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Social Security faces steep cuts. These senators want to bet on stocks and $27 trillion in debt to save it—but ‘the gamble does not always pay off’",
-      "url": "https://fortune.com/2026/06/14/social-security-benefit-cuts-trust-fund-insolvency-stock-returns-us-debt/",
-      "published_at": "2026-06-14T21:27:24+00:00",
-      "summary": "\"As a result, the most likely outcome is that in the 75th year, the government will end up with a big pile of debt, requiring large interest payments.\""
+      "title": "Australia’s richest person just bought a SpaceX stake worth more than $1 billion. ‘Elon has done what very few people in history have done’",
+      "url": "https://fortune.com/2026/06/15/australias-richest-person-gina-rinehart-spacex-investment-billion-elon-musk/",
+      "published_at": "2026-06-15T20:40:28+00:00",
+      "summary": "Gina Rinehart, a mining mogul, is backing the rocket maker, citing Musk’s record on space travel and government."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Vietnam has bold plans for its economic future. It will need U.S. tech, capital, and speed to make them happen",
-      "url": "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/",
-      "published_at": "2026-06-14T21:00:00+00:00",
-      "summary": "Vietnam already has the attention of global business, but it needs to convert that interest into committed capital."
+      "title": "UFC fighters at the White House got paid with Trump family stablecoins—but an ethics expert says a gap in the law allows this",
+      "url": "https://fortune.com/2026/06/15/ufc-fighters-white-house-trump-family-usd1-wlfi-ethics-gap/",
+      "published_at": "2026-06-15T22:24:40+00:00",
+      "summary": "The use of USD1 for UFC bonuses exposes how presidential exemptions from key ethics rules blur the line between public duty and private profit."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran pushes differing versions of deal as U.S. sticks to timeline",
-      "url": "https://fortune.com/2026/06/14/iran-ceasefire-terms-mou-versions-us-deal-sanctions-hormuz-blockade-nuclear-program-frozen-assets/",
-      "published_at": "2026-06-14T19:03:51+00:00",
-      "summary": "The versions diverge in key respects, making it hard to assess how much of a win the deal will be for either side."
+      "title": "‘Fix this code’—the three little words behind the U.S. government decision that shut down Anthropic’s Fable and Mythos AI models",
+      "url": "https://fortune.com/2026/06/15/fix-this-code-three-words-behind-us-government-shut-down-anthropic-fable-mythos-ai-models-katie-moussouris-open-letter/",
+      "published_at": "2026-06-15T18:35:43+00:00",
+      "summary": "The Fable jailbreak was trivially easy, an independent security researcher found. But she and other experts say Fable’s value to cyber defenders outweighs its risks. Meanwhile, her own involvement may have antagonized the Trump administration."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
+      "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
+      "published_at": "2026-06-15T19:49:14+00:00",
+      "summary": "<p>Microsoft CEO Satya Nadella <a href=\"https://x.com/satyanadella/status/2066182223213293753\">published a sweeping essay</a> on Sunday laying out what he describes as the defining economic challenge of the AI era: the risk that a handful of frontier models will absorb the expertise of entire indust"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
+      "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+      "published_at": "2026-06-15T19:30:07+00:00",
+      "summary": "<p>Tokyo-based AI startup Sakana AI has officially launched its first commercial product, <a href=\"https://sakana.ai/marlin/\">Sakana Marlin</a>. </p><p>Billed as a &quot;<a href=\"https://sakana.ai/marlin-release/#English\">Virtual CSO</a>&quot; (Chief Strategy Officer), Marlin is an autonomous, B2B r"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "85% of IT teams claim every AI agent is under control. Only 42% actually know who owns them.",
+      "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them",
+      "published_at": "2026-06-15T17:19:28+00:00",
+      "summary": "<p>Organizational leaders are <a href=\"https://www.ivanti.com/resources/research-reports/scaling-ai-it-operations\">nearly twice as likely to hide their AI use</a> compared to all other employees, at 42% versus 23%, according to new Ivanti research surveying 3,900 employees across six countries. Amon"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Vibe coding can build your pipeline. It can't explain it six months later",
+      "url": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
+      "published_at": "2026-06-15T15:14:57+00:00",
+      "summary": "<p>AI coding agents are rapidly accelerating data engineering by generating transformations, pipelines, orchestration workflows, validation tests, and infrastructure configurations from prompts. </p><p>However, enterprise data platforms have long operated across fragmented systems owned by different"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Attackers scale deception with AI. Defenders need truth at machine speed.",
+      "url": "https://venturebeat.com/security/attackers-scale-deception-with-ai-defenders-need-truth-at-machine-speed",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "summary": "<p><i>Presented by Splunk</i></p><hr /><p>AI has changed the economics of cyber deception.</p><p>An attacker can now generate thousands of convincing phishing lures, fake identities, and tailored pretexts before a defender finishes a single change-control cycle. That is the new security challenge: d"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "published_at": "2026-06-15T18:46:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "published_at": "2026-06-15T15:12:28+00:00",
+      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "published_at": "2026-06-15T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway,"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "published_at": "2026-06-15T09:00:00+00:00",
+      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+      "url": "https://36kr.com/p/3855082873476102?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>国内品牌金饰价格普涨</li>\n   <li>小红书公布世界杯开赛数据</li>\n   <li>阿里巴巴达摩院退出旗下科技公司</li>\n   <li>罗马仕接连变更法定代表人</li>\n   <li>遇见小面创始人向“渝见小面”致歉</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>针对多发食品安全问题，市场监管总局约谈山姆总部</strong></p>\n  <p>记者15日了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
+      "url": "https://36kr.com/p/3854510160549124?f=rss",
+      "published_at": null,
+      "summary": "<p>在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？</p>\n  <p>6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。</p>\n  <p>Pocket 4P 以&nbsp;3799元起售，多平台预订量持续走高。</p>\n  <p>对于一个原本被视为“手机影像补充”的品类来说，这种热度本身就提出了一个新的问"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+      "url": "https://36kr.com/p/3854486447510535?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>支付宝：政务AI助手“晓政”服务突破1亿次</strong></p>\n  <p>36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。</p>\n  <p><strong>小雨智造与地瓜机器人正式宣布达成战略合作</strong></p>\n  <p>36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+      "url": "https://36kr.com/p/3854243718550528?f=rss",
+      "published_at": null,
+      "summary": "<p>6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。&nbsp;</p>\n  <p>此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已经落定，但比奖项本身更值得被看见的，是<strong>这些作品背后一批年轻开发者正在关注什么，又试图用代码回答什么。</strong></p>\n  <p>翻开参赛作品的名单，我们意外地发现，这其中很多的开发者都还是在校学生，没有成熟公司的资源，没有完整的商业团队，甚至可能没有充足的"
     },
     {
       "source": "36氪",
@@ -146,38 +282,6 @@
       "url": "https://36kr.com/p/3853670570743040?f=rss",
       "published_at": null,
       "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀</li>\n   <li>A股10家退市公司波及超25万股民</li>\n   <li>SK海力士去年新增员工超2000人</li>\n   <li>H&amp;M重组全球架构，大中华区降级</li>\n   <li>世界杯期间英格兰队装备遭窃，大部分已被追回</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单</strong></p>\n  <p>据当地时间6月12日，"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
-      "url": "https://36kr.com/p/3850942780838912?f=rss",
-      "published_at": null,
-      "summary": "<p><span style=\"letter-spacing: 0px;\">文｜贺哲馨</span></p>\n  <p><span style=\"letter-spacing: 0px;\">编辑｜乔芊</span></p>\n  <p><span style=\"letter-spacing: 0px;\">36氪独家获悉，瑞典快时尚巨头H&amp;M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。</span><br /></p>\n  <p>大中华区在这轮调整中降级为26个销售市场之一，归属"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
-      "url": "https://36kr.com/p/3851572421432324?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，消费级柔性机器人公司SoulX日���已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。</p>\n  <p>SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。</p>\n  <p>"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "曼联，要被卖了",
-      "url": "https://36kr.com/p/3851350342325504?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_e0c77006185f4bd984e08da061c95864@5579416_oswg342733oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：视觉中国</p>\n  <p>作者/余梦莹</p>\n  <p>报道/投资界PEdaily</p>\n  <p>史上最盛大世界杯正在上演。</p"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "url": "https://36kr.com/p/3846972367866119?f=rss",
-      "published_at": null,
-      "summary": "<p>在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。</p>\n  <h2><str"
     }
   ]
 }

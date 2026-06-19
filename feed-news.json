@@ -1,199 +1,263 @@
 {
-  "updated_at": "2026-06-18T06:03:45.518128+00:00",
+  "updated_at": "2026-06-19T06:26:55.376928+00:00",
   "period_hours": 24,
-  "article_count": 32,
+  "article_count": 34,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How to turn off AI in your Google Docs",
-      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "published_at": "2026-06-18T01:23:51+00:00",
-      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
+      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+      "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "published_at": "2026-06-19T01:01:00+00:00",
+      "summary": "Telegram argues India should block specific content, not an entire platform used by millions."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-      "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-      "published_at": "2026-06-17T23:28:21+00:00",
-      "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\""
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "published_at": "2026-06-19T00:51:11+00:00",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-      "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-      "published_at": "2026-06-17T21:30:50+00:00",
-      "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist."
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "published_at": "2026-06-18T21:20:13+00:00",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "published_at": "2026-06-17T20:32:52+00:00",
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever."
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "published_at": "2026-06-18T20:30:00+00:00",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-      "published_at": "2026-06-17T20:24:28+00:00",
-      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock."
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "published_at": "2026-06-18T19:59:22+00:00",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "published_at": "2026-06-17T20:17:38+00:00",
-      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses"
+      "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+      "published_at": "2026-06-18T19:52:19+00:00",
+      "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
-      "url": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
-      "published_at": "2026-06-17T19:46:16+00:00",
-      "summary": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints."
+      "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+      "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+      "published_at": "2026-06-18T19:31:45+00:00",
+      "summary": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "published_at": "2026-06-17T19:01:19+00:00",
-      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real."
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "published_at": "2026-06-18T18:51:46+00:00",
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-06-17T16:35:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+      "title": "The Week’s 10 Biggest Funding Rounds: World-Model Startup Odyssey Leads With $310M In Slower Week For Large Deals",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-defense-startup-ai-odyssey-leads/",
+      "published_at": "2026-06-18T18:45:01+00:00",
+      "summary": "This week was not an exceptionally busy one for large funding deals, though we saw sizable rounds in a lively mix of sectors ranging from AI to fintech to quantum computing, biotech and cybersecurity."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "‘This System Wasn’t Built For Me’: Black Founders Became Investors To Change Venture Capital",
-      "url": "https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff/",
-      "published_at": "2026-06-17T11:00:56+00:00",
-      "summary": "The consistently low numbers of U.S. venture funding to Black founders led some to turn to investing in an effort to help level the playing field. Crunchbase News talked with two such founders to hear more about their experiences in raising capital and what they’ve learned from investing."
+      "title": "AT&T Ventures’ Head Vikram Taneja On The New Rules of Seed-Stage Defensibility",
+      "url": "https://news.crunchbase.com/seed/new-defensibility-rules-qa-taneja-att-ventures/",
+      "published_at": "2026-06-18T11:00:27+00:00",
+      "summary": "In an interview with Crunchbase News, Vikram Taneja, head of AT&#038;T Ventures, shares why he believes that while AI has drastically lowered the barrier to building software, it has also shifted the definition of seed-stage technical risk."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "I Sold My AI Startup Before Revenue: Here’s What Investors Missed — And Founders Shouldn’t",
-      "url": "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/",
-      "published_at": "2026-06-17T11:00:34+00:00",
-      "summary": "The greatest long-term value in AI will come from companies solving deep technical challenges at the model and infrastructure level rather than application-layer products built on existing AI platforms, writes angel investor Alexander Kardos-Nyheim. In this guest commentary he shares processes and q"
+      "title": "The Boardroom Blind Spot: When Success Hides Disruption",
+      "url": "https://news.crunchbase.com/venture/boardroom-blind-spot-success-hides-ai-disruption-sagie/",
+      "published_at": "2026-06-18T11:00:18+00:00",
+      "summary": "Boards should not wait for poor performance before confronting disruptive technologies like AI and quantum computing. Instead, writes guest columnist and strategic adviser Itay Sagie, they should evaluate the cost of inaction, challenge successful business models while they are still thriving, and p"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Inside Europe’s most innovative companies",
-      "url": "https://fortune.com/2026/06/18/inside-fortune-europes-most-innovative-companies-2026/",
-      "published_at": "2026-06-18T04:15:00+00:00",
-      "summary": "From semiconductors powering the AI boom to 360-year-old manufacturers adapting to the green economy,  here are the organizations driving the European economy forward."
+      "title": "The U.S. and Iran have signed a peace deal. How long will it take for oil flows in Asia to return to normal?",
+      "url": "https://fortune.com/2026/06/19/us-iran-peace-deal-how-long-oil-flows-prices-back-to-normal/",
+      "published_at": "2026-06-19T05:36:22+00:00",
+      "summary": "Even with the Strait of Hormuz open, it will take months for oil flows and prices to return to pre-war levels."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Kevin Warsh showed that he’s decisively not Trump’s ‘sock puppet’—and markets didn’t like it",
-      "url": "https://fortune.com/2026/06/17/how-did-market-react-kevin-warsh-press-conference-inflation-rates/",
-      "published_at": "2026-06-17T22:40:27+00:00",
-      "summary": "“That was hawkish Kevin talking,” according to “the Fed whisperer,” Jon Hilsenrath."
+      "title": "The Knicks’ playoff run that ended in a championship and parade is worth at least $380 million to New York City",
+      "url": "https://fortune.com/2026/06/18/knicks-new-york-city-win-parade-economic-development/",
+      "published_at": "2026-06-18T21:22:42+00:00",
+      "summary": "The Knicks' first-ever ticker-tape parade capped a postseason that could generate at least $380M for NYC, and cost the city a small fortune to pull off."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "PayPal mafia member and ex–Sequoia steward Roelof Botha joins SpaceX board—reuniting with Elon Musk after decades",
-      "url": "https://fortune.com/2026/06/17/paypal-mafia-member-and-ex-sequoia-steward-roelof-botha-joins-spacex-board-reuniting-with-elon-musk-after-decades/",
-      "published_at": "2026-06-17T20:03:16+00:00",
-      "summary": "Roelof Botha, who spent more than two decades at VC firm Sequoia Capital, first worked with Elon Musk at PayPal."
+      "title": "Entry-level work didn’t disappear, PwC finds with ‘seniorization.’ It just morphed into something young workers can’t get",
+      "url": "https://fortune.com/2026/06/18/entry-level-work-ai-pwc-seniorization-report/",
+      "published_at": "2026-06-18T16:45:29+00:00",
+      "summary": "\"Employers are changing what they ask for in entry-level roles,\" Dan Priest, PwC's U.S. chief AI officer, told Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘AI is going to create a labor shortage’: Jeff Bezos sees more jobs being created in the new economy, not less",
-      "url": "https://fortune.com/2026/06/17/ai-create-more-jobs-labor-shortage-jeff-bezos/",
-      "published_at": "2026-06-17T18:39:22+00:00",
-      "summary": "The Amazon founder bets AI will create a labor shortage, not a doomsday, as he debuts Prometheus, his $41 billion startup reengineering the physical world."
+      "title": "The week that changed AI: Inside Trump’s Anthropic crackdown, and how a phone call from Amazon CEO Andy Jassy triggered the chaos",
+      "url": "https://fortune.com/2026/06/18/inside-trump-anthropic-mythos-crackdown-ai-regulation-amazon-andy-jassy-phone-call/",
+      "published_at": "2026-06-19T00:22:28+00:00",
+      "summary": "The fight over Anthropic’s Mythos model is rewriting the rules of AI regulation, with consequences for the trillion dollar startup, the AI industry, and global security."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The G7 just pledged to break China’s rare earth grip — there’s a lot of work to do",
-      "url": "https://fortune.com/2026/06/17/the-g7-just-pledged-to-break-chinas-rare-earth-grip-theres-a-lot-of-work-to-do/",
-      "published_at": "2026-06-17T22:30:46+00:00",
-      "summary": "Seven of the world's largest economies want to cap China's rare earth dominance at 60% by 2030. Experts say \"it's definitely a bold target.\""
+      "title": "‘Iran just basically put its wish list into this’: The Trump-Iran agreement gives Iran a free pass on nuclear treaty violations pending final deal",
+      "url": "https://fortune.com/2026/06/18/trump-gives-iran-pass-nuclear-treaty-pending-final/",
+      "published_at": "2026-06-18T18:49:44+00:00",
+      "summary": "The memorandum’s minimum nuclear weapons requirement is just making Iran downblend its close-to-bomb-status enriched uranium, which is reversible, nuclear weapons expert says."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "One of the most powerful El Niños on record cost the world economy $5.7 trillion. The 2026 cycle might be even stronger",
-      "url": "https://fortune.com/2026/06/17/el-nino-global-economy-trillions-in-losses/",
-      "published_at": "2026-06-17T17:16:54+00:00",
-      "summary": "El Niño is here. Prepare for higher food prices, throttled trade, and a “systemic shock” to the world economy."
+      "title": "Exclusive: Son of pro-crypto New York Senator Kirsten Gillibrand raises $30 million to launch a derivatives exchange",
+      "url": "https://fortune.com/2026/06/18/theodore-gillibrand-senator-kirstin-gillibrand-apec-american-perpetuals-exchange-corporation-lux-capital/",
+      "published_at": "2026-06-18T17:30:40+00:00",
+      "summary": "Lux Capital led the investment, which values the Stanford graduate’s exchange at $300 million."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Sam Bankman-Fried’s pardon bid faces bipartisan pushback in Congress: ‘Keep him locked up’",
-      "url": "https://fortune.com/2026/06/17/sam-bankman-fried-pardon-bipartisan-pushback-congress/",
-      "published_at": "2026-06-17T17:09:58+00:00",
-      "summary": "Sens. Cynthia Lummis and Ruben Gallego submitted a resolution that opposes a presidential pardon for the notorious crypto fraudster."
+      "title": "‘Make AI work for ordinary people’: Bernie Sanders wants to pay you $1,000 every year from a government stake in AI companies",
+      "url": "https://fortune.com/2026/06/18/bernie-sanders-ai-fund-bill-sam-altman-1000-payments/",
+      "published_at": "2026-06-18T18:04:40+00:00",
+      "summary": "The senator is introducing a bill that would give Americans 50% ownership of the country’s biggest AI companies if they become profitable."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The froyopocalypse is over. Gen Z is swarming frozen yogurt shops like it’s 2010",
-      "url": "https://fortune.com/2026/06/17/why-does-gen-z-love-frozen-yogurt-froyo-comeback/",
-      "published_at": "2026-06-17T21:03:09+00:00",
-      "summary": "The number of frozen yogurt servings sold in the year leading up to March rose 26%, according to Circana."
+      "title": "Half of U.S. adults under 50 get health information from influencers who mostly aren’t medical professionals, Pew finds",
+      "url": "https://fortune.com/2026/06/18/pew-half-of-u-s-adults-under-50-health-advice-influencers-social-media/",
+      "published_at": "2026-06-18T21:42:06+00:00",
+      "summary": "As trust in medical institutions erodes, more older adults seek their information online in moms, coaches and entrepreneurs."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
-      "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
-      "published_at": "2026-06-17T22:10:38+00:00",
-      "summary": "<p>Building a context layer between enterprise data stores and AI agents is bespoke work, with no standard service to automate or maintain the graphs over time. Amazon is making a direct play to change that.</p><p>Amazon on Wednesday entered the space, announcing a series of three products it&#x27;s"
+      "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+      "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+      "published_at": "2026-06-18T23:18:59+00:00",
+      "summary": "<p>Anthropic announced a potentially game-changing new feature for users of Claude Code on the Claude Team and Enterprise subscription plans: <a href=\"https://claude.com/blog/artifacts-in-claude-code\">Artifacts</a>. </p><p>This update turns a Claude Code session&#x27;s work into a live, interactive,"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
-      "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
-      "published_at": "2026-06-17T19:00:00+00:00",
-      "summary": "<p>When <a href=\"https://www.anthropic.com/\">Anthropic</a> quietly released <a href=\"https://claude.ai/design\">Claude Design</a> in April as a &quot;<a href=\"https://www.anthropic.com/news/claude-design-anthropic-labs\">research preview</a>,&quot; it generated the kind of instant traction most produc"
+      "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+      "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
+      "published_at": "2026-06-18T18:13:54+00:00",
+      "summary": "<p>Imagine your engineering team just deployed an AI agent to search through internal company documents and answer employee questions. It works perfectly in development, but in production, it consistently hallucinates or misses key constraints. Fixing this is rarely a simple patch. It requires a ted"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
+      "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
+      "published_at": "2026-06-18T17:42:49+00:00",
+      "summary": "<p>Two AI tools broke in the same way in the same two weeks, and four research teams proved it. The pattern underneath every disclosure is one sentence: enterprise AI accepts external input with no trust boundary. </p><p>On June 15, Varonis disclosed <a href=\"https://www.varonis.com/blog/searchleak\""
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "published_at": "2026-06-18T14:33:04+00:00",
+      "summary": "<p><a href=\"https://blog.adobe.com/en/publish/2026/06/18/adobe-firefly-introduces-new-agentic-capabilities-and-an-upgraded-creative-ai-studio-built-for-the-way-you-work\">Adobe has announced</a> a major expansion of its &quot;creative agent&quot; across its flagship Creative Cloud suite and upgraded"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "published_at": "2026-06-17T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the c"
+      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+      "published_at": "2026-06-18T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "published_at": "2026-06-17T09:00:00+00:00",
-      "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have"
+      "title": "Geoengineering still faces major practical challenges",
+      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+      "published_at": "2026-06-18T10:00:00+00:00",
+      "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
-      "published_at": "2026-06-17T09:00:00+00:00",
-      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c"
+      "title": "The search for dark matter has been blown wide open",
+      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+      "published_at": "2026-06-18T09:00:00+00:00",
+      "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
+      "url": "https://36kr.com/p/3859469888508933?f=rss",
+      "published_at": null,
+      "summary": "<p>36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。</p>\n  <p>过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型优化进一步释放性能空间。</p>\n  <p>安踏此次推出的“折纸科技”，正是这一趋势下的最新尝试。</p>\n  <p>根据安踏介绍，该项目由安踏创新实验室联合牛津大学、天津大学及浙江大学"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
+      "url": "https://36kr.com/p/3858803016881154?f=rss",
+      "published_at": null,
+      "summary": "<p>国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
+      "url": "https://36kr.com/p/3858676671599881?f=rss",
+      "published_at": null,
+      "summary": "<p>6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现场。爱玛黑翼以“全速热爱”为品牌主张，携爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版三款车型重磅亮相，首位中国F1车手周冠宇以爱玛黑翼“全速领航员”身份在线助力品牌发布。爱玛黑翼的登场，标志着爱玛电动车在男性出行科技领域树立起全新坐标，正式构建起“他硬核”增长格局，向“时尚科技年轻品牌”全速进阶。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+      "url": "https://36kr.com/p/3858015526704129?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3858412283827206\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>滴滴自动驾驶参加伦敦MOVE 2026大会</strong></a></p>\n  <p>6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+      "url": "https://36kr.com/p/3858329994875908?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜肖漫<br />编辑｜李勤</p>\n  <p>6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。</p>\n  <p>软件迭代节奏被硬件绑架曾是一个困扰行业的难题。很多车企无法在不同版本、配置的车型上迭代同一款软件，这带来的结果是，很长时间内只有使用最新版本硬件的车才能用上最好的软件，老车主被背刺。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/h"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
+      "url": "https://36kr.com/p/3858373969286148?f=rss",
+      "published_at": null,
+      "summary": "<p>文丨小葵</p>\n  <p>编辑丨果脯</p>\n  <p>中国游戏产业正站在一个微妙的分水岭上。</p>\n  <p>一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。</p>\n  <p>今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。</p>\n  <p>在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。</p>\n  <p"
     },
     {
       "source": "36氪",
@@ -210,54 +274,6 @@
       "url": "https://36kr.com/p/3855480467543042?f=rss",
       "published_at": null,
       "summary": "<p><strong>文 | 孙小雯</strong></p>\n  <p><strong>访谈 / 编辑 | 海若镜</strong></p>\n  <p>「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。</p>\n  <p>当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。</p"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
-      "url": "https://36kr.com/p/3856708724315400?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。&nbsp;</p>\n  <p>这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。</p>\n  <p>穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪「2026最具价值成长企业100」正式发布",
-      "url": "https://36kr.com/p/3857980507919622?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_d44f88b31738421594c403c7cbabbe64@5889148_oswg292792oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p><strong>时代从不被旁观者定义，它只发生在那些正在成长的人身上。</stron"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "中科院博士冲上市，市值超105亿港币",
-      "url": "https://36kr.com/p/3857959588418823?f=rss",
-      "published_at": null,
-      "summary": "<p>本文约1900字，建议阅读4分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。</p>\n  <p>上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。</p>\n  <p class=\"image-wrapper"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见",
-      "url": "https://36kr.com/p/3857925631104004?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>SpaceX华裔女工程师辟谣</p>\n  <p>国内成品油价即将迎来两连跌</p>\n  <p>必胜客中国对外投资超60家企业</p>\n  <p>苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone</p>\n  <p>OpenAI 2026年前三个月烧钱37亿美元</p>\n  <h2><strong>TOP 3 大新闻</strong></h2>\n  <p><strong>监管约谈山姆后，沃尔玛中国多位高管变动</strong></p>\n  <p>36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
-      "url": "https://36kr.com/p/3857175761081348?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3856940700603655\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>监管约谈山姆后，沃尔玛中国多位高管变动</strong></a></p>\n  <p>36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
-      "url": "https://36kr.com/p/3857051317359622?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_3631834820eb4c9db708ea939f50ba24@6108898_oswg450945oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_984811db2c48460"
     }
   ]
 }

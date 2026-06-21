@@ -1,159 +1,111 @@
 {
-  "updated_at": "2026-06-20T05:23:05.046402+00:00",
+  "updated_at": "2026-06-21T06:11:42.645425+00:00",
   "period_hours": 24,
-  "article_count": 27,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "published_at": "2026-06-20T00:47:44+00:00",
-      "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time."
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "published_at": "2026-06-20T20:32:29+00:00",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "published_at": "2026-06-19T22:40:14+00:00",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos."
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "published_at": "2026-06-20T19:41:11+00:00",
+      "summary": "So ... what's your In the Weights score?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "published_at": "2026-06-19T21:45:00+00:00",
-      "summary": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, whic"
+      "title": "Founders Fund’s outlier bet on humanely killed fish",
+      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "published_at": "2026-06-20T18:26:02+00:00",
+      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-      "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
-      "published_at": "2026-06-19T21:00:34+00:00",
-      "summary": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digita"
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "published_at": "2026-06-20T16:39:57+00:00",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Every fusion startup that has raised over $100M",
-      "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-      "published_at": "2026-06-19T16:50:58+00:00",
-      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "published_at": "2026-06-19T16:08:17+00:00",
-      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since"
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "published_at": "2026-06-19T15:23:28+00:00",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "published_at": "2026-06-19T13:00:00+00:00",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "published_at": "2026-06-20T15:00:00+00:00",
+      "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Both U.S. and Chinese AI firms are setting up shop in Singapore. Can the country become Asia’s neutral AI hub?",
-      "url": "https://fortune.com/2026/06/19/us-china-ai-firms-set-up-singapore-offices-neutral-hub/",
-      "published_at": "2026-06-19T21:00:00+00:00",
-      "summary": "\"It’s easiest to operate in the region if I have people in Singapore—it’s where conversations are happening.\""
+      "title": "Trump tries to explain why Reflecting Pool is algae green and its blue lining is peeling. Police arrest a former Olympic canoe racer on a bike ride",
+      "url": "https://fortune.com/2026/06/20/trump-reflecting-pool-algae-green-blue-lining-police-former-olympic-canoe-racer-bike-ride/",
+      "published_at": "2026-06-20T23:08:41+00:00",
+      "summary": "“I'm a curious citizen. I reached down to see what it felt like. It was very rubbery.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Azzi Fudd joins Project B, the international league chasing a billion-dollar opportunity in global basketball",
-      "url": "https://fortune.com/2026/06/19/azzi-fudd-joins-project-b-basketball-international-wnba-nba/",
-      "published_at": "2026-06-19T14:00:20+00:00",
-      "summary": "The 2026 No. 1 draft pick signs on to a league that offers a new opportunity to WNBA players—and could compete with the NBA."
+      "title": "Vice President JD Vance heads to Switzerland for talks with Iran but says he will only be there ‘for a day or two’",
+      "url": "https://fortune.com/2026/06/20/vice-president-jd-vance-switzerland-talks-iran-hormuz-lebanon/",
+      "published_at": "2026-06-20T22:49:17+00:00",
+      "summary": "The announcements indicated a rough start to the technical-level talks that key mediator Pakistan said will begin Sunday, with Qatari mediators also participating."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Record revenues. Record profits. Record revenue per employee. The Fortune 500 is richer than ever—and employing fewer people",
-      "url": "https://fortune.com/2026/06/19/fortune-500-employment-profits-revenue-hiring-jobs-ai/",
-      "published_at": "2026-06-19T11:41:19+00:00",
-      "summary": "Corporate America's hiring slowdown, explained in charts and data."
+      "title": "A new trade war may be brewing. This time, Europe is taking a page from Trump’s playbook — ‘We no longer live in a world of pink ponies and rainbows’",
+      "url": "https://fortune.com/2026/06/20/europe-china-trade-war-trump-tariffs-section-301-dumping-subsidies/",
+      "published_at": "2026-06-20T22:12:46+00:00",
+      "summary": "China's goods trade surplus with the EU hit 360.6 billion euros in ​2025, up 15% from 2024. And in the first four months of this year, the gap has expanded by 10%."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet the 11 Black Fortune 500 CEOs leading companies with over $432 billion in combined revenues",
-      "url": "https://fortune.com/2026/06/19/meet-the-11-black-fortune-500-ceos-leading-companies-with-over-432-billion-in-combined-revenues/",
-      "published_at": "2026-06-19T09:48:29+00:00",
-      "summary": "Black CEOs represent just 2% of the largest U.S. corporations."
+      "title": "Shipping companies will decide when the Strait of Hormuz is truly open—not the U.S. or Iran—and the latest deal is already sowing confusion",
+      "url": "https://fortune.com/2026/06/20/shipping-companies-insurance-strait-of-hormuz-traffic-us-iran-deal/",
+      "published_at": "2026-06-20T20:32:36+00:00",
+      "summary": "\"Will the Iranian announcement be enough to deter them? Or will Iran need to resort to force and directly violate the MOU's terms?\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Arianna Huffington swears by one boundary to switch off from work every night—and Ralph Lauren’s CHRO says it’s the best thing she’s ever done too",
-      "url": "https://fortune.com/2026/06/19/millionaire-arianna-huffington-work-life-balance-phone-bedroom-habit-career-advice-ralph-lauren/",
-      "published_at": "2026-06-19T07:00:00+00:00",
-      "summary": "Huffington Post founder, Arianna Huffington, says there's no such thing as balance—but there is one phone habit she refuses to skip before bed every night."
+      "title": "Trump threatens to charge U.S. tolls in Strait of Hormuz for ‘services rendered as the Guardian Angel to the countries of the Middle East’",
+      "url": "https://fortune.com/2026/06/20/trump-us-tolls-strait-of-hormuz-iran-ceasefire-israel-lebanon/",
+      "published_at": "2026-06-20T20:19:38+00:00",
+      "summary": "Iran’s joint military command said the strait was closed because of the U.S. “clear breach of its commitments” by failing to end the war."
     },
     {
-      "source": "VentureBeat",
+      "source": "Fortune",
       "lang": "en",
-      "title": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
-      "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
-      "published_at": "2026-06-19T21:14:19+00:00",
-      "summary": "<p>Your AI agent did exactly what it was designed to do. The framework underneath it just handed an attacker a shell on the box that holds your OpenAI key, your database credentials, and your CRM tokens.</p><p>That is not a hypothetical. In a few months, three of the most widely deployed AI agent fr"
+      "title": "Who needs rate cuts? Even the Fed’s new chair admits companies are easily raising capital on financial markets amid epic stock and debt binge",
+      "url": "https://fortune.com/2026/06/20/fed-rate-cuts-kevin-warsh-ipo-stock-debt-binge-corporate-bonds/",
+      "published_at": "2026-06-20T19:16:02+00:00",
+      "summary": "Corporate bond issuance in the year through May totaled $1.23 trillion, up 21% from a year ago."
     },
     {
-      "source": "VentureBeat",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
-      "url": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand",
-      "published_at": "2026-06-19T16:30:50+00:00",
-      "summary": "<p>Enterprise teams keep watching the same thing happen. An AI agent demos beautifully, goes to production, and stalls: it runs for a short stretch, then needs a human to top up its context and check its output, and the promised efficiency drains into supervision. The agent did the work; you did the"
+      "title": "Americans on Trump and Iran: 65% disapprove, just like his job (dis)approval",
+      "url": "https://fortune.com/2026/06/20/trump-iran-disapproval-job-approval-ap-norc-poll/",
+      "published_at": "2026-06-20T17:42:56+00:00",
+      "summary": "A new AP-NORC poll finds a nine-point gap between Republicans who back his presidency and those who back his economic stewardship."
     },
     {
-      "source": "MIT Tech Review",
+      "source": "Fortune",
       "lang": "en",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "published_at": "2026-06-19T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "published_at": "2026-06-19T10:40:24+00:00",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The inevitable weakness of metrics",
-      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-      "published_at": "2026-06-19T09:00:00+00:00",
-      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Brain-computer interface trials are taking off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "published_at": "2026-06-19T09:00:00+00:00",
-      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf"
+      "title": "‘People are tired of hearing what government can’t do’: Democratic Socialists surge nationwide",
+      "url": "https://fortune.com/2026/06/20/democratic-socialists-dsa-city-halls-lewis-george-mamdani/",
+      "published_at": "2026-06-20T17:38:19+00:00",
+      "summary": "From Washington to New York to Seattle, DSA-aligned candidates are rebranding the left as the party of childcare and competent government."
     },
     {
       "source": "36氪",

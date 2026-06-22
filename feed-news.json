@@ -1,175 +1,151 @@
 {
-  "updated_at": "2026-06-21T06:11:42.645425+00:00",
+  "updated_at": "2026-06-22T06:35:55.145987+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 18,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "published_at": "2026-06-20T20:32:29+00:00",
-      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”"
+      "title": "Ethan Thornton is trying to do everything all at once",
+      "url": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+      "published_at": "2026-06-22T05:31:59+00:00",
+      "summary": "Mach's approach differs sharply from some of its peers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "In the Weights is your new AI-centric vanity search",
-      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "published_at": "2026-06-20T19:41:11+00:00",
-      "summary": "So ... what's your In the Weights score?"
+      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+      "published_at": "2026-06-21T18:34:31+00:00",
+      "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Founders Fund’s outlier bet on humanely killed fish",
-      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-      "published_at": "2026-06-20T18:26:02+00:00",
-      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely."
+      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "published_at": "2026-06-21T16:35:00+00:00",
+      "summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "published_at": "2026-06-20T16:39:57+00:00",
-      "summary": "Jumper isn't the only big name leaving Google DeepMind."
+      "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+      "url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+      "published_at": "2026-06-21T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Every new iOS 27 feature that’s worth knowing about",
-      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-      "published_at": "2026-06-20T15:00:00+00:00",
-      "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at."
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "published_at": "2026-06-21T15:28:17+00:00",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "published_at": "2026-06-21T14:40:28+00:00",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump tries to explain why Reflecting Pool is algae green and its blue lining is peeling. Police arrest a former Olympic canoe racer on a bike ride",
-      "url": "https://fortune.com/2026/06/20/trump-reflecting-pool-algae-green-blue-lining-police-former-olympic-canoe-racer-bike-ride/",
-      "published_at": "2026-06-20T23:08:41+00:00",
-      "summary": "“I'm a curious citizen. I reached down to see what it felt like. It was very rubbery.”"
+      "title": "Former VP Kamala Harris says she went through a nine-hour interview to land the job—but she couldn’t escape ‘gold medal depression’ even when she won",
+      "url": "https://fortune.com/article/former-vp-kamala-harris-nine-hour-interview-land-job-couldnt-escape-gold-medal-depression/",
+      "published_at": "2026-06-21T10:29:01+00:00",
+      "summary": "Kamala Harris has made history as the first woman to take on the roles of San Francisco DA, California attorney general, and U.S. vice president—but no matter if she wins or loses, she’s always hit with emptiness."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Vice President JD Vance heads to Switzerland for talks with Iran but says he will only be there ‘for a day or two’",
-      "url": "https://fortune.com/2026/06/20/vice-president-jd-vance-switzerland-talks-iran-hormuz-lebanon/",
-      "published_at": "2026-06-20T22:49:17+00:00",
-      "summary": "The announcements indicated a rough start to the technical-level talks that key mediator Pakistan said will begin Sunday, with Qatari mediators also participating."
+      "title": "Dow futures drop as first day of U.S.-Iran talks sees Trump threaten Tehran on Hormuz: ‘You close it and you won’t have a country’",
+      "url": "https://fortune.com/2026/06/21/stock-market-today-dow-futures-oil-prices-us-iran-talks-trump-threat-hormuz/",
+      "published_at": "2026-06-22T03:29:33+00:00",
+      "summary": "He also said the U.S. may take over the strait, adding \"I'll blow the s--t out of them. If they don't make a deal, we'll collect tolls.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A new trade war may be brewing. This time, Europe is taking a page from Trump’s playbook — ‘We no longer live in a world of pink ponies and rainbows’",
-      "url": "https://fortune.com/2026/06/20/europe-china-trade-war-trump-tariffs-section-301-dumping-subsidies/",
-      "published_at": "2026-06-20T22:12:46+00:00",
-      "summary": "China's goods trade surplus with the EU hit 360.6 billion euros in ​2025, up 15% from 2024. And in the first four months of this year, the gap has expanded by 10%."
+      "title": "U.S.-Iran talks just started and Trump is already threatening to attack, causing negotiations to pause",
+      "url": "https://fortune.com/2026/06/21/us-iran-trump-threat-attack-negotiations-pause-lebanon/",
+      "published_at": "2026-06-21T21:09:26+00:00",
+      "summary": "Iranian state media said talks had entered a “difficult phase” and recessed after the “publication of an insulting message by the U.S. President.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Shipping companies will decide when the Strait of Hormuz is truly open—not the U.S. or Iran—and the latest deal is already sowing confusion",
-      "url": "https://fortune.com/2026/06/20/shipping-companies-insurance-strait-of-hormuz-traffic-us-iran-deal/",
-      "published_at": "2026-06-20T20:32:36+00:00",
-      "summary": "\"Will the Iranian announcement be enough to deter them? Or will Iran need to resort to force and directly violate the MOU's terms?\""
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Trump threatens to charge U.S. tolls in Strait of Hormuz for ‘services rendered as the Guardian Angel to the countries of the Middle East’",
-      "url": "https://fortune.com/2026/06/20/trump-us-tolls-strait-of-hormuz-iran-ceasefire-israel-lebanon/",
-      "published_at": "2026-06-20T20:19:38+00:00",
-      "summary": "Iran’s joint military command said the strait was closed because of the U.S. “clear breach of its commitments” by failing to end the war."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Who needs rate cuts? Even the Fed’s new chair admits companies are easily raising capital on financial markets amid epic stock and debt binge",
-      "url": "https://fortune.com/2026/06/20/fed-rate-cuts-kevin-warsh-ipo-stock-debt-binge-corporate-bonds/",
-      "published_at": "2026-06-20T19:16:02+00:00",
-      "summary": "Corporate bond issuance in the year through May totaled $1.23 trillion, up 21% from a year ago."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Americans on Trump and Iran: 65% disapprove, just like his job (dis)approval",
-      "url": "https://fortune.com/2026/06/20/trump-iran-disapproval-job-approval-ap-norc-poll/",
-      "published_at": "2026-06-20T17:42:56+00:00",
-      "summary": "A new AP-NORC poll finds a nine-point gap between Republicans who back his presidency and those who back his economic stewardship."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "‘People are tired of hearing what government can’t do’: Democratic Socialists surge nationwide",
-      "url": "https://fortune.com/2026/06/20/democratic-socialists-dsa-city-halls-lewis-george-mamdani/",
-      "published_at": "2026-06-20T17:38:19+00:00",
-      "summary": "From Washington to New York to Seattle, DSA-aligned candidates are rebranding the left as the party of childcare and competent government."
+      "title": "Why men keep dropping out of the labor force: It starts in childhood, when kids see how males around them struggle, economists say",
+      "url": "https://fortune.com/2026/06/21/male-labor-force-participation-rate-decline-childhood-experience-wages-unemployment/",
+      "published_at": "2026-06-21T20:46:50+00:00",
+      "summary": "\"Our findings suggest that experience effects can turn short-run declines in labor demand into long-run declines in labor supply.\""
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-      "url": "https://36kr.com/p/3859926114161665?f=rss",
+      "title": "广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里",
+      "url": "https://36kr.com/p/3863849524859911?f=rss",
       "published_at": null,
-      "summary": "<p>硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。</p>\n  <p>ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP"
+      "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
-      "url": "https://36kr.com/p/3859469888508933?f=rss",
+      "title": "36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资",
+      "url": "https://36kr.com/p/3863885024973832?f=rss",
       "published_at": null,
-      "summary": "<p>36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。</p>\n  <p>过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型优化进一步释放性能空间。</p>\n  <p>安踏此次推出的“折纸科技”，正是这一趋势下的最新尝试。</p>\n  <p>根据安踏介绍，该项目由安踏创新实验室联合牛津大学、天津大学及浙江大学"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。</p>\n  <p>随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。</p>\n  <p>从单柜数十张GPU到万卡集群，数据中心内部的供电、散热和能耗管理正在成为新的技术瓶颈。与此同时，太空算力、轨道数据中心等新兴方向兴起，也对系统稳定"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
-      "url": "https://36kr.com/p/3858803016881154?f=rss",
+      "title": "36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资",
+      "url": "https://36kr.com/p/3863883390194692?f=rss",
       "published_at": null,
-      "summary": "<p>国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，大飞机智能装配装备企业大连坤达自动化有限公司（以下简称“大连坤达”）今日完成数千万元A轮融资，投资方为泰州永鑫融堰创业投资合伙企业（有限合伙）（以下简称“永鑫方舟”），大桉资本担任独家财务顾问。本轮资金将主要用于新一代智能装配系统研发、核心产品产能扩充及补充流动资金。</p>\n  <p><strong>大连坤达成立于2016年，主要面向航空航天等重型制造场景提供智能装配装备和自动化解决方案。</strong>公司业务涵盖高精度移动对接平台、复合移动机器人、智能装配产线"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
-      "url": "https://36kr.com/p/3858676671599881?f=rss",
+      "title": "海川资本创始合伙人曹抒阳：新地缘格局下，中国能源电力产业的星辰大海：算力基建、能源自主、新本土化浪潮 | 36氪WAVES2026新浪潮",
+      "url": "https://36kr.com/p/3863840829576192?f=rss",
       "published_at": null,
-      "summary": "<p>6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现场。爱玛黑翼以“全速热爱”为品牌主张，携爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版三款车型重磅亮相，首位中国F1车手周冠宇以爱玛黑翼“全速领航员”身份在线助力品牌发布。爱玛黑翼的登场，标志着爱玛电动车在男性出行科技领域树立起全新坐标，正式构建起“他硬核”增长格局，向“时尚科技年轻品牌”全速进阶。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2"
+      "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
-      "url": "https://36kr.com/p/3858015526704129?f=rss",
+      "title": "淘宝闪购上线新业务\"家宴\"，联合米其林高星餐厅｜独家",
+      "url": "https://36kr.com/p/3863831007941638?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3858412283827206\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>滴滴自动驾驶参加伦敦MOVE 2026大会</strong></a></p>\n  <p>6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型"
+      "summary": "<p>文丨彭倩</p>\n  <p>编辑丨乔芊</p>\n  <p>36氪独家获悉，淘宝闪购近日在成都、深圳两地启动了一项名为\"家宴\"的高端外卖项目，目前正在灰测中，首批参与的有潮上潮（米其林三星）、许家菜（米其林一星）、柴门荟（米其林一星）、梓楠、王捌院子5个头部中餐品牌，共9家门店。</p>\n  <p>据了解，后续新荣记（米其林三星）、如院（米其林二星）等品牌也已确认加入。家宴预计将在今年8月前向北京、上海、杭州等城市逐步开放。</p>\n  <p>从目前的信息来看，淘宝闪购的\"家宴\"项目并非对米其林堂食的简单打包和配送，而是一条独立的产品线，会重新进行套餐研发、专属餐具包材、履约动线的设计。<"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
-      "url": "https://36kr.com/p/3858329994875908?f=rss",
+      "title": "���圳230亿IPO敲钟，这两家机构成最大赢家",
+      "url": "https://36kr.com/p/3863788804855047?f=rss",
       "published_at": null,
-      "summary": "<p>文｜肖漫<br />编辑｜李勤</p>\n  <p>6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。</p>\n  <p>软件迭代节奏被硬件绑架曾是一个困扰行业的难题。很多车企无法在不同版本、配置的车型上迭代同一款软件，这带来的结果是，很长时间内只有使用最新版本硬件的车才能用上最好的软件，老车主被背刺。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/h"
+      "summary": "<p>本文约3000字，建议阅读6分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月22日，深圳海清智元（01392.HK）正式在港交所敲钟上市，此次IPO发行价7.20港元，开盘涨313.89%，市值230亿港币。海清智元被誉为多光谱AI第一股，其已在深圳成立13年。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260622/v2_a37a9769dcf3473f8703f6e263efb700@430412560_oswg648862oswg1080o"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
-      "url": "https://36kr.com/p/3858373969286148?f=rss",
+      "title": "36氪首发｜红杉中国、Brizan Ventures领投，AI厨房机器人品牌「栗上LISSOME」完成数千万元A轮融资",
+      "url": "https://36kr.com/p/3863779663320069?f=rss",
       "published_at": null,
-      "summary": "<p>文丨小葵</p>\n  <p>编辑丨果脯</p>\n  <p>中国游戏产业正站在一个微妙的分水岭上。</p>\n  <p>一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。</p>\n  <p>今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。</p>\n  <p>在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。</p>\n  <p"
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，AI厨房机器人品牌「栗上LISSOME」（以下简称“栗上”）近日完成数千万元人民币A轮融资。本轮融资由红杉中国、Brizan Ventures领投，老股东及HKX等机构跟投。</p>\n  <p>此前，栗上已累计获得来自李泽湘教授的清水湾基金、高秉强教授、挑战者资本、高锋耐心资本、XbotPark宁波基地等机构的数千万元融资。</p>\n  <p>据悉，本轮融资资金将主要用于现有产品的迭代与品类扩展、新一代AI厨房机器人的研发、全球市场拓展、供应链体系与规模化量产能力建设"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "12306要忙着赚钱了",
-      "url": "https://36kr.com/p/3858061678760965?f=rss",
+      "title": "老登最爱的维密，又复活了",
+      "url": "https://36kr.com/p/3858420265292800?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;王晗玉</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>近日，市场监管总局联合中央网信办、国家铁路局，依法约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家7家旅游出行第三方平台，直指平台在火车票销售领域存在多项不规范经营行为。</p>\n  <p>具体来看，违规行为包括不当宣传“候补帮抢”及付费选座、不当诱导用户“买长乘短”“买短乘长”，不当收集、使用用户个人信息等问题。后续监管部门将加大监管执法力度。</p>\n  <p>此次集中约谈，不仅直指OTA平台火车票业务的乱象根源，也揭开了在线旅游行业围绕出行流量展开的深层博弈。</p"
+      "summary": "<p><strong>作者 |</strong>&nbsp;谢芸子</p>\n  <p><strong>编辑 | </strong>黄绎达&nbsp;</p>\n  <p>2026年2月，在美国爱泼斯坦案的听证会上，维密前老板莱斯利·韦克斯纳的名字被提及近200次。这个因为贩卖性感而知名的内衣品牌，被彻底钉在了“物化女性”的耻辱柱上。</p>\n  <p>恐慌情绪蔓延至资本市场，维密股价连续多个交易日持续下跌。几乎所有人都认为，属于它的时代结束了。</p>\n  <p>但仅仅三个月后，维密交出了一份让华尔街错愕的财报。</p>\n  <p>截至2026财年第一季度末，维密经调整后的营业利润同比提升153"
     }
   ]
 }

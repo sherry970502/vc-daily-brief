@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-21T06:11:49.449194+00:00",
-  "post_count": 8,
+  "updated_at": "2026-06-22T06:36:02.825515+00:00",
+  "post_count": 16,
   "posts": [
+    {
+      "subreddit": "r/venturecapital",
+      "title": "We built a Universal Middleware for Optical, Analog, and Quantum Compute. Seeking feedback and strategic scaling partners.",
+      "url": "https://www.reddit.com/r/venturecapital/comments/1ubq4ua/we_built_a_universal_middleware_for_optical/",
+      "created_at": null
+    },
     {
       "subreddit": "r/venturecapital",
       "title": "What are some names you’d name a VC fund?",
@@ -45,9 +51,51 @@
       "created_at": null
     },
     {
-      "subreddit": "r/venturecapital",
-      "title": "Built a dataset of active 110 programs across 20 accelerator groups, sorted by application deadline",
-      "url": "https://www.reddit.com/r/venturecapital/comments/1tx6drh/built_a_dataset_of_active_110_programs_across_20/",
+      "subreddit": "r/techstartups",
+      "title": "anyone who has built something and tried to get early traction what content or distribution channel worked better than you expected? specifically what surprised you. not the obvious ones.",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1ub0hjt/anyone_who_has_built_something_and_tried_to_get/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "I built a plant disease detection app because r/plantclinic replies take 3 days and my monstera was dying",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1ualkg8/i_built_a_plant_disease_detection_app_because/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "I built an interview practice platform. When is the best time to launch",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1ua9rk0/i_built_an_interview_practice_platform_when_is/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "For a Team of 6 Devs, is it better to buy them 20$ claude sub or get Claude API and divide it for them?",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1ua5ya6/for_a_team_of_6_devs_is_it_better_to_buy_them_20/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "Last few days to snag a $150K product build grant (US/UK/DE/CA only)",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1u9wgmp/last_few_days_to_snag_a_150k_product_build_grant/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "[FREE] I will to create a logo and brand identity for your SaaS /Startup for FREE!",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1u9lawm/free_i_will_to_create_a_logo_and_brand_identity/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "From SMB to $60K+ mid-market deals in 12 months at an 18-month-old firm",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1u9dlew/from_smb_to_60k_midmarket_deals_in_12_months_at/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/techstartups",
+      "title": "Lawyer for software spin-off",
+      "url": "https://www.reddit.com/r/TechStartups/comments/1u8x9hh/lawyer_for_software_spinoff/",
       "created_at": null
     }
   ]

@@ -1,255 +1,263 @@
 {
-  "updated_at": "2026-06-26T05:17:00.714664+00:00",
+  "updated_at": "2026-06-27T04:59:42.377419+00:00",
   "period_hours": 24,
-  "article_count": 31,
+  "article_count": 32,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "published_at": "2026-06-25T23:34:39+00:00",
-      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to."
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "published_at": "2026-06-27T01:01:37+00:00",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-      "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-      "published_at": "2026-06-25T22:02:12+00:00",
-      "summary": "YouTube Shorts is getting a makeover."
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "published_at": "2026-06-27T00:38:34+00:00",
+      "summary": "Mesh came out of stealth in February with a $50 million Series A."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "published_at": "2026-06-25T20:19:25+00:00",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "published_at": "2026-06-26T22:00:37+00:00",
+      "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Polymarket says hackers stole users’ funds",
-      "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-      "published_at": "2026-06-25T19:58:46+00:00",
-      "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach."
+      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+      "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+      "published_at": "2026-06-26T19:13:40+00:00",
+      "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Xbox follows Apple with price increases",
-      "url": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-      "published_at": "2026-06-25T19:39:55+00:00",
-      "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels."
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "published_at": "2026-06-26T18:32:14+00:00",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Notion Mail shuts down amid agent takeover",
-      "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-      "published_at": "2026-06-25T19:14:46+00:00",
-      "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents."
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "published_at": "2026-06-26T18:19:36+00:00",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-      "url": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
-      "published_at": "2026-06-25T17:52:05+00:00",
-      "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange."
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "published_at": "2026-06-26T17:43:22+00:00",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "published_at": "2026-06-25T17:38:27+00:00",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
+      "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
+      "url": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
+      "published_at": "2026-06-26T17:29:29+00:00",
+      "summary": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Cursor Deal Puts US On Track For Record Startup M&A Year",
-      "url": "https://news.crunchbase.com/ma/2026-mergers-acquisitions-record-cursor-spcx/",
-      "published_at": "2026-06-25T11:00:18+00:00",
-      "summary": "While SpaceX’s $60 billion acquisition of Anysphere dominates the headlines, a number of other multibillion-dollar transactions have also closed this year. We take a look at the 10 largest M&#038;A deals so far in 2026."
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives Another Spree Of Megadeals",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/",
+      "published_at": "2026-06-26T20:00:55+00:00",
+      "summary": "This week, most of the largest U.S. startup funding rounds centered around the sector one would suspect: artificial intelligence. Beyond that, the next-biggest area for startup funding was biotech."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "6 Startup Investors On What It Will Take To Fund More Black Founders",
+      "url": "https://news.crunchbase.com/venture/investors-funding-black-founder-recommendations/",
+      "published_at": "2026-06-26T11:00:13+00:00",
+      "summary": "In the final installment of our series on the state of venture investment to Black-founded startups, six investors offer their advice for overlooked founders and explain how the venture industry can broaden access to capital by rethinking sourcing, networks and long-held investing patterns."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Merlin the Duck was allowed inside Mexico City’s Azteca Stadium, but only to film a commercial",
-      "url": "https://fortune.com/2026/06/25/merlin-duck-mexico-world-cup-trademark-azteca-ban/",
-      "published_at": "2026-06-25T21:49:59+00:00",
-      "summary": "In two weeks, a 2-year-old duck from Mexico City went from street vendor sidekick to presidential guest to trademark defendant."
+      "title": "Mamdani lives up to campaign promise, freezing rent for about 1 million New Yorkers",
+      "url": "https://fortune.com/2026/06/26/what-does-zohran-mamdani-rent-freeze-mean-new-york-city/",
+      "published_at": "2026-06-26T16:00:24+00:00",
+      "summary": "The New York City Mayor called the decision “a historic victory for New York City tenants.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The bond market knows something about the $39 trillion national debt that Washington doesn’t",
-      "url": "https://fortune.com/2026/06/25/national-debt-inflation-bond-market/",
-      "published_at": "2026-06-25T21:26:18+00:00",
-      "summary": "A more hawkish Fed could be bad news for the record debt. The bond market decided to ignore it."
+      "title": "OpenAI agrees to stagger rollout of its most powerful model to only Trump-approved customers",
+      "url": "https://fortune.com/2026/06/26/what-just-happened-between-openai-sol-trump-licensing-clearance/",
+      "published_at": "2026-06-26T19:41:12+00:00",
+      "summary": "It is the second time in a month that a frontier lab’s most powerful model has been held back from general release over fears about cyber capabilities."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump turns on Big Oil donors who spent nearly $100 million to get him elected—now he wants the DOJ to investigate them for price gouging",
-      "url": "https://fortune.com/2026/06/25/trump-accuses-big-oil-of-price-gouging/",
-      "published_at": "2026-06-25T20:34:51+00:00",
-      "summary": "Crude prices are back to prewar levels. Gas prices aren’t. Now Trump is pointing fingers at his own biggest donors."
+      "title": "U.S. aircraft attack Iran in response to drone strike on cargo ship that Tehran called ‘ceasefire management’ as both sides wrestle for Hormuz control",
+      "url": "https://fortune.com/2026/06/26/us-aircraft-attack-iran-drone-strike-cargo-ship-ceasefire-strait-of-hormuz/",
+      "published_at": "2026-06-26T22:22:02+00:00",
+      "summary": "U.S. Central Command said the military struck missile and drone locations and coastal radar sites in Iran."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "What bubble? JPMorgan says the $5.5 trillion AI capex explosion is profitable–for now",
-      "url": "https://fortune.com/2026/06/25/what-bubble-jpmorgan-5-5-trillion-ai-capex-explosion-profitable-for-now/",
-      "published_at": "2026-06-25T09:47:57+00:00",
-      "summary": "JPMorgan’s midyear outlook argues the hyperscalers are profitable, the debt markets are holding, and the cycle has room to run."
+      "title": "Red Lobster lost millions on its endless shrimp disaster. Shareholders say it was a ‘car crash’ designed to squeeze profits",
+      "url": "https://fortune.com/2026/06/26/red-lobster-endless-shrimp-thai-union-lawsuit-squeeze-profits-bankruptcy/",
+      "published_at": "2026-06-26T20:35:48+00:00",
+      "summary": "The lawsuit accuses former controlling shareholder Thai Union of orchestrating the ploy to boost its seafood business."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Today I am celebrating the victory of our people’: Native Americans ring in the anniversary of the Battle of Little Bighorn",
-      "url": "https://fortune.com/2026/06/25/little-bighorn-150-anniversary-native-american-commemoration/",
-      "published_at": "2026-06-25T22:09:24+00:00",
-      "summary": "The United States of America is celebrating its 250th birthday. The people who beat Custer are celebrating something else."
+      "title": "Best Beef Organ Supplements (2026): Expert Tested and Reviewed",
+      "url": "https://fortune.com/article/best-beef-organ-supplements/",
+      "published_at": "2026-06-26T20:30:01+00:00",
+      "summary": "Use the best beef organ supplements to support energy, red blood cells, and more"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gas station owners have found a use case for AI, lawsuit says: colluding to fix prices",
-      "url": "https://fortune.com/2026/06/25/kalibrate-ai-gas-price-fixing-california-marathon-bp/",
-      "published_at": "2026-06-25T22:04:53+00:00",
-      "summary": "A new lawsuit claims AI pricing software helped Marathon, BP, and Circle K fix gas prices across 1,700 California stations."
+      "title": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost",
+      "url": "https://fortune.com/2026/06/26/anthropic-openai-ny12-proxy-war-no-winners-election-super-pac-donations/",
+      "published_at": "2026-06-26T19:29:54+00:00",
+      "summary": "Micah Lasher won the most expensive AI election yet—then used his victory speech to reject both companies and promise to regulate them anyway."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "One of the Democratic Party’s brightest stars is co-founding a group to help with the coming AI jobs earthquake",
-      "url": "https://fortune.com/2026/06/25/raise-us-ai-workforce-raimondo-500-million-retraining/",
-      "published_at": "2026-06-25T22:02:18+00:00",
-      "summary": "\"We’re talking about a certain level of unemployment that could destabilize our country and our democracy,\" Gina Raimondo told the AP."
+      "title": "Bitcoin down 20% since May as Strategy fallout spooks investors",
+      "url": "https://fortune.com/2026/06/26/bitcoin-down-20-since-may-strategy-fallout-investors/",
+      "published_at": "2026-06-26T18:23:25+00:00",
+      "summary": "Worries over Strategy and interest rates have pressured crypto, but Bitwise’s Matt Hougan argues the shakeout is setting up a new rally."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Scientists tickled monkeys to find if they have the same giggles as humans — and they do",
-      "url": "https://fortune.com/2026/06/25/scientists-tickled-monkeys-to-find-if-they-have-the-same-giggles-as-humans-and-they-do/",
-      "published_at": "2026-06-25T21:58:53+00:00",
-      "summary": "“In a way, we are very similar to other great apes because we’ve been laughing in a similar way for 15 million years.\""
+      "title": "Meet Micron, the under-the-radar chipmaker that just reported a 346% sales surge and helped stop a global AI selloff",
+      "url": "https://fortune.com/2026/06/26/micron-technology-346-percent-revenue-surge-ai-memory-chips-hbm-earnings-2026/",
+      "published_at": "2026-06-26T07:02:00+00:00",
+      "summary": "The company behind the memory chips powering AI started in a dentist’s basement in Boise."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
-      "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
-      "published_at": "2026-06-25T23:31:00+00:00",
-      "summary": "<p>Liquid AI, founded by former MIT computer scientists, today released its smallest AI language model yet, <a href=\"https://www.liquid.ai/blog/lfm2-5-230m\">LFM2.5-230M</a>, and enterprises would do well to consider it for their uses in data extraction and local deployment on smartphones, laptops an"
+      "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
+      "url": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m",
+      "published_at": "2026-06-26T22:58:23+00:00",
+      "summary": "<p>Long-horizon reasoning exposes a core weakness in AI agents: context windows fill up fast, and retrieval pipelines return noise instead of signal.</p><p>To solve this, researchers at the National University of Singapore developed <a href=\"https://arxiv.org/abs/2606.06036\">MRAgent</a>, a framework"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API",
-      "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
-      "published_at": "2026-06-25T17:02:00+00:00",
-      "summary": "<p>OpenAI has made a <a href=\"https://help.openai.com/en/articles/6825453-chatgpt-release-notes\">significant update to its most widely used language model, GPT-5.5 Instant,</a> which is the default in the free version of ChatGPT. </p><p>The company announced the <a href=\"https://x.com/OpenAI/status/"
+      "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
+      "url": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
+      "published_at": "2026-06-26T17:32:42+00:00",
+      "summary": "<p>An endpoint agent cannot report its own absence. The <a href=\"https://www.axonius.com/resources/analyst-report/the-actionability-report-axonius-ponemon-institute\">2026 Axonius Actionability Report</a>, conducted with the <a href=\"https://www.ponemon.org/\">Ponemon Institute</a> and surveying 662 I"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "published_at": "2026-06-26T17:00:00+00:00",
+      "summary": "<p>OpenAI is <a href=\"https://openai.com/index/previewing-gpt-5-6-sol/\">announcing</a> a limited preview of its newest frontier AI model GPT-5.6 family, which comes in three variants: <b>Sol, Terra, and Luna.</b> </p><p><b>Sol</b> is for the hardest problems, such as complex coding and security rese"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Most companies think they're building a software factory. They're actually just shipping bugs faster.",
+      "url": "https://venturebeat.com/orchestration/most-companies-think-theyre-building-a-software-factory-theyre-actually-just-shipping-bugs-faster",
+      "published_at": "2026-06-26T12:00:00+00:00",
+      "summary": "<p>Industrialized factories changed how the world produced physical goods: more output, lower costs, faster than anything that came before. Now a similar shift is happening with software. </p><p>LLMs have lowered the barrier to writing code, increased individual output, and pushed organizations to t"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Repositioning retail for the AI era",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "published_at": "2026-06-25T14:22:59+00:00",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven"
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "published_at": "2026-06-26T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-      "published_at": "2026-06-25T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "What Europe’s heat wave means for the power grid",
-      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-      "published_at": "2026-06-25T10:00:00+00:00",
-      "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-      "published_at": "2026-06-25T10:00:00+00:00",
-      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co"
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "published_at": "2026-06-26T09:00:00+00:00",
+      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "年入27亿，一颗中国糖果拿捏「美国味」",
-      "url": "https://36kr.com/p/3868550907237636?f=rss",
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "url": "https://36kr.com/p/3869740772316162?f=rss",
       "published_at": null,
-      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子</p>\n  <p><strong>编辑 | </strong>张帆</p>\n  <p>在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。</p>\n  <p>走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回流”至国内。</p>\n  <p>打开中国山姆APP，阿麦斯旗下的两款产品Peelerz与“贝欧宝Biobor活性益生菌软糖”，位列“糖果热销榜单”第一、第二，月销量分别超过20万件及1"
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。</p>\n  <p>从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。</p>\n  <p>物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
-      "url": "https://36kr.com/p/3869378164397313?f=rss",
+      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+      "url": "https://36kr.com/p/3870720040588295?f=rss",
       "published_at": null,
-      "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>"
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>OpenAI官宣推出GPT-5.6</p>\n  <p>亚洲“果链”股价几乎全线大幅下跌</p>\n  <p><strong>SpaceX计划为美国消费者推出新的星链移动服务</strong></p>\n  <p><strong>美团股价低迷，王兴回应</strong></p>\n  <p><strong>小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人</strong></p>\n  <p><strong>微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹</strong></p>\n  <h2><strong>TOP"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
-      "url": "https://36kr.com/p/3867943030395913?f=rss",
+      "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
+      "url": "https://36kr.com/p/3866946087867394?f=rss",
       "published_at": null,
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。</p>\n  <p>念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。</p>\n  <p"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260624/v2_245e2d5a160e4ed9af72f125da58d25e@6310690_oswg338035oswg1024oswg683_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源视觉中国</p>\n  <p><br />动力电池一直是新能源汽车里高频博弈的战场。</p>\n  <p>它通常占据一"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
-      "url": "https://36kr.com/p/3869243269387269?f=rss",
+      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+      "url": "https://36kr.com/p/3870292939658242?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名</li>\n   <li>建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能</li>\n   <li>马斯克曾直言混动车只是过渡阶段</li>\n   <li>韩国5200万人开了1.08亿股票账户，半年增超1000万</li>\n   <li>逾八成澳大利亚未成年人“绕过”了社媒禁令</li>\n   <li>IBM发布全球首款亚纳米芯片技术</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><stro"
+      "summary": "<p>过去几年，智能驾驶行业的竞争重心经历了几次明显变化。</p>\n  <p>最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。</p>\n  <p>到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。</p>\n  <p>这也是为什么越来越多车企开始走向自研。</p>\n  <p>特斯拉几乎覆盖了从数据采集、训练基础设施、FSD模型到Dojo、自"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
-      "url": "https://36kr.com/p/3868596994069509?f=rss",
+      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+      "url": "https://36kr.com/p/3869884559332356?f=rss",
       "published_at": null,
-      "summary": "<p>减重1亿斤，是什么概念？&nbsp;</p>\n  <p>简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。</p>\n  <p>但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。</p>\n  <p>在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动，包含三项核心动作：1分钱便能领的体脂秤，升级阿福的AI解读功能、为用户定制饮食和运动方案，以及即将开启的减重挑战赛。</p>\n  <p class=\"ima"
+      "summary": "<h2>大公司：</h2>\n  <p><strong>五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长</strong></p>\n  <p>36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即2028年6月19日止），离任后不在公司及控股子公司任职，其离任不会对公司正常经营产生影响。截至本公告披露日，曾从钦未持有公司股份，不存在应"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "美光的好财报，黄金的坏消息",
-      "url": "https://36kr.com/p/3868523068298499?f=rss",
+      "title": "《走进AIE》，谁是下一个主角",
+      "url": "https://36kr.com/p/3869838577620231?f=rss",
       "published_at": null,
-      "summary": "<p>美东时间6月24日，存储巨头美光科技发布了2026 财年第三财季财报。数据显示，2026财年第三季度，公司实现收入415 亿美元，环比增长 74%，同比增长346%，连续第五个季度刷新历史纪录。同期，公司合并毛利率录得84.9%，环比提高10个百分点；经营现金流达到254亿美元，自由现金流为183亿美元，均创季度新高。</p>\n  <p>在业绩远超市场预期的同时，财报及后续的电话会中，美光还披露了16份SCA的细节，表示即便按照价格下限计算，现有签约订单在剩余合同周期内的累计价值仍高达1000亿美元，同时相关协议可为公司锁定220亿美元现金保证金及金融承诺。</p>\n  <p>受益于超预"
+      "summary": "<h3><strong>一展两地，链接全球 &nbsp; &nbsp;AIE 电子展成为龙头企业的必选舞台</strong></h3>\n  <p><br />全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。<strong>2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台</strong>。</p>\n  <p><strong>技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。</strong>为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
-      "url": "https://36kr.com/p/3868502221018370?f=rss",
+      "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+      "url": "https://36kr.com/p/3866837793952769?f=rss",
       "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>百度：已有1500万人使用百度AI志愿助手填报</strong></p>\n  <p>36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。</p>\n  <p><strong>名创优品寇维宣：乐园系门店年内破百家</strong></p>\n  <p>36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100家。依托超级IP与超级门店双轮驱动，名创优品致力于成为全球领先的IP运营"
+      "summary": "<p>文 | 海若镜</p>\n  <p>访谈 | 海若镜 巴芮</p>\n  <p>6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。</p>\n  <p>访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。</p>\n  <p>五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里<strong>孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元”</strong>。其中，华深智药、它石智航等独"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
-      "url": "https://36kr.com/p/3868349472920576?f=rss",
+      "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
+      "url": "https://36kr.com/p/3869622921041156?f=rss",
       "published_at": null,
-      "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪 · <strong>暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些 ‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。”</p>"
+      "summary": "<p>本文约900字，建议阅读2分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260626/v2_0f869b9048f0444d9175f9e0a"
     }
   ]
 }

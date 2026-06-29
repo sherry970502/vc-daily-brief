@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-28T05:24:30.968180+00:00",
-  "post_count": 8,
+  "updated_at": "2026-06-29T05:59:03.941393+00:00",
+  "post_count": 16,
   "posts": [
+    {
+      "subreddit": "r/venturecapital",
+      "title": "How to reach out to a VC firm?",
+      "url": "https://www.reddit.com/r/venturecapital/comments/1ui19qp/how_to_reach_out_to_a_vc_firm/",
+      "created_at": null
+    },
     {
       "subreddit": "r/venturecapital",
       "title": "Do investors actually read pitch decks?",
@@ -45,9 +51,51 @@
       "created_at": null
     },
     {
-      "subreddit": "r/venturecapital",
-      "title": "We built a Universal Middleware for Optical, Analog, and Quantum Compute. Seeking feedback and strategic scaling partners.",
-      "url": "https://www.reddit.com/r/venturecapital/comments/1ubq4ua/we_built_a_universal_middleware_for_optical/",
+      "subreddit": "r/artificial",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
+      "url": "https://www.reddit.com/r/artificial/comments/1ui1wci/asian_ai_startups_launch_mythoslike_models_as/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "What's the real point of smart glasses?",
+      "url": "https://www.reddit.com/r/artificial/comments/1uiigu2/whats_the_real_point_of_smart_glasses/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "What AI capability do you think is still surprisingly underdeveloped?",
+      "url": "https://www.reddit.com/r/artificial/comments/1uhz5h0/what_ai_capability_do_you_think_is_still/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "[D] Could AI alignment benefit from “transformational” training instead of mostly transactional reward training?",
+      "url": "https://www.reddit.com/r/artificial/comments/1ui02bg/d_could_ai_alignment_benefit_from/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "28 point compliance checklist for shipping AI agents into enterprise environments",
+      "url": "https://www.reddit.com/r/artificial/comments/1ui052c/28_point_compliance_checklist_for_shipping_ai/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "Which model is the most worthy of the big names?",
+      "url": "https://www.reddit.com/r/artificial/comments/1uhyooh/which_model_is_the_most_worthy_of_the_big_names/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "So now scraping data without permission is bad for AI training all of sudden?",
+      "url": "https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/",
+      "created_at": null
+    },
+    {
+      "subreddit": "r/artificial",
+      "title": "What’s the biggest gap between AI tool demos and actual daily use?",
+      "url": "https://www.reddit.com/r/artificial/comments/1uhlz6m/whats_the_biggest_gap_between_ai_tool_demos_and/",
       "created_at": null
     }
   ]

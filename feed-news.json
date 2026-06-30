@@ -1,191 +1,247 @@
 {
-  "updated_at": "2026-06-29T05:58:56.426082+00:00",
+  "updated_at": "2026-06-30T05:13:06.532047+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 30,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "California law targeting loud streaming ads takes effect on July 1",
-      "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
-      "published_at": "2026-06-28T21:34:14+00:00",
-      "summary": "Streaming ads might be getting a lot quieter."
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "published_at": "2026-06-30T04:01:00+00:00",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "published_at": "2026-06-28T19:05:39+00:00",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”"
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "published_at": "2026-06-30T02:28:41+00:00",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-      "published_at": "2026-06-28T17:03:16+00:00",
-      "summary": "Has Silicon Valley been building the wrong things?"
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "published_at": "2026-06-29T20:55:50+00:00",
+      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "published_at": "2026-06-28T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "published_at": "2026-06-29T20:12:59+00:00",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "published_at": "2026-06-28T15:00:00+00:00",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
+      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
+      "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+      "published_at": "2026-06-29T19:06:21+00:00",
+      "summary": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
-      "published_at": "2026-06-28T14:00:00+00:00",
-      "summary": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro.&#160;This $500 premium smart home gadget is aimed at those who crave what&#8217;s called “the"
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+      "published_at": "2026-06-29T18:45:12+00:00",
+      "summary": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "published_at": "2026-06-29T18:10:26+00:00",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "published_at": "2026-06-29T18:07:48+00:00",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Crunchbase Data: Q2 Brought The Most Billion-Dollar Startup Exits Since 2021",
+      "url": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
+      "published_at": "2026-06-29T11:00:43+00:00",
+      "summary": "Startup exits valued at $1 billion or more are now more numerous than at any point since the 2021 market peak, Crunchbase data shows.\nThe trend we’re seeing for the second quarter of 2026 includes both the largest venture-backed exit of all time and a bevy of other comparatively tinier but still siz"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets feel relief as the U.S. and Iran agree to a ceasefire on their earlier ‘ceasefire’ that was looking at lot like a war over Hormuz",
-      "url": "https://fortune.com/2026/06/28/stock-market-today-dow-futures-oil-prices-us-iran-ceasefire-talks-oil-prices-hormuz/",
-      "published_at": "2026-06-29T00:28:46+00:00",
-      "summary": "Sources told Axios that the U.S. and Iran agreed to halt attacks and meet in Qatar on Tuesday to resolve differences over the Strait of Hormuz."
+      "title": "Ford on why it hired 350 ‘gray beard’ engineers: you need their mentorship for younger workers — and to drive huge AI productivity gains",
+      "url": "https://fortune.com/2026/06/29/ford-ai-hired-human-workers-gray-beards-automation/",
+      "published_at": "2026-06-29T17:20:58+00:00",
+      "summary": "\"These engineers carry the hard-earned wisdom of decades of design,\" Ford told Fortune, adding that AI is important to quality gains."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Samsung, SK reportedly to invest $1.3 trillion over 10 years",
-      "url": "https://fortune.com/2026/06/28/samsung-sk-hynix-chip-fabs-investment-fabs-1-3-trillion-10-years-nand/",
-      "published_at": "2026-06-28T23:41:55+00:00",
-      "summary": "Samsung Electronics Co. and SK Hynix Inc. are each expected to build four to five semiconductor fabs in the Gwangju area."
+      "title": "The most reassuring argument about AI and jobs quietly explains why Gen Z can’t get one",
+      "url": "https://fortune.com/2026/06/29/why-cant-gen-z-get-a-job-lump-of-labor-fallacy-jevons-paradox/",
+      "published_at": "2026-06-29T17:55:48+00:00",
+      "summary": "It’s not just the Jevons Paradox—it’s also the lump of labor fallacy. But there’s no God-given right for entry-level work to exist."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Big-budget ‘Supergirl’ is among DC Studios’ worst flops for an opening weekend and was reportedly trimmed significantly after test screenings",
-      "url": "https://fortune.com/2026/06/28/supergirl-opening-weekend-box-office-ticket-sales-dc-studios-worst-flops-toy-story-5/",
-      "published_at": "2026-06-28T21:48:15+00:00",
-      "summary": "After a near-record debut for an animated movie, “Toy Story 5” remained No. 1 at the box office with $70 million in domestic ticket sales and another $89.1 million overseas."
+      "title": "Ray Dalio was a ‘below average’ student who got into investing by caddying for Wall Street traders: Now he hires talent who have experienced hardship",
+      "url": "https://fortune.com/2026/06/29/ray-dalio-academic-golf-caddy-investing-hiring-talent/",
+      "published_at": "2026-06-29T11:04:00+00:00",
+      "summary": "“What I find quite often is the case is that that student who did really, really well—and in remembering all the things that they’ve learned and so on—hadn’t gone through anything like that, [and] may not be the most inventive, may not be the most determined.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Fed’s Barkin warns of high inflation, but sees signs of relief",
-      "url": "https://fortune.com/2026/06/28/richmond-fed-tom-barkin-high-inflation-oil-prices-relief/",
-      "published_at": "2026-06-28T21:26:41+00:00",
-      "summary": "“Businesses, when they set prices, take today’s inflation as a factor, and so I think there’s some persistence to inflation.”"
+      "title": "‘Humanity has chosen to become idiots’: This Brown professor switched to take-home exams after a mass shooting and discovered mass cheating",
+      "url": "https://fortune.com/2026/06/29/roberto-serrano-brown-university-massacre-ai-cheating/",
+      "published_at": "2026-06-29T22:02:02+00:00",
+      "summary": "Roberto Serrano literally wrote the book on game theory, but he's befuddled: \"Why are you at a university if you refuse to learn, you refuse to work hard?\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Social Security is headed for a day of reckoning, and Congress is running out of time to save boomers. Lawmakers are proposing some hard choices",
-      "url": "https://fortune.com/2026/06/28/social-security-insolvency-deadline-boomers-payroll-tax-cap-benefit-cuts/",
-      "published_at": "2026-06-28T20:33:24+00:00",
-      "summary": "\"Why should a middle-class nurse pay a larger share of her paycheck than a wealthy corporate lawyer?\""
+      "title": "Target is starting to track employees’ unexcused lateness and absences with a points system—and if they rack up 12, they’re fired",
+      "url": "https://fortune.com/2026/06/29/target-track-employees-unexcused-lateness-absences-points-system-12-fired/",
+      "published_at": "2026-06-29T15:46:02+00:00",
+      "summary": "Target staffers who clock in late and skip work enough to rack up 12 points will be shown the door. It’s just one way companies are tightening their grip on in-person attendance."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s U-turn on Iran sanctions would unravel decades of curbs",
-      "url": "https://fortune.com/2026/06/28/trump-iran-us-sanctions-mou-ceasefire-oil-sales-dollar/",
-      "published_at": "2026-06-28T18:44:13+00:00",
-      "summary": "The 14-point memorandum of understanding signed by Trump and Iranian President Masoud Pezeshkian on June 17 includes the removal of all US sanctions on Iran on “an agreed upon schedule.”"
+      "title": "Strategy may sell up to $1.25 billion in Bitcoin to calm investor jitters",
+      "url": "https://fortune.com/2026/06/29/strategy-may-sell-up-to-1-25-billion-in-bitcoin-to-calm-investor-jitters/",
+      "published_at": "2026-06-29T15:49:54+00:00",
+      "summary": "Strategy continues its shift away from aggressive Bitcoin accumulation as market conditions deteriorate."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Putin admits Russia is ‘going through a difficult period’ as relentless Ukrainian drone attacks cut off fuel supplies",
-      "url": "https://fortune.com/2026/06/28/putin-russia-war-difficult-period-ukrainian-drone-attacks-fuel-supply-shortages/",
-      "published_at": "2026-06-28T18:29:43+00:00",
-      "summary": "Deputy Prime Minister Alexander Novak said that Moscow was actively reviewing fuel export agreements to avoid compromising domestic needs."
+      "title": "The central bank of central banks just released its flagship annual report — and it sees a $1 trillion AI investment boom headed for a reckoning",
+      "url": "https://fortune.com/2026/06/29/bis-central-bank-warning-hyperscaler-data-center-1-trillion-gamble-recession/",
+      "published_at": "2026-06-29T21:31:19+00:00",
+      "summary": "The Bank for International Settlements draws an explicit parallel to the dotcom crash and railway mania, but the stakes are bigger now."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran is forcing the U.S. into an escalation trap as a ‘shadow war’ over the Strait of Hormuz heats up that could kill the tenuous ceasefire",
-      "url": "https://fortune.com/2026/06/28/iran-us-ceasefire-escalation-trap-shadow-war-strait-of-hormuz/",
-      "published_at": "2026-06-28T17:51:46+00:00",
-      "summary": "\"The collision course is set, and worse is yet to come.\""
+      "title": "U.S. official says $6 billion in frozen Iranian assets will be released, while Oman discusses possible Hormuz service fees with Tehran",
+      "url": "https://fortune.com/2026/06/29/frozen-iranian-assets-release-us-ceasefire-talks-oman-hormuz-service-fees/",
+      "published_at": "2026-06-29T20:57:23+00:00",
+      "summary": "Qatar planned to release $6 billion in frozen Iranian assets that would be used to purchase U.S. food products for the Iranian people."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
-      "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
-      "published_at": "2026-06-28T18:00:16+00:00",
-      "summary": "<p>In the past two years, businesses have been trying to fit large language models (LLMs) into support, analytics, development, and internal automation like never before. </p><p>Along with the increasing adoption of <a href=\"https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-eve"
+      "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
+      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+      "published_at": "2026-06-29T20:36:15+00:00",
+      "summary": "<p>Even as the geopolitical conversation around AI continues to grow more fraught following the<a href=\"https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do\"> U.S. government&#x27;s actions to limit"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
+      "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
+      "published_at": "2026-06-29T16:53:14+00:00",
+      "summary": "<p>A single fake error report hijacked Claude Code in controlled testing — the agent ran the attacker&#x27;s code with the developer&#x27;s full privileges, and not one alert fired. EDR, WAF, IAM, and the firewall all missed it completely.</p><p>Tenet Security&#x27;s <a href=\"https://tenetsecurity.a"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "published_at": "2026-06-29T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "published_at": "2026-06-29T14:44:01+00:00",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "published_at": "2026-06-29T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
-      "url": "https://36kr.com/p/3873806295274756?f=rss",
+      "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
+      "url": "https://36kr.com/p/3875120747942913?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，广州宸思通讯科技有限公司（以下简称“宸思科技”）近日完成新一轮融资，由厦门高新投独家投资。本轮资金将主要用于核心技术研发和产品储备，加速数字相控阵芯片及模组产品的迭代升级。</p>\n  <p>宸思科技成立于2020年，总部位于广州黄埔区，聚焦数字相控阵芯片及模组研发，具备“芯片+模组+产品”的垂直整合能力，可为低空经济、卫星互联网、雷达、测控通信数据链等场景提供定制化解决方案。</p>\n  <p>近年，随着低空经济、卫星互联网等产业快速发展，数字相控阵技术正迎来新的市"
+      "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>光谱定量遥感赛道跑出一匹黑马。</p>\n  <p>36氪未来产业独家获悉，光学载荷与微纳卫星系统解决方案提供商上海谱星航天科技有限公司（下简称“谱星航天”）<strong>已于近期连续完成天使+、Pre-A两轮融资，累计规模为数亿元。</strong></p>\n  <p>Pre-A轮由国泰海通、尚融资本、司南基金联合领投，徐汇资本、联融志道、金浦投资跟投，老股东联想控股、鼎农科技、普华资本追投。天使+轮投资方为联想控股、普华资本。</p>\n  <p><strong>谱星航天是我们长期关注的企业，成立9个月内，共完成3轮融资，累计资金规模"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "被健康家电「背刺」后，这届年轻人更会买了",
-      "url": "https://36kr.com/p/3873786445813001?f=rss",
+      "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
+      "url": "https://36kr.com/p/3875047283659777?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>那些年，我们交过的“健康”智商税</strong></h2>\n  <p>马上就要撞到墙了。</p>\n  <p>王焱的大脑还没反应过来，身体已经感觉到了一股推背感。在试驾这辆主打“智能”与“安全”的新能源汽车时，他不小心把油门当成了刹车，一脚踩了下去，等他意识到的时候，车子正在像头野兽一般往前猛窜。</p>\n  <p>在极其危险的几秒里，王焱以为这款车在发布会上被吹上天的风险预警与瞬间干预能立刻奏效。然而，智驾系统一片死寂，没有任何警报声，更没有主动刹停的迹象。最终，还是王焱靠着本能反应，死死地踩住了刹车，在距离墙面几十厘米的地方，把车刹停了。</p>\n  <p><str"
+      "summary": "<p>过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。&nbsp;</p>\n  <p>年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。</p>\n  <p>就在2026年上半年，全球物理A"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
-      "url": "https://36kr.com/p/3873710996902912?f=rss",
+      "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "url": "https://36kr.com/p/3875059110221064?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。</p>\n  <p>本轮融资将主要用于下一代AI可穿戴产品研发、健康数据与AI Agent能力建设、全球市场拓展以及核心团队扩张。AIVELA将以智能指环、智能手链等贴身可穿戴产品为起点，面向全球市场构筑融合健康感知、自然交互与AI健康服务的新一代消费科技品牌。</p>\n  <p>当前，消费者的健康需求正从单纯的运动记录，逐渐向睡"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。</p>\n  <p>纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾驶卡车企业嬴彻科技CTO，推动L3级自动驾驶重卡量产落地，具"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
-      "url": "https://36kr.com/p/3873706225751296?f=rss",
+      "title": "36氪官方福利来袭！15秒体验股市情报工具，免费抽取定制周边好礼~",
+      "url": "https://36kr.com/p/3873992162382849?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。</p>\n  <p>本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。</p>\n  <p>在URTOPIA的长期规划中"
+      "summary": "<h3><strong>官方免费抽奖来袭，15秒体验即可参与领周边</strong></h3>\n  <p>无门槛，所有微信用户都能参与，纯粹是36氪给各位投资者的专属福利。</p>\n  <p>只需打开微信，扫描下方识别小程序码进入36氪企业全情报，<strong>浏览15秒资讯后任意订阅一家企业</strong>，就能参与免费抽奖，多款36氪官方定制实用周边随机送出，中奖机会人人有。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260629/v2_fda515a56ebe4140ae7bd"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
-      "url": "https://36kr.com/p/3873681978840071?f=rss",
+      "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模��业投资计划；哈啰出行回应骑79分钟需支付30元",
+      "url": "https://36kr.com/p/3874911939482880?f=rss",
       "published_at": null,
-      "summary": "<p>本文约2500字，建议阅读5分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。</p>\n  </blockquote>\n  <p>6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上"
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus</li>\n   <li>美的回应空调产品在欧洲被疯抢</li>\n   <li>蔚来回应车漆洗车时被冲掉：高压水枪操作不规范</li>\n   <li>滚石唱片就屠颖去世追责万豪喜来登</li>\n   <li>百度昆仑芯拟赴港IPO</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼</strong></p>\n  <p>随着全球内存短缺危机加剧，美国当地消费"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪首发 | 「CAYE咖爷科技」完成近4亿元B轮融资，系商用全自动咖啡机赛道单笔最大规模融资",
-      "url": "https://36kr.com/p/3872276297618436?f=rss",
+      "title": "烧光5000亿后，京东方开始给股民赚钱",
+      "url": "https://36kr.com/p/3874045136720899?f=rss",
       "published_at": null,
-      "summary": "<p>作者 | 钟艺璇</p>\n  <p>36氪获悉，商用全自动咖啡机品牌「CAYE咖爷科技」已完成近4亿元B轮融资，本轮融资由老股东美团龙珠领投，柏睿资本、高瓴创投、苏创投、嘉宾资本等机构联合跟投。这也是目前商用全自动咖啡机赛道规模最大的单笔融资。&nbsp;</p>\n  <p>CAYE咖爷是36氪持续关注的公司，该公司成立于2022年12月，围绕自研&nbsp;Bionic Barista&nbsp;仿生咖啡师系统，CAYE咖爷对咖啡研磨、粉重控制、布粉填压、加压萃取等核心工艺进行重新设计，重新定义商用全自动咖啡机。&nbsp;</p>\n  <p>目前，CAYE咖爷的咖啡机产品已经进入精品"
+      "summary": "<p>作者&nbsp;|&nbsp;范亮</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。</p>\n  <p>人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有18%。</p>\n  <p><strong>面板行业的重资产投入和强周期特征，是制约京东方股价表现的核心因素。上</strong>市以来，京东方累计资本开支超过500"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家",
-      "url": "https://36kr.com/p/3868055841641476?f=rss",
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
       "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪独家获悉，通用全身具身大脑公司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创坛、上海创智学院等。光源资本担任独家财务顾问。</p>\n  <p>本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心与产业合作生态搭建，加速在今年内实现开源人形基座模型落地。</p>\n  <p>源策未来成立于2026年4月，研发总部位于上海市徐汇区漕河泾开发区。公司专注研发通用"
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3874065066366211\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家</strong></a></p>\n  <p>36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "中国卖家涌向拉美：高增长与合规门槛齐升丨最前线",
-      "url": "https://36kr.com/p/3873539789034501?f=rss",
+      "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+      "url": "https://36kr.com/p/3874015941645570?f=rss",
       "published_at": null,
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>6月26日，亚马逊全球开店在杭州宣布推出“拉美速通计划”，计划在2026年内面向3000个具备长期投入意愿的中国品牌，提供巴西本土公司注册协助、墨西哥RFC税号解决方案、最高12000美元补贴及物流费用减免等支持，帮助卖家全面扎根拉美市场。</p>\n  <p>拉美正在成为跨境电商的新热土。据eMarketer数据，2025年拉美零售电商市场规模接近1900亿美元，增速是全球平均水平的1.5倍，其中巴西和墨西哥贡献了绝大部分销售额。</p>\n  <p>亚马逊数据也印证了这一增长趋势：2026年第一季度，新上线巴西和墨西哥站点的中"
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，</p>\n  <p>一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多数智能设备基于对话、观看等功能交互，而抚摸、按压、揉捏等人类原始的感知与表达方式，在陪伴类产品中鲜少被真正回应。</p>\n  <p>柔性电子皮肤技术的成熟正在改变这一"
     }
   ]
 }

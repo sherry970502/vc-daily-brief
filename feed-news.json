@@ -1,199 +1,199 @@
 {
-  "updated_at": "2026-07-03T04:51:03.769548+00:00",
+  "updated_at": "2026-07-04T04:42:04.777094+00:00",
   "period_hours": 24,
-  "article_count": 32,
+  "article_count": 25,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "published_at": "2026-07-03T00:00:00+00:00",
-      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone."
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published_at": "2026-07-03T21:20:00+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "published_at": "2026-07-02T23:38:10+00:00",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "published_at": "2026-07-03T18:43:00+00:00",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Private space pilots are flying orbital missions for the US Space Force",
-      "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-      "published_at": "2026-07-02T23:01:06+00:00",
-      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military."
+      "title": "The Dune keypad device can be your meeting controller and more",
+      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+      "published_at": "2026-07-03T18:28:30+00:00",
+      "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-      "published_at": "2026-07-02T21:57:10+00:00",
-      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing."
+      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+      "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+      "published_at": "2026-07-03T16:30:00+00:00",
+      "summary": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-      "published_at": "2026-07-02T20:42:48+00:00",
-      "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "published_at": "2026-07-02T20:11:59+00:00",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-      "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-      "published_at": "2026-07-02T19:14:46+00:00",
-      "summary": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "published_at": "2026-07-02T18:44:02+00:00",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/",
-      "published_at": "2026-07-02T17:12:50+00:00",
-      "summary": "U.S. startups announced sizable funding rounds at a steady clip during a truncated holiday week, with energy and AI leading the way. Houston-based energy startup Joulent secured the biggest round, a $1.75 billion strategic financing."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
-      "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
-      "published_at": "2026-07-02T11:00:47+00:00",
-      "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning in force, the second quarter notched one of the strongest periods for venture-backed exits in years"
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "published_at": "2026-07-03T05:05:00+00:00",
+      "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘A witches’ brew’: Washington’s ethics establishment reacts to Trump’s $2.2 billion windfall—they’re shocked but not surprised",
-      "url": "https://fortune.com/2026/07/02/trump-2-2-billion-income-disclosure-reactions-eisen-gephardt/",
-      "published_at": "2026-07-02T13:29:28+00:00",
-      "summary": "“It’s all heinous,” former ethics czar Norm Eisen said. “You can anticipate that we’ll be looking at legal remedies for this startling state of affairs.”"
+      "title": "‘We are in a new era’: Trump’s bombshell $2.2 billion income haul, the ‘Big Player Theory’ and what happens when the president becomes the bubble",
+      "url": "https://fortune.com/2026/07/03/trump-2-2-billion-income-financial-disclosures-new-era-big-player-theory/",
+      "published_at": "2026-07-03T10:00:00+00:00",
+      "summary": "In the age of artificial intelligence, Syracuse University's Robert Koppl, progenitor of \"big player theory,\" told Fortune, we have \"augmented ignorance.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic’s Fable model is back. But U.S. AI policy is still a mess",
-      "url": "https://fortune.com/2026/07/02/anthropic-fable-and-mythos-are-restored-but-us-ai-policy-is-still-a-mess/",
-      "published_at": "2026-07-02T18:47:06+00:00",
-      "summary": "The U.S. government has lifted export controls on Fable and Mythos. But there's still no clarity about the rules that will govern future AI model releases."
+      "title": "‘Devin-kun’: Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer",
+      "url": "https://fortune.com/2026/07/03/devin-kun-cognition-ai-japan-russell-kaplan/",
+      "published_at": "2026-07-03T21:00:00+00:00",
+      "summary": "Cognition AI opened its first Asia office in Tokyo earlier this year. \"The country is running on aging infrastructure with a declining workforce.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meta’s cloud compute dreams: Why opt for U.S. AI data centers when Saudi Arabia has cheap oil and cheaper power?",
-      "url": "https://fortune.com/2026/07/02/meta-cloud-computing-detour-not-strategy-for-attention/",
-      "published_at": "2026-07-02T13:14:48+00:00",
-      "summary": "“Data center capacity in the United States is not going to age well,” MNTN CEO Mark Douglas told Fortune. He gives it two years."
+      "title": "Meet the Zillennials: The luckiest micro-generation in the workforce, born between 1993 and 1998",
+      "url": "https://fortune.com/2026/07/03/meet-zillennials-like-geriatric-millennials-gen-alpha/",
+      "published_at": "2026-07-03T07:03:00+00:00",
+      "summary": "Zillennials dodged two recessions and learned two technological languages. Now they're out-earning everyone."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Michael Burry just shorted Caterpillar’s 172% AI rally. One analyst says his bet won’t even matter",
-      "url": "https://fortune.com/2026/07/02/michael-burry-short-caterpillar-ai-infrastructure-bubble-power-systems-valuation/",
-      "published_at": "2026-07-02T20:02:48+00:00",
-      "summary": "The Big Short investor calls Caterpillar one of the market's most overvalued AI trades—but an analyst argues the rally reflects a real structural shift."
+      "title": "‘It’s just his AI and my AI going back and forth’: The workplace phenomenon that’s undermining human relationships",
+      "url": "https://fortune.com/article/ai-communication-undermining-human-relationships-middle-management/",
+      "published_at": "2026-07-03T14:55:00+00:00",
+      "summary": "AI isn’t the problem, says leadership expert Leena Rinne: It’s social connection and emotional intelligence instead."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Elon Musk says AI is the only way to fix the $40 trillion U.S. debt crisis—but a new study says even the most optimistic scenario won’t fill the hole",
-      "url": "https://fortune.com/2026/07/02/ai-debt-crisis-solution-brookings-study-treasury-pay-success/",
-      "published_at": "2026-07-02T11:09:58+00:00",
-      "summary": "AI has the potential to be so transformative that it “should give optimists pause,” the study notes."
+      "title": "Those bots sending discounts to your email is dynamic pricing in action. Get revenge on those bots by abandoning your cart",
+      "url": "https://fortune.com/2026/07/03/dynamic-pricing-consumer-shopping-online-cart-abandon/",
+      "published_at": "2026-07-03T07:36:00+00:00",
+      "summary": "Retailers are looking at your browsing history to change the price you see in your cart. Maybe you should be doing the same when looking to buy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mark Zuckerberg feeds his cows macadamia nuts and beer to create the ‘highest-quality beef in the world’ on his $300 million estate in Hawaii",
-      "url": "https://fortune.com/2026/07/02/mark-zuckerberg-cattle-ranch-hawaii-complex-macadamia-nuts-beer/",
-      "published_at": "2026-07-02T16:58:46+00:00",
-      "summary": "“I'm very into the genetics of the cattle,” the Meta CEO said."
+      "title": "YouTube’s founders split over $650 million when they sold to Google in 2006—had they held out, they could have taken a slice of $550 billion",
+      "url": "https://fortune.com/article/youtube-cofounders-chad-hurley-steven-chen-sold-google-net-millions-but-now-worth-over-550-billion-missed-opportunity/",
+      "published_at": "2026-07-03T14:50:42+00:00",
+      "summary": "YouTube’s cofounders could all be part of the billionaire club alongside Google's Sundar Pichai had they kept the business: It’s grown some 333x since they cashed out."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI’s $2.2 trillion deficit fix is already half fake, economists say",
-      "url": "https://fortune.com/2026/07/02/ai-productivity-deficit-national-debt-brookings-fed-study/",
-      "published_at": "2026-07-02T18:55:24+00:00",
-      "summary": "A new Brookings/Fed paper finds AI productivity could meaningfully shrink the U.S. deficit — until you count the side effects, which could erase more than half the savings before Washington even cashes the check."
+      "title": "Brutal heatwave in France is killing 2,000 people per week, undertakers are overwhelmed, and health agency says there’s worse to come",
+      "url": "https://fortune.com/2026/07/03/heatwave-france-kill-2000-people-per-week/",
+      "published_at": "2026-07-03T14:45:28+00:00",
+      "summary": "Funeral service directors have said they’ve struggled to find places to store bodies before burial or cremation, with some saying they had to turn bodies away."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Microsoft’s next big bet isn’t on a model but on becoming the Swiss Army knife of enterprise AI",
+      "url": "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
+      "published_at": "2026-07-03T08:00:00+00:00",
+      "summary": "The tech giant is investing $2.5 billion in a new business unit called Microsoft Frontier."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
-      "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
-      "published_at": "2026-07-03T00:33:00+00:00",
-      "summary": "<p>Two-thirds of enterprises have hedged their AI model strategy, and the past few weeks of controversy around Anthropic’s Claude Fable 5 model showed why that posture has gone mainstream. </p><p>On June 12, a U.S. export-control order <a href=\"https://venturebeat.com/technology/anthropic-blocks-all"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
-      "url": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
-      "published_at": "2026-07-02T20:54:12+00:00",
-      "summary": "<p>As enterprise AI systems scale to handle complex workflows, practitioners face the challenge of routing subtasks to the right tools and skills. Agents can have hundreds of tools and skills and get confused on which one to use for each step of a workflow.</p><p>To address this challenge, researche"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
-      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
-      "published_at": "2026-07-02T10:00:00+00:00",
-      "summary": "<p><a href=\"http://z.ai\">Z.ai</a>, the Beijing-based artificial intelligence lab formerly known as Zhipu AI, on Wednesday officially launched <a href=\"https://zcode.z.ai/\">ZCode</a>, a free desktop application it describes as an &quot;Agentic Development Environment&quot; purpose-built for its flags"
+      "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+      "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+      "published_at": "2026-07-03T13:00:00+00:00",
+      "summary": "<p>Most verticals aren’t clean, well-oiled SaaS databases; the reality is ugly documents, proprietary schemas, implicit workflows, and long‑running tasks that most general-purpose models struggle with. </p><p>This prompted construction project management company Trunk Tools to build a specialized, t"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "published_at": "2026-07-02T15:37:08+00:00",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo"
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "published_at": "2026-07-03T17:34:37+00:00",
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "published_at": "2026-07-02T12:51:44+00:00",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco"
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "published_at": "2026-07-03T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "published_at": "2026-07-02T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give m"
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "published_at": "2026-07-03T09:00:00+00:00",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Why California’s carbon manure math doesn’t add up",
-      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-      "published_at": "2026-07-02T09:00:00+00:00",
-      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+      "url": "https://36kr.com/p/3880770270425089?f=rss",
+      "published_at": null,
+      "summary": "<p>《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。</p>\n  <p>7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。</p>\n  <p>当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技、户外美学与湖岸风光融为一体，让参与者沉浸式解锁人机协同的徒步方式，感受徒步的"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "url": "https://36kr.com/p/3880629882679301?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>三部门：调整节能汽车、新能源汽车车船税优惠政策</li>\n   <li>三星传获Meta超10万亿韩元AI芯片代工订单</li>\n   <li>茉莉奶白小程序更换彩色Logo</li>\n   <li>Meta打算出售富余算力引发科技股回落</li>\n   <li>英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>因存在植入后门风险，阿里内部全面禁用Claude Code</strong></p>\n  <p>36氪从阿里内部人士处获"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+      "url": "https://36kr.com/p/3879991356157952?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260703/v2_7bba92fd871f49ea8ca5e3fcabde20c7@6221844_oswg1504240oswg956oswg895_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，硅基光电子集成芯片"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
+      "url": "https://36kr.com/p/3879807100023040?f=rss",
+      "published_at": null,
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>2026年6月底，西班牙瓦尔德希伯伦大学医院（Vall d’Hebron University Hospital）宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。</p>\n  <p>瓦尔德希伯伦大学医院是西班牙规模最大的综合医院之一，年接诊量过百万人次，在整个欧洲医疗系统内，这家医院对前沿医疗技术、产品的探索都称得上“先锋”。此前，世界首例供体来自安乐死患者的面部移植手术就在这里完成。</p>\n  <p>本次，医院方面对36氪表示，支持完成这场“有里程碑意义的儿科手术”的核心设备，来自中国手术机器人公司术锐机器人。这是瓦尔德希伯"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+      "url": "https://36kr.com/p/3879814941437956?f=rss",
+      "published_at": null,
+      "summary": "<p>本文约2700字，建议阅读6分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。</p>\n  </blockquote>\n  <p>Q2的最后一天，硅基流动向港交所递交了上市申请，此次IPO是以"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
+      "url": "https://36kr.com/p/3879796756754694?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元</strong></p>\n  <p>针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利润收入选择权的重估。按德银测算，Meta到2027年底AI相关算力可能达到8至11.5GW，其中可对外出售容量约1.2至2.7GW；假"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
+      "url": "https://36kr.com/p/3877919172047111?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260702/v2_9f88732f18974493bd43bb215b7bc0ab@6310690_oswg96109oswg1080oswg720_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源视觉中国</p>\n  <p>文｜肖漫<br />编辑｜李勤、杨轩</p>\n  <p>“回归创业状态”，去年李想说出"
     },
     {
       "source": "36氪",
@@ -201,63 +201,7 @@
       "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
       "url": "https://36kr.com/p/3877990989819909?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。</p>\n  <p>成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）、惠友资本（比亚迪联"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
-      "url": "https://36kr.com/p/3879274157928449?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。</p>\n  <p>启航氢能成立于2024年4月，<strong>技术起源于嘉庚创新实验室电氢耦合研究团队。</strong>公司专注于电氢耦合技术及应用场景的装备研发、生产与销售，核心团队在电力电子技术、智能电网与电化学等领域拥有近20年研究积累。嘉庚创新实验室是福建省政府设立的省级高水平科研"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
-      "url": "https://36kr.com/p/3879158039834629?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>苹果拟于今明两年推出至少五款新iPhone</p>\n  <p>AI版支付宝开放公测，上线72项办事技能</p>\n  <p>特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱</p>\n  <p>LV起诉茉莉奶白，茉莉奶白被判赔1030万元</p>\n  <p>6月赴日航班取消1488个</p>\n  <p>安克创新港股上市首日破发</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>证监会同意宇树科技科创板IPO注册</strong></p>\n  <p>7月2日，证监会网站显示，同意宇树科技首次公开发行股票注册。这意味着，全球首家在IPO"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
-      "url": "https://36kr.com/p/3878550357946625?f=rss",
-      "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>奥飞娱乐：上半年净利润同比预增305.30%—413.38%</strong><br />36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上年同期增长305.30%—413.38%。</p>\n  <p><strong>雀巢称消费者因价格压力避开中等包装产品</strong></p>\n  <p>雀巢表示，在美国消费者专注于产品可负担性、购买者纷纷转向大包装或经济型包装而避开中等规格产品的背景下，该公司正努力控制价格。（新浪财经）</p>\n  <p><strong>盐湖"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
-      "url": "https://36kr.com/p/3878522627518471?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260702/v2_479f75a076024a17bafa8bcb0cb1a26d@5362858_oswg1152334oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>撰文｜深海</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/h"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
-      "url": "https://36kr.com/p/3878412963508486?f=rss",
-      "published_at": null,
-      "summary": "<p>我们是一群每天深度使用 AI 工具的人</p>\n  <p>最近我们碰到一个普遍现象💡 ：很多人在用 AI 工具时，容易陷入自己的信息茧房。</p>\n  <p>不同的人拿到同一个 AI 工具，产出能差出好几个量级。</p>\n  <p>不是不愿意用，可能是你缺一种灵感。</p>\n  <p>自己埋头苦干一个月毫无头绪的事情，三个人凑在一块儿交流一番便有了答案。</p>\n  <p>所以，我们想搭一个<strong>高密度碰撞的平台</strong>：小白能学到东西，资深使用者能看到更多可能。一起抢跑，跑得更快。主打共赢、利他。</p>\n  <h2>加入流程</h2>\n  <p><strong>点"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "享道被困16%“平台税”",
-      "url": "https://36kr.com/p/3878254740549638?f=rss",
-      "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张帆</p>\n  <p>编辑&nbsp;|&nbsp;黄绎达</p>\n  <p>2026年5月，背靠上汽集团的享道出行再次向港交所递交招股书，开启了第二次IPO冲刺。与2025年10月的首次递表相比，本次更新的核心在于补充了完整的2025年全年财务与运营数据。</p>\n  <p>透过这份招股书，享道试图向市场释放一个关键信号：盈利能力正在好转。</p>\n  <h2><strong>01 增长悖论：司机流失与单量增长的“剪刀差”</strong></h2>\n  <p>近年来，享道出行的营业收入规模在稳步扩张的同时，业绩表现及盈利能力的改善相对更为亮眼。数据显示"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
-      "url": "https://36kr.com/p/3878131056701447?f=rss",
-      "published_at": null,
-      "summary": "<p>本文约3300字，建议阅读7分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第六期，古瑞瓦特。</p>\n  </blockquote>\n  <p>上个月，古瑞瓦特第三次向港交所递交招股书。古瑞瓦特的IPO之路"
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）���期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。</p>\n  <p>成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）、惠友资本（比亚"
     }
   ]
 }

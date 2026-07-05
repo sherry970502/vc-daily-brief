@@ -1,143 +1,119 @@
 {
-  "updated_at": "2026-07-04T04:42:04.777094+00:00",
+  "updated_at": "2026-07-05T05:03:47.821005+00:00",
   "period_hours": 24,
-  "article_count": 25,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The only AI glossary you’ll need this year",
-      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published_at": "2026-07-03T21:20:00+00:00",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "published_at": "2026-07-04T20:55:25+00:00",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "published_at": "2026-07-03T18:43:00+00:00",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published_at": "2026-07-04T18:00:05+00:00",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Dune keypad device can be your meeting controller and more",
-      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-      "published_at": "2026-07-03T18:28:30+00:00",
-      "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front."
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "published_at": "2026-07-04T16:32:08+00:00",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-      "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-      "published_at": "2026-07-03T16:30:00+00:00",
-      "summary": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "published_at": "2026-07-03T05:05:00+00:00",
-      "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry."
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "published_at": "2026-07-04T15:51:32+00:00",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘We are in a new era’: Trump’s bombshell $2.2 billion income haul, the ‘Big Player Theory’ and what happens when the president becomes the bubble",
-      "url": "https://fortune.com/2026/07/03/trump-2-2-billion-income-financial-disclosures-new-era-big-player-theory/",
-      "published_at": "2026-07-03T10:00:00+00:00",
-      "summary": "In the age of artificial intelligence, Syracuse University's Robert Koppl, progenitor of \"big player theory,\" told Fortune, we have \"augmented ignorance.\""
+      "title": "A retired insurance executive found a lost Declaration of Independence in Britain’s National Archives",
+      "url": "https://fortune.com/2026/07/04/britain-lost-declaration-independence-royal-navy/",
+      "published_at": "2026-07-04T12:16:45+00:00",
+      "summary": "Captured from a Revolutionary privateer in 1776, the document sat unread in Royal Navy files for 250 years until Michael Scurr unfolded it one morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Devin-kun’: Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer",
-      "url": "https://fortune.com/2026/07/03/devin-kun-cognition-ai-japan-russell-kaplan/",
-      "published_at": "2026-07-03T21:00:00+00:00",
-      "summary": "Cognition AI opened its first Asia office in Tokyo earlier this year. \"The country is running on aging infrastructure with a declining workforce.\""
+      "title": "‘I AM SETTING THEM ALL FREE, RIGHT NOW!’ Trump’s pre-July 4 Friday news dump included pardons for 11 people including ex-Abramoff partner",
+      "url": "https://fortune.com/2026/07/04/trump-pardons-kidan-abramoff-mar-a-lago-fundraiser/",
+      "published_at": "2026-07-04T12:00:42+00:00",
+      "summary": "Buried in Friday's pardon list: a Jack Abramoff-era fraudster who later threw a fundraiser at Mar-a-Lago — now a free man."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet the Zillennials: The luckiest micro-generation in the workforce, born between 1993 and 1998",
-      "url": "https://fortune.com/2026/07/03/meet-zillennials-like-geriatric-millennials-gen-alpha/",
-      "published_at": "2026-07-03T07:03:00+00:00",
-      "summary": "Zillennials dodged two recessions and learned two technological languages. Now they're out-earning everyone."
+      "title": "Pope Leo marks July 4 at migrant graves, not U.S. celebrations",
+      "url": "https://fortune.com/2026/07/04/pope-leo-lampedusa-migrant-cemetery-july-4th/",
+      "published_at": "2026-07-04T12:04:08+00:00",
+      "summary": "History's first U.S.-born pope skipped the party to bless graves marked by shipwreck wood — on the exact day the U.S. turned 250."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘It’s just his AI and my AI going back and forth’: The workplace phenomenon that’s undermining human relationships",
-      "url": "https://fortune.com/article/ai-communication-undermining-human-relationships-middle-management/",
-      "published_at": "2026-07-03T14:55:00+00:00",
-      "summary": "AI isn’t the problem, says leadership expert Leena Rinne: It’s social connection and emotional intelligence instead."
+      "title": "Nancy Pelosi’s husband could face misdemeanor charges after hit-and-run collision in Napa wine country that left one car with ‘major damage’",
+      "url": "https://fortune.com/2026/07/04/nancy-pelosi-husband-paul-misdemeanor-charges-hit-and-run-napa-wine-country/",
+      "published_at": "2026-07-04T22:28:41+00:00",
+      "summary": "Paul Pelosi didn't have any alcohol in his system at the time of the crash, but pleaded guilty in 2022 to misdemeanor charges of driving under the influence in Napa County."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Those bots sending discounts to your email is dynamic pricing in action. Get revenge on those bots by abandoning your cart",
-      "url": "https://fortune.com/2026/07/03/dynamic-pricing-consumer-shopping-online-cart-abandon/",
-      "published_at": "2026-07-03T07:36:00+00:00",
-      "summary": "Retailers are looking at your browsing history to change the price you see in your cart. Maybe you should be doing the same when looking to buy."
+      "title": "Treasury rolls out currency signed by Trump for Fourth of July",
+      "url": "https://fortune.com/2026/07/04/treasury-currency-trump-signature-100-dollar-bill-fourth-of-july/",
+      "published_at": "2026-07-04T21:56:53+00:00",
+      "summary": "Traditionally US paper currency contains the signature of the treasury secretary and the US treasurer, not the president."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "YouTube’s founders split over $650 million when they sold to Google in 2006—had they held out, they could have taken a slice of $550 billion",
-      "url": "https://fortune.com/article/youtube-cofounders-chad-hurley-steven-chen-sold-google-net-millions-but-now-worth-over-550-billion-missed-opportunity/",
-      "published_at": "2026-07-03T14:50:42+00:00",
-      "summary": "YouTube’s cofounders could all be part of the billionaire club alongside Google's Sundar Pichai had they kept the business: It’s grown some 333x since they cashed out."
+      "title": "Russia’s fuel crisis is so bad that a mom and her baby waited in line for 18 hours to get gas — ‘Are we in the Soviet Union?’",
+      "url": "https://fortune.com/2026/07/04/russia-fuel-crisis-gasoline-shortage-rationing-ukraine-drones-oil-refineries-soviet-union/",
+      "published_at": "2026-07-04T21:39:34+00:00",
+      "summary": "Energy analysts have estimated that 25% or more of Russia’s oil refining capacity has been taken offline by Ukraine's drone attacks."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Brutal heatwave in France is killing 2,000 people per week, undertakers are overwhelmed, and health agency says there’s worse to come",
-      "url": "https://fortune.com/2026/07/03/heatwave-france-kill-2000-people-per-week/",
-      "published_at": "2026-07-03T14:45:28+00:00",
-      "summary": "Funeral service directors have said they’ve struggled to find places to store bodies before burial or cremation, with some saying they had to turn bodies away."
+      "title": "U.S. debt is a looming crisis today but was once its own revolutionary masterstroke that helped launch a global financial superpower",
+      "url": "https://fortune.com/2026/07/04/us-debt-crisis-revolutionary-war-consolidation-alexander-hamilton-global-financial-superpower/",
+      "published_at": "2026-07-04T19:03:24+00:00",
+      "summary": "Hamilton recognized how debt can unlock resources that could transform the young republic. But first he had to untangle the mess created by the Revolutionary War."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft’s next big bet isn’t on a model but on becoming the Swiss Army knife of enterprise AI",
-      "url": "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
-      "published_at": "2026-07-03T08:00:00+00:00",
-      "summary": "The tech giant is investing $2.5 billion in a new business unit called Microsoft Frontier."
+      "title": "The Taylor Swift economy: Star-studded wedding at Madison Square Garden lifts luxury brands Christian Dior, Christian Louboutin, and Cartier",
+      "url": "https://fortune.com/2026/07/04/taylor-swift-travis-kelce-wedding-luxury-brands-christian-dior-christian-louboutin-cartier/",
+      "published_at": "2026-07-04T17:04:45+00:00",
+      "summary": "The long anticipated union of sports and song brought hype to new heights at a venue made more for historic NBA games and bucket-list concerts."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "How America's 250th birthday became a test of AI-powered collective intelligence",
+      "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
+      "published_at": "2026-07-04T19:00:12+00:00",
+      "summary": "<p>Imagine if you could bring 250 people together in a massive room and have them discuss and debate an important issue, arguing the points and counterpoints, and converging on answers that accurately reflect their collective knowledge, wisdom, values, and sensibilities.</p><p>Now imagine that you c"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
       "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
       "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
-      "published_at": "2026-07-03T13:00:00+00:00",
+      "published_at": "2026-07-04T14:34:50+00:00",
       "summary": "<p>Most verticals aren’t clean, well-oiled SaaS databases; the reality is ugly documents, proprietary schemas, implicit workflows, and long‑running tasks that most general-purpose models struggle with. </p><p>This prompted construction project management company Trunk Tools to build a specialized, t"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "published_at": "2026-07-03T17:34:37+00:00",
-      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "published_at": "2026-07-03T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "published_at": "2026-07-03T09:00:00+00:00",
-      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili"
     },
     {
       "source": "36氪",
@@ -201,7 +177,7 @@
       "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
       "url": "https://36kr.com/p/3877990989819909?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）���期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。</p>\n  <p>成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）、惠友资本（比亚"
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。</p>\n  <p>成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）、惠友资本（比亚迪联"
     }
   ]
 }

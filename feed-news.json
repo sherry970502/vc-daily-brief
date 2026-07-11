@@ -1,199 +1,239 @@
 {
-  "updated_at": "2026-07-10T05:00:30.122296+00:00",
+  "updated_at": "2026-07-11T04:19:27.246756+00:00",
   "period_hours": 24,
-  "article_count": 32,
+  "article_count": 33,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-      "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
-      "published_at": "2026-07-10T04:36:20+00:00",
-      "summary": "Vivo's joint venture could become a template for Chinese smartphone makers in India."
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "published_at": "2026-07-11T01:01:28+00:00",
+      "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "published_at": "2026-07-10T00:16:54+00:00",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "published_at": "2026-07-11T00:29:25+00:00",
+      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-      "url": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-      "published_at": "2026-07-10T00:13:00+00:00",
-      "summary": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla."
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "published_at": "2026-07-10T23:55:07+00:00",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "published_at": "2026-07-09T23:38:00+00:00",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market."
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "published_at": "2026-07-10T21:51:55+00:00",
+      "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "published_at": "2026-07-09T22:24:24+00:00",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "published_at": "2026-07-10T21:00:29+00:00",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "published_at": "2026-07-09T22:08:58+00:00",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "published_at": "2026-07-10T17:42:36+00:00",
+      "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "published_at": "2026-07-09T22:03:54+00:00",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension."
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "published_at": "2026-07-10T17:17:12+00:00",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "published_at": "2026-07-09T21:57:42+00:00",
-      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can."
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "published_at": "2026-07-10T17:11:51+00:00",
+      "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Europe Posted Its Strongest Venture Funding Quarter In 4 Years As UK Gains, M&A Holds Up",
-      "url": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
-      "published_at": "2026-07-09T11:00:22+00:00",
-      "summary": "In Q2, Europe posted its strongest quarter in four years for venture funding, Crunchbase data shows. All told, Europe-based startups raised $24 billion in the just-ended quarter, up around a third quarter over quarter and two-thirds higher than the $14.4 billion raised in Q2 2025."
+      "title": "The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For Cyber And AI Infrastructure Lead",
+      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
+      "published_at": "2026-07-10T18:11:59+00:00",
+      "summary": "AI once again dominated venture funding this week, claiming five of the 10 largest announced rounds, including a pair of billion-dollar financings for AI infrastructure and cybersecurity that led the pack."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork",
+      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/",
+      "published_at": "2026-07-10T11:00:46+00:00",
+      "summary": "The five most intriguing startup deals from the past month include one that’s simultaneously developing AI models for biology, a company that wants to prevent modern day private markets from the kind of paperwork crisis that shut down Wall Street in the ‘60s, and AI agents that can dispatch plumbers"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Asia’s founders are decamping to the U.S. as the region suffers a protracted venture funding slump",
-      "url": "https://fortune.com/2026/07/09/ai-founders-leaving-asia-for-us-silicon-valley/",
-      "published_at": "2026-07-09T21:00:00+00:00",
-      "summary": "Venture slowdown, weak exits and fragmented markets are pushing some Asian startups to Silicon Valley."
+      "title": "Apple accuses OpenAI, and former design star Jony Ive’s io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
+      "url": "https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/",
+      "published_at": "2026-07-10T23:19:36+00:00",
+      "summary": "The lawsuit alleges that two former Apple employees now working at OpenAI stole confidential data including information about unreleased hardware products and technical specifications."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "$5 billion CEO calls the managers that candidates didn’t list as references—and he’ll even ask the coworkers they clashed with what they really think",
-      "url": "https://fortune.com/2026/07/09/netskope-5-billion-ceo-secretly-calls-references-candidates-didnt-list-personality-interview-test/",
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "summary": "Job seekers be warned: this CEO tracks down the managers you conveniently left off your reference list to find out what your personality is really like."
+      "title": "OpenAI’s latest AI model likely has similar cyber vulnerabilities to one that led to U.S. export controls on Anthropic’s Fable, British agency says",
+      "url": "https://fortune.com/2026/07/10/openai-gpt-5-6-sol-jailbreaks-cyber-attacks-similar-to-security-flaw-that-led-u-s-government-to-force-anthropic-to-disable-fable-5/",
+      "published_at": "2026-07-10T23:14:25+00:00",
+      "summary": "U.K. AI agency found 'universal jailbreaks' that unlocked dangerous cyber capabilities in OpenAI's GPT-5.6"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hybrid‑work expert Nicholas Bloom says World Cup chaos and pricey commutes are turning July into the summer of remote work",
-      "url": "https://fortune.com/2026/07/09/stanford-nicholas-bloom-world-cup-heat-wave-gas-prices-hybrid-work-remote-work-future-office/",
-      "published_at": "2026-07-09T19:49:25+00:00",
-      "summary": "The economist who has spent two decades studying remote work said most employers are never going back to a fully in-office set up."
+      "title": "Memory chip giant SK Hynix jumps nearly 13% in Wall Street debut as AI frenzy powers biggest initial share sale in the U.S. by a foreign company",
+      "url": "https://fortune.com/2026/07/10/sk-hynix-stock-adr-debut-memory-chips-ai-biggest-initial-share-offering-us-foreign-company/",
+      "published_at": "2026-07-10T22:34:49+00:00",
+      "summary": "SK Hynix priced its American depositary receipts, or ADRs, at $149 each Thursday. They opened Friday at $170 and closed at $168.01."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Billionaire MacKenzie Scott just donated $20 million to support America’s youth mental health, as a fifth of teens struggle with suicidal thoughts",
-      "url": "https://fortune.com/2026/07/09/billionaire-mackenzie-scott-donated-20-million-support-americas-youth-mental-health-fifth-teens-struggle-suicidal-thoughts/",
-      "published_at": "2026-07-09T15:45:22+00:00",
-      "summary": "MacKenzie Scott, worth $35.8 billion, just donated a record-breaking gift to the U.S. nonprofit Active Minds to support a “new era of mental health.”"
+      "title": "Billionaires warned New York would scare off business. Anthropic and Airbnb just made their biggest bets on the city yet",
+      "url": "https://fortune.com/2026/07/10/billionaires-warned-nyc-flight-anthropic-airbnb/",
+      "published_at": "2026-07-10T20:35:41+00:00",
+      "summary": "Not only are they expanding their footprint, they’re also doubling headcount. Anthropic said it plans to have more than 1,000 employees by end of year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "49% of young adults live at home, up 12 points since 2019. An economist says the fallout will reshape marriage, kids, and home-buying",
-      "url": "https://fortune.com/2026/07/09/half-young-adults-live-home-financial-support-parents/",
-      "published_at": "2026-07-09T19:07:19+00:00",
-      "summary": "Nearly half of adults under 30 now live with a parent—and the Fed's data shows the squeeze is creeping into their 30s and 40s"
+      "title": "Meet ‘Freedom Fuel Network’ stations, a new chain with cheaper gas and mysterious origins",
+      "url": "https://fortune.com/2026/07/10/freedom-fuel-network-stations-cheap-gas-donald-trump-white-house-pennsylvania-new-jersey/",
+      "published_at": "2026-07-10T21:06:29+00:00",
+      "summary": "Freedom Fuel Network sells gasoline at prices well below the average, but the chain has revealed little about itself."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump cheers Gwynne Shotwell as Elon Musk’s SpaceX No. 2 gives $325 million in stock to Trump Accounts",
-      "url": "https://fortune.com/2026/07/09/trump-cheers-gwynne-shotwell-elon-musk-spacex-dell/",
-      "published_at": "2026-07-09T17:54:49+00:00",
-      "summary": "The SpaceX stock gift joins the Dells' $6.25 billion contribution to the investment accounts for children as Elon Musk hasn’t confirmed his own"
+      "title": "When Erling Haaland isn’t playing for Norway in the World Cup, he’s investing in a chess championship and playing an animated Viking",
+      "url": "https://fortune.com/2026/07/10/when-erling-haaland-isnt-playing-norway-world-cup-investing-chess-championship-animated-viking/",
+      "published_at": "2026-07-10T15:22:04+00:00",
+      "summary": "Soccer star Erling Haaland has led Norway to the World Cup quarterfinals—but off the pitch, he’s investing in chess and starring in a Viking movie."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft’s emissions surged 25% in 2025 during data center boom",
-      "url": "https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/",
-      "published_at": "2026-07-09T18:01:36+00:00",
-      "summary": "The software company pledged six years ago to pull more carbon from the atmosphere than it was emitting by 2030."
+      "title": "This summer’s hottest IPOs are minting a new class of ultra-high-net-worth ‘IPO Bros’—and family offices are changing how they approach them",
+      "url": "https://fortune.com/2026/07/10/hot-ipo-summer-ultra-high-net-worth-ipo-bros-family-offices/",
+      "published_at": "2026-07-10T19:27:41+00:00",
+      "summary": "A hot IPO summer means family offices are learning how to navigate newly minuted UHNW \"IPO Bros\" who have that entrepreneurial spirit."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meta releases latest update of AI model Muse Spark as tech giant accelerates AI push under Alexandr Wang",
-      "url": "https://fortune.com/2026/07/09/meta-muse-spark-1-1-release-alexandr-wang-superintelligence-labs-mark-zuckerberg/",
-      "published_at": "2026-07-09T16:54:57+00:00",
-      "summary": "Meta says Muse Spark 1.1 surpasses models from OpenAI and Anthropic on certain benchmarks—but didn’t include comparisons to rival AI labs’ most recent releases."
+      "title": "Taylor Swift paid New York City more than $160,000 to cover the costs tied to her wedding, Mayor Zohran Mamdani confirmed",
+      "url": "https://fortune.com/2026/07/10/taylor-swift-paid-new-york-city-mayor-zohran-mamdani-160000-permits-police-overtime/",
+      "published_at": "2026-07-10T19:24:36+00:00",
+      "summary": "As they tied the knot, they also tied the city in gridlock as police barricaded streets around MSG and permits were filed to keep traffic flowing."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
-      "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
-      "published_at": "2026-07-09T20:45:43+00:00",
-      "summary": "<p>Share one API key across five AI agents, and a single compromised agent inherits the reach of all five. The attacker immediately benefits from the accumulated permissions of every workflow that the key touches. The forensic trail goes cold at the credential level because five agents on one accoun"
+      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+      "published_at": "2026-07-10T20:58:32+00:00",
+      "summary": "<p>An enterprise AI agent answers with total confidence, but the number is wrong. Nobody catches it until someone traces it back to a stale metric definition or a document the retrieval system never pulled. The model did not fail. The context it was given did.</p><p>In the past six months, 57% of en"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Enterprises using multiple AI models are underestimating failure rates by 2.25x",
-      "url": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
-      "published_at": "2026-07-09T18:46:56+00:00",
-      "summary": "<p>A team routing queries across a coding specialist, a logic specialist, and a generalist model assumes each will cover the others&#x27; blind spots. <a href=\"https://arxiv.org/abs/2606.27288\">A new study</a> evaluating 67 frontier models from 21 providers shows that assumption is mathematically fl"
+      "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+      "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+      "published_at": "2026-07-10T20:20:00+00:00",
+      "summary": "<p><a href=\"https://openai.com/\">OpenAI</a> on Thursday launched <a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\">ChatGPT Work</a>, a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platf"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "The enterprise AI challenge nobody solves with code generation alone",
-      "url": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
-      "published_at": "2026-07-09T15:00:10+00:00",
-      "summary": "<p><i>Presented by SAP</i></p><hr /><p>Generating code with AI is fast, but getting that code to run reliably inside a large enterprise, integrated with live systems, governed for compliance, and maintainable over years requires foundational work that most organizations underestimate. </p><p>While 8"
+      "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
+      "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
+      "published_at": "2026-07-10T19:29:07+00:00",
+      "summary": "<p>Enterprise companies are running AI agents ahead of the controls needed to manage them — and they deployed that way knowingly. That is the central finding from VentureBeat Research&#x27;s June survey of 573 technical leaders at companies with 100 or more employees, fielded across five parallel su"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "One interface isn't enough for enterprise AI",
-      "url": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "summary": "<p><i>Presented by Oracle NetSuite</i></p><hr /><p>Every major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to underestimate the degree to which organizations adapt new technologies to their own c"
+      "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
+      "published_at": "2026-07-10T18:21:13+00:00",
+      "summary": "<p>Enterprise AI teams are giving agents more freedom at the same moment their confidence in automated testing is collapsing.</p><p>Half of enterprises have deployed an AI agent or LLM feature that passed internal evaluations and yet still caused a customer-facing failure — one in four more than onc"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
+      "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
+      "published_at": "2026-07-10T16:14:24+00:00",
+      "summary": "<p>The vast majority of business data is tabular — living in data warehouses, CRMs, and financial ledgers — yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and retraining pipelines"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "published_at": "2026-07-09T20:22:28+00:00",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the"
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "published_at": "2026-07-10T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-      "published_at": "2026-07-09T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba"
+      "title": "Sperm donors need limits, says a European fertility group",
+      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "published_at": "2026-07-10T09:00:00+00:00",
+      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have"
     },
     {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Four nuclear reactors hit a big milestone in the US",
-      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-      "published_at": "2026-07-09T08:00:00+00:00",
-      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+      "url": "https://36kr.com/p/3890553690192384?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>“全球首款智能体手机”已备货8万至10万台？知情人士：假的</p>\n  <p>百亿私募数量达142家，再次刷新历史纪录</p>\n  <p>三星李在镕拟于7月底赴美会晤英伟达黄仁勋</p>\n  <p>德国大众拟大裁员，最高或裁减12万个岗位</p>\n  <p>OpenAI高管层再现变动，首席运营官因病离职</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>长鑫科技，承销团阵容公布&nbsp;</strong></p>\n  <p>长鑫科技IPO进入发行倒计时，这家“国"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+      "url": "https://36kr.com/p/3889516712065799?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260710/v2_65133adab2b0471884c9250eef7228ae@6221844_oswg362165oswg1269oswg715_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2400</strong>字，建议"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
+      "url": "https://36kr.com/p/3889551814916614?f=rss",
+      "published_at": null,
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3889116670016000\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元</strong></a></p>\n  <p>参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
+      "url": "https://36kr.com/p/3889524008303363?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260710/v2_df085fd87c51435797d88ce8cac144ac@6221844_oswg3271346oswg2226oswg1426_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">徕芬珠海超级工厂（图源/企业）</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>7月"
     },
     {
       "source": "36氪",
@@ -209,7 +249,7 @@
       "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
       "url": "https://36kr.com/p/3883780969083137?f=rss",
       "published_at": null,
-      "summary": "<p>先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真��地被留下来？</p>\n  <p>一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。</p>\n  <p>更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让人分不清是真心还是广告。</p>\n  <p>这也是我们做 36 氪 AI 测评的初衷：<strong>我们希望搭建一套标准化、客观公正的评测平台，不仅是AI行业的大众点评"
+      "summary": "<p>先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真正地被留下来？</p>\n  <p>一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。</p>\n  <p>更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让人分不清是真心还是广告。</p>\n  <p>这也是我们做 36 氪 AI 测评的初衷：<strong>我们希望搭建一套标准化、客观公正的评测平台，不仅是AI行业的大众点评，"
     },
     {
       "source": "36氪",
@@ -226,38 +266,6 @@
       "url": "https://36kr.com/p/3889047503354625?f=rss",
       "published_at": null,
       "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>花呗就还款页面无法正常打开致歉</li>\n   <li>中芯国际市值超越贵州茅台</li>\n   <li>iPhone 18 Pro Max成本大涨，起步价或维持在9999元</li>\n   <li>英伟达将与Hugging Face合作开发机器人开源模型</li>\n   <li>美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>老乡鸡五年五次冲击上市失败</strong></p>\n  <p>LXJ International Holdings"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
-      "url": "https://36kr.com/p/3888567864851204?f=rss",
-      "published_at": null,
-      "summary": "<p>7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0.000s 无极容差应变” 技术特性，在同期发布的三大类别 “���球首例” 应用成果中得到充分展现，正式为行业带来彻底击穿自动充电各场景规模商用核心困局的通用解法。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260709/v2_80fcf079e0c54966a43e8a606331"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
-      "url": "https://36kr.com/p/3888289009678854?f=rss",
-      "published_at": null,
-      "summary": "<p>Alpha will be made, not found。</p>\n  <p>麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融资，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭式PE募资在2025年同比下滑17%，亚太地区的跌幅接近一半。</p>\n  <p>中国市场的故事更加复杂。钱的源头变了，美元基金退潮之后，国资和产业资本接过了定价权，也接过了游戏规则的书写权。退出的通道也变了，PPT里的“多元化退出策略”，变成了真实发生的交易（至少是一部分GP不"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "2026·Under36丨绕过旧答案的一代人",
-      "url": "https://36kr.com/p/3888279614274048?f=rss",
-      "published_at": null,
-      "summary": "<p>为什么颠覆性的突破总是由年轻人完成？</p>\n  <p>因为他们还没有被旧范式驯服。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260709/v2_f03cb1b75955471cb9807dccd1cb6038@5352461_oswg269oswg900oswg80_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处：<strong>他们要么"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报｜大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线",
-      "url": "https://36kr.com/p/3888230589152008?f=rss",
-      "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3888150636116488\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>LG Innotek将在越南海防投资10亿美元新建半导体基板厂</strong></a></p>\n  <p>据6月8日声明，LG集团子公司、韩国电子元件制造商LG Innotek已获得越南海防经济区管理委员会（HEZA）颁发的投资登记证，将投资10亿美元在海防自由贸易区内的DEEP C海防2工业园新建半导体"
     }
   ]
 }

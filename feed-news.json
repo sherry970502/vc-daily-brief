@@ -1,207 +1,135 @@
 {
-  "updated_at": "2026-07-11T04:19:27.246756+00:00",
+  "updated_at": "2026-07-12T04:31:03.114249+00:00",
   "period_hours": 24,
-  "article_count": 33,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "published_at": "2026-07-11T01:01:28+00:00",
-      "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded."
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "published_at": "2026-07-12T00:16:06+00:00",
+      "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same wind"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "published_at": "2026-07-11T00:29:25+00:00",
-      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation."
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "published_at": "2026-07-11T22:00:00+00:00",
+      "summary": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "published_at": "2026-07-10T23:55:07+00:00",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "published_at": "2026-07-11T17:30:00+00:00",
+      "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "published_at": "2026-07-10T21:51:55+00:00",
-      "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "published_at": "2026-07-10T21:00:29+00:00",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-      "published_at": "2026-07-10T17:42:36+00:00",
-      "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "published_at": "2026-07-10T17:17:12+00:00",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-      "published_at": "2026-07-10T17:11:51+00:00",
-      "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For Cyber And AI Infrastructure Lead",
-      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
-      "published_at": "2026-07-10T18:11:59+00:00",
-      "summary": "AI once again dominated venture funding this week, claiming five of the 10 largest announced rounds, including a pair of billion-dollar financings for AI infrastructure and cybersecurity that led the pack."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork",
-      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/",
-      "published_at": "2026-07-10T11:00:46+00:00",
-      "summary": "The five most intriguing startup deals from the past month include one that’s simultaneously developing AI models for biology, a company that wants to prevent modern day private markets from the kind of paperwork crisis that shut down Wall Street in the ‘60s, and AI agents that can dispatch plumbers"
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "published_at": "2026-07-11T14:13:00+00:00",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Apple accuses OpenAI, and former design star Jony Ive’s io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
-      "url": "https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/",
-      "published_at": "2026-07-10T23:19:36+00:00",
-      "summary": "The lawsuit alleges that two former Apple employees now working at OpenAI stole confidential data including information about unreleased hardware products and technical specifications."
+      "title": "The U.S. and Iran can’t agree on fully reopening the Strait of Hormuz. The solution could be straight out of the Old Testament",
+      "url": "https://fortune.com/2026/07/11/strait-of-hormuz-separate-corridors-oman-iran-us-military-protection-persian-gulf-oil/",
+      "published_at": "2026-07-11T23:54:27+00:00",
+      "summary": "Oman has drafted a proposal to manage traffic in the strait through two separately controlled routes, sources told CNN."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI’s latest AI model likely has similar cyber vulnerabilities to one that led to U.S. export controls on Anthropic’s Fable, British agency says",
-      "url": "https://fortune.com/2026/07/10/openai-gpt-5-6-sol-jailbreaks-cyber-attacks-similar-to-security-flaw-that-led-u-s-government-to-force-anthropic-to-disable-fable-5/",
-      "published_at": "2026-07-10T23:14:25+00:00",
-      "summary": "U.K. AI agency found 'universal jailbreaks' that unlocked dangerous cyber capabilities in OpenAI's GPT-5.6"
+      "title": "U.S. military strikes Iran in response to attack on civilian vessel in Strait of Hormuz that Tehran said was using an ‘unauthorized route’",
+      "url": "https://fortune.com/2026/07/11/iran-strait-of-hormuz-closed-vessel-strike-unauthorized-route/",
+      "published_at": "2026-07-11T23:49:54+00:00",
+      "summary": "The announcement followed Iran and Oman’s foreign ministers meeting on Saturday to discuss the strait that lies between them."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Memory chip giant SK Hynix jumps nearly 13% in Wall Street debut as AI frenzy powers biggest initial share sale in the U.S. by a foreign company",
-      "url": "https://fortune.com/2026/07/10/sk-hynix-stock-adr-debut-memory-chips-ai-biggest-initial-share-offering-us-foreign-company/",
-      "published_at": "2026-07-10T22:34:49+00:00",
-      "summary": "SK Hynix priced its American depositary receipts, or ADRs, at $149 each Thursday. They opened Friday at $170 and closed at $168.01."
+      "title": "Ukraine building Patriots is in Lockheed’s interest, McCaul says",
+      "url": "https://fortune.com/2026/07/11/ukraine-patriot-missile-defense-russia-lockheed-rtx/",
+      "published_at": "2026-07-11T23:12:16+00:00",
+      "summary": "Trump told Zelenskyy during a meeting at a NATO summit this week that the US will be “giving a license to you” to make Patriots."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Billionaires warned New York would scare off business. Anthropic and Airbnb just made their biggest bets on the city yet",
-      "url": "https://fortune.com/2026/07/10/billionaires-warned-nyc-flight-anthropic-airbnb/",
-      "published_at": "2026-07-10T20:35:41+00:00",
-      "summary": "Not only are they expanding their footprint, they’re also doubling headcount. Anthropic said it plans to have more than 1,000 employees by end of year."
+      "title": "Le Pen extends lead in French election poll after court ruling",
+      "url": "https://fortune.com/2026/07/11/marine-le-pen-france-president-election-poll-rn-far-right-national-rally-party/",
+      "published_at": "2026-07-11T23:01:55+00:00",
+      "summary": "The far-right National Rally candidate would get between 34% and 35.5% of the vote in the first round if it were to take place this Sunday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet ‘Freedom Fuel Network’ stations, a new chain with cheaper gas and mysterious origins",
-      "url": "https://fortune.com/2026/07/10/freedom-fuel-network-stations-cheap-gas-donald-trump-white-house-pennsylvania-new-jersey/",
-      "published_at": "2026-07-10T21:06:29+00:00",
-      "summary": "Freedom Fuel Network sells gasoline at prices well below the average, but the chain has revealed little about itself."
+      "title": "Homes are in short supply in the U.S. How a new law could change the market",
+      "url": "https://fortune.com/2026/07/11/home-supply-shortage-21-century-road-to-housing-act/",
+      "published_at": "2026-07-11T22:55:06+00:00",
+      "summary": "Its impact might not be felt for years, however, given the often long timelines on construction projects and state and local statutes that limit development."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "When Erling Haaland isn’t playing for Norway in the World Cup, he’s investing in a chess championship and playing an animated Viking",
-      "url": "https://fortune.com/2026/07/10/when-erling-haaland-isnt-playing-norway-world-cup-investing-chess-championship-animated-viking/",
-      "published_at": "2026-07-10T15:22:04+00:00",
-      "summary": "Soccer star Erling Haaland has led Norway to the World Cup quarterfinals—but off the pitch, he’s investing in chess and starring in a Viking movie."
+      "title": "Trump hints at a ‘dead man’s switch’ if Iran assassinates him. But Vice President JD Vance would make the call",
+      "url": "https://fortune.com/2026/07/11/trump-dead-mans-switch-iran-assassination-vice-president-jd-vance/",
+      "published_at": "2026-07-11T22:46:34+00:00",
+      "summary": "If Trump were killed, the transfer of power to his successor is governed by the 25th Amendment and the Presidential Succession Act of 1947."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "This summer’s hottest IPOs are minting a new class of ultra-high-net-worth ‘IPO Bros’—and family offices are changing how they approach them",
-      "url": "https://fortune.com/2026/07/10/hot-ipo-summer-ultra-high-net-worth-ipo-bros-family-offices/",
-      "published_at": "2026-07-10T19:27:41+00:00",
-      "summary": "A hot IPO summer means family offices are learning how to navigate newly minuted UHNW \"IPO Bros\" who have that entrepreneurial spirit."
+      "title": "The rise of white-collar socialists: ‘A lot of tech workers are working class’",
+      "url": "https://fortune.com/2026/07/11/white-collar-socialists-tech-workers-working-class-dsa-members-blue-collar-economic-anxiety/",
+      "published_at": "2026-07-11T20:31:34+00:00",
+      "summary": "A recently surfaced survey of Democratic Socialists of America members showed that 9% worked in the tech sector in 2021."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Taylor Swift paid New York City more than $160,000 to cover the costs tied to her wedding, Mayor Zohran Mamdani confirmed",
-      "url": "https://fortune.com/2026/07/10/taylor-swift-paid-new-york-city-mayor-zohran-mamdani-160000-permits-police-overtime/",
-      "published_at": "2026-07-10T19:24:36+00:00",
-      "summary": "As they tied the knot, they also tied the city in gridlock as police barricaded streets around MSG and permits were filed to keep traffic flowing."
+      "title": "Meta added a privacy-safety feature to its AI glasses but is reportedly testing a ‘super-sensing’ prototype",
+      "url": "https://fortune.com/2026/07/11/meta-ray-ban-smart-glasses-camera-led-light-privacy-safeguard-super-sensing-ai-prototype-covert-recording-concerns/",
+      "published_at": "2026-07-11T10:00:00+00:00",
+      "summary": "Meta's new feature disables its smart glasses' camera if users tamper with the LED recording light."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
-      "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
-      "published_at": "2026-07-10T20:58:32+00:00",
-      "summary": "<p>An enterprise AI agent answers with total confidence, but the number is wrong. Nobody catches it until someone traces it back to a stale metric definition or a document the retrieval system never pulled. The model did not fail. The context it was given did.</p><p>In the past six months, 57% of en"
+      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+      "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+      "published_at": "2026-07-11T16:00:00+00:00",
+      "summary": "<p>Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant <a href=\"https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-ag"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
-      "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
-      "published_at": "2026-07-10T20:20:00+00:00",
-      "summary": "<p><a href=\"https://openai.com/\">OpenAI</a> on Thursday launched <a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\">ChatGPT Work</a>, a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platf"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "这个周末，科技投资人都得飞一趟成都",
+      "url": "https://36kr.com/p/3892096788396806?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_75afdcf0da7b4484b5d9e07781e9deec@5579416_oswg110056oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">新能源基金的下半场</p>\n  <p>作者 | 吕敬之编辑 | 吾人</p>\n  <p>来源 |&nbsp;融中财经</p>\n  <p>一只新能源"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
-      "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
-      "published_at": "2026-07-10T19:29:07+00:00",
-      "summary": "<p>Enterprise companies are running AI agents ahead of the controls needed to manage them — and they deployed that way knowingly. That is the central finding from VentureBeat Research&#x27;s June survey of 573 technical leaders at companies with 100 or more employees, fielded across five parallel su"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "url": "https://36kr.com/p/3892027841362694?f=rss",
+      "published_at": null,
+      "summary": "<p>林方舟 发自 凹非寺</p>\n  <p>在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。</p>\n  <p>首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A广告公司都应该来学学。（doge）</p>\n  <p>具身数采类似的“花活”还有不少：有的为了采数据免费上门保洁（欢迎来我家），有的把数采做成VR游戏，还有的把机器人接入互联网，采集员不用跑到数采工厂，远程就能“云操控”。</p>\n  <p class=\"image"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
-      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
-      "published_at": "2026-07-10T18:21:13+00:00",
-      "summary": "<p>Enterprise AI teams are giving agents more freedom at the same moment their confidence in automated testing is collapsing.</p><p>Half of enterprises have deployed an AI agent or LLM feature that passed internal evaluations and yet still caused a customer-facing failure — one in four more than onc"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
-      "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
-      "published_at": "2026-07-10T16:14:24+00:00",
-      "summary": "<p>The vast majority of business data is tabular — living in data warehouses, CRMs, and financial ledgers — yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and retraining pipelines"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "published_at": "2026-07-10T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Sperm donors need limits, says a European fertility group",
-      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-      "published_at": "2026-07-10T09:00:00+00:00",
-      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
+      "url": "https://36kr.com/p/3891132709206784?f=rss",
+      "published_at": null,
+      "summary": "<p>文 | 周鑫雨</p>\n  <p>编辑 | 张雨忻</p>\n  <p>《智能涌现》独家获悉，2026 年 7 月 11 日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。</p>\n  <p>过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了 10 倍，并在 2026 年 6 月，跻身“万亿港元俱乐部”——这个数字，是百度市值的近 3 倍，并且超过了小米。7 月 8 日，首批股票解禁后，智谱依然稳住了股价。</p>\n  <p>这也是当下 AI 大模型赛道，最性感的故事：押注对的技术方向，换来斐然市场口碑和商业化成绩。</p>\n  <p>抽丝剥茧，智谱起飞的根源，离"
     },
     {
       "source": "36氪",
@@ -242,30 +170,6 @@
       "url": "https://36kr.com/p/3888284244720131?f=rss",
       "published_at": null,
       "summary": "<p>文 | 胡香赟</p>\n  <p>编辑 | 海若镜</p>\n  <p>36氪获悉，前传奇生物创始人/首席科学家范晓虎创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。</p>\n  <p>过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一关又一关。</p>\n  <p>在中国细胞与基因治疗（CGT）领域，“范晓虎”这个名字很难被绕开。2022年3月，他主导的传奇生物细胞药物西达基奥仑赛在欧美上"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
-      "url": "https://36kr.com/p/3883780969083137?f=rss",
-      "published_at": null,
-      "summary": "<p>先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真正地被留下来？</p>\n  <p>一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。</p>\n  <p>更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让人分不清是真心还是广告。</p>\n  <p>这也是我们做 36 氪 AI 测评的初衷：<strong>我们希望搭建一套标准化、客观公正的评测平台，不仅是AI行业的大众点评，"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
-      "url": "https://36kr.com/p/3889141540370949?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260710/v2_27f38c78baa0435ebc1c560de3f3bb69@6221844_oswg1150800oswg1268oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3100</strong>字，建议"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
-      "url": "https://36kr.com/p/3889047503354625?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>花呗就还款页面无法正常打开致歉</li>\n   <li>中芯国际市值超越贵州茅台</li>\n   <li>iPhone 18 Pro Max成本大涨，起步价或维持在9999元</li>\n   <li>英伟达将与Hugging Face合作开发机器人开源模型</li>\n   <li>美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>老乡鸡五年五次冲击上市失败</strong></p>\n  <p>LXJ International Holdings"
     }
   ]
 }

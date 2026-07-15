@@ -1,183 +1,223 @@
 {
-  "updated_at": "2026-07-14T04:09:50.872474+00:00",
+  "updated_at": "2026-07-15T04:11:29.810207+00:00",
   "period_hours": 24,
-  "article_count": 30,
+  "article_count": 29,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "published_at": "2026-07-14T02:46:42+00:00",
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more."
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "published_at": "2026-07-15T00:27:04+00:00",
+      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "published_at": "2026-07-14T00:45:00+00:00",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "published_at": "2026-07-14T23:10:02+00:00",
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies."
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "published_at": "2026-07-14T22:22:24+00:00",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
-      "url": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
-      "published_at": "2026-07-13T23:58:27+00:00",
-      "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel."
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "published_at": "2026-07-14T22:07:42+00:00",
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "published_at": "2026-07-13T23:31:18+00:00",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "published_at": "2026-07-14T21:50:11+00:00",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "published_at": "2026-07-13T20:59:00+00:00",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses."
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "published_at": "2026-07-14T19:42:27+00:00",
+      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "published_at": "2026-07-13T20:00:17+00:00",
-      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI."
+      "title": "Anthropic’s newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "published_at": "2026-07-14T19:41:27+00:00",
+      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "published_at": "2026-07-13T18:22:10+00:00",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims."
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "published_at": "2026-07-14T19:39:39+00:00",
+      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\""
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Welcome To The ‘Show Me’ Era: Sapphire Ventures’ Anders Ranum On What Separates Winning AI Startups From The Rest",
-      "url": "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/",
-      "published_at": "2026-07-13T11:00:52+00:00",
-      "summary": "To understand how institutional capital is navigating the gap between AI's public market software multiples and private market valuations, Crunchbase News recently interviewed Anders Ranum, a partner at Sapphire Ventures, who shared how he strikes an investment balance."
+      "title": "So Far, 2026 Is A Solid Year For Cybersecurity Startup Funding",
+      "url": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
+      "published_at": "2026-07-14T11:00:12+00:00",
+      "summary": "The first quarter of 2026 was a more robust period for funding than the second, with privacy and cybersecurity startups pulling in $4.4 billion in seed- through growth-stage financing in Q2. That marked a decline of around 30% from the prior quarter and year-ago levels."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. launches new strikes on Iran while Tehran mocks Trump’s reversal on charging for Hormuz transits — ‘20% is of course too much. We will be fair’",
-      "url": "https://fortune.com/2026/07/13/us-strikes-iran-naval-blockade-trump-reversal-hormuz-fees/",
-      "published_at": "2026-07-13T23:07:05+00:00",
-      "summary": "“POTUS is absolutely right. Whoever provides secure and safe passage of commercial vessels through the Strait of Hormuz should be compensated for this service.”"
+      "title": "Mitsubishi takes over $7.5 billion in U.S. natural gas fields from Aethon, deepening Japanese bet on LNG and the AI boom",
+      "url": "https://fortune.com/2026/07/14/mitsubishi-takes-over-7billion-gas-fields-aethon-japanese-push-lng-ai/",
+      "published_at": "2026-07-15T01:17:05+00:00",
+      "summary": "Mitsubishi's biggest buy ever is a big best on global gas demand and the AI boom."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "McConnell’s absence could jeopardize Republicans’ defense spending agenda as the Iran war escalates",
-      "url": "https://fortune.com/2026/07/13/lindsey-graham-mitch-mcconnell-senate-defense-spending-budget-bill-in-jeopardy/",
-      "published_at": "2026-07-13T22:34:01+00:00",
-      "summary": "The Trump administration has asked Congress for an additional $350 billion in defense funds amid the reignited Iran war."
+      "title": "An SEC email address mix-up is causing confusion and threatening to disrupt its proposal to scrap quarterly reporting requirements",
+      "url": "https://fortune.com/2026/07/14/dispute-over-sec-comments-fuels-new-controversy-over-rule-to-scrap-quarterly-earnings/",
+      "published_at": "2026-07-14T23:56:49+00:00",
+      "summary": "The SEC has received more than 66,000 comment submissions on the controversial rule, and now, claims that there may have been a typo in the email address published in the Federal Register, could cause big headaches."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Stolen laptops, data breaches, secret moles, and recruiting-as-espionage. Here are the wildest claims in Apple’s lawsuit against OpenAI",
-      "url": "https://fortune.com/2026/07/13/apple-lawsuit-against-openai-stolen-trade-secrets-wildest-claims/",
-      "published_at": "2026-07-13T19:49:22+00:00",
-      "summary": "Apple's lawsuit against OpenAI for stealing trade secrets reads like a corporate spy thriller"
+      "title": "The secrets of an unheralded AI success story",
+      "url": "https://fortune.com/2026/07/14/c-h-robinson-ai-success-secrets-dave-bozeman/",
+      "published_at": "2026-07-14T19:14:11+00:00",
+      "summary": "Logistics company C.H. Robinson has seen a 45% productivity gain from deploying AI agents. Its CEO Dave Bozeman explains how he's found ROI from AI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Elon Musk and Sam Altman are accusing each other of scamming investors as SpaceX and OpenAI jockey to lead AI revolution",
-      "url": "https://fortune.com/2026/07/13/elon-musk-sam-altman-feud-scam-accusations-spacex-openai-ipos-grok-gpt-apple-lawsuit/",
-      "published_at": "2026-07-13T19:42:06+00:00",
-      "summary": "A social media fight erupted after their companies launched competing AI models one day apart."
+      "title": "A new FCC proposal could spell the end of the burner phone",
+      "url": "https://fortune.com/2026/07/14/fcc-proposal-burner-phone-privacy-voip-kyc-data/",
+      "published_at": "2026-07-14T19:05:40+00:00",
+      "summary": "Burner phones may be a thing of the past as a new FCC proposal will require carriers to collect a customer's name, address, ID number, and alternate phone."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "America pays workers just 27% of what its wealth allows — the worst in the OECD",
-      "url": "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/",
-      "published_at": "2026-07-13T19:20:25+00:00",
-      "summary": "It does better at creating conditions where people can find a job, scoring about 75%, ranking 10th."
+      "title": "Topgolf’s CEO thinks the sport’s next star could get their start at one of its driving ranges",
+      "url": "https://fortune.com/2026/07/14/topgolf-ceo-david-mckillips-golf-star-entertainment-family-venue/",
+      "published_at": "2026-07-14T17:59:23+00:00",
+      "summary": "The former Chuck E. Cheese CEO who clawed the chain out of a $1 billion in debt is bringing family-friendly entertainment to a Topgolf near you."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The real reason college costs 43% of family income isn’t tuition",
-      "url": "https://fortune.com/2026/07/13/college-tuition-family-income-data/",
-      "published_at": "2026-07-13T19:14:04+00:00",
-      "summary": "A 667-college database spanning 1840 to 2020 shows tuition growth actually slowed after 1990; sticker prices did not drive the affordability crisis."
+      "title": "Trump reduces size of two national monuments by 90% in efforts to expand land development",
+      "url": "https://fortune.com/2026/07/14/trump-national-monuments-republican-conservation-democrat-development/",
+      "published_at": "2026-07-14T21:44:08+00:00",
+      "summary": "President Trump issued proclamations to remove protections and roll back rules for conservation to open up property development in taxpayer-owned land"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Pete Hegseth’s DEI order just put Scouting America’s future at stake",
-      "url": "https://fortune.com/2026/07/13/hegseth-scouting-america-dei-order/",
-      "published_at": "2026-07-13T19:08:22+00:00",
-      "summary": "Defense Secretary Pete Hegseth's demand that Scouting America drop diversity initiatives revives a fight settled in 2019, when it began admitting girls."
+      "title": "New experimental Alzheimer’s drug shows potential after study shows slower cognitive decline",
+      "url": "https://fortune.com/2026/07/14/experimental-alzheimers-drug-cognitive-decline-slows/",
+      "published_at": "2026-07-14T21:42:54+00:00",
+      "summary": "A study on Biogen's diranersen found it slowed cognitive decline and has promise in treating Alzheimer's disease, researchers found."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX and Amazon are tech doppelgangers worth $4.5 trillion—and they’re headed for a collision",
-      "url": "https://fortune.com/2026/07/13/spacex-amazon-valuation-musk-bezos-ai-rmarket-stock-invest/",
-      "published_at": "2026-07-13T07:01:00+00:00",
-      "summary": "Elon Musk’s space-and-AI company lost $4.9 billion last year and trades at 97 times sales. Investors need a lot to go right."
+      "title": "U.S.-Russia space crew arrives at the ISS despite bitter space race past",
+      "url": "https://fortune.com/2026/07/14/nasa-and-russia-launch-joint-crew-to-international-space-station/",
+      "published_at": "2026-07-14T21:39:39+00:00",
+      "summary": "The joint mission comes as broader cooperation stalls and Russia pivots toward China on future space projects."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
-      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
-      "published_at": "2026-07-13T16:06:36+00:00",
-      "summary": "<p>Model routing is becoming a key component of the enterprise AI stack, dynamically sending prompts to the right AI model to optimize speed and costs. However, current frameworks mostly treat routing as a static classification problem, which severely limits their potential.</p><p>A new open-source"
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+      "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+      "published_at": "2026-07-14T13:00:00+00:00",
+      "summary": "<p><a href=\"https://1password.com/\">1Password</a> on Tuesday launched <a href=\"https://1password.com/product/saas-manager\">AI Spend and Consumption Management</a>, a new capability embedded in its SaaS Manager platform that gives IT and finance teams a unified, real-time view of how their organizati"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
-      "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-      "published_at": "2026-07-13T13:33:54+00:00",
-      "summary": "<p>Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant <a href=\"https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-ag"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The desktop infrastructure problem that Kubernetes finally solves",
-      "url": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
-      "published_at": "2026-07-13T07:00:00+00:00",
-      "summary": "<p><i>Presented by </i><a href=\"https://kasm.com/?utm_campaign=46469231-1.19%20Release%20Campaign&amp;utm_source=VentureBeat&amp;utm_medium=Paid%20Article&amp;utm_content=venture_beat_kasm_home_page\"><i>Kasm Technologies</i></a></p><hr /><p>Enterprise infrastructure teams have spent the better part"
+      "title": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
+      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+      "published_at": "2026-07-14T13:00:00+00:00",
+      "summary": "<p><a href=\"https://www.canva.com/\">Canva</a> on Tuesday launched <a href=\"https://www.canva.com/ai-code-generator/\">Canva Code 2.0</a>, a major upgrade to its AI-powered coding tool that lets users build interactive websites, apps, and experiences using plain-language prompts — and then edit the re"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "published_at": "2026-07-13T18:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo"
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "published_at": "2026-07-14T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window in"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: a donor conception cap and world models for AI",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "published_at": "2026-07-13T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a"
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "published_at": "2026-07-14T08:00:00+00:00",
+      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+      "url": "https://36kr.com/p/3896298534520705?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。</p>\n  <p>追知工科成立于2024年2月，是一家<strong>聚焦垂域工业智能体</strong>的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研究院战略孵化企业。公司希望通过将人工智能技术引入工业制造场景，提升复杂基石工艺制程环节的自动化和智能化水平，重点解决制造业柔"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
+      "url": "https://36kr.com/p/3896295689569922?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。</p>\n  <p>本轮融资完成后，<strong>智创芯将与深开鸿围绕开源鸿蒙（OpenHarmony）与开源RISC-V的融合展开战略合作</strong>，共同推进“双开源”软硬件生态建设，加速相关技术在智能终端等产业场景落地。</p>\n  <p>智创芯成立于2022年"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
+      "url": "https://36kr.com/p/3896138695706497?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>小米机器人首次实现汽车工厂柔性工件的长时作业</li>\n   <li>SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备</li>\n   <li>国际金价持续回调，后市关注美联储政策路径</li>\n   <li>海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域</li>\n   <li>韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲击研究应对方案</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>LV起诉国家知识产权局，案件定于16日开庭审理</strong></p"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+      "url": "https://36kr.com/p/3895322613185543?f=rss",
+      "published_at": null,
+      "summary": "<h2>大公司：</h2>\n  <p><strong>中国神华：预计上半年净利润同比增长6.9%-21.1%</strong></p>\n  <p>36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。</p>\n  <p><strong>中国人寿：预计上半年净利润同比增长约215%-235%</strong></p>\n  <p>36氪获悉，中国人寿公告，预计2026年半年度归属于母公司股东的净利润约1289.33亿元到1371.19亿元，"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "估值110亿美元，这家超级独角兽要帮初创公司从Day0走向全球",
+      "url": "https://36kr.com/p/3895355856403456?f=rss",
+      "published_at": null,
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260714/v2_e96c813c6e344327be8c7f02ba97a9ee@5722974_oswg297210oswg2378oswg1010_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>凌晨三点，一家刚成立不久的AI创业公司，可能已经在同时服务旧金山的客户、采购首尔的技术服务，并与拉各斯的合作伙伴签下合同。这家公司甚至还没有招到第一名"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "🎁36氪放福利啦！体验10秒，即可免费抽AirPods 4、Redmi手环、超人帆布包！",
+      "url": "https://36kr.com/p/3894914381970438?f=rss",
+      "published_at": null,
+      "summary": "<h3><strong>无门槛参与，所有用户都可以免费抽奖！</strong></h3>\n  <p>只需打开微信，浏览10秒<strong>36氪企业全情报</strong>，<strong>任意订阅一家企业</strong>，即可获得抽奖资格。</p>\n  <p>无需任何额外操作，简单体验即可参与，<strong>AirPods 4、Redmi手环3、36氪限定超人帆布包</strong>等好礼随机送出，人人都有机会中奖！</p>\n  <p><strong>扫描下方二维码即可参与，或直接点击参与：</strong><a href=\"https://wxmpurl.cn/KEeJSzRvNFr"
     },
     {
       "source": "36氪",
@@ -194,54 +234,6 @@
       "url": "https://36kr.com/p/3894821059918855?f=rss",
       "published_at": null,
       "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260714/v2_0043edee5a544714b27ddfd07deb51b6@6221844_oswg188445oswg800oswg576_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">触觉手套（图源/企业）</p>\n  <blockquote>\n   <p>本文约<strong>2400</strong"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
-      "url": "https://36kr.com/p/3893976502287618?f=rss",
-      "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。</p>\n  <p>融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球市场拓展。公司将进一步完善全球制造与交付能力，加快中东、欧洲及"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
-      "url": "https://36kr.com/p/3894729787767810?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>韩国法院禁止两名前三星员工就职于SK海力士</li>\n   <li>字节探索自动驾驶，Seed世界模型团队负责</li>\n   <li>巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险</li>\n   <li>科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列</li>\n   <li>美众议院本周将表决永久实行夏令时法案</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下</strong></p>\n  <p"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
-      "url": "https://36kr.com/p/3893943402707460?f=rss",
-      "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>洽洽食品：上半年净利润同比预增170.75%—198.96%</strong></p>\n  <p>36氪获悉，洽洽食品披露业绩预告，预计2026年上半年归属于上市公司股东的净利润为2.4亿元—2.65亿元，同比增长170.75%—198.96%。</p>\n  <p><strong>好上好：上半年净利润同比预增301.65%—376.03%</strong></p>\n  <p>36氪获悉，好上好披露业绩预告，预计2026年半年度归属于上市公司股东的净利润1.35亿元—1.6亿元，同比增长301.65%—376.03%。</p>\n  <p><s"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
-      "url": "https://36kr.com/p/3893815451417347?f=rss",
-      "published_at": null,
-      "summary": "<p>36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。</p>\n  <p>而自动驾驶与世界模型的技术路线有交叠之处。</p>\n  <p>另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。</p>\n  <p>部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目前字节的自动驾驶项目已进入早期筹备状态。字节向不少头部辅助驾驶或自动驾驶人才发出了邀约，一些看好字节"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "潜入《遗忘之海》，我才读懂网易的心气",
-      "url": "https://36kr.com/p/3893769618569985?f=rss",
-      "published_at": null,
-      "summary": "<p>文丨小葵</p>\n  <p>编辑丨果脯</p>\n  <p>7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海》，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。</p>\n  <p>这款怪诞木偶风的航海游戏，还没出海就已经被盯上了。在公测前夕，这款游戏全网预约量已突破3600万，在TapTap、B站等多个平台预约榜冲至Top1。实机PV在B站播放破千万，光大证券预测其首年流水或达50亿元。</p>\n  <p>管理层连续三个季度在财报会上点名力挺，称其“令人耳目一新”。七年打磨、三端互通、五千万元创作者扶持计划，从研发资源到生态投入全部拉"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解",
-      "url": "https://36kr.com/p/3893457328700165?f=rss",
-      "published_at": null,
-      "summary": "<p>在微信私域生态中，抽奖几乎是商家长期使用的互动玩法：公众号涨粉、社群促活、线下门店引流、会员权益发放、品牌活动传播，都能看到它的身影。它的优势很直接：用户理解门槛低、参与反馈快、成本相对可控，也容易和微信内的公众号、社群、小程序、门店场景结合。</p>\n  <p>但也正因为抽奖看起来简单，很多活动最后只做成了“一次热闹”。参与人数有了，目标用户没沉淀；奖品发出去了，后续转化没接住；前端页面很热闹，后端领奖、核销、数据复盘却跟不上。</p>\n  <p>所以，一场高转化抽奖活动的关键，不在于能不能完成基础开奖，而在于奖品设置、参与条件、玩法形式、传播路径、中奖规则、领奖履约能否形成完整闭环。"
     }
   ]
 }

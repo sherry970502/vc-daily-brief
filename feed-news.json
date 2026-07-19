@@ -1,207 +1,119 @@
 {
-  "updated_at": "2026-07-18T04:07:16.952327+00:00",
+  "updated_at": "2026-07-19T04:27:46.591439+00:00",
   "period_hours": 24,
-  "article_count": 33,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "published_at": "2026-07-17T23:08:00+00:00",
-      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a g"
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "published_at": "2026-07-18T19:30:23+00:00",
+      "summary": "This isn’t the first time power outages have caused issues for Waymo."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "published_at": "2026-07-17T22:55:09+00:00",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "published_at": "2026-07-18T18:51:07+00:00",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "published_at": "2026-07-17T22:12:56+00:00",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "published_at": "2026-07-18T16:30:00+00:00",
+      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "published_at": "2026-07-17T21:20:47+00:00",
-      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
+      "title": "Federal employees can download TikTok on their work phones again",
+      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "published_at": "2026-07-18T15:54:24+00:00",
+      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "published_at": "2026-07-17T20:19:49+00:00",
-      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California."
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "published_at": "2026-07-18T14:32:00+00:00",
+      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "published_at": "2026-07-17T20:09:27+00:00",
-      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "published_at": "2026-07-17T19:49:53+00:00",
-      "summary": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "published_at": "2026-07-17T19:22:00+00:00",
-      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
-      "published_at": "2026-07-17T19:30:17+00:00",
-      "summary": "It was not a holiday week on the funding front, as a raft of largely AI-focused companies closed big rounds. The largest of these was a $1.5 billion financing to enterprise AI startup Fireworks AI, and a Series D for meal and delivery provider Wonder."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Where Argentina And Spain Are Scoring Startup Goals",
-      "url": "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/",
-      "published_at": "2026-07-17T11:00:21+00:00",
-      "summary": "We put together a snapshot of recent startup funding tallies and trends for World Cup finalists Spain and Argentina. While neither accounts for a particularly large share of global or even regional investment, both have an intriguing pipeline of recently funded companies. Here's what we found."
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "published_at": "2026-07-18T04:47:25+00:00",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Kevin O’Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation",
-      "url": "https://fortune.com/2026/07/17/kevin-oleary-defamation-lawsuit-chinese-communist-party-utah-data-center/",
-      "published_at": "2026-07-17T07:00:00+00:00",
-      "summary": "Two organizations targeted by O’Leary say his comments caused “significant economic losses, severe emotional distress, and ongoing threats to their physical safety.”"
+      "title": "Iran just crossed Trump’s red line for resuming all-out war as fighting continues to escalate with no end in sight",
+      "url": "https://fortune.com/2026/07/18/iran-trump-red-line-all-out-war-us-troops-deaths-oil-hormuz/",
+      "published_at": "2026-07-18T23:00:30+00:00",
+      "summary": "\"The collapse of even this minimal understanding could remove the last barrier between episodic confrontation and a forever war.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After the Supreme Court killed his first tariffs, Trump turns to a new legal workaround to impose 25% tariffs on Brazil and possibly others",
-      "url": "https://fortune.com/2026/07/17/donald-trump-supreme-court-tariffs-brazil-section-301-workaround-global-trade-politics/",
-      "published_at": "2026-07-17T21:28:52+00:00",
-      "summary": "Trump’s tariff program has gone from generating billions to forcing billions in refunds thanks to February's Supreme Court ruling."
+      "title": "Due to cyclospora risk, Taylor Farms expands recall of lettuce sourced from central Mexico and now includes products shipped to 27 states",
+      "url": "https://fortune.com/2026/07/18/cyclospora-taylor-farms-recall-lettuce-central-mexico-27-states/",
+      "published_at": "2026-07-18T22:56:07+00:00",
+      "summary": "The states include Texas, Florida, Pennsylvania, Illinois and New Jersey."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "So you want to buy a sports franchise? Why entering sports ownership gives the rich a ‘very elite and exclusive club’ with great tax benefits",
-      "url": "https://fortune.com/2026/07/17/why-every-billionaire-wants-a-piece-of-the-sports-business-now/",
-      "published_at": "2026-07-17T19:27:13+00:00",
-      "summary": "Increasingly, the founders and heads of companies like Home Depot, Walmart and LVMH are entering the sports world. There's a good reason for that."
+      "title": "U.S. military launches new airstrikes to ‘swiftly punish’ Iran for attack on Jordan that killed American troops",
+      "url": "https://fortune.com/2026/07/18/us-military-airstrikes-punish-iran-attack-jordan-american-troops-deaths/",
+      "published_at": "2026-07-18T22:46:47+00:00",
+      "summary": "U.S. Central Command said the strikes were designed to further degrade Iran’s ability to restrict the traffic of oil tankers through the Strait of Hormuz."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jensen Huang’s signature black leather jacket just sold at Sotheby’s for nearly $1 million—and the money is going to young tech builders",
-      "url": "https://fortune.com/2026/07/17/jensen-huang-black-leather-jacket-auction-sothebys-funds-going-to-philanthropy/",
-      "published_at": "2026-07-17T19:06:48+00:00",
-      "summary": "The Nvidia CEO's Tom Ford jacket, photomatched to a 2023 Taipei appearance, carried a $40,000-$60,000 estimate."
+      "title": "‘Dr. Doom’ Nouriel Roubini says we’re headed for universal basic income or ‘some form of socialism’ as AI revolutionizes work—He calls that optimistic",
+      "url": "https://fortune.com/2026/07/18/nouriel-roubini-universal-basic-income-socialism-ai-revolution-work-agi-government-stakes/",
+      "published_at": "2026-07-18T22:30:44+00:00",
+      "summary": "\"Essentially, the government is going to take over some fraction of the big tech firms.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Businesses are experimenting with cheaper Chinese AI models as U.S. rivals get more expensive",
-      "url": "https://fortune.com/2026/07/17/businesses-turn-to-cheaper-chinese-ai-models/",
-      "published_at": "2026-07-17T18:59:31+00:00",
-      "summary": "Lower costs and open-source availability are prompting some companies to experiment with Chinese AI models, even as security concerns remain."
+      "title": "Trump’s billionaire envoy to Italy is on a ‘coastal diplomacy’ tour with his super yacht, but it’s enraging people in Venice. ‘It’s gross’",
+      "url": "https://fortune.com/2026/07/18/trump-billionaire-ambassador-italy-tilman-fertitta-coastal-diplomacy-tour-super-yacht/",
+      "published_at": "2026-07-18T20:54:11+00:00",
+      "summary": "“The message is rather clear: For the new oligarchs to be able to travel around and normalize war and fascism, there must be local oligarchs.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI’s CFO: 4 questions that reveal if your AI spend is paying off",
-      "url": "https://fortune.com/2026/07/17/openai-cfo-4-questions-reveal-your-ai-spend-paying-off/",
-      "published_at": "2026-07-17T18:37:54+00:00",
-      "summary": "Forget cost per token. Sarah Friar argues CFOs should judge AI by the work it actually completes."
+      "title": "Walmart removes four Taylor Farms salads as recalls spread",
+      "url": "https://fortune.com/2026/07/18/walmart-taylor-farms-salads-recalls-cyclosporiasis-outbreak-diarrhea/",
+      "published_at": "2026-07-18T21:04:34+00:00",
+      "summary": "The retailer said Saturday there have been no confirmed illnesses associated with the items, which are sold under its Marketside store brand at select locations."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "FedEx’s CEO landed his first job by taking a roommate’s abandoned interview. Now he’s running a $75 billion shipping giant",
-      "url": "https://fortune.com/2026/07/17/fedex-ceo-raj-subramaniam-landed-first-job-career-advice/",
-      "published_at": "2026-07-17T18:06:46+00:00",
-      "summary": "Raj Subramaniam became the second-ever CEO of FedEx by taking every opportunity thrown his way—including his roommate’s job interview."
+      "title": "The cheapest resale ticket price for the World Cup final tops $6,400, while special hospitality seats are nearly $60,000 each",
+      "url": "https://fortune.com/2026/07/18/cheapest-resale-ticket-price-world-cup-final-argentina-spain-messi-yamal/",
+      "published_at": "2026-07-18T20:36:17+00:00",
+      "summary": "Sunday's final in East Rutherford, New Jersey is one expensive ticket."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets may have just experienced their second DeepSeek shock, this time thanks to a Chinese AI lab named after a Pink Floyd album",
-      "url": "https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/",
-      "published_at": "2026-07-17T18:15:40+00:00",
-      "summary": "K3 might undermine the conventional wisdom that U.S. firms can maintain their extended lead by simply outspending Chinese competitors on computing power."
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
-      "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
-      "published_at": "2026-07-17T20:51:30+00:00",
-      "summary": "<p><a href=\"https://www.capitalone.com/\">Capital One</a> on Thursday released <a href=\"https://github.com/capitalone/vulnhunter\">VulnHunter</a>, an open-source, agentic AI security tool that scans source code for exploitable vulnerabilities, maps out how an attacker would reach them, and proposes ta"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
-      "url": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
-      "published_at": "2026-07-17T20:46:55+00:00",
-      "summary": "<p>Intuit was an<a href=\"https://venturebeat.com/ai/how-intuit-plans-to-use-agentic-ai-to-automate-complex-business-tasks\"> early pioneer</a> in the usage of agentic AI, but its path to success has hardly been a straight line.</p><p>At<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
-      "url": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
-      "published_at": "2026-07-17T18:48:18+00:00",
-      "summary": "<p>Legacy infrastructure, not the models themselves, is what&#x27;s actually slowing AI agents down. That was the shared conclusion of three infrastructure leaders —<!-- --> from LinkedIn, Walmart, and Zendesk —<!-- --> at<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a>.</p><"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
-      "url": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
-      "published_at": "2026-07-17T17:49:19+00:00",
-      "summary": "<p><a href=\"https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch\">OpenClaw</a> has become one of the most widely adopted agentic frameworks, but it has yet to prove itself at enterprise scale. Agents need real credentials — API keys, OAuth tokens, service accounts — t"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "published_at": "2026-07-17T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "published_at": "2026-07-17T09:00:00+00:00",
-      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "published_at": "2026-07-17T08:57:32+00:00",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit"
+      "title": "Two U.S. troops are dead and another is missing after Iran attacks a base in Jordan as supreme leader calls Trump’s signature ‘worthless and invalid’",
+      "url": "https://fortune.com/2026/07/18/us-troops-killed-missing-iran-attacks-base-jordan-supreme-leader-trump/",
+      "published_at": "2026-07-18T18:02:42+00:00",
+      "summary": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded."
     },
     {
       "source": "36氪",

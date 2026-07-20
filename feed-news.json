@@ -1,183 +1,175 @@
 {
-  "updated_at": "2026-07-19T04:27:46.591439+00:00",
+  "updated_at": "2026-07-20T04:42:30.697844+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Waymo says San Francisco service has resumed after one-hour pause",
-      "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-      "published_at": "2026-07-18T19:30:23+00:00",
-      "summary": "This isn’t the first time power outages have caused issues for Waymo."
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "published_at": "2026-07-19T21:45:00+00:00",
+      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Kimi: Threat or menace?",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "published_at": "2026-07-18T18:51:07+00:00",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "published_at": "2026-07-19T21:16:07+00:00",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "published_at": "2026-07-18T16:30:00+00:00",
-      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year."
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "published_at": "2026-07-19T19:24:45+00:00",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Federal employees can download TikTok on their work phones again",
-      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "published_at": "2026-07-18T15:54:24+00:00",
-      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices."
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "published_at": "2026-07-19T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-      "published_at": "2026-07-18T14:32:00+00:00",
-      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S."
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "published_at": "2026-07-19T14:52:08+00:00",
+      "summary": "\"Everybody knows the Greeks are inside.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "published_at": "2026-07-18T04:47:25+00:00",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "published_at": "2026-07-19T14:00:00+00:00",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran just crossed Trump’s red line for resuming all-out war as fighting continues to escalate with no end in sight",
-      "url": "https://fortune.com/2026/07/18/iran-trump-red-line-all-out-war-us-troops-deaths-oil-hormuz/",
-      "published_at": "2026-07-18T23:00:30+00:00",
-      "summary": "\"The collapse of even this minimal understanding could remove the last barrier between episodic confrontation and a forever war.\""
+      "title": "Markets brace for return to all-out war in Iran amid rising U.S. death toll, while former NATO commander warns Suez Canal could be next",
+      "url": "https://fortune.com/2026/07/19/stock-market-today-dow-futures-oil-prices-us-iran-war-death-toll-suez-canal/",
+      "published_at": "2026-07-19T23:22:00+00:00",
+      "summary": "Retired Adm. James Stavridis told CNN on Sunday that Trump now has three options, and \"and none of them are good.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Due to cyclospora risk, Taylor Farms expands recall of lettuce sourced from central Mexico and now includes products shipped to 27 states",
-      "url": "https://fortune.com/2026/07/18/cyclospora-taylor-farms-recall-lettuce-central-mexico-27-states/",
-      "published_at": "2026-07-18T22:56:07+00:00",
-      "summary": "The states include Texas, Florida, Pennsylvania, Illinois and New Jersey."
+      "title": "Spain earns $51 million for World Cup win and runner-up Argentina gets $34 million as total payout for all 48 teams hits record-high $871 million",
+      "url": "https://fortune.com/2026/07/19/spain-world-cup-prize-51-million-second-place-argentina-34-million-total-payout-tournament-871-million/",
+      "published_at": "2026-07-19T22:12:30+00:00",
+      "summary": "The $51 million for Spain is a large sum, but it also pales in comparison to the fortunes that are spent on global soccer."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. military launches new airstrikes to ‘swiftly punish’ Iran for attack on Jordan that killed American troops",
-      "url": "https://fortune.com/2026/07/18/us-military-airstrikes-punish-iran-attack-jordan-american-troops-deaths/",
-      "published_at": "2026-07-18T22:46:47+00:00",
-      "summary": "U.S. Central Command said the strikes were designed to further degrade Iran’s ability to restrict the traffic of oil tankers through the Strait of Hormuz."
+      "title": "The U.K. is getting a new prime minister, but bond investors are really in charge and ‘hyper-reactive,’ Wall Street veteran says",
+      "url": "https://fortune.com/2026/07/19/uk-prime-minister-andy-burnham-bond-vigilantes-market-investors-gilt-yields/",
+      "published_at": "2026-07-19T20:00:54+00:00",
+      "summary": "\"But investors know it’s the bond market that will call the shots in the $4.2 trillion economy no matter who sits in the prime minister’s office.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Dr. Doom’ Nouriel Roubini says we’re headed for universal basic income or ‘some form of socialism’ as AI revolutionizes work—He calls that optimistic",
-      "url": "https://fortune.com/2026/07/18/nouriel-roubini-universal-basic-income-socialism-ai-revolution-work-agi-government-stakes/",
-      "published_at": "2026-07-18T22:30:44+00:00",
-      "summary": "\"Essentially, the government is going to take over some fraction of the big tech firms.\""
+      "title": "Box office debut for ‘The Odyssey’ tops ‘Oppenheimer’ and is Christopher Nolan’s best opening since ‘The Dark Knight Rises’ in 2012",
+      "url": "https://fortune.com/2026/07/19/box-office-debut-odyssey-oppenheimer-christopher-nolan-dark-knight-rises/",
+      "published_at": "2026-07-19T21:04:12+00:00",
+      "summary": "“The Odyssey” launched with an estimated $124.5 million in domestic ticket sales and another $139.6 million from overseas."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s billionaire envoy to Italy is on a ‘coastal diplomacy’ tour with his super yacht, but it’s enraging people in Venice. ‘It’s gross’",
-      "url": "https://fortune.com/2026/07/18/trump-billionaire-ambassador-italy-tilman-fertitta-coastal-diplomacy-tour-super-yacht/",
-      "published_at": "2026-07-18T20:54:11+00:00",
-      "summary": "“The message is rather clear: For the new oligarchs to be able to travel around and normalize war and fascism, there must be local oligarchs.”"
+      "title": "Prediction markets Swell to 27% of sports bets during World Cup",
+      "url": "https://fortune.com/2026/07/19/prediction-markets-sports-betting-world-cup-kalshi-polymarket-fan-duel-draftkings/",
+      "published_at": "2026-07-19T20:55:49+00:00",
+      "summary": "Kalshi, the biggest player, has repeatedly broken its own trading records during the World Cup."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Walmart removes four Taylor Farms salads as recalls spread",
-      "url": "https://fortune.com/2026/07/18/walmart-taylor-farms-salads-recalls-cyclosporiasis-outbreak-diarrhea/",
-      "published_at": "2026-07-18T21:04:34+00:00",
-      "summary": "The retailer said Saturday there have been no confirmed illnesses associated with the items, which are sold under its Marketside store brand at select locations."
+      "title": "U.S. military announces the death of another service member, blaming the ‘controlled detonation’ of a downed Iranian drone in Iraq",
+      "url": "https://fortune.com/2026/07/19/us-military-death-service-member-controlled-detonation-iranian-drone-iraq/",
+      "published_at": "2026-07-19T20:36:40+00:00",
+      "summary": "Since the war began, 17 U.S. service members have been killed."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The cheapest resale ticket price for the World Cup final tops $6,400, while special hospitality seats are nearly $60,000 each",
-      "url": "https://fortune.com/2026/07/18/cheapest-resale-ticket-price-world-cup-final-argentina-spain-messi-yamal/",
-      "published_at": "2026-07-18T20:36:17+00:00",
-      "summary": "Sunday's final in East Rutherford, New Jersey is one expensive ticket."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Two U.S. troops are dead and another is missing after Iran attacks a base in Jordan as supreme leader calls Trump’s signature ‘worthless and invalid’",
-      "url": "https://fortune.com/2026/07/18/us-troops-killed-missing-iran-attacks-base-jordan-supreme-leader-trump/",
-      "published_at": "2026-07-18T18:02:42+00:00",
-      "summary": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded."
+      "title": "The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumes in a few years as ships reject a U.S.-backed alternate route",
+      "url": "https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/",
+      "published_at": "2026-07-19T17:51:03+00:00",
+      "summary": "Goldman Sachs estimated that enough Mideast pipeline capacity could be added to insulate 75% of the pre-war Gulf exports by the end of 2028."
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
-      "url": "https://36kr.com/p/3900449325287305?f=rss",
+      "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
+      "url": "https://36kr.com/p/3902068392658566?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>月之暗面正式推出开源模型Kimi K3</p>\n  <p>智谱ARR达到10亿美元，半年增长15倍</p>\n  <p>国际足联：世界杯冠军将有戒指，每枚均有独立编号</p>\n  <p>国内成品油价7月17日晚上调</p>\n  <p>A股存储板块龙头股遭遇两个跌停</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>ofo停更5年突然发文，运营主体仍处存续状态</strong></p>\n  <p>7月15日，沉寂近5年的ofo小黄车官方微信公众号突然更新。此次公众号发布的内容，是一则皮肤病患者援助招募信息。虽然与共享单车业务并无关联，"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_5e0b0cef4a15404588e59f9bb395ec56@6310690_oswg734885oswg1267oswg845_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">华为公司高级副总裁、引望公司CEO 靳玉志</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜李勤、杨轩</p>"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
-      "url": "https://36kr.com/p/3900439867147909?f=rss",
+      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+      "url": "https://36kr.com/p/3903396279125888?f=rss",
       "published_at": null,
-      "summary": "<p>2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历程，他表示，AI 创业已从小众赛道成为全球重要共识。今天的 AI 研究者和创业者既站在几代科学家持续探索的肩膀上，也受益于信息技术、移动互联网、云计算、半导体、新能源等产业积累，能够参与这场时代变革无比幸运。</p>\n  <p>印奇判断，2026 年模型能力正在跨越关键临界点，AI 已从只能连"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_f53cbd875e6d4c2f97ef3a292cadebb9@6381723_oswg1461014oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">6个年轻创业者在WAIC的故事</p>\n  <p><strong>文｜温丽虹 王欣逸</strong></p>\n  <p><strong>编辑｜"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
-      "url": "https://36kr.com/p/3896564485572489?f=rss",
+      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+      "url": "https://36kr.com/p/3903383663478403?f=rss",
       "published_at": null,
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3899467569104512\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验</strong></a></p>\n  <p>36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_e32de2f0c5594d36a095422c0a59723b@6381723_oswg61886oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_1cdcfc695e2f43fd"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
-      "url": "https://36kr.com/p/3899556701128578?f=rss",
+      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+      "url": "https://36kr.com/p/3903365398185857?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260717/v2_605a8a8a4b8640158de83a7aa88b025f@6381723_oswg84170oswg1212oswg810_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启"
+      "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>封面来源｜Pexels</p>\n  <p>中国低轨卫星星座的规模化部署已经进入关键时间窗口。</p>\n  <p>一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。</p>\n  <p>当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：<strong>卫星组网之后，要给谁用、怎么用？</strong></p>\n  <p>这个问题目前还没有标准答案，但市场上不乏想要给出"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
-      "url": "https://36kr.com/p/3899597215745664?f=rss",
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+      "url": "https://36kr.com/p/3901396207584902?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260717/v2_11cad3dae776450b9505ddcb5be2a14b@5889148_oswg528857oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>人工智能正在进入一个新的产业周期。</p>\n  <p>过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等"
+      "summary": "<p>腾讯云的企业级智能体平台，正式出海了。</p>\n  <p>7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。</p>\n  <p>ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。</p>\n  <p>简单来说，它解决的是企业智能体从建立、运行到管理的问题。</p>\n  <p class=\"image-wrapper\"><img"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
-      "url": "https://36kr.com/p/3899439565325953?f=rss",
+      "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
+      "url": "https://36kr.com/p/3902007640459145?f=rss",
       "published_at": null,
-      "summary": "<p>随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。</p>\n  <p>7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。</p>\n  <p>据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试平台，可同步完"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_83063848fca04df59f0b43be0d23d136@2057308263_oswg1278705oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">史上最热的WAIC都整了哪些活？看这一篇就够了。</p>\n  <p><strong>文｜邓咏仪 周鑫雨 王欣逸 温丽虹</strong><"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "我们有多久，没长久地喜欢过一个东西了？",
-      "url": "https://36kr.com/p/3899428949132932?f=rss",
+      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
+      "url": "https://36kr.com/p/3899612612494976?f=rss",
       "published_at": null,
-      "summary": "<p>我们有多久没有长久地喜欢过一个东西了？</p>\n  <p>在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。</p>\n  <p>但在这个热闹又健忘的环境里，却存在着反常的例外——<strong>一个不说话，甚至从不微笑的潮流手办，竟然被人们安静地喜爱了整整二十年。 &nbsp;</strong></p>\n  <p>为什么不同年龄、不同背景的人，都愿意和她建立情感链接？为什么每个人眼里的她，好像都不太一样，却又都觉得她始终陪伴着自己？</p>\n  <p><strong"
+      "summary": "<p>36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。</p>\n  <p>据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、ChatBI与智能教育四大核心应用场景的市场覆盖。</p>\n  <p>在经历了大模型参数量与算力的早期竞赛后，行业正逐步步入“以应用论英雄”的商业化深水区。目前，围绕大模型“记忆层（Memory）”这一"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
-      "url": "https://36kr.com/p/3899398088509319?f=rss",
+      "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
+      "url": "https://36kr.com/p/3903220264404608?f=rss",
       "published_at": null,
-      "summary": "<p>[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（&lt;20Mbps）占比仅0.1%。优异的现网测评结果标志着联通好网络在北京区域已经从5G-A全城点亮迈向全域大上行的发展新阶段。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/"
+      "summary": "<h2>今日热点导览</h2>\n  <p>任泽平团队回应VIP群聊解散</p>\n  <p>市场监管总局发布《个体工商户信用信息应用指南》</p>\n  <p>“工业维生素”价格暴涨，钼铁一天跳涨1500元</p>\n  <p>黄仁勋皮夹克拍出96万美元天价</p>\n  <p>韩国承诺放宽韩元获取渠道，力争实现“自由兑换货币”目标</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>长鑫科技中签号出炉：共约770.22万个</strong></p>\n  <p>36氪获悉，长鑫科技披露首次公开发行股票网上中签结果，中签号码共有7702207个，每个中签号码只能认购500股长鑫科技A"
     }
   ]
 }

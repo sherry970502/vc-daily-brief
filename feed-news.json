@@ -1,175 +1,279 @@
 {
-  "updated_at": "2026-07-20T04:42:30.697844+00:00",
+  "updated_at": "2026-07-21T04:21:29.803775+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 34,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-      "published_at": "2026-07-19T21:45:00+00:00",
-      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck."
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "published_at": "2026-07-21T00:12:24+00:00",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "published_at": "2026-07-19T21:16:07+00:00",
-      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "published_at": "2026-07-20T23:39:35+00:00",
+      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "published_at": "2026-07-19T19:24:45+00:00",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
+      "title": "Trump’s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "published_at": "2026-07-20T22:21:04+00:00",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: The battle over robotaxi rules",
-      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
-      "published_at": "2026-07-19T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "published_at": "2026-07-20T21:21:15+00:00",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "published_at": "2026-07-19T14:52:08+00:00",
-      "summary": "\"Everybody knows the Greeks are inside.\""
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "published_at": "2026-07-20T20:50:40+00:00",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "published_at": "2026-07-19T14:00:00+00:00",
-      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more."
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "published_at": "2026-07-20T19:37:39+00:00",
+      "summary": "X says the rebuilt version of its Android app is now available globally."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "published_at": "2026-07-20T19:33:25+00:00",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "published_at": "2026-07-20T19:11:25+00:00",
+      "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Mexico Extends Its Venture Lead Over Brazil As More Global VCs Enter Latin America",
+      "url": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
+      "published_at": "2026-07-20T11:00:30+00:00",
+      "summary": "Mexico’s startups led the LatAm pack in Q2 — by a wide margin. The country’s startups raised $944 million in the second quarter, up 131% compared to $409 million in last year’s Q2, and up 136% from the $401 million raised in this year’s first quarter, per Crunchbase data. For comparison’s sake, that"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets brace for return to all-out war in Iran amid rising U.S. death toll, while former NATO commander warns Suez Canal could be next",
-      "url": "https://fortune.com/2026/07/19/stock-market-today-dow-futures-oil-prices-us-iran-war-death-toll-suez-canal/",
-      "published_at": "2026-07-19T23:22:00+00:00",
-      "summary": "Retired Adm. James Stavridis told CNN on Sunday that Trump now has three options, and \"and none of them are good.\""
+      "title": "U.S. military launches 10th straight night of airstrikes on Iran as Houthi allies threaten Red Sea, but glimmers of hope appear on diplomatic front",
+      "url": "https://fortune.com/2026/07/20/us-military-10th-straight-airstrikes-iran-houthi-allies-red-sea-diplomatic-front/",
+      "published_at": "2026-07-20T22:43:15+00:00",
+      "summary": "Iran's interior minister traveled to Pakistan, a key mediator in the conflict, for talks."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Spain earns $51 million for World Cup win and runner-up Argentina gets $34 million as total payout for all 48 teams hits record-high $871 million",
-      "url": "https://fortune.com/2026/07/19/spain-world-cup-prize-51-million-second-place-argentina-34-million-total-payout-tournament-871-million/",
-      "published_at": "2026-07-19T22:12:30+00:00",
-      "summary": "The $51 million for Spain is a large sum, but it also pales in comparison to the fortunes that are spent on global soccer."
+      "title": "Trump to impose 50% tariffs on most Canadian goods, invoking the ‘nuclear option’ that could unleash a new wave of economic chaos and inflation",
+      "url": "https://fortune.com/2026/07/20/trump-tariffs-canada-50-percent-section-338-nuclear-option-inflation-usmca/",
+      "published_at": "2026-07-20T22:31:36+00:00",
+      "summary": "Trump signed three proclamations to launch the tariffs under Section 338 of the 1930 Trade Act."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The U.K. is getting a new prime minister, but bond investors are really in charge and ‘hyper-reactive,’ Wall Street veteran says",
-      "url": "https://fortune.com/2026/07/19/uk-prime-minister-andy-burnham-bond-vigilantes-market-investors-gilt-yields/",
-      "published_at": "2026-07-19T20:00:54+00:00",
-      "summary": "\"But investors know it’s the bond market that will call the shots in the $4.2 trillion economy no matter who sits in the prime minister’s office.\""
+      "title": "Agentic commerce is coming—and the battle to build its infrastructure is on",
+      "url": "https://fortune.com/2026/07/20/agentic-commerce-stablecoins-infrastructure-circle-ceo-jeremy-allaire/",
+      "published_at": "2026-07-20T08:32:05+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Box office debut for ‘The Odyssey’ tops ‘Oppenheimer’ and is Christopher Nolan’s best opening since ‘The Dark Knight Rises’ in 2012",
-      "url": "https://fortune.com/2026/07/19/box-office-debut-odyssey-oppenheimer-christopher-nolan-dark-knight-rises/",
-      "published_at": "2026-07-19T21:04:12+00:00",
-      "summary": "“The Odyssey” launched with an estimated $124.5 million in domestic ticket sales and another $139.6 million from overseas."
+      "title": "Three women chop their way into the record books at Lumberjack World Championships",
+      "url": "https://fortune.com/2026/07/20/three-women-chop-their-way-into-the-record-books-at-lumberjack-world-championships/",
+      "published_at": "2026-07-20T21:16:26+00:00",
+      "summary": "Competitors from nine countries gathered in Wisconsin, where three women set world records in chopping and boom running."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Prediction markets Swell to 27% of sports bets during World Cup",
-      "url": "https://fortune.com/2026/07/19/prediction-markets-sports-betting-world-cup-kalshi-polymarket-fan-duel-draftkings/",
-      "published_at": "2026-07-19T20:55:49+00:00",
-      "summary": "Kalshi, the biggest player, has repeatedly broken its own trading records during the World Cup."
+      "title": "Trump admin attempted to uncover phone records of NYT journalists and sources related to coverage of Qatari-gifted Air Force One",
+      "url": "https://fortune.com/2026/07/20/trump-admin-phone-records-new-york-times-qatar-air-force-one-gift/",
+      "published_at": "2026-07-20T21:14:15+00:00",
+      "summary": "New York Times journalists and their relatives were targeted in a motion to unmask the confidential sources behind Trump's Qatari-gifted Air Force One jet."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. military announces the death of another service member, blaming the ‘controlled detonation’ of a downed Iranian drone in Iraq",
-      "url": "https://fortune.com/2026/07/19/us-military-death-service-member-controlled-detonation-iranian-drone-iraq/",
-      "published_at": "2026-07-19T20:36:40+00:00",
-      "summary": "Since the war began, 17 U.S. service members have been killed."
+      "title": "A passenger brought a 6-pack of beer on an Alaskan pilot’s plane. He now has to defend his plane’s seizure in front of the Supreme Court",
+      "url": "https://fortune.com/2026/07/20/alaskan-pilot-supreme-court-aircraft-seizure-beer/",
+      "published_at": "2026-07-20T20:33:18+00:00",
+      "summary": "An Alaskan pilot cites \"excessive fines\" to protect his aircraft from seizure by Alaskan state authorities following a passenger bringing alcohol through a \"dry zone.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumes in a few years as ships reject a U.S.-backed alternate route",
-      "url": "https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/",
-      "published_at": "2026-07-19T17:51:03+00:00",
-      "summary": "Goldman Sachs estimated that enough Mideast pipeline capacity could be added to insulate 75% of the pre-war Gulf exports by the end of 2028."
+      "title": "LaLiga president says tech is already making the fan experience better, and it could solve football’s money problem too",
+      "url": "https://fortune.com/2026/07/20/laliga-president-says-tech-is-already-making-the-fan-experience-better-and-it-could-solve-footballs-money-problem-too/",
+      "published_at": "2026-07-20T20:31:19+00:00",
+      "summary": "This year's World Cup has been technified, but it's time for other soccer leagues to catch up and bring it to their domestic clubs."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Blue Owl Capital owns about a third of the Freedom Fuel properties: A look inside the $3.47 gas chain",
+      "url": "https://fortune.com/2026/07/20/inside-trumps-3-47-gas-chain-blue-owl/",
+      "published_at": "2026-07-20T20:20:50+00:00",
+      "summary": "Records indicate the $3.47 gas chain Trump promoted to an NFL coach, a GOP fundraiser, and two New Jersey brothers."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Writer's AI harness cuts token spend nearly 40% — without sacrificing accuracy",
+      "url": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
+      "published_at": "2026-07-20T21:18:35+00:00",
+      "summary": "<p>Enterprise AI is facing an ROI paradox. While throwing more compute at the strongest foundation model works well in product experiments, the costs become unbearable when the product is deployed in production.</p><p>A <a href=\"https://arxiv.org/abs/2607.06906\">new paper</a> from researchers at Wri"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
+      "url": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
+      "published_at": "2026-07-20T18:24:33+00:00",
+      "summary": "<p>A single AI agent conversation can look flawless scored on its own and still point to a broken product. That gap is driving a shift in how enterprises evaluate agents, away from scoring individual traces and toward comparing cohorts of users against a baseline.</p><p>At<a href=\"https://venturebea"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
+      "url": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build",
+      "published_at": "2026-07-20T16:38:48+00:00",
+      "summary": "<p>Zillow, the real estate technology company, doesn&#x27;t get one conversation with its customers. They move from a phone screen to a loan officer to a real estate agent, sometimes over months or years, and expect the context to follow them. A single chatbot could never carry that thread.</p><p>At"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "The cleanup trap: Stop asking RAG to fix bad data",
+      "url": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
+      "published_at": "2026-07-20T16:19:45+00:00",
+      "summary": "<p>The enterprise technology ecosystem is caught in a costly cycle. Over the past two years, millions of dollars have been funneled into generative AI pilots, yet many of these initiatives stall out before ever reaching a live production environment.</p><p>When a project fails, the immediate instinc"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
+      "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+      "published_at": "2026-07-20T15:49:20+00:00",
+      "summary": "<p>Hugging Face’s incident response team first turned to frontier AI models to analyze a breach of the company’s production infrastructure, and the models refused to help. Commercial safety guardrails built to stop attackers blocked every forensic query because they treated the IR team’s real exploi"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI confidence just dropped 17 points in six months. That’s actually great news.",
+      "url": "https://venturebeat.com/security/ai-confidence-just-dropped-17-points-in-six-months-thats-actually-great-news",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "summary": "<p><i>Presented by JumpCloud</i></p><hr /><p><b><i>The organizations losing confidence in AI are the ones most likely to get it right.</i></b></p><p>Six months ago, 40% of IT leaders described their organizations as mature in AI deployment. <a href=\"https://jumpcloud.com/resources/q3-2026-it-trends-"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "published_at": "2026-07-20T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "published_at": "2026-07-20T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "published_at": "2026-07-20T08:39:01+00:00",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
-      "url": "https://36kr.com/p/3902068392658566?f=rss",
+      "title": "欧林生物：重庆啤酒的痛，市场还没忘记",
+      "url": "https://36kr.com/p/3904814486718342?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_5e0b0cef4a15404588e59f9bb395ec56@6310690_oswg734885oswg1267oswg845_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">华为公司高级副总裁、引望公司CEO 靳玉志</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜李勤、杨轩</p>"
+      "summary": "<p>作者&nbsp;|&nbsp;黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>欧林生物是国内疫苗领域的龙头企业，依托极具稀缺性的超级细菌创新疫苗管线与稳健发展的破伤风疫苗，其A股股价自2024年开启了一轮强势上涨行情，区间最大涨幅超过500%。火热市场行情之下，公司于6月30日向港交所递交更新招股书，重启赴港上市计划，希望凭借创新疫苗管线的好预期与稀缺性，争取要到更高的估值。</p>\n  <p>而且，为了能够顺利登陆港股市场，针对历史税务事项完成合规整改、扫除港股IPO进程中的合规障碍，公司在近期已经补缴了之前公告列出的税款及滞纳金，合计约8741万元，大"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
-      "url": "https://36kr.com/p/3903396279125888?f=rss",
+      "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
+      "url": "https://36kr.com/p/3904785488136070?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_f53cbd875e6d4c2f97ef3a292cadebb9@6381723_oswg1461014oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">6个年轻创业者在WAIC的故事</p>\n  <p><strong>文｜温丽虹 王欣逸</strong></p>\n  <p><strong>编辑｜"
+      "summary": "<p>本文约3100字，建议阅读7分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。</p>\n  </blockquote>\n  <p>7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。</p>\n  <p>芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabl"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
-      "url": "https://36kr.com/p/3903383663478403?f=rss",
+      "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
+      "url": "https://36kr.com/p/3904783876982405?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_e32de2f0c5594d36a095422c0a59723b@6381723_oswg61886oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_1cdcfc695e2f43fd"
+      "summary": "<p>本文约2800字，建议阅读6分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。</p>\n  </blockquote>\n  <p>近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。</p>\n  <p>虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在<strong>全球市占率80.3%</strong>，前三名合计91.8"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
-      "url": "https://36kr.com/p/3903365398185857?f=rss",
+      "title": "上市前夜 | “喜羊羊”老板二冲港股IPO，奥动新能源近三年半亏掉14.7亿",
+      "url": "https://36kr.com/p/3904781968508550?f=rss",
       "published_at": null,
-      "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>封面来源｜Pexels</p>\n  <p>中国低轨卫星星座的规模化部署已经进入关键时间窗口。</p>\n  <p>一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。</p>\n  <p>当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：<strong>卫星组网之后，要给谁用、怎么用？</strong></p>\n  <p>这个问题目前还没有标准答案，但市场上不乏想要给出"
+      "summary": "<p>本文约2800字，建议阅读6分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——<strong>奥动新能源</strong>。</p>\n  </blockquote>\n  <p>7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。</p>\n  <p>有"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
-      "url": "https://36kr.com/p/3901396207584902?f=rss",
+      "title": "6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察",
+      "url": "https://36kr.com/p/3904049563731849?f=rss",
       "published_at": null,
-      "summary": "<p>腾讯云的企业级智能体平台，正式出海了。</p>\n  <p>7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。</p>\n  <p>ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。</p>\n  <p>简单来说，它解决的是企业智能体从建立、运行到管理的问题。</p>\n  <p class=\"image-wrapper\"><img"
+      "summary": "<p>作者&nbsp;|&nbsp;黄楠</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>在旗下App每年创造数亿元营收、日均百万用户打开量的时候，心言集团创始人兼CEO任永亮做了一个令所有人都觉得“不理性”的决定：把AI情感陪伴能力塞进一个硬件的模具里——造机器人。</p>\n  <p>心言集团最有名的产品叫测测，来自上一个互联网时代，2013年上线，主要为用户提供泛心理科普及测评、在线情感陪伴，拿过腾讯的B轮融资。到2025年，测测已经有6000多万用户。</p>\n  <p>但仅仅靠一款12年的线上情感陪伴产品，显然无法在这个AI时代更进一步。任永亮察觉到线上交互模"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
-      "url": "https://36kr.com/p/3902007640459145?f=rss",
+      "title": "速腾聚创第二代全固态感知平台发布，要做物理AI数据入口｜最前线",
+      "url": "https://36kr.com/p/3903885834028931?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_83063848fca04df59f0b43be0d23d136@2057308263_oswg1278705oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">史上最热的WAIC都整了哪些活？看这一篇就够了。</p>\n  <p><strong>文｜邓咏仪 周鑫雨 王欣逸 温丽虹</strong><"
+      "summary": "<p>&nbsp;作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>当下具身智能赛道正完成一轮关键转型。此前行业大量研发、展示集中在人形、四足机器人舞台演示，如今产业评判标准落地到工厂、园区、家庭等真实场景的长期稳定作业能力。</p>\n  <p>但一个现实的问题是：多数基础模型仅依托二维图像、仿真虚拟数据训练，缺少真实三维空间里物体距离、材质、受力、动态交互的原生高精度信息，以至于机器人只能看懂画面，却难以真正理解物理世界的运行规律。</p>\n  <p>单纯视觉传感器易受强光、遮挡、雨雪干扰，测距与空间结构测算存在天然误差；仿真环境构建的物理规则和现实工况差距巨大，直接导致机器人走"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-      "url": "https://36kr.com/p/3899612612494976?f=rss",
+      "title": "「月泉仿生」获数亿元融资，仿生拉压体灵巧手万台量产、订单过亿｜36氪首发",
+      "url": "https://36kr.com/p/3899174356387718?f=rss",
       "published_at": null,
-      "summary": "<p>36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。</p>\n  <p>据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、ChatBI与智能教育四大核心应用场景的市场覆盖。</p>\n  <p>在经历了大模型参数量与算力的早期竞赛后，行业正逐步步入“以应用论英雄”的商业化深水区。目前，围绕大模型“记忆层（Memory）”这一"
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪独家获悉，近日，月泉仿生已完成数亿元Pre-A+轮融资。本轮融资由长发基金、华控基金、华夏基金、国力民生、星科创投基金等联合投资，老股东中��村启航投资跟投。</p>\n  <p>据介绍，本轮募集资金将用于月泉仿生团队建设、核心产品技术研发及产能提升，以及强化全栈自研能力、打造完整技术体系，推动超仿生神经骨骼肌肉机器人研发, &nbsp;打造“大脑-身体-环境”一体化的仿生具身智能体系。</p>\n  <p>当前，人形机器人赛道已走过最初的样机展示阶段，逐渐迈入商业化落地的关键拐点。而灵巧手作为机器人和现实世界交互的核心部件"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
-      "url": "https://36kr.com/p/3903220264404608?f=rss",
+      "title": "8点1氪丨美国将对加拿大部分产品加征50%关税；任泽平回应会员炒股亏损千万；韩国今年人均GDP有望达3.9万美元",
+      "url": "https://36kr.com/p/3904632333862535?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>任泽平团队回应VIP群聊解散</p>\n  <p>市场监管总局发布《个体工商户信用信息应用指南》</p>\n  <p>“工业维生素”价格暴涨，钼铁一天跳涨1500元</p>\n  <p>黄仁勋皮夹克拍出96万美元天价</p>\n  <p>韩国承诺放宽韩元获取渠道，力争实现“自由兑换货币”目标</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>长鑫科技中签号出炉：共约770.22万个</strong></p>\n  <p>36氪获悉，长鑫科技披露首次公开发行股票网上中签结果，中签号码共有7702207个，每个中签号码只能认购500股长鑫科技A"
+      "summary": "<h2>今日热点导览</h2>\n  <p>光电融合芯片有望让Token成本降50%</p>\n  <p>泡泡玛特创始人王宁与投资人段永平纽约会面</p>\n  <p>阿根廷队背对领奖台无视对手领奖，拒绝接受采访，恐遭处罚</p>\n  <p>京沪高铁、京沪铁路可提前60天预约购票</p>\n  <p>强一股份大跌：分手费近60亿</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>美国宣布对加拿大部分产品加征50%关税</strong></p>\n  <p>当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美"
     }
   ]
 }

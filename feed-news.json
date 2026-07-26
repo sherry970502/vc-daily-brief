@@ -1,191 +1,143 @@
 {
-  "updated_at": "2026-07-25T04:18:03.520997+00:00",
+  "updated_at": "2026-07-26T04:33:37.400360+00:00",
   "period_hours": 24,
-  "article_count": 31,
+  "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "published_at": "2026-07-25T00:23:11+00:00",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published_at": "2026-07-26T01:30:00+00:00",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-      "published_at": "2026-07-24T23:25:47+00:00",
-      "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines."
+      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+      "published_at": "2026-07-25T20:55:11+00:00",
+      "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "published_at": "2026-07-24T22:25:58+00:00",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+      "title": "The hacker who humiliated spyware makers and was never caught",
+      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+      "published_at": "2026-07-25T20:24:14+00:00",
+      "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-      "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-      "published_at": "2026-07-24T22:10:00+00:00",
-      "summary": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression."
+      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "published_at": "2026-07-25T19:23:32+00:00",
+      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-      "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-      "published_at": "2026-07-24T21:15:00+00:00",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
+      "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+      "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+      "published_at": "2026-07-25T16:46:46+00:00",
+      "summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Waymo reportedly mulling a breakup with Uber",
-      "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-      "published_at": "2026-07-24T20:43:35+00:00",
-      "summary": "The contract between the two companies ends in May 2028, Uber told TechCrunch."
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "published_at": "2026-07-25T16:00:00+00:00",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-      "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
-      "published_at": "2026-07-24T19:56:23+00:00",
-      "summary": "The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "published_at": "2026-07-24T18:07:32+00:00",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/",
-      "published_at": "2026-07-24T19:25:21+00:00",
-      "summary": "Startup investors poured capital into a varied lineup of large rounds this week, targeting sectors including physical AI, biotech, cybersecurity, AI infrastructure and fintech."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "General Catalyst Takes The Lead Over Y Combinator In Backing $5M+ Fintech Deals",
-      "url": "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/",
-      "published_at": "2026-07-24T11:00:46+00:00",
-      "summary": "For the first time in several quarters, General Catalyst in Q2 overtook Y Combinator when it came to participating in the most fintech deals of $5 million or more, per Crunchbase data. The quarter also marked the busiest one for General Catalyst since 2021 in terms of investing in rounds of $5 milli"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Biggest AI Talent Challenge Is Resilience, Not Speed",
-      "url": "https://news.crunchbase.com/ai/biggest-talent-challenge-resilience-vaidya-crafting/",
-      "published_at": "2026-07-24T11:00:03+00:00",
-      "summary": "Engineering leaders should build highly adaptable, vendor-agnostic infrastructure instead of relying on expensive, unpredictable proprietary hyperscalers, advises guest columnist Sumeet Vaidya, who says the foundational flexibility allows enterprises to safely pair AI agents with human teams while s"
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "published_at": "2026-07-25T13:05:00+00:00",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hopes for key crypto bill fade amid delays, Trump ethics controversy",
-      "url": "https://fortune.com/2026/07/24/hopes-for-key-crypto-bill-fade-amid-delays-trump-ethics-controversy/",
-      "published_at": "2026-07-24T05:40:45+00:00",
-      "summary": "The CLARITY Act has been kicked down the road once again, and could be a casualty of mid-term politics."
+      "title": "France deploys giant military cargo plane to dump tons of flame retardants as European wildfires displace more than 250,000",
+      "url": "https://fortune.com/2026/07/25/france-a400-military-cargo-plane-flame-retardants-european-wildfires/",
+      "published_at": "2026-07-25T23:07:33+00:00",
+      "summary": "The French military A400M transport plane, specially converted for fire-fighting, was a heavyweight new tool in the battle."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic’s head of economics just explained why we haven’t seen a white-collar bloodbath — yet",
-      "url": "https://fortune.com/2026/07/24/anthropic-peter-mccrory-dario-amodei-why-hasnt-it-killed-jobs/",
-      "published_at": "2026-07-24T18:14:04+00:00",
-      "summary": "We've been hearing about doomsday, but Peter McCrory writes we \"don’t see significant impact of AI on the U.S. labor market.\""
+      "title": "Intern arrested in Belgium on suspicion of spying inside NATO military headquarters and ‘being a member of a criminal organization’",
+      "url": "https://fortune.com/2026/07/25/intern-arrest-belgium-spying-nato-military-headquarters-criminal-organization/",
+      "published_at": "2026-07-25T22:58:02+00:00",
+      "summary": "Belgium's Federal Prosecutor's Office said it launched an espionage investigation after NATO’s security services tipped off Belgium’s military intelligence."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nearly 150,000 California mail ballots rejected in June primary, a record high thanks to late-arriving ballots",
-      "url": "https://fortune.com/2026/07/24/california-mail-ballot-rejections-postmark/",
-      "published_at": "2026-07-24T20:32:04+00:00",
-      "summary": "Experts point to USPS postmark changes as a possible cause for the ponderously slow vote counts and even missing or late-arriving ballots."
+      "title": "Let’s get ready to rumble: The next Fed meeting will be a ‘family feud’ — and that’s exactly what Chairman Kevin Warsh wants",
+      "url": "https://fortune.com/2026/07/25/fed-meeting-family-feud-rate-hike-inflation-kevin-warsh-hawks/",
+      "published_at": "2026-07-25T22:38:42+00:00",
+      "summary": "\"And the survey says… policy will likely stay on hold for an additional meeting. Hawkish momentum is building, however. We expect two hawkish dissents.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nun detained by ICE on her way to Mass speaks out for first time: ‘For me, a nun, not to go to Mass…it was very, very heartbreaking’",
-      "url": "https://fortune.com/2026/07/24/nun-ice-detention-texas-speaks-out/",
-      "published_at": "2026-07-24T20:23:49+00:00",
-      "summary": "Officers gave little explanation for detaining Sister Leticia Ugboaja despite her years of compliance with immigration requirements"
+      "title": "AI safety experts say OpenAI’s rogue models may mean the company has already blown past its own internal red lines",
+      "url": "https://fortune.com/2026/07/25/ai-safety-experts-say-openais-rogue-models-may-mean-the-company-has-already-blown-past-its-own-internal-red-lines/",
+      "published_at": "2026-07-25T17:05:14+00:00",
+      "summary": "Outside safety experts say the models behind this week's hack may have crossed OpenAI's own 'critical' risk line, something that would require the company to halt development."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Secret Service is investigating a member of JD Vance’s detail over a suspected news leak",
-      "url": "https://fortune.com/2026/07/24/secret-service-vance-detail-leak-investigation/",
-      "published_at": "2026-07-24T20:11:06+00:00",
-      "summary": "The probe follows a report that agents privately griped about last-minute travel requests from Vance and his family."
+      "title": "The ‘Trump Trade’ is turning into a loser in the stock market",
+      "url": "https://fortune.com/2026/07/25/trump-trade-stock-market-returns-iran-war-inflation-supply-shock-tariffs/",
+      "published_at": "2026-07-25T20:40:41+00:00",
+      "summary": "Ned Davis Research’s Trump Trade Index has slumped about 16% since May after clobbering the S&#038;P 500 Index at the beginning of the year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Salman Rushdie describes a ‘lake of blood’ as his convicted attacker faces terrorism charges tied to the 2022 stabbing",
-      "url": "https://fortune.com/2026/07/24/rushdie-testifies-hadi-matar-terrorism-trial/",
-      "published_at": "2026-07-24T20:15:58+00:00",
-      "summary": "Hadi Matar, who stabbed Rushdie 15 times and blinded him, faces life in federal prison if convicted of terrorism charges tied to a 1989 Iranian fatwa."
+      "title": "Samsung wins $200 billion order to supply chips to Broadcom",
+      "url": "https://fortune.com/2026/07/25/samsung-200-billion-order-supply-2-nanometer-chips-broadcom/",
+      "published_at": "2026-07-25T20:28:15+00:00",
+      "summary": "The pact, to run for five years through 2030, will focus on Samsung’s 2-nanometer and below process technologies for Broadcom’s products."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Two gun rights groups are suing the U.S. Virgin Islands over concealed carry for nonresidents",
-      "url": "https://fortune.com/2026/07/24/us-virgin-islands-gun-rights-lawsuit/",
-      "published_at": "2026-07-24T20:13:22+00:00",
-      "summary": "The lawsuit is the second challenge to the territory's gun laws, following a Justice Department suit filed in December."
+      "title": "SK chair says Anthropic asked for supplies to make its own chips",
+      "url": "https://fortune.com/2026/07/25/sk-chair-chey-tae-won-anthropic-chip-supplies-skhynix/",
+      "published_at": "2026-07-25T20:23:10+00:00",
+      "summary": "Chey’s visit coincides with a trip by South Korean President Lee Jae Myung to Silicon Valley, where he convened an AI summit."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "EU strikes Google with $1 billion fine in major crackdown on antitrust regulations even as Trump threatens retaliation",
-      "url": "https://fortune.com/2026/07/24/eu-google-1-billion-fine-major-crackdown-antitrust-regulations/",
-      "published_at": "2026-07-24T20:06:30+00:00",
-      "summary": "Despite warnings from US President Trump about penalties on American tech companies, the European Union issued a $1 billion fine on the tech giant over its Google Play search."
+      "title": "Trump pulls back after Iran crosses his red line as U.S. military breaks two-week streak of airstrikes amid talks for potential Hormuz deal",
+      "url": "https://fortune.com/2026/07/25/trump-iran-war-red-line-us-military-pause-airstrikes-talks-hormuz-deal/",
+      "published_at": "2026-07-25T19:46:56+00:00",
+      "summary": "\"They want to make a deal. I just don't think they're ready yet, but they do want to make a deal.\""
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
-      "url": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
-      "published_at": "2026-07-24T19:34:29+00:00",
-      "summary": "<p>Enterprises deployed AI agents ahead of the controls needed to manage them — and they did it knowingly. That is the central finding across the five parallel surveys VentureBeat Research fielded in June, spanning every layer of the agentic stack. Now those enterprises are retrofitting to catch up"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+      "url": "https://36kr.com/p/3911162147640456?f=rss",
+      "published_at": null,
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。</p>\n  <p>这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内发展速度最快的具身大脑企业之一。</p>\n  <p>「眸深智"
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-      "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
-      "published_at": "2026-07-24T17:00:00+00:00",
-      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> released Claude <a href=\"http://anthropic.com/news/claude-opus-5\">Opus 5</a> on Friday, a model the company says delivers nearly all the intelligence of its top-of-the-line Claude <a href=\"https://www.anthropic.com/claude/fable\">Fable 5</a> at ha"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The quest to keep organs alive outside the body",
-      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "published_at": "2026-07-24T17:03:55+00:00",
-      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-      "published_at": "2026-07-24T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+      "url": "https://36kr.com/p/3910880823202948?f=rss",
+      "published_at": null,
+      "summary": "<p><strong>文｜温丽虹</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。</p>\n  <p>从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。</p>\n  <p>公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后"
     },
     {
       "source": "36氪",
@@ -234,22 +186,6 @@
       "url": "https://36kr.com/p/3909084356433025?f=rss",
       "published_at": null,
       "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260724/v2_c75ed5fe57204a49aa1df4e0ae18c89b@6314151_oswg595807oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。<"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
-      "url": "https://36kr.com/p/3909033052722310?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260724/v2_a0337e21c3484b939472cf87ffcfe860@6381723_oswg1386357oswg1124oswg576_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场",
-      "url": "https://36kr.com/p/3908881985901959?f=rss",
-      "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型</li>\n   <li>极氪回应“海外锁车”事件</li>\n   <li>客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知</li>\n   <li>哈兰德和亚马尔2.2亿欧元身价破纪录</li>\n   <li>张雪峰女儿再接手三家公司股份</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>段永平：10年内大概率不会卖泡泡玛特</strong></p>\n  <p>7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。"
     }
   ]
 }

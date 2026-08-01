@@ -1,295 +1,247 @@
 {
-  "updated_at": "2026-07-31T04:30:25.603391+00:00",
+  "updated_at": "2026-08-01T04:26:50.517529+00:00",
   "period_hours": 24,
-  "article_count": 36,
+  "article_count": 30,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "published_at": "2026-07-31T01:06:54+00:00",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "published_at": "2026-07-31T22:47:26+00:00",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-      "published_at": "2026-07-30T23:28:05+00:00",
-      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September."
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "published_at": "2026-07-31T22:00:08+00:00",
+      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "published_at": "2026-07-30T23:25:58+00:00",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "published_at": "2026-07-31T22:00:00+00:00",
+      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "published_at": "2026-07-30T23:08:58+00:00",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "published_at": "2026-07-31T21:07:45+00:00",
+      "summary": "India's app market generated a record $345 million in Q2."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "published_at": "2026-07-30T22:41:41+00:00",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "published_at": "2026-07-31T19:47:28+00:00",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-      "published_at": "2026-07-30T22:37:06+00:00",
-      "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions."
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "published_at": "2026-07-31T19:39:51+00:00",
+      "summary": "The new funding brings Index's total available investing capital to $3.5 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "published_at": "2026-07-30T20:26:38+00:00",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
+      "title": "VC-backed startups commit more fraud, and researchers think they know why",
+      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+      "published_at": "2026-07-31T19:00:00+00:00",
+      "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "published_at": "2026-07-30T20:13:12+00:00",
-      "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores."
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "published_at": "2026-07-31T17:26:32+00:00",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds",
-      "url": "https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/",
-      "published_at": "2026-07-30T17:12:19+00:00",
-      "summary": "Amid soaring energy demand from AI data centers, Antora says it will use its new capital to speed up deployment of “large-scale” projects across the country."
+      "title": "The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
+      "published_at": "2026-07-31T20:14:23+00:00",
+      "summary": "Another week, another bevy of big rounds. The largest round was a reported $5 billion Nvidia-backed financing for foundational AI unicorn Safe Superintelligence, followed by a $1 billion investment in Commonwealth Fusion Systems."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Founder Traits And One Big AI Test: How Former NEA Partner Vanessa Larco Picks Winners",
-      "url": "https://news.crunchbase.com/seed/vanessa-larco-nea-premise-vc-investment-thesis-seed-ai/",
-      "published_at": "2026-07-30T13:00:44+00:00",
-      "summary": "Crunchbase News talks with former NEA partner Vanessa Larco about how she evaluates startups based on founder potential rather than initial ideas and how she looks for teams that leverage AI to make products dramatically faster, cheaper, or easier to use."
+      "title": "These Are Sectors Where Seed Rounds Of $5M To $10M Are Clustering This Year",
+      "url": "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/",
+      "published_at": "2026-07-31T13:00:19+00:00",
+      "summary": "We identified popular themes for seed-stage investment this year, including cancer therapeutics and space tech."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Andy Jassy said Amazon will spend $220 billion this year—and still won’t have enough capacity to meet demand",
-      "url": "https://fortune.com/2026/07/30/andy-jassy-amazon-capex-demand-aws-pga-tour/",
-      "published_at": "2026-07-31T00:32:47+00:00",
-      "summary": "AWS revenue hit $42.2 billion in Q2, marking its fastest growth in 18 quarters as AI demand outpaces Amazon's ability to build more data centers."
+      "title": "The rise of ‘conspicuous waiting’: The 19th-century economic theory that explains why Gen Z posts their place in line",
+      "url": "https://fortune.com/2026/07/31/conspicuous-waiting-why-gen-z-posts-in-line/",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "summary": "Gen Z isn't just waiting in line. Thorstein Veblen would have recognized exactly what they're doing."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tim Cook signed off on his final Apple earnings call with a warning about a ‘hundred year flood’ in memory chip pricing",
-      "url": "https://fortune.com/2026/07/30/tim-cook-signed-off-on-his-final-apple-earnings-call-with-a-warning-about-a-hundred-year-flood-in-memory-chip-pricing/",
-      "published_at": "2026-07-31T00:28:07+00:00",
-      "summary": "The iPhone maker said sever constraints in the supply chain will affect sales of iPhones, Macs, and iPads in the current quarter."
+      "title": "Trump orders Iran attack as soon as this weekend, WSJ says",
+      "url": "https://fortune.com/2026/07/31/trump-iran-attack-weekend-energy-infrastructure/",
+      "published_at": "2026-07-31T22:45:12+00:00",
+      "summary": "“We’ll be hitting them very hard,” the president said during a Cabinet meeting Friday. “And at some point they’ll say we just can’t take it anymore.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft’s $480 billion rally fuels a debate: Financial nihilism or the true AI moat finally coming into view?",
-      "url": "https://fortune.com/2026/07/30/why-did-microsoft-stock-increase-500-billion-market-cap/",
-      "published_at": "2026-07-30T20:40:19+00:00",
-      "summary": "The market seems to be in a “rip up the script every day” kind of mode, Steve Sosnick of Interactive Brokers told Fortune. Unless that changes tomorrow."
+      "title": "LinkedIn adds a ‘seems like AI slop’ button after blocking billions of automated comment attempts in the last few months",
+      "url": "https://fortune.com/2026/07/31/linkedin-seems-like-ai-slop-button-billions-automated-comments-attempts/",
+      "published_at": "2026-07-31T22:32:51+00:00",
+      "summary": "“AI slop is a top priority for all of us,” said LinkedIn chief product officer Hari Srinivasan in a post."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms",
-      "url": "https://fortune.com/2026/07/30/microsoft-stock-biggest-one-day-gain-since-2008-480-billion-market-value-cloud-growth/",
-      "published_at": "2026-07-30T19:45:21+00:00",
-      "summary": "Azure crossed $100 billion in revenue for the first time, and a new disclosure about OpenAI offered some respite."
+      "title": "Warsh considering reducing number of Fed meetings, NYT reports",
+      "url": "https://fortune.com/2026/07/31/kevin-warsh-reducing-fed-meetings-fomc-inflation-rates/",
+      "published_at": "2026-07-31T22:21:10+00:00",
+      "summary": "Currently, Fed policymakers meet eight times a year for a two-day gathering."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "New York Mets tap Novig as prediction market partner as MLB embraces new betting sector",
-      "url": "https://fortune.com/2026/07/30/new-york-mets-novig-prediction-market-partner-mlb-new-betting-sector/",
-      "published_at": "2026-07-30T21:50:50+00:00",
-      "summary": "The deal will allow Novig to integrate across the Mets’ ecosystem and run league‑approved markets."
+      "title": "The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenner’s hedge fund nearly blew up",
+      "url": "https://fortune.com/2026/07/31/leopold-aschenbrenner-wedding-hedge-fund/",
+      "published_at": "2026-07-31T21:01:05+00:00",
+      "summary": "Leopold Aschenbrenner sold the bulk of his firm, Situational Awareness, to Citadel at a discount, then offered investors one-on-one calls during his honeymoon."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘I’m just stuck’: Meet the former OpenAI researcher sitting on $700K of equity that he says is overvalued",
-      "url": "https://fortune.com/2026/07/30/former-openai-researcher-overvalued-lockup/",
-      "published_at": "2026-07-30T19:01:19+00:00",
-      "summary": "Andrew Ho worked at OpenAI for eight months but said he had to leave after realizing how tremendously overvalued the AI labs are. And he doesn’t think it’s a bubble."
+      "title": "Chevron posts largest quarterly profit ever, and Exxon income surges as Iran war squeezes oil supply",
+      "url": "https://fortune.com/2026/07/31/chevron-posts-largest-quarterly-profit-ever-exxon-income-surges-iran-war-squeezes-oil-supply/",
+      "published_at": "2026-07-31T19:03:47+00:00",
+      "summary": "The Big Oil giants are taking home near-record profits from high oil and fuel prices worldwide."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Asia drives 60% of global growth, but the region’s CEOs can’t escape geopolitics. Here’s how they can stay competitive",
-      "url": "https://fortune.com/2026/07/30/how-asia-ceos-remain-competitive-fragmentation-bcg-yasushi-sasaki/",
-      "published_at": "2026-07-30T21:00:00+00:00",
-      "summary": "BCG’s Yasushi Sasaki outlines why resilience, regional capital, and multi-market strategies are key to navigating geopolitical risk."
+      "title": "Amazon may owe you money: It just got $600 million in tariff refunds after a lawsuit accused it of favoring Trump",
+      "url": "https://fortune.com/2026/07/31/amazon-600-million-tariff-refunds-wallet-lawsuit-bezos-trump/",
+      "published_at": "2026-07-31T17:48:36+00:00",
+      "summary": "Andy Jassy conceded in January tariffs were hitting prices, months before Amazon’s $600 million refund came to light."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A tech podcast inspired AI workers to donate $40 million to improve the lives of chickens, pigs, and other factory-farmed animals",
-      "url": "https://fortune.com/2026/07/30/artifical-intelligence-workers-wealth-influx-rewriting-philanthropy-giving-to-save-factory-farm-animals-openai-anthropic-ipo-wealth/",
-      "published_at": "2026-07-30T15:00:09+00:00",
-      "summary": "Factory farming has historically been an overlooked cause. Now, tech workers at companies like OpenAI are pouring millions into changing that."
+      "title": "Y Combinator‑backed AI startup is under fire after its founder offered instant interviews to partygoers who got company tattoos, then apologized",
+      "url": "https://fortune.com/2026/07/31/y-combinator-ai-startup-lemonlime-tattoos-interviews/",
+      "published_at": "2026-07-31T21:01:53+00:00",
+      "summary": "LemonLime’s cofounder apologized following a flurry of online backlash and offered to cover removal costs for the tattoos"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
-      "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
-      "published_at": "2026-07-31T01:45:07+00:00",
-      "summary": "<p>Days after <a href=\"https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know\">OpenAI disclosed</a> that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Fac"
+      "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
+      "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+      "published_at": "2026-07-31T21:19:09+00:00",
+      "summary": "<p>If you ask an AI coding agent to write a standalone Python script to parse a single JSON file, it will likely give you a perfect answer in seconds. But the same agent often breaks if you ask it to build a systematic data processing pipeline, like ingesting thousands of messy documents, chunking t"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
-      "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
-      "published_at": "2026-07-31T00:14:22+00:00",
-      "summary": "<p>Just two weeks after<a href=\"https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship\"> Thinking Machines released Inkling</a>, its first open source AI language model, the well-funded startup <a hre"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
-      "url": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
-      "published_at": "2026-07-30T21:48:00+00:00",
-      "summary": "<p>To quote an ancient Jedi Master <a href=\"https://giphy.com/gifs/starwars-star-wars-episode-2-l1Kst3WE3rg2WRHxu\">&quot;Begun, the AI price wars have!&quot;</a></p><p>OpenAI is sharply reducing the prices of two models in its GPT-5.6 frontier series, cutting GPT-5.6 Luna, the smallest and fastest m"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.",
-      "url": "https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying",
-      "published_at": "2026-07-30T16:57:14+00:00",
-      "summary": "<p>Every time a Mastercard gets tapped, the network has less than a tenth of a second to judge how likely the purchase is to be fraudulent. It made that call across 175 billion transactions last year. Now the buyer on the other side of that judgment is starting to change, and Greg Ulrich, the compan"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
-      "url": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
-      "published_at": "2026-07-30T16:29:00+00:00",
-      "summary": "<p>Less than a year after emerging from stealth to tackle non-human identity security, Israeli cybersecurity startup <a href=\"https://venturebeat.com/security/hush-security-emerges-from-stealth-to-eliminate-risks-burdens-of-static\">Hush Security</a> believes the enterprise AI security conversation h"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
-      "url": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
-      "published_at": "2026-07-30T13:00:00+00:00",
-      "summary": "<p>A security team approving an open-source model for production today starts with a repository page. The page lists the model name, the license, and a tag identifying the base model it descended from. That tag is a string the uploader typed. Hugging Face does not require uploaders to substantiate t"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Companies are finally seeing AI ROI — and now they know how much more value it can deliver",
-      "url": "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "summary": "<p><i>Presented by SAP</i></p><hr /><p>Enterprise AI has moved from experiment to execution, and that shift is beginning to show real returns. The SAP Value of AI Report 2026, produced with Oxford Economics and based on a survey of 2,600 business leaders across 13 countries, found that AI now suppor"
+      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
+      "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+      "published_at": "2026-07-31T19:20:00+00:00",
+      "summary": "<p>The AI agent observability space is taking off — but how can enterprises be sure what observability products and solutions they need?</p><p>Observability startup groudcover (lower case &quot;g&quot; intentional) <a href=\"https://www.groundcover.com/news/groundcover-raises-100-million-series-c\">an"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-      "published_at": "2026-07-30T17:10:00+00:00",
-      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once"
+      "title": "The Download: Montana’s new experimental drug rules",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "published_at": "2026-07-31T12:16:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "published_at": "2026-07-30T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "published_at": "2026-07-30T10:15:19+00:00",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf"
+      "title": "Montana’s new “right to try” law can’t come soon enough for some",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
-      "url": "https://36kr.com/p/3917874427555457?f=rss",
+      "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+      "url": "https://36kr.com/p/3920241240419720?f=rss",
       "published_at": null,
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。</p>\n  <p>昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical AI底层平台。</p>\n  <p>目前具身智能赛道"
+      "summary": "<h2>今日热点导览</h2>\n  <p>字节跳动发布视频创作模型Seedance 2.5</p>\n  <p>长鑫科技市值突破4万亿</p>\n  <p>人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线</p>\n  <p>韩国KOSPI指数上涨18%</p>\n  <p>Anthropic称AI模型在测试期间误侵三家真实机构系统</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>马斯克回应特斯拉剥离中国业务</strong></p>\n  <p>7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
-      "url": "https://36kr.com/p/3918250549931394?f=rss",
+      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+      "url": "https://36kr.com/p/3919386961177985?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260730/v2_9d3d000f10844662a54a670276214ec8@6314151_oswg1303745oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>所有人都在尝试建立关于AI的判断，但所有共识都在迅速过期。</strong></p>\n  <p>"
+      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>&nbsp;</p>\n  <h3><strong>一句话介绍</strong></h3>\n  <p>国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。</p>\n  <p>主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。</p>\n  <h3><strong>融资情况</strong></h3>\n  <p>近日，丘脑智"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
-      "url": "https://36kr.com/p/3918776472022402?f=rss",
+      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+      "url": "https://36kr.com/p/3910776673064073?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>韩股创纪录的重挫，全球投资者却未进场抄底</p>\n  <p>月之暗面变更为股份公司</p>\n  <p>国内品牌金饰价格集体上涨</p>\n  <p>高通9月1日起上调芯片价格，涨幅达到两位数</p>\n  <p>特斯拉全球第1000万辆电动车下线</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>宇树科技：初步询价日为8月5日，网下申购日为8月10日</strong></p>\n  <p>7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。本次拟公开发行股份4044.6"
+      "summary": "<p>文｜王毓婵 兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。</p>\n  <p>36氪就此事向B站方面求证，对方暂无回应。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_450bbe65a3064be2abe1e6b2b881612c@10269314_oswg1594051oswg1404oswg1250_img_png?x-oss-process=image/"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
-      "url": "https://36kr.com/p/3917972674735747?f=rss",
+      "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+      "url": "https://36kr.com/p/3919378312670857?f=rss",
       "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>证监会同意沈鼓集团沪市主板IPO注册</strong></p>\n  <p>36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。</p>\n  <p><strong>三星电子：已同全球五大数据中心客户签订合同</strong></p>\n  <p>据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司已与全球五大数据中心客户签订合同，另与AI相关五大大型客户进行的洽谈已进"
+      "summary": "<h2>大公司：</h2>\n  <p><strong>途牛：8月中上旬或将迎新一轮客流高峰</strong></p>\n  <p>36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。</p>\n  <p><strong>Prada集团上半年营收增长16%，Miu Miu增速显著放缓</strong></p>\n  <p>2026年上半年，Prada集团营收按固定汇率计同比增长16%"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "和我们同龄，却提前告别的人",
-      "url": "https://36kr.com/p/3918001898073737?f=rss",
+      "title": "开云的转折：在中国，做一个AI乐观派",
+      "url": "https://36kr.com/p/3919225763540611?f=rss",
       "published_at": null,
-      "summary": "<p>长大后慢慢发现，死亡不再只属于长辈与遥远的年龄。本该一起奔赴成年、打拼生活、慢慢变老的同龄人，有人停在了二十几岁、三十几岁，没能走完往后的人生。&nbsp;</p>\n  <p>中元节临近，我们想收集大家关于同龄人离世所有细碎、真实、无法释怀的回忆。如果你愿意，可以把Ta介绍给我们认识吗？你们有着怎样的故事？还记得你们的最后一面吗？所有的遗憾、错愕与思念，都可以好好说出来，欢迎扫描下方二维码参与我们的征集。</p>\n  <p><a href=\"https://v.wjx.cn/vm/PmGYu8u.aspx#\" rel=\"noopener noreferrer\" target=\"_blan"
+      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子 黄绎达</p>\n  <p><strong>编辑 |</strong>&nbsp;张帆</p>\n  <p>开云的转型初见成效。</p>\n  <p>7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。</p>\n  <p>更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。</p>\n  <p>其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
-      "url": "https://36kr.com/p/3917984470576769?f=rss",
+      "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
+      "url": "https://36kr.com/p/3919301778288261?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260730/v2_7c3f9f679e1d44c09d952ebd4c611580@5889148_oswg407985oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p><strong>消费决策入口正在发生变化。</strong></p>\n  <p>过去"
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。</p>\n  <p>前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。</p>\n  <p>Maker Tool通常指面向个人创客、教育机构和小型工作室的桌面数字化制造设备，涵盖3D打印机、桌面CNC、激光雕刻机、创意裁切设备等产"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
-      "url": "https://36kr.com/p/3917989583236738?f=rss",
+      "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
+      "url": "https://36kr.com/p/3919112515956355?f=rss",
       "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260730/v2_ba3aa6f3ae884a5f86af4f309cf11df5@6221844_oswg107063oswg1672oswg941_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>7月28日，中国原创音乐科"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">你的创业想法，值得被看见</p>\n  <p>有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "易方达「戒酒」",
-      "url": "https://36kr.com/p/3917548470218371?f=rss",
+      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
+      "url": "https://36kr.com/p/3919271016263303?f=rss",
       "published_at": null,
-      "summary": "<p>作者&nbsp;|&nbsp;黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。</p>\n  <p>张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表���十分亮眼。二季度末，韩股开始暴跌，基金季报显示亚洲精选在二季度大幅减持三星电子与SK海力士，"
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>低空经济正从飞行器制造走向城市治理。</p>\n  <p>7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。</p>\n  <p>据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成，依托高精度低空空域时空信息格网，可实现机场智能调度、航线自动生成、障碍物智能规避等能力，支持“一键直飞”“接力续飞”“临时转飞”等自动化飞行模"
     }
   ]
 }

@@ -1,183 +1,143 @@
 {
-  "updated_at": "2026-08-01T04:26:50.517529+00:00",
+  "updated_at": "2026-08-02T04:30:26.638036+00:00",
   "period_hours": 24,
-  "article_count": 30,
+  "article_count": 24,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "published_at": "2026-07-31T22:47:26+00:00",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "published_at": "2026-08-01T21:14:48+00:00",
+      "summary": "How one founder house is betting work-life balance can beat burnout ."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "published_at": "2026-07-31T22:00:08+00:00",
-      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon."
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "published_at": "2026-08-01T20:26:04+00:00",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Silicon Valley loves young founders. Until it doesn’t.",
-      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "published_at": "2026-07-31T22:00:00+00:00",
-      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company."
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "published_at": "2026-08-01T19:45:45+00:00",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "India is starting to pay for apps, not just download them",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "published_at": "2026-07-31T21:07:45+00:00",
-      "summary": "India's app market generated a record $345 million in Q2."
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "published_at": "2026-08-01T18:47:27+00:00",
+      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "published_at": "2026-07-31T19:47:28+00:00",
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "published_at": "2026-08-01T17:07:34+00:00",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "published_at": "2026-07-31T19:39:51+00:00",
-      "summary": "The new funding brings Index's total available investing capital to $3.5 billion."
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "published_at": "2026-08-01T15:58:17+00:00",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "VC-backed startups commit more fraud, and researchers think they know why",
-      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "published_at": "2026-07-31T19:00:00+00:00",
-      "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play."
+      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "published_at": "2026-08-01T15:05:00+00:00",
+      "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "published_at": "2026-07-31T17:26:32+00:00",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
-      "published_at": "2026-07-31T20:14:23+00:00",
-      "summary": "Another week, another bevy of big rounds. The largest round was a reported $5 billion Nvidia-backed financing for foundational AI unicorn Safe Superintelligence, followed by a $1 billion investment in Commonwealth Fusion Systems."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "These Are Sectors Where Seed Rounds Of $5M To $10M Are Clustering This Year",
-      "url": "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/",
-      "published_at": "2026-07-31T13:00:19+00:00",
-      "summary": "We identified popular themes for seed-stage investment this year, including cancer therapeutics and space tech."
+      "title": "Apps that help you break free from doomscrolling and get active",
+      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+      "published_at": "2026-08-01T14:00:00+00:00",
+      "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The rise of ‘conspicuous waiting’: The 19th-century economic theory that explains why Gen Z posts their place in line",
-      "url": "https://fortune.com/2026/07/31/conspicuous-waiting-why-gen-z-posts-in-line/",
-      "published_at": "2026-07-31T07:00:00+00:00",
-      "summary": "Gen Z isn't just waiting in line. Thorstein Veblen would have recognized exactly what they're doing."
+      "title": "Trump backs off from new strikes on Iran, claiming Mideast allies have outlines of an emerging deal to reopen the Strait of Hormuz",
+      "url": "https://fortune.com/2026/08/01/trump-iran-strikes-mideast-allies-emerging-strait-of-hormuz/",
+      "published_at": "2026-08-02T02:47:35+00:00",
+      "summary": "He added that Israel has agreed to join the U.S. in the commitment to try to complete the agreement with Iran."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump orders Iran attack as soon as this weekend, WSJ says",
-      "url": "https://fortune.com/2026/07/31/trump-iran-attack-weekend-energy-infrastructure/",
-      "published_at": "2026-07-31T22:45:12+00:00",
-      "summary": "“We’ll be hitting them very hard,” the president said during a Cabinet meeting Friday. “And at some point they’ll say we just can’t take it anymore.”"
+      "title": "The labor market could become so backward that the economy will have to shed jobs to keep unemployment steady",
+      "url": "https://fortune.com/2026/08/01/the-labor-market-could-become-so-backward-that-the-economy-will-have-to-shed-jobs-to-keep-unemployment-steady/",
+      "published_at": "2026-08-01T23:15:22+00:00",
+      "summary": "\"Today, the labor market’s speed limit is much lower than just a few years ago, setting the stage for a jobless expansion.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "LinkedIn adds a ‘seems like AI slop’ button after blocking billions of automated comment attempts in the last few months",
-      "url": "https://fortune.com/2026/07/31/linkedin-seems-like-ai-slop-button-billions-automated-comments-attempts/",
-      "published_at": "2026-07-31T22:32:51+00:00",
-      "summary": "“AI slop is a top priority for all of us,” said LinkedIn chief product officer Hari Srinivasan in a post."
+      "title": "Amid fears of Iranian cyberattacks, Michigan joins Minnesota in reporting hackers targeted water systems. The FBI is now investigating",
+      "url": "https://fortune.com/2026/08/01/iranian-cyberattacks-michigan-minnesota-hackers-water-systems-fbi/",
+      "published_at": "2026-08-01T21:47:05+00:00",
+      "summary": "Earlier this week, authorities said cyberattacks targeted over 30 water systems in Minnesota."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Warsh considering reducing number of Fed meetings, NYT reports",
-      "url": "https://fortune.com/2026/07/31/kevin-warsh-reducing-fed-meetings-fomc-inflation-rates/",
-      "published_at": "2026-07-31T22:21:10+00:00",
-      "summary": "Currently, Fed policymakers meet eight times a year for a two-day gathering."
+      "title": "Trump blasts Pirro after she admitted Reflecting Pool damage was caused by botched installation and blamed Interior Dept. for not sharing information",
+      "url": "https://fortune.com/2026/08/01/trump-us-attorney-jeanine-pirro-reflecting-pool-damage-installation-vandals-interior-dept/",
+      "published_at": "2026-08-01T21:19:13+00:00",
+      "summary": "Pirro’s office, in a court filing on Friday, moved to drop criminal charges against a former Olympian, David Hearn, who had been accused of deliberately damaging the pool."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenner’s hedge fund nearly blew up",
-      "url": "https://fortune.com/2026/07/31/leopold-aschenbrenner-wedding-hedge-fund/",
-      "published_at": "2026-07-31T21:01:05+00:00",
-      "summary": "Leopold Aschenbrenner sold the bulk of his firm, Situational Awareness, to Citadel at a discount, then offered investors one-on-one calls during his honeymoon."
+      "title": "Fed Chair Kevin Warsh talks a big game, but this market indicator will tell you if Wall Street trusts him after he caused a ‘credibility shock’",
+      "url": "https://fortune.com/2026/08/01/fed-chair-kevin-warsh-credibility-shock-rate-hikes-inflation-yield-curve/",
+      "published_at": "2026-08-01T20:27:41+00:00",
+      "summary": "\"The bottom line is that an important part of the Fed’s credibility is not just to say that it has certain goals but also to explain how it will achieve those goals.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Chevron posts largest quarterly profit ever, and Exxon income surges as Iran war squeezes oil supply",
-      "url": "https://fortune.com/2026/07/31/chevron-posts-largest-quarterly-profit-ever-exxon-income-surges-iran-war-squeezes-oil-supply/",
-      "published_at": "2026-07-31T19:03:47+00:00",
-      "summary": "The Big Oil giants are taking home near-record profits from high oil and fuel prices worldwide."
+      "title": "Spain puts up a 1,600-foot sea barrier between Ceuta and Morocco after EU states warn against ‘uncontrolled mass crossings’",
+      "url": "https://fortune.com/2026/08/01/spain-sea-barrier-ceuta-morocco-eu-states-uncontrolled-mass-crossings/",
+      "published_at": "2026-08-01T18:18:46+00:00",
+      "summary": "Italian Premier Giorgia Meloni has also threatened to suspend Italy’s open-border Schengen agreement with Spain."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Amazon may owe you money: It just got $600 million in tariff refunds after a lawsuit accused it of favoring Trump",
-      "url": "https://fortune.com/2026/07/31/amazon-600-million-tariff-refunds-wallet-lawsuit-bezos-trump/",
-      "published_at": "2026-07-31T17:48:36+00:00",
-      "summary": "Andy Jassy conceded in January tariffs were hitting prices, months before Amazon’s $600 million refund came to light."
+      "title": "Trump vows to restore his ‘Anti-Weaponization Fund’ a day after declaring it dead, while Tillis slams it as a ‘payout pot for punks’",
+      "url": "https://fortune.com/2026/08/01/trump-anti-weaponization-fund-acting-attorney-general-todd-blanche-thom-tillis-payout-pot-punks/",
+      "published_at": "2026-08-01T18:01:28+00:00",
+      "summary": "Trump also asserted in his Truth Social post that he would keep acting Attorney General Todd Blanche in his current role."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Y Combinator‑backed AI startup is under fire after its founder offered instant interviews to partygoers who got company tattoos, then apologized",
-      "url": "https://fortune.com/2026/07/31/y-combinator-ai-startup-lemonlime-tattoos-interviews/",
-      "published_at": "2026-07-31T21:01:53+00:00",
-      "summary": "LemonLime’s cofounder apologized following a flurry of online backlash and offered to cover removal costs for the tattoos"
+      "title": "Welcome to the mega-war: Mideast and European conflicts merge, sucking in more countries along the way—even ones claiming neutrality",
+      "url": "https://fortune.com/2026/08/01/iran-ukraine-mega-war-mideast-european-conflicts-merge-russia-nato-egypt-saudi-coalition/",
+      "published_at": "2026-08-01T17:24:46+00:00",
+      "summary": "\"The Iran and Ukraine wars may be connecting.\""
     },
     {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
-      "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
-      "published_at": "2026-07-31T21:19:09+00:00",
-      "summary": "<p>If you ask an AI coding agent to write a standalone Python script to parse a single JSON file, it will likely give you a perfect answer in seconds. But the same agent often breaks if you ask it to build a systematic data processing pipeline, like ingesting thousands of messy documents, chunking t"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
-      "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
-      "published_at": "2026-07-31T19:20:00+00:00",
-      "summary": "<p>The AI agent observability space is taking off — but how can enterprises be sure what observability products and solutions they need?</p><p>Observability startup groudcover (lower case &quot;g&quot; intentional) <a href=\"https://www.groundcover.com/news/groundcover-raises-100-million-series-c\">an"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "published_at": "2026-07-31T12:16:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old"
+      "source": "36氪",
+      "lang": "zh",
+      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+      "url": "https://36kr.com/p/3920595518533250?f=rss",
+      "published_at": null,
+      "summary": "<p>如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp;</p>\n  <p>因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp;</p>\n  <p>但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp;</p>\n  <p>2026年，ChinaJoy 即将在7月底的上海"
     },
     {
       "source": "36氪",
@@ -234,14 +194,6 @@
       "url": "https://36kr.com/p/3919112515956355?f=rss",
       "published_at": null,
       "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">你的创业想法，值得被看见</p>\n  <p>有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
-      "url": "https://36kr.com/p/3919271016263303?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>低空经济正从飞行器制造走向城市治理。</p>\n  <p>7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。</p>\n  <p>据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成，依托高精度低空空域时空信息格网，可实现机场智能调度、航线自动生成、障碍物智能规避等能力，支持“一键直飞”“接力续飞”“临时转飞”等自动化飞行模"
     }
   ]
 }

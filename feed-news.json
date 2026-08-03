@@ -1,135 +1,135 @@
 {
-  "updated_at": "2026-08-02T04:30:26.638036+00:00",
+  "updated_at": "2026-08-03T04:37:06.883549+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Inside the London hacker house taking a stand against founder burnout",
-      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "published_at": "2026-08-01T21:14:48+00:00",
-      "summary": "How one founder house is betting work-life balance can beat burnout ."
+      "title": "The global memory shortage hits the MacBook Air",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "published_at": "2026-08-02T21:33:59+00:00",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "published_at": "2026-08-01T20:26:04+00:00",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "published_at": "2026-08-02T20:54:22+00:00",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "published_at": "2026-08-01T19:45:45+00:00",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "published_at": "2026-08-02T17:05:07+00:00",
+      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ..."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-      "published_at": "2026-08-01T18:47:27+00:00",
-      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing."
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "published_at": "2026-08-02T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "published_at": "2026-08-01T17:07:34+00:00",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "published_at": "2026-08-01T15:58:17+00:00",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-      "published_at": "2026-08-01T15:05:00+00:00",
-      "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Apps that help you break free from doomscrolling and get active",
-      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-      "published_at": "2026-08-01T14:00:00+00:00",
-      "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help."
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "published_at": "2026-08-02T15:23:19+00:00",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump backs off from new strikes on Iran, claiming Mideast allies have outlines of an emerging deal to reopen the Strait of Hormuz",
-      "url": "https://fortune.com/2026/08/01/trump-iran-strikes-mideast-allies-emerging-strait-of-hormuz/",
-      "published_at": "2026-08-02T02:47:35+00:00",
-      "summary": "He added that Israel has agreed to join the U.S. in the commitment to try to complete the agreement with Iran."
+      "title": "After canceling Iran strikes, Trump says negotiations will resume Monday afternoon while Tehran continues Hormuz talks with Oman",
+      "url": "https://fortune.com/2026/08/02/iran-war-trump-negotiations-resume-monday-tehran-hormuz-talks-oman/",
+      "published_at": "2026-08-02T23:23:00+00:00",
+      "summary": "Trump on Sunday said he expected negotiations to resume “tomorrow afternoon” but did not detail who would be involved in such talks."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The labor market could become so backward that the economy will have to shed jobs to keep unemployment steady",
-      "url": "https://fortune.com/2026/08/01/the-labor-market-could-become-so-backward-that-the-economy-will-have-to-shed-jobs-to-keep-unemployment-steady/",
-      "published_at": "2026-08-01T23:15:22+00:00",
-      "summary": "\"Today, the labor market’s speed limit is much lower than just a few years ago, setting the stage for a jobless expansion.\""
+      "title": "Markets signal investors are back in buying mode again after Kospi’s record surge while Trump gives peace a chance with latest Iran reversal",
+      "url": "https://fortune.com/2026/08/02/kospi-index-dow-futures-us-stocks-trump-iran-war-reversal-oil-prices/",
+      "published_at": "2026-08-02T22:59:59+00:00",
+      "summary": "South Korea’s Kospi index, which has been a bellwether for global stocks lately, soared 18% on Friday, marking its biggest single-day jump on record."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Amid fears of Iranian cyberattacks, Michigan joins Minnesota in reporting hackers targeted water systems. The FBI is now investigating",
-      "url": "https://fortune.com/2026/08/01/iranian-cyberattacks-michigan-minnesota-hackers-water-systems-fbi/",
-      "published_at": "2026-08-01T21:47:05+00:00",
-      "summary": "Earlier this week, authorities said cyberattacks targeted over 30 water systems in Minnesota."
+      "title": "UK’s Burnham pledges ‘relentless’ focus on illegal migration",
+      "url": "https://fortune.com/2026/08/02/uk-prime-minister-any-burnham-relentless-focus-illegal-immigration-ceuta-spain-morocco/",
+      "published_at": "2026-08-02T21:46:35+00:00",
+      "summary": "“The public don’t like the idea that the border looks like it’s not controlled.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump blasts Pirro after she admitted Reflecting Pool damage was caused by botched installation and blamed Interior Dept. for not sharing information",
-      "url": "https://fortune.com/2026/08/01/trump-us-attorney-jeanine-pirro-reflecting-pool-damage-installation-vandals-interior-dept/",
-      "published_at": "2026-08-01T21:19:13+00:00",
-      "summary": "Pirro’s office, in a court filing on Friday, moved to drop criminal charges against a former Olympian, David Hearn, who had been accused of deliberately damaging the pool."
+      "title": "Here’s how Trump has zig zagged with on-again, off-again strikes throughout the Iran war",
+      "url": "https://fortune.com/2026/08/02/trump-on-again-off-again-strikes-iran-war-oil-prices-ceasefire-mou-hormuz/",
+      "published_at": "2026-08-02T21:35:29+00:00",
+      "summary": "he abrupt shifts have been a defining feature of the five-month conflict that has sent prices of oil and basic goods soaring."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Fed Chair Kevin Warsh talks a big game, but this market indicator will tell you if Wall Street trusts him after he caused a ‘credibility shock’",
-      "url": "https://fortune.com/2026/08/01/fed-chair-kevin-warsh-credibility-shock-rate-hikes-inflation-yield-curve/",
-      "published_at": "2026-08-01T20:27:41+00:00",
-      "summary": "\"The bottom line is that an important part of the Fed’s credibility is not just to say that it has certain goals but also to explain how it will achieve those goals.\""
+      "title": "CXMT’s blockbuster IPO will test whether China’s memory makers are ready for the spotlight: ‘It does not yet mean China is broadly catching up’",
+      "url": "https://fortune.com/2026/08/02/cxmts-blockbuster-ipo-will-test-whether-chinas-memory-makers-are-ready-for-the-spotlight-it-does-not-yet-mean-china-is-broadly-catching-up/",
+      "published_at": "2026-08-02T21:30:00+00:00",
+      "summary": "Experts say shortages are forcing companies to explore Chinese chip supplies, yet adoption is still likely to be selective and politically contested."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Spain puts up a 1,600-foot sea barrier between Ceuta and Morocco after EU states warn against ‘uncontrolled mass crossings’",
-      "url": "https://fortune.com/2026/08/01/spain-sea-barrier-ceuta-morocco-eu-states-uncontrolled-mass-crossings/",
-      "published_at": "2026-08-01T18:18:46+00:00",
-      "summary": "Italian Premier Giorgia Meloni has also threatened to suspend Italy’s open-border Schengen agreement with Spain."
+      "title": "AstraZeneca said to have explored Bristol Myers merger",
+      "url": "https://fortune.com/2026/08/02/astrazeneca-bristol-myers-squibb-merger-patents-us-market/",
+      "published_at": "2026-08-02T21:27:05+00:00",
+      "summary": "Bristol Myers Squibb, which has a $133 billion market capitalization, could provide AstraZeneca with a bigger foothold in the US market."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump vows to restore his ‘Anti-Weaponization Fund’ a day after declaring it dead, while Tillis slams it as a ‘payout pot for punks’",
-      "url": "https://fortune.com/2026/08/01/trump-anti-weaponization-fund-acting-attorney-general-todd-blanche-thom-tillis-payout-pot-punks/",
-      "published_at": "2026-08-01T18:01:28+00:00",
-      "summary": "Trump also asserted in his Truth Social post that he would keep acting Attorney General Todd Blanche in his current role."
+      "title": "AI is creating a two-speed jobs market in the UK, Indeed says",
+      "url": "https://fortune.com/2026/08/02/ai-two-speed-job-market-uk-software-manufacturing-experience-entry-level/",
+      "published_at": "2026-08-02T20:58:23+00:00",
+      "summary": "“Demand is concentrating around experienced workers and roles directly connected to AI, rather than flowing evenly through the profession.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Welcome to the mega-war: Mideast and European conflicts merge, sucking in more countries along the way—even ones claiming neutrality",
-      "url": "https://fortune.com/2026/08/01/iran-ukraine-mega-war-mideast-european-conflicts-merge-russia-nato-egypt-saudi-coalition/",
-      "published_at": "2026-08-01T17:24:46+00:00",
-      "summary": "\"The Iran and Ukraine wars may be connecting.\""
+      "title": "As AI creates more entrepreneurs and a skills mismatch, Gen Z faces the choice of being a specialist or a ‘general-purpose nerd’",
+      "url": "https://fortune.com/2026/08/02/as-ai-creates-more-entrepreneurs-and-a-skills-mismatch-gen-z-faces-the-choice-of-being-a-specialist-or-a-general-purpose-nerd/",
+      "published_at": "2026-08-02T20:27:49+00:00",
+      "summary": "\"AI is creating a structural skills mismatch as companies aggressively replace generalists with specialized talent.\""
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
+      "url": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+      "published_at": "2026-08-02T19:00:00+00:00",
+      "summary": "<p>If you have built anything with <a href=\"https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data?_gl=1*11in6e8*_up*MQ..*_ga*MTU3NzY5MzUzOS4xNzg1Njk1MzEy*_ga_SCH1J7LNKY*czE3ODU2OTUzMTEkbzEkZzAkdDE3ODU2OTUzMTEkajYwJGwwJGgyMDQ5NTU1MDM1*_ga_B8TDS1LEXQ*czE3ODU2OTUzMTEkbz"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+      "url": "https://36kr.com/p/3919025939246727?f=rss",
+      "published_at": null,
+      "summary": "<p>文 | 赵京娜</p>\n  <p>访谈 编辑 | 海若镜</p>\n  <p>36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。</p>\n  <p>奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。</p>\n  <p>“<strong>今天，"
+    },
+    {
+      "source": "36氪",
+      "lang": "zh",
+      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+      "url": "https://36kr.com/p/3923043072634498?f=rss",
+      "published_at": null,
+      "summary": "<h2>今日热点导览</h2>\n  <p>马斯克关注了DeepSeek的X账号</p>\n  <p>祥鹏航空回应航班误发过期方便面</p>\n  <p>OpenAI或将IPO推迟到明年</p>\n  <p>SpaceX首份财报即将发布</p>\n  <p>小米多款手机正式涨价</p>\n  <p>每月10万美元，特朗普“真实社交”售卖“优先访问权”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>蔡崇信宣布离婚，不涉及出售阿里股份</strong></p>\n  <p>8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻"
     },
     {
       "source": "36氪",
@@ -178,22 +178,6 @@
       "url": "https://36kr.com/p/3919225763540611?f=rss",
       "published_at": null,
       "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子 黄绎达</p>\n  <p><strong>编辑 |</strong>&nbsp;张帆</p>\n  <p>开云的转型初见成效。</p>\n  <p>7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。</p>\n  <p>更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。</p>\n  <p>其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
-      "url": "https://36kr.com/p/3919301778288261?f=rss",
-      "published_at": null,
-      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。</p>\n  <p>前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。</p>\n  <p>Maker Tool通常指面向个人创客、教育机构和小型工作室的桌面数字化制造设备，涵盖3D打印机、桌面CNC、激光雕刻机、创意裁切设备等产"
-    },
-    {
-      "source": "36氪",
-      "lang": "zh",
-      "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
-      "url": "https://36kr.com/p/3919112515956355?f=rss",
-      "published_at": null,
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">你的创业想法，值得被看见</p>\n  <p>有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率"
     }
   ]
 }

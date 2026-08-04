@@ -1,183 +1,255 @@
 {
-  "updated_at": "2026-08-03T04:37:06.883549+00:00",
+  "updated_at": "2026-08-04T04:19:43.075152+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 31,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The global memory shortage hits the MacBook Air",
-      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "published_at": "2026-08-02T21:33:59+00:00",
-      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac."
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "published_at": "2026-08-03T23:19:50+00:00",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sam Altman and AI’s decel debate",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "published_at": "2026-08-02T20:54:22+00:00",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "published_at": "2026-08-03T22:10:58+00:00",
+      "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-      "published_at": "2026-08-02T17:05:07+00:00",
-      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ..."
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "published_at": "2026-08-03T20:00:00+00:00",
+      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-      "published_at": "2026-08-02T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "published_at": "2026-08-03T19:45:35+00:00",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "published_at": "2026-08-02T15:23:19+00:00",
-      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen."
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "published_at": "2026-08-03T19:28:57+00:00",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "published_at": "2026-08-03T19:09:56+00:00",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "published_at": "2026-08-03T18:54:09+00:00",
+      "summary": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "published_at": "2026-08-03T18:43:43+00:00",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Why The Product Manager To CEO Pipeline Is The Underrated Crash Course For Leadership In Tech",
+      "url": "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/",
+      "published_at": "2026-08-03T13:00:06+00:00",
+      "summary": "Traditional research on CEO career paths tends to focus on titles such as COO, CFO and divisional president. But the skills developed in product management may be just as relevant, argues Paysend CEO Ben Chisell. In this guest column, he makes the case that aspiring leaders should focus less on coll"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "‘A Rare Land-Grab Moment’: Menlo Ventures’ Matt Murphy On The Next Wave of AI And Putting $3B In New Capital To Work",
+      "url": "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
+      "published_at": "2026-08-03T11:00:43+00:00",
+      "summary": "We speak with Menlo Ventures' Matt Murphy about why AI is pushing the firm toward larger deals, what it has learned from its Anthropic relationship, and where he sees the next big opportunities."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After canceling Iran strikes, Trump says negotiations will resume Monday afternoon while Tehran continues Hormuz talks with Oman",
-      "url": "https://fortune.com/2026/08/02/iran-war-trump-negotiations-resume-monday-tehran-hormuz-talks-oman/",
-      "published_at": "2026-08-02T23:23:00+00:00",
-      "summary": "Trump on Sunday said he expected negotiations to resume “tomorrow afternoon” but did not detail who would be involved in such talks."
+      "title": "Palantir CEO Alex Karp celebrates 93% revenue growth as stock soars after blockbuster earnings: ‘For the first time people believe us’",
+      "url": "https://fortune.com/2026/08/03/palantir-ceo-alex-karp-celebrates-93-revenue-growth-as-stock-soars-after-blockbuster-earnings-for-the-first-time-people-believe-us/",
+      "published_at": "2026-08-04T00:04:28+00:00",
+      "summary": "Palantir’s AI software business delivered a blockbuster quarter, with revenue soaring 93% and shares jumping 14% after hours."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Markets signal investors are back in buying mode again after Kospi’s record surge while Trump gives peace a chance with latest Iran reversal",
-      "url": "https://fortune.com/2026/08/02/kospi-index-dow-futures-us-stocks-trump-iran-war-reversal-oil-prices/",
-      "published_at": "2026-08-02T22:59:59+00:00",
-      "summary": "South Korea’s Kospi index, which has been a bellwether for global stocks lately, soared 18% on Friday, marking its biggest single-day jump on record."
+      "title": "Electric air taxis are finally ready for takeoff",
+      "url": "https://fortune.com/2026/08/03/electric-air-taxis-joby-aviation-evtols-archer-aviation/",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "summary": "A new breed of aircraft—half-helicopter, half-drone—begin real world tests across the U.S. this summer thanks to a federal program. First up is cargo, with passengers close behind."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "UK’s Burnham pledges ‘relentless’ focus on illegal migration",
-      "url": "https://fortune.com/2026/08/02/uk-prime-minister-any-burnham-relentless-focus-illegal-immigration-ceuta-spain-morocco/",
-      "published_at": "2026-08-02T21:46:35+00:00",
-      "summary": "“The public don’t like the idea that the border looks like it’s not controlled.”"
+      "title": "Sea’s MariBank wants to export its Singapore digital banking playbook: First stop, the Philippines",
+      "url": "https://fortune.com/2026/08/03/sea-maribank-singapore-philippines-digital-bank/",
+      "published_at": "2026-08-03T21:30:00+00:00",
+      "summary": "MariBank launched in 2023 as a wholly owned subsidiary of Sea, Southeast Asia’s largest tech firm and No. 12 on the Fortune Southeast Asia 500."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Here’s how Trump has zig zagged with on-again, off-again strikes throughout the Iran war",
-      "url": "https://fortune.com/2026/08/02/trump-on-again-off-again-strikes-iran-war-oil-prices-ceasefire-mou-hormuz/",
-      "published_at": "2026-08-02T21:35:29+00:00",
-      "summary": "he abrupt shifts have been a defining feature of the five-month conflict that has sent prices of oil and basic goods soaring."
+      "title": "‘A hidden gem’: Odyssey fans are shelling out up to $2,000 to buy 70mm IMAX tickets on eBay",
+      "url": "https://fortune.com/2026/08/03/the-odyssey-fans-shelling-out-buy-70mm-imax-tickets-ebay/",
+      "published_at": "2026-08-03T16:59:29+00:00",
+      "summary": "This box-office success story is inspiring record cinema attendance rates and points to a rise in analog methods used in Hollywood."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "CXMT’s blockbuster IPO will test whether China’s memory makers are ready for the spotlight: ‘It does not yet mean China is broadly catching up’",
-      "url": "https://fortune.com/2026/08/02/cxmts-blockbuster-ipo-will-test-whether-chinas-memory-makers-are-ready-for-the-spotlight-it-does-not-yet-mean-china-is-broadly-catching-up/",
-      "published_at": "2026-08-02T21:30:00+00:00",
-      "summary": "Experts say shortages are forcing companies to explore Chinese chip supplies, yet adoption is still likely to be selective and politically contested."
+      "title": "Palantir shares jump 13% as U.S. AI demand sends revenue soaring past targets",
+      "url": "https://fortune.com/2026/08/03/palantir-earnings-guidance-beat-revenue-profit-ai-demand/",
+      "published_at": "2026-08-03T20:57:44+00:00",
+      "summary": "Revenue surged 93% year over year as U.S. commercial sales climbed 149%, prompting Palantir to lift its full-year outlook above Wall Street expectations."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AstraZeneca said to have explored Bristol Myers merger",
-      "url": "https://fortune.com/2026/08/02/astrazeneca-bristol-myers-squibb-merger-patents-us-market/",
-      "published_at": "2026-08-02T21:27:05+00:00",
-      "summary": "Bristol Myers Squibb, which has a $133 billion market capitalization, could provide AstraZeneca with a bigger foothold in the US market."
+      "title": "Go ahead, make fun of Tommy Bahama. The CEO is happy to join you, and he’s probably not a fan of your preppy shorts",
+      "url": "https://fortune.com/2026/08/03/tommy-bahama-ceo-doug-wood-on-clothing-fashion-having-fun/",
+      "published_at": "2026-08-03T16:47:13+00:00",
+      "summary": "Doug Wood’s a lovable character. His thoughts on what you should wear, and how to have fun while wearing it, are up for debate."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI is creating a two-speed jobs market in the UK, Indeed says",
-      "url": "https://fortune.com/2026/08/02/ai-two-speed-job-market-uk-software-manufacturing-experience-entry-level/",
-      "published_at": "2026-08-02T20:58:23+00:00",
-      "summary": "“Demand is concentrating around experienced workers and roles directly connected to AI, rather than flowing evenly through the profession.”"
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "As AI creates more entrepreneurs and a skills mismatch, Gen Z faces the choice of being a specialist or a ‘general-purpose nerd’",
-      "url": "https://fortune.com/2026/08/02/as-ai-creates-more-entrepreneurs-and-a-skills-mismatch-gen-z-faces-the-choice-of-being-a-specialist-or-a-general-purpose-nerd/",
-      "published_at": "2026-08-02T20:27:49+00:00",
-      "summary": "\"AI is creating a structural skills mismatch as companies aggressively replace generalists with specialized talent.\""
+      "title": "Exclusive: Former OpenAI exec Fidji Simo discusses her battle with POTS and her startup’s plans to cure it with AI and 3,500 vials of blood (so far)",
+      "url": "https://fortune.com/2026/08/03/fidji-simo-discusses-pots-diseases-chroniclebio-ai-startup-openai/",
+      "published_at": "2026-08-03T19:23:43+00:00",
+      "summary": "Simo is a cofounder of ChronicleBio, which aims to cure complex chronic diseases by analyzing biological data with the latest AI models."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
-      "url": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
-      "published_at": "2026-08-02T19:00:00+00:00",
-      "summary": "<p>If you have built anything with <a href=\"https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data?_gl=1*11in6e8*_up*MQ..*_ga*MTU3NzY5MzUzOS4xNzg1Njk1MzEy*_ga_SCH1J7LNKY*czE3ODU2OTUzMTEkbzEkZzAkdDE3ODU2OTUzMTEkajYwJGwwJGgyMDQ5NTU1MDM1*_ga_B8TDS1LEXQ*czE3ODU2OTUzMTEkbz"
+      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+      "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+      "published_at": "2026-08-03T23:50:58+00:00",
+      "summary": "<p>Chinese e-commerce and cloud giant Alibaba&#x27;s famed Qwen team of AI researchers last night <a href=\"https://x.com/Alibaba_Qwen/status/2084100707423289643\">unveiled Qwen3.8-Max</a>, a new flagship 2.4-trillion-parameter mixture-of-experts (MoE) multimodal large language model (LLM) that target"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Asana's AI agents share memory across your company — but not your secrets",
+      "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+      "published_at": "2026-08-03T23:14:48+00:00",
+      "summary": "<p>Enterprise teams building AI agents keep hitting the same wall: a chatbot that can answer a prompt but can&#x27;t remember what the last five people asked it, and can&#x27;t tell you whether last month&#x27;s version actually worked.</p><p>In a fireside chat with VentureBeat&#x27;s Sam Witteveen"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
+      "url": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "summary": "<p><i>Presented by NTT DATA AIVista </i></p><hr /><p>At <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a>, NTT DATA AIVista CEO Bratin Saha joined VentureBeat CEO and editor-in-chief Matt Marshall to discuss the last-mile challenge of operationalizing frontier models in regulat"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "published_at": "2026-08-03T18:43:30+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "published_at": "2026-08-03T12:08:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "published_at": "2026-08-03T08:30:05+00:00",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
-      "url": "https://36kr.com/p/3919025939246727?f=rss",
+      "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+      "url": "https://36kr.com/p/3924634192673153?f=rss",
       "published_at": null,
-      "summary": "<p>文 | 赵京娜</p>\n  <p>访谈 编辑 | 海若镜</p>\n  <p>36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。</p>\n  <p>奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。</p>\n  <p>“<strong>今天，"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。</p>\n  <p>随着低轨卫星和空间碎片数量快速增长，近地轨道正在变得更加拥挤，卫星碰撞风险随之提升，空间态势感知（Space Situational Awareness，SSA）逐渐成为卫星运营的重要基础"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
-      "url": "https://36kr.com/p/3923043072634498?f=rss",
+      "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
+      "url": "https://36kr.com/p/3924628805351811?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>马斯克关注了DeepSeek的X账号</p>\n  <p>祥鹏航空回应航班误发过期方便面</p>\n  <p>OpenAI或将IPO推迟到明年</p>\n  <p>SpaceX首份财报即将发布</p>\n  <p>小米多款手机正式涨价</p>\n  <p>每月10万美元，特朗普“真实社交”售卖“优先访问权”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>蔡崇信宣布离婚，不涉及出售阿里股份</strong></p>\n  <p>8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻"
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.4亿元融资。本轮融资由前海金控，广州国控，海川聚义，杭州众燊参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。</p>\n  <p>陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。</p>\n  <p>目前，陶世产品已"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-      "url": "https://36kr.com/p/3920595518533250?f=rss",
+      "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+      "url": "https://36kr.com/p/3924467692927369?f=rss",
       "published_at": null,
-      "summary": "<p>如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp;</p>\n  <p>因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp;</p>\n  <p>但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp;</p>\n  <p>2026年，ChinaJoy 即将在7月底的上海"
+      "summary": "<h2>今日热点导览</h2>\n  <p>OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题</p>\n  <p>江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万</p>\n  <p>iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售</p>\n  <p>多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药</p>\n  <p>王思聪卸任万达产业投资公司董事</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>宗馥莉同父异母兄弟出任新公司董事长，实际控制人为杜建英</strong></p>\n  <p>据天眼查显示，7月31日，杭州"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
-      "url": "https://36kr.com/p/3920241240419720?f=rss",
+      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+      "url": "https://36kr.com/p/3923717502072969?f=rss",
       "published_at": null,
-      "summary": "<h2>今日热点导览</h2>\n  <p>字节跳动发布视频创作模型Seedance 2.5</p>\n  <p>长鑫科技市值突破4万亿</p>\n  <p>人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线</p>\n  <p>韩国KOSPI指数上涨18%</p>\n  <p>Anthropic称AI模型在测试期间误侵三家真实机构系统</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>马斯克回应特斯拉剥离中国业务</strong></p>\n  <p>7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑"
+      "summary": "<p>AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？</p>\n  <p>内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。</p>\n  <p><strong>圆桌嘉宾：</stro"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
-      "url": "https://36kr.com/p/3919386961177985?f=rss",
+      "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+      "url": "https://36kr.com/p/3923603053686151?f=rss",
       "published_at": null,
-      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>&nbsp;</p>\n  <h3><strong>一句话介绍</strong></h3>\n  <p>国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。</p>\n  <p>主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。</p>\n  <h3><strong>融资情况</strong></h3>\n  <p>近日，丘脑智"
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_d4d3e685b30f4f4c904ddc0fe3c2f434@5284654_oswg693586oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片1</p>\n  <p>&nbsp;</p>\n  <h3><strong>今日A股收盘数据</strong></h3>\n  <p>上证指数：38"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-      "url": "https://36kr.com/p/3910776673064073?f=rss",
+      "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+      "url": "https://36kr.com/p/3923465542364545?f=rss",
       "published_at": null,
-      "summary": "<p>文｜王毓婵 兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。</p>\n  <p>36氪就此事向B站方面求证，对方暂无回应。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_450bbe65a3064be2abe1e6b2b881612c@10269314_oswg1594051oswg1404oswg1250_img_png?x-oss-process=image/"
+      "summary": "<p>其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。</p>\n  <p>这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？</p>\n  <p>围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开，既保留了完成度较高的镜头，也完整记录了复杂任务中的试错过程。</p>\n  <p><strong>先说核心结论：可灵3.0更适合关键镜头的创作。</strong></p>"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
-      "url": "https://36kr.com/p/3919378312670857?f=rss",
+      "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+      "url": "https://36kr.com/p/3923374038265217?f=rss",
       "published_at": null,
-      "summary": "<h2>大公司：</h2>\n  <p><strong>途牛：8月中上旬或将迎新一轮客流高峰</strong></p>\n  <p>36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。</p>\n  <p><strong>Prada集团上半年营收增长16%，Miu Miu增速显著放缓</strong></p>\n  <p>2026年上半年，Prada集团营收按固定汇率计同比增长16%"
+      "summary": "<p>硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。</p>\n  <p>量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_a1cc1824150a471a80ba772bb4f40ea1@6310669_oswg96227oswg"
     },
     {
       "source": "36氪",
       "lang": "zh",
-      "title": "开云的转折：在中国，做一个AI乐观派",
-      "url": "https://36kr.com/p/3919225763540611?f=rss",
+      "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
+      "url": "https://36kr.com/p/3923371035831684?f=rss",
       "published_at": null,
-      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子 黄绎达</p>\n  <p><strong>编辑 |</strong>&nbsp;张帆</p>\n  <p>开云的转型初见成效。</p>\n  <p>7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。</p>\n  <p>更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。</p>\n  <p>其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄"
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。</p>\n  <p>「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。</p>\n  <p>凭借极致的易用"
     }
   ]
 }

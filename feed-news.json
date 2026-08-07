@@ -1,223 +1,183 @@
 {
-  "updated_at": "2026-08-06T04:20:40.663750+00:00",
+  "updated_at": "2026-08-07T03:55:47.759803+00:00",
   "period_hours": 24,
-  "article_count": 27,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
-      "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-      "published_at": "2026-08-05T22:55:43+00:00",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "published_at": "2026-08-06T22:43:53+00:00",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+      "published_at": "2026-08-06T22:00:00+00:00",
+      "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offer"
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Vogue just gave another nod of approval to the tech world",
+      "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+      "published_at": "2026-08-06T21:24:47+00:00",
+      "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
+      "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "published_at": "2026-08-06T21:20:00+00:00",
       "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nikita Bier steps down as X’s head of product",
-      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
-      "published_at": "2026-08-05T21:30:50+00:00",
-      "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X."
+      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+      "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+      "published_at": "2026-08-06T19:40:46+00:00",
+      "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-      "published_at": "2026-08-05T21:26:40+00:00",
-      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber."
+      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
+      "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
+      "published_at": "2026-08-06T19:22:30+00:00",
+      "summary": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "published_at": "2026-08-05T21:21:28+00:00",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+      "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+      "published_at": "2026-08-06T19:02:57+00:00",
+      "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-      "published_at": "2026-08-05T21:05:37+00:00",
-      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-      "published_at": "2026-08-05T20:50:45+00:00",
-      "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "How Lightspeed found its newest hire … via Instagram DM",
-      "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
-      "published_at": "2026-08-05T20:48:56+00:00",
-      "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Why Lightspeed is going all-in on creator-led venture capital",
-      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-      "published_at": "2026-08-05T20:48:54+00:00",
-      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;OpenAI&#8217;s acquisiti"
+      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
+      "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
+      "published_at": "2026-08-06T17:41:56+00:00",
+      "summary": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-08-05T18:09:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "‘Nobody Wanted to Give A Former Principal Money’: How An Educator Built An Edtech AI Startup With $63M From VCs",
-      "url": "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
-      "published_at": "2026-08-05T11:00:41+00:00",
-      "summary": "Founded by an educator fascinated by the educational potential of ChatGPT, MagicSchool AI leads off a series of articles featuring startup founders from non-technical backgrounds who have launched successful venture-backed companies."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Your AI Strategy May Be Destroying Your Exit Value",
-      "url": "https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie/",
-      "published_at": "2026-08-05T11:00:37+00:00",
-      "summary": "While integrating AI into a startup's product strategy is often viewed as a way to enhance valuation, it can inadvertently reduce exit value, argues tech strategic adviser Itay Sagie. In this guest commentary he shares three ways your AI strategy can provide a positive impact on valuation when it be"
+      "title": "The Return Of The Repeat Founder: Inside YC’s Growing Class Of Second-Timers",
+      "url": "https://news.crunchbase.com/venture/y-combinator-repeat-founders-numbers-grow-epstein-callaway/",
+      "published_at": "2026-08-06T11:00:56+00:00",
+      "summary": "We analyzed a dataset of repeat founders who have gone through Y Combinator’s cohorts and found some very interesting insights. The dataset, shared with us directly from YC, consisted of 454 repeat founders through the program as well as 935 founder-company records spanning 2005 through 2026. We spo"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX created a new class of ultrawealthy. Here’s what comes next",
-      "url": "https://fortune.com/2026/08/05/spacex-created-a-new-class-of-ultrawealthy-heres-what-comes-next/",
-      "published_at": "2026-08-05T22:57:07+00:00",
-      "summary": "Few public offerings have created so many paper millionaires so quickly. But that was on paper."
+      "title": "Singapore’s IPO reboot sees 3.5x the listings and over $3 billion raised, as reforms bring bourse revenue up 14%",
+      "url": "https://fortune.com/2026/08/06/singapores-ipo-reboot-sees-3-5x-the-listings-and-over-3-billion-raised-as-reforms-bring-bourse-revenue-up-14-via-dual-listing-bridge-with-nasdaq/",
+      "published_at": "2026-08-06T16:35:03+00:00",
+      "summary": "The Singapore Exchange (SGX) reported a 24.6% increase in net profits in FY2026."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After months of a public back and forth over Mamdani’s pied-à-terre tax, Ken Griffin isn’t ready to give up on New York after all",
-      "url": "https://fortune.com/2026/08/05/ken-griffin-citadel-zohran-mamdani-new-york-tax/",
-      "published_at": "2026-08-05T21:08:31+00:00",
-      "summary": "The Citadel CEO is staying put, and both his hedge fund and market maker will remain anchor tenants in a new $4.5 billion skyscraper."
+      "title": "eBay CEO Jamie Iannone’s playbook embraces Gen Z and a cautious approach to AI",
+      "url": "https://fortune.com/2026/08/06/ebay-ceo-jamie-iannone-ai-tools-ai-buyers-shopping-agents-earnings/",
+      "published_at": "2026-08-06T09:56:27+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A billion SpaceX shares unlock Thursday. Wall Street isn’t worried: ‘You never bet against Elon’",
-      "url": "https://fortune.com/2026/08/05/spacex-lockup-expiration-index-inclusion-bailout-luria/",
-      "published_at": "2026-08-05T19:35:22+00:00",
-      "summary": "Four index providers rushed SpaceX into millions of 401(k)s within 25 days of listing. D.A. Davidson’s Gil Luria sees how Musk already knows how this will play out."
+      "title": "Asia needs deeper energy markets if it’s going to achieve its AI ambitions",
+      "url": "https://fortune.com/2026/08/06/asia-deeper-energy-markets-achieve-ai-ambition/",
+      "published_at": "2026-08-06T21:00:00+00:00",
+      "summary": "Energy security and computing power are becoming highly interdependent. Asia's supply of both is more fragile than its ambitions assume."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why a friendlier robot loses your trust faster when It messes up",
-      "url": "https://fortune.com/2026/08/05/robot-mistakes-trust-brain-study/",
-      "published_at": "2026-08-05T21:54:24+00:00",
-      "summary": "A new brain-imaging study of the humanoid robot Pepper found that oxytocin spikes during a robot's mistakes track with suspicion, not affection."
+      "title": "Washington is keeping its AI rulebook private. Smaller AI labs aren’t happy.",
+      "url": "https://fortune.com/2026/08/06/washington-is-keeping-its-ai-rulebook-private-smaller-ai-labs-arent-happy/",
+      "published_at": "2026-08-06T20:25:15+00:00",
+      "summary": "A new White House framework gives Washington early access to the most powerful AI systems on earth, but smaller labs say the process locks them out."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Is Elon Musk’s master plan with SpaceX to have rockets replace planes for global cargo delivery?",
-      "url": "https://fortune.com/2026/08/05/spacex-rockets-global-cargo-delivery/",
-      "published_at": "2026-08-05T21:50:00+00:00",
-      "summary": "SpaceX is targeting government and defense customers who need cargo fast. It will need to figure out where to land."
+      "title": "Weight-loss drug Wegovy made Novo Nordisk Europe’s most valuable company. Finding its next blockbuster drug is proving difficult",
+      "url": "https://fortune.com/2026/08/06/weight-loss-drug-wegovy-novo-nordisk-europe-most-valuable-company-blockbuster-drug/",
+      "published_at": "2026-08-06T12:31:05+00:00",
+      "summary": "A clinical trial failure and U.S. competition have been tough for the Danish pharmaceutical firm. CFO Karsten Munk Knudsen says the company is doubling down on innovation and its weight loss pills as it looks toward its next stage of growth."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iranian hackers and America’s Achilles heel on water: default passwords",
-      "url": "https://fortune.com/2026/08/05/iran-hackers-water-systems-plc-breach/",
-      "published_at": "2026-08-05T21:43:58+00:00",
-      "summary": "The FBI and EPA say attackers accessed internet-connected Rockwell Automation controllers and changed their IP addresses and passwords."
+      "title": "93% of jalapeno salmonella problems came from Mexican restaurants including Chipotle and Qdoba, officials say",
+      "url": "https://fortune.com/2026/08/06/chipotle-stock-jalapeno-salmonella-outbreak-drop/",
+      "published_at": "2026-08-06T20:25:35+00:00",
+      "summary": "Federal officials say Chipotle's jalapeño risk is over. Investors who erased 10% of its stock value on Tuesday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "5 years after NIL began, college coaches still out-earn the athletes they coach",
-      "url": "https://fortune.com/2026/08/05/college-athlete-pay-coaches-salaries-nil/",
-      "published_at": "2026-08-05T21:39:16+00:00",
-      "summary": "Booster-funded collectives helped athletes like Bo Nix and the Cavinder twins land brand deals, but Trump's executive orders show the fight is not settled."
+      "title": "Major hedge funds targeted in wave of attempted cyberattacks",
+      "url": "https://fortune.com/2026/08/06/major-hedge-funds-targeted-in-wave-of-attempted-cyberattacks/",
+      "published_at": "2026-08-06T20:10:01+00:00",
+      "summary": "Cyber criminals attempted using voice phishing to mimic voices in phone calls to gain access to sensitive information at major hedge funds."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Third time’s a charm for CDC director as Senate finally confirms Erica Schwartz as new agency head",
-      "url": "https://fortune.com/2026/08/05/cdc-erica-schwartz-confirmation/",
-      "published_at": "2026-08-05T21:31:14+00:00",
-      "summary": "Schwartz was the third Trump nominee for CDC director in the past 18 months."
+      "title": "OpenAI agents passed secret notes for months leading up to Hugging Face hack",
+      "url": "https://fortune.com/2026/08/06/openai-agents-passed-secret-notes-for-months-leading-up-to-hugging-face-hack/",
+      "published_at": "2026-08-06T19:31:17+00:00",
+      "summary": "At the Black Hat conference in Las Vegas, OpenAI gives its first in-depth look at how its AI models plotted and executed the breach with no human assistance."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
-      "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
-      "published_at": "2026-08-05T21:00:10+00:00",
-      "summary": "<p>Meta today <a href=\"https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2?utm_source=ai_meta_site&amp;utm_medium=web&amp;utm_campaign=hp_research_muse-1-2_08052026&amp;utm_content=hp_research_muse-1-2_08052026\">released Muse Code</a>, a terminal-based AI coding agent now in beta,"
+      "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
+      "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
+      "published_at": "2026-08-06T22:56:06+00:00",
+      "summary": "<p>Earlier this week, the AI startup Liquid, formed in 2023 by former MIT computer scientists, <a href=\"https://www.liquid.ai/blog/lfm2-5-2-6b\">debuted LFM2.5-2.6B</a>, a new open-weight language model designed specifically for agentic workloads. </p><p>In release materials and a recent interview wi"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
-      "url": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know",
-      "published_at": "2026-08-05T18:00:02+00:00",
-      "summary": "<p>The UK AI Security Institute (AISI<a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">) disclosed last night</a> that the leading two frontier AI models from Anthropic and OpenAI took 19 unsanctioned actions against the live internet during cyb"
+      "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
+      "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
+      "published_at": "2026-08-06T16:11:47+00:00",
+      "summary": "<p><a href=\"https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use\">Alibaba released Qwen 3.8-Max</a> this week and marketed the preview as second only to Claude Fable 5 (their <a href=\"https://qwen.ai/blog?id=qwen3"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "The Shai-Hulud npm worm didn't fake its security check — it earned a legitimate one",
-      "url": "https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one",
-      "published_at": "2026-08-05T16:12:47+00:00",
-      "summary": "<p>An attacker on Tuesday took over the GitHub account of the developer who maintains <a href=\"https://keyv.org/\">keyv</a>, a small key-value storage library that <a href=\"https://www.npmjs.com/\">npm</a> serves roughly 127 million times a week. Within hours, poisoned versions of keyv and its sibling"
+      "title": "AI agents are part of your team now. Here’s how to secure all of them.",
+      "url": "https://venturebeat.com/security/ai-agents-are-part-of-your-team-now-heres-how-to-secure-all-of-them",
+      "published_at": "2026-08-06T15:30:00+00:00",
+      "summary": "<p><i>Presented by JumpCloud</i></p><hr /><p><i>A practical framework for securing every identity in the modern workforce, human or not.</i></p><p>Your organization already has a rigorous process for governing human identities. New employees go through onboarding. They get a role, a set of entitleme"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
-      "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
-      "published_at": "2026-08-05T15:42:43+00:00",
-      "summary": "<p><a href=\"https://hark.com/\">Hark</a>, the secretive <a href=\"https://www.businesswire.com/news/home/20260324789327/en/Hark-Launches-AI-Lab-Building-Futuristic-Interface-to-Artificial-Intelligence\">AI startup founded earlier this year </a>by serial entrepreneur and roboticist Brett Adcock, <a href"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "AI is exposing the limits of traditional network architecture",
-      "url": "https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture",
-      "published_at": "2026-08-05T07:00:00+00:00",
-      "summary": "<p><i>Presented by Tata Communications </i></p><hr /><p>Continuous inference, agent-to-agent communication, and real-time data pipelines are generating unpredictable, always-on traffic that legacy architectures were never built to support. As AI moves from pilot project to operational backbone, the"
+      "title": "The browser is where attacks land. Why is security still focused on the endpoint?",
+      "url": "https://venturebeat.com/security/the-browser-is-where-attacks-land-why-is-security-still-focused-on-the-endpoint",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "summary": "<p><i>Presented by CloudMosa </i></p><hr /><p>Enterprise work now happens increasingly inside the browser, and that shift has made the browser a primary point of entry for cyberattacks as well. Browser-based attacks have surged over the past two years, according to industry reports, while Gartner pr"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Puzzle Corner",
-      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "published_at": "2026-08-05T14:56:29+00:00",
-      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-      "published_at": "2026-08-05T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Tele"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-      "published_at": "2026-08-05T08:06:40+00:00",
-      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of"
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "published_at": "2026-08-06T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model"
     }
   ]
 }

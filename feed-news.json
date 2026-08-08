@@ -1,183 +1,175 @@
 {
-  "updated_at": "2026-08-07T03:55:47.759803+00:00",
+  "updated_at": "2026-08-08T02:58:02.225220+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "published_at": "2026-08-06T22:43:53+00:00",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published_at": "2026-08-07T22:48:24+00:00",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-      "published_at": "2026-08-06T22:00:00+00:00",
-      "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offer"
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "published_at": "2026-08-07T21:30:11+00:00",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Vogue just gave another nod of approval to the tech world",
-      "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-      "published_at": "2026-08-06T21:24:47+00:00",
-      "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist."
+      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "published_at": "2026-08-07T21:20:00+00:00",
+      "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-      "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-      "published_at": "2026-08-06T21:20:00+00:00",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "published_at": "2026-08-07T21:00:08+00:00",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "published_at": "2026-08-07T16:16:09+00:00",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+      "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+      "published_at": "2026-08-07T16:09:04+00:00",
+      "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+      "published_at": "2026-08-07T15:52:33+00:00",
       "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-      "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-      "published_at": "2026-08-06T19:40:46+00:00",
-      "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-      "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
-      "published_at": "2026-08-06T19:22:30+00:00",
-      "summary": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-      "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
-      "published_at": "2026-08-06T19:02:57+00:00",
-      "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
-      "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
-      "published_at": "2026-08-06T17:41:56+00:00",
-      "summary": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to."
+      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+      "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+      "published_at": "2026-08-07T15:11:03+00:00",
+      "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Return Of The Repeat Founder: Inside YC’s Growing Class Of Second-Timers",
-      "url": "https://news.crunchbase.com/venture/y-combinator-repeat-founders-numbers-grow-epstein-callaway/",
-      "published_at": "2026-08-06T11:00:56+00:00",
-      "summary": "We analyzed a dataset of repeat founders who have gone through Y Combinator’s cohorts and found some very interesting insights. The dataset, shared with us directly from YC, consisted of 454 repeat founders through the program as well as 935 founder-company records spanning 2005 through 2026. We spo"
+      "title": "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai/",
+      "published_at": "2026-08-07T19:52:22+00:00",
+      "summary": "Startups raised funding rounds with a lot of zeroes at the end this week, with three companies securing financings of $1 billion or more. Additionally, a robust lineup of companies in sectors including AI, e-commerce, cybersecurity, biotech and even mining also announced sizable new rounds."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "No Summer Doldrums For Active Startup Investors In July",
+      "url": "https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
+      "published_at": "2026-08-07T11:00:52+00:00",
+      "summary": "Active startup investors kept up the pace in July, with familiar names topping the ranks in several metrics including most prolific venture dealmakers, most active lead backers, biggest spenders and highest-volume seed investors."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Singapore’s IPO reboot sees 3.5x the listings and over $3 billion raised, as reforms bring bourse revenue up 14%",
-      "url": "https://fortune.com/2026/08/06/singapores-ipo-reboot-sees-3-5x-the-listings-and-over-3-billion-raised-as-reforms-bring-bourse-revenue-up-14-via-dual-listing-bridge-with-nasdaq/",
-      "published_at": "2026-08-06T16:35:03+00:00",
-      "summary": "The Singapore Exchange (SGX) reported a 24.6% increase in net profits in FY2026."
+      "title": "Trump tries again to fire Fed governor Lisa Cook after narrow Supreme Court decision, renewing battle over central bank independence",
+      "url": "https://fortune.com/2026/08/07/trump-fed-governor-lisa-cook-supreme-court-decision-central-bank-independence/",
+      "published_at": "2026-08-07T22:40:23+00:00",
+      "summary": "“No matter what President Trump tries to do next, this much is clear under the facts and Supreme Court precedent — there is no valid cause for removing Governor Cook.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "eBay CEO Jamie Iannone’s playbook embraces Gen Z and a cautious approach to AI",
-      "url": "https://fortune.com/2026/08/06/ebay-ceo-jamie-iannone-ai-tools-ai-buyers-shopping-agents-earnings/",
-      "published_at": "2026-08-06T09:56:27+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
+      "title": "Meet the 82-year-old Kentucky grandma who turned down $26 million to turn her farm into a data center: ‘I don’t need your money’",
+      "url": "https://fortune.com/2026/08/07/kentucky-grandma-turned-down-26-million-family-farm-data-center/",
+      "published_at": "2026-08-07T20:59:01+00:00",
+      "summary": "Ida Huddleston says no amount of money was worth losing land that’s been in her family for more than 200 years."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Asia needs deeper energy markets if it’s going to achieve its AI ambitions",
-      "url": "https://fortune.com/2026/08/06/asia-deeper-energy-markets-achieve-ai-ambition/",
-      "published_at": "2026-08-06T21:00:00+00:00",
-      "summary": "Energy security and computing power are becoming highly interdependent. Asia's supply of both is more fragile than its ambitions assume."
+      "title": "The deportation economy is backfiring on American workers, top economist warns",
+      "url": "https://fortune.com/2026/08/07/deportation-economy-july-jobs-report-immigrants-ice-raids/",
+      "published_at": "2026-08-07T19:07:21+00:00",
+      "summary": "Diane Swonk says July’s bizarre jobs report is the first data from the deportation economy: shrinking payrolls and a shrinking workforce."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Washington is keeping its AI rulebook private. Smaller AI labs aren’t happy.",
-      "url": "https://fortune.com/2026/08/06/washington-is-keeping-its-ai-rulebook-private-smaller-ai-labs-arent-happy/",
-      "published_at": "2026-08-06T20:25:15+00:00",
-      "summary": "A new White House framework gives Washington early access to the most powerful AI systems on earth, but smaller labs say the process locks them out."
+      "title": "Bill Ackman agrees with Jeff Bezos: Being a great CEO can do more for the world than philanthropy",
+      "url": "https://fortune.com/2026/08/07/bill-ackman-philanthropy-capitalism-jeff-bezos/",
+      "published_at": "2026-08-07T19:07:02+00:00",
+      "summary": "The hedge fund billionaire has been a philanthropist for 20 years and told Fortune that it's \"vastly less efficient at solving problems than capitalism.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Weight-loss drug Wegovy made Novo Nordisk Europe’s most valuable company. Finding its next blockbuster drug is proving difficult",
-      "url": "https://fortune.com/2026/08/06/weight-loss-drug-wegovy-novo-nordisk-europe-most-valuable-company-blockbuster-drug/",
-      "published_at": "2026-08-06T12:31:05+00:00",
-      "summary": "A clinical trial failure and U.S. competition have been tough for the Danish pharmaceutical firm. CFO Karsten Munk Knudsen says the company is doubling down on innovation and its weight loss pills as it looks toward its next stage of growth."
+      "title": "After blowing through its entire 2026 AI budget in months, Uber CTO says, ‘We’re coming to the end of the so-called tokenmaxxing era’",
+      "url": "https://fortune.com/2026/08/07/uber-ai-spending-tokenmaxxing-is-over-cto/",
+      "published_at": "2026-08-07T17:48:15+00:00",
+      "summary": "“You might expect costs to rise as adoption accelerates,” Praveen Neppalli Naga said. “We’ve seen the opposite.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "93% of jalapeno salmonella problems came from Mexican restaurants including Chipotle and Qdoba, officials say",
-      "url": "https://fortune.com/2026/08/06/chipotle-stock-jalapeno-salmonella-outbreak-drop/",
-      "published_at": "2026-08-06T20:25:35+00:00",
-      "summary": "Federal officials say Chipotle's jalapeño risk is over. Investors who erased 10% of its stock value on Tuesday."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Major hedge funds targeted in wave of attempted cyberattacks",
-      "url": "https://fortune.com/2026/08/06/major-hedge-funds-targeted-in-wave-of-attempted-cyberattacks/",
-      "published_at": "2026-08-06T20:10:01+00:00",
-      "summary": "Cyber criminals attempted using voice phishing to mimic voices in phone calls to gain access to sensitive information at major hedge funds."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "OpenAI agents passed secret notes for months leading up to Hugging Face hack",
-      "url": "https://fortune.com/2026/08/06/openai-agents-passed-secret-notes-for-months-leading-up-to-hugging-face-hack/",
-      "published_at": "2026-08-06T19:31:17+00:00",
-      "summary": "At the Black Hat conference in Las Vegas, OpenAI gives its first in-depth look at how its AI models plotted and executed the breach with no human assistance."
+      "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions",
+      "url": "https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/",
+      "published_at": "2026-08-07T16:17:11+00:00",
+      "summary": "The compute cost of investigating the incident is staggering, given details revealed in a talk the company delivered at a security conference this week."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
-      "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
-      "published_at": "2026-08-06T22:56:06+00:00",
-      "summary": "<p>Earlier this week, the AI startup Liquid, formed in 2023 by former MIT computer scientists, <a href=\"https://www.liquid.ai/blog/lfm2-5-2-6b\">debuted LFM2.5-2.6B</a>, a new open-weight language model designed specifically for agentic workloads. </p><p>In release materials and a recent interview wi"
+      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "published_at": "2026-08-07T21:45:39+00:00",
+      "summary": "<p>As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems a"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
-      "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
-      "published_at": "2026-08-06T16:11:47+00:00",
-      "summary": "<p><a href=\"https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use\">Alibaba released Qwen 3.8-Max</a> this week and marketed the preview as second only to Claude Fable 5 (their <a href=\"https://qwen.ai/blog?id=qwen3"
+      "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
+      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "published_at": "2026-08-07T17:05:52+00:00",
+      "summary": "<p>For developers, the operating assumption has been one engineer, one agent — the model Claude Code and similar tools. <a href=\"https://venturebeat.com/vbtransform2026\">At VB Transform 2026</a>, James Zou, associate professor of biomedical data science at Stanford University, argued that assumption"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "AI agents are part of your team now. Here’s how to secure all of them.",
-      "url": "https://venturebeat.com/security/ai-agents-are-part-of-your-team-now-heres-how-to-secure-all-of-them",
-      "published_at": "2026-08-06T15:30:00+00:00",
-      "summary": "<p><i>Presented by JumpCloud</i></p><hr /><p><i>A practical framework for securing every identity in the modern workforce, human or not.</i></p><p>Your organization already has a rigorous process for governing human identities. New employees go through onboarding. They get a role, a set of entitleme"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The browser is where attacks land. Why is security still focused on the endpoint?",
-      "url": "https://venturebeat.com/security/the-browser-is-where-attacks-land-why-is-security-still-focused-on-the-endpoint",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "summary": "<p><i>Presented by CloudMosa </i></p><hr /><p>Enterprise work now happens increasingly inside the browser, and that shift has made the browser a primary point of entry for cyberattacks as well. Browser-based attacks have surged over the past two years, according to industry reports, while Gartner pr"
+      "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
+      "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
+      "published_at": "2026-08-07T16:30:29+00:00",
+      "summary": "<p>A <a href=\"https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one\">VB Pulse survey this June found that 57%</a> of enterprises had traced a confidently wrong agent answer back to missing or inconsistent contex"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-      "published_at": "2026-08-06T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model"
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "published_at": "2026-08-07T14:20:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "published_at": "2026-08-07T14:00:00+00:00",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Effic"
     }
   ]
 }

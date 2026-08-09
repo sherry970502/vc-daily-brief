@@ -1,175 +1,111 @@
 {
-  "updated_at": "2026-08-08T02:58:02.225220+00:00",
+  "updated_at": "2026-08-09T03:05:36.852812+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 13,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "published_at": "2026-08-07T22:48:24+00:00",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems."
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "published_at": "2026-08-08T21:24:02+00:00",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "published_at": "2026-08-07T21:30:11+00:00",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "published_at": "2026-08-08T19:41:13+00:00",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "published_at": "2026-08-07T21:20:00+00:00",
-      "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true."
+      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+      "published_at": "2026-08-08T16:34:22+00:00",
+      "summary": "X is winding down its existing Revenue Sharing program."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-      "published_at": "2026-08-07T21:00:08+00:00",
-      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites."
+      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+      "published_at": "2026-08-08T16:00:00+00:00",
+      "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "published_at": "2026-08-07T16:16:09+00:00",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
-      "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
-      "published_at": "2026-08-07T16:09:04+00:00",
-      "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-      "published_at": "2026-08-07T15:52:33+00:00",
-      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-      "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
-      "published_at": "2026-08-07T15:11:03+00:00",
-      "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai/",
-      "published_at": "2026-08-07T19:52:22+00:00",
-      "summary": "Startups raised funding rounds with a lot of zeroes at the end this week, with three companies securing financings of $1 billion or more. Additionally, a robust lineup of companies in sectors including AI, e-commerce, cybersecurity, biotech and even mining also announced sizable new rounds."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "No Summer Doldrums For Active Startup Investors In July",
-      "url": "https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
-      "published_at": "2026-08-07T11:00:52+00:00",
-      "summary": "Active startup investors kept up the pace in July, with familiar names topping the ranks in several metrics including most prolific venture dealmakers, most active lead backers, biggest spenders and highest-volume seed investors."
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "published_at": "2026-08-08T15:00:00+00:00",
+      "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump tries again to fire Fed governor Lisa Cook after narrow Supreme Court decision, renewing battle over central bank independence",
-      "url": "https://fortune.com/2026/08/07/trump-fed-governor-lisa-cook-supreme-court-decision-central-bank-independence/",
-      "published_at": "2026-08-07T22:40:23+00:00",
-      "summary": "“No matter what President Trump tries to do next, this much is clear under the facts and Supreme Court precedent — there is no valid cause for removing Governor Cook.\""
+      "title": "Southern Europe’s anti-immigrant attitude on display as Spain, Italy start checking each other’s passports",
+      "url": "https://fortune.com/2026/08/08/spain-supreme-court-ruling-ceuta-migrant-loophole/",
+      "published_at": "2026-08-08T16:07:54+00:00",
+      "summary": "Italian PM Georgia Meloni’s office on Friday said Italian authorities “have no intention” of lifting border checks on people arriving from Spain."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet the 82-year-old Kentucky grandma who turned down $26 million to turn her farm into a data center: ‘I don’t need your money’",
-      "url": "https://fortune.com/2026/08/07/kentucky-grandma-turned-down-26-million-family-farm-data-center/",
-      "published_at": "2026-08-07T20:59:01+00:00",
-      "summary": "Ida Huddleston says no amount of money was worth losing land that’s been in her family for more than 200 years."
+      "title": "Drivers of Mercedes AMG cars file a class action lawsuit, claiming the front-seat logo gets so hot that it literally brands them and causes burns",
+      "url": "https://fortune.com/2026/08/08/mercedes-amg-cars-class-action-lawsuit-front-seat-logo-burns/",
+      "published_at": "2026-08-08T23:27:39+00:00",
+      "summary": "Certain Mercedes AMG vehicles have a design defect where the raised metallic AMG logo is “reasonably expected to contact an occupant’s upper back, neck, or shoulder,” according to the suit."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The deportation economy is backfiring on American workers, top economist warns",
-      "url": "https://fortune.com/2026/08/07/deportation-economy-july-jobs-report-immigrants-ice-raids/",
-      "published_at": "2026-08-07T19:07:21+00:00",
-      "summary": "Diane Swonk says July’s bizarre jobs report is the first data from the deportation economy: shrinking payrolls and a shrinking workforce."
+      "title": "Great disappointment will follow the Great Wealth Transfer as baby boomers pass on just a fraction of their fortune to millennials and Gen Xers",
+      "url": "https://fortune.com/2026/08/08/great-wealth-transfer-baby-boomers-millennials-gen-x-heir-inheritance/",
+      "published_at": "2026-08-08T23:01:09+00:00",
+      "summary": "The good news for the younger generations is that boomers are already showering some of their money on their heirs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Bill Ackman agrees with Jeff Bezos: Being a great CEO can do more for the world than philanthropy",
-      "url": "https://fortune.com/2026/08/07/bill-ackman-philanthropy-capitalism-jeff-bezos/",
-      "published_at": "2026-08-07T19:07:02+00:00",
-      "summary": "The hedge fund billionaire has been a philanthropist for 20 years and told Fortune that it's \"vastly less efficient at solving problems than capitalism.\""
+      "title": "Iran issues long list of steep demands the U.S. must satisfy before the Strait of Hormuz will be reopened, including total compensation for war damage",
+      "url": "https://fortune.com/2026/08/08/iran-demands-strait-of-hormuz-us-conditions-total-compensation-war-damage/",
+      "published_at": "2026-08-08T20:58:19+00:00",
+      "summary": "The Supreme National Security Council said the Strait of Hormuz will not open until the United States \"corrects its behavior.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After blowing through its entire 2026 AI budget in months, Uber CTO says, ‘We’re coming to the end of the so-called tokenmaxxing era’",
-      "url": "https://fortune.com/2026/08/07/uber-ai-spending-tokenmaxxing-is-over-cto/",
-      "published_at": "2026-08-07T17:48:15+00:00",
-      "summary": "“You might expect costs to rise as adoption accelerates,” Praveen Neppalli Naga said. “We’ve seen the opposite.”"
+      "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
+      "url": "https://fortune.com/2026/08/08/iran-economic-collapse-us-naval-blockade-hormuz-sanctions-relief/",
+      "published_at": "2026-08-08T20:14:08+00:00",
+      "summary": "But Iran's aggressive demands cool hopes that the strait will see traffic return to normal anytime soon or that the U.S. will stop applying economic pressure on Iran."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions",
-      "url": "https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/",
-      "published_at": "2026-08-07T16:17:11+00:00",
-      "summary": "The compute cost of investigating the incident is staggering, given details revealed in a talk the company delivered at a security conference this week."
+      "title": "How Chevron became the AI darling of Big Oil",
+      "url": "https://fortune.com/2026/08/08/how-chevron-became-the-ai-darling-of-big-oil/",
+      "published_at": "2026-08-08T07:11:00+00:00",
+      "summary": "Chevron's West Texas data center deal with Microsoft may jumpstart a new Big Ol and AI trend."
     },
     {
-      "source": "VentureBeat",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
-      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
-      "published_at": "2026-08-07T21:45:39+00:00",
-      "summary": "<p>As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems a"
+      "title": "AI is changing work faster than the data can keep up",
+      "url": "https://fortune.com/2026/08/08/ai-is-changing-work-faster-than-the-data-can-keep-up/",
+      "published_at": "2026-08-08T12:00:00+00:00",
+      "summary": "Recent studies have shown AI having a positive impact on job growth, yet economists and labor activists warn that the emerging technology threatens to quickly transform the financial system."
     },
     {
-      "source": "VentureBeat",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
-      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
-      "published_at": "2026-08-07T17:05:52+00:00",
-      "summary": "<p>For developers, the operating assumption has been one engineer, one agent — the model Claude Code and similar tools. <a href=\"https://venturebeat.com/vbtransform2026\">At VB Transform 2026</a>, James Zou, associate professor of biomedical data science at Stanford University, argued that assumption"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
-      "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-      "published_at": "2026-08-07T16:30:29+00:00",
-      "summary": "<p>A <a href=\"https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one\">VB Pulse survey this June found that 57%</a> of enterprises had traced a confidently wrong agent answer back to missing or inconsistent contex"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "published_at": "2026-08-07T14:20:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "published_at": "2026-08-07T14:00:00+00:00",
-      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Effic"
+      "title": "With broad bipartisan support, Congress is about to give Trump ‘unchecked authority’ to impose new tariffs of up to 100% on top trading partners",
+      "url": "https://fortune.com/2026/08/08/trump-tariffs-100-percent-russia-sanctions-bill-congress-import-taxes/",
+      "published_at": "2026-08-08T17:23:27+00:00",
+      "summary": "\"We should not have to choose between putting a check on Putin's aggression and putting a check on this president's tariffs regime.\""
     }
   ]
 }

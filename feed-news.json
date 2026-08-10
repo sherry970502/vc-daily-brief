@@ -1,111 +1,127 @@
 {
-  "updated_at": "2026-08-09T03:05:36.852812+00:00",
+  "updated_at": "2026-08-10T03:15:35.548086+00:00",
   "period_hours": 24,
-  "article_count": 13,
+  "article_count": 15,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "published_at": "2026-08-08T21:24:02+00:00",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "published_at": "2026-08-09T20:35:17+00:00",
+      "summary": "The AI-focused hedge fund is still making some big bets."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "published_at": "2026-08-08T19:41:13+00:00",
-      "summary": "NextSlide says its team members are now working on ChatGPT."
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "published_at": "2026-08-09T19:20:32+00:00",
+      "summary": "Programming with Claude Code will soon require even less human oversight."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "published_at": "2026-08-08T16:34:22+00:00",
-      "summary": "X is winding down its existing Revenue Sharing program."
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "published_at": "2026-08-09T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "published_at": "2026-08-08T16:00:00+00:00",
-      "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size."
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "published_at": "2026-08-09T15:00:00+00:00",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "published_at": "2026-08-08T15:00:00+00:00",
-      "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames."
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "published_at": "2026-08-09T14:30:00+00:00",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "published_at": "2026-08-09T14:00:00+00:00",
+      "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "published_at": "2026-08-09T13:00:00+00:00",
+      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Southern Europe’s anti-immigrant attitude on display as Spain, Italy start checking each other’s passports",
-      "url": "https://fortune.com/2026/08/08/spain-supreme-court-ruling-ceuta-migrant-loophole/",
-      "published_at": "2026-08-08T16:07:54+00:00",
-      "summary": "Italian PM Georgia Meloni’s office on Friday said Italian authorities “have no intention” of lifting border checks on people arriving from Spain."
+      "title": "An airline had to cancel a flight and rebook passengers for the next day because a child refused to sit down and buckle up",
+      "url": "https://fortune.com/2026/08/09/porter-airlines-flight-cancelation-toronto-british-columbia-child/",
+      "published_at": "2026-08-09T23:10:54+00:00",
+      "summary": "Toronto-based Porter Airlines said Sunday the parent and crew repeatedly tried unsuccessfully to secure the child in the seat before returning the plane to the terminal."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Drivers of Mercedes AMG cars file a class action lawsuit, claiming the front-seat logo gets so hot that it literally brands them and causes burns",
-      "url": "https://fortune.com/2026/08/08/mercedes-amg-cars-class-action-lawsuit-front-seat-logo-burns/",
-      "published_at": "2026-08-08T23:27:39+00:00",
-      "summary": "Certain Mercedes AMG vehicles have a design defect where the raised metallic AMG logo is “reasonably expected to contact an occupant’s upper back, neck, or shoulder,” according to the suit."
+      "title": "Trump’s new White House counsel headed the commission that secured his $400 million ballroom project",
+      "url": "https://fortune.com/2026/08/09/trump-white-house-counsel-commission-400-million-ballroom-project/",
+      "published_at": "2026-08-09T22:54:00+00:00",
+      "summary": "Will Scharf will be replacing David Warrington, who will be leaving the administration to join the private sector."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Great disappointment will follow the Great Wealth Transfer as baby boomers pass on just a fraction of their fortune to millennials and Gen Xers",
-      "url": "https://fortune.com/2026/08/08/great-wealth-transfer-baby-boomers-millennials-gen-x-heir-inheritance/",
-      "published_at": "2026-08-08T23:01:09+00:00",
-      "summary": "The good news for the younger generations is that boomers are already showering some of their money on their heirs."
+      "title": "By propping up the yen, the U.S. and Japan are actually admitting dollar dominance isn’t what it used to be, top economist warns",
+      "url": "https://fortune.com/2026/08/09/dollar-dominance-yen-usd-japan-treasury-debt-yields-intervention-dedollarization-gold/",
+      "published_at": "2026-08-09T22:33:07+00:00",
+      "summary": "\"When this message sinks in, other countries will redouble their search for more attractive, readily usable alternatives.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran issues long list of steep demands the U.S. must satisfy before the Strait of Hormuz will be reopened, including total compensation for war damage",
-      "url": "https://fortune.com/2026/08/08/iran-demands-strait-of-hormuz-us-conditions-total-compensation-war-damage/",
-      "published_at": "2026-08-08T20:58:19+00:00",
-      "summary": "The Supreme National Security Council said the Strait of Hormuz will not open until the United States \"corrects its behavior.\""
+      "title": "More GOP senators call for Miller to quit over abuse allegations",
+      "url": "https://fortune.com/2026/08/09/rep-max-miller-abuse-allegations-reelection-house-majority-gop-senators/",
+      "published_at": "2026-08-09T20:44:43+00:00",
+      "summary": "Ohio’s other senator, Jon Husted, Montana Senator Tim Sheehy and Kansas Senator Roger Marshall have also said Miller, who represents northeast Ohio, should quit."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
-      "url": "https://fortune.com/2026/08/08/iran-economic-collapse-us-naval-blockade-hormuz-sanctions-relief/",
-      "published_at": "2026-08-08T20:14:08+00:00",
-      "summary": "But Iran's aggressive demands cool hopes that the strait will see traffic return to normal anytime soon or that the U.S. will stop applying economic pressure on Iran."
+      "title": "Flesh-eating bacteria infections are surging along the Gulf Coast with five deaths reported in Louisiana",
+      "url": "https://fortune.com/2026/08/09/flesh-eating-bacteria-infections-gulf-coast-deaths-louisiana/",
+      "published_at": "2026-08-09T20:33:53+00:00",
+      "summary": "“Seek medical care immediately if a wound exposed to brackish or salt water becomes red, swollen, painful, warm or discolored.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Chevron became the AI darling of Big Oil",
-      "url": "https://fortune.com/2026/08/08/how-chevron-became-the-ai-darling-of-big-oil/",
-      "published_at": "2026-08-08T07:11:00+00:00",
-      "summary": "Chevron's West Texas data center deal with Microsoft may jumpstart a new Big Ol and AI trend."
+      "title": "Trump is betting that the U.S. naval blockade choking Iran’s economy can achieve what bombs and missiles couldn’t as more oil sneaks out of the Gulf",
+      "url": "https://fortune.com/2026/08/09/trump-us-naval-blockade-iran-economy-crisis-hormuz-talks-oil-prices/",
+      "published_at": "2026-08-09T19:41:07+00:00",
+      "summary": "\"We are just watching Iran with its huge inflation and the fact they have no money,\" Trump said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI is changing work faster than the data can keep up",
-      "url": "https://fortune.com/2026/08/08/ai-is-changing-work-faster-than-the-data-can-keep-up/",
-      "published_at": "2026-08-08T12:00:00+00:00",
-      "summary": "Recent studies have shown AI having a positive impact on job growth, yet economists and labor activists warn that the emerging technology threatens to quickly transform the financial system."
+      "title": "Kalshi cracks down on insider trading as Trump family looks to increase prediction market presence",
+      "url": "https://fortune.com/2026/08/09/kalshi-insider-trump-truth-social-prediction-markets-polymarket/",
+      "published_at": "2026-08-09T08:30:00+00:00",
+      "summary": "Prediction markets are becoming intertwined with the government, and Kalshi is trying to prove it’s policing insider trading."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "With broad bipartisan support, Congress is about to give Trump ‘unchecked authority’ to impose new tariffs of up to 100% on top trading partners",
-      "url": "https://fortune.com/2026/08/08/trump-tariffs-100-percent-russia-sanctions-bill-congress-import-taxes/",
-      "published_at": "2026-08-08T17:23:27+00:00",
-      "summary": "\"We should not have to choose between putting a check on Putin's aggression and putting a check on this president's tariffs regime.\""
+      "title": "‘Millennials are not punk kids anymore’ — Ocasio-Cortez sees a ‘generational tidal wave’ driven by anger over economic futures sidelined by boomers",
+      "url": "https://fortune.com/2026/08/09/millennials-vs-boomers-alexandria-ocasio-cortez-generational-tidal-wave-anger-economic-futures/",
+      "published_at": "2026-08-09T17:19:45+00:00",
+      "summary": "\"And there is anger at being ignored, sidelined, having our economic futures mortgaged by the generations that came before us on everything from the economy to climate.\""
     }
   ]
 }

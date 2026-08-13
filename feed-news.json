@@ -1,199 +1,231 @@
 {
-  "updated_at": "2026-08-12T03:26:44.949152+00:00",
+  "updated_at": "2026-08-13T03:30:31.308336+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 28,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-      "published_at": "2026-08-11T21:39:58+00:00",
-      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices."
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "published_at": "2026-08-12T22:26:37+00:00",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "published_at": "2026-08-11T21:39:11+00:00",
-      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "published_at": "2026-08-12T22:24:00+00:00",
+      "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Uber surprised robotics company Serve by selling its entire stake",
-      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-      "published_at": "2026-08-11T20:02:02+00:00",
-      "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side."
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "published_at": "2026-08-12T20:53:41+00:00",
+      "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
-      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-      "published_at": "2026-08-11T19:38:23+00:00",
-      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns."
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "published_at": "2026-08-12T20:10:40+00:00",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "published_at": "2026-08-11T19:15:35+00:00",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "published_at": "2026-08-12T18:34:21+00:00",
+      "summary": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "published_at": "2026-08-11T18:49:12+00:00",
-      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google."
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "published_at": "2026-08-12T18:19:12+00:00",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "published_at": "2026-08-11T17:46:14+00:00",
-      "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged."
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "published_at": "2026-08-12T17:51:00+00:00",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
-      "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
-      "published_at": "2026-08-11T17:41:49+00:00",
-      "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE."
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "published_at": "2026-08-12T17:41:29+00:00",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The VC Firm That Helped Build Latin America’s Startup Scene Is Crossing Into Silicon Valley",
-      "url": "https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
-      "published_at": "2026-08-11T11:00:59+00:00",
-      "summary": "Monashees, one of Latin America's oldest and most influential VC firms, believes the next phase of the region's startup ecosystem requires a permanent Silicon Valley presence, opening a San Francisco office last year. We spoke with firm partner Fabiola Quinzaños to talk through the firm's evolution"
+      "title": "Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’",
+      "url": "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
+      "published_at": "2026-08-12T12:00:18+00:00",
+      "summary": "Austin-based ClearJet, an AI-enabled logistics technology startup connects shippers with unused cargo capacity on commercial flights, has raised a $25 million Edison Partners-led Series B, it tells Crunchbase News exclusively."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "AI-Native, Not AI-Sprinkle: Why AI Is A Business Change, Not A Technology Change",
-      "url": "https://news.crunchbase.com/ai/native-not-sprinkle-business-growth-change-morse-strattam/",
-      "published_at": "2026-08-11T11:00:55+00:00",
-      "summary": "Companies unlock AI’s biggest productivity gains not by adding AI tools to existing workflows, but by redesigning teams, roles and daily work around AI. The broader lesson, argues Bob Morse, co-founder and managing partner of Strattam Capital, is that achieving transformational gains like 3x product"
+      "title": "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
+      "url": "https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/",
+      "published_at": "2026-08-12T11:00:21+00:00",
+      "summary": "Venture investors seem to be more upbeat than they have been in years about the future of fitness and wellness. Startup investment in those categories totaled more than $3.6 billion in the first half of this year, putting 2026 on pace to come in about a third higher than 2025."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "When OpenAI employees have a problem, they email this special address to see if Sam Altman will solve it immediately",
-      "url": "https://fortune.com/2026/08/11/openai-employees-email-friction-address-to-eliminate-bureaucratic-bottlenecks-sam-altman/",
-      "published_at": "2026-08-11T23:19:20+00:00",
-      "summary": "From office parking issues to technical roadblocks, the friction@openai.com inbox is a way for senior leadership to get direct visibility into on-the-ground issues and eliminate 'big company bulls**t'"
+      "title": "AI was supposed to power Canva’s next act. It also exposed software’s most expensive problem",
+      "url": "https://fortune.com/2026/08/12/canva-startup-growth-ai-costs-revenue-forecast-by-third/",
+      "published_at": "2026-08-12T20:14:27+00:00",
+      "summary": "An analyst said AI is breaking SaaS’s “secret sauce”, and Canva and its competitor, Figma, just became the latest proof."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How a book that inspired Warren Buffett and a $14,000 side hustle helped billionaire Bill Ackman get started as an investor",
-      "url": "https://fortune.com/2026/08/11/how-a-book-that-inspired-warren-buffett-and-a-14000-side-hustle-helped-billionaire-bill-ackman-get-started-as-an-investor/",
-      "published_at": "2026-08-11T16:44:21+00:00",
-      "summary": "Pershing Square Capital Management CEO Bill Ackman says he was inspired to become an investor after working at his dad’s real estate company."
+      "title": "Elon Musk says AI will make money disappear. But crypto billionaire Michael Saylor says he’s wrong for one key reason: ‘We’re status-oriented animals’",
+      "url": "https://fortune.com/2026/08/12/elon-musk-predicts-money-becomes-irrelevant-billionaire-bitcoin-mogul-michael-saylor-disagrees-shifting-luxury-wealth-status/",
+      "published_at": "2026-08-12T15:16:24+00:00",
+      "summary": "The billionaire Bitcoin mogul Michael Saylor says technology has already made luxuries once reserved for kings commonplace."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "France hits unsolicited telemarketers with $87,000 fine per call, following similar provisions in other European nations",
-      "url": "https://fortune.com/2026/08/11/france-unsolicited-telemarketers-87000-fine-per-call/",
-      "published_at": "2026-08-11T20:24:10+00:00",
-      "summary": "The Netherlands, Germany and other countries have employed policies to restrict unsolicited telemarketers for years."
+      "title": "Nearly a dozen firms are already paying up to $100,000 per month for early access Trump’s Truth Social posts",
+      "url": "https://fortune.com/2026/08/12/trump-media-truth-api-insider-trading/",
+      "published_at": "2026-08-12T18:26:09+00:00",
+      "summary": "The release of Truth API has raised concerns about insider trading among economists and legal experts."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s media and crypto firm just posted a $238 million quarterly loss—here’s where those losses came from",
-      "url": "https://fortune.com/2026/08/11/trump-media-crypto-firm-238-million-quarterly-loss/",
-      "published_at": "2026-08-11T18:16:27+00:00",
-      "summary": "The decline in Bitcoin’s price and merger-related legal costs hurt results, prompting a push into new businesses."
+      "title": "Bob Iger and Josh Kushner buy the LA Lakers for a record-breaking $12.5 billion, up 21% in just the 14 months since Mark Walter bought them",
+      "url": "https://fortune.com/2026/08/12/jerry-buss-lakers-hollywood-bob-iger-josh-kushner/",
+      "published_at": "2026-08-12T17:13:17+00:00",
+      "summary": "The pair are buying the team from Mark Walter, who paid $10 billion for it just over a year ago, and someone who Magic Johnson once said would own the team for decades."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jellyfish swarms knock out 3.2 gigawatts of French nuclear power",
-      "url": "https://fortune.com/2026/08/11/jellyfish-swarms-knock-out-3-2-gigawatts-of-french-nuclear-power/",
-      "published_at": "2026-08-11T20:06:06+00:00",
-      "summary": "The offline power comes as the country is forecast to see temperatures near 104F in the coming days."
+      "title": "CIOs and CTOs spent years lauding AI. Now, with costs rising, they’re putting limits on how it’s used",
+      "url": "https://fortune.com/2026/08/12/cios-and-ctos-spent-years-lauding-ai-now-with-costs-rising-theyre-putting-limits-on-how-its-used/",
+      "published_at": "2026-08-12T16:38:40+00:00",
+      "summary": "After making AI tools widely accessible for employees, leaders are putting caps on usage and retraining staff to understand small and cheaper models can often do the job."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Khloé Kardashian’s snack brand Khloud got ahead of the protein craze: ‘The timing was everything’",
-      "url": "https://fortune.com/2026/08/11/how-khloe-kardashians-snack-brand-khloud-got-ahead-of-the-protein-craze-the-timing-was-everything/",
-      "published_at": "2026-08-11T15:25:42+00:00",
-      "summary": "Khloud is winning over consumers at Target, Starbucks, and Walmart. For Khloé Kardashian, the journey to this point has been \"a lot of trial and error.\""
+      "title": "Forget the gala, these Silicon Valley schools run their own venture capital funds",
+      "url": "https://fortune.com/2026/08/12/forget-the-gala-these-silicon-valley-schools-run-their-own-venture-capital-funds/",
+      "published_at": "2026-08-12T07:02:00+00:00",
+      "summary": "A handful of elite Bay Area schools have enlisted parent-donors from Sequoia, Lightspeed, and Battery to steer small pools of donated capital into early-stage startups. With massive IPOs back en vogue, schools are lining up for what could come next."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Japan and the U.S. just spent billions to try to save the yen. Why is it already losing ground?",
+      "url": "https://fortune.com/2026/08/12/us-japan-yen-intervention-unraveling-weak-yen-causes/",
+      "published_at": "2026-08-12T17:13:48+00:00",
+      "summary": "Economists point out that the U.S.-Japan intervention—as significant as it may be—doesn’t tackle the underlying reasons behind the yen’s weakness."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
-      "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
-      "published_at": "2026-08-11T21:07:00+00:00",
-      "summary": "<p>SpaceXAI, the division of SpaceX f<a href=\"https://mashable.com/tech/xai-spacexai-name\">ormerly known as xAI</a>, is <a href=\"https://x.ai/news/introducing-grok-bot\">launching an early beta version of Grok Bot</a>, a new agent designed to move AI assistants beyond answering prompts and toward con"
+      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+      "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+      "published_at": "2026-08-12T18:44:50+00:00",
+      "summary": "<p>Visa&#x27;s president of technology, Rajat Taneja, walked the <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a> audience through <a href=\"https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
-      "url": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
-      "published_at": "2026-08-11T15:00:00+00:00",
-      "summary": "<p><i>Presented by Rezolve Ai</i></p><hr /><p>When an AI assistant recommends a product or brand, it generates something valuable: a purchase-ready consumer with high intent and low friction in their decision. That consumer has already compared options, asked follow-up questions, and arrived at a co"
+      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "published_at": "2026-08-12T17:26:58+00:00",
+      "summary": "<p>Elon Musk&#x27;s company SpaceXAI, formerly known as xAI, has released <a href=\"https://x.ai/news/grok-4-6\">Grok 4.6</a>, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy designed to make those workloads cheaper to run.</p><p>Th"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.",
-      "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
-      "published_at": "2026-08-11T13:59:00+00:00",
-      "summary": "<p><a href=\"https://mistral.ai/\">Mistral AI</a> wants to turn European AI sovereignty from a talking point into a product — one with a service-level agreement attached.</p><p>The French artificial intelligence company announced Tuesday a three-part expansion of its infrastructure business: regional"
+      "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
+      "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
+      "published_at": "2026-08-12T11:00:00+00:00",
+      "summary": "<p><a href=\"https://www.skan.ai/\">Skan AI</a>, a startup that builds what it calls a &quot;<a href=\"https://www.skan.ai/blogs/context-graph-of-work-skan-ai\">context graph of work</a>&quot; by observing how employees actually perform their jobs across enterprise software, has raised $63 million in Se"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
-      "url": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
-      "published_at": "2026-08-11T13:00:00+00:00",
-      "summary": "<p><a href=\"https://ltx.io/\">LTX</a>, the open world model company spun out of Lightricks, today released LTX-2.5, the newest version of its open-weights video and &quot;world&quot; model and it arrives natively integrated into <a href=\"https://www.comfy.org/\">ComfyUI</a>, the node-based workflow to"
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "published_at": "2026-08-12T07:30:00+00:00",
+      "summary": "<p>Across 107 enterprises, agentic orchestration is not a choice of a single platform.</p><p>The typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthropic leads f"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
-      "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
-      "published_at": "2026-08-11T13:00:00+00:00",
-      "summary": "<p>Enterprises running always-on AI agents keep hitting the same tradeoff. Send every task to a frontier model and the bill climbs fast. Build custom routing logic to send easy tasks to cheaper models and that becomes its own engineering project, one that has to be maintained every time a workflow c"
+      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
+      "url": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
+      "published_at": "2026-08-12T07:30:00+00:00",
+      "summary": "<p>Across 101 enterprises, the context feeding AI agents is failing often and repeatedly. Sixty-eight percent have traced a confident but wrong agent answer to missing or inconsistent business context in the past six months, and the single most common answer is not &quot;once&quot; but &quot;more th"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
-      "url": "https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt",
-      "published_at": "2026-08-11T13:00:00+00:00",
-      "summary": "<p><i>Presented by Salesforce</i></p><hr /><p>Interested buyers don&#x27;t generate revenue. Live customers do. That&#x27;s the lesson I keep drawing from watching hundreds of ISV partnerships navigate the agent economy over the last 18 months.</p><p>The companies pulling ahead aren&#x27;t winning o"
+      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+      "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+      "published_at": "2026-08-12T07:30:00+00:00",
+      "summary": "<p>Across 108 enterprises, trust in automated agent evaluation rose sharply in July — and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that evaluations don’t"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
+      "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+      "published_at": "2026-08-12T07:30:00+00:00",
+      "summary": "<p>Across 116 enterprises, agents are in production and so are the incidents: A majority have already had a confirmed agent security event or a near-miss. Two-thirds of enterprises enforce scoped permissions at runtime. Barely one in five isolates its highest-risk agents, making containment the weak"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
-      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "published_at": "2026-08-11T17:58:57+00:00",
-      "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the ne"
+      "title": "Scientists just created female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "published_at": "2026-08-12T18:59:48+00:00",
+      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "published_at": "2026-08-11T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks h"
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "published_at": "2026-08-12T16:51:57+00:00",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "published_at": "2026-08-12T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "How we picked 35 of the world’s top young scientists and engineers",
+      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "published_at": "2026-08-12T09:08:40+00:00",
+      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators global"
     }
   ]
 }

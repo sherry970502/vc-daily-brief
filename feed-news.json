@@ -1,223 +1,191 @@
 {
-  "updated_at": "2026-08-14T03:27:54.034235+00:00",
+  "updated_at": "2026-08-15T02:16:52.722264+00:00",
   "period_hours": 24,
-  "article_count": 27,
+  "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "published_at": "2026-08-13T22:12:40+00:00",
-      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup."
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "published_at": "2026-08-14T22:43:24+00:00",
+      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-      "published_at": "2026-08-13T22:02:04+00:00",
-      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness."
+      "title": "Self-driving trucks are officially testing on California highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "published_at": "2026-08-14T20:37:49+00:00",
+      "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-      "published_at": "2026-08-13T21:50:11+00:00",
-      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices."
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "published_at": "2026-08-14T19:33:00+00:00",
+      "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "published_at": "2026-08-13T21:13:24+00:00",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
+      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "published_at": "2026-08-14T19:04:32+00:00",
+      "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "published_at": "2026-08-13T20:14:39+00:00",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+      "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "published_at": "2026-08-14T18:58:15+00:00",
+      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "published_at": "2026-08-13T19:22:40+00:00",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "published_at": "2026-08-14T16:21:04+00:00",
+      "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "published_at": "2026-08-13T19:19:49+00:00",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "published_at": "2026-08-14T16:13:40+00:00",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "published_at": "2026-08-13T18:28:14+00:00",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "published_at": "2026-08-14T15:43:28+00:00",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-08-13T14:00:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+      "title": "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
+      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
+      "published_at": "2026-08-14T19:32:36+00:00",
+      "summary": "Databricks is back raising another $5 billion, after it raised that amount just eight months ago. The largest fundings this week also went to an AI neolab, data center and electricity storage, defense, coding and biotech. Let’s take a look."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
-      "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
-      "published_at": "2026-08-13T11:00:23+00:00",
-      "summary": "Our second in a series of articles about non-tech founders getting venture funding features Sarah Buchner, a \"blue-collar worker by background\" who set out to find a way to help construction companies manage their projects more efficiently using AI agents."
+      "title": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
+      "url": "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
+      "published_at": "2026-08-14T11:00:53+00:00",
+      "summary": "The sectors leading the herd to the Unicorn Board in July, by count, were financial services, robotics, AI orchestration, multimodal AI, energy and semiconductors, with the U.S. adding nearly half of the month's newly minted unicorns."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Prediction markets’ reputation comes back to earth after surprise result in Wisconsin",
-      "url": "https://fortune.com/2026/08/13/prediction-markets-reputation-surprise-result-wisconsin/",
-      "published_at": "2026-08-14T02:58:49+00:00",
-      "summary": "Kalshi and Polymarket gave Francesca Hong roughly a 95% chance of winning on the eve of the primary, before David Crowley’s upset."
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out",
+      "url": "https://fortune.com/2026/08/14/iran-strait-of-hormuz-shut-down-trump-9-million-barrels-day/",
+      "published_at": "2026-08-14T16:54:27+00:00",
+      "summary": "“Hefty chunk of non-Iranian crude still getting out, unlike the Iranian crude that isn’t.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Buried in OpenAI’s latest research: No correlation between AI use and revenue per employee",
-      "url": "https://fortune.com/2026/08/13/buried-in-openais-latest-research-no-correlation-between-ai-use-and-revenue-per-employee/",
-      "published_at": "2026-08-13T20:28:57+00:00",
-      "summary": "The AI lab grapples with a question that's existential for its future: Do ChatGPT corporate customers get a clear ROI?"
+      "title": "Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit",
+      "url": "https://fortune.com/2026/08/14/anthropic-valuation-ipo-amazon-trillion-openai/",
+      "published_at": "2026-08-14T07:02:00+00:00",
+      "summary": "Investors are hoping for a $2 trillion listing in October backed by one of the fastest revenue ramps anyone has ever seen for a company that has yet to report an annual profit. That might bode well for OpenAI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "This matchmaker went viral when her $35,000 client took a date to a soft pretzel restaurant—but he wasn’t subject to the ‘bald tax’ or the ‘short tax’",
-      "url": "https://fortune.com/2026/08/13/matchmaker-viral-clients-bald-short-men/",
-      "published_at": "2026-08-13T20:19:59+00:00",
-      "summary": "Because of a fixation on tall men, some shorter or bald men have to pay this viral matchmaker a tax because it involves more work on her behalf."
+      "title": "‘If your tariff was 0%, there’s no need to commit fraud’: The White House is sounding off on a $112 billion tariff-dodging scheme it made worse",
+      "url": "https://fortune.com/2026/08/14/white-house-tariff-dodgers-112-billion-dollar-problem-trump-made-worse/",
+      "published_at": "2026-08-14T19:33:21+00:00",
+      "summary": "The Trump administration is cracking down on foreign importers of record behind the evasion—which China is at the center of."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The electric shock gloves ICE is spending up to $20 million on are already being given to police officers in Omaha public schools",
-      "url": "https://fortune.com/2026/08/13/ice-electric-shock-gloves-omaha-nebraska-public-schools/",
-      "published_at": "2026-08-13T20:02:26+00:00",
-      "summary": "The Omaha Police Department was awarded more than $65,000 for 40 pairs of the gloves in May 2025."
+      "title": "People are going to extreme lengths to stop themselves from being filmed through Meta’s ‘pervert glasses’",
+      "url": "https://fortune.com/2026/08/14/people-stop-filming-meta-pervert-glasses-privacy/",
+      "published_at": "2026-08-14T19:45:27+00:00",
+      "summary": "Methods include singing copyrighted songs to downloading scanner apps, but an attorney said not all of these will be foolproof."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A San Francisco ‘tech prankster’ got 50 Waymos ordered onto the same street, exposing robotaxis’ cyber/airbag problem",
-      "url": "https://fortune.com/2026/08/13/a-san-francisco-tech-prankster-got-50-waymos-ordered-onto-the-same-street-exposing-robotaxis-cyber-airbag-problem/",
-      "published_at": "2026-08-13T19:45:26+00:00",
-      "summary": "California requires autonomous vehicle manufacturers to demonstrate they can safely monitor, update and maintain fleets while complying with cyber law."
+      "title": "Code Metal lands $80 million Pentagon deal to modernize military wargaming",
+      "url": "https://fortune.com/2026/08/14/code-metal-lands-80-million-defense-tech-deal-with-pentagon-modernize-military-wargaming/",
+      "published_at": "2026-08-14T10:30:16+00:00",
+      "summary": "Code Metal, a $1.25 billion software firm, just landed a $80 million deal, as the Pentagon increasingly turns to startups for modernization."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Multi-part case study on China’s media’ finds that AI models can’t hallucinate away Chinese censorship",
-      "url": "https://fortune.com/2026/08/13/chinese-censorship-ai-models-case-study/",
-      "published_at": "2026-08-13T19:59:23+00:00",
-      "summary": "New research suggests Chinese state media and authoritarian speech restrictions can shape the answers produced by leading U.S. AI models"
+      "title": "Luigi Mangione pleads guilty in killing of UnitedHeathcare CEO. ‘I shot Mr. Thompson in Manhattan and he died’",
+      "url": "https://fortune.com/2026/08/14/luigi-mangione-pleads-guilty-unitedhealthcare/",
+      "published_at": "2026-08-14T17:35:04+00:00",
+      "summary": "The 28-year-old entered the plea at a hastily scheduled hearing, setting off a legal fight over whether he can still be tried on murder charges."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "AT&T’s CMO tied ‘brand love’ to the numbers CEOs care about. Customers are 3 times less likely to leave and much cheaper to acquire",
+      "url": "https://fortune.com/article/att-cmo-tied-brand-love-customer-churn-marketing-cmo-revenue-growth/",
+      "published_at": "2026-08-14T16:15:30+00:00",
+      "summary": "AT&#038;T’s CMO says customers who love the brand are three times less likely to leave, 50% more likely to buy a second product, and cheaper to acquire."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "United CEO Scott Kirby tells Gen Z interns to ditch excuses—it’s a mantra he learned in Air Force training: ‘Figure out how to overcome it’",
+      "url": "https://fortune.com/2026/08/14/united-ceo-scott-kirby-genz-career-advice-no-excuses-mantra-learned-as-air-force-pilot/",
+      "published_at": "2026-08-14T15:57:49+00:00",
+      "summary": "United Airlines’ 58-year-old CEO shares the first mantra he learned while training as a pilot—and one that was recently publicly put to the test."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
-      "url": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
-      "published_at": "2026-08-13T20:14:20+00:00",
-      "summary": "<p>Every Claude model Anthropic tested turned on its own, and no attacker made them do it. Given three agents, four hours on one server, and conflicting orders none knew the others held, the models disabled each other&#x27;s Unix accounts, ran kill scripts randomized to dodge pkill, and planted malw"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-      "published_at": "2026-08-13T18:02:54+00:00",
-      "summary": "<p>Google is <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/\">rolling out Gemini 3.7 Flash</a>, a new version of its workhorse AI model that puts coding, agentic workflows and knowledge work at the center of the upgrade — while temporari"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-      "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-      "published_at": "2026-08-13T16:47:55+00:00",
-      "summary": "<p>DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.</p><p>The Chinese AI lab on Thursday <a href=\"https://x.com/deepseek_ai/status/2087864585504305397\">launched the official version of DeepSeek-V4-Pro</a>, an updated flagship model fo"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Why Capital One built its multi-agent AI platform around open-weight models",
-      "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
-      "published_at": "2026-08-13T14:00:00+00:00",
-      "summary": "<p><i>Presented by Capital One </i></p><hr /><p>At <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a>, <!-- -->Kel Vanee, MVP of machine learning engineering at Capital One, spoke with Sam Witteveen, Senior Technology Contributor at VentureBeat, about how the bank built a scalab"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-      "published_at": "2026-08-13T13:00:00+00:00",
-      "summary": "<p><a href=\"https://writer.com/\">Writer</a>, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model <a href=\"https://writer.com/llms/\">Palmyra X6</a> today, alongside a rebuilt agent orchestration &quot;harness&quot; an"
+      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
+      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "published_at": "2026-08-14T22:56:16+00:00",
+      "summary": "<p>Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, <a href=\"https://z.ai/blog/glm-5.3\">today released GLM-5.3</a> with substantial gains in long-horizon coding and a more consequential — and potentially sensitive —"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-      "published_at": "2026-08-13T21:00:00+00:00",
-      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US po"
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "published_at": "2026-08-14T12:17:21+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Building a practical path to post-quantum cryptography",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "published_at": "2026-08-13T18:11:42+00:00",
-      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a m"
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "published_at": "2026-08-13T13:41:10+00:00",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly"
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "published_at": "2026-08-13T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-      "published_at": "2026-08-13T10:00:00+00:00",
-      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over ye"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "How kids feel about AI, in their own words",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "published_at": "2026-08-13T09:00:00+00:00",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they"
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep"
     }
   ]
 }

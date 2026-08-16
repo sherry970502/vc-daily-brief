@@ -1,191 +1,119 @@
 {
-  "updated_at": "2026-08-15T02:16:52.722264+00:00",
+  "updated_at": "2026-08-16T02:24:05.278507+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 14,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-      "published_at": "2026-08-14T22:43:24+00:00",
-      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around."
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published_at": "2026-08-15T21:29:19+00:00",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Self-driving trucks are officially testing on California highways",
-      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "published_at": "2026-08-14T20:37:49+00:00",
-      "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles."
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published_at": "2026-08-15T18:58:39+00:00",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "published_at": "2026-08-14T19:33:00+00:00",
-      "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "published_at": "2026-08-15T16:30:00+00:00",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What we know about the alleged Iranian hacks on US water utilities",
-      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-      "published_at": "2026-08-14T19:04:32+00:00",
-      "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government."
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "published_at": "2026-08-15T16:10:00+00:00",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-      "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-      "published_at": "2026-08-14T18:58:15+00:00",
-      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
-      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-      "published_at": "2026-08-14T16:21:04+00:00",
-      "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "published_at": "2026-08-14T16:13:40+00:00",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "published_at": "2026-08-14T15:43:28+00:00",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
-      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
-      "published_at": "2026-08-14T19:32:36+00:00",
-      "summary": "Databricks is back raising another $5 billion, after it raised that amount just eight months ago. The largest fundings this week also went to an AI neolab, data center and electricity storage, defense, coding and biotech. Let’s take a look."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
-      "url": "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
-      "published_at": "2026-08-14T11:00:53+00:00",
-      "summary": "The sectors leading the herd to the Unicorn Board in July, by count, were financial services, robotics, AI orchestration, multimodal AI, energy and semiconductors, with the U.S. adding nearly half of the month's newly minted unicorns."
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "published_at": "2026-08-15T13:15:20+00:00",
+      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out",
-      "url": "https://fortune.com/2026/08/14/iran-strait-of-hormuz-shut-down-trump-9-million-barrels-day/",
-      "published_at": "2026-08-14T16:54:27+00:00",
-      "summary": "“Hefty chunk of non-Iranian crude still getting out, unlike the Iranian crude that isn’t.”"
+      "title": "Seven ways college students can manage their finances — because money decisions impact financial security when starting a first job after graduation",
+      "url": "https://fortune.com/2026/08/15/how-to-manage-money-in-college-student-loans-building-credit-saving/",
+      "published_at": "2026-08-15T23:08:42+00:00",
+      "summary": "If you’re starting college this fall or you’re currently a student, here are some expert recommendations."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit",
-      "url": "https://fortune.com/2026/08/14/anthropic-valuation-ipo-amazon-trillion-openai/",
-      "published_at": "2026-08-14T07:02:00+00:00",
-      "summary": "Investors are hoping for a $2 trillion listing in October backed by one of the fastest revenue ramps anyone has ever seen for a company that has yet to report an annual profit. That might bode well for OpenAI."
+      "title": "Harvard fund discloses $2.2 billion stake in Musk’s SpaceX",
+      "url": "https://fortune.com/2026/08/15/harvard-management-fund-endowment-spacex-stake-university-california-north-carolina/",
+      "published_at": "2026-08-15T22:52:59+00:00",
+      "summary": "Others that have profited include the University of California’s investment arm as well as the University of North Carolina and Washington University in St. Louis."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘If your tariff was 0%, there’s no need to commit fraud’: The White House is sounding off on a $112 billion tariff-dodging scheme it made worse",
-      "url": "https://fortune.com/2026/08/14/white-house-tariff-dodgers-112-billion-dollar-problem-trump-made-worse/",
-      "published_at": "2026-08-14T19:33:21+00:00",
-      "summary": "The Trump administration is cracking down on foreign importers of record behind the evasion—which China is at the center of."
+      "title": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
+      "url": "https://fortune.com/2026/08/15/alibaba-qwen-open-ai-models-3-billion-downloads-meta-google/",
+      "published_at": "2026-08-15T22:39:46+00:00",
+      "summary": "Qwen, Alibaba’s family of AI models, has open-sourced more than 460 models and its ecosystem has spawned 300,000-plus derivatives."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "People are going to extreme lengths to stop themselves from being filmed through Meta’s ‘pervert glasses’",
-      "url": "https://fortune.com/2026/08/14/people-stop-filming-meta-pervert-glasses-privacy/",
-      "published_at": "2026-08-14T19:45:27+00:00",
-      "summary": "Methods include singing copyrighted songs to downloading scanner apps, but an attorney said not all of these will be foolproof."
+      "title": "Scott Bessent fired a currency bazooka, but global finance still looks like a ‘giant Jenga tower’ propped up by a Japanese yen that’s in deep trouble",
+      "url": "https://fortune.com/2026/08/15/scott-bessent-dollar-yen-carry-trade-global-finance-jenga-tower-fed-rates-bank-of-japan/",
+      "published_at": "2026-08-15T22:20:15+00:00",
+      "summary": "\"Now traders are watching the 'yen carry trade,' where cheap yen borrowing funds bets on higher-yielding assets worldwide, and wondering if it’s about to blow up.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Code Metal lands $80 million Pentagon deal to modernize military wargaming",
-      "url": "https://fortune.com/2026/08/14/code-metal-lands-80-million-defense-tech-deal-with-pentagon-modernize-military-wargaming/",
-      "published_at": "2026-08-14T10:30:16+00:00",
-      "summary": "Code Metal, a $1.25 billion software firm, just landed a $80 million deal, as the Pentagon increasingly turns to startups for modernization."
+      "title": "Trump administration tells Supreme Court that ballroom construction must go on despite order to stop, citing recent missile threat on Air Force One",
+      "url": "https://fortune.com/2026/08/15/trump-supreme-court-white-house-ballroom-construction-missile-threat-air-force-one/",
+      "published_at": "2026-08-15T20:04:07+00:00",
+      "summary": "The solicitor general called it an \"integrated military complex, including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Luigi Mangione pleads guilty in killing of UnitedHeathcare CEO. ‘I shot Mr. Thompson in Manhattan and he died’",
-      "url": "https://fortune.com/2026/08/14/luigi-mangione-pleads-guilty-unitedhealthcare/",
-      "published_at": "2026-08-14T17:35:04+00:00",
-      "summary": "The 28-year-old entered the plea at a hastily scheduled hearing, setting off a legal fight over whether he can still be tried on murder charges."
+      "title": "‘I’ll never apologize’ — Trump brushes off Iran war’s impact on oil prices and calls aircraft carrier’s 240+ days at sea ‘not nearly long enough’",
+      "url": "https://fortune.com/2026/08/15/trump-iran-war-oil-prices-abraham-lincoln-aircraft-carriers-record-time-sea/",
+      "published_at": "2026-08-15T19:41:48+00:00",
+      "summary": "Trump acknowledged that he's used the U.S. military “a little bit more than I wanted to,\" while asserting anew that the U.S. operation against Iran is going well."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AT&T’s CMO tied ‘brand love’ to the numbers CEOs care about. Customers are 3 times less likely to leave and much cheaper to acquire",
-      "url": "https://fortune.com/article/att-cmo-tied-brand-love-customer-churn-marketing-cmo-revenue-growth/",
-      "published_at": "2026-08-14T16:15:30+00:00",
-      "summary": "AT&#038;T’s CMO says customers who love the brand are three times less likely to leave, 50% more likely to buy a second product, and cheaper to acquire."
+      "title": "Tariff refunds are juicing corporate profits and GDP as more tailwinds converge to propel growth to a blistering 4.3% pace, top economist says",
+      "url": "https://fortune.com/2026/08/15/tariff-refunds-corporate-profits-gdp-tailwinds-4-3-percent-q3/",
+      "published_at": "2026-08-15T19:08:04+00:00",
+      "summary": "\"The bottom line is that the US economy continues to be supported by a growing set of tailwinds.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "United CEO Scott Kirby tells Gen Z interns to ditch excuses—it’s a mantra he learned in Air Force training: ‘Figure out how to overcome it’",
-      "url": "https://fortune.com/2026/08/14/united-ceo-scott-kirby-genz-career-advice-no-excuses-mantra-learned-as-air-force-pilot/",
-      "published_at": "2026-08-14T15:57:49+00:00",
-      "summary": "United Airlines’ 58-year-old CEO shares the first mantra he learned while training as a pilot—and one that was recently publicly put to the test."
+      "title": "Iran business leader admits U.S. blockade will inflict more economic damage than war, and the ‘worst thing that could happen’ is trying to evade it",
+      "url": "https://fortune.com/2026/08/15/iran-economic-crisis-us-naval-blockade-war-sanctions-hormuz-oil/",
+      "published_at": "2026-08-15T17:32:32+00:00",
+      "summary": "The head of the Iran-China Joint Chamber of Commerce said \"the consequences of the blockade far outweigh those of a direct war.\""
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
-      "published_at": "2026-08-14T22:56:16+00:00",
-      "summary": "<p>Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, <a href=\"https://z.ai/blog/glm-5.3\">today released GLM-5.3</a> with substantial gains in long-horizon coding and a more consequential — and potentially sensitive —"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "published_at": "2026-08-14T12:17:21+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "This scientist is helping build a missing map of childhood",
-      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "published_at": "2026-08-14T09:00:00+00:00",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Job titles of the future: Space travel agent",
-      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-      "published_at": "2026-08-14T09:00:00+00:00",
-      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-      "published_at": "2026-08-14T09:00:00+00:00",
-      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep"
+      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "published_at": "2026-08-15T19:00:00+00:00",
+      "summary": "<p>There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it&#x27;s tedious, time-consuming, and doesn&#x27;t produce results visible to end users: Verifying that what the model is saying is actually correct. Not fluent, not coherent,"
     }
   ]
 }

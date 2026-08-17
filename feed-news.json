@@ -1,119 +1,119 @@
 {
-  "updated_at": "2026-08-16T02:24:05.278507+00:00",
+  "updated_at": "2026-08-17T02:23:10.997762+00:00",
   "period_hours": 24,
   "article_count": 14,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "published_at": "2026-08-15T21:29:19+00:00",
-      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "published_at": "2026-08-16T20:57:04+00:00",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "published_at": "2026-08-15T18:58:39+00:00",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "published_at": "2026-08-16T20:32:01+00:00",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "published_at": "2026-08-15T16:30:00+00:00",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "published_at": "2026-08-16T16:53:51+00:00",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "published_at": "2026-08-15T16:10:00+00:00",
-      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Every fusion startup that has raised over $100M",
-      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-      "published_at": "2026-08-15T13:15:20+00:00",
-      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies."
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "published_at": "2026-08-16T16:04:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Seven ways college students can manage their finances — because money decisions impact financial security when starting a first job after graduation",
-      "url": "https://fortune.com/2026/08/15/how-to-manage-money-in-college-student-loans-building-credit-saving/",
-      "published_at": "2026-08-15T23:08:42+00:00",
-      "summary": "If you’re starting college this fall or you’re currently a student, here are some expert recommendations."
+      "title": "Blanche defends reflecting pool prosecutor who angered Trump",
+      "url": "https://fortune.com/2026/08/16/todd-blanche-attorney-general-reflecting-pool-prosecutor-jeanine-pirro-trump/",
+      "published_at": "2026-08-16T23:31:01+00:00",
+      "summary": "“Now, that’s different than whether the president is extraordinarily frustrated at what happened in that case. And I don’t in any way fault him for that.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Harvard fund discloses $2.2 billion stake in Musk’s SpaceX",
-      "url": "https://fortune.com/2026/08/15/harvard-management-fund-endowment-spacex-stake-university-california-north-carolina/",
-      "published_at": "2026-08-15T22:52:59+00:00",
-      "summary": "Others that have profited include the University of California’s investment arm as well as the University of North Carolina and Washington University in St. Louis."
+      "title": "US probe on Mark Walter focused on four intermediaries, WSJ says",
+      "url": "https://fortune.com/2026/08/16/fraud-investigation-mark-walter-guggenheim-partners-insurance-companies/",
+      "published_at": "2026-08-16T22:48:13+00:00",
+      "summary": "Prosecutors and the SEC are looking into whether Walter or the businesses he controls committed fraud by concealing financial connections while borrowing billions from the insurers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
-      "url": "https://fortune.com/2026/08/15/alibaba-qwen-open-ai-models-3-billion-downloads-meta-google/",
-      "published_at": "2026-08-15T22:39:46+00:00",
-      "summary": "Qwen, Alibaba’s family of AI models, has open-sourced more than 460 models and its ecosystem has spawned 300,000-plus derivatives."
+      "title": "Skyrocketing beef prices finally have Americans reaching their spending limit",
+      "url": "https://fortune.com/2026/08/16/beef-prices-inflation-consumer-spending-limit-cattle-supply/",
+      "published_at": "2026-08-16T22:41:57+00:00",
+      "summary": "Beef sales volumes in the 13 weeks ending in mid-July, a crucial stretch encompassing both Memorial Day and July Fourth, fell 0.3% from a year earlier."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Scott Bessent fired a currency bazooka, but global finance still looks like a ‘giant Jenga tower’ propped up by a Japanese yen that’s in deep trouble",
-      "url": "https://fortune.com/2026/08/15/scott-bessent-dollar-yen-carry-trade-global-finance-jenga-tower-fed-rates-bank-of-japan/",
-      "published_at": "2026-08-15T22:20:15+00:00",
-      "summary": "\"Now traders are watching the 'yen carry trade,' where cheap yen borrowing funds bets on higher-yielding assets worldwide, and wondering if it’s about to blow up.\""
+      "title": "Dimon warns UK’s Healey against raising taxes on banks, FT says",
+      "url": "https://fortune.com/2026/08/16/jamie-dimon-jpmorgan-uk-chancellor-healey-bank-tax-hikes-andy-burnham/",
+      "published_at": "2026-08-16T22:33:04+00:00",
+      "summary": "Dimon said higher taxes often drive away jobs, citing a decline in finance jobs in New York that he blamed in part on the city’s tax burden."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump administration tells Supreme Court that ballroom construction must go on despite order to stop, citing recent missile threat on Air Force One",
-      "url": "https://fortune.com/2026/08/15/trump-supreme-court-white-house-ballroom-construction-missile-threat-air-force-one/",
-      "published_at": "2026-08-15T20:04:07+00:00",
-      "summary": "The solicitor general called it an \"integrated military complex, including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\""
+      "title": "Stripe clinches over $7 billion deal to buy AI firm OpenRouter",
+      "url": "https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/",
+      "published_at": "2026-08-16T22:27:00+00:00",
+      "summary": "The deal comes just months after OpenRouter raised money at a reported $1.3 billion valuation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘I’ll never apologize’ — Trump brushes off Iran war’s impact on oil prices and calls aircraft carrier’s 240+ days at sea ‘not nearly long enough’",
-      "url": "https://fortune.com/2026/08/15/trump-iran-war-oil-prices-abraham-lincoln-aircraft-carriers-record-time-sea/",
-      "published_at": "2026-08-15T19:41:48+00:00",
-      "summary": "Trump acknowledged that he's used the U.S. military “a little bit more than I wanted to,\" while asserting anew that the U.S. operation against Iran is going well."
+      "title": "BBC asks U.S. court to help get testimony from Ivanka Trump, Jared Kushner and Don Jr., saying they have ‘personal knowledge’ on defamation claims",
+      "url": "https://fortune.com/2026/08/16/bbc-us-court-testimony-ivanka-trump-jared-kushner-don-jr-defamation-suit/",
+      "published_at": "2026-08-16T22:17:20+00:00",
+      "summary": "The allegations center on the way a 2024 documentary edited a speech Trump gave on Jan. 6, 2021, before protesters attacked the Capitol in Washington."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tariff refunds are juicing corporate profits and GDP as more tailwinds converge to propel growth to a blistering 4.3% pace, top economist says",
-      "url": "https://fortune.com/2026/08/15/tariff-refunds-corporate-profits-gdp-tailwinds-4-3-percent-q3/",
-      "published_at": "2026-08-15T19:08:04+00:00",
-      "summary": "\"The bottom line is that the US economy continues to be supported by a growing set of tailwinds.\""
+      "title": "U.S. to trim military exercises with South Korea after Trump says Seoul declined to help on Iran while the North is ‘unthreatening and respectful’",
+      "url": "https://fortune.com/2026/08/16/us-military-exercises-south-korea-trump-iran-war-north-unthreatening-respectful/",
+      "published_at": "2026-08-16T22:06:30+00:00",
+      "summary": "A day earlier, Trump posted a photo of himself standing next to North Korea’s Kim Jong Un, writing that the two leaders get along great."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran business leader admits U.S. blockade will inflict more economic damage than war, and the ‘worst thing that could happen’ is trying to evade it",
-      "url": "https://fortune.com/2026/08/15/iran-economic-crisis-us-naval-blockade-war-sanctions-hormuz-oil/",
-      "published_at": "2026-08-15T17:32:32+00:00",
-      "summary": "The head of the Iran-China Joint Chamber of Commerce said \"the consequences of the blockade far outweigh those of a direct war.\""
+      "title": "Dario Amodei admits AI suffers from a crisis of trust, saying people worry companies or governments are ‘cooking up some new way to screw them over’",
+      "url": "https://fortune.com/2026/08/16/dario-amodei-anthropic-ai-trust-crisis-regulation-frontier-open-models-negative-views/",
+      "published_at": "2026-08-16T21:30:49+00:00",
+      "summary": "\"I think by far the most accurate criticism of AI companies including Anthropic is that we haven’t yet delivered on our big promises to benefit the world.\""
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
-      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
-      "published_at": "2026-08-15T19:00:00+00:00",
-      "summary": "<p>There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it&#x27;s tedious, time-consuming, and doesn&#x27;t produce results visible to end users: Verifying that what the model is saying is actually correct. Not fluent, not coherent,"
+      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+      "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+      "published_at": "2026-08-16T20:45:00+00:00",
+      "summary": "<p>Most teams building <a href=\"https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong\">retrieval augmented generation</a> (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+      "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+      "published_at": "2026-08-16T13:00:00+00:00",
+      "summary": "<p>DeepSeek&#x27;s V4 Flash has topped model leaderboards and been hailed by developers as a &quot;total monster&quot; since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. </p><p><a href=\"https://x.com/composio/status/2085330847951970801?s=20\">Comp"
     }
   ]
 }

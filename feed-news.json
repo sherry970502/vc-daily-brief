@@ -1,183 +1,207 @@
 {
-  "updated_at": "2026-08-20T02:20:55.098482+00:00",
+  "updated_at": "2026-08-21T02:26:18.203656+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 25,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "published_at": "2026-08-19T23:32:00+00:00",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "published_at": "2026-08-21T00:23:36+00:00",
+      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-      "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-      "published_at": "2026-08-19T22:25:01+00:00",
-      "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability."
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "published_at": "2026-08-21T00:13:44+00:00",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "published_at": "2026-08-19T22:10:46+00:00",
-      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "published_at": "2026-08-20T23:32:27+00:00",
+      "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen si"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "published_at": "2026-08-19T21:51:23+00:00",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published_at": "2026-08-20T22:36:37+00:00",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-      "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
-      "published_at": "2026-08-19T21:48:24+00:00",
-      "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career."
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "published_at": "2026-08-20T22:09:51+00:00",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-      "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-      "published_at": "2026-08-19T20:12:33+00:00",
-      "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said."
+      "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
+      "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+      "published_at": "2026-08-20T21:08:34+00:00",
+      "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
-      "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
-      "published_at": "2026-08-19T20:04:12+00:00",
-      "summary": "The actress' firm Kinship Ventures is an investor in the company."
+      "title": "OK, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "published_at": "2026-08-20T20:53:13+00:00",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
-      "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-      "published_at": "2026-08-19T20:01:02+00:00",
-      "summary": "Have we tried turning off society and turning it back on again?"
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "published_at": "2026-08-20T20:00:00+00:00",
+      "summary": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "When Should A Board Consider Selling A Company?",
-      "url": "https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/",
-      "published_at": "2026-08-19T11:00:25+00:00",
-      "summary": "The best boards continuously evaluate selling alongside scaling, pivoting, or staying independent, especially when the company is thriving, founder priorities are shifting, or strategic buyers begin showing interest, argues tech strategic adviser Itay Sagie. In this guest commentary, he share three"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Which Investors Have Backed The Most 2026 Unicorns?",
-      "url": "https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla/",
-      "published_at": "2026-08-19T11:00:06+00:00",
-      "summary": "So far this year, 250 companies have joined the unicorn ranks through Aug. 15, up from 2025's 193 companies. Leading sectors included robotics, AI labs, healthcare and biotech, financial services, AI infrastructure, and AI deployment, among others. But which investors are winning the 2026 funding su"
+      "title": "From Humanities To AI: How Ali Hussain Built Fintech Tabs Into A $400M Startup",
+      "url": "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/",
+      "published_at": "2026-08-20T11:00:56+00:00",
+      "summary": "Our third in a series of articles about non-tech founders getting venture funding features Tabs founder Ali Hussain, who started the AI fintech after realizing pursuing a Ph.D. in humanities was a terrible idea and spent some time in the tech workforce where he learned a few things about building ve"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Amazon isn’t giving up on Jeff Bezos’ drone deliveries dream—and after 13 years of turbulence, the momentum is finally shifting",
-      "url": "https://fortune.com/article/amazon-isnt-giving-up-on-jeff-bezos-drone-deliveries-dreamand-after-13-years-of-turbulence-the-momentum-is-finally-shifting/",
-      "published_at": "2026-08-19T22:38:55+00:00",
-      "summary": "The e-commerce giant announced it is expanding drone delivery to nearly 500 U.S. cities and towns by the end of this year, a sixfold increase from its current capabilities."
+      "title": "Airwallex expands from cross-border payments to autonomous finance—though president Lucy Liu says it’s still ‘not the best time’ for an IPO",
+      "url": "https://fortune.com/article/airwallex-fundraise-lucy-liu-ai-fintech-ipo-08-20-2026/",
+      "published_at": "2026-08-20T21:00:00+00:00",
+      "summary": "In late June, Airwallex raised $320 million in a Series H funding round led by Addition, which valued the cross-border payments platform at $11 billion"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Bitcoin posts surprise rally as currency nears $70,000 for the first time since June",
-      "url": "https://fortune.com/2026/08/19/bitcoin-surprise-rally-since-june/",
-      "published_at": "2026-08-19T22:18:38+00:00",
-      "summary": "The U.S. Treasury’s bond-buyback announcement helped send Bitcoin up nearly 6% with one analyst saying a broader recovery may be afoot."
+      "title": "Supermicro investigation clears CEO in alleged $2.5 billion smuggling scheme while a criminal trial involving a cofounder is set for next year",
+      "url": "https://fortune.com/2026/08/20/supermicro-investigation-ceo-nvidia-smuggling/",
+      "published_at": "2026-08-20T20:45:43+00:00",
+      "summary": "The AI-hardware maker’s board found no evidence CEO Charles Liang knew anything about alleged chip smuggling but a pending trial could bring more legal exposure to the beleaguered company."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Google and the UK think changing flights paths could cut down on climate change",
-      "url": "https://fortune.com/2026/08/19/google-ai-airplane-contrails/",
-      "published_at": "2026-08-19T22:17:03+00:00",
-      "summary": "A 30-month, $6.76 million trial will nudge hundreds of flights off course over the Atlantic to test whether contrails can be engineered away."
+      "title": "Exclusive: The man leading Trump’s RTO charge for government workers says he filmed a video in front of a blank wall to avoid work-from-home suspicion",
+      "url": "https://fortune.com/2026/08/20/opm-director-scott-kupor-record-video-blank-wall-work-from-home-return-to-office/",
+      "published_at": "2026-08-20T20:31:56+00:00",
+      "summary": "“I was in my bedroom,” OPM director Scott Kupor said in an all-hands meeting this week. “I was trying to find something that was not recognizable as being in my house, basically.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Inside the $8 billion cybersecurity acquisition that helped ServiceNow’s stock buck the ‘Saaspocalypse’ fears",
-      "url": "https://fortune.com/2026/08/19/armis-wiz-8-billion-cybersecurity-acquisition-servicenow-saaspocalypse/",
-      "published_at": "2026-08-19T06:58:00+00:00",
-      "summary": "The deal for Yevgeny Dibrov’s Armis was Israel’s second-largest tech startup exit ever."
+      "title": "Trump oblivious to voter fury about data centers, saying ‘the jobs are enormous and the money paid, the taxes paid, are just enormous’",
+      "url": "https://fortune.com/2026/08/20/donald-trump-data-center-midterm-races/",
+      "published_at": "2026-08-20T19:49:23+00:00",
+      "summary": "“It is yet another dimension in which the White House appears tone deaf,” said James Henson of the Texas Politics Project at UT, Austin."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Pentagon pushes ‘zero tolerance’ audit on foreign university partnerships that ‘compromise our national security’",
-      "url": "https://fortune.com/2026/08/19/pentagon-audit-foreign-university-partnerships-national-security/",
-      "published_at": "2026-08-19T21:12:16+00:00",
-      "summary": "Schools must complete a review and terminate arrangements deemed problematic—or face funding losses."
+      "title": "Army unit offers ‘special 4 day pass’  to play Grand Theft Auto VI for reenlisted troops as part of ‘unique incentives program’",
+      "url": "https://fortune.com/2026/08/20/us-army-unit-four-day-pass-grand-theft-auto-vi/",
+      "published_at": "2026-08-20T19:48:03+00:00",
+      "summary": "At least 20 soldiers have signed up for the bonus off-days—with eligibility tied to serving at least two more years in uniform."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Geopolitical risk needs to move away from the ‘after-dinner speaker’: Eurasia Group and Rio Tinto’s Dominic Barton",
-      "url": "https://fortune.com/article/geopolitical-risk-after-dinner-speaker-eurasia-group-dominic-barton-08-19-2026/",
-      "published_at": "2026-08-19T21:00:00+00:00",
-      "summary": "Eurasia Group counselor Dominic Barton says corporate leaders can no longer treat geopolitics as a boardroom sideshow amid tariffs and new restrictions."
+      "title": "Senators demand answers from TikTok About ‘depraved’ experiment",
+      "url": "https://fortune.com/2026/08/20/senate-tiktok-experiment/",
+      "published_at": "2026-08-20T19:12:07+00:00",
+      "summary": "The company withheld an algorithmic safeguard from roughly 15 million users, including minors, according to a confidential internal document."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Moderna’s and Merck’s personalized mRNA vaccine shows real promise against deadly skin cancer melanoma in late stage trial and sends stocks soaring",
-      "url": "https://fortune.com/article/moderna-merck-mrna-vaccine-promise-deadly-skin-cancer-melanoma-stocks-08-19-2026/",
-      "published_at": "2026-08-19T17:47:38+00:00",
-      "summary": "The shot, paired with Merck's Keytruda, cut the risk of melanoma recurrence in a trial of more than 1,100 patients."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "National debt crosses $40 trillion and think tank warns: ‘The level of fiscal mismanagement is tragic",
-      "url": "https://fortune.com/2026/08/19/how-much-is-national-debt-40-trillion/",
-      "published_at": "2026-08-19T20:24:50+00:00",
-      "summary": "\"To anyone who cares about America, about democracy and our future, in my view, this is already a crisis,\" Michael Peterson told Fortune."
+      "title": "Bessent becomes most interventionist Treasury chief in decades",
+      "url": "https://fortune.com/2026/08/20/scott-bessent-treasury-interventionism/",
+      "published_at": "2026-08-20T19:07:36+00:00",
+      "summary": "Expanded bond buybacks and yen purchases mark an unusually activist approach, but widening deficits could limit its effectiveness"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-      "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-      "published_at": "2026-08-19T23:50:00+00:00",
-      "summary": "<p>Another day, another new AI agent harness is released.</p><p>Only this time, it&#x27;s one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. </p><p><a href=\"https://www.truefoundry.com/\">TrueFound"
+      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
+      "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+      "published_at": "2026-08-21T00:00:00+00:00",
+      "summary": "<p><a href=\"https://slack.com/\">Slack</a> wants to drag AI coding out of the terminal and into the group chat.</p><p>The Salesforce-owned messaging platform today announced <a href=\"https://slack.com/features/code-channels\">Slack Code</a>, a new product that embeds AI coding agents — including Anthr"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "published_at": "2026-08-19T14:18:12+00:00",
-      "summary": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built"
+      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
+      "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+      "published_at": "2026-08-20T19:57:01+00:00",
+      "summary": "<p>Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to run the show, <a href=\"https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organi"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "published_at": "2026-08-20T17:25:44+00:00",
+      "summary": "<p>Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems.</p><p>Now <a href=\"https://nanoco.ai/\">NanoCo</a>., the company behind the hit open source, enterpr"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
+      "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "published_at": "2026-08-20T14:42:07+00:00",
+      "summary": "<p>Serval is making <a href=\"https://www.serval.com/serval-news/catalyst-general-availability\">Catalyst</a>, its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should be automated and th"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "published_at": "2026-08-19T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, w"
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "published_at": "2026-08-20T15:42:39+00:00",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman”"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Child-monitoring apps might need a reboot",
-      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-      "published_at": "2026-08-19T09:00:00+00:00",
-      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. O"
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "published_at": "2026-08-20T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a c"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The next big thing in hydrogen could be underground",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "published_at": "2026-08-20T10:00:00+00:00",
+      "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces wa"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "published_at": "2026-08-20T09:47:22+00:00",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Support networks aim to help kids through the polycrisis",
+      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were"
     }
   ]
 }

@@ -1,207 +1,191 @@
 {
-  "updated_at": "2026-08-21T02:26:18.203656+00:00",
+  "updated_at": "2026-08-22T02:19:09.148824+00:00",
   "period_hours": 24,
-  "article_count": 25,
+  "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "published_at": "2026-08-21T00:23:36+00:00",
-      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months."
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "published_at": "2026-08-22T01:31:04+00:00",
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about i"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "published_at": "2026-08-21T00:13:44+00:00",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "published_at": "2026-08-22T01:03:06+00:00",
+      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million)."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-      "published_at": "2026-08-20T23:32:27+00:00",
-      "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen si"
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "published_at": "2026-08-21T23:07:25+00:00",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "published_at": "2026-08-20T22:36:37+00:00",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "published_at": "2026-08-21T22:37:38+00:00",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "published_at": "2026-08-20T22:09:51+00:00",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "published_at": "2026-08-21T22:10:01+00:00",
+      "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
-      "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-      "published_at": "2026-08-20T21:08:34+00:00",
-      "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit."
+      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "published_at": "2026-08-21T20:58:07+00:00",
+      "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "published_at": "2026-08-20T20:53:13+00:00",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
+      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+      "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+      "published_at": "2026-08-21T20:25:21+00:00",
+      "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-      "published_at": "2026-08-20T20:00:00+00:00",
-      "summary": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware."
+      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+      "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+      "published_at": "2026-08-21T19:57:46+00:00",
+      "summary": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "From Humanities To AI: How Ali Hussain Built Fintech Tabs Into A $400M Startup",
-      "url": "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/",
-      "published_at": "2026-08-20T11:00:56+00:00",
-      "summary": "Our third in a series of articles about non-tech founders getting venture funding features Tabs founder Ali Hussain, who started the AI fintech after realizing pursuing a Ph.D. in humanities was a terrible idea and spent some time in the tech workforce where he learned a few things about building ve"
+      "title": "The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure Lead The Way",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
+      "published_at": "2026-08-21T15:42:23+00:00",
+      "summary": "The biggest financing of the week went to Castelion, a defense tech startup developing a hypersonic missile. Other sizable rounds went to companies developing AI inference technology, a video-creation platform, data centers and voice-to-text tools."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids",
+      "url": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/",
+      "published_at": "2026-08-21T11:00:42+00:00",
+      "summary": "This month’s installment of this column is all AI, though applications for the technology range widely, from two startups that apply AI to trash or recycling, to another that promises to help people breathe and sleep better, to a company that says its AI can help architects and builders spot commerc"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Airwallex expands from cross-border payments to autonomous finance—though president Lucy Liu says it’s still ‘not the best time’ for an IPO",
-      "url": "https://fortune.com/article/airwallex-fundraise-lucy-liu-ai-fintech-ipo-08-20-2026/",
-      "published_at": "2026-08-20T21:00:00+00:00",
-      "summary": "In late June, Airwallex raised $320 million in a Series H funding round led by Addition, which valued the cross-border payments platform at $11 billion"
+      "title": "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset ‘significant increases’ in memory costs",
+      "url": "https://fortune.com/2026/08/21/exclusive-amazon-quietly-hiked-prices-echo-fire-tv-kindle-eero-significant-increases-memory-costs/",
+      "published_at": "2026-08-21T23:50:35+00:00",
+      "summary": "The e-commerce company's hardware price hikes follow similar moves by Apple, Dell, and Microsoft Xbox."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Supermicro investigation clears CEO in alleged $2.5 billion smuggling scheme while a criminal trial involving a cofounder is set for next year",
-      "url": "https://fortune.com/2026/08/20/supermicro-investigation-ceo-nvidia-smuggling/",
-      "published_at": "2026-08-20T20:45:43+00:00",
-      "summary": "The AI-hardware maker’s board found no evidence CEO Charles Liang knew anything about alleged chip smuggling but a pending trial could bring more legal exposure to the beleaguered company."
+      "title": "Alex Jones no longer on-the-hook for $50 million owed to Sandy Hook families—but he still has $1.25 billion looming over his head",
+      "url": "https://fortune.com/2026/08/21/alex-jones-50-million-sandy-hook-families-1-25-billion/",
+      "published_at": "2026-08-21T21:36:41+00:00",
+      "summary": "The Infowars' founder can only be forced to pay about $6 million from the Texas court, but still has a separate judgement in Connecticut up to $1.25 billion."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: The man leading Trump’s RTO charge for government workers says he filmed a video in front of a blank wall to avoid work-from-home suspicion",
-      "url": "https://fortune.com/2026/08/20/opm-director-scott-kupor-record-video-blank-wall-work-from-home-return-to-office/",
-      "published_at": "2026-08-20T20:31:56+00:00",
-      "summary": "“I was in my bedroom,” OPM director Scott Kupor said in an all-hands meeting this week. “I was trying to find something that was not recognizable as being in my house, basically.”"
+      "title": "Republicans say let them eat overpriced burgers, turning on Trump for ‘flooding the market with foreign beef’",
+      "url": "https://fortune.com/2026/08/21/republicans-donald-trump-beef-import-announcement-consumers-expense/",
+      "published_at": "2026-08-21T21:27:22+00:00",
+      "summary": "“You don’t put America first by putting U.S. cattle producers last,” U.S. Cattlemen's Association President Justin Tupper said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump oblivious to voter fury about data centers, saying ‘the jobs are enormous and the money paid, the taxes paid, are just enormous’",
-      "url": "https://fortune.com/2026/08/20/donald-trump-data-center-midterm-races/",
-      "published_at": "2026-08-20T19:49:23+00:00",
-      "summary": "“It is yet another dimension in which the White House appears tone deaf,” said James Henson of the Texas Politics Project at UT, Austin."
+      "title": "Amazon, Uber, DoorDash, and Walmart are taking the delivery wars to the skies",
+      "url": "https://fortune.com/2026/08/21/amazon-uber-doordash-walmart-drone-delivery-wars/",
+      "published_at": "2026-08-21T07:03:00+00:00",
+      "summary": "After years of experiments and setbacks, some of America’s biggest delivery companies are racing to make drones mainstream."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Army unit offers ‘special 4 day pass’  to play Grand Theft Auto VI for reenlisted troops as part of ‘unique incentives program’",
-      "url": "https://fortune.com/2026/08/20/us-army-unit-four-day-pass-grand-theft-auto-vi/",
-      "published_at": "2026-08-20T19:48:03+00:00",
-      "summary": "At least 20 soldiers have signed up for the bonus off-days—with eligibility tied to serving at least two more years in uniform."
+      "title": "The AI boom is lifting economies across Asia. But for Southeast Asia, it might just be a ‘short-term blip’",
+      "url": "https://fortune.com/2026/08/21/asia-ai-boom-southeast-asia-economic-geopolitical-divide-short-term-blip/",
+      "published_at": "2026-08-21T21:00:00+00:00",
+      "summary": "Economists studying the region are worried that AI’s gains won’t be evenly shared across Asia."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Senators demand answers from TikTok About ‘depraved’ experiment",
-      "url": "https://fortune.com/2026/08/20/senate-tiktok-experiment/",
-      "published_at": "2026-08-20T19:12:07+00:00",
-      "summary": "The company withheld an algorithmic safeguard from roughly 15 million users, including minors, according to a confidential internal document."
+      "title": "Chief Justice John Roberts allows Trump’s ballroom crews to keep working 20-hour days",
+      "url": "https://fortune.com/2026/08/21/trumps-ballroom-roberts-supreme-court/",
+      "published_at": "2026-08-21T20:56:25+00:00",
+      "summary": "The White House says the privately funded project is already 65% complete, even as courts test the limits of presidential renovation power"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Bessent becomes most interventionist Treasury chief in decades",
-      "url": "https://fortune.com/2026/08/20/scott-bessent-treasury-interventionism/",
-      "published_at": "2026-08-20T19:07:36+00:00",
-      "summary": "Expanded bond buybacks and yen purchases mark an unusually activist approach, but widening deficits could limit its effectiveness"
+      "title": "YouTube offers creators millions to not work with Netflix",
+      "url": "https://fortune.com/2026/08/21/youtube-netflix-millions/",
+      "published_at": "2026-08-21T20:38:07+00:00",
+      "summary": "YouTube’s stars built streaming’s new prime time and now Netflix is forcing it to pay to keep them"
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Leader of Fat Marmot Week fights the budget cut era: ‘we’re going to be laughing our way down as the Titanic sinks’",
+      "url": "https://fortune.com/2026/08/21/fat-marmot-week-climate-change-colorado-titanic/",
+      "published_at": "2026-08-21T20:36:08+00:00",
+      "summary": "Marmot researchers in Gothic, Colorado, affectionately call themselves “marmoteers.” Funding cuts have already wiped out a third of the grad students."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
-      "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
-      "published_at": "2026-08-21T00:00:00+00:00",
-      "summary": "<p><a href=\"https://slack.com/\">Slack</a> wants to drag AI coding out of the terminal and into the group chat.</p><p>The Salesforce-owned messaging platform today announced <a href=\"https://slack.com/features/code-channels\">Slack Code</a>, a new product that embeds AI coding agents — including Anthr"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
-      "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
-      "published_at": "2026-08-20T19:57:01+00:00",
-      "summary": "<p>Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to run the show, <a href=\"https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organi"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
-      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
-      "published_at": "2026-08-20T17:25:44+00:00",
-      "summary": "<p>Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems.</p><p>Now <a href=\"https://nanoco.ai/\">NanoCo</a>., the company behind the hit open source, enterpr"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
-      "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
-      "published_at": "2026-08-20T14:42:07+00:00",
-      "summary": "<p>Serval is making <a href=\"https://www.serval.com/serval-news/catalyst-general-availability\">Catalyst</a>, its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should be automated and th"
+      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+      "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "published_at": "2026-08-21T16:33:56+00:00",
+      "summary": "<p>When an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs and latency. This is a major bottleneck for enterprises building long-horizon,"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "published_at": "2026-08-20T15:42:39+00:00",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman”"
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "published_at": "2026-08-21T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on dema"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "published_at": "2026-08-20T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a c"
+      "title": "Mother tongue",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids we"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The next big thing in hydrogen could be underground",
-      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "published_at": "2026-08-20T10:00:00+00:00",
-      "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces wa"
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "published_at": "2026-08-20T09:47:22+00:00",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Support networks aim to help kids through the polycrisis",
-      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-      "published_at": "2026-08-20T09:00:00+00:00",
-      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were"
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-"
     }
   ]
 }

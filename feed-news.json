@@ -1,135 +1,135 @@
 {
-  "updated_at": "2026-08-23T02:26:41.497973+00:00",
+  "updated_at": "2026-08-24T02:26:15.875689+00:00",
   "period_hours": 24,
   "article_count": 16,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "published_at": "2026-08-22T21:46:56+00:00",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "published_at": "2026-08-23T20:01:36+00:00",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-      "published_at": "2026-08-22T20:24:20+00:00",
-      "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats."
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "published_at": "2026-08-23T19:30:00+00:00",
+      "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "published_at": "2026-08-22T19:00:00+00:00",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "published_at": "2026-08-23T19:14:08+00:00",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "published_at": "2026-08-22T16:30:34+00:00",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "published_at": "2026-08-23T16:03:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "published_at": "2026-08-22T16:00:00+00:00",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "published_at": "2026-08-23T15:30:00+00:00",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "US battery startups have found a lifeline in defense",
-      "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-      "published_at": "2026-08-22T15:20:00+00:00",
-      "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed."
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "published_at": "2026-08-23T15:00:00+00:00",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-      "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-      "published_at": "2026-08-22T14:00:00+00:00",
-      "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners."
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "published_at": "2026-08-23T03:00:00+00:00",
+      "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SpaceX is hiring in natural gas trading for energy needs",
-      "url": "https://fortune.com/2026/08/22/spacex-natural-gas-trader-chip-making-rocket-fuel/",
-      "published_at": "2026-08-22T23:32:23+00:00",
-      "summary": "SpaceX’s massive Starship rocket uses super-chilled methane — the primary ingredient in natural gas — combined with liquid oxygen as propellant."
+      "title": "Russia is suffering from a slow-motion bank run as the Kremlin scavenges for war funding—and it may start seizing recruits for the military too",
+      "url": "https://fortune.com/2026/08/23/russia-economy-bank-run-deposit-withdrawals-war-funding-military-mobilization/",
+      "published_at": "2026-08-23T23:15:31+00:00",
+      "summary": "The financial sector's loss of deposits has created a liquidity crunch so severe that it's threatening Russia's ability to fund its war."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "At Olympics-like event, Chinese robots smash athletic records set by humans — including Usain Bolt’s 100-meter sprint time",
-      "url": "https://fortune.com/2026/08/22/chinese-robots-beijing-games-athletic-records-humans-usain-bolt/",
-      "published_at": "2026-08-22T23:25:19+00:00",
-      "summary": "At a 100-meter sprint, a humanoid robot achieved a result of 9.39 seconds, beating the human record of 9.58 seconds set by the Jamaican athlete in 2009."
+      "title": "As Trump administration readies economic warfare measures against Iran, top security official vows retaliation ‘in a seismic manner’",
+      "url": "https://fortune.com/2026/08/23/trump-economic-warfare-iran-sanctions-military-retaliation/",
+      "published_at": "2026-08-23T21:09:47+00:00",
+      "summary": "Treasury Secretary Scott Bessent on Monday is expected to announce the new measures after the U.S. vowed to impose an “unprecedented” level of economic warfare and isolation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Venezuela abandoning the bolivar and adopting the U.S. dollar would be the biggest currency switch since the advent of the euro, Hanke says",
-      "url": "https://fortune.com/2026/08/22/dollarization-venezuela-bolivar-currency-switch-hyperinflation-oil-revenue-debt-steve-hanke/",
-      "published_at": "2026-08-22T23:11:10+00:00",
-      "summary": "\"Taming inflation is the key to restoring stability in Venezuela, and all the other progress flows from that.\""
+      "title": "Jared Kushner has negotiated with adversaries like Iran as Trump’s envoy. Now he’s talking with the House Democratic leader ahead of midterms",
+      "url": "https://fortune.com/2026/08/23/jared-kushner-trump-envoy-house-democratic-leader-hakeem-jeffries-midterms/",
+      "published_at": "2026-08-23T20:50:23+00:00",
+      "summary": "It's a signal that the White House is seeking ways to work with Democrats if they wrest majority control from Republicans in the midterm elections."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s stock disclosure shows more than 1,000 trades in June",
-      "url": "https://fortune.com/2026/08/22/trump-stock-market-trading-disclosure-june-vanguard-etf/",
-      "published_at": "2026-08-22T20:15:11+00:00",
-      "summary": "The transactions totaled between $78.1 million and $263.1 million in the filing published by the US Office of Government Ethics."
+      "title": "‘This is heartbreaking for me’ — A sailor serving on the USS Abraham Lincoln just found out his father was caught in Trump’s immigration crackdown",
+      "url": "https://fortune.com/2026/08/23/navy-sailor-uss-abraham-lincoln-father-trump-immigration-crackdown/",
+      "published_at": "2026-08-23T20:39:30+00:00",
+      "summary": "\"I don’t know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,” Joshua Aviles wrote."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘You’re at war when you get attacked’ — Canada’s Mark Carney accuses U.S. of using economic integration as a weapon as trade fight spurs tariff hikes",
-      "url": "https://fortune.com/2026/08/22/us-canada-trade-war-trump-tariffs-mark-carney-economic-integration-weapon/",
-      "published_at": "2026-08-22T21:27:00+00:00",
-      "summary": "U.S. will impose 50% tariffs on $20 billion worth of Canadian goods, and Canada set Sept. 8 as the start of its retaliatory penalties."
+      "title": "The Iran war could last ‘deep into 2027’ as the Strait of Hormuz isn’t that closed, allowing more oil to leak out—but major escalation is likely soon",
+      "url": "https://fortune.com/2026/08/23/iran-war-outlook-2027-strait-of-hormuz-oil-exports-blockade-oman-corridor-escalation/",
+      "published_at": "2026-08-23T19:59:01+00:00",
+      "summary": "\"And if the Strait is not fully closed, Iran’s leverage is weak. Thus, Iran has reasons to escalate.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Canada demand for trucks tariff relief imperiled trade talks",
-      "url": "https://fortune.com/2026/08/22/us-canada-trump-trade-war-trucks-tariff-relief/",
-      "published_at": "2026-08-22T20:37:16+00:00",
-      "summary": "But one Canadian industry official said it was the Americans who tried to divide the industry."
+      "title": "Burry says he sold Alibaba, calling it pricey before share sale",
+      "url": "https://fortune.com/2026/08/23/michael-burry-big-short-alibaba-stock-sale-jd-com-purchase/",
+      "published_at": "2026-08-23T17:58:25+00:00",
+      "summary": "“I planned to move most of it back after a month or two. No longer,” Burry said in a post on Substack."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia customers notified about AI-related price hikes above 15%",
-      "url": "https://fortune.com/2026/08/22/nvidia-customers-ai-related-price-hikes-15-percent-vera-rubin-grace-blackwell-chips/",
-      "published_at": "2026-08-22T20:27:38+00:00",
-      "summary": "The price hikes will go into effect on systems shipped early next year and will impact systems including those with the flagship Vera Rubin and Grace Blackwell chips."
+      "title": "The Treasury’s recent moves in the bond and currency markets add up to ‘soft-form financial repression’ to lower debt costs, economist warns",
+      "url": "https://fortune.com/2026/08/23/treasury-bond-buyback-dollar-yen-currency-markets-financial-repression-us-debt-costs/",
+      "published_at": "2026-08-23T17:22:27+00:00",
+      "summary": "\"If the market price of USTs is not 'allowed' to adjust down, the foreign exchange price of UST owned by foreign investors has to adjust via a weakening in the dollar.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Forget AI, debt has become the main character on Wall Street as markets just now decided that it’s gotten out of control after years of warnings",
-      "url": "https://fortune.com/2026/08/22/debt-tipping-point-bond-yields-treasury-selloff-inflation-dollar/",
-      "published_at": "2026-08-22T19:25:31+00:00",
-      "summary": "\"When does debt become unsustainable? When the global financial markets say it is. That appears to be happening.\""
+      "title": "Earth’s forests took 100,000 years to recover from the last climate shock — this one is moving 10 times faster",
+      "url": "https://fortune.com/2026/08/23/forests-recovery-time-climate-warming-fossils/",
+      "published_at": "2026-08-23T15:17:01+00:00",
+      "summary": "Tree fossils that are 56 million years old are trying to tell us something about how long forests take to bounce back from extreme heat."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-      "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
-      "published_at": "2026-08-22T21:30:00+00:00",
-      "summary": "<p>For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much room to run as possible. That assumption is now being tested at scale, in real"
+      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "published_at": "2026-08-23T23:00:00+00:00",
+      "summary": "<p>Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it trea"
     }
   ]
 }

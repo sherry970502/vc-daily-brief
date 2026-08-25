@@ -1,135 +1,183 @@
 {
-  "updated_at": "2026-08-24T02:26:15.875689+00:00",
+  "updated_at": "2026-08-25T02:21:38.875401+00:00",
   "period_hours": 24,
-  "article_count": 16,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "published_at": "2026-08-23T20:01:36+00:00",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "published_at": "2026-08-25T00:23:12+00:00",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-      "published_at": "2026-08-23T19:30:00+00:00",
-      "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR."
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "published_at": "2026-08-24T23:05:44+00:00",
+      "summary": "We all knew it was coming. The expected valuation may surprise, though."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "published_at": "2026-08-23T19:14:08+00:00",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "published_at": "2026-08-24T21:24:17+00:00",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-      "published_at": "2026-08-23T16:03:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "published_at": "2026-08-24T20:45:33+00:00",
+      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "published_at": "2026-08-23T15:30:00+00:00",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+      "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+      "published_at": "2026-08-24T20:16:34+00:00",
+      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "published_at": "2026-08-23T15:00:00+00:00",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "published_at": "2026-08-24T19:58:17+00:00",
+      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-      "published_at": "2026-08-23T03:00:00+00:00",
-      "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume."
+      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+      "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+      "published_at": "2026-08-24T19:54:50+00:00",
+      "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-08-24T19:54:19+00:00",
+      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
+      "url": "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/",
+      "published_at": "2026-08-24T11:00:12+00:00",
+      "summary": "Amid fierce competition for an edge in the AI race, well-funded startups commonly find it’s simply faster to buy another company than try to build out certain technologies themselves."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Russia is suffering from a slow-motion bank run as the Kremlin scavenges for war funding—and it may start seizing recruits for the military too",
-      "url": "https://fortune.com/2026/08/23/russia-economy-bank-run-deposit-withdrawals-war-funding-military-mobilization/",
-      "published_at": "2026-08-23T23:15:31+00:00",
-      "summary": "The financial sector's loss of deposits has created a liquidity crunch so severe that it's threatening Russia's ability to fund its war."
+      "title": "Meet Flock, the $8 billion startup backed by a16z and Tiger facing growing backlash against surveillance capitalism",
+      "url": "https://fortune.com/2026/08/24/flock-8-billion-startup-backed-a16z-tiger-surveillance-camera/",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "summary": "Cities are canceling contracts. Cameras are getting vandalized, and lawyers who have reviewed the company’s contracts say data ownership is not clearly defined."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As Trump administration readies economic warfare measures against Iran, top security official vows retaliation ‘in a seismic manner’",
-      "url": "https://fortune.com/2026/08/23/trump-economic-warfare-iran-sanctions-military-retaliation/",
-      "published_at": "2026-08-23T21:09:47+00:00",
-      "summary": "Treasury Secretary Scott Bessent on Monday is expected to announce the new measures after the U.S. vowed to impose an “unprecedented” level of economic warfare and isolation."
+      "title": "SEC subpoenas Wall Street banks over Situational Awareness",
+      "url": "https://fortune.com/2026/08/24/sec-subpoenas-wall-street-banks-situational-awareness-hedge-fund/",
+      "published_at": "2026-08-24T22:45:12+00:00",
+      "summary": "The information being sought is related to the trading activity of the hedge fund, which came under pressure and was forced to exit many of its positions last month."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jared Kushner has negotiated with adversaries like Iran as Trump’s envoy. Now he’s talking with the House Democratic leader ahead of midterms",
-      "url": "https://fortune.com/2026/08/23/jared-kushner-trump-envoy-house-democratic-leader-hakeem-jeffries-midterms/",
-      "published_at": "2026-08-23T20:50:23+00:00",
-      "summary": "It's a signal that the White House is seeking ways to work with Democrats if they wrest majority control from Republicans in the midterm elections."
+      "title": "U.S. prepares largest mass visa revocation in history, targeting up to 200,000 foreigners who are seeking asylum",
+      "url": "https://fortune.com/2026/08/24/us-b1-b2-visa-revocation-state-department-200000-asylum-seekers/",
+      "published_at": "2026-08-24T22:31:15+00:00",
+      "summary": "The State Department is expected to announce the revocation of B1 and B2 visas issued between 2016 and 2026 whose holders have sought asylum or are now seeking asylum."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘This is heartbreaking for me’ — A sailor serving on the USS Abraham Lincoln just found out his father was caught in Trump’s immigration crackdown",
-      "url": "https://fortune.com/2026/08/23/navy-sailor-uss-abraham-lincoln-father-trump-immigration-crackdown/",
-      "published_at": "2026-08-23T20:39:30+00:00",
-      "summary": "\"I don’t know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,” Joshua Aviles wrote."
+      "title": "Trump readies a new tariff to punish China for its flood of cheap exports—without endangering his trade truce or his summit with Xi Jinping",
+      "url": "https://fortune.com/2026/08/24/trump-new-tariff-china-cheap-exports-trade-war-truce-summit-xi-jinping/",
+      "published_at": "2026-08-24T22:23:19+00:00",
+      "summary": "Trump is considering setting the new tariff at 7.5%, which would come on top of tariffs of 10% to 12.5% announced last month."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Iran war could last ‘deep into 2027’ as the Strait of Hormuz isn’t that closed, allowing more oil to leak out—but major escalation is likely soon",
-      "url": "https://fortune.com/2026/08/23/iran-war-outlook-2027-strait-of-hormuz-oil-exports-blockade-oman-corridor-escalation/",
-      "published_at": "2026-08-23T19:59:01+00:00",
-      "summary": "\"And if the Strait is not fully closed, Iran’s leverage is weak. Thus, Iran has reasons to escalate.\""
+      "title": "Parents cough up thousands decorating their kids’ dorms even as total college costs hit six figures a year",
+      "url": "https://fortune.com/2026/08/24/college-dorm-decor-parents-spending-six-figure-tuition/",
+      "published_at": "2026-08-24T19:49:51+00:00",
+      "summary": "Families are projected to spend a record $14 billion furnishing college dorms and apartments this year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Burry says he sold Alibaba, calling it pricey before share sale",
-      "url": "https://fortune.com/2026/08/23/michael-burry-big-short-alibaba-stock-sale-jd-com-purchase/",
-      "published_at": "2026-08-23T17:58:25+00:00",
-      "summary": "“I planned to move most of it back after a month or two. No longer,” Burry said in a post on Substack."
+      "title": "Apple to launch $2,000-plus foldable ‘iPhone Ultra’ in early September: report",
+      "url": "https://fortune.com/2026/08/24/apple-launch-2000-foldable-iphone-ultra-september/",
+      "published_at": "2026-08-24T10:05:46+00:00",
+      "summary": "Everything you need to know before you reach the office this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Treasury’s recent moves in the bond and currency markets add up to ‘soft-form financial repression’ to lower debt costs, economist warns",
-      "url": "https://fortune.com/2026/08/23/treasury-bond-buyback-dollar-yen-currency-markets-financial-repression-us-debt-costs/",
-      "published_at": "2026-08-23T17:22:27+00:00",
-      "summary": "\"If the market price of USTs is not 'allowed' to adjust down, the foreign exchange price of UST owned by foreign investors has to adjust via a weakening in the dollar.\""
+      "title": "FTC moves to make retailers disclose use of ‘personalized pricing’ as technology now enables broad consumer surveillance",
+      "url": "https://fortune.com/2026/08/24/ftc-retailers-personalized-pricing-consumer-surveillance/",
+      "published_at": "2026-08-24T19:40:13+00:00",
+      "summary": "The proposal would warn companies that failing to disclose that they are using personal data to set prices could violate the FTC Act’s prohibition on unfair or deceptive practices."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Earth’s forests took 100,000 years to recover from the last climate shock — this one is moving 10 times faster",
-      "url": "https://fortune.com/2026/08/23/forests-recovery-time-climate-warming-fossils/",
-      "published_at": "2026-08-23T15:17:01+00:00",
-      "summary": "Tree fossils that are 56 million years old are trying to tell us something about how long forests take to bounce back from extreme heat."
+      "title": "Jack Welch fired him from GE. He became a Fortune 500 CEO 3 years later",
+      "url": "https://fortune.com/article/david-cote-honeywell-vertiv-ceo/",
+      "published_at": "2026-08-24T11:32:26+00:00",
+      "summary": "David Cote’s unlikely climb shows why one brutal career setback can tell you surprisingly little about what comes next."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
-      "published_at": "2026-08-23T23:00:00+00:00",
-      "summary": "<p>Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it trea"
+      "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+      "published_at": "2026-08-24T13:00:00+00:00",
+      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> is making a calculated bet that the biggest bottleneck in enterprise AI isn&#x27;t model intelligence — it&#x27;s the fact that most people still use AI alone.</p><p>In an exclusive interview with VentureBeat, Scott White, Anthropic&#x27;s head o"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores",
+      "url": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
+      "published_at": "2026-08-24T11:00:00+00:00",
+      "summary": "<p><a href=\"https://www.ibm.com/us-en\">IBM</a> is announcing today at the annual <a href=\"https://hotchips.org/\">Hot Chips conference</a> what may be the most consequential change to mainframe architecture in decades: a processor whose cores can natively execute both IBM&#x27;s own instruction set a"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "published_at": "2026-08-24T14:20:19+00:00",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "published_at": "2026-08-24T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn thr"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&"
     }
   ]
 }

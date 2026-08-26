@@ -1,183 +1,231 @@
 {
-  "updated_at": "2026-08-25T02:21:38.875401+00:00",
+  "updated_at": "2026-08-26T02:28:24.124335+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 28,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "published_at": "2026-08-25T00:23:12+00:00",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "published_at": "2026-08-26T00:40:59+00:00",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-      "published_at": "2026-08-24T23:05:44+00:00",
-      "summary": "We all knew it was coming. The expected valuation may surprise, though."
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "published_at": "2026-08-26T00:06:20+00:00",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "published_at": "2026-08-24T21:24:17+00:00",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "published_at": "2026-08-25T20:44:12+00:00",
+      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Zillow and Redfin settle FTC antitrust case",
-      "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-      "published_at": "2026-08-24T20:45:33+00:00",
-      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business."
+      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "published_at": "2026-08-25T19:22:52+00:00",
+      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-      "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-      "published_at": "2026-08-24T20:16:34+00:00",
-      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15."
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "published_at": "2026-08-25T19:03:47+00:00",
+      "summary": "The company's new fundraising total now stands at $232 million."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "published_at": "2026-08-24T19:58:17+00:00",
-      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident."
+      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "published_at": "2026-08-25T18:26:55+00:00",
+      "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-      "published_at": "2026-08-24T19:54:50+00:00",
-      "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers."
+      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+      "published_at": "2026-08-25T18:22:50+00:00",
+      "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-08-24T19:54:19+00:00",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
+      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+      "published_at": "2026-08-25T18:01:30+00:00",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
-      "url": "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/",
-      "published_at": "2026-08-24T11:00:12+00:00",
-      "summary": "Amid fierce competition for an edge in the AI race, well-funded startups commonly find it’s simply faster to buy another company than try to build out certain technologies themselves."
+      "title": "Inside The Private-Market Divide: EquityZen’s Phil Haslett On AI, SaaS And Secondaries",
+      "url": "https://news.crunchbase.com/liquidity/ai-ipo-ma-secondaries-haslett-equityzen/",
+      "published_at": "2026-08-25T11:00:33+00:00",
+      "summary": "The market for private-company shares has become a much bigger part of the startup ecosystem. In this Crunchbase News Q&#038;A, EquityZen co-founder Phil Haslett discusses why startups are offering employees and investors liquidity earlier, and why secondary prices can be more revealing than headlin"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Why Bootstrapped Businesses Are More Relevant Than Ever",
+      "url": "https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/",
+      "published_at": "2026-08-25T11:00:13+00:00",
+      "summary": "The traditional VC model funds a risky search for product-market fit, argues guest author Richard de Silva of Lateral Investment Management, while bootstrapped founders typically start with known customer problems, prioritize profitability and grow steadily from revenue rather than outside capital."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet Flock, the $8 billion startup backed by a16z and Tiger facing growing backlash against surveillance capitalism",
-      "url": "https://fortune.com/2026/08/24/flock-8-billion-startup-backed-a16z-tiger-surveillance-camera/",
-      "published_at": "2026-08-24T07:00:00+00:00",
-      "summary": "Cities are canceling contracts. Cameras are getting vandalized, and lawyers who have reviewed the company’s contracts say data ownership is not clearly defined."
+      "title": "How IHH Healthcare CEO Prem Kumar Nair is planning for a longer-lived Asia",
+      "url": "https://fortune.com/2026/08/25/ihh-healthcare-ceo-prem-kumar-nair-longevity-covid/",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "summary": "The head of Asia’s largest private health group is advancing clinical longevity, cancer care, AI and neighborhood-based treatment."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "SEC subpoenas Wall Street banks over Situational Awareness",
-      "url": "https://fortune.com/2026/08/24/sec-subpoenas-wall-street-banks-situational-awareness-hedge-fund/",
-      "published_at": "2026-08-24T22:45:12+00:00",
-      "summary": "The information being sought is related to the trading activity of the hedge fund, which came under pressure and was forced to exit many of its positions last month."
+      "title": "Over 1 million people clicked LinkedIn’s ‘seems like AI slop’ button as the platform fights to keep ‘dead internet theory’ from becoming reality",
+      "url": "https://fortune.com/2026/08/25/1-million-people-clicked-linkedin-ai-slop/",
+      "published_at": "2026-08-25T17:02:17+00:00",
+      "summary": "One analysis found LinkedIn was “the most AI-saturated platform,” with more than 40% of its long-form posts being flagged as completely AI-generated."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. prepares largest mass visa revocation in history, targeting up to 200,000 foreigners who are seeking asylum",
-      "url": "https://fortune.com/2026/08/24/us-b1-b2-visa-revocation-state-department-200000-asylum-seekers/",
-      "published_at": "2026-08-24T22:31:15+00:00",
-      "summary": "The State Department is expected to announce the revocation of B1 and B2 visas issued between 2016 and 2026 whose holders have sought asylum or are now seeking asylum."
+      "title": "Cursive’s unlikely AI-fueled comeback, explained",
+      "url": "https://fortune.com/2026/08/25/cursive-state-mandates-ai-cheating/",
+      "published_at": "2026-08-25T21:40:12+00:00",
+      "summary": "More than 25 states now require cursive. The science backing it is dodgy, to say the least."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump readies a new tariff to punish China for its flood of cheap exports—without endangering his trade truce or his summit with Xi Jinping",
-      "url": "https://fortune.com/2026/08/24/trump-new-tariff-china-cheap-exports-trade-war-truce-summit-xi-jinping/",
-      "published_at": "2026-08-24T22:23:19+00:00",
-      "summary": "Trump is considering setting the new tariff at 7.5%, which would come on top of tariffs of 10% to 12.5% announced last month."
+      "title": "The Trump administration proposes $103,000 fee for H-1B visas that DHS itself estimates would paralyze 76% of small businesses",
+      "url": "https://fortune.com/2026/08/25/trump-h1b-visas-fee-startups/",
+      "published_at": "2026-08-25T17:42:08+00:00",
+      "summary": "The extra charge on H-1B visas is an effort to get companies to hire more Americans—but a Wharton economist says it could push jobs overseas instead."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Parents cough up thousands decorating their kids’ dorms even as total college costs hit six figures a year",
-      "url": "https://fortune.com/2026/08/24/college-dorm-decor-parents-spending-six-figure-tuition/",
-      "published_at": "2026-08-24T19:49:51+00:00",
-      "summary": "Families are projected to spend a record $14 billion furnishing college dorms and apartments this year."
+      "title": "The Medicare GLP-1 discount is here, so why are some sick people excluded?",
+      "url": "https://fortune.com/2026/08/25/the-medicare-glp-1-discount-is-here-so-why-are-some-sick-people-excluded/",
+      "published_at": "2026-08-25T21:25:57+00:00",
+      "summary": "“I'm obese, morbidly obese, BMI 42. I had quadruple heart bypass surgery. I'm at risk for stroke. I'm prediabetic. And yet I can't get it. I'm livid.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Apple to launch $2,000-plus foldable ‘iPhone Ultra’ in early September: report",
-      "url": "https://fortune.com/2026/08/24/apple-launch-2000-foldable-iphone-ultra-september/",
-      "published_at": "2026-08-24T10:05:46+00:00",
-      "summary": "Everything you need to know before you reach the office this morning."
+      "title": "Dolly Parton’s philanthropy inspiration was her father who couldn’t read or write: ‘I saw how crippling that could be’",
+      "url": "https://fortune.com/article/dolly-parton-philanthropy-inspiration-father-reading-writing/",
+      "published_at": "2026-08-25T18:22:59+00:00",
+      "summary": "Dolly Parton used her $450 million net worth to do good."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "FTC moves to make retailers disclose use of ‘personalized pricing’ as technology now enables broad consumer surveillance",
-      "url": "https://fortune.com/2026/08/24/ftc-retailers-personalized-pricing-consumer-surveillance/",
-      "published_at": "2026-08-24T19:40:13+00:00",
-      "summary": "The proposal would warn companies that failing to disclose that they are using personal data to set prices could violate the FTC Act’s prohibition on unfair or deceptive practices."
+      "title": "Every politician says they’re for the working man, so why are only 1% of elected officials from the working class?",
+      "url": "https://fortune.com/2026/08/25/working-class-representation-global-democracies/",
+      "published_at": "2026-08-25T21:12:09+00:00",
+      "summary": "Researchers tracking 97 democracies find working-class candidates are just as qualified and likely to win as white-collar rivals, but don't get recruited."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jack Welch fired him from GE. He became a Fortune 500 CEO 3 years later",
-      "url": "https://fortune.com/article/david-cote-honeywell-vertiv-ceo/",
-      "published_at": "2026-08-24T11:32:26+00:00",
-      "summary": "David Cote’s unlikely climb shows why one brutal career setback can tell you surprisingly little about what comes next."
+      "title": "The creator economy is headed for $500 billion, so why do their fans feel like a prison?",
+      "url": "https://fortune.com/2026/08/25/creator-economy-burnout-audience-entanglement/",
+      "published_at": "2026-08-25T20:51:33+00:00",
+      "summary": "NYU's study of 54 top creators finds a psychological toll researchers call \"audience entanglement.\" One creator said she'd \"rather die\" than keep going."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
-      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
-      "published_at": "2026-08-24T13:00:00+00:00",
-      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> is making a calculated bet that the biggest bottleneck in enterprise AI isn&#x27;t model intelligence — it&#x27;s the fact that most people still use AI alone.</p><p>In an exclusive interview with VentureBeat, Scott White, Anthropic&#x27;s head o"
+      "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
+      "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
+      "published_at": "2026-08-25T17:24:22+00:00",
+      "summary": "<p>A CISO who sees a low CVE count and deprioritizes prompt injection is reading the scoreboard wrong. Prompt injection has held the No. 1 spot on the OWASP Top 10 for LLM Applications for <a href=\"https://www.scworld.com/brief/prompt-injection-remains-top-llm-threat-owasp-report-finds\">three consec"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores",
-      "url": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
-      "published_at": "2026-08-24T11:00:00+00:00",
-      "summary": "<p><a href=\"https://www.ibm.com/us-en\">IBM</a> is announcing today at the annual <a href=\"https://hotchips.org/\">Hot Chips conference</a> what may be the most consequential change to mainframe architecture in decades: a processor whose cores can natively execute both IBM&#x27;s own instruction set a"
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "published_at": "2026-08-25T13:00:00+00:00",
+      "summary": "<p><a href=\"https://www.perplexity.ai/\">Perplexity</a> is launching <a href=\"https://www.perplexity.ai/hub/products/portable-computer\">Portable Computer</a> today, a version of its agentic <a href=\"https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-a"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "published_at": "2026-08-24T14:20:19+00:00",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t"
+      "title": "Addressing a sticking point in sustainable adhesives",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "published_at": "2026-08-24T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn thr"
+      "title": "YouTuber finds niche as college admissions mentor",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "summary": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college a"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "published_at": "2026-08-24T09:00:00+00:00",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&"
+      "title": "Launching youth entrepreneurship",
+      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, tr"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "A new stamp on cyberfraud prevention",
+      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "AgeLab research inspires an A I startup",
+      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Amping up T cells to target cancer",
+      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Taking your temperature from the inside",
+      "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "summary": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. But MIT engineers created one that can send continuous temperature updates at a"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Seeing through murky waters",
+      "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor&#8"
     }
   ]
 }

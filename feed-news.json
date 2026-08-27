@@ -1,231 +1,207 @@
 {
-  "updated_at": "2026-08-26T02:28:24.124335+00:00",
+  "updated_at": "2026-08-27T11:07:53.230198+00:00",
   "period_hours": 24,
-  "article_count": 28,
+  "article_count": 25,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "published_at": "2026-08-26T00:40:59+00:00",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "published_at": "2026-08-27T06:32:51+00:00",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "published_at": "2026-08-26T00:06:20+00:00",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "published_at": "2026-08-27T00:24:57+00:00",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-      "published_at": "2026-08-25T20:44:12+00:00",
-      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping."
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "published_at": "2026-08-26T23:47:18+00:00",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-      "published_at": "2026-08-25T19:22:52+00:00",
-      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software."
+      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "published_at": "2026-08-26T22:47:58+00:00",
+      "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "published_at": "2026-08-25T19:03:47+00:00",
-      "summary": "The company's new fundraising total now stands at $232 million."
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "published_at": "2026-08-26T21:37:39+00:00",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-      "published_at": "2026-08-25T18:26:55+00:00",
-      "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029."
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "published_at": "2026-08-26T19:37:34+00:00",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-      "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-      "published_at": "2026-08-25T18:22:50+00:00",
-      "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!"
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "published_at": "2026-08-26T19:34:04+00:00",
+      "summary": "Was Greg Brockman the right executive all along?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-      "published_at": "2026-08-25T18:01:30+00:00",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!"
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "published_at": "2026-08-26T19:05:22+00:00",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Inside The Private-Market Divide: EquityZen’s Phil Haslett On AI, SaaS And Secondaries",
-      "url": "https://news.crunchbase.com/liquidity/ai-ipo-ma-secondaries-haslett-equityzen/",
-      "published_at": "2026-08-25T11:00:33+00:00",
-      "summary": "The market for private-company shares has become a much bigger part of the startup ecosystem. In this Crunchbase News Q&#038;A, EquityZen co-founder Phil Haslett discusses why startups are offering employees and investors liquidity earlier, and why secondary prices can be more revealing than headlin"
+      "title": "Craft’s Ilya Levtov Never Learned To Code. He Built A Software Company Anyway.",
+      "url": "https://news.crunchbase.com/venture/supply-chain-nontech-founder-ilya-levtov-craft/",
+      "published_at": "2026-08-27T11:00:20+00:00",
+      "summary": "In the fourth of a series of articles about non-tech founders getting venture funding, we talk to Craft CEO Ilya Levtov, a Julliard-trained cellist  who says he was able to launch his supply chain intelligence software company despite having never written a single line of code."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Why Bootstrapped Businesses Are More Relevant Than Ever",
-      "url": "https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/",
-      "published_at": "2026-08-25T11:00:13+00:00",
-      "summary": "The traditional VC model funds a risky search for product-market fit, argues guest author Richard de Silva of Lateral Investment Management, while bootstrapped founders typically start with known customer problems, prioritize profitability and grow steadily from revenue rather than outside capital."
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-08-26T17:10:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How IHH Healthcare CEO Prem Kumar Nair is planning for a longer-lived Asia",
-      "url": "https://fortune.com/2026/08/25/ihh-healthcare-ceo-prem-kumar-nair-longevity-covid/",
-      "published_at": "2026-08-26T00:00:00+00:00",
-      "summary": "The head of Asia’s largest private health group is advancing clinical longevity, cancer care, AI and neighborhood-based treatment."
+      "title": "Nvidia stock up 7.63% overnight after blockbuster earnings call: ‘I think the whole market was like, ‘Whoa,’ analyst says",
+      "url": "https://fortune.com/2026/08/27/nvidia-stock-q2-earnings-call-i-think-the-whole-market-was-like-whoa-analyst-says/",
+      "published_at": "2026-08-27T09:48:52+00:00",
+      "summary": "Everything you need to know before you reach the office this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Over 1 million people clicked LinkedIn’s ‘seems like AI slop’ button as the platform fights to keep ‘dead internet theory’ from becoming reality",
-      "url": "https://fortune.com/2026/08/25/1-million-people-clicked-linkedin-ai-slop/",
-      "published_at": "2026-08-25T17:02:17+00:00",
-      "summary": "One analysis found LinkedIn was “the most AI-saturated platform,” with more than 40% of its long-form posts being flagged as completely AI-generated."
+      "title": "Meta’s $18 billion settlement won’t be enough to escape its trust problem",
+      "url": "https://fortune.com/2026/08/27/meta-settlement-child-safety-18-billion-fine/",
+      "published_at": "2026-08-27T09:55:59+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Cursive’s unlikely AI-fueled comeback, explained",
-      "url": "https://fortune.com/2026/08/25/cursive-state-mandates-ai-cheating/",
-      "published_at": "2026-08-25T21:40:12+00:00",
-      "summary": "More than 25 states now require cursive. The science backing it is dodgy, to say the least."
+      "title": "There are a record 3,795 billionaires in the world right now—and just like Jeff Bezos, their favorite investments are sports and philanthropy",
+      "url": "https://fortune.com/2026/08/27/record-3795-billionaires-in-the-world-like-jeff-bezos-favorite-investments-sports-and-philanthropy/",
+      "published_at": "2026-08-27T09:01:00+00:00",
+      "summary": "Billionaires from Microsoft CEO Steve Ballmer to businessman Robert Kraft are spending their fortunes buying sports teams and funding charitable causes."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Trump administration proposes $103,000 fee for H-1B visas that DHS itself estimates would paralyze 76% of small businesses",
-      "url": "https://fortune.com/2026/08/25/trump-h1b-visas-fee-startups/",
-      "published_at": "2026-08-25T17:42:08+00:00",
-      "summary": "The extra charge on H-1B visas is an effort to get companies to hire more Americans—but a Wharton economist says it could push jobs overseas instead."
+      "title": "Without local languages, ‘AI is essentially useless’: Hong Kong’s Votee AI is taking on English and Mandarin’s AI dominance with a Cantonese model",
+      "url": "https://fortune.com/2026/08/27/votee-ai-hong-kong-cantonese-llm-pak-sun-ting-ceo/",
+      "published_at": "2026-08-27T06:30:00+00:00",
+      "summary": "Votee is one of a growing number of companies that are trying to tackle AI’s neglect of \"low-resource\" languages."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Medicare GLP-1 discount is here, so why are some sick people excluded?",
-      "url": "https://fortune.com/2026/08/25/the-medicare-glp-1-discount-is-here-so-why-are-some-sick-people-excluded/",
-      "published_at": "2026-08-25T21:25:57+00:00",
-      "summary": "“I'm obese, morbidly obese, BMI 42. I had quadruple heart bypass surgery. I'm at risk for stroke. I'm prediabetic. And yet I can't get it. I'm livid.\""
+      "title": "Political powerbroker George Norcross is giving $100 million to the hospital where he was born—which will now carry his name",
+      "url": "https://fortune.com/2026/08/27/george-norcross-donates-100-million-to-nj-hospital/",
+      "published_at": "2026-08-27T07:05:00+00:00",
+      "summary": "The New Jersey Democratic kingmaker's gift to Cooper University Health Care is the system's largest ever."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dolly Parton’s philanthropy inspiration was her father who couldn’t read or write: ‘I saw how crippling that could be’",
-      "url": "https://fortune.com/article/dolly-parton-philanthropy-inspiration-father-reading-writing/",
-      "published_at": "2026-08-25T18:22:59+00:00",
-      "summary": "Dolly Parton used her $450 million net worth to do good."
+      "title": "Google DeepMind is losing its grip on elite AI talent, new data shows",
+      "url": "https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "summary": "New data shared exclusively with Fortune shows the lab’s share of top research and engineering hires in Europe has fallen sharply as OpenAI, Anthropic, and a new generation of rivals gain ground."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Every politician says they’re for the working man, so why are only 1% of elected officials from the working class?",
-      "url": "https://fortune.com/2026/08/25/working-class-representation-global-democracies/",
-      "published_at": "2026-08-25T21:12:09+00:00",
-      "summary": "Researchers tracking 97 democracies find working-class candidates are just as qualified and likely to win as white-collar rivals, but don't get recruited."
+      "title": "SpaceX says it’s building its largest spaceport yet, committing $100 billion for a Louisiana site—adding to its list of billion-dollar expansion plans",
+      "url": "https://fortune.com/2026/08/27/spacex-largest-spaceport-100-billion-louisiana-expansion/",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "summary": "Louisiana is getting a taste of Musk’s big ideas as they get a part of the CEO’s billions-of-dollar-plans to bring humanity to space."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The creator economy is headed for $500 billion, so why do their fans feel like a prison?",
-      "url": "https://fortune.com/2026/08/25/creator-economy-burnout-audience-entanglement/",
-      "published_at": "2026-08-25T20:51:33+00:00",
-      "summary": "NYU's study of 54 top creators finds a psychological toll researchers call \"audience entanglement.\" One creator said she'd \"rather die\" than keep going."
+      "title": "Nvidia CEO Jensen Huang eats dinner with someone ‘and their stock price doubles the next day’",
+      "url": "https://fortune.com/2026/08/27/nvidia-ceo-jensen-huang-eats-stock-doubles-q2/",
+      "published_at": "2026-08-27T05:15:53+00:00",
+      "summary": "People want to know where the CEO is dining, and more importantly, who he's with."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
-      "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
-      "published_at": "2026-08-25T17:24:22+00:00",
-      "summary": "<p>A CISO who sees a low CVE count and deprioritizes prompt injection is reading the scoreboard wrong. Prompt injection has held the No. 1 spot on the OWASP Top 10 for LLM Applications for <a href=\"https://www.scworld.com/brief/prompt-injection-remains-top-llm-threat-owasp-report-finds\">three consec"
+      "title": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
+      "url": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
+      "published_at": "2026-08-27T00:42:20+00:00",
+      "summary": "<p>A week ago, a mystery model called <a href=\"https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8\">Ox Alpha showed up on OpenRouter</a> — one more entrant among more than 400 models, with roughly 10 new ones launching every week. What made it stand out wasn&#x27;t just the free price t"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-      "published_at": "2026-08-25T13:00:00+00:00",
-      "summary": "<p><a href=\"https://www.perplexity.ai/\">Perplexity</a> is launching <a href=\"https://www.perplexity.ai/hub/products/portable-computer\">Portable Computer</a> today, a version of its agentic <a href=\"https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-a"
+      "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+      "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+      "published_at": "2026-08-26T20:00:00+00:00",
+      "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> and <a href=\"https://www.anthropic.com/\">Anthropic</a> announced Tuesday a sweeping expansion of their partnership, called <a href=\"https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/\">Claude"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+      "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+      "published_at": "2026-08-26T16:13:50+00:00",
+      "summary": "<p>A security agent read a Cloudflare log, found an attacker’s prompt-injection payload sitting inside it, and rewrote the company’s DNS. The firewall had already blocked that payload, and blocking it is what wrote it into the log.</p><p>That chain is <a href=\"https://tenetsecurity.ai/blog/ghostjack"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "published_at": "2026-08-26T14:30:00+00:00",
+      "summary": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Addressing a sticking point in sustainable adhesives",
-      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though"
+      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "published_at": "2026-08-27T10:00:00+00:00",
+      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "YouTuber finds niche as college admissions mentor",
-      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "summary": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college a"
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "published_at": "2026-08-26T19:00:00+00:00",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Launching youth entrepreneurship",
-      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, tr"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A new stamp on cyberfraud prevention",
-      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer."
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "AgeLab research inspires an A I startup",
-      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Amping up T cells to target cancer",
-      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Taking your temperature from the inside",
-      "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "summary": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. But MIT engineers created one that can send continuous temperature updates at a"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Seeing through murky waters",
-      "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor&#8"
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "published_at": "2026-08-26T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around"
     }
   ]
 }

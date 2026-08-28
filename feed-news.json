@@ -1,207 +1,175 @@
 {
-  "updated_at": "2026-08-27T11:07:53.230198+00:00",
+  "updated_at": "2026-08-28T12:40:09.457925+00:00",
   "period_hours": 24,
-  "article_count": 25,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "published_at": "2026-08-27T06:32:51+00:00",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "published_at": "2026-08-28T12:21:06+00:00",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "published_at": "2026-08-27T00:24:57+00:00",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
+      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "published_at": "2026-08-28T09:33:00+00:00",
+      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "published_at": "2026-08-26T23:47:18+00:00",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
+      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+      "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "published_at": "2026-08-28T02:02:44+00:00",
+      "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
-      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-      "published_at": "2026-08-26T22:47:58+00:00",
-      "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk."
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-08-27T23:16:45+00:00",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "published_at": "2026-08-26T21:37:39+00:00",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+      "title": "Rivian’s CFO is leaving the company",
+      "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+      "published_at": "2026-08-27T20:23:10+00:00",
+      "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "published_at": "2026-08-26T19:37:34+00:00",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture."
+      "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+      "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+      "published_at": "2026-08-27T20:15:26+00:00",
+      "summary": "Sometimes people just want to post to their followers, Bluesky says."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "published_at": "2026-08-26T19:34:04+00:00",
-      "summary": "Was Greg Brockman the right executive all along?"
+      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+      "published_at": "2026-08-27T20:04:26+00:00",
+      "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "published_at": "2026-08-26T19:05:22+00:00",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
+      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+      "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+      "published_at": "2026-08-27T19:54:28+00:00",
+      "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Craft’s Ilya Levtov Never Learned To Code. He Built A Software Company Anyway.",
-      "url": "https://news.crunchbase.com/venture/supply-chain-nontech-founder-ilya-levtov-craft/",
-      "published_at": "2026-08-27T11:00:20+00:00",
-      "summary": "In the fourth of a series of articles about non-tech founders getting venture funding, we talk to Craft CEO Ilya Levtov, a Julliard-trained cellist  who says he was able to launch his supply chain intelligence software company despite having never written a single line of code."
+      "title": "Sector Snapshot: Space Tech Startup Funding Orbits New Highs",
+      "url": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/",
+      "published_at": "2026-08-28T11:00:47+00:00",
+      "summary": "So far this year, a record $20.3 billion in global seed- through growth-stage funding has gone to companies in space- and satellite-related sectors, per Crunchbase data. That’s already by far the highest annual tally on record, and we’ve still got four months left in 2026."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-08-26T17:10:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+      "title": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
+      "url": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/",
+      "published_at": "2026-08-27T13:00:25+00:00",
+      "summary": "Identity verification and fraud prevention company Socure announced Thursday that it raised $156 million in a strategic growth investment valuing it at $5.2 billion. The Incline Village, Nevada-based company also says it is acquiring agentic AI startup Fravity, which will be incorporated into its Ri"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia stock up 7.63% overnight after blockbuster earnings call: ‘I think the whole market was like, ‘Whoa,’ analyst says",
-      "url": "https://fortune.com/2026/08/27/nvidia-stock-q2-earnings-call-i-think-the-whole-market-was-like-whoa-analyst-says/",
-      "published_at": "2026-08-27T09:48:52+00:00",
-      "summary": "Everything you need to know before you reach the office this morning."
+      "title": "Deloitte sees a $566 billion lunar economy by 2050",
+      "url": "https://fortune.com/2026/08/28/deloitte-sees-a-566-billion-lunar-economy-by-2050/",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "summary": "But a market that doesn’t exist yet could yield an even larger payoff."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meta’s $18 billion settlement won’t be enough to escape its trust problem",
-      "url": "https://fortune.com/2026/08/27/meta-settlement-child-safety-18-billion-fine/",
-      "published_at": "2026-08-27T09:55:59+00:00",
+      "title": "Why Apple’s next CEO shows you don’t need to ‘move out to move up’",
+      "url": "https://fortune.com/2026/08/28/why-apples-next-ceo-shows-you-dont-need-to-move-out-to-move-up/",
+      "published_at": "2026-08-28T11:30:00+00:00",
+      "summary": "For many workers, the best path up is still within."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Current price of oil as of August 28, 2026",
+      "url": "https://fortune.com/article/price-of-oil-08-28-2026/",
+      "published_at": "2026-08-28T11:00:00+00:00",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "‘I’m in favor of taxes,’ says Nvidia’s Jensen Huang—but he doesn’t agree with Bill Gates on his plan to slow an AI fallout",
+      "url": "https://fortune.com/2026/08/28/jensen-huang-bill-gates-ai-tax-wealth-society-jobs/",
+      "published_at": "2026-08-28T10:23:49+00:00",
+      "summary": "\"I love the heck out of Bill ... but I don't see what he sees,\" Huang said."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "The CEO who revived Barbie thinks he can do the same for Gap",
+      "url": "https://fortune.com/2026/08/28/richard-dickson-revived-barbie-can-he-revive-gap/",
+      "published_at": "2026-08-28T10:08:23+00:00",
       "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "There are a record 3,795 billionaires in the world right now—and just like Jeff Bezos, their favorite investments are sports and philanthropy",
-      "url": "https://fortune.com/2026/08/27/record-3795-billionaires-in-the-world-like-jeff-bezos-favorite-investments-sports-and-philanthropy/",
-      "published_at": "2026-08-27T09:01:00+00:00",
-      "summary": "Billionaires from Microsoft CEO Steve Ballmer to businessman Robert Kraft are spending their fortunes buying sports teams and funding charitable causes."
+      "title": "Nvidia’s massive future spending commitments ‘make the company’s risk profile more complex,’ Saxo says",
+      "url": "https://fortune.com/2026/08/28/nvidia-cash-spending-commitments-risk-profile-more-complex-saxo/",
+      "published_at": "2026-08-28T10:05:14+00:00",
+      "summary": "Everything you need to know before you reach the office this morning."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Without local languages, ‘AI is essentially useless’: Hong Kong’s Votee AI is taking on English and Mandarin’s AI dominance with a Cantonese model",
-      "url": "https://fortune.com/2026/08/27/votee-ai-hong-kong-cantonese-llm-pak-sun-ting-ceo/",
-      "published_at": "2026-08-27T06:30:00+00:00",
-      "summary": "Votee is one of a growing number of companies that are trying to tackle AI’s neglect of \"low-resource\" languages."
+      "title": "Who pays for a shadow fleet oil spill? No one",
+      "url": "https://fortune.com/2026/08/28/shadow-fleet-oil-spill-oman-environment/",
+      "published_at": "2026-08-28T10:00:00+00:00",
+      "summary": "The most effective way to stop rogue oil tankers may be to call them what they are: an environmental threat."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Political powerbroker George Norcross is giving $100 million to the hospital where he was born—which will now carry his name",
-      "url": "https://fortune.com/2026/08/27/george-norcross-donates-100-million-to-nj-hospital/",
-      "published_at": "2026-08-27T07:05:00+00:00",
-      "summary": "The New Jersey Democratic kingmaker's gift to Cooper University Health Care is the system's largest ever."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Google DeepMind is losing its grip on elite AI talent, new data shows",
-      "url": "https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/",
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "summary": "New data shared exclusively with Fortune shows the lab’s share of top research and engineering hires in Europe has fallen sharply as OpenAI, Anthropic, and a new generation of rivals gain ground."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "SpaceX says it’s building its largest spaceport yet, committing $100 billion for a Louisiana site—adding to its list of billion-dollar expansion plans",
-      "url": "https://fortune.com/2026/08/27/spacex-largest-spaceport-100-billion-louisiana-expansion/",
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "summary": "Louisiana is getting a taste of Musk’s big ideas as they get a part of the CEO’s billions-of-dollar-plans to bring humanity to space."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Nvidia CEO Jensen Huang eats dinner with someone ‘and their stock price doubles the next day’",
-      "url": "https://fortune.com/2026/08/27/nvidia-ceo-jensen-huang-eats-stock-doubles-q2/",
-      "published_at": "2026-08-27T05:15:53+00:00",
-      "summary": "People want to know where the CEO is dining, and more importantly, who he's with."
+      "title": "Dolly Parton wrote the song we’ll forever play on repeat",
+      "url": "https://fortune.com/2026/08/28/dolly-parton-wrote-the-song-well-forever-play-on-repeat/",
+      "published_at": "2026-08-28T10:00:00+00:00",
+      "summary": "Here’s the paradox at the center of it: Dolly looked like someone who had invented herself, while somehow never seeming invented."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
-      "url": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
-      "published_at": "2026-08-27T00:42:20+00:00",
-      "summary": "<p>A week ago, a mystery model called <a href=\"https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8\">Ox Alpha showed up on OpenRouter</a> — one more entrant among more than 400 models, with roughly 10 new ones launching every week. What made it stand out wasn&#x27;t just the free price t"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
-      "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
-      "published_at": "2026-08-26T20:00:00+00:00",
-      "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> and <a href=\"https://www.anthropic.com/\">Anthropic</a> announced Tuesday a sweeping expansion of their partnership, called <a href=\"https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/\">Claude"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
-      "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
-      "published_at": "2026-08-26T16:13:50+00:00",
-      "summary": "<p>A security agent read a Cloudflare log, found an attacker’s prompt-injection payload sitting inside it, and rewrote the company’s DNS. The firewall had already blocked that payload, and blocking it is what wrote it into the log.</p><p>That chain is <a href=\"https://tenetsecurity.ai/blog/ghostjack"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "published_at": "2026-08-26T14:30:00+00:00",
-      "summary": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev"
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "published_at": "2026-08-27T14:01:00+00:00",
+      "summary": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
-      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-      "published_at": "2026-08-27T10:00:00+00:00",
-      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn"
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a col"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "published_at": "2026-08-26T19:00:00+00:00",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "published_at": "2026-08-26T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around"
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "published_at": "2026-08-27T19:48:13+00:00",
+      "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t ju"
     }
   ]
 }

@@ -1,71 +1,79 @@
 {
-  "updated_at": "2026-08-28T12:40:09.457925+00:00",
+  "updated_at": "2026-08-29T07:48:24.744847+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "published_at": "2026-08-28T12:21:06+00:00",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "published_at": "2026-08-28T23:24:27+00:00",
+      "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-      "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "published_at": "2026-08-28T09:33:00+00:00",
-      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets."
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "published_at": "2026-08-28T22:42:48+00:00",
+      "summary": "Are XREAL's smart glasses the way of the future for home entertainment?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-      "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-      "published_at": "2026-08-28T02:02:44+00:00",
-      "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t"
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "published_at": "2026-08-28T20:24:11+00:00",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-08-27T23:16:45+00:00",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "published_at": "2026-08-28T19:30:38+00:00",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Rivian’s CFO is leaving the company",
-      "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-      "published_at": "2026-08-27T20:23:10+00:00",
-      "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday."
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "published_at": "2026-08-28T18:50:00+00:00",
+      "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
-      "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-      "published_at": "2026-08-27T20:15:26+00:00",
-      "summary": "Sometimes people just want to post to their followers, Bluesky says."
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "published_at": "2026-08-28T18:19:40+00:00",
+      "summary": "There's a lot of capital pouring into the business of giving models away."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-      "published_at": "2026-08-27T20:04:26+00:00",
-      "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal."
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "published_at": "2026-08-28T17:09:05+00:00",
+      "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-      "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
-      "published_at": "2026-08-27T19:54:28+00:00",
-      "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms."
+      "title": "More Americans oppose police license plate cameras than support them: survey",
+      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+      "published_at": "2026-08-28T15:57:58+00:00",
+      "summary": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Tools And Assistants Lead Sparser Lineup Of Megadeals",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/",
+      "published_at": "2026-08-28T17:21:00+00:00",
+      "summary": "Most of this week’s largest funding recipients were AI-focused startups, with Instinct, a developer of AI assistants, pulling in the biggest round."
     },
     {
       "source": "Crunchbase News",
@@ -76,84 +84,100 @@
       "summary": "So far this year, a record $20.3 billion in global seed- through growth-stage funding has gone to companies in space- and satellite-related sectors, per Crunchbase data. That’s already by far the highest annual tally on record, and we’ve still got four months left in 2026."
     },
     {
-      "source": "Crunchbase News",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
-      "url": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/",
-      "published_at": "2026-08-27T13:00:25+00:00",
-      "summary": "Identity verification and fraud prevention company Socure announced Thursday that it raised $156 million in a strategic growth investment valuing it at $5.2 billion. The Incline Village, Nevada-based company also says it is acquiring agentic AI startup Fravity, which will be incorporated into its Ri"
+      "title": "Offshore nuclear barges could power ports and data centers—starting with California, where nuclear is banned",
+      "url": "https://fortune.com/2026/08/29/offshore-nuclear-barges-power-ports-data-centers-california-banned/",
+      "published_at": "2026-08-29T07:12:00+00:00",
+      "summary": "Offshore nuclear power could potentially power everything from ports and data centers to merchant cargo ships and military fleets."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Deloitte sees a $566 billion lunar economy by 2050",
-      "url": "https://fortune.com/2026/08/28/deloitte-sees-a-566-billion-lunar-economy-by-2050/",
-      "published_at": "2026-08-28T09:00:00+00:00",
-      "summary": "But a market that doesn’t exist yet could yield an even larger payoff."
+      "title": "At the ‘Super Bowl of trucking,’ a driver who trained 14 years wins the golden belt buckle",
+      "url": "https://fortune.com/2026/08/29/super-bowl-truck-driving-national-championships-fedex-walmart-ups-drivers-safety/",
+      "published_at": "2026-08-29T07:00:00+00:00",
+      "summary": "Miguel Corral first competed in 2012. This year, after facing over against 428 other rivals, and following a lifetime of safe miles, he finally won."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why Apple’s next CEO shows you don’t need to ‘move out to move up’",
-      "url": "https://fortune.com/2026/08/28/why-apples-next-ceo-shows-you-dont-need-to-move-out-to-move-up/",
-      "published_at": "2026-08-28T11:30:00+00:00",
-      "summary": "For many workers, the best path up is still within."
+      "title": "The Strait of Hormuz crisis threatened Asia’s oil and gas lifeline. Here’s how the region is rewriting its energy playbook",
+      "url": "https://fortune.com/2026/08/28/iran-war-hormuz-blocked-asia-energy-crisis-oil-gas/",
+      "published_at": "2026-08-29T00:00:00+00:00",
+      "summary": "“Notwithstanding the rise of alternative and green technologies over the past decade, the global economy is still very reliant on oil and gas.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Current price of oil as of August 28, 2026",
-      "url": "https://fortune.com/article/price-of-oil-08-28-2026/",
-      "published_at": "2026-08-28T11:00:00+00:00",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why."
+      "title": "Amid high gas prices and shrinking crude stockpile, Trump says U.S. to take control of 65 billion barrels of Venezuelan oil reserves",
+      "url": "https://fortune.com/2026/08/28/trump-us-control-65-billion-barrels-venezuelan-oil-reserves/",
+      "published_at": "2026-08-28T23:29:31+00:00",
+      "summary": "Venezuela has one of the largest oil reserves in the world, with an estimated 303 billion barrels of crude oil in the ground."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘I’m in favor of taxes,’ says Nvidia’s Jensen Huang—but he doesn’t agree with Bill Gates on his plan to slow an AI fallout",
-      "url": "https://fortune.com/2026/08/28/jensen-huang-bill-gates-ai-tax-wealth-society-jobs/",
-      "published_at": "2026-08-28T10:23:49+00:00",
-      "summary": "\"I love the heck out of Bill ... but I don't see what he sees,\" Huang said."
+      "title": "Kevin Warsh finally threw Wall Street some crumbs on what he’s thinking: ‘There is one signal nobody can miss: 65 months of elevated inflation’",
+      "url": "https://fortune.com/2026/08/28/kevin-warsh-jackson-hole-clarity-inflation-employment-mandate/",
+      "published_at": "2026-08-28T15:33:48+00:00",
+      "summary": "But make no mistake: “We should not indulge a regime in which market participants are looking primarily to the Fed for their next trade.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The CEO who revived Barbie thinks he can do the same for Gap",
-      "url": "https://fortune.com/2026/08/28/richard-dickson-revived-barbie-can-he-revive-gap/",
-      "published_at": "2026-08-28T10:08:23+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
+      "title": "DOJ is turning to an ancient body of law to capture Iranian oil tankers. It’s been so long since the U.S. used it, ‘we’d have to conduct a séance’",
+      "url": "https://fortune.com/2026/08/28/justice-department-maritime-prize-law-centuries-old-iranian-oil-tankers/",
+      "published_at": "2026-08-28T21:10:02+00:00",
+      "summary": "The Justice Department is reviving prize law, a centuries-old set of rules that could streamline the process of seizing enemy vessels."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia’s massive future spending commitments ‘make the company’s risk profile more complex,’ Saxo says",
-      "url": "https://fortune.com/2026/08/28/nvidia-cash-spending-commitments-risk-profile-more-complex-saxo/",
-      "published_at": "2026-08-28T10:05:14+00:00",
-      "summary": "Everything you need to know before you reach the office this morning."
+      "title": "Meta’s $17 billion teen safety settlement is really a 1% tax — and a play to box in TikTok and YouTube",
+      "url": "https://fortune.com/2026/08/28/metas-17-billion-teen-safety-settlement-is-really-a-1-tax-and-a-play-to-box-in-tiktok-and-youtube/",
+      "published_at": "2026-08-28T21:08:26+00:00",
+      "summary": "The deeper lesson of is that product design, as a site of legal accountability, is a workable legal strategy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Who pays for a shadow fleet oil spill? No one",
-      "url": "https://fortune.com/2026/08/28/shadow-fleet-oil-spill-oman-environment/",
-      "published_at": "2026-08-28T10:00:00+00:00",
-      "summary": "The most effective way to stop rogue oil tankers may be to call them what they are: an environmental threat."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Dolly Parton wrote the song we’ll forever play on repeat",
-      "url": "https://fortune.com/2026/08/28/dolly-parton-wrote-the-song-well-forever-play-on-repeat/",
-      "published_at": "2026-08-28T10:00:00+00:00",
-      "summary": "Here’s the paradox at the center of it: Dolly looked like someone who had invented herself, while somehow never seeming invented."
+      "title": "Dolly Parton likely wrote 2 of her biggest hits on the same day",
+      "url": "https://fortune.com/2026/08/28/dolly-parton-three-greatest-songs-jolene-love-you-9-to-5/",
+      "published_at": "2026-08-28T20:58:04+00:00",
+      "summary": "Three songs define Dolly Parton's genius more than any others."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "published_at": "2026-08-27T14:01:00+00:00",
-      "summary": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen"
+      "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+      "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+      "published_at": "2026-08-28T17:52:50+00:00",
+      "summary": "<p><i>Presented by Nutanix </i></p><hr /><p>Autonomous systems that can reason, make their own decisions, and execute actions across an environment introduce a category of risk that application-level controls were never built to contain. Treating that risk as a single problem produces incomplete arc"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
+      "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+      "published_at": "2026-08-28T16:33:16+00:00",
+      "summary": "<p>Consider an AI agent tasked with a complex enterprise workflow like migrating massive batches of customer records from a legacy CRM to a cloud database. The agent cannot rely solely on its internal context window for a job spanning hours and depends on the runtime layer, <a href=\"https://ventureb"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
+      "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
+      "published_at": "2026-08-28T15:30:05+00:00",
+      "summary": "<p>Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale.</p><p><a href=\"https://cohere.com/blog/parse\">Cohere released Parse 5 on Thursday</a>,"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "published_at": "2026-08-28T12:35:27+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company cal"
     },
     {
       "source": "MIT Tech Review",
@@ -162,14 +186,6 @@
       "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
       "published_at": "2026-08-28T09:00:00+00:00",
       "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a col"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "published_at": "2026-08-27T19:48:13+00:00",
-      "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t ju"
     }
   ]
 }

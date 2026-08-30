@@ -1,191 +1,119 @@
 {
-  "updated_at": "2026-08-29T07:48:24.744847+00:00",
+  "updated_at": "2026-08-30T06:28:06.720364+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 14,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "published_at": "2026-08-28T23:24:27+00:00",
-      "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers."
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "published_at": "2026-08-29T18:41:59+00:00",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "published_at": "2026-08-28T22:42:48+00:00",
-      "summary": "Are XREAL's smart glasses the way of the future for home entertainment?"
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "published_at": "2026-08-29T17:51:10+00:00",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "published_at": "2026-08-28T20:24:11+00:00",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "published_at": "2026-08-29T17:36:47+00:00",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "published_at": "2026-08-28T19:30:38+00:00",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "published_at": "2026-08-29T16:10:00+00:00",
+      "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "published_at": "2026-08-28T18:50:00+00:00",
-      "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses."
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "published_at": "2026-08-29T14:00:00+00:00",
+      "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assume"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "published_at": "2026-08-28T18:19:40+00:00",
-      "summary": "There's a lot of capital pouring into the business of giving models away."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "published_at": "2026-08-28T17:09:05+00:00",
-      "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "More Americans oppose police license plate cameras than support them: survey",
-      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-      "published_at": "2026-08-28T15:57:58+00:00",
-      "summary": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: AI Tools And Assistants Lead Sparser Lineup Of Megadeals",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/",
-      "published_at": "2026-08-28T17:21:00+00:00",
-      "summary": "Most of this week’s largest funding recipients were AI-focused startups, with Instinct, a developer of AI assistants, pulling in the biggest round."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Sector Snapshot: Space Tech Startup Funding Orbits New Highs",
-      "url": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/",
-      "published_at": "2026-08-28T11:00:47+00:00",
-      "summary": "So far this year, a record $20.3 billion in global seed- through growth-stage funding has gone to companies in space- and satellite-related sectors, per Crunchbase data. That’s already by far the highest annual tally on record, and we’ve still got four months left in 2026."
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "published_at": "2026-08-29T13:00:00+00:00",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Offshore nuclear barges could power ports and data centers—starting with California, where nuclear is banned",
-      "url": "https://fortune.com/2026/08/29/offshore-nuclear-barges-power-ports-data-centers-california-banned/",
-      "published_at": "2026-08-29T07:12:00+00:00",
-      "summary": "Offshore nuclear power could potentially power everything from ports and data centers to merchant cargo ships and military fleets."
+      "title": "Singapore has overhauled its baby bonus scheme. Will it work to boost birth rates this time?",
+      "url": "https://fortune.com/2026/08/29/singapore-overhauls-baby-bonus-will-it-work-boost-fertility/",
+      "published_at": "2026-08-30T00:00:00+00:00",
+      "summary": "Probably not."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "At the ‘Super Bowl of trucking,’ a driver who trained 14 years wins the golden belt buckle",
-      "url": "https://fortune.com/2026/08/29/super-bowl-truck-driving-national-championships-fedex-walmart-ups-drivers-safety/",
-      "published_at": "2026-08-29T07:00:00+00:00",
-      "summary": "Miguel Corral first competed in 2012. This year, after facing over against 428 other rivals, and following a lifetime of safe miles, he finally won."
+      "title": "The mayor of this desert city likens the U.S. West’s water crisis to planning for a meteor. ‘You can see it coming, but you can’t get out of the way’",
+      "url": "https://fortune.com/2026/08/29/us-west-water-crisis-colorado-river-reservoirs-arizona-nevada-california/",
+      "published_at": "2026-08-29T22:44:10+00:00",
+      "summary": "Under the Bureau of Reclamation’s plan, California, Nevada and Arizona will collectively reduce water use by 1.25 million acre-feet."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Strait of Hormuz crisis threatened Asia’s oil and gas lifeline. Here’s how the region is rewriting its energy playbook",
-      "url": "https://fortune.com/2026/08/28/iran-war-hormuz-blocked-asia-energy-crisis-oil-gas/",
-      "published_at": "2026-08-29T00:00:00+00:00",
-      "summary": "“Notwithstanding the rise of alternative and green technologies over the past decade, the global economy is still very reliant on oil and gas.\""
+      "title": "With ‘virtual speed bumps,’ these cities have reduced crashes by rewarding slower drivers with fewer red lights",
+      "url": "https://fortune.com/2026/08/29/virtual-speed-bumps-traffic-accidents-crashes-slower-drivers-fewer-red-lights/",
+      "published_at": "2026-08-29T22:06:49+00:00",
+      "summary": "\"If you come to Albuquerque right now and you’re driving that corridor, you will learn pretty quickly that if you are speeding, you stop.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Amid high gas prices and shrinking crude stockpile, Trump says U.S. to take control of 65 billion barrels of Venezuelan oil reserves",
-      "url": "https://fortune.com/2026/08/28/trump-us-control-65-billion-barrels-venezuelan-oil-reserves/",
-      "published_at": "2026-08-28T23:29:31+00:00",
-      "summary": "Venezuela has one of the largest oil reserves in the world, with an estimated 303 billion barrels of crude oil in the ground."
+      "title": "Europe’s summer drought is so extreme that desertification is a growing threat",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "published_at": "2026-08-29T21:55:47+00:00",
+      "summary": "Around 99% of Hungary’s lands are currently under severe or extreme drought conditions."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Kevin Warsh finally threw Wall Street some crumbs on what he’s thinking: ‘There is one signal nobody can miss: 65 months of elevated inflation’",
-      "url": "https://fortune.com/2026/08/28/kevin-warsh-jackson-hole-clarity-inflation-employment-mandate/",
-      "published_at": "2026-08-28T15:33:48+00:00",
-      "summary": "But make no mistake: “We should not indulge a regime in which market participants are looking primarily to the Fed for their next trade.”"
+      "title": "The Earth is sizzling, but ‘climate hushing’ is hot right now among Democrats. ‘People are increasingly freaked out about other issues’",
+      "url": "https://fortune.com/2026/08/29/midterm-elections-climate-change-hushing-democrats-cost-of-living-trump-iran-war/",
+      "published_at": "2026-08-29T21:49:16+00:00",
+      "summary": "The Searchlight Institute, a Democratic think tank, urged the party to stop mentioning climate change because it is not a priority for voters."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "DOJ is turning to an ancient body of law to capture Iranian oil tankers. It’s been so long since the U.S. used it, ‘we’d have to conduct a séance’",
-      "url": "https://fortune.com/2026/08/28/justice-department-maritime-prize-law-centuries-old-iranian-oil-tankers/",
-      "published_at": "2026-08-28T21:10:02+00:00",
-      "summary": "The Justice Department is reviving prize law, a centuries-old set of rules that could streamline the process of seizing enemy vessels."
+      "title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
+      "url": "https://fortune.com/2026/08/29/iran-economy-us-sanctions-gold-crypto-protests-inflation-naval-blockade/",
+      "published_at": "2026-08-29T21:26:05+00:00",
+      "summary": "\"Digital assets and gold are how ordinary Iranians protect their savings from inflation.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meta’s $17 billion teen safety settlement is really a 1% tax — and a play to box in TikTok and YouTube",
-      "url": "https://fortune.com/2026/08/28/metas-17-billion-teen-safety-settlement-is-really-a-1-tax-and-a-play-to-box-in-tiktok-and-youtube/",
-      "published_at": "2026-08-28T21:08:26+00:00",
-      "summary": "The deeper lesson of is that product design, as a site of legal accountability, is a workable legal strategy."
+      "title": "Key takeaways from the Fed’s annual Jackson Hole conference",
+      "url": "https://fortune.com/2026/08/29/key-takeaways-federal-reserve-jackson-hole-conference-kevin-warch/",
+      "published_at": "2026-08-29T20:02:16+00:00",
+      "summary": "Policymakers from the euro area who spoke on the sidelines of the conference also sent a warning about inflation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dolly Parton likely wrote 2 of her biggest hits on the same day",
-      "url": "https://fortune.com/2026/08/28/dolly-parton-three-greatest-songs-jolene-love-you-9-to-5/",
-      "published_at": "2026-08-28T20:58:04+00:00",
-      "summary": "Three songs define Dolly Parton's genius more than any others."
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
-      "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
-      "published_at": "2026-08-28T17:52:50+00:00",
-      "summary": "<p><i>Presented by Nutanix </i></p><hr /><p>Autonomous systems that can reason, make their own decisions, and execute actions across an environment introduce a category of risk that application-level controls were never built to contain. Treating that risk as a single problem produces incomplete arc"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
-      "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
-      "published_at": "2026-08-28T16:33:16+00:00",
-      "summary": "<p>Consider an AI agent tasked with a complex enterprise workflow like migrating massive batches of customer records from a legacy CRM to a cloud database. The agent cannot rely solely on its internal context window for a job spanning hours and depends on the runtime layer, <a href=\"https://ventureb"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
-      "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
-      "published_at": "2026-08-28T15:30:05+00:00",
-      "summary": "<p>Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale.</p><p><a href=\"https://cohere.com/blog/parse\">Cohere released Parse 5 on Thursday</a>,"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "published_at": "2026-08-28T12:35:27+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company cal"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "published_at": "2026-08-28T09:00:00+00:00",
-      "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a col"
+      "title": "Trump cannot deport students for criticizing Israel, judge rules, saying speech and press freedoms are ‘foundational to America’s enduring democracy’",
+      "url": "https://fortune.com/2026/08/29/trump-deportation-college-students-israel-gaza-war-free-speech-press/",
+      "published_at": "2026-08-29T19:53:17+00:00",
+      "summary": "“Freedom of speech is illusory if we are only ‘free’ to express complementary views about the government and its leaders,” the judge wrote."
     }
   ]
 }

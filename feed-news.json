@@ -1,119 +1,135 @@
 {
-  "updated_at": "2026-08-30T06:28:06.720364+00:00",
+  "updated_at": "2026-08-31T06:54:36.125707+00:00",
   "period_hours": 24,
-  "article_count": 14,
+  "article_count": 16,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "published_at": "2026-08-29T18:41:59+00:00",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "published_at": "2026-08-31T02:34:00+00:00",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "published_at": "2026-08-29T17:51:10+00:00",
-      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "published_at": "2026-08-31T02:18:57+00:00",
+      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been pr"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "published_at": "2026-08-29T17:36:47+00:00",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat"
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "published_at": "2026-08-30T18:33:44+00:00",
+      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hollywood celebs are getting into microdrama apps",
-      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "published_at": "2026-08-29T16:10:00+00:00",
-      "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas."
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "published_at": "2026-08-30T16:54:25+00:00",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "published_at": "2026-08-29T14:00:00+00:00",
-      "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assume"
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "published_at": "2026-08-30T16:03:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "published_at": "2026-08-29T13:00:00+00:00",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "published_at": "2026-08-30T15:00:00+00:00",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Singapore has overhauled its baby bonus scheme. Will it work to boost birth rates this time?",
-      "url": "https://fortune.com/2026/08/29/singapore-overhauls-baby-bonus-will-it-work-boost-fertility/",
-      "published_at": "2026-08-30T00:00:00+00:00",
-      "summary": "Probably not."
+      "title": "This Gen Xer spent 28 years in a cubicle and never made more than $70,000. At 59, she made $500,000 in the creator economy",
+      "url": "https://fortune.com/2026/08/31/gen-x-creator-economy-ugc-tiktok-shop/",
+      "published_at": "2026-08-31T06:00:00+00:00",
+      "summary": "Some creators are finding their age can be an advantage as brands try to reach older consumers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The mayor of this desert city likens the U.S. West’s water crisis to planning for a meteor. ‘You can see it coming, but you can’t get out of the way’",
-      "url": "https://fortune.com/2026/08/29/us-west-water-crisis-colorado-river-reservoirs-arizona-nevada-california/",
-      "published_at": "2026-08-29T22:44:10+00:00",
-      "summary": "Under the Bureau of Reclamation’s plan, California, Nevada and Arizona will collectively reduce water use by 1.25 million acre-feet."
+      "title": "Shein CEO’s wealth slumps $15 billion after whittled-down IPO",
+      "url": "https://fortune.com/2026/08/30/shein-ceo-wealth-sky-xu-15-billion-hong-kong-ipo/",
+      "published_at": "2026-08-30T23:39:25+00:00",
+      "summary": "Shein is set to go public in Hong Kong on Tuesday at just over a quarter of the $100 billion it was worth in 2022."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "With ‘virtual speed bumps,’ these cities have reduced crashes by rewarding slower drivers with fewer red lights",
-      "url": "https://fortune.com/2026/08/29/virtual-speed-bumps-traffic-accidents-crashes-slower-drivers-fewer-red-lights/",
-      "published_at": "2026-08-29T22:06:49+00:00",
-      "summary": "\"If you come to Albuquerque right now and you’re driving that corridor, you will learn pretty quickly that if you are speeding, you stop.”"
+      "title": "Warner Bros. axed ‘Coyote vs. Acme’ three years ago to take a tax write off. But it’s finally in theaters after a public outcry—and a box office hit",
+      "url": "https://fortune.com/2026/08/30/warner-bros-coyote-vs-acme-tax-write-off-theaters-box-office-debut/",
+      "published_at": "2026-08-30T23:26:20+00:00",
+      "summary": "The Looney Tunes feature film that was given a new lease on life by Ketchup Entertainment and debuted with an estimated $15.5 million in ticket sales over the weekend."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Europe’s summer drought is so extreme that desertification is a growing threat",
-      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-      "published_at": "2026-08-29T21:55:47+00:00",
-      "summary": "Around 99% of Hungary’s lands are currently under severe or extreme drought conditions."
+      "title": "Iran’s president admits ‘we have many problems’ and missiles ‘are of no use’ as the U.S. chokes its economy while weakening Tehran’s grip on Hormuz",
+      "url": "https://fortune.com/2026/08/30/iran-economy-many-problems-inflation-naval-blockade-hormuz-oil-exports-fuel-imports/",
+      "published_at": "2026-08-30T23:10:54+00:00",
+      "summary": "\"People are on the edge now; if I put more pressure on them, they might fall off the edge. We have to be careful that no one falls off.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Earth is sizzling, but ‘climate hushing’ is hot right now among Democrats. ‘People are increasingly freaked out about other issues’",
-      "url": "https://fortune.com/2026/08/29/midterm-elections-climate-change-hushing-democrats-cost-of-living-trump-iran-war/",
-      "published_at": "2026-08-29T21:49:16+00:00",
-      "summary": "The Searchlight Institute, a Democratic think tank, urged the party to stop mentioning climate change because it is not a priority for voters."
+      "title": "Battle for Hormuz: U.S. forces take first military action against Iran in a month, striking rocket launchers being used to deploy sea mines",
+      "url": "https://fortune.com/2026/08/30/battle-for-hormuz-us-forces-iran-rocket-launchers-sea-mines/",
+      "published_at": "2026-08-30T21:04:39+00:00",
+      "summary": "The U.S. military last week completed clearing sea mines from the strait’s international shipping routes."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
-      "url": "https://fortune.com/2026/08/29/iran-economy-us-sanctions-gold-crypto-protests-inflation-naval-blockade/",
-      "published_at": "2026-08-29T21:26:05+00:00",
-      "summary": "\"Digital assets and gold are how ordinary Iranians protect their savings from inflation.\""
+      "title": "It’s not just math and reading. Classroom devices deprive kids of skills needed in the AI future and how to be ‘fully human,’ education experts say",
+      "url": "https://fortune.com/2026/08/30/classroom-devices-backlash-online-learning-test-scores-cognition-human-skills-ai-future/",
+      "published_at": "2026-08-30T20:01:41+00:00",
+      "summary": "\"Children don’t need school to become more like the digital world. They are already immersed in that world for much of the time outside school hours.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Key takeaways from the Fed’s annual Jackson Hole conference",
-      "url": "https://fortune.com/2026/08/29/key-takeaways-federal-reserve-jackson-hole-conference-kevin-warch/",
-      "published_at": "2026-08-29T20:02:16+00:00",
-      "summary": "Policymakers from the euro area who spoke on the sidelines of the conference also sent a warning about inflation."
+      "title": "Trump urges FCC to probe media polling, punish NBC moderator",
+      "url": "https://fortune.com/2026/08/30/trump-fcc-probe-media-polling-nbc-meet-the-press-kristen-welker/",
+      "published_at": "2026-08-30T18:42:51+00:00",
+      "summary": "The president also lashed out at Kristen Welker, the moderator of NBC’s Meet the Press, for saying his endorsements of Republican candidates in primary elections this year had shown mixed results."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump cannot deport students for criticizing Israel, judge rules, saying speech and press freedoms are ‘foundational to America’s enduring democracy’",
-      "url": "https://fortune.com/2026/08/29/trump-deportation-college-students-israel-gaza-war-free-speech-press/",
-      "published_at": "2026-08-29T19:53:17+00:00",
-      "summary": "“Freedom of speech is illusory if we are only ‘free’ to express complementary views about the government and its leaders,” the judge wrote."
+      "title": "World mostly shrugs off Bessent’s ‘D-Day’ Iran sanctions threat",
+      "url": "https://fortune.com/2026/08/30/scott-bessent-d-day-iran-sanctions-threat-china-uae-turkey/",
+      "published_at": "2026-08-30T18:34:49+00:00",
+      "summary": "Iranian bank branches remained open in Dubai. Commercial flights also continued between Iran and Turkey as well as Iran and the United Arab Emirates."
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI agents need their own identity before they need a gateway",
+      "url": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
+      "published_at": "2026-08-30T23:00:00+00:00",
+      "summary": "<p>Enterprise AI has entered a new era. Organizations are rapidly moving beyond assistants that answer questions to autonomous agents capable of reasoning, invoking tools, accessing enterprise applications, coordinating with other agents, and completing multi-step business workflows with minimal hum"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
+      "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
+      "published_at": "2026-08-30T20:15:00+00:00",
+      "summary": "<p>There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit on top of identity and attribution layers that are mostly not there.</p><p>The first layer of risk is not hypothetic"
     }
   ]
 }

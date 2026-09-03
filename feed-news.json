@@ -1,215 +1,207 @@
 {
-  "updated_at": "2026-09-02T05:38:55.462396+00:00",
+  "updated_at": "2026-09-03T05:38:30.182570+00:00",
   "period_hours": 24,
-  "article_count": 26,
+  "article_count": 25,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Larry Page’s flying car company Pivotal loses its CEO",
-      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-      "published_at": "2026-09-01T23:59:59+00:00",
-      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025."
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-02T23:01:00+00:00",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-      "published_at": "2026-09-01T23:00:00+00:00",
-      "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore."
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "published_at": "2026-09-02T22:44:56+00:00",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "published_at": "2026-09-01T22:13:34+00:00",
-      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America."
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "published_at": "2026-09-02T22:24:09+00:00",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "published_at": "2026-09-01T22:08:24+00:00",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "published_at": "2026-09-02T21:38:34+00:00",
+      "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "published_at": "2026-09-01T21:06:24+00:00",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "published_at": "2026-09-02T20:19:14+00:00",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "published_at": "2026-09-01T20:53:05+00:00",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
+      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+      "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "published_at": "2026-09-02T20:12:41+00:00",
+      "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "published_at": "2026-09-01T20:48:32+00:00",
-      "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service."
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "published_at": "2026-09-02T19:35:09+00:00",
+      "summary": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-      "published_at": "2026-09-01T19:45:28+00:00",
-      "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone."
+      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+      "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+      "published_at": "2026-09-02T19:25:35+00:00",
+      "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "WhatsApp Remittance Startup Félix Secures $200M Series C Led By A16z, General Catalyst",
-      "url": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
-      "published_at": "2026-09-01T17:21:50+00:00",
-      "summary": "Félix, a Miami-based AI-powered WhatsApp remittance platform for Latino immigrants, announced on Tuesday that it has secured $200 million in Series C funding co-led by Andreessen Horowitz and General Catalyst."
+      "title": "Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
+      "url": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/",
+      "published_at": "2026-09-02T17:34:29+00:00",
+      "summary": "Lyte, a physical AI startup building sensing and perception technology for robots, has raised a Maverick Silicon-led $165 million Series C funding at a $1.6 billion post-money valuation."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Sector Snapshot: Proptech Funding Holds Up, But Investors Are Placing Different Bets",
-      "url": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/",
-      "published_at": "2026-09-01T11:00:51+00:00",
-      "summary": "Real estate tech startup investors are being more selective about their bets and putting more money into companies using AI and other technology to make construction, property operations and real estate transactions faster and less expensive."
+      "title": "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
+      "url": "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/",
+      "published_at": "2026-09-02T11:00:10+00:00",
+      "summary": "In the first half of this year, 58 venture-backed companies joined the public listings at $1 billion or above, per Crunchbase data. With the year’s end now in sight, a small window remains for other startups to launch 2026 IPOs, so we took a look at notable venture-backed startups that Crunchbase’s"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Apple CEO John Ternus started Tuesday. His $55 million award starts next year",
-      "url": "https://fortune.com/2026/09/01/apple-ceo-john-ternus-started-tuesday-his-55-million-award-starts-next-year/",
-      "published_at": "2026-09-02T01:45:07+00:00",
-      "summary": "Apple tied 75% of the new CEO’s annual equity target to shareholder return relative to the S&#038;P 500. Neither award is granted until fiscal 2027"
+      "title": "Moody’s head of sustainable finance: Asia is embracing a ‘pragmatic transition’ on energy",
+      "url": "https://fortune.com/2026/09/03/energy-security-reshapes-asias-green-transition-moodys/",
+      "published_at": "2026-09-03T04:30:00+00:00",
+      "summary": "“Virtue signalling” is giving way to national energy priorities as Asia pursues renewables, nuclear power, alternative fuels and coal."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "From a Singapore airport soundtrack to new AI-powered PCs, HP is looking for a new rhythm in Asia",
-      "url": "https://fortune.com/2026/09/01/hp-asia-ai-pcs-wubble-ai-changi-airport-michael-boyle/",
-      "published_at": "2026-09-01T21:00:00+00:00",
-      "summary": "HP recently launched Garage 2.0, a startup accelerator, in Singapore as it tries to revive its business for the AI age."
+      "title": "Anthropic pauses some AI training following rogue agent hacks. Here’s how it compares with OpenAI",
+      "url": "https://fortune.com/2026/09/02/anthropic-ai-pause-rogue-agent-hacks-openai/",
+      "published_at": "2026-09-02T12:49:37+00:00",
+      "summary": "The company joins OpenAI in temporarily halting reinforcement learning after AI agents in testing environments took unauthorized action on the internet."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns",
-      "url": "https://fortune.com/2026/09/01/openai-to-limit-release-of-its-asttra-model-astra-due-to-hacking-concerns/",
-      "published_at": "2026-09-01T20:00:00+00:00",
-      "summary": "The company is being extra cautious following the Hugging Face incident, while also pitching its cybersecurity capabilities to potential customers."
+      "title": "Single Americans want potential partners earning at least six figures, according to new study. Millennials set the ‘ideal’ bar at $160,000",
+      "url": "https://fortune.com/2026/09/02/single-americans-partner-earnings-ideal-study-millennials/",
+      "published_at": "2026-09-02T11:00:24+00:00",
+      "summary": "They say you can’t put a price on love—but in today’s economy, it might be common sense."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform built for ‘warfighter needs’",
-      "url": "https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/",
-      "published_at": "2026-09-01T19:40:18+00:00",
-      "summary": "The rollout expands the Pentagon’s GenAI.mil platform beyond Gemini as it pushes AI deeper into everyday military work."
+      "title": "The U.S. is about to churn out much more natural gas to power AI and to export—and it’s triggering a wave of multibillion-dollar acquisitions",
+      "url": "https://fortune.com/2026/09/02/us-churn-natural-gas-power-ai-export-slew-multibillion-dollar-deals/",
+      "published_at": "2026-09-02T07:09:00+00:00",
+      "summary": "Oneok bought up Brazos Midstream’s Permian Basin gas facilities for over $4.4 billion as the industry consolidates."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "California lawmakers stall Newsom’s wildfire liability bill, saying it doesn’t go far enough for victims",
-      "url": "https://fortune.com/2026/09/01/california-bill-wildfire-victims-compensation/",
-      "published_at": "2026-09-01T21:27:46+00:00",
-      "summary": "The legislative setback leaves unresolved how victims, utilities, insurers, and ratepayers divide the escalating cost of utility-sparked fires"
+      "title": "China demands answers after a man dies hours after entering ICE custody—the fifth Chinese national to die in U.S. immigration custody since 2025",
+      "url": "https://fortune.com/2026/09/02/china-ice-custody-death-lianyong-wei/",
+      "published_at": "2026-09-02T21:24:18+00:00",
+      "summary": "At least 57 ICE detainees have died since Trump returned to office, a death rate that has alarmed public health experts."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mark Cuban bought a $25 million mansion sight unseen—and got it for 50% off. His secret? ‘The best guaranteed return on investment’",
-      "url": "https://fortune.com/article/mark-cuban-bought-25-million-mansion-sight-unseen-discount-guaranteed-return-on-investment-billionaire-real-estate-strategy/",
-      "published_at": "2026-09-01T19:42:41+00:00",
-      "summary": "Cuban dropped millions on a mansion he’d never set foot in, but has zero regrets. The deal captures how billionaires think differently about money."
+      "title": "Tiger Woods pleads no-contest to a reckless driving charge and loses his driver’s license for five years",
+      "url": "https://fortune.com/2026/09/02/tiger-woods-drivers-license-reckless-driving/",
+      "published_at": "2026-09-02T21:22:46+00:00",
+      "summary": "Prosecutors reduced the DUI charge after toxicologists said Woods developed a “pharmacological” tolerance to pain pills and was thus not impaired"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "FBI seizes over $560,000 in crypto meant to fund Hamas, disrupting a years-long fundraising network",
-      "url": "https://fortune.com/2026/09/01/fbi-hamas-crypto-donations-seizure/",
-      "published_at": "2026-09-01T21:10:16+00:00",
-      "summary": "The operation also gave authorities information about thousands of people who contacted Hamas seeking to donate money."
+      "title": "Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding",
+      "url": "https://fortune.com/2026/09/02/iran-war-oil-prices-gulf-strait-hormuz/",
+      "published_at": "2026-09-02T21:20:51+00:00",
+      "summary": "Brent crude climbed to around $95 a barrel as Iran attacked U.S. allies following a new round of American strikes."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "San Francisco Democrats break with their party over the billionaire tax—and reveal how deeply Prop 40 has split the left",
+      "url": "https://fortune.com/2026/09/02/san-francisco-democrats-bilionaire-tax-prop-40/",
+      "published_at": "2026-09-02T07:01:00+00:00",
+      "summary": "The billionaire tax vote looms in November—and Democrats in California can’t agree on endorsing it."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
-      "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
-      "published_at": "2026-09-01T19:20:09+00:00",
-      "summary": "<p>When large language models (LLMs) hallucinate, developers typically assume the model lacks the required facts. Engineering teams diagnose the error as missing knowledge. The standard response is to increase model size, expand training data, or build complex retrieval architectures.</p><p>A <a hre"
+      "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+      "published_at": "2026-09-03T00:02:18+00:00",
+      "summary": "<p>Google keeps cranking out Flash models: the company on Wednesday announced <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">two versions of a new 3.8 Flash</a>. </p><p>The variants include a standard Flash, a “workhorse” model for ag"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
-      "url": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
-      "published_at": "2026-09-01T18:59:54+00:00",
-      "summary": "<p>Egiziago Cioffi is the IT and Enterprise Architect and CEO of SynSphere Italia, a Microsoft partner based in Milan. He built an agent himself. He wrote the indexing job, configured the Azure OpenAI retrieval pipeline, connected it to SharePoint, and watched it pass every evaluation his team ran.<"
+      "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
+      "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
+      "published_at": "2026-09-02T21:32:59+00:00",
+      "summary": "<p>Meta is entering the increasingly competitive real-time speech-to-text market with Muse Voice Transcribe, a new audio perception model that combines streaming transcription, endpoint detection and speaker diarization for more than 20 speakers — at a public API price of just $0.18 per hour of proc"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
-      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-      "published_at": "2026-09-01T18:41:21+00:00",
-      "summary": "<p>It&#x27;s only the first day of September 2026, but the month and fall season are already off to the races in AI land, as Anthropic has just released its latest and most powerful large language models yet — <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable 5.1 and Claud"
+      "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
+      "url": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists",
+      "published_at": "2026-09-02T21:05:59+00:00",
+      "summary": "<p>When enterprise buyers build out their next AI accelerator evaluation list this cycle, they&#x27;re more likely to put a non-Nvidia chip on it than Nvidia&#x27;s own next-generation GPU. According to <a href=\"https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-c"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
-      "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
-      "published_at": "2026-09-01T15:00:00+00:00",
-      "summary": "<p><a href=\"https://www.perplexity.ai/\">Perplexity</a> today launched hybrid compute for its agentic platform, <a href=\"https://www.perplexity.ai/products/computer\">Computer</a>, a system that lets a single AI agent split its work between frontier models running in the cloud and smaller open-weight"
+      "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
+      "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
+      "published_at": "2026-09-02T17:51:48+00:00",
+      "summary": "<p>Infostealers <a href=\"https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense\">replayed stolen Claude session cookies into paid accounts</a> without ever touching the login page two-factor authentication guards.</p><p>The accounts Anthropic flagg"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "AI is redefining the workforce — and most planning models aren’t ready",
-      "url": "https://venturebeat.com/orchestration/ai-is-redefining-the-workforce-and-most-planning-models-arent-ready",
-      "published_at": "2026-09-01T14:00:00+00:00",
-      "summary": "<p><i>Presented by SAP</i></p><hr /><p>HR tracks employees and skills. Finance owns headcount targets and cost. Procurement manages contractors and services spend. Together, they leave executives unable to answer basic questions about how workforce decisions actually translate into business outcomes"
+      "title": "Forward-deployed engineering is how enterprise AI learns",
+      "url": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
+      "published_at": "2026-09-02T14:00:00+00:00",
+      "summary": "<p><i>Presented by Zeta</i></p><hr /><p>Every forward-deployed engineering (FDE) pitch sounds identical for the first ten minutes: an engineer embedded on-site, a workflow encoded within weeks, a demo that finally works on the customer&#x27;s real data. What differs is what happens in the following"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "published_at": "2026-09-01T19:10:36+00:00",
-      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is"
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "published_at": "2026-09-02T14:00:00+00:00",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Making the AI-powered case for legacy modernization",
-      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "published_at": "2026-09-01T14:00:00+00:00",
-      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with t"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "published_at": "2026-09-01T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and pro"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "How engineered microbes could help feed the world’s crops",
-      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-      "published_at": "2026-09-01T09:00:00+00:00",
-      "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucia"
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "published_at": "2026-09-02T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine lear"
     }
   ]
 }

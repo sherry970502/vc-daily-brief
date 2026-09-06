@@ -1,175 +1,111 @@
 {
-  "updated_at": "2026-09-05T05:33:29.468582+00:00",
+  "updated_at": "2026-09-06T05:45:44.704940+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 13,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "published_at": "2026-09-04T23:36:14+00:00",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth."
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "published_at": "2026-09-05T22:49:55+00:00",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "published_at": "2026-09-04T23:15:11+00:00",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "published_at": "2026-09-05T19:35:24+00:00",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "published_at": "2026-09-04T21:12:11+00:00",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "published_at": "2026-09-05T18:05:27+00:00",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "published_at": "2026-09-04T17:52:05+00:00",
-      "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app."
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "published_at": "2026-09-05T17:00:00+00:00",
+      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What will Apple’s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "published_at": "2026-09-04T17:18:00+00:00",
-      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#"
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-      "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-      "published_at": "2026-09-04T16:51:23+00:00",
-      "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "published_at": "2026-09-04T16:21:11+00:00",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-      "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-      "published_at": "2026-09-04T15:00:00+00:00",
-      "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
-      "published_at": "2026-09-04T17:59:30+00:00",
-      "summary": "AI infrastructure dominated the largest venture rounds this week, with two multibillion-dollar deals in the sector taking the top spots. Data center and cloud provider Crusoe led with a massive $3 billion financing, followed by Fluidstack’s $1.5 billion raise."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "A Startup General Counsel Knew What Corporate Lawyers Needed From AI. So She Built It.",
-      "url": "https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/",
-      "published_at": "2026-09-04T11:00:55+00:00",
-      "summary": "After nearly two decades working as a lawyer at companies such as Amazon, Cruise, Replit and Anki, Cecilia Ziniti teamed up with engineer Bardia Pourvakil to combine their knowledge of law and coding to co-found GC AI."
+      "title": "Oura is going public, but these smart ring companies are coming for its crown",
+      "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "published_at": "2026-09-05T15:00:00+00:00",
+      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI quietly boosts some of Astra’s evaluation metrics, and continues to change others post-launch",
-      "url": "https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/",
-      "published_at": "2026-09-05T00:12:32+00:00",
-      "summary": "The numbers on OpenAI's blog about Astra kept changing. In some cases, the changes made Astra look better and rival models look worse."
+      "title": "ASEAN can still hedge between America and China on AI. It needs to get its act together first",
+      "url": "https://fortune.com/2026/09/05/asean-can-still-hedge-between-america-and-china-on-ai-it-needs-to-get-its-act-together-first/",
+      "published_at": "2026-09-06T00:00:00+00:00",
+      "summary": "Can ASEAN members draw from both the Chinese and Western ecosystems in pursuit of their own interests?"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Bitcoin is trading more like an ‘amplified version of gold’ again, but the four-year cycle theory threatens further declines",
-      "url": "https://fortune.com/2026/09/04/bitcoin-amplified-gold-four-year-cycle-theory-price-rally-safe-haven-dollar-bond-market-volatility-downside-risk/",
-      "published_at": "2026-09-04T20:29:25+00:00",
-      "summary": "Some analysts warn the four-year cycle set to complete later this year could bring another slide."
+      "title": "‘Chuck it in the fire.’ A leading candidate in France’s presidential race has a simple solution to its massive national debt: just cancel it",
+      "url": "https://fortune.com/2026/09/05/france-national-debt-cancelation-presidential-candidate-jean-luc-melenchon-central-bank-french-german-bond-yields/",
+      "published_at": "2026-09-05T19:07:16+00:00",
+      "summary": "“Why did we make a single currency and an ECB together? We can do it and I bet we’d find allies in Europe.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Denmark and four EU countries agree on migrant ‘return hubs’ outside the bloc, aim to start by 2027",
-      "url": "https://fortune.com/2026/09/04/five-eu-countries-migrant-return-hub-human-rights/",
-      "published_at": "2026-09-04T20:22:57+00:00",
-      "summary": "Netherlands' minister of asylum and migration Bart van den Brink says \"this is something new and it's groundbreaking.\""
+      "title": "Meet the carnival performer-turned-opera actor in charge of auditioning snakes for a Mozart adaptation. ‘We will be moving forward with Princess’",
+      "url": "https://fortune.com/2026/09/05/metropolitan-opera-snake-handler-animal-auditions-mozart/",
+      "published_at": "2026-09-05T22:32:41+00:00",
+      "summary": "Pretty much everyone on stage at the Metropolitan Opera in New York must audition — even the snake who will briefly take center stage in an upcoming adaptation of a Mozart classic."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit",
-      "url": "https://fortune.com/2026/09/04/meta-perv-glasses-ai-lawsuit/",
-      "published_at": "2026-09-04T19:28:42+00:00",
-      "summary": "The tech giant faces a new privacy lawsuit weeks after agreeing to the largest child-safety settlement of its kind."
+      "title": "These industries will lead hiring in the next decade, with just one sector accounting for more than a third of all new jobs",
+      "url": "https://fortune.com/2026/09/05/top-industries-hiring-next-decade-ai-utilities-healthcare-jobs/",
+      "published_at": "2026-09-05T22:05:38+00:00",
+      "summary": "The healthcare and social assistance industry, which will expand employment by 2.2 million over the next decade."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "DOJ expands beef price probe to eight retailers, including Walmart and Amazon, with inflation a key issue ahead of midterm elections",
-      "url": "https://fortune.com/2026/09/04/doj-amazon-walmart-beef-inflation-midterms/",
-      "published_at": "2026-09-04T18:45:02+00:00",
-      "summary": "The new probe into retailers seems to build on the department’s antitrust investigation into meatpackers."
+      "title": "Mexican drug cartels are increasingly using bomb-laden drones and improvised explosive devices. ‘We are facing steady intensification of violence’",
+      "url": "https://fortune.com/2026/09/05/mexican-drug-cartels-bomb-laden-drones-improvised-explosive-devices-jalisco-new-generation-sinaloa-zacatecas/",
+      "published_at": "2026-09-05T20:28:11+00:00",
+      "summary": "The Jalisco New Generation Cartel, or CJNG, and the Sinaloa Cartel have fought for years over control of Zacatecas."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Argentina’s Milei threatens sanctions on Falklands oil developers while citing Trumps openness to rethink the U.S.’ stance",
-      "url": "https://fortune.com/2026/09/04/trump-milei-argentina-uk-falklands/",
-      "published_at": "2026-09-04T18:30:19+00:00",
-      "summary": "Argentina's president argues oil development would entrench Britain’s presence, raising the economic stakes of the decades-old territorial dispute"
+      "title": "U.S. envoys Steve Witkoff and Jared Kushner meet with Putin in Russia again, ahead of their first-ever visit to Ukraine during peace effort",
+      "url": "https://fortune.com/2026/09/05/us-envoys-steve-witkoff-jared-kushner-russia-putin-ukraine-war-peace-effort/",
+      "published_at": "2026-09-05T20:12:50+00:00",
+      "summary": "Putin and Ukrainian President Volodymyr Zelenskyy both agreed to pause strikes on each other’s capitals while the talks took place."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Top sovereign wealth fund may dump $80 billion in Treasury bonds — and load up on other types of U.S. debt with more risk",
-      "url": "https://fortune.com/2026/09/04/top-sovereign-wealth-fund-treasury-bonds-us-risk-premium-mortgage-backed-securities/",
-      "published_at": "2026-09-04T18:27:44+00:00",
-      "summary": "The overall exposure to dollar-denominated assets would remain largely unchanged at 52.5% versus 52.9% under the current portfolio."
+      "title": "MAGA Inc. to put $10 million in Texas Senate race to hold a once-safe Republican seat after Trump vows to spend ‘whatever amount of money necessary’",
+      "url": "https://fortune.com/2026/09/05/maga-inc-10-million-texas-senate-race-trump-james-talarico-ken-paxton/",
+      "published_at": "2026-09-05T20:01:53+00:00",
+      "summary": "This is the first significant spending in a premier general election contest by MAGA, Inc."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Who runs the labor market? Women accounted for 98% of U.S. job gains in August",
-      "url": "https://fortune.com/2026/09/04/jobs-report-september-women-162000-jobs/",
-      "published_at": "2026-09-04T14:24:03+00:00",
-      "summary": "The economy added 162,000 jobs, nearly triple forecasts, but the gains were unusually concentrated among women."
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "published_at": "2026-09-04T18:39:19+00:00",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "published_at": "2026-09-04T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impac"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "published_at": "2026-09-04T09:25:19+00:00",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,"
+      "title": "After hitting oil tankers, Iran targets Navy warships and U.S. retaliates with ‘higher economic cost’ in new escalation that could transform the war",
+      "url": "https://fortune.com/2026/09/05/iran-war-navy-warships-us-higher-economic-cost-escalation/",
+      "published_at": "2026-09-05T17:25:55+00:00",
+      "summary": "\"Attempting to strike U.S. warships enforcing the blockade therefore crosses a different threshold.\""
     }
   ]
 }

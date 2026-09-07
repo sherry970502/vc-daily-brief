@@ -1,111 +1,103 @@
 {
-  "updated_at": "2026-09-06T05:45:44.704940+00:00",
+  "updated_at": "2026-09-07T05:56:05.530813+00:00",
   "period_hours": 24,
-  "article_count": 13,
+  "article_count": 12,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "published_at": "2026-09-05T22:49:55+00:00",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "published_at": "2026-09-06T21:41:06+00:00",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "published_at": "2026-09-05T19:35:24+00:00",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "published_at": "2026-09-06T20:47:37+00:00",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "published_at": "2026-09-05T18:05:27+00:00",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "published_at": "2026-09-06T16:45:00+00:00",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "published_at": "2026-09-05T17:00:00+00:00",
-      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Oura is going public, but these smart ring companies are coming for its crown",
-      "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "published_at": "2026-09-05T15:00:00+00:00",
-      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it."
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "published_at": "2026-09-06T16:08:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "ASEAN can still hedge between America and China on AI. It needs to get its act together first",
-      "url": "https://fortune.com/2026/09/05/asean-can-still-hedge-between-america-and-china-on-ai-it-needs-to-get-its-act-together-first/",
-      "published_at": "2026-09-06T00:00:00+00:00",
-      "summary": "Can ASEAN members draw from both the Chinese and Western ecosystems in pursuit of their own interests?"
+      "title": "Asian family philanthropy is ‘a lot more hands-on’—and more corporate—than the West",
+      "url": "https://fortune.com/2026/09/06/asian-family-philanthropy-bridgespan-report-hong-kong-jockey-club/",
+      "published_at": "2026-09-07T01:00:00+00:00",
+      "summary": "Over three-quarters of Asian family philanthropies partner with government, a contrast with Western donors who get 'nervous' about the state."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Chuck it in the fire.’ A leading candidate in France’s presidential race has a simple solution to its massive national debt: just cancel it",
-      "url": "https://fortune.com/2026/09/05/france-national-debt-cancelation-presidential-candidate-jean-luc-melenchon-central-bank-french-german-bond-yields/",
-      "published_at": "2026-09-05T19:07:16+00:00",
-      "summary": "“Why did we make a single currency and an ECB together? We can do it and I bet we’d find allies in Europe.”"
+      "title": "U.S. debt is even worse than it seems, and rising Treasury yields are now an ‘all-hands-on-deck situation,’ top economist warns",
+      "url": "https://fortune.com/2026/09/06/us-debt-demand-warning-treasury-long-term-yields-deficit-bond-investors/",
+      "published_at": "2026-09-06T19:41:24+00:00",
+      "summary": "The anomalous recent behavior of the 10-year yield is actually as sign that \"demand for Treasury debt is weaker than first meets the eye.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet the carnival performer-turned-opera actor in charge of auditioning snakes for a Mozart adaptation. ‘We will be moving forward with Princess’",
-      "url": "https://fortune.com/2026/09/05/metropolitan-opera-snake-handler-animal-auditions-mozart/",
-      "published_at": "2026-09-05T22:32:41+00:00",
-      "summary": "Pretty much everyone on stage at the Metropolitan Opera in New York must audition — even the snake who will briefly take center stage in an upcoming adaptation of a Mozart classic."
+      "title": "Volcanic island in Indonesia erupts, canceling 1,558 flights and affecting 170,000 passengers",
+      "url": "https://fortune.com/2026/09/06/volcanic-island-anak-krakatau-indonesia-eruption-flight-cancelations/",
+      "published_at": "2026-09-07T00:03:19+00:00",
+      "summary": "The volcanic island of Anak Krakatau, located in Indonesia’s Sunda Strait between the main Java and Sumatra islands, erupted for 30 seconds at 3:53 a.m. Sunday and for 16 seconds about three hours later."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "These industries will lead hiring in the next decade, with just one sector accounting for more than a third of all new jobs",
-      "url": "https://fortune.com/2026/09/05/top-industries-hiring-next-decade-ai-utilities-healthcare-jobs/",
-      "published_at": "2026-09-05T22:05:38+00:00",
-      "summary": "The healthcare and social assistance industry, which will expand employment by 2.2 million over the next decade."
+      "title": "Congress created this park in 1897 for the ‘pleasure of the people.’ Trump wants to remake its golf course into an upscale venue for major tournaments",
+      "url": "https://fortune.com/2026/09/06/congress-east-potomac-park-trump-golf-course/",
+      "published_at": "2026-09-06T23:37:18+00:00",
+      "summary": "A lawsuit challenging the golf course renovation argues that the Trump administration’s redevelopment would violate the congressional act that created the park."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mexican drug cartels are increasingly using bomb-laden drones and improvised explosive devices. ‘We are facing steady intensification of violence’",
-      "url": "https://fortune.com/2026/09/05/mexican-drug-cartels-bomb-laden-drones-improvised-explosive-devices-jalisco-new-generation-sinaloa-zacatecas/",
-      "published_at": "2026-09-05T20:28:11+00:00",
-      "summary": "The Jalisco New Generation Cartel, or CJNG, and the Sinaloa Cartel have fought for years over control of Zacatecas."
+      "title": "Iran plans to announce an ‘exclusion zone’ that runs from the U.S. naval blockade line, through the Strait of Hormuz, and into the Persian Gulf",
+      "url": "https://fortune.com/2026/09/06/iran-exclusion-zone-us-naval-blockade-line-strait-of-hormuz-persian-gulf/",
+      "published_at": "2026-09-06T23:18:31+00:00",
+      "summary": "The comments came a day after the U.S. struck three Iranian oil tankers in response to Tehran launching ballistic missiles at Navy warships."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. envoys Steve Witkoff and Jared Kushner meet with Putin in Russia again, ahead of their first-ever visit to Ukraine during peace effort",
-      "url": "https://fortune.com/2026/09/05/us-envoys-steve-witkoff-jared-kushner-russia-putin-ukraine-war-peace-effort/",
-      "published_at": "2026-09-05T20:12:50+00:00",
-      "summary": "Putin and Ukrainian President Volodymyr Zelenskyy both agreed to pause strikes on each other’s capitals while the talks took place."
+      "title": "At least 5 dead after Amazon cargo plane barrels off runway at Miami airport, crashes into vehicles and bursts into flames",
+      "url": "https://fortune.com/2026/09/06/amazon-cargo-plane-runway-crash-miami-international-airport-flights/",
+      "published_at": "2026-09-06T20:00:01+00:00",
+      "summary": "The Federal Aviation Administration said the aircraft overran the runway at around 2 p.m. after heading into Florida from San Juan, Puerto Rico."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "MAGA Inc. to put $10 million in Texas Senate race to hold a once-safe Republican seat after Trump vows to spend ‘whatever amount of money necessary’",
-      "url": "https://fortune.com/2026/09/05/maga-inc-10-million-texas-senate-race-trump-james-talarico-ken-paxton/",
-      "published_at": "2026-09-05T20:01:53+00:00",
-      "summary": "This is the first significant spending in a premier general election contest by MAGA, Inc."
+      "title": "China’s export shock is pushing the global economy to a breaking point, and the U.S. may have to clean up the mess, former trade official says",
+      "url": "https://fortune.com/2026/09/06/china-export-shock-global-economic-crisis-overcapacity-growth-model/",
+      "published_at": "2026-09-06T23:04:53+00:00",
+      "summary": "\"The result is an industrial machine that cannot stop and cannot slow down—but that, owing to the limits of demand, cannot keep going.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After hitting oil tankers, Iran targets Navy warships and U.S. retaliates with ‘higher economic cost’ in new escalation that could transform the war",
-      "url": "https://fortune.com/2026/09/05/iran-war-navy-warships-us-higher-economic-cost-escalation/",
-      "published_at": "2026-09-05T17:25:55+00:00",
-      "summary": "\"Attempting to strike U.S. warships enforcing the blockade therefore crosses a different threshold.\""
+      "title": "Alternative for Germany party set for regional election triumph and could form the country’s first far-right state government since World War II",
+      "url": "https://fortune.com/2026/09/06/afd-alternative-for-germany-party-saxony-anhalt-regional-election-far-right-state-government-world-war-ii/",
+      "published_at": "2026-09-06T20:24:07+00:00",
+      "summary": "AfD's regional branch in Saxony-Anhalt is one of several classified as a proven right-wing extremist group by the domestic intelligence agency."
     }
   ]
 }

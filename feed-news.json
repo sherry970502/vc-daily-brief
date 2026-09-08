@@ -1,103 +1,111 @@
 {
-  "updated_at": "2026-09-07T05:56:05.530813+00:00",
+  "updated_at": "2026-09-08T05:49:07.453017+00:00",
   "period_hours": 24,
-  "article_count": 12,
+  "article_count": 13,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "published_at": "2026-09-06T21:41:06+00:00",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store."
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "published_at": "2026-09-08T02:16:39+00:00",
+      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "published_at": "2026-09-06T20:47:37+00:00",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published_at": "2026-09-07T19:24:00+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "published_at": "2026-09-06T16:45:00+00:00",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "published_at": "2026-09-07T18:02:29+00:00",
+      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "published_at": "2026-09-06T16:08:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      "title": "What we expect from the upcoming Apple launch",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "published_at": "2026-09-07T15:58:00+00:00",
+      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Asian family philanthropy is ‘a lot more hands-on’—and more corporate—than the West",
-      "url": "https://fortune.com/2026/09/06/asian-family-philanthropy-bridgespan-report-hong-kong-jockey-club/",
-      "published_at": "2026-09-07T01:00:00+00:00",
-      "summary": "Over three-quarters of Asian family philanthropies partner with government, a contrast with Western donors who get 'nervous' about the state."
+      "title": "Canada’s pivot to Asia is finally real. The challenge is that neither side knows much about the other",
+      "url": "https://fortune.com/2026/09/07/canada-trade-pivot-asia-tariffs/",
+      "published_at": "2026-09-07T23:00:00+00:00",
+      "summary": "For four decades, Canadian commercial life has been organized around the belief that access to the U.S. market was a constant, rather than a variable."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. debt is even worse than it seems, and rising Treasury yields are now an ‘all-hands-on-deck situation,’ top economist warns",
-      "url": "https://fortune.com/2026/09/06/us-debt-demand-warning-treasury-long-term-yields-deficit-bond-investors/",
-      "published_at": "2026-09-06T19:41:24+00:00",
-      "summary": "The anomalous recent behavior of the 10-year yield is actually as sign that \"demand for Treasury debt is weaker than first meets the eye.\""
+      "title": "A $500,000 career, gone at 25: esports’ injury crisis is forcing teams to build sports-medicine staffs",
+      "url": "https://fortune.com/2026/09/07/esports-teams-physical-therapists-player-injuries/",
+      "published_at": "2026-09-07T19:34:05+00:00",
+      "summary": "A study found 37% of competitive gamers report anxiety and depression, and repetitive-motion injuries have sidelined stars. Maybe piano training will help."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Volcanic island in Indonesia erupts, canceling 1,558 flights and affecting 170,000 passengers",
-      "url": "https://fortune.com/2026/09/06/volcanic-island-anak-krakatau-indonesia-eruption-flight-cancelations/",
-      "published_at": "2026-09-07T00:03:19+00:00",
-      "summary": "The volcanic island of Anak Krakatau, located in Indonesia’s Sunda Strait between the main Java and Sumatra islands, erupted for 30 seconds at 3:53 a.m. Sunday and for 16 seconds about three hours later."
+      "title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.",
+      "url": "https://fortune.com/2026/09/07/openai-ai-agents-german-wiki-ran-their-own-message-board/",
+      "published_at": "2026-09-07T18:55:42+00:00",
+      "summary": "OpenAI acknowledged its AI agents used a German wiki to coordinate, renewing questions about whether the company is transparent about potentially dangerous AI activity."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Congress created this park in 1897 for the ‘pleasure of the people.’ Trump wants to remake its golf course into an upscale venue for major tournaments",
-      "url": "https://fortune.com/2026/09/06/congress-east-potomac-park-trump-golf-course/",
-      "published_at": "2026-09-06T23:37:18+00:00",
-      "summary": "A lawsuit challenging the golf course renovation argues that the Trump administration’s redevelopment would violate the congressional act that created the park."
+      "title": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump’s Canada tariffs punch swing states just before the midterms",
+      "url": "https://fortune.com/2026/09/07/canada-retaliatory-tariffs-swing-states-midterms/",
+      "published_at": "2026-09-07T18:30:39+00:00",
+      "summary": "Section 338 of Smoot-Hawley has sat unused for 96 years; Canada's Mark Carney says the move is designed to \"destroy\" its auto industry."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran plans to announce an ‘exclusion zone’ that runs from the U.S. naval blockade line, through the Strait of Hormuz, and into the Persian Gulf",
-      "url": "https://fortune.com/2026/09/06/iran-exclusion-zone-us-naval-blockade-line-strait-of-hormuz-persian-gulf/",
-      "published_at": "2026-09-06T23:18:31+00:00",
-      "summary": "The comments came a day after the U.S. struck three Iranian oil tankers in response to Tehran launching ballistic missiles at Navy warships."
+      "title": "Trump braces for midterms, crucial union vote as Labor Day shows 75,000 lost manufacturing jobs",
+      "url": "https://fortune.com/2026/09/07/union-voters-michigan-pennsylvania-midterms/",
+      "published_at": "2026-09-07T18:24:03+00:00",
+      "summary": "Even as tariffs favor domestic producers, automation is limiting hiring gains—testing whether the president's blue-collar coalition holds through November."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "At least 5 dead after Amazon cargo plane barrels off runway at Miami airport, crashes into vehicles and bursts into flames",
-      "url": "https://fortune.com/2026/09/06/amazon-cargo-plane-runway-crash-miami-international-airport-flights/",
-      "published_at": "2026-09-06T20:00:01+00:00",
-      "summary": "The Federal Aviation Administration said the aircraft overran the runway at around 2 p.m. after heading into Florida from San Juan, Puerto Rico."
+      "title": "Nasty Rhode Island governor rematch raises accusations of opioid peddling, nepotism and who’s the real outsider",
+      "url": "https://fortune.com/2026/09/07/rhode-island-governor-rematch-mckee-foulkes/",
+      "published_at": "2026-09-07T18:14:12+00:00",
+      "summary": "Helena Foulkes outraised Gov. Dan McKee and turned his handling of a $571 million bridge into her top attack line. Four years ago, he beat her."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "China’s export shock is pushing the global economy to a breaking point, and the U.S. may have to clean up the mess, former trade official says",
-      "url": "https://fortune.com/2026/09/06/china-export-shock-global-economic-crisis-overcapacity-growth-model/",
-      "published_at": "2026-09-06T23:04:53+00:00",
-      "summary": "\"The result is an industrial machine that cannot stop and cannot slow down—but that, owing to the limits of demand, cannot keep going.\""
+      "title": "Spider-Man hits $2.4 billion worldwide to crown Hollywood’s best summer since the pandemic",
+      "url": "https://fortune.com/2026/09/07/spider-man-2-4-billion-six-straight-weeks-best-summer-since-pandemic-hollywood/",
+      "published_at": "2026-09-07T18:06:25+00:00",
+      "summary": "“Spider-Man: Brand New Day” also became just the second film this decade to top the box office for six straight weeks."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Alternative for Germany party set for regional election triumph and could form the country’s first far-right state government since World War II",
-      "url": "https://fortune.com/2026/09/06/afd-alternative-for-germany-party-saxony-anhalt-regional-election-far-right-state-government-world-war-ii/",
-      "published_at": "2026-09-06T20:24:07+00:00",
-      "summary": "AfD's regional branch in Saxony-Anhalt is one of several classified as a proven right-wing extremist group by the domestic intelligence agency."
+      "title": "Dolly Parton’s secret weapon against Nashville: turning men into the punchline",
+      "url": "https://fortune.com/2026/09/07/dolly-parton-humor-gender-country-music/",
+      "published_at": "2026-09-07T18:01:22+00:00",
+      "summary": "In songs like \"Dumb Blonde\" and a chaotic 1973 live duet with Porter Wagoner, Parton used self-deprecating wit to flip gendered expectations."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "published_at": "2026-09-07T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va"
     }
   ]
 }

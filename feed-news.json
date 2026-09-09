@@ -1,111 +1,191 @@
 {
-  "updated_at": "2026-09-08T05:49:07.453017+00:00",
+  "updated_at": "2026-09-09T05:53:12.613139+00:00",
   "period_hours": 24,
-  "article_count": 13,
+  "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-      "published_at": "2026-09-08T02:16:39+00:00",
-      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla"
+      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "published_at": "2026-09-09T04:01:00+00:00",
+      "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published_at": "2026-09-07T19:24:00+00:00",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "published_at": "2026-09-08T23:23:23+00:00",
+      "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-      "published_at": "2026-09-07T18:02:29+00:00",
-      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder."
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "published_at": "2026-09-08T21:10:27+00:00",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "What we expect from the upcoming Apple launch",
-      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-      "published_at": "2026-09-07T15:58:00+00:00",
-      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods."
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "published_at": "2026-09-08T21:04:06+00:00",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+      "published_at": "2026-09-08T20:47:34+00:00",
+      "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”"
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "published_at": "2026-09-08T19:00:00+00:00",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "How to watch Apple’s foldable iPhone announcement",
+      "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "published_at": "2026-09-08T17:46:53+00:00",
+      "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "published_at": "2026-09-08T17:32:15+00:00",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
+      "url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+      "published_at": "2026-09-08T18:02:38+00:00",
+      "summary": "Paris-based generative AI startup Mistral AI said Tuesday that it has nearly doubled its valuation to more than $24 billion with a Samsung Electronics-led $3.5 billion Series D fundraise."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Canada’s pivot to Asia is finally real. The challenge is that neither side knows much about the other",
-      "url": "https://fortune.com/2026/09/07/canada-trade-pivot-asia-tariffs/",
-      "published_at": "2026-09-07T23:00:00+00:00",
-      "summary": "For four decades, Canadian commercial life has been organized around the belief that access to the U.S. market was a constant, rather than a variable."
+      "title": "Macau wants to be a ‘business city,’ not just a gaming hub—and it’s spending $16 billion to help it get there",
+      "url": "https://fortune.com/2026/09/08/macau-business-city-casinos-diversification-ipim/",
+      "published_at": "2026-09-09T02:49:30+00:00",
+      "summary": "IPIM board president Alex Che Weng Keong says the casino hub can use its regulatory autonomy and Portuguese heritage to become a \"tech city.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A $500,000 career, gone at 25: esports’ injury crisis is forcing teams to build sports-medicine staffs",
-      "url": "https://fortune.com/2026/09/07/esports-teams-physical-therapists-player-injuries/",
-      "published_at": "2026-09-07T19:34:05+00:00",
-      "summary": "A study found 37% of competitive gamers report anxiety and depression, and repetitive-motion injuries have sidelined stars. Maybe piano training will help."
+      "title": "‘Failure is a data point’: Executives say flexibility, not certainty, is what’s needed in a turbulent world",
+      "url": "https://fortune.com/2026/09/08/leaders-stop-predicting-build-adaptability/",
+      "published_at": "2026-09-09T02:36:45+00:00",
+      "summary": "Leaders should focus less on forecasting and more on building organizations that can change course quickly."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.",
-      "url": "https://fortune.com/2026/09/07/openai-ai-agents-german-wiki-ran-their-own-message-board/",
-      "published_at": "2026-09-07T18:55:42+00:00",
-      "summary": "OpenAI acknowledged its AI agents used a German wiki to coordinate, renewing questions about whether the company is transparent about potentially dangerous AI activity."
+      "title": "OpenAI says it cracked one of math’s grand challenges. But there are troubling questions about how they did it—and what it means for us all",
+      "url": "https://fortune.com/2026/09/08/openai-says-it-cracked-navier-stokes-math-grand-challenge-buckmaster-accusation-cheating-intimidation-tao-lament/",
+      "published_at": "2026-09-08T19:52:21+00:00",
+      "summary": "OpenAI denies it stole a mathematician's data. But his fear echoes concerns many CEOs have about AI companies."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump’s Canada tariffs punch swing states just before the midterms",
-      "url": "https://fortune.com/2026/09/07/canada-retaliatory-tariffs-swing-states-midterms/",
-      "published_at": "2026-09-07T18:30:39+00:00",
-      "summary": "Section 338 of Smoot-Hawley has sat unused for 96 years; Canada's Mark Carney says the move is designed to \"destroy\" its auto industry."
+      "title": "The pumpkin spice era is changing—if not over, as McDonald’s replaces the flavor for the first time in a decade",
+      "url": "https://fortune.com/2026/09/08/pumpkin-spice-mcdonalds-millennials-gen-z-climate-change/",
+      "published_at": "2026-09-08T20:57:39+00:00",
+      "summary": "Pumpkin spice is losing its monopoly on fall as McDonald’s pivots to caramel apple. This is not another Gen Z versus millennial war."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump braces for midterms, crucial union vote as Labor Day shows 75,000 lost manufacturing jobs",
-      "url": "https://fortune.com/2026/09/07/union-voters-michigan-pennsylvania-midterms/",
-      "published_at": "2026-09-07T18:24:03+00:00",
-      "summary": "Even as tariffs favor domestic producers, automation is limiting hiring gains—testing whether the president's blue-collar coalition holds through November."
+      "title": "Peru’s monetary system would not work in Venezuela",
+      "url": "https://fortune.com/2026/09/08/perus-monetary-system-would-not-work-in-venezuela/",
+      "published_at": "2026-09-08T21:27:33+00:00",
+      "summary": "As Venezuela's National Assembly debates how to kill the world's highest inflation rate, two economists argue that copying Peru would be a mistake."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nasty Rhode Island governor rematch raises accusations of opioid peddling, nepotism and who’s the real outsider",
-      "url": "https://fortune.com/2026/09/07/rhode-island-governor-rematch-mckee-foulkes/",
-      "published_at": "2026-09-07T18:14:12+00:00",
-      "summary": "Helena Foulkes outraised Gov. Dan McKee and turned his handling of a $571 million bridge into her top attack line. Four years ago, he beat her."
+      "title": "Hunter Biden launches $LAPTOP memecoin, trolls Trump by promising that 20% will be reserved for traders who lost money on president’s token",
+      "url": "https://fortune.com/2026/09/08/hunter-biden-launches-laptop-memecoin-trolls-trump-by-promising-that-20-will-be-reserved-for-traders-who-lost-money-on-presidents-token/",
+      "published_at": "2026-09-08T17:13:36+00:00",
+      "summary": "The announcement drew swift criticism on Crypto Twitter, where users expressed fatigue with memecoin-linked “rug pulls.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Spider-Man hits $2.4 billion worldwide to crown Hollywood’s best summer since the pandemic",
-      "url": "https://fortune.com/2026/09/07/spider-man-2-4-billion-six-straight-weeks-best-summer-since-pandemic-hollywood/",
-      "published_at": "2026-09-07T18:06:25+00:00",
-      "summary": "“Spider-Man: Brand New Day” also became just the second film this decade to top the box office for six straight weeks."
+      "title": "Pony.ai’s CEO thinks robotaxis will be widespread within five years: ‘The technology problem is pretty much already solved’",
+      "url": "https://fortune.com/2026/09/08/pony-ai-ceo-robotaxis-five-years/",
+      "published_at": "2026-09-08T16:16:33+00:00",
+      "summary": "While Waymo dominates the robotaxi conversation in the U.S., Chinese robotaxi firms like Pony.ai are gaining ground almost everywhere else."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dolly Parton’s secret weapon against Nashville: turning men into the punchline",
-      "url": "https://fortune.com/2026/09/07/dolly-parton-humor-gender-country-music/",
-      "published_at": "2026-09-07T18:01:22+00:00",
-      "summary": "In songs like \"Dumb Blonde\" and a chaotic 1973 live duet with Porter Wagoner, Parton used self-deprecating wit to flip gendered expectations."
+      "title": "How Canada decided to hurt its own economy, raise its inflation—and most Canadians approved because they’re so angry at Trump",
+      "url": "https://fortune.com/2026/09/08/canada-retaliatory-tariffs-hurt-economy-inflation-trump-unpopularity/",
+      "published_at": "2026-09-08T20:36:19+00:00",
+      "summary": "Oxford economists predict Canadian Prime Minister Mark Carney’s retaliatory tariffs will slow economic growth and raise consumer prices."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "published_at": "2026-09-07T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va"
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "published_at": "2026-09-09T03:10:08+00:00",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "published_at": "2026-09-08T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "published_at": "2026-09-08T10:36:00+00:00",
+      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually t"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "published_at": "2026-09-08T10:34:00+00:00",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "published_at": "2026-09-08T10:33:00+00:00",
+      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts wit"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "published_at": "2026-09-08T10:32:00+00:00",
+      "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because"
     }
   ]
 }

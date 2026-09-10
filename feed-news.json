@@ -1,191 +1,167 @@
 {
-  "updated_at": "2026-09-09T05:53:12.613139+00:00",
+  "updated_at": "2026-09-10T05:48:11.214321+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 20,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "published_at": "2026-09-09T04:01:00+00:00",
-      "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million."
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "published_at": "2026-09-10T00:00:37+00:00",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-      "published_at": "2026-09-08T23:23:23+00:00",
-      "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\""
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "published_at": "2026-09-09T23:14:29+00:00",
+      "summary": "Mullenweg said in a company Slack message that it was against his will."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "published_at": "2026-09-08T21:10:27+00:00",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "published_at": "2026-09-09T22:25:22+00:00",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "published_at": "2026-09-08T21:04:06+00:00",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "published_at": "2026-09-09T21:43:34+00:00",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-      "published_at": "2026-09-08T20:47:34+00:00",
-      "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”"
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "published_at": "2026-09-09T20:58:09+00:00",
+      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "published_at": "2026-09-08T19:00:00+00:00",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "published_at": "2026-09-09T20:24:48+00:00",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How to watch Apple’s foldable iPhone announcement",
-      "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-      "published_at": "2026-09-08T17:46:53+00:00",
-      "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news."
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "published_at": "2026-09-09T20:03:43+00:00",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "published_at": "2026-09-08T17:32:15+00:00",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
+      "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+      "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+      "published_at": "2026-09-09T19:56:18+00:00",
+      "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
-      "url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
-      "published_at": "2026-09-08T18:02:38+00:00",
-      "summary": "Paris-based generative AI startup Mistral AI said Tuesday that it has nearly doubled its valuation to more than $24 billion with a Samsung Electronics-led $3.5 billion Series D fundraise."
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-09-09T15:56:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Sales Test This Norwest Partner Gives Founders Before He’ll Invest",
+      "url": "https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest/",
+      "published_at": "2026-09-09T11:00:58+00:00",
+      "summary": "In an interview with Crunchbase News, Sean Jacobsohn, a partner at venture firm Norwest, discusses where he still sees openings in the crowded market for finance software, how far companies should trust AI with accounting work, why HR startups may be better off attacking the secondary products of la"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Macau wants to be a ‘business city,’ not just a gaming hub—and it’s spending $16 billion to help it get there",
-      "url": "https://fortune.com/2026/09/08/macau-business-city-casinos-diversification-ipim/",
-      "published_at": "2026-09-09T02:49:30+00:00",
-      "summary": "IPIM board president Alex Che Weng Keong says the casino hub can use its regulatory autonomy and Portuguese heritage to become a \"tech city.\""
+      "title": "‘My boss is the Chinese customer’: Walmart China CEO Christina Zhu on how the Fortune 500 company is thriving in a tough retail market",
+      "url": "https://fortune.com/2026/09/10/walmart-china-ceo-christina-zhu-fortune500/",
+      "published_at": "2026-09-10T04:15:17+00:00",
+      "summary": "Although many Western brands, including Starbucks and Lululemon, have struggled in China, Walmart has continued to deepen its footprint."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Failure is a data point’: Executives say flexibility, not certainty, is what’s needed in a turbulent world",
-      "url": "https://fortune.com/2026/09/08/leaders-stop-predicting-build-adaptability/",
-      "published_at": "2026-09-09T02:36:45+00:00",
-      "summary": "Leaders should focus less on forecasting and more on building organizations that can change course quickly."
+      "title": "Developers are rethinking data center design as the AI backlash makes its way to Asia",
+      "url": "https://fortune.com/2026/09/09/asia-ai-data-center-backlash/",
+      "published_at": "2026-09-09T10:45:38+00:00",
+      "summary": "\"There are physical limits to how quickly you can build data centers at scale,\" Kevin Guan, chief investment officer of Bridge Data Centres, said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI says it cracked one of math’s grand challenges. But there are troubling questions about how they did it—and what it means for us all",
-      "url": "https://fortune.com/2026/09/08/openai-says-it-cracked-navier-stokes-math-grand-challenge-buckmaster-accusation-cheating-intimidation-tao-lament/",
-      "published_at": "2026-09-08T19:52:21+00:00",
-      "summary": "OpenAI denies it stole a mathematician's data. But his fear echoes concerns many CEOs have about AI companies."
+      "title": "Apple unveils $2,000 iPhone Duo, its first foldable smartphone",
+      "url": "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/",
+      "published_at": "2026-09-09T07:05:00+00:00",
+      "summary": "Apple's new CEO John Ternus unveiled the biggest iPhone update in years"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The pumpkin spice era is changing—if not over, as McDonald’s replaces the flavor for the first time in a decade",
-      "url": "https://fortune.com/2026/09/08/pumpkin-spice-mcdonalds-millennials-gen-z-climate-change/",
-      "published_at": "2026-09-08T20:57:39+00:00",
-      "summary": "Pumpkin spice is losing its monopoly on fall as McDonald’s pivots to caramel apple. This is not another Gen Z versus millennial war."
+      "title": "OpenAI’s rogue AI agents reached at least 12 more websites, researchers say",
+      "url": "https://fortune.com/2026/09/09/openai-rogue-ai-agents-reached-12-more-websites/",
+      "published_at": "2026-09-09T21:31:59+00:00",
+      "summary": "Researchers say OpenAI agents quietly spread across more than a dozen obscure websites, raising questions about how the company is monitoring its systems."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Peru’s monetary system would not work in Venezuela",
-      "url": "https://fortune.com/2026/09/08/perus-monetary-system-would-not-work-in-venezuela/",
-      "published_at": "2026-09-08T21:27:33+00:00",
-      "summary": "As Venezuela's National Assembly debates how to kill the world's highest inflation rate, two economists argue that copying Peru would be a mistake."
+      "title": "21 photos of Apple’s first-ever foldable iPhone",
+      "url": "https://fortune.com/2026/09/09/20-photos-apple-iphone-duo-2000-dollar-foldable-smartphone/",
+      "published_at": "2026-09-09T19:43:15+00:00",
+      "summary": "Apple has unveiled the $2,000 iPhone Duo, it first ever foldable phone. It's a gorgeous looking device that opens like a book to reveal a 7.6 inch internal display, and boast a 5.4-inch exterior screen on the front cover."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hunter Biden launches $LAPTOP memecoin, trolls Trump by promising that 20% will be reserved for traders who lost money on president’s token",
-      "url": "https://fortune.com/2026/09/08/hunter-biden-launches-laptop-memecoin-trolls-trump-by-promising-that-20-will-be-reserved-for-traders-who-lost-money-on-presidents-token/",
-      "published_at": "2026-09-08T17:13:36+00:00",
-      "summary": "The announcement drew swift criticism on Crypto Twitter, where users expressed fatigue with memecoin-linked “rug pulls.”"
+      "title": "Hollywood’s ‘new business model’ comes into view as Gen Z shows a moviegoing taste that combines ‘fast food and fine dining’",
+      "url": "https://fortune.com/2026/09/09/hollywood-new-business-model-gen-z-movie-tickets/",
+      "published_at": "2026-09-09T20:56:49+00:00",
+      "summary": "Theaters sold nearly 249 million fewer tickets than in 2019 but still set a $4.7 billion summer record. It’s not 2019 anymore."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Pony.ai’s CEO thinks robotaxis will be widespread within five years: ‘The technology problem is pretty much already solved’",
-      "url": "https://fortune.com/2026/09/08/pony-ai-ceo-robotaxis-five-years/",
-      "published_at": "2026-09-08T16:16:33+00:00",
-      "summary": "While Waymo dominates the robotaxi conversation in the U.S., Chinese robotaxi firms like Pony.ai are gaining ground almost everywhere else."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "How Canada decided to hurt its own economy, raise its inflation—and most Canadians approved because they’re so angry at Trump",
-      "url": "https://fortune.com/2026/09/08/canada-retaliatory-tariffs-hurt-economy-inflation-trump-unpopularity/",
-      "published_at": "2026-09-08T20:36:19+00:00",
-      "summary": "Oxford economists predict Canadian Prime Minister Mark Carney’s retaliatory tariffs will slow economic growth and raise consumer prices."
+      "title": "Prediction markets spend big on celebrity campaigns even as Sydney Sweeney and LeBron James ads stir backlash",
+      "url": "https://fortune.com/2026/09/09/prediction-markets-celebrity-campaigns-sydney-sweeney-lebron-james-ads-backlash/",
+      "published_at": "2026-09-09T20:37:39+00:00",
+      "summary": "The ads have sparked criticism over celebrities lending their images to platforms that critics liken to gambling."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "published_at": "2026-09-09T03:10:08+00:00",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in"
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "published_at": "2026-09-09T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathe"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: our 35 Innovators Under 35 this year",
-      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-      "published_at": "2026-09-08T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35"
+      "title": "Batteries just broke another record in the US",
+      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "published_at": "2026-09-08T10:36:00+00:00",
-      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually t"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "published_at": "2026-09-08T10:34:00+00:00",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "This founder is making cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-      "published_at": "2026-09-08T10:33:00+00:00",
-      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts wit"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "This geneticist’s age-reversal tech could help restore sight",
-      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
-      "published_at": "2026-09-08T10:32:00+00:00",
-      "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because"
+      "title": "Understanding the thermal ceiling in portable power",
+      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "published_at": "2026-09-09T08:18:13+00:00",
+      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat ac"
     }
   ]
 }

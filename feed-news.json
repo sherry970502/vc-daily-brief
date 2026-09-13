@@ -1,167 +1,87 @@
 {
-  "updated_at": "2026-09-12T05:35:54.545702+00:00",
+  "updated_at": "2026-09-13T05:55:40.346349+00:00",
   "period_hours": 24,
-  "article_count": 20,
+  "article_count": 10,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "published_at": "2026-09-11T22:58:17+00:00",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "published_at": "2026-09-12T23:25:38+00:00",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "published_at": "2026-09-11T21:19:05+00:00",
-      "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two."
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "published_at": "2026-09-12T20:19:16+00:00",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "published_at": "2026-09-11T20:59:47+00:00",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "published_at": "2026-09-12T19:34:44+00:00",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "published_at": "2026-09-11T20:57:36+00:00",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "published_at": "2026-09-12T19:21:19+00:00",
+      "summary": "Tesla’s halo sports car was first announced in November 2017."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-11T20:33:18+00:00",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "published_at": "2026-09-11T20:30:17+00:00",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "published_at": "2026-09-11T19:35:54+00:00",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "published_at": "2026-09-11T19:00:00+00:00",
-      "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/",
-      "published_at": "2026-09-11T18:00:31+00:00",
-      "summary": "It was a monster week for U.S. startup funding, with four companies each raising $1 billion or more. The Boring Co. led with a $3 billion Series D, followed by AI coding startup Cognition at $2 billion. Joining them near the top was fleet management software provider Motive, which landed $1.3 billio"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Only 2 Moats That Actually Work In The AI Era",
-      "url": "https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/",
-      "published_at": "2026-09-11T11:00:30+00:00",
-      "summary": "AI itself is no longer a durable differentiator, argues guest author SC Moatti of Mighty Capital, who says he strongest startup moats are counter-positioning and network economies."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "How This Doctor-Turned-Startup-Founder Decided To Fix The Healthcare Staffing Crunch: Make Employers Apply",
-      "url": "https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/",
-      "published_at": "2026-09-11T11:00:10+00:00",
-      "summary": "Iman Abuzeid left clinical medicine to tackle healthcare problems at scale, co-founding Incredible Health, a hiring platform that reverses traditional recruiting by having employers apply to healthcare professionals by combining her expertise with co-founder Rome Portlock’s technical skills the comp"
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "published_at": "2026-09-12T14:40:00+00:00",
+      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Binge watching and binge shopping come together: Amazon lets Prime viewers buy what characters wear and use, or the next closest thing",
-      "url": "https://fortune.com/2026/09/11/binge-watching-shopping-amazon-shop-the-scene-feature-jeff-bezos-streaming-tech/",
-      "published_at": "2026-09-11T21:15:57+00:00",
-      "summary": "Amazon’s new Prime Video feature uses AI to help viewers shop for products that look like what they see on screen."
+      "title": "Former CIA official found with $40 million in gold bars for ‘work-related expenses’ reaches tentative plea deal",
+      "url": "https://fortune.com/2026/09/12/former-cia-official-40-million-gold-bars-work-related-expenses-plea-deal/",
+      "published_at": "2026-09-12T23:37:15+00:00",
+      "summary": "Investigators searched Rush's home and seized about 300 gold bars worth more than $40 million, plus about $2 million in U.S. currency and about 35 luxury watches."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Elizabeth Holmes’ handwritten note says a lot about how she believed she had to present herself as a CEO",
-      "url": "https://fortune.com/article/elizabeth-holmes-handwritten-note-present-herself-as-ceo/",
-      "published_at": "2026-09-11T15:23:58+00:00",
-      "summary": "Her notes include \"I am all about business,\" \"I do not react,\" and \"I am not impulsive.\""
+      "title": "U.S. diesel prices are now 60% higher than they were before the Iran war, with one Trump voter paying twice as much to fuel his farm equipment",
+      "url": "https://fortune.com/2026/09/12/diesel-prices-trump-iran-war-farmers-costs-fertilizer-chemicals/",
+      "published_at": "2026-09-12T23:27:51+00:00",
+      "summary": "Kurtz, 49, said his finances were “already tight” this year after he also had to pay more for fertilizer and chemicals."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight against an Iranian ally threatening crude’s other chokepoint",
-      "url": "https://fortune.com/2026/09/11/oil-prices-hormuz-diplomacy-saudi-arabia-houthis-pakistan-us-bab-al-mandab/",
-      "published_at": "2026-09-11T19:07:07+00:00",
-      "summary": "Foreign ministers from the Gulf Cooperation Council—which is comprised of Saudi Arabia, the UAE, Qatar, Kuwait, Bahrain, and Oman—will meet their Iranian counterpart on Monday."
+      "title": "Mortgage lending standards are so tight that homebuyers must have ‘pristine’ credit histories, study says, as sales head for 31-year low",
+      "url": "https://fortune.com/2026/09/12/housing-market-mortgage-lending-standards-credit-scores-histories-home-sales-borrowing-costs/",
+      "published_at": "2026-09-12T23:04:27+00:00",
+      "summary": "\"These changes helped to reduce delinquencies and defaults but also made it more difficult for many Americans to qualify for a mortgage.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Howard Lutnick, Larry Silverstein, Jim Pierce and Mitt Romney all had last-minute changes of plan that kept them out of the WTC on 9/11",
-      "url": "https://fortune.com/2026/09/11/howard-lutnick-larry-silverstein-jim-pierce-mitt-romney-9-11-twin-towers-terrorist-attacks/",
-      "published_at": "2026-09-11T18:09:33+00:00",
-      "summary": "A school run, a doctor's visit, a budget fight in Congress. Small shifts in plans kept dozens of people out of the World Trade Center that morning."
+      "title": "Trump’s childhood home sells for $1.9 million after prior owner bought it for $835,000 last year, when it was a mold-ridden den of feral cats",
+      "url": "https://fortune.com/2026/09/12/trump-childhood-home-sale-price-2-million-queens-jamaica-estates/",
+      "published_at": "2026-09-12T20:45:34+00:00",
+      "summary": "Tommy Lin, had purchased the five-bedroom, three-bathroom home last year for $835,000 after it sat vacant and neglected for years."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft head of communications Frank Shaw leaving after nearly 30 years of shaping the software giant’s public messaging",
-      "url": "https://fortune.com/2026/09/11/microsoft-head-of-communications-frank-shaw-leaving-after-nearly-30-years-of-shaping-the-software-giants-public-messaging/",
-      "published_at": "2026-09-11T17:49:57+00:00",
-      "summary": "Shaw worked with all three of Microsoft's CEOs—Bill Gates, Steve Ballmer, and Satya Nadella— and has played a major role in shaping much of how Microsoft communicates to the outside world."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "OpenAI has paused its $200 ChatGPT sign-ups as ‘unprecedented’ demand for new model Astra strains its system",
-      "url": "https://fortune.com/2026/09/11/openai-astra-chatgpt-pro-pause/",
-      "published_at": "2026-09-11T16:57:06+00:00",
-      "summary": "Even after expanding available compute 9.5-fold since 2023, OpenAI is pausing new Pro 20X accounts while it adds more capacity"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "published_at": "2026-09-11T20:05:06+00:00",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-      "published_at": "2026-09-11T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "published_at": "2026-09-11T09:00:00+00:00",
-      "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includ"
+      "title": "The trade deficit with Canada that’s upset Trump so much is due to crude the U.S. buys at a discount for the Midwest. ‘It’s the only oil they can use’",
+      "url": "https://fortune.com/2026/09/12/trade-deficit-canada-tariffs-trump-alberta-oil-imports-discount-midwest-refineries/",
+      "published_at": "2026-09-12T20:36:36+00:00",
+      "summary": "“They can’t use Texas crude. They can’t use Venezuelan crude. They’re not set up for it. It would take years and billions of dollars to shift over.’’"
     }
   ]
 }

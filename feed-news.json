@@ -1,87 +1,127 @@
 {
-  "updated_at": "2026-09-13T05:55:40.346349+00:00",
+  "updated_at": "2026-09-14T06:02:19.873264+00:00",
   "period_hours": 24,
-  "article_count": 10,
+  "article_count": 15,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "published_at": "2026-09-12T23:25:38+00:00",
-      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\""
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "published_at": "2026-09-13T21:30:00+00:00",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "published_at": "2026-09-12T20:19:16+00:00",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "published_at": "2026-09-13T20:49:38+00:00",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "published_at": "2026-09-12T19:34:44+00:00",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "published_at": "2026-09-13T20:28:00+00:00",
+      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "published_at": "2026-09-12T19:21:19+00:00",
-      "summary": "Tesla’s halo sports car was first announced in November 2017."
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "published_at": "2026-09-13T19:40:15+00:00",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "published_at": "2026-09-12T14:40:00+00:00",
-      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators."
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "published_at": "2026-09-13T16:30:00+00:00",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "published_at": "2026-09-13T16:04:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Fusion power startups find new partners in the defense world",
+      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "published_at": "2026-09-13T13:15:00+00:00",
+      "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Former CIA official found with $40 million in gold bars for ‘work-related expenses’ reaches tentative plea deal",
-      "url": "https://fortune.com/2026/09/12/former-cia-official-40-million-gold-bars-work-related-expenses-plea-deal/",
-      "published_at": "2026-09-12T23:37:15+00:00",
-      "summary": "Investigators searched Rush's home and seized about 300 gold bars worth more than $40 million, plus about $2 million in U.S. currency and about 35 luxury watches."
+      "title": "Faced with less compute and fewer tokens, Chinese AI labs are tightening the gap with the U.S. by just being more efficient",
+      "url": "https://fortune.com/2026/09/13/china-us-ai-models-efficient/",
+      "published_at": "2026-09-13T10:00:00+00:00",
+      "summary": "Federal agencies accused six Chinese AI companies of training on American models to do this, but analysts say it’s not the only explanation"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. diesel prices are now 60% higher than they were before the Iran war, with one Trump voter paying twice as much to fuel his farm equipment",
-      "url": "https://fortune.com/2026/09/12/diesel-prices-trump-iran-war-farmers-costs-fertilizer-chemicals/",
-      "published_at": "2026-09-12T23:27:51+00:00",
-      "summary": "Kurtz, 49, said his finances were “already tight” this year after he also had to pay more for fertilizer and chemicals."
+      "title": "Black Lake founder Yuxiang Zhou pitted an AI agent against his top sales coach. His most experienced salespeople chose the AI",
+      "url": "https://fortune.com/2026/09/13/black-lake-ai-sales-coach-ideo-wipro/",
+      "published_at": "2026-09-13T09:30:00+00:00",
+      "summary": "But he’s still waiting for the “Google moment” in AI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mortgage lending standards are so tight that homebuyers must have ‘pristine’ credit histories, study says, as sales head for 31-year low",
-      "url": "https://fortune.com/2026/09/12/housing-market-mortgage-lending-standards-credit-scores-histories-home-sales-borrowing-costs/",
-      "published_at": "2026-09-12T23:04:27+00:00",
-      "summary": "\"These changes helped to reduce delinquencies and defaults but also made it more difficult for many Americans to qualify for a mortgage.\""
+      "title": "Trump will look into requests from families of 9/11 victims to release records that could shed light on Saudi Arabia’s alleged role",
+      "url": "https://fortune.com/2026/09/13/trump-requests-families-9-11-victime-saudi-arabia-alleged-role/",
+      "published_at": "2026-09-13T23:12:53+00:00",
+      "summary": "Several families have long alleged that a group of extremist religious leaders in Saudi Arabia gained influence in the Saudi government and aided the hijackers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s childhood home sells for $1.9 million after prior owner bought it for $835,000 last year, when it was a mold-ridden den of feral cats",
-      "url": "https://fortune.com/2026/09/12/trump-childhood-home-sale-price-2-million-queens-jamaica-estates/",
-      "published_at": "2026-09-12T20:45:34+00:00",
-      "summary": "Tommy Lin, had purchased the five-bedroom, three-bathroom home last year for $835,000 after it sat vacant and neglected for years."
+      "title": "Stocks are in a late-stage bubble and poised to crash 21% next year, while Treasury yields above 5% will signal a new era of tight money, analysts say",
+      "url": "https://fortune.com/2026/09/13/stock-market-outlook-late-stage-bubble-crash-2027-treasury-yields-5-percent/",
+      "published_at": "2026-09-13T22:06:20+00:00",
+      "summary": "\"Most of the factors we consider are at, or close to, levels that have preceded past stock market peaks.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The trade deficit with Canada that’s upset Trump so much is due to crude the U.S. buys at a discount for the Midwest. ‘It’s the only oil they can use’",
-      "url": "https://fortune.com/2026/09/12/trade-deficit-canada-tariffs-trump-alberta-oil-imports-discount-midwest-refineries/",
-      "published_at": "2026-09-12T20:36:36+00:00",
-      "summary": "“They can’t use Texas crude. They can’t use Venezuelan crude. They’re not set up for it. It would take years and billions of dollars to shift over.’’"
+      "title": "While Barack Obama urges Democrats to make AI a campaign issue, Trump downplays the need to slow development despite dire warnings",
+      "url": "https://fortune.com/2026/09/13/barack-obama-democrats-ai-campaign-issue-midterm-elections-trump-dire-warnings/",
+      "published_at": "2026-09-13T20:01:50+00:00",
+      "summary": "“We can put guardrails, we can do this and that, but I think you have a lot of negative forces that are bringing it up that ... shouldn’t be bringing it up, and they’re bringing up things that won’t happen.”"
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "‘Everybody’s been bugging me’ — Trump says he’ll remove his 10% tariff on Irish whiskey during trophy ceremony at a golf tournament in Ireland",
+      "url": "https://fortune.com/2026/09/13/trump-tariffs-irish-whiskey-trophy-ceremony-golf-tournament-ireland/",
+      "published_at": "2026-09-13T19:46:29+00:00",
+      "summary": "Irish whiskey currently faces the standard tariff imposed by Trump on most imports from the European Union, which was reduced from 15% to 10% in July."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "After Trump says he doesn’t need Congress for his $5,000 ‘dividend,’ House Speaker Mike Johnson says not so fast but vows to try to make it happen",
+      "url": "https://fortune.com/2026/09/13/trump-dividend-5000-house-speaker-mike-johnson-congressional-approval/",
+      "published_at": "2026-09-13T19:36:22+00:00",
+      "summary": "“I would assume, yes, he'd need Congress to act, and that's a creative idea,” he said."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "The third rail isn’t what it used to be. As the Social Security fund’s insolvency nears, more lawmakers are open to tax hikes—even Republicans",
+      "url": "https://fortune.com/2026/09/13/social-security-trust-fund-insolvency-tax-hikes-income-cap-republicans/",
+      "published_at": "2026-09-13T19:12:51+00:00",
+      "summary": "“I’m willing to look at the tax rate. I am willing to raise the amount of income through tax.”"
     }
   ]
 }

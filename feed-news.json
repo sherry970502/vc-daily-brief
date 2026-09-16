@@ -1,159 +1,183 @@
 {
-  "updated_at": "2026-09-15T06:02:04.586936+00:00",
+  "updated_at": "2026-09-16T05:52:58.508740+00:00",
   "period_hours": 24,
-  "article_count": 19,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "published_at": "2026-09-15T01:50:48+00:00",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "published_at": "2026-09-16T00:20:39+00:00",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "published_at": "2026-09-14T21:51:02+00:00",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "published_at": "2026-09-15T21:47:38+00:00",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "published_at": "2026-09-14T20:44:14+00:00",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "published_at": "2026-09-15T20:12:53+00:00",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "published_at": "2026-09-14T20:07:37+00:00",
-      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive."
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_at": "2026-09-15T19:00:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-      "published_at": "2026-09-14T18:14:29+00:00",
-      "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers."
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "published_at": "2026-09-15T18:29:20+00:00",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-      "published_at": "2026-09-14T18:08:43+00:00",
-      "summary": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat."
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "published_at": "2026-09-15T18:16:07+00:00",
+      "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-      "published_at": "2026-09-14T17:41:20+00:00",
-      "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air."
+      "title": "AI agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "published_at": "2026-09-15T17:42:59+00:00",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "With iOS 27, I’m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "published_at": "2026-09-14T17:10:30+00:00",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
+      "title": "US military says it has launched weapons into space",
+      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+      "published_at": "2026-09-15T17:09:06+00:00",
+      "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Y Combinator Still Busiest Startup Investor In August As Nvidia Ramps Up Its Dealmaking Pace",
-      "url": "https://news.crunchbase.com/venture/y-combinator-busiest-startup-investor-nvda-ramps-up-august-2026/",
-      "published_at": "2026-09-14T11:00:45+00:00",
-      "summary": "We ranked August’s most active startup investors across several categories, including lead backers, prolific venture dealmakers, highest spenders and seed investors, which were once again dominated by familiar names."
+      "title": "AI Is Creating Wealth Faster Than Financial Lives Can Adapt",
+      "url": "https://news.crunchbase.com/startups/ai-creating-wealth-fast-honig-from-honig/",
+      "published_at": "2026-09-15T11:00:56+00:00",
+      "summary": "AI startups are reaching massive valuations and liquidity events so quickly that young founders and employees often acquire life-changing wealth before they are prepared to manage it. Ron Honig of From-Honig Family Office, advises that the company's financial plans should remain flexible, balancing"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Dead Weight On The Cap Table: The Startup Equity Problem Causing Litigation And How You Can Fix It",
-      "url": "https://news.crunchbase.com/startups/cap-table-dead-weight-avoiding-litigation-siegel-grellas/",
-      "published_at": "2026-09-14T11:00:33+00:00",
-      "summary": "The standard four-year founder vesting schedule can leave departed founders with large equity stakes, complicating financing and control, and prompting costly litigation aimed at reclaiming shares. Guest author David Siegel, a partner at Grellas Shah LLP, shares ways startups can reduce these risks."
+      "title": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
+      "url": "https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/",
+      "published_at": "2026-09-15T11:00:38+00:00",
+      "summary": "Startups across sales, marketing and customer management have raised $7.5 billion so far this year, according to Crunchbase data. The largest rounds span everything from advertising and customer data to sales software, e-commerce and customer support — reflecting just how many companies are still tr"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘All of us are going to pay’: 30% of Americans are taking out BNPL loans to pay for groceries, and it’s probably going to cost you",
-      "url": "https://fortune.com/2026/09/14/buy-now-pay-later-groceries-raising-sticker-prices-for-consumers-retailer-margins/",
-      "published_at": "2026-09-14T17:54:01+00:00",
-      "summary": "A Washington University study found that as more consumers finance their purchases, the cost of goods goes up for all."
+      "title": "Gen Z tennis star Elena Rybakina turned down 15 colleges to keep playing tennis—now she’s a U.S. Open champion and no. 1 in the world",
+      "url": "https://fortune.com/2026/09/15/millionaire-gen-z-tennis-star-elena-rybakina-turned-down-15-colleges-against-dads-wishes-number-1-in-world/",
+      "published_at": "2026-09-15T14:47:47+00:00",
+      "summary": "U.S. Open champion Elena Rybakina turned down college and changed her citizenship to make her tennis dreams come true. Now she’s earning $11.4 million."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Pentagon admits that Iranian strikes damaged and destroyed hundreds of buildings at U.S. bases across the Middle East",
-      "url": "https://fortune.com/2026/09/14/pentagon-damage-report-iran-war-hundreds-buildings-us-bases-aircraft/",
-      "published_at": "2026-09-14T23:18:40+00:00",
-      "summary": "The report noted that the U.S. war with Iran “has resulted in strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply.”"
+      "title": "Agility is the most important skill in the AI age, says Capgemini CEO",
+      "url": "https://fortune.com/2026/09/16/agility-most-important-skill-ai-age-capgemini-ceo/",
+      "published_at": "2026-09-16T04:20:09+00:00",
+      "summary": "Aiman Ezzat warns that AI FOMO could cost companies dearly if they treat it as hype instead of a true business transformation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Saudi Arabia built the East-West pipeline in the 1980s in case Iran closed Hormuz. Tehran-backed militias still blasted it, sending oil prices up",
-      "url": "https://fortune.com/2026/09/14/saudi-arabia-east-west-pipeline-iran-hormuz-militias-iraq-oil-prices/",
-      "published_at": "2026-09-14T23:09:37+00:00",
-      "summary": "Two regional officials told The Associated Press that repairs could take three to five weeks."
+      "title": "‘The end of the keyboard is near’: Christian Klein predicts voice translation will be the next workplace advantage",
+      "url": "https://fortune.com/2026/09/16/end-of-keyboard-near-christian-klein-sap-predicts-voice-translation-next-workplace-advantage/",
+      "published_at": "2026-09-16T04:14:45+00:00",
+      "summary": "Christian Klein, CEO of SAP, predicts the end of the keyboard as we enter the era of applied AI and voice commands."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mark Carney pitches Canada to global investors as ‘much more than being next to the United States’ and a reliable partner that ‘respects rule of law’",
-      "url": "https://fortune.com/2026/09/14/mark-carney-canada-global-investors-summit-trump-tariffs-trade-war-rule-of-law/",
-      "published_at": "2026-09-14T22:50:01+00:00",
-      "summary": "“They are coming because of Canada,” he said. “If they wanted to go to the United States, they would go to the United States.”"
+      "title": "Europe’s Fortune 500 2026: Record revenue, shrinking margins, and a new No. 1 country",
+      "url": "https://fortune.com/2026/09/16/fortune-500-2026-record-revenue-shrinking-margins-new-no-1-country/",
+      "published_at": "2026-09-16T04:06:00+00:00",
+      "summary": "Now in its fourth year, the Fortune 500 Europe ranks the continent’s biggest companies by revenue."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump tells Americans not to ‘kill the golden goose’ rejecting voters’ turn against AI and data centers",
-      "url": "https://fortune.com/2026/09/14/trump-ai-data-centers-golden-goose-iq/",
-      "published_at": "2026-09-14T20:20:51+00:00",
-      "summary": "Bernie Sanders and Steve Bannon are uniting against AI just as Trump, the other main character from the 2016 era in politics, stands for acceleration."
+      "title": "Karin Rådström is steering Daimler Truck in a new direction as the world’s biggest truckmaker faces a growing challenge from China",
+      "url": "https://fortune.com/2026/09/16/karin-radstrom-daimler-truck-worlds-biggest-truckmaker-growing-challenge-china/",
+      "published_at": "2026-09-16T04:05:00+00:00",
+      "summary": "Chinese rivals are gaining ground as Europe’s shift to electric trucks accelerates."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Trump’s tariffs slashed jobs and wage growth. Now companies are funneling $100 billion in refunds to supplement workers’ retirement",
+      "url": "https://fortune.com/2026/09/15/tariff-refunds-employee-bonuses-retirement-funds-williams-sonoma-tjx/",
+      "published_at": "2026-09-15T18:44:40+00:00",
+      "summary": "Williams Sonoma and TJX plan to give millions of dollars in tariff refunds back to employees through 401(k) payments and bonuses."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Push for AI regulation mounts as talk of AI’s ‘existential’ risks go mainstream. But Trump resists calls for a slowdown",
+      "url": "https://fortune.com/2026/09/15/push-for-ai-regulation-mounts-as-talk-of-ais-existential-risks-go-mainstream-but-trump-resists-calls-for-a-slowdown/",
+      "published_at": "2026-09-15T21:09:31+00:00",
+      "summary": "Fears of AI \"killing all humans\" broke into the mainstream discourse last week. But what happens as a result of the debate remains far from clear."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Urgent calls from OpenAI, Anthropic for an AI slowdown fall on deaf ears with Trump, Xi ahead of next week’s meeting",
+      "url": "https://fortune.com/2026/09/15/ai-slowdown-agenda-trump-xi-jinping-meeting/",
+      "published_at": "2026-09-15T21:59:08+00:00",
+      "summary": "The CEOs of Anthropic and OpenAI say the two countries must pace technological development to protect the human race, but both leader seems uninterested, and maybe even antagonistic to the idea."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "published_at": "2026-09-14T17:54:22+00:00",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the techn"
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "published_at": "2026-09-15T17:47:51+00:00",
+      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from,"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Donated livers can be made biologically younger",
-      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-      "published_at": "2026-09-14T16:11:42+00:00",
-      "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that h"
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "published_at": "2026-09-15T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: th"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "published_at": "2026-09-14T16:00:00+00:00",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep"
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "published_at": "2026-09-15T12:00:00+00:00",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-      "published_at": "2026-09-14T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI"
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "published_at": "2026-09-15T10:00:00+00:00",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques"
     }
   ]
 }

@@ -1,183 +1,159 @@
 {
-  "updated_at": "2026-09-16T05:52:58.508740+00:00",
+  "updated_at": "2026-09-17T06:00:05.334091+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 19,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "published_at": "2026-09-16T00:20:39+00:00",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "published_at": "2026-09-17T05:00:00+00:00",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "published_at": "2026-09-15T21:47:38+00:00",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-17T03:30:00+00:00",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "published_at": "2026-09-15T20:12:53+00:00",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "published_at": "2026-09-17T00:58:49+00:00",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published_at": "2026-09-15T19:00:00+00:00",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+      "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "published_at": "2026-09-16T23:50:07+00:00",
+      "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "published_at": "2026-09-15T18:29:20+00:00",
-      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "published_at": "2026-09-16T23:43:09+00:00",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-      "published_at": "2026-09-15T18:16:07+00:00",
-      "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation."
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "published_at": "2026-09-16T22:37:08+00:00",
+      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI agents now have a place to snitch",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "published_at": "2026-09-15T17:42:59+00:00",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
+      "title": "Noise wants to help everyday people  become paid content creators",
+      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "published_at": "2026-09-16T21:35:00+00:00",
+      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "US military says it has launched weapons into space",
-      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-      "published_at": "2026-09-15T17:09:06+00:00",
-      "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit."
+      "title": "Pulley, a Carta rival, is shutting down",
+      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "published_at": "2026-09-16T21:23:19+00:00",
+      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "AI Is Creating Wealth Faster Than Financial Lives Can Adapt",
-      "url": "https://news.crunchbase.com/startups/ai-creating-wealth-fast-honig-from-honig/",
-      "published_at": "2026-09-15T11:00:56+00:00",
-      "summary": "AI startups are reaching massive valuations and liquidity events so quickly that young founders and employees often acquire life-changing wealth before they are prepared to manage it. Ron Honig of From-Honig Family Office, advises that the company's financial plans should remain flexible, balancing"
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-09-16T16:28:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
-      "url": "https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/",
-      "published_at": "2026-09-15T11:00:38+00:00",
-      "summary": "Startups across sales, marketing and customer management have raised $7.5 billion so far this year, according to Crunchbase data. The largest rounds span everything from advertising and customer data to sales software, e-commerce and customer support — reflecting just how many companies are still tr"
+      "title": "A Hard Year For Software IPOs",
+      "url": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
+      "published_at": "2026-09-16T11:00:47+00:00",
+      "summary": "U.S. venture-backed technology companies have secured around $90 billion in domestic public offerings this year, per Crunchbase data. That’s already the second-highest annual tally on record, and we’ve still got a few months to go."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Z tennis star Elena Rybakina turned down 15 colleges to keep playing tennis—now she’s a U.S. Open champion and no. 1 in the world",
-      "url": "https://fortune.com/2026/09/15/millionaire-gen-z-tennis-star-elena-rybakina-turned-down-15-colleges-against-dads-wishes-number-1-in-world/",
-      "published_at": "2026-09-15T14:47:47+00:00",
-      "summary": "U.S. Open champion Elena Rybakina turned down college and changed her citizenship to make her tennis dreams come true. Now she’s earning $11.4 million."
+      "title": "Exclusive: Inside the room where Nancy Pelosi and Mike Pence shared an emotional embrace in front of America’s leadership class",
+      "url": "https://fortune.com/2026/09/16/nancy-pelosi-mike-pence-embrace-award-yale-ceo-caucus/",
+      "published_at": "2026-09-16T22:08:30+00:00",
+      "summary": "It was \"shocking, historic and emotional to all,\" Yale Management professor Jeff Sonnenfeld told Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Agility is the most important skill in the AI age, says Capgemini CEO",
-      "url": "https://fortune.com/2026/09/16/agility-most-important-skill-ai-age-capgemini-ceo/",
-      "published_at": "2026-09-16T04:20:09+00:00",
-      "summary": "Aiman Ezzat warns that AI FOMO could cost companies dearly if they treat it as hype instead of a true business transformation."
+      "title": "Salesforce’s Marc Benioff to AI industry: Regulate yourselves or get sued",
+      "url": "https://fortune.com/2026/09/16/salesforce-marc-benioff-interview-dreamforce-ai-industry-regulate-yourselves-or-get-sued/",
+      "published_at": "2026-09-16T21:48:56+00:00",
+      "summary": "The outspoken CEO is hosting the company's annual Dreamforce conference this week in San Francisco."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘The end of the keyboard is near’: Christian Klein predicts voice translation will be the next workplace advantage",
-      "url": "https://fortune.com/2026/09/16/end-of-keyboard-near-christian-klein-sap-predicts-voice-translation-next-workplace-advantage/",
-      "published_at": "2026-09-16T04:14:45+00:00",
-      "summary": "Christian Klein, CEO of SAP, predicts the end of the keyboard as we enter the era of applied AI and voice commands."
+      "title": "Stocks slide toward lowest level since July after Warsh’s hawkish press conference",
+      "url": "https://fortune.com/2026/09/16/warsh-fed-hike-ai-hyperscalers-treasury-yields/",
+      "published_at": "2026-09-16T21:23:29+00:00",
+      "summary": "The S&#038;P 500 fell 1% and the Dow lost 1.7% as the Fed chair said rates weren't restrictive before Wednesday's hike."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Europe’s Fortune 500 2026: Record revenue, shrinking margins, and a new No. 1 country",
-      "url": "https://fortune.com/2026/09/16/fortune-500-2026-record-revenue-shrinking-margins-new-no-1-country/",
-      "published_at": "2026-09-16T04:06:00+00:00",
-      "summary": "Now in its fourth year, the Fortune 500 Europe ranks the continent’s biggest companies by revenue."
+      "title": "Sam Altman says he likes to relax by watching 5-10 minutes of short-form, TikTok-style videos—but admits the dopamine rush is ‘dangerous’ for kids",
+      "url": "https://fortune.com/2026/09/16/openai-ceo-sam-altman-scrolls-on-tiktok-short-form-video-relax-before-bed-but-dangerous-for-gen-alpha/",
+      "published_at": "2026-09-16T15:07:53+00:00",
+      "summary": "OpenAI’s billionaire CEO Sam Altman enjoys scrolling TikTok before bed—and he’s not the only CEO who does. But he wouldn’t let his son use the app."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Karin Rådström is steering Daimler Truck in a new direction as the world’s biggest truckmaker faces a growing challenge from China",
-      "url": "https://fortune.com/2026/09/16/karin-radstrom-daimler-truck-worlds-biggest-truckmaker-growing-challenge-china/",
-      "published_at": "2026-09-16T04:05:00+00:00",
-      "summary": "Chinese rivals are gaining ground as Europe’s shift to electric trucks accelerates."
+      "title": "AI agents are going rogue. CIOs are racing to put guardrails around them",
+      "url": "https://fortune.com/2026/09/16/ai-agents-are-going-rogue-cios-are-racing-to-put-guardrails-around-them/",
+      "published_at": "2026-09-16T16:49:27+00:00",
+      "summary": "As AI agents take on more work—and present new risks—Cisco, Intuit, Workday, and ServiceNow are creating layers of oversight to monitor, govern, and contain them."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s tariffs slashed jobs and wage growth. Now companies are funneling $100 billion in refunds to supplement workers’ retirement",
-      "url": "https://fortune.com/2026/09/15/tariff-refunds-employee-bonuses-retirement-funds-williams-sonoma-tjx/",
-      "published_at": "2026-09-15T18:44:40+00:00",
-      "summary": "Williams Sonoma and TJX plan to give millions of dollars in tariff refunds back to employees through 401(k) payments and bonuses."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Push for AI regulation mounts as talk of AI’s ‘existential’ risks go mainstream. But Trump resists calls for a slowdown",
-      "url": "https://fortune.com/2026/09/15/push-for-ai-regulation-mounts-as-talk-of-ais-existential-risks-go-mainstream-but-trump-resists-calls-for-a-slowdown/",
-      "published_at": "2026-09-15T21:09:31+00:00",
-      "summary": "Fears of AI \"killing all humans\" broke into the mainstream discourse last week. But what happens as a result of the debate remains far from clear."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Urgent calls from OpenAI, Anthropic for an AI slowdown fall on deaf ears with Trump, Xi ahead of next week’s meeting",
-      "url": "https://fortune.com/2026/09/15/ai-slowdown-agenda-trump-xi-jinping-meeting/",
-      "published_at": "2026-09-15T21:59:08+00:00",
-      "summary": "The CEOs of Anthropic and OpenAI say the two countries must pace technological development to protect the human race, but both leader seems uninterested, and maybe even antagonistic to the idea."
+      "title": "Man sentenced in $35 million Ponzi scheme that defrauded Travis Kelce: ‘He did this out of greed’",
+      "url": "https://fortune.com/2026/09/16/travis-kelce-victim-fraud-ponzi-scheme-sentencing-35-million/",
+      "published_at": "2026-09-16T20:44:02+00:00",
+      "summary": "He also asked to be married to his fiance while in prison."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "published_at": "2026-09-15T17:47:51+00:00",
-      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from,"
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "published_at": "2026-09-16T15:00:00+00:00",
+      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tis"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "published_at": "2026-09-15T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: th"
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "published_at": "2026-09-16T12:47:34+00:00",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "published_at": "2026-09-15T12:00:00+00:00",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "published_at": "2026-09-15T10:00:00+00:00",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques"
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "published_at": "2026-09-16T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impa"
     }
   ]
 }

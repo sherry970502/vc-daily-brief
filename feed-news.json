@@ -1,159 +1,167 @@
 {
-  "updated_at": "2026-09-17T06:00:05.334091+00:00",
+  "updated_at": "2026-09-18T05:46:34.048909+00:00",
   "period_hours": 24,
-  "article_count": 19,
+  "article_count": 20,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "published_at": "2026-09-17T05:00:00+00:00",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "published_at": "2026-09-18T00:02:36+00:00",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-17T03:30:00+00:00",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "published_at": "2026-09-17T23:25:52+00:00",
+      "summary": "The round values the data center giant at $30.9 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "published_at": "2026-09-17T00:58:49+00:00",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "published_at": "2026-09-17T23:21:17+00:00",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
-      "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-      "published_at": "2026-09-16T23:50:07+00:00",
-      "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns."
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "published_at": "2026-09-17T23:08:24+00:00",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "published_at": "2026-09-16T23:43:09+00:00",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "published_at": "2026-09-17T22:34:09+00:00",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "US automakers could soon be forced to include AM radio for free",
-      "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-      "published_at": "2026-09-16T22:37:08+00:00",
-      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio."
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "published_at": "2026-09-17T22:14:59+00:00",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Noise wants to help everyday people  become paid content creators",
-      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-      "published_at": "2026-09-16T21:35:00+00:00",
-      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content."
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "published_at": "2026-09-17T20:34:47+00:00",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Pulley, a Carta rival, is shutting down",
-      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-      "published_at": "2026-09-16T21:23:19+00:00",
-      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December."
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "published_at": "2026-09-17T20:34:24+00:00",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-09-16T16:28:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+      "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
+      "url": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
+      "published_at": "2026-09-17T14:00:42+00:00",
+      "summary": "Newly launched Skalar provides startups with capital to fund sales and marketing initiatives in a fairly straightforward, though somewhat unusual model which lets the startups pay it back out of the revenue generated by the customers acquired with that capital."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "A Hard Year For Software IPOs",
-      "url": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
-      "published_at": "2026-09-16T11:00:47+00:00",
-      "summary": "U.S. venture-backed technology companies have secured around $90 billion in domestic public offerings this year, per Crunchbase data. That’s already the second-highest annual tally on record, and we’ve still got a few months to go."
+      "title": "5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers",
+      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/",
+      "published_at": "2026-09-17T11:00:13+00:00",
+      "summary": "From putting nuclear reactors on barges to grading how well AI models can control robots, this month’s crop of interesting startup deals takes AI and other emerging technologies well beyond the conventional software stack."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Inside the room where Nancy Pelosi and Mike Pence shared an emotional embrace in front of America’s leadership class",
-      "url": "https://fortune.com/2026/09/16/nancy-pelosi-mike-pence-embrace-award-yale-ceo-caucus/",
-      "published_at": "2026-09-16T22:08:30+00:00",
-      "summary": "It was \"shocking, historic and emotional to all,\" Yale Management professor Jeff Sonnenfeld told Fortune."
+      "title": "Waymo to launch robotaxis in Singapore, its first Southeast Asia market, by 2028",
+      "url": "https://fortune.com/2026/09/17/waymo-launch-robotaxis-singapore-first-southeast-asia-market/",
+      "published_at": "2026-09-18T02:00:00+00:00",
+      "summary": "Singapore is already one of the world’s most crowded AV markets."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Salesforce’s Marc Benioff to AI industry: Regulate yourselves or get sued",
-      "url": "https://fortune.com/2026/09/16/salesforce-marc-benioff-interview-dreamforce-ai-industry-regulate-yourselves-or-get-sued/",
-      "published_at": "2026-09-16T21:48:56+00:00",
-      "summary": "The outspoken CEO is hosting the company's annual Dreamforce conference this week in San Francisco."
+      "title": "Congress is so dysfunctional and irresponsible it’s only done its job four times since World War II",
+      "url": "https://fortune.com/2026/09/17/congress-dysfunction-national-debt-august-recess-appropriations-bills/",
+      "published_at": "2026-09-17T15:09:36+00:00",
+      "summary": "The federal government had a record $432 billion deficit in July and hit the $40 trillion total debt threshold in August — and Congress took a break."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Stocks slide toward lowest level since July after Warsh’s hawkish press conference",
-      "url": "https://fortune.com/2026/09/16/warsh-fed-hike-ai-hyperscalers-treasury-yields/",
-      "published_at": "2026-09-16T21:23:29+00:00",
-      "summary": "The S&#038;P 500 fell 1% and the Dow lost 1.7% as the Fed chair said rates weren't restrictive before Wednesday's hike."
+      "title": "As AI CEOs clash over regulation, a new culture war is brewing",
+      "url": "https://fortune.com/2026/09/17/as-ai-ceos-clash-over-regulation-a-new-culture-war-is-brewing/",
+      "published_at": "2026-09-17T19:20:05+00:00",
+      "summary": "Tech leaders are split over who should regulate advanced AI, while the Trump administration and its allies are stoking a culture war."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Sam Altman says he likes to relax by watching 5-10 minutes of short-form, TikTok-style videos—but admits the dopamine rush is ‘dangerous’ for kids",
-      "url": "https://fortune.com/2026/09/16/openai-ceo-sam-altman-scrolls-on-tiktok-short-form-video-relax-before-bed-but-dangerous-for-gen-alpha/",
-      "published_at": "2026-09-16T15:07:53+00:00",
-      "summary": "OpenAI’s billionaire CEO Sam Altman enjoys scrolling TikTok before bed—and he’s not the only CEO who does. But he wouldn’t let his son use the app."
+      "title": "Shopify CEO says employees’ ‘slop grenades’ are making more work for everyone else",
+      "url": "https://fortune.com/2026/09/17/shopify-tobias-lutke-ai-slop-grenades/",
+      "published_at": "2026-09-17T21:33:17+00:00",
+      "summary": "He said AI is helping workers produce more output, but the quality of it is so bad that their colleagues have to spend more time fixing it"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI agents are going rogue. CIOs are racing to put guardrails around them",
-      "url": "https://fortune.com/2026/09/16/ai-agents-are-going-rogue-cios-are-racing-to-put-guardrails-around-them/",
-      "published_at": "2026-09-16T16:49:27+00:00",
-      "summary": "As AI agents take on more work—and present new risks—Cisco, Intuit, Workday, and ServiceNow are creating layers of oversight to monitor, govern, and contain them."
+      "title": "Exclusive: OpenAI poaches Brian McCarthy from SpaceX to be its VP of worldwide sales",
+      "url": "https://fortune.com/2026/09/17/openai-poache-brian-mccarthy-from-spacex-as-its-vp-of-worldwide-sales/",
+      "published_at": "2026-09-17T19:30:03+00:00",
+      "summary": "McCarthy is the first major hire by Dali Rajic, OpenAI's new CRO who joined less than a month ago."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Man sentenced in $35 million Ponzi scheme that defrauded Travis Kelce: ‘He did this out of greed’",
-      "url": "https://fortune.com/2026/09/16/travis-kelce-victim-fraud-ponzi-scheme-sentencing-35-million/",
-      "published_at": "2026-09-16T20:44:02+00:00",
-      "summary": "He also asked to be married to his fiance while in prison."
+      "title": "Oil is back above $100—but economists say that number isn’t the real threat to the U.S. economy",
+      "url": "https://fortune.com/2026/09/17/oil-above-100-us-economy-gas-diesel-prices/",
+      "published_at": "2026-09-17T19:39:51+00:00",
+      "summary": "Gas takes up less household income than it once did, but record diesel prices and refinery shortages could still curb spending."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "‘We need sufficient means of control before it is all too late’: King Charles III warns AI players on concerns of ‘existential dangers’",
+      "url": "https://fortune.com/2026/09/17/king-charles-ai-existential-dangers-control/",
+      "published_at": "2026-09-17T19:28:05+00:00",
+      "summary": "The British monarch gathered leaders from OpenAI, Nvidia, Anthropic and Google DeepMind as fears grow that AI could escape human control."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Goldman’s top strategist just added hard numbers to his earnings-bubble warning",
+      "url": "https://fortune.com/2026/09/17/goldman-oppenheimer-earnings-bubble-hard-data/",
+      "published_at": "2026-09-17T18:45:02+00:00",
+      "summary": "Peter Oppenheimer first flagged the risk that AI stocks were riding an unsustainable earnings boom this summer. He's done more math."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "published_at": "2026-09-16T15:00:00+00:00",
-      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tis"
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "published_at": "2026-09-17T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "published_at": "2026-09-16T12:47:34+00:00",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "published_at": "2026-09-16T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impa"
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "published_at": "2026-09-17T10:00:00+00:00",
+      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over th"
     }
   ]
 }

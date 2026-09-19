@@ -1,167 +1,175 @@
 {
-  "updated_at": "2026-09-18T05:46:34.048909+00:00",
+  "updated_at": "2026-09-19T05:41:45.492218+00:00",
   "period_hours": 24,
-  "article_count": 20,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-      "published_at": "2026-09-18T00:02:36+00:00",
-      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7."
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "published_at": "2026-09-19T01:00:00+00:00",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "published_at": "2026-09-17T23:25:52+00:00",
-      "summary": "The round values the data center giant at $30.9 billion."
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "published_at": "2026-09-19T00:12:07+00:00",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "published_at": "2026-09-17T23:21:17+00:00",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "published_at": "2026-09-18T23:25:01+00:00",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-      "published_at": "2026-09-17T23:08:24+00:00",
-      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "published_at": "2026-09-18T23:13:31+00:00",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "published_at": "2026-09-17T22:34:09+00:00",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be."
+      "title": "AI hallucination nearly triggers US military operation",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "published_at": "2026-09-18T23:12:32+00:00",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "published_at": "2026-09-17T22:14:59+00:00",
-      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "published_at": "2026-09-18T21:44:33+00:00",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The fix for rogue AI agents could be more AI",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "published_at": "2026-09-17T20:34:47+00:00",
-      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
+      "title": "Automattic names interim CFO after exec departures",
+      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+      "published_at": "2026-09-18T20:25:22+00:00",
+      "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "published_at": "2026-09-17T20:34:24+00:00",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
+      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "published_at": "2026-09-18T20:24:33+00:00",
+      "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
-      "url": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
-      "published_at": "2026-09-17T14:00:42+00:00",
-      "summary": "Newly launched Skalar provides startups with capital to fund sales and marketing initiatives in a fairly straightforward, though somewhat unusual model which lets the startups pay it back out of the revenue generated by the customers acquired with that capital."
+      "title": "The Week’s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment Management Lead",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
+      "published_at": "2026-09-18T18:29:32+00:00",
+      "summary": "After a week of multiple billion-dollar-plus rounds, startup investors have reduced the number of zeroes on their funding checks. This past week, the largest U.S. startup funding rounds were in the hundreds of millions, topped by a $550 million financing for AI infrastructure company Temporal Techno"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers",
-      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/",
-      "published_at": "2026-09-17T11:00:13+00:00",
-      "summary": "From putting nuclear reactors on barges to grading how well AI models can control robots, this month’s crop of interesting startup deals takes AI and other emerging technologies well beyond the conventional software stack."
+      "title": "What 25,000 Startup Applications Reveal About The New Rules Of Seed-Stage Startups",
+      "url": "https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/",
+      "published_at": "2026-09-18T11:00:18+00:00",
+      "summary": "The most-fundable startups prioritize a clear go-to-market strategy and test distinctive marketing channels early, treating distribution and disciplined focus as durable competitive advantages, explains guest author Aaron Golbin, a co-founder and general partner at LvlUp Ventures, who believes that"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Waymo to launch robotaxis in Singapore, its first Southeast Asia market, by 2028",
-      "url": "https://fortune.com/2026/09/17/waymo-launch-robotaxis-singapore-first-southeast-asia-market/",
-      "published_at": "2026-09-18T02:00:00+00:00",
-      "summary": "Singapore is already one of the world’s most crowded AV markets."
+      "title": "‘Know your agent’: Banks face a new compliance challenge as AI agents shop and pay on their own",
+      "url": "https://fortune.com/2026/09/19/know-your-agent-ai-payments-banks/",
+      "published_at": "2026-09-19T05:00:00+00:00",
+      "summary": "Banks and card networks are racing to verify who—or what—is spending money."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Congress is so dysfunctional and irresponsible it’s only done its job four times since World War II",
-      "url": "https://fortune.com/2026/09/17/congress-dysfunction-national-debt-august-recess-appropriations-bills/",
-      "published_at": "2026-09-17T15:09:36+00:00",
-      "summary": "The federal government had a record $432 billion deficit in July and hit the $40 trillion total debt threshold in August — and Congress took a break."
+      "title": "After threatening to seize Greenland by force, Trump agrees to leave it with Denmark and boost military presence. ‘We will be very protective of it!’",
+      "url": "https://fortune.com/2026/09/18/greenland-trump-denmark-control-us-military-presence/",
+      "published_at": "2026-09-18T23:52:15+00:00",
+      "summary": "Parliamentary action is still needed by the Danish and Greenland governments before it can be enforced."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As AI CEOs clash over regulation, a new culture war is brewing",
-      "url": "https://fortune.com/2026/09/17/as-ai-ceos-clash-over-regulation-a-new-culture-war-is-brewing/",
-      "published_at": "2026-09-17T19:20:05+00:00",
-      "summary": "Tech leaders are split over who should regulate advanced AI, while the Trump administration and its allies are stoking a culture war."
+      "title": "Kevin Warsh just revealed a huge change for the Fed. The press missed it",
+      "url": "https://fortune.com/2026/09/18/kevin-warsh-federal-reserve-what-is-monetarism/",
+      "published_at": "2026-09-18T20:45:10+00:00",
+      "summary": "Warsh is shaping up to run the Fed in a totally different way than it has been for decades."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Shopify CEO says employees’ ‘slop grenades’ are making more work for everyone else",
-      "url": "https://fortune.com/2026/09/17/shopify-tobias-lutke-ai-slop-grenades/",
-      "published_at": "2026-09-17T21:33:17+00:00",
-      "summary": "He said AI is helping workers produce more output, but the quality of it is so bad that their colleagues have to spend more time fixing it"
+      "title": "‘I now realize I was foolish’: Widow of early Roblox programmer allegedly defrauded out of $6 million trying to buy out a man from his escort contract",
+      "url": "https://fortune.com/2026/09/18/roblox-widow-lawsuit-escort-paid-6-million-contract/",
+      "published_at": "2026-09-18T21:36:18+00:00",
+      "summary": "A lawsuit says a male escort exploited Marianne Flippo's grief and rare illness to take $5.95 million meant to buy his way out of an escort contract."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: OpenAI poaches Brian McCarthy from SpaceX to be its VP of worldwide sales",
-      "url": "https://fortune.com/2026/09/17/openai-poache-brian-mccarthy-from-spacex-as-its-vp-of-worldwide-sales/",
-      "published_at": "2026-09-17T19:30:03+00:00",
-      "summary": "McCarthy is the first major hire by Dali Rajic, OpenAI's new CRO who joined less than a month ago."
+      "title": "American, United and Southwest are all cutting ‘marginal routes’ as jet fuel prices spike",
+      "url": "https://fortune.com/2026/09/18/airlines-cut-least-profitable-flights-jet-fuel/",
+      "published_at": "2026-09-18T21:04:14+00:00",
+      "summary": "American, United and Southwest are trimming schedules as fuel surges, while travelers already face fares nearly a quarter higher than a year ago"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Oil is back above $100—but economists say that number isn’t the real threat to the U.S. economy",
-      "url": "https://fortune.com/2026/09/17/oil-above-100-us-economy-gas-diesel-prices/",
-      "published_at": "2026-09-17T19:39:51+00:00",
-      "summary": "Gas takes up less household income than it once did, but record diesel prices and refinery shortages could still curb spending."
+      "title": "The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz",
+      "url": "https://fortune.com/2026/09/18/iran-war-minting-new-one-day-millionaires-oil-tankers-crossing-strait-of-hormuz-1-million-dollars-per-day/",
+      "published_at": "2026-09-18T20:58:35+00:00",
+      "summary": "For the first time, hiring an oil tanker costs more than $1 million per day as rocketing insurance premiums and a consolidating market drive up shipping costs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘We need sufficient means of control before it is all too late’: King Charles III warns AI players on concerns of ‘existential dangers’",
-      "url": "https://fortune.com/2026/09/17/king-charles-ai-existential-dangers-control/",
-      "published_at": "2026-09-17T19:28:05+00:00",
-      "summary": "The British monarch gathered leaders from OpenAI, Nvidia, Anthropic and Google DeepMind as fears grow that AI could escape human control."
+      "title": "‘It’s a dumb idea’: Republicans split from proposed ‘Trump dividend’ $5,000 plan if GOP wins midterms",
+      "url": "https://fortune.com/2026/09/18/republicans-split-trump-dividend-5000-midterms/",
+      "published_at": "2026-09-18T20:07:54+00:00",
+      "summary": "The promised check is \"nothing more than a recycled broken promise\" that gets often repeated."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Goldman’s top strategist just added hard numbers to his earnings-bubble warning",
-      "url": "https://fortune.com/2026/09/17/goldman-oppenheimer-earnings-bubble-hard-data/",
-      "published_at": "2026-09-17T18:45:02+00:00",
-      "summary": "Peter Oppenheimer first flagged the risk that AI stocks were riding an unsustainable earnings boom this summer. He's done more math."
+      "title": "‘No one knows what is in these deals’: Trump set to announce new Medicaid drug pricing model amid affordability concerns",
+      "url": "https://fortune.com/2026/09/18/trump-announce-medicaid-drug-price-affordability/",
+      "published_at": "2026-09-18T20:02:34+00:00",
+      "summary": "Trump signed a \"Most Favored Nations\" policy last year, committing the US to paying the lowest paid price for medications."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "published_at": "2026-09-17T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its"
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "published_at": "2026-09-18T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "published_at": "2026-09-17T10:00:00+00:00",
-      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over th"
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "published_at": "2026-09-18T11:29:22+00:00",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario tha"
     }
   ]
 }

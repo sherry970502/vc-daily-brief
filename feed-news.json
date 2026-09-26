@@ -1,167 +1,159 @@
 {
-  "updated_at": "2026-09-25T06:04:07.054266+00:00",
+  "updated_at": "2026-09-26T06:02:18.317672+00:00",
   "period_hours": 24,
-  "article_count": 20,
+  "article_count": 19,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "published_at": "2026-09-25T05:00:00+00:00",
-      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "published_at": "2026-09-26T01:08:57+00:00",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "published_at": "2026-09-24T23:24:33+00:00",
-      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well."
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "published_at": "2026-09-25T23:11:10+00:00",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "published_at": "2026-09-24T20:45:00+00:00",
-      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case."
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "published_at": "2026-09-25T23:04:34+00:00",
+      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "published_at": "2026-09-24T19:15:00+00:00",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "published_at": "2026-09-25T22:20:47+00:00",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "published_at": "2026-09-24T19:00:42+00:00",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "published_at": "2026-09-25T20:34:53+00:00",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "published_at": "2026-09-24T18:52:38+00:00",
-      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers."
+      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "published_at": "2026-09-25T20:33:58+00:00",
+      "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "published_at": "2026-09-24T18:11:44+00:00",
-      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "published_at": "2026-09-25T19:13:38+00:00",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "published_at": "2026-09-24T17:39:24+00:00",
-      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-25T18:48:33+00:00",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents",
-      "url": "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/",
-      "published_at": "2026-09-24T13:00:44+00:00",
-      "summary": "Dextr AI is emerging from stealth with $6.7 million in seed funding to build agents that handle reservations, guest requests, staff coordination and other hotel tasks."
+      "title": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
+      "published_at": "2026-09-25T17:44:29+00:00",
+      "summary": "This week delivered a bountiful supply of big startup funding rounds, led by two $400 million financings for cybersecurity unicorns and large financings for startups across hot sectors, including foundational AI, drug discovery, neurotech, and even rainmaking."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Gaming Startup Funding Levels Up A Bit In 2026",
-      "url": "https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/",
-      "published_at": "2026-09-24T11:00:12+00:00",
-      "summary": "So far this year, companies in the gaming space have raised around $2 billion in seed- through growth-stage funding. That's already ahead of the 2025 full-year total, driven in large part by big rounds for companies at the intersection of AI and gaming."
+      "title": "Tech Layoffs Outpace 2025 As Big Companies Shift Spending To AI",
+      "url": "https://news.crunchbase.com/layoffs/2026-layoff-numbers-rise-ai-shift-orcl-meta-amzn/",
+      "published_at": "2026-09-25T11:00:42+00:00",
+      "summary": "From January through August, U.S. tech layoffs reached at least 94,046, up 16.8% from 80,486 in the same period of 2025. Interestingly, and unsurprisingly, many of the cuts came as tech companies redirected spending toward AI and restructured operations to reduce costs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI to unveil GPT-6 Cyber model, plus a first-of-its-kind product to help deploy it",
-      "url": "https://fortune.com/2026/09/24/openai-launching-gpt-6-cyber-model-and-security-product-devday/",
-      "published_at": "2026-09-24T22:29:33+00:00",
-      "summary": "OpenAI is extending the two-pronged paradigm it established with the ChatGPT product and GPT models into a new realm with a cyber focused combo."
+      "title": "OpenAI rogue agents leaked 53 images from ChatGPT users and reportedly created nearly 1 million links packing encoded bits of info",
+      "url": "https://fortune.com/2026/09/25/openai-rogue-agents-images-sam-altman-chatgpt-users-links-encoded-info-hugging-face-hack/",
+      "published_at": "2026-09-26T01:16:05+00:00",
+      "summary": "Back-to-back reports on Friday provided more alarming details of rogue AI agent activity at OpenAI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Kalshi could be worth $42 billion—if it can survive the Supreme Court unscathed",
-      "url": "https://fortune.com/2026/09/24/kalshi-valuation-42-billion-ipo/",
-      "published_at": "2026-09-24T09:58:09+00:00",
-      "summary": "Everything you need to know before you reach the office this morning."
+      "title": "Trump banned MS NOW from the White House. Symone Sanders-Townsend says he still watches, and she stands by her Hasan Piker interview",
+      "url": "https://fortune.com/2026/09/25/trump-banned-ms-now-white-house-symone-sanders-townsend-hasan-piker/",
+      "published_at": "2026-09-25T22:28:36+00:00",
+      "summary": "The former Harris spokesperson calls retribution \"a feature, not a bug\" of Trump's White House and explains why she pressed the streamer."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘It’s so corrosive to democracy’: Over 50 federal prosecutors speak out against Trump’s $100,000 a month ‘insider trading’ scheme",
-      "url": "https://fortune.com/2026/09/24/over-50-federal-prosecutors-trump-100000-month-insider-trading/",
-      "published_at": "2026-09-24T20:23:14+00:00",
-      "summary": "\"We're in an environment where we all want to be looking to the founders, right?\""
+      "title": "Rockefeller Foundation President: America is losing its global standing. Here’s how to fix it",
+      "url": "https://fortune.com/2026/09/25/rockefeller-foundation-president-america-is-losing-its-global-standing-heres-how-to-fix-it/",
+      "published_at": "2026-09-25T17:20:57+00:00",
+      "summary": "One-third of the world sees America as a threat. Here’s how we can win back their trust."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The return of nostalgia is bringing back Toys “R” Us as it opens 120 stores, nine years after bankruptcy",
-      "url": "https://fortune.com/2026/09/24/the-return-of-nostalgia-is-bringing-back-toys-r-us-as-it-opens-120-stores-nine-years-after-bankruptcy/",
-      "published_at": "2026-09-24T20:17:16+00:00",
-      "summary": "Adult collectors are helping drive a toy boom, but the new stores are smaller than the ones shoppers remember."
+      "title": "‘U.S. trade policy is damaging the U.S. auto industry’: Canada’s purchase of American cars hits new low as Trump’s tariffs backfire on U.S. automakers",
+      "url": "https://fortune.com/2026/09/25/canada-purchase-american-cars-decreasing-tariffs-backfire-us-automakers/",
+      "published_at": "2026-09-25T17:53:33+00:00",
+      "summary": "In one year, the U.S. share of new vehicles in Canada shrunk from 35.4% to 28.4%, new data shows."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meta plans to spend $145 billion this year, more than every military budget except the U.S., China and Russia",
-      "url": "https://fortune.com/2026/09/24/meta-145-billion-capex-military-budgets/",
-      "published_at": "2026-09-24T08:34:00+00:00",
-      "summary": "The $145 billion is roughly a 101% markup from the company’s capex from 2025."
+      "title": "Boom or bust? The case for and against panicking about 5% yields",
+      "url": "https://fortune.com/2026/09/25/10-year-treasury-yield-bonds-warsh-fed/",
+      "published_at": "2026-09-25T20:00:25+00:00",
+      "summary": "The bond market is flashing a warning, but stocks aren’t listening."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Travis Kalanick is back: How Uber’s ousted founder went from pariah to Silicon Valley hero",
-      "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/",
-      "published_at": "2026-09-24T07:00:00+00:00",
-      "summary": "The Uber cofounder returns with a multibillion robotics and AI venture—and a tech sector more receptive to his hard-charging approach."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "The U.S. and China are quietly talking AI guardrails—even as Trump publicly rejects them",
-      "url": "https://fortune.com/2026/09/24/us-china-ai-labs-converge-ai-guardrail-hotline/",
-      "published_at": "2026-09-24T19:13:33+00:00",
-      "summary": "The U.S. and China just held their first AI dialogue, as Beijing courts the rest of the world with open-source AI."
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Nscale wants a $35 billion valuation. Nvidia is helping foot the bill",
-      "url": "https://fortune.com/2026/09/24/nscale-wants-a-35-billion-valuation-nvidia-is-helping-foot-the-bill/",
-      "published_at": "2026-09-24T17:49:56+00:00",
-      "summary": "The neocloud's IPO filing shows a company that burned through cash while a chipmaker that also happens to be its biggest supplier helped keep it alive."
+      "title": "35% of bettors are leaving sportsbooks for prediction markets, echoing the regulatory loophole DraftKings built its business on",
+      "url": "https://fortune.com/2026/09/25/sports-books-bettors-leaving-prediction-markets/",
+      "published_at": "2026-09-25T17:45:52+00:00",
+      "summary": "The American Gaming Association says states have already lost $500 million in tax revenue to prediction markets."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "published_at": "2026-09-24T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has a"
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "published_at": "2026-09-25T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an impro"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "AI is dominating the conversation at Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "published_at": "2026-09-24T10:00:00+00:00",
-      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than us"
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "published_at": "2026-09-25T09:16:25+00:00",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of"
     }
   ]
 }

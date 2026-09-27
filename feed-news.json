@@ -1,159 +1,119 @@
 {
-  "updated_at": "2026-09-26T06:02:18.317672+00:00",
+  "updated_at": "2026-09-27T06:29:44.302470+00:00",
   "period_hours": 24,
-  "article_count": 19,
+  "article_count": 14,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "published_at": "2026-09-26T01:08:57+00:00",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
+      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "published_at": "2026-09-27T01:40:30+00:00",
+      "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "published_at": "2026-09-25T23:11:10+00:00",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "published_at": "2026-09-27T01:30:00+00:00",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "published_at": "2026-09-25T23:04:34+00:00",
-      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board."
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "published_at": "2026-09-26T21:02:06+00:00",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "published_at": "2026-09-25T22:20:47+00:00",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "published_at": "2026-09-26T20:24:45+00:00",
+      "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta opens early access program for new Muse features",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "published_at": "2026-09-25T20:34:53+00:00",
-      "summary": "Anyone interested in joining has to ask Muse to put them on the list."
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "published_at": "2026-09-26T17:44:00+00:00",
+      "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-      "published_at": "2026-09-25T20:33:58+00:00",
-      "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery."
+      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "published_at": "2026-09-26T17:00:00+00:00",
+      "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "published_at": "2026-09-25T19:13:38+00:00",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-25T18:48:33+00:00",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
-      "published_at": "2026-09-25T17:44:29+00:00",
-      "summary": "This week delivered a bountiful supply of big startup funding rounds, led by two $400 million financings for cybersecurity unicorns and large financings for startups across hot sectors, including foundational AI, drug discovery, neurotech, and even rainmaking."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Tech Layoffs Outpace 2025 As Big Companies Shift Spending To AI",
-      "url": "https://news.crunchbase.com/layoffs/2026-layoff-numbers-rise-ai-shift-orcl-meta-amzn/",
-      "published_at": "2026-09-25T11:00:42+00:00",
-      "summary": "From January through August, U.S. tech layoffs reached at least 94,046, up 16.8% from 80,486 in the same period of 2025. Interestingly, and unsurprisingly, many of the cuts came as tech companies redirected spending toward AI and restructured operations to reduce costs."
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "published_at": "2026-09-26T14:00:00+00:00",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI rogue agents leaked 53 images from ChatGPT users and reportedly created nearly 1 million links packing encoded bits of info",
-      "url": "https://fortune.com/2026/09/25/openai-rogue-agents-images-sam-altman-chatgpt-users-links-encoded-info-hugging-face-hack/",
-      "published_at": "2026-09-26T01:16:05+00:00",
-      "summary": "Back-to-back reports on Friday provided more alarming details of rogue AI agent activity at OpenAI."
+      "title": "Trump’s new Medicaid rules will kick in, and GOP states are tougher. Someone may be too frail to work but can’t afford to see a doctor to prove it",
+      "url": "https://fortune.com/2026/09/26/trump-new-medicaid-work-requirements-obba-gop-states-tougher-doctor-documentation/",
+      "published_at": "2026-09-26T23:20:03+00:00",
+      "summary": "While federal regulations say the state can take the recipient's word for it for the first year, at least six states are requiring documentation immediately."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump banned MS NOW from the White House. Symone Sanders-Townsend says he still watches, and she stands by her Hasan Piker interview",
-      "url": "https://fortune.com/2026/09/25/trump-banned-ms-now-white-house-symone-sanders-townsend-hasan-piker/",
-      "published_at": "2026-09-25T22:28:36+00:00",
-      "summary": "The former Harris spokesperson calls retribution \"a feature, not a bug\" of Trump's White House and explains why she pressed the streamer."
+      "title": "An 87-year-old woman was evicted via stretcher from a Madrid apartment she lived in for decades, sparking mass protest against Spain’s housing crisis",
+      "url": "https://fortune.com/2026/09/26/87-year-old-woman-eviction-madrid-apartment-protest-spain-housing-crisis/",
+      "published_at": "2026-09-26T22:59:22+00:00",
+      "summary": "The Bank of Spain estimated that the country had a shortage of about 550,000 homes last year, with Madrid, Barcelona and Valencia accounting for a substantial share."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Rockefeller Foundation President: America is losing its global standing. Here’s how to fix it",
-      "url": "https://fortune.com/2026/09/25/rockefeller-foundation-president-america-is-losing-its-global-standing-heres-how-to-fix-it/",
-      "published_at": "2026-09-25T17:20:57+00:00",
-      "summary": "One-third of the world sees America as a threat. Here’s how we can win back their trust."
+      "title": "Here’s how much worse U.S. debt could get as Treasury yields surge to the highest levels in two decades",
+      "url": "https://fortune.com/2026/09/26/us-debt-outlook-cbo-10-year-treasury-bond-yields-highest-two-decades/",
+      "published_at": "2026-09-26T22:39:52+00:00",
+      "summary": "Publicly held debt would explode to 222% of GDP by 2056, under a scenario where interest rates rise by 1 percentage point."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘U.S. trade policy is damaging the U.S. auto industry’: Canada’s purchase of American cars hits new low as Trump’s tariffs backfire on U.S. automakers",
-      "url": "https://fortune.com/2026/09/25/canada-purchase-american-cars-decreasing-tariffs-backfire-us-automakers/",
-      "published_at": "2026-09-25T17:53:33+00:00",
-      "summary": "In one year, the U.S. share of new vehicles in Canada shrunk from 35.4% to 28.4%, new data shows."
+      "title": "Trump stonewalls Iran as U.S. helps double oil volume exiting the Persian Gulf, with the military now guiding ships through Hormuz in broad daylight",
+      "url": "https://fortune.com/2026/09/26/trump-iran-war-ceasefire-offer-oil-volume-persian-gulf-us-military-hormuz-daytime/",
+      "published_at": "2026-09-26T19:40:53+00:00",
+      "summary": "Tanker Trackers estimated that the total amount of crude oil exiting the U.S. blockade line is now 13 million barrels per day."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Boom or bust? The case for and against panicking about 5% yields",
-      "url": "https://fortune.com/2026/09/25/10-year-treasury-yield-bonds-warsh-fed/",
-      "published_at": "2026-09-25T20:00:25+00:00",
-      "summary": "The bond market is flashing a warning, but stocks aren’t listening."
+      "title": "Teams take precautions after coach said comms can go down when Trump ‘enters the stadium, leaves the stadium or changes locations within the stadium’",
+      "url": "https://fortune.com/2026/09/26/texas-tennessee-college-football-communications-trump-stadium/",
+      "published_at": "2026-09-26T18:04:25+00:00",
+      "summary": "Both schools worked with the Secret Service on audio channels in hopes of keeping communications clear."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "35% of bettors are leaving sportsbooks for prediction markets, echoing the regulatory loophole DraftKings built its business on",
-      "url": "https://fortune.com/2026/09/25/sports-books-bettors-leaving-prediction-markets/",
-      "published_at": "2026-09-25T17:45:52+00:00",
-      "summary": "The American Gaming Association says states have already lost $500 million in tax revenue to prediction markets."
+      "title": "‘We are going to hold the crooks accountable.’ Democrats plan vast oversight of Trump administration after midterms—and impeachment is an option",
+      "url": "https://fortune.com/2026/09/26/democrats-oversight-agenda-trump-administration-midterms-elections-impeachment-pete-hegseth/",
+      "published_at": "2026-09-26T17:49:20+00:00",
+      "summary": "“There is a cost to the American people of the out-of-control corruption,” said Democratic leader Hakeem Jeffries of New York."
     },
     {
-      "source": "MIT Tech Review",
+      "source": "Fortune",
       "lang": "en",
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "published_at": "2026-09-25T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an impro"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "published_at": "2026-09-25T09:16:25+00:00",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "published_at": "2026-09-25T09:00:00+00:00",
-      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of"
+      "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time",
+      "url": "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/",
+      "published_at": "2026-09-26T15:25:02+00:00",
+      "summary": "The company is again looking to improve its test controls after a Sept. 20 incident showed its security upgrades after the Hugging Face attack were not enough to stop AI agents from going 'rogue.'"
     }
   ]
 }

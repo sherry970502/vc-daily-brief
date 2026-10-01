@@ -1,175 +1,159 @@
 {
-  "updated_at": "2026-09-30T06:34:13.746683+00:00",
+  "updated_at": "2026-10-01T07:07:55.600004+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 19,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple Pay finally launches in India after years on the sidelines",
-      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "published_at": "2026-09-30T04:08:00+00:00",
-      "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially."
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published_at": "2026-09-30T23:43:07+00:00",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "published_at": "2026-09-29T23:30:55+00:00",
-      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "published_at": "2026-09-30T23:08:00+00:00",
+      "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "published_at": "2026-09-29T22:20:59+00:00",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "published_at": "2026-09-30T21:07:40+00:00",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-      "published_at": "2026-09-29T22:18:35+00:00",
-      "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies."
+      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "published_at": "2026-09-30T20:39:09+00:00",
+      "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-      "published_at": "2026-09-29T21:51:36+00:00",
-      "summary": "EliseAI raises $350M, doubles valuation in a year."
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "published_at": "2026-09-30T20:20:02+00:00",
+      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-      "published_at": "2026-09-29T21:20:12+00:00",
-      "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures."
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "published_at": "2026-09-30T19:29:08+00:00",
+      "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "published_at": "2026-09-29T20:15:47+00:00",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+      "title": "DoorDash’s drone strategy started on the ground",
+      "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "published_at": "2026-09-30T19:22:13+00:00",
+      "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "published_at": "2026-09-29T19:52:37+00:00",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+      "published_at": "2026-09-30T19:19:40+00:00",
+      "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions",
-      "url": "https://news.crunchbase.com/public/oura-pauses-ipo-anthropics-ai-openai/",
-      "published_at": "2026-09-29T18:42:38+00:00",
-      "summary": "Although Oura has postponed its planned offering that could have raised as much as $2.2 billion, Anthropic is still making a move toward the public markets along with AI cloud provider Nscale and other companies lining up potential fourth-quarter listings."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health",
-      "url": "https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/",
-      "published_at": "2026-09-29T12:30:38+00:00",
-      "summary": "Austin-based Tiny Health has raised $33 million in a Series B funding round led by B Capital to help it meet growing demand for its at-home microbiome tests."
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-09-30T16:27:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Robinhood just rolled out trading agents to millions—and investing may never be the same",
-      "url": "https://fortune.com/2026/09/29/robinhood-trading-agents-hood-openai-anthropic/",
-      "published_at": "2026-09-29T23:00:00+00:00",
-      "summary": "The new agents will be available to millions of Robinhood users, who can choose between OpenAI and Anthropic models."
+      "title": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale’s, and shopping on Amazon, SEC alleges",
+      "url": "https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/",
+      "published_at": "2026-10-01T00:12:55+00:00",
+      "summary": "One fund manager allegedly paid his 4 a.m. strip club bill from fund capital after his card was declined."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI may prove disinflationary because agents can negotiate contracts and deals to make your life cheaper, says top economist",
-      "url": "https://fortune.com/2026/09/29/ai-disinflationary-increased-competition-agents-siegel/",
-      "published_at": "2026-09-29T10:15:28+00:00",
-      "summary": "Personalized AI agents “could ultimately be an important competitive, and disinflationary, force across the economy,” Jeremy Siegel wrote."
+      "title": "‘This revolution is happening in years, not decades’: Verizon CEO Dan Schulman sees AGI within 18 months—and a century of progress in a decade",
+      "url": "https://fortune.com/2026/09/30/this-revolution-is-happening-in-years-not-decades-verizon-ceo-dan-schulman-sees-agi-within-18-months-and-a-century-of-progress-in-a-decade/",
+      "published_at": "2026-09-30T21:49:25+00:00",
+      "summary": "“I think you’ll see the collapse of the 21st century in the next five to 10 years,” Dan Schulman said at Ford Pro Accelerate."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Proteinmaxxing shows a ‘meaningful shift’ in how Gen Z takes supplements versus baby boomers, new survey shows",
-      "url": "https://fortune.com/2026/09/29/young-adults-protein-supplements-food-drinks/",
-      "published_at": "2026-09-29T17:11:14+00:00",
-      "summary": "Young shoppers are putting protein into more parts of their diet, from powders and bars to cereal and soda."
+      "title": "Ford CEO sees blue-collar workers using AI as a ‘companion’—but other jobs ‘are definitely going to be changed and eliminated’",
+      "url": "https://fortune.com/2026/09/30/ford-ceo-jim-farley-ai-impact-jobs-blue-collar-companion/",
+      "published_at": "2026-09-30T22:28:38+00:00",
+      "summary": "\"If you work in finance doing spreadsheets, or you’re in a call center, or you’re an entry-level programmer—those jobs are definitely going to be changed.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Judge orders Mamdani administration to cancel pied-à-terre tax notices and start over",
-      "url": "https://fortune.com/2026/09/29/judge-orders-mamdani-administration-to-cancel-pied-a-terre-tax-notices-and-start-over/",
-      "published_at": "2026-09-29T21:15:48+00:00",
-      "summary": "The ruling leaves New York City’s tax on luxury second homes in place but wipes out the thousands of warnings the city mailed this summer."
+      "title": "‘Never waste a crisis’: Sweetgreen cofounder on stolen recipes, the cyclospora cyclone, and the company’s first-ever chef in residence",
+      "url": "https://fortune.com/2026/09/30/sweetgreen-cofounder-nic-jammet-sweetgreen-challenge-molly-baz-social-media/",
+      "published_at": "2026-09-30T20:42:32+00:00",
+      "summary": "Nic Jammet on a lettuce scare, growing up at New York’s La Caravelle, Molly Baz’s residency, and the Hoboken fan whose 25-day challenge went national."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Geico turned a talking gecko into an advertising icon. Now its CMO wants that fame to sell more than car insurance",
-      "url": "https://fortune.com/article/geico-talking-gecko-advertising-icon-cmo-sell-car-insurance/",
-      "published_at": "2026-09-29T20:36:58+00:00",
-      "summary": "Geico’s CMO wants to overhaul the insurer’s marketing for an era when AI could change how consumers buy insurance."
+      "title": "‘It’s crazy they invented it’: Nate Bargatze on the bright future of skilled trades, the urgency of live experience, and the coming of AI",
+      "url": "https://fortune.com/2026/09/30/nate-bargatze-ai-skilled-trades/",
+      "published_at": "2026-09-30T20:01:55+00:00",
+      "summary": "“Before, when you had to Google something, it was like, it’s just article after article. And you’re like, ‘I’m not going to read these articles, dude.’”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI unveils Dots as rival to Meta’s Muse, plus a $500 monthly plan",
-      "url": "https://fortune.com/2026/09/29/openai-takes-on-metas-muse-with-new-dot-agents-and-unveils-a-potential-google-workspace-competitor/",
-      "published_at": "2026-09-29T18:29:32+00:00",
-      "summary": "At the company’s annual DevDay event, it launched over 20 new products that could rival those of Meta, Google, Anthropic, and more."
+      "title": "Mike Rowe on America’s great tradesperson shortage: ‘I don’t care what your politics are. Math doesn’t care, either’",
+      "url": "https://fortune.com/2026/09/30/mike-rowe-purple-jobs-politics-shortage-skilled-trades/",
+      "published_at": "2026-09-30T18:16:35+00:00",
+      "summary": "At Ford Pro Accelerate, Rowe spoke alongside Education Secretary Linda McMahon and the Defense Department’s Mike Duffey about the divide between college and the trades."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Billionaire oil tycoon Harold Hamm donates $150M to the University of Oklahoma to help study a cause that’s personal to him: diabetes",
-      "url": "https://fortune.com/2026/09/29/billionaire-oil-tycoon-harold-hamm-donates-150-million-university-of-oklahoma-diabetes-healthcare/",
-      "published_at": "2026-09-29T07:02:00+00:00",
-      "summary": "The gift is the largest in OU’s history, and it arrives as Oklahoma ranks near the bottom nationally for health system performance."
+      "title": "Vaping was supposed to get people off smoking. Now e-cig users are switching to cigarettes to try to quit",
+      "url": "https://fortune.com/2026/09/30/why-are-vape-users-switching-to-cigarettes-to-try-to-quit-smoking/",
+      "published_at": "2026-09-30T20:12:42+00:00",
+      "summary": "“This is not just a trivial misunderstanding. It’s misinformation to the point of significant harm.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s new AI website America.gov said Biden won 2020—then the White House made the chatbot stop answering",
-      "url": "https://fortune.com/2026/09/29/trumps-new-ai-website-america-gov-said-biden-won-2020then-the-white-house-made-the-chatbot-stop-answering/",
-      "published_at": "2026-09-29T20:34:23+00:00",
-      "summary": "America.gov contradicted Trump on the 2020 election, climate change and term limits—then stopped answering some political questions."
+      "title": "Ken Griffin doubles down on Miami with a record $3 billion gift to Carnegie Mellon—and plans for a campus in the city Citadel now calls home",
+      "url": "https://fortune.com/2026/09/30/ken-griffin-miami-carnegie-mellon-3-billion-campus-citadel-higher-education-philanthropy/",
+      "published_at": "2026-09-30T16:42:25+00:00",
+      "summary": "The Citadel founder, who moved his firm from Chicago to Miami in 2022, is bankrolling a Wynwood campus that will organize learning around societal challenges instead of majors."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-      "published_at": "2026-09-29T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tec"
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "published_at": "2026-09-30T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-      "published_at": "2026-09-29T11:00:00+00:00",
-      "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting c"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "published_at": "2026-09-29T10:43:45+00:00",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to"
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "published_at": "2026-09-30T10:40:30+00:00",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s"
     }
   ]
 }

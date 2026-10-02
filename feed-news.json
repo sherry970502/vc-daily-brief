@@ -1,159 +1,183 @@
 {
-  "updated_at": "2026-10-01T07:07:55.600004+00:00",
+  "updated_at": "2026-10-02T06:55:39.551834+00:00",
   "period_hours": 24,
-  "article_count": 19,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "published_at": "2026-09-30T23:43:07+00:00",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+      "title": "Robotaxi operators will face fines for blocking first responders",
+      "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+      "published_at": "2026-10-02T00:57:57+00:00",
+      "summary": "A new California law places new rules on autonomous vehicles operators"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-      "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-      "published_at": "2026-09-30T23:08:00+00:00",
-      "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology"
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published_at": "2026-10-02T00:03:23+00:00",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "published_at": "2026-09-30T21:07:40+00:00",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+      "published_at": "2026-10-01T21:57:08+00:00",
+      "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "published_at": "2026-09-30T20:39:09+00:00",
-      "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it."
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "published_at": "2026-10-01T21:55:22+00:00",
+      "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "published_at": "2026-09-30T20:20:02+00:00",
-      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant"
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "published_at": "2026-10-01T21:08:11+00:00",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "published_at": "2026-09-30T19:29:08+00:00",
-      "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach."
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "published_at": "2026-10-01T19:21:53+00:00",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "DoorDash’s drone strategy started on the ground",
-      "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
-      "published_at": "2026-09-30T19:22:13+00:00",
-      "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event."
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "published_at": "2026-10-01T19:18:03+00:00",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
-      "published_at": "2026-09-30T19:19:40+00:00",
-      "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing."
+      "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "published_at": "2026-10-01T18:35:55+00:00",
+      "summary": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-09-30T16:27:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+      "title": "Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly As Housing Market Stalls",
+      "url": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/",
+      "published_at": "2026-10-01T13:55:55+00:00",
+      "summary": "Homeward, a startup that helps homeowners buy before selling their existing homes or get cash offers for their properties, has raised a $120 million Series D round, Crunchbase News reports exclusively."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The IPO Window Is Opening Selectively; Readiness Will Decide Who Gets Through",
+      "url": "https://news.crunchbase.com/public/ipo-window-opening-readiness-required-williams-datasite/",
+      "published_at": "2026-10-01T11:00:42+00:00",
+      "summary": "The 2026 IPO market is reopening selectively, favoring large companies that spent the slowdown strengthening their financial reporting, governance and operations, writes guest author Mark Williams, chief revenue officer, enterprise, at Datasite, who explains why that readiness gives businesses optio"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Nuclear Startup Funding Is Up, But The Sector’s Public Markets Take A Bearish Turn",
+      "url": "https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/",
+      "published_at": "2026-10-01T11:00:20+00:00",
+      "summary": "So far in 2026, investors have poured more than $6 billion into companies focused on developing both fission and fusion nuclear energy technology and infrastructure, per Crunchbase data. That’s far ahead of any comparable period, including last year, the prior record-setter."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale’s, and shopping on Amazon, SEC alleges",
-      "url": "https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/",
-      "published_at": "2026-10-01T00:12:55+00:00",
-      "summary": "One fund manager allegedly paid his 4 a.m. strip club bill from fund capital after his card was declined."
+      "title": "Singapore is tapping a Nobel-winning formula to help its useless singles get dates",
+      "url": "https://fortune.com/2026/10/01/singapore-firstdate-government-workers-dating/",
+      "published_at": "2026-10-01T19:17:19+00:00",
+      "summary": "FirstDate offers one potential match at a time, testing whether fewer choices can help singles build a connection."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘This revolution is happening in years, not decades’: Verizon CEO Dan Schulman sees AGI within 18 months—and a century of progress in a decade",
-      "url": "https://fortune.com/2026/09/30/this-revolution-is-happening-in-years-not-decades-verizon-ceo-dan-schulman-sees-agi-within-18-months-and-a-century-of-progress-in-a-decade/",
-      "published_at": "2026-09-30T21:49:25+00:00",
-      "summary": "“I think you’ll see the collapse of the 21st century in the next five to 10 years,” Dan Schulman said at Ford Pro Accelerate."
+      "title": "‘Playing a dangerous game’: Putin threatens using ‘all its arsenal’ if there is a ‘direct attack on the Russian Federation’",
+      "url": "https://fortune.com/2026/10/01/putin-threatens-retaliation-direct-attack-russia/",
+      "published_at": "2026-10-02T00:18:34+00:00",
+      "summary": "In remarks at a foreign policy forum, Putin accused the West and Europe of escalating tensions ."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Ford CEO sees blue-collar workers using AI as a ‘companion’—but other jobs ‘are definitely going to be changed and eliminated’",
-      "url": "https://fortune.com/2026/09/30/ford-ceo-jim-farley-ai-impact-jobs-blue-collar-companion/",
-      "published_at": "2026-09-30T22:28:38+00:00",
-      "summary": "\"If you work in finance doing spreadsheets, or you’re in a call center, or you’re an entry-level programmer—those jobs are definitely going to be changed.\""
+      "title": "AI in regulated industries: BofA and S&P on the huge gains to be had, and the risks of rushing in",
+      "url": "https://fortune.com/2026/10/01/ai-regulated-industries-bank-of-america-sp-global/",
+      "published_at": "2026-10-01T23:36:06+00:00",
+      "summary": "At Fortune's AIQ Summit, BofA's Hari Gopalkrishnan said companies reach for AI too soon. S&#038;P Global's Sally Moore said the real question is reinvention."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Never waste a crisis’: Sweetgreen cofounder on stolen recipes, the cyclospora cyclone, and the company’s first-ever chef in residence",
-      "url": "https://fortune.com/2026/09/30/sweetgreen-cofounder-nic-jammet-sweetgreen-challenge-molly-baz-social-media/",
-      "published_at": "2026-09-30T20:42:32+00:00",
-      "summary": "Nic Jammet on a lettuce scare, growing up at New York’s La Caravelle, Molly Baz’s residency, and the Hoboken fan whose 25-day challenge went national."
+      "title": "Fortune 500 Chief People Officers say AI has killed org charts, and employees who will thrive need to ‘unlearn’",
+      "url": "https://fortune.com/2026/10/01/fortune-aiq-summit-executives-hpe-palo-alto-networks-lennar-workforce-org-charts/",
+      "published_at": "2026-10-01T22:08:35+00:00",
+      "summary": "At Fortune’s inaugural AIQ Summit, executives from Palo Alto Networks, HPE, and Lennar, discussed how AI is reshaping firms—and the workers within them."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘It’s crazy they invented it’: Nate Bargatze on the bright future of skilled trades, the urgency of live experience, and the coming of AI",
-      "url": "https://fortune.com/2026/09/30/nate-bargatze-ai-skilled-trades/",
-      "published_at": "2026-09-30T20:01:55+00:00",
-      "summary": "“Before, when you had to Google something, it was like, it’s just article after article. And you’re like, ‘I’m not going to read these articles, dude.’”"
+      "title": "Citigroup raises one-year Bitcoin forecast to $113,000",
+      "url": "https://fortune.com/2026/10/01/citigroup-one-year-bitcoin-forecast-113000/",
+      "published_at": "2026-10-01T18:02:27+00:00",
+      "summary": "A new report from the investment bank says renewed investor demand could lift crypto prices."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mike Rowe on America’s great tradesperson shortage: ‘I don’t care what your politics are. Math doesn’t care, either’",
-      "url": "https://fortune.com/2026/09/30/mike-rowe-purple-jobs-politics-shortage-skilled-trades/",
-      "published_at": "2026-09-30T18:16:35+00:00",
-      "summary": "At Ford Pro Accelerate, Rowe spoke alongside Education Secretary Linda McMahon and the Defense Department’s Mike Duffey about the divide between college and the trades."
+      "title": "Paramount promised 30 movies a year to win Warner Bros. Losing Miramax if it fails may not scare it",
+      "url": "https://fortune.com/2026/10/01/paramount-warner-brothers-miramax-merger-penalty/",
+      "published_at": "2026-10-01T17:54:56+00:00",
+      "summary": "A federal judge signed off on the deal Wednesday. The $30-million-per-film penalty matters far more than the Miramax ultimatum."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Vaping was supposed to get people off smoking. Now e-cig users are switching to cigarettes to try to quit",
-      "url": "https://fortune.com/2026/09/30/why-are-vape-users-switching-to-cigarettes-to-try-to-quit-smoking/",
-      "published_at": "2026-09-30T20:12:42+00:00",
-      "summary": "“This is not just a trivial misunderstanding. It’s misinformation to the point of significant harm.”"
+      "title": "Thieves stole an Nvidia-branded truck filled with just 20,000 pounds of sand—and it points to Big Tech’s $150 million AI hardware theft headache",
+      "url": "https://fortune.com/2026/10/01/nvidia-branded-truck-20000-pounds-sand-stolen-ai-cargo-theft-plusai/",
+      "published_at": "2026-10-01T17:03:00+00:00",
+      "summary": "While the thieves left the sand-filled trailer unscathed, other freighters have faced real threats from organized criminals in search of high-value data center equipment."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Ken Griffin doubles down on Miami with a record $3 billion gift to Carnegie Mellon—and plans for a campus in the city Citadel now calls home",
-      "url": "https://fortune.com/2026/09/30/ken-griffin-miami-carnegie-mellon-3-billion-campus-citadel-higher-education-philanthropy/",
-      "published_at": "2026-09-30T16:42:25+00:00",
-      "summary": "The Citadel founder, who moved his firm from Chicago to Miami in 2022, is bankrolling a Wynwood campus that will organize learning around societal challenges instead of majors."
+      "title": "SpaceX sends 4 astronauts to the International Space Station on a record-fast 8-hour trip",
+      "url": "https://fortune.com/2026/10/01/spacex-crew-13-fastest-iss-flight/",
+      "published_at": "2026-10-01T20:54:00+00:00",
+      "summary": "The Crew-13 astronauts will spend six months in orbit, with Jessica Watkins becoming the first Black woman to lead a crew there."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "published_at": "2026-09-30T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into"
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "published_at": "2026-10-01T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzin"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "published_at": "2026-09-30T10:40:30+00:00",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s"
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "published_at": "2026-10-01T10:32:24+00:00",
+      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of ea"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "published_at": "2026-10-01T10:00:00+00:00",
+      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small ba"
     }
   ]
 }

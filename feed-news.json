@@ -1,199 +1,127 @@
 {
-  "updated_at": "2026-10-03T06:19:43.700461+00:00",
+  "updated_at": "2026-10-04T06:44:19.458433+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 15,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "published_at": "2026-10-03T00:45:39+00:00",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "published_at": "2026-10-03T19:33:15+00:00",
+      "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sanders introduces bill to ban the federal government from using Flock",
-      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-      "published_at": "2026-10-03T00:21:57+00:00",
-      "summary": "The proposed legislation would extend to all automotica license plate readers."
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "published_at": "2026-10-03T18:43:57+00:00",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "published_at": "2026-10-02T21:09:14+00:00",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published_at": "2026-10-03T16:30:01+00:00",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "published_at": "2026-10-02T19:15:51+00:00",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "published_at": "2026-10-03T15:02:01+00:00",
+      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "published_at": "2026-10-02T18:11:27+00:00",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
+      "title": "Vessev built an electric ferry that almost flies",
+      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "published_at": "2026-10-03T14:42:00+00:00",
+      "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "published_at": "2026-10-02T17:48:16+00:00",
-      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executi"
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "2026-10-03T14:00:00+00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "published_at": "2026-10-02T17:32:05+00:00",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "published_at": "2026-10-02T17:00:00+00:00",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/",
-      "published_at": "2026-10-02T18:24:26+00:00",
-      "summary": "This week’s list of the largest U.S. startup funding rounds was pretty much all about AI. That includes the biggest financing — a $1 billion round for Instinct, a developer of AI assistants for everyday tasks — as well as most of the rest of the Top 10."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Your Investors Can Make Or Break Your Startup. Here’s Who Founders Actually Need On Their Cap Table",
-      "url": "https://news.crunchbase.com/venture/startups-choosing-right-investors-dean-black-operator/",
-      "published_at": "2026-10-02T11:00:37+00:00",
-      "summary": "For startup founders, the goal shouldn’t be assembling a cap table filled with whoever was willing to invest, but rather intentionally constructed around investors who bring different forms of value. Guest author Antonia Dean, a partner at Black Operator Ventures, shares three things founders should"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Nautical And Marine Startups See Stepped-Up Funding",
-      "url": "https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic/",
-      "published_at": "2026-10-02T11:00:13+00:00",
-      "summary": "Over the past year, venture backers have poured close to $3 billion into good-sized rounds for marine-related startups in sectors ranging from defense tech to clean energy, per Crunchbase data. Top areas for investment include autonomous sea vessels, water robots, electric watercraft, and ocean data"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Reporter’s Notebook: Europe’s Sovereign AI Push Needs Customers As Well As Capital",
-      "url": "https://news.crunchbase.com/ai/humanx-amsterdam-europe-sovereign-ai-user-push/",
-      "published_at": "2026-10-02T11:00:13+00:00",
-      "summary": "Crunchbase News Research Lead Gené Teare moderated panels and spoke with leaders building Europe and the Middle East’s AI ecosystems at HumanX in Amsterdam. Here we share a snippet of her conversation with Axelera AI CEO Fabrizio Del Maffeo and AI71 CPTO Mehdi Ghissassi."
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "published_at": "2026-10-03T14:00:00+00:00",
+      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mark Ruffalo says Paramount’s $111 billion Warner Bros. deal ‘Will stifle creativity, weaken free speech, and cost people their jobs’",
-      "url": "https://fortune.com/2026/10/02/mark-ruffalo-paramount-warner-deal-keep-fighting-comments/",
-      "published_at": "2026-10-02T23:34:00+00:00",
-      "summary": "A federal judge cleared the final legal hurdle for the megamerger on Wednesday. The deal is expected to close Oct. 6."
+      "title": "Mormon leader decries explosion of gambling and blasts prediction market wagers — ‘Or even, if you can imagine, the timing of the Second Coming’",
+      "url": "https://fortune.com/2026/10/03/mormon-leader-gambling-sports-betting-prediction-markets-utah-latter-day-saints/",
+      "published_at": "2026-10-03T22:33:24+00:00",
+      "summary": "“For us as Latter-day Saints, overarching all other concerns is the fact that gambling is morally wrong. Gambling is built on the desire to obtain something for nothing.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "ServiceNow unpacks the Fortune AIQ list, where the widest gap between AI leaders and laggards is training for humans",
-      "url": "https://fortune.com/2026/10/02/servicenow-aiq-data-pacesetters-diana-david/",
-      "published_at": "2026-10-02T18:39:07+00:00",
-      "summary": "“Pacesetters” are far likelier to hire and train people. “It’s not just technology,” says ServiceNow’s Diana David, a “forward-deployed futurist.”"
+      "title": "Trump teases more inflationary money for voters ahead of midterm elections, now promising $90 payments after touting $500 and $5,000 checks",
+      "url": "https://fortune.com/2026/10/03/trump-inflation-money-voters-midterm-elections-now-90-medicare-payments-500-obamacare-rebate-5000-check/",
+      "published_at": "2026-10-03T22:13:23+00:00",
+      "summary": "That pledge — which would require approval from Congress — would likely cost more than $1 trillion, adding to the deficit."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Top futurist Amy Webb sees Fortune 500 firms suffering from ‘learned helplessness’ with AI, like taxi drivers who need Google Maps",
-      "url": "https://fortune.com/2026/10/02/amy-webb-fortune-500-late-to-the-party-ai-taxi-maps/",
-      "published_at": "2026-10-02T17:03:16+00:00",
-      "summary": "“Let’s be fair, Fortune 500 companies are pretty late to the party on this,” said Webb, founder and CEO of the Future Today Strategy Group."
+      "title": "Iran’s currency is getting obliterated as the regime is about to run out of oil to sell and can’t even get its money from customers",
+      "url": "https://fortune.com/2026/10/03/iran-currency-rial-dollar-record-low-blockade-oil-revenue-payments/",
+      "published_at": "2026-10-03T21:40:00+00:00",
+      "summary": "\"We can't even get our own money out of a country to which we've supplied goods, let alone using those funds to pay someone else in another corner of the world.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘We can’t trust them completely’: AI research fellows warn that labs are running models with the safeguards off behind closed doors",
-      "url": "https://fortune.com/2026/10/02/we-cant-trust-them-completely-labs-safeguards/",
-      "published_at": "2026-10-02T22:05:44+00:00",
-      "summary": "Alan Chan and Sam Manning, co-authors with OpenAI's and Anthropic's top researchers, say that many times, \"internal safeguards have not been deployed.\""
+      "title": "Zohran Mamdani says ‘you have to luck out in some big way’ to achieve the American Dream now—and many people see better odds of winning the lottery",
+      "url": "https://fortune.com/2026/10/03/zohran-mamdani-luck-american-dream-lottery-affordability-crisis-housing/",
+      "published_at": "2026-10-03T19:02:52+00:00",
+      "summary": "\"People think that they have better odds playing the lottery than making it in their own life. What does that say about the country that we live in?\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Top ServiceNow exec on clients delivering ‘life-changing’ results with AI agents—and he’s seeing it now at Standard Chartered",
-      "url": "https://fortune.com/2026/10/02/servicenow-exec-paul-fipps-life-game-changing-trust-ai-agents/",
-      "published_at": "2026-10-02T17:03:16+00:00",
-      "summary": "Paul Fipps, ServiceNow president of global customer operations, told the Fortune AIQ Summit some clients “can’t rely on humans” to keep AI agents in check."
+      "title": "Tony Elumelu: Africa’s young entrepreneurs have great ideas. What they need is capital and business support",
+      "url": "https://fortune.com/2026/10/03/africa-entrepreneurs-early-stage-capital-jobs/",
+      "published_at": "2026-10-03T09:00:00+00:00",
+      "summary": "According to the World Bank, 10 to 12 million young Africans enter the labor market each year, but only about 3 million formal jobs are created."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "France debt crisis: Bond investors have rendered a ‘guilty’ verdict and are pricing in growing odds of a sovereign default, analyst says",
-      "url": "https://fortune.com/2026/10/02/france-debt-crisis-bond-investors-odds-sovereign-default-cds-yield-spread-deficit-presidential-race/",
-      "published_at": "2026-10-02T16:31:19+00:00",
-      "summary": "The cost of insurance against a French default is now the highest among the major EU countries and the U.K."
+      "title": "‘Really wealthy Americans will be embarrassed’ not to have an Argentine passport, program designer predicts",
+      "url": "https://fortune.com/2026/10/03/argentina-golden-passport-wealth-americans-embarrassed-not-to-have-it/",
+      "published_at": "2026-10-03T16:32:21+00:00",
+      "summary": "Nuri Katz helped create the citizenship-by-investment program, but he sees it as the first to combine a safe haven with a huge business opportunity."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The ‘golden passport’: Argentina to offer citizenship for foreigners that make a $350,000 contribution to its treasury—or invest $800,000 in its bonds",
-      "url": "https://fortune.com/2026/10/02/golden-passport-argentina-foreigners-350000-treasury-800000/",
-      "published_at": "2026-10-02T20:56:37+00:00",
-      "summary": "Economy Minister Luis Caputo unveiled the so-called “golden passport” scheme at an investor event in Paris, saying applications are expected to open before the end of the year."
+      "title": "U.S. debt is increasingly at the mercy of the market as interest costs surge while elections add more risk to the debt ceiling, ratings agency warns",
+      "url": "https://fortune.com/2026/10/03/us-debt-mercy-bond-market-interest-costs-treasury-yields-midterm-election-debt-ceiling/",
+      "published_at": "2026-10-03T17:15:47+00:00",
+      "summary": "\"This trajectory points to an unsustainable medium-term fiscal path and leaves the sovereign increasingly exposed to shifts in market sentiment and financing conditions.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘He sold his anti-communism to communists’: Former GOP Rep. David Rivera gets 10 years in prison for $50 million lobbying ‘from the Maduro regime’",
-      "url": "https://fortune.com/2026/10/02/former-gop-rep-david-rivera-10-years-prison-50-million-maduro/",
-      "published_at": "2026-10-02T20:49:39+00:00",
-      "summary": "David Rivera of Miami has been jailed since his conviction in May for conspiracy to commit money laundering and failing to register as a foreign agent for the government of Nicolás Maduro."
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "published_at": "2026-10-02T15:49:04+00:00",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "published_at": "2026-10-02T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual com"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "published_at": "2026-10-02T09:00:00+00:00",
-      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "published_at": "2026-10-02T08:00:00+00:00",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;"
+      "title": "FlyDubai co-pilot used cockpit’s crash axe to try seizing control of flight and was barred from flying by Oman due to concerns over extremist views",
+      "url": "https://fortune.com/2026/10/03/flydubai-copilot-cockpit-crash-axe-israel-flight-oman-extremist-views/",
+      "published_at": "2026-10-03T15:02:47+00:00",
+      "summary": "The co-pilot has been identified as Hamam al-Hammami."
     }
   ]
 }

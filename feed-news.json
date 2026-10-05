@@ -1,127 +1,111 @@
 {
-  "updated_at": "2026-10-04T06:44:19.458433+00:00",
+  "updated_at": "2026-10-05T06:49:12.415251+00:00",
   "period_hours": 24,
-  "article_count": 15,
+  "article_count": 13,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "published_at": "2026-10-03T19:33:15+00:00",
-      "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant."
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published_at": "2026-10-04T20:31:07+00:00",
+      "summary": "AI slop seems to be overwhelming bug bounty programs."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "published_at": "2026-10-03T18:43:57+00:00",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "published_at": "2026-10-04T20:08:34+00:00",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "published_at": "2026-10-03T16:30:01+00:00",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "published_at": "2026-10-04T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "published_at": "2026-10-03T15:02:01+00:00",
-      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Vessev built an electric ferry that almost flies",
-      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-      "published_at": "2026-10-03T14:42:00+00:00",
-      "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "published_at": "2026-10-03T14:00:00+00:00",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "published_at": "2026-10-03T14:00:00+00:00",
-      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it."
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "published_at": "2026-10-04T15:15:10+00:00",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mormon leader decries explosion of gambling and blasts prediction market wagers — ‘Or even, if you can imagine, the timing of the Second Coming’",
-      "url": "https://fortune.com/2026/10/03/mormon-leader-gambling-sports-betting-prediction-markets-utah-latter-day-saints/",
-      "published_at": "2026-10-03T22:33:24+00:00",
-      "summary": "“For us as Latter-day Saints, overarching all other concerns is the fact that gambling is morally wrong. Gambling is built on the desire to obtain something for nothing.”"
+      "title": "Air Force removes all bombers from British base and redeploys them to the U.S. after a planned terror attack linked to Iran was foiled",
+      "url": "https://fortune.com/2026/10/04/air-force-all-bombers-british-base-raf-fairford-us-redeployment-terror-attack-iran/",
+      "published_at": "2026-10-04T23:19:35+00:00",
+      "summary": "RAF Fairford, located 100 miles (160 kilometers) west of London, has been used by American bombers during decades of conflicts in the Middle East."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump teases more inflationary money for voters ahead of midterm elections, now promising $90 payments after touting $500 and $5,000 checks",
-      "url": "https://fortune.com/2026/10/03/trump-inflation-money-voters-midterm-elections-now-90-medicare-payments-500-obamacare-rebate-5000-check/",
-      "published_at": "2026-10-03T22:13:23+00:00",
-      "summary": "That pledge — which would require approval from Congress — would likely cost more than $1 trillion, adding to the deficit."
+      "title": "Japan’s population is shrinking at an accelerating rate, but the nationalist prime minister is making it harder for foreigners to live there",
+      "url": "https://fortune.com/2026/10/04/japan-population-decline-rate-2025-census-prime-minister-sanae-takaichi-foreigners-permanent-residency-immigration/",
+      "published_at": "2026-10-04T23:02:54+00:00",
+      "summary": "The latest five-year census showed the number of Japanese nationals declined by 3.5% to 119.1 million in 2025, following a 1.4% drop in the 2020 count."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran’s currency is getting obliterated as the regime is about to run out of oil to sell and can’t even get its money from customers",
-      "url": "https://fortune.com/2026/10/03/iran-currency-rial-dollar-record-low-blockade-oil-revenue-payments/",
-      "published_at": "2026-10-03T21:40:00+00:00",
-      "summary": "\"We can't even get our own money out of a country to which we've supplied goods, let alone using those funds to pay someone else in another corner of the world.\""
+      "title": "Tom Cruise suffers one of the worst movie debuts of his career. Reviews were so bad Warner Bros. ran ‘decide for yourself’ ads",
+      "url": "https://fortune.com/2026/10/04/tom-cruise-worst-movie-debuts-career-digger-opening-box-office/",
+      "published_at": "2026-10-04T21:02:21+00:00",
+      "summary": "Alejandro G. Iñárritu’s critically panned satire grossed a paltry $8 million domestically."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Zohran Mamdani says ‘you have to luck out in some big way’ to achieve the American Dream now—and many people see better odds of winning the lottery",
-      "url": "https://fortune.com/2026/10/03/zohran-mamdani-luck-american-dream-lottery-affordability-crisis-housing/",
-      "published_at": "2026-10-03T19:02:52+00:00",
-      "summary": "\"People think that they have better odds playing the lottery than making it in their own life. What does that say about the country that we live in?\""
+      "title": "Court tosses 10-year manslaughter sentence due to an AI-generated video of the victim ‘created from the imaginings’ of his sister",
+      "url": "https://fortune.com/2026/10/04/arizona-court-manslaughter-sentence-ai-generated-video-victim-judge-imaginings-sister/",
+      "published_at": "2026-10-04T20:51:36+00:00",
+      "summary": "In what’s believed to be a first in U.S. courts, Pelkey’s family used AI to create a video of his likeness to give him a voice."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tony Elumelu: Africa’s young entrepreneurs have great ideas. What they need is capital and business support",
-      "url": "https://fortune.com/2026/10/03/africa-entrepreneurs-early-stage-capital-jobs/",
-      "published_at": "2026-10-03T09:00:00+00:00",
-      "summary": "According to the World Bank, 10 to 12 million young Africans enter the labor market each year, but only about 3 million formal jobs are created."
+      "title": "Persian Gulf oil flows return to prewar levels, but Iran could resort to a ‘scorched earth campaign’ as U.S. deploys more ships and Marines to Mideast",
+      "url": "https://fortune.com/2026/10/04/persian-gulf-oil-flows-prewar-levels-iran-scorched-earth-campaign-us-aircraft-carrier-marines/",
+      "published_at": "2026-10-04T20:03:10+00:00",
+      "summary": "\"That is what everyone who actually follows this region and its dynamics is worried about.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Really wealthy Americans will be embarrassed’ not to have an Argentine passport, program designer predicts",
-      "url": "https://fortune.com/2026/10/03/argentina-golden-passport-wealth-americans-embarrassed-not-to-have-it/",
-      "published_at": "2026-10-03T16:32:21+00:00",
-      "summary": "Nuri Katz helped create the citizenship-by-investment program, but he sees it as the first to combine a safe haven with a huge business opportunity."
+      "title": "‘Avengers: Endgame’ is the biggest movie ever again, 7 years later—and it says a lot about the future of Hollywood’s IP machine",
+      "url": "https://fortune.com/2026/10/04/avengers-endgame-encore-biggest-movie-ever-hollywood-ip-machine/",
+      "published_at": "2026-10-04T18:45:34+00:00",
+      "summary": "Disney’s 7-year-old ‘Avengers: Endgame’ just grossed $126 million in a rerelease and retook the box office crown from ‘Avatar’."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "U.S. debt is increasingly at the mercy of the market as interest costs surge while elections add more risk to the debt ceiling, ratings agency warns",
-      "url": "https://fortune.com/2026/10/03/us-debt-mercy-bond-market-interest-costs-treasury-yields-midterm-election-debt-ceiling/",
-      "published_at": "2026-10-03T17:15:47+00:00",
-      "summary": "\"This trajectory points to an unsustainable medium-term fiscal path and leaves the sovereign increasingly exposed to shifts in market sentiment and financing conditions.\""
+      "title": "Trump’s Ohio rally gets quiet after he defends data centers — a toxic political issue with bipartisan opposition. ‘You can’t just turn them off’",
+      "url": "https://fortune.com/2026/10/04/trumps-ohio-rally-gets-quiet-after-he-defends-data-centers-a-toxic-political-issue-with-bipartisan-opposition-you-cant-just-turn-them-off/",
+      "published_at": "2026-10-04T18:17:52+00:00",
+      "summary": "President Donald Trump on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep its majorities in Congress despite steep political headwinds. Trump took sev"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "FlyDubai co-pilot used cockpit’s crash axe to try seizing control of flight and was barred from flying by Oman due to concerns over extremist views",
-      "url": "https://fortune.com/2026/10/03/flydubai-copilot-cockpit-crash-axe-israel-flight-oman-extremist-views/",
-      "published_at": "2026-10-03T15:02:47+00:00",
-      "summary": "The co-pilot has been identified as Hamam al-Hammami."
+      "title": "Even ‘Bond King’ Bill Gross warns ‘don’t own bonds’ as long-term debt enters a new ear of volatility",
+      "url": "https://fortune.com/2026/10/04/bond-king-bill-gross-long-term-debt-volatility-treasury-yields/",
+      "published_at": "2026-10-04T17:34:23+00:00",
+      "summary": "\"Be prepared for the end of 'what you are used to' stock markets and higher volatility in prices for the benchmark 10-year Treasury bonds.\""
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo"
     }
   ]
 }

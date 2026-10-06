@@ -1,111 +1,175 @@
 {
-  "updated_at": "2026-10-05T06:49:12.415251+00:00",
+  "updated_at": "2026-10-06T07:27:30.470062+00:00",
   "period_hours": 24,
-  "article_count": 13,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "published_at": "2026-10-04T20:31:07+00:00",
-      "summary": "AI slop seems to be overwhelming bug bounty programs."
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "published_at": "2026-10-05T21:54:01+00:00",
+      "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "published_at": "2026-10-04T20:08:34+00:00",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "published_at": "2026-10-05T20:36:48+00:00",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "published_at": "2026-10-04T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "published_at": "2026-10-05T20:24:09+00:00",
+      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "published_at": "2026-10-04T15:15:10+00:00",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety."
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "published_at": "2026-10-05T19:38:07+00:00",
+      "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "published_at": "2026-10-05T19:33:53+00:00",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "published_at": "2026-10-05T18:54:30+00:00",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "published_at": "2026-10-05T18:29:00+00:00",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "published_at": "2026-10-05T18:07:07+00:00",
+      "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
+      "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/",
+      "published_at": "2026-10-05T11:00:13+00:00",
+      "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022. We take a look at where the funding went."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Air Force removes all bombers from British base and redeploys them to the U.S. after a planned terror attack linked to Iran was foiled",
-      "url": "https://fortune.com/2026/10/04/air-force-all-bombers-british-base-raf-fairford-us-redeployment-terror-attack-iran/",
-      "published_at": "2026-10-04T23:19:35+00:00",
-      "summary": "RAF Fairford, located 100 miles (160 kilometers) west of London, has been used by American bombers during decades of conflicts in the Middle East."
+      "title": "Wealthy boomers doubt their heirs will keep giving as $124 trillion changes hands, BofA finds. The data shows a different reality",
+      "url": "https://fortune.com/2026/10/06/wealthy-baby-boomers-losing-faith-in-heirs-philanthropic-giving-gen-z-millennials-bank-of-america-research/",
+      "published_at": "2026-10-06T07:03:00+00:00",
+      "summary": "Younger donors give to more causes than their parents—but only 47% of the wealthy think they're ready."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Japan’s population is shrinking at an accelerating rate, but the nationalist prime minister is making it harder for foreigners to live there",
-      "url": "https://fortune.com/2026/10/04/japan-population-decline-rate-2025-census-prime-minister-sanae-takaichi-foreigners-permanent-residency-immigration/",
-      "published_at": "2026-10-04T23:02:54+00:00",
-      "summary": "The latest five-year census showed the number of Japanese nationals declined by 3.5% to 119.1 million in 2025, following a 1.4% drop in the 2020 count."
+      "title": "Why Oura really pulled its IPO: Wall Street experts suspect valuation concerns, an insider cash-out, and an Apple-sized threat",
+      "url": "https://fortune.com/2026/10/06/why-did-oura-pull-its-ipo/",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "summary": "Oura blamed market \"uncertainty,\" but maybe investors just didn’t buy the story."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tom Cruise suffers one of the worst movie debuts of his career. Reviews were so bad Warner Bros. ran ‘decide for yourself’ ads",
-      "url": "https://fortune.com/2026/10/04/tom-cruise-worst-movie-debuts-career-digger-opening-box-office/",
-      "published_at": "2026-10-04T21:02:21+00:00",
-      "summary": "Alejandro G. Iñárritu’s critically panned satire grossed a paltry $8 million domestically."
+      "title": "Redfin signals a shift in power to buyers as a record share of sellers cut prices for this time of year—but 7% mortgage rates are a problem",
+      "url": "https://fortune.com/2026/10/06/redfin-power-shift-buyers-housing-market-price-cuts-listings-mortgage-rates/",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "summary": "Home price cuts just hit a September record. But with mortgage rates above 7%, it's a buyer's market only for some"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Court tosses 10-year manslaughter sentence due to an AI-generated video of the victim ‘created from the imaginings’ of his sister",
-      "url": "https://fortune.com/2026/10/04/arizona-court-manslaughter-sentence-ai-generated-video-victim-judge-imaginings-sister/",
-      "published_at": "2026-10-04T20:51:36+00:00",
-      "summary": "In what’s believed to be a first in U.S. courts, Pelkey’s family used AI to create a video of his likeness to give him a voice."
+      "title": "Inside Europe’s biggest companies—and the forces reshaping them",
+      "url": "https://fortune.com/2026/10/06/fortune-500-europe-2026-biggest-companies-record-revenue-profits-uk-overtakes-germany/",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "summary": "As the combined revenues of Europe’s largest companies hit a record high, the continent’s CEOs must navigate a new business landscape shaped by AI, geopolitics, climate change, and intensifying global competition."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Persian Gulf oil flows return to prewar levels, but Iran could resort to a ‘scorched earth campaign’ as U.S. deploys more ships and Marines to Mideast",
-      "url": "https://fortune.com/2026/10/04/persian-gulf-oil-flows-prewar-levels-iran-scorched-earth-campaign-us-aircraft-carrier-marines/",
-      "published_at": "2026-10-04T20:03:10+00:00",
-      "summary": "\"That is what everyone who actually follows this region and its dynamics is worried about.\""
+      "title": "Despite fears AI will kill jobs, 72% of bosses say they’ll actually pay more for AI skills—with some roles offering a $100,000 premium",
+      "url": "https://fortune.com/2026/10/05/workers-fear-ai-kill-jobs-instead-could-boost-paychecks-72-employers-pay-more-for-ai-skills/",
+      "published_at": "2026-10-05T14:58:52+00:00",
+      "summary": "According to Robert Half, 72% of bosses will boost pay for recruits with AI skills, and job-seekers in Silicon Valley have the best odds of earning more."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Avengers: Endgame’ is the biggest movie ever again, 7 years later—and it says a lot about the future of Hollywood’s IP machine",
-      "url": "https://fortune.com/2026/10/04/avengers-endgame-encore-biggest-movie-ever-hollywood-ip-machine/",
-      "published_at": "2026-10-04T18:45:34+00:00",
-      "summary": "Disney’s 7-year-old ‘Avengers: Endgame’ just grossed $126 million in a rerelease and retook the box office crown from ‘Avatar’."
+      "title": "OKX debuts a platform that turns 50 currencies into digital dollars, betting emerging market investors want stablecoins",
+      "url": "https://fortune.com/2026/10/05/okx-money-us-dollar-stablecoins-launch/",
+      "published_at": "2026-10-06T03:40:00+00:00",
+      "summary": "\"The key gap for people and institutions is settlement,\" Haider Rafique, OKX's global managing partner, tells Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump’s Ohio rally gets quiet after he defends data centers — a toxic political issue with bipartisan opposition. ‘You can’t just turn them off’",
-      "url": "https://fortune.com/2026/10/04/trumps-ohio-rally-gets-quiet-after-he-defends-data-centers-a-toxic-political-issue-with-bipartisan-opposition-you-cant-just-turn-them-off/",
-      "published_at": "2026-10-04T18:17:52+00:00",
-      "summary": "President Donald Trump on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep its majorities in Congress despite steep political headwinds. Trump took sev"
+      "title": "Exclusive: OpenAI is piloting a ‘mission interview’ for job candidates",
+      "url": "https://fortune.com/2026/10/05/openai-piloting-mission-interview-for-job-candidates/",
+      "published_at": "2026-10-06T00:58:19+00:00",
+      "summary": "The idea is to test how candidates think, and how they'll contribute to the company's goal to 'to ensure that artificial general intelligence (AGI) benefits all of humanity.'"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Even ‘Bond King’ Bill Gross warns ‘don’t own bonds’ as long-term debt enters a new ear of volatility",
-      "url": "https://fortune.com/2026/10/04/bond-king-bill-gross-long-term-debt-volatility-treasury-yields/",
-      "published_at": "2026-10-04T17:34:23+00:00",
-      "summary": "\"Be prepared for the end of 'what you are used to' stock markets and higher volatility in prices for the benchmark 10-year Treasury bonds.\""
+      "title": "Nvidia backs startup Reactor as buzz grows for world models",
+      "url": "https://fortune.com/2026/10/05/nvidia-backs-startup-reactor-buzz-grows-world-models/",
+      "published_at": "2026-10-06T00:42:01+00:00",
+      "summary": "As world models find new uses in robot training and control, Reactor aims to supply the computing power and software needed to run them."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "published_at": "2026-10-05T04:00:00+00:00",
-      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo"
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "published_at": "2026-10-05T15:47:52+00:00",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "published_at": "2026-10-05T13:29:32+00:00",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "published_at": "2026-10-05T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an L"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "published_at": "2026-10-05T08:00:00+00:00",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230"
     }
   ]
 }

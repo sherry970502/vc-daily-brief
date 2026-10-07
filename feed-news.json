@@ -1,175 +1,199 @@
 {
-  "updated_at": "2026-10-06T07:27:30.470062+00:00",
+  "updated_at": "2026-10-07T07:06:33.786120+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 24,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-      "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-      "published_at": "2026-10-05T21:54:01+00:00",
-      "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs."
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "published_at": "2026-10-05T20:36:48+00:00",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
+      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "published_at": "2026-10-06T22:55:39+00:00",
+      "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "published_at": "2026-10-05T20:24:09+00:00",
-      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch."
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "published_at": "2026-10-06T22:53:09+00:00",
+      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-      "published_at": "2026-10-05T19:38:07+00:00",
-      "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post."
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "published_at": "2026-10-06T22:34:03+00:00",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "published_at": "2026-10-05T19:33:53+00:00",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "published_at": "2026-10-06T20:47:01+00:00",
+      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "published_at": "2026-10-05T18:54:30+00:00",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action."
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "published_at": "2026-10-06T20:35:20+00:00",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "published_at": "2026-10-05T18:29:00+00:00",
-      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "published_at": "2026-10-06T20:00:30+00:00",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "published_at": "2026-10-05T18:07:07+00:00",
-      "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf."
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "published_at": "2026-10-06T19:56:50+00:00",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
-      "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/",
-      "published_at": "2026-10-05T11:00:13+00:00",
-      "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022. We take a look at where the funding went."
+      "title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers",
+      "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+      "published_at": "2026-10-06T11:00:47+00:00",
+      "summary": "Some of the AI industry’s fastest-growing startups are becoming serial acquirers, buying smaller companies to fill product gaps, enter new markets and bring specialized teams in-house, a review of Crunchbase data shows. While AI giant OpenAI is by far the busiest of these buyers, well-funded startup"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Wealthy boomers doubt their heirs will keep giving as $124 trillion changes hands, BofA finds. The data shows a different reality",
-      "url": "https://fortune.com/2026/10/06/wealthy-baby-boomers-losing-faith-in-heirs-philanthropic-giving-gen-z-millennials-bank-of-america-research/",
-      "published_at": "2026-10-06T07:03:00+00:00",
-      "summary": "Younger donors give to more causes than their parents—but only 47% of the wealthy think they're ready."
+      "title": "‘AI Snake Oil’ author sees chatbots evolving into a ‘truth oracle’—and journalism heading somewhere it hasn’t been in 200 years",
+      "url": "https://fortune.com/2026/10/06/arvind-narayanan-journalism-future-ai-slop-oracle-source-truth/",
+      "published_at": "2026-10-06T17:25:23+00:00",
+      "summary": "Princeton’s Arvind Narayanan asked the Computation + Journalism conference to prepare for AI “not as it is today, but as it will be” in five to 10 years."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why Oura really pulled its IPO: Wall Street experts suspect valuation concerns, an insider cash-out, and an Apple-sized threat",
-      "url": "https://fortune.com/2026/10/06/why-did-oura-pull-its-ipo/",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "summary": "Oura blamed market \"uncertainty,\" but maybe investors just didn’t buy the story."
+      "title": "Former CIA official with Top Secret clearance admits to $194 million fraud, including 298 gold bars and four luxury South Florida properties",
+      "url": "https://fortune.com/2026/10/06/cia-official-top-secret-clearance-gold-bars-194-million-fraud/",
+      "published_at": "2026-10-07T00:28:13+00:00",
+      "summary": "Rush will give up 298 gold bars, Palm Beach and Jupiter Island real estate, 35 watches, two BMW Alpinas and about $40 million in cash."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Redfin signals a shift in power to buyers as a record share of sellers cut prices for this time of year—but 7% mortgage rates are a problem",
-      "url": "https://fortune.com/2026/10/06/redfin-power-shift-buyers-housing-market-price-cuts-listings-mortgage-rates/",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "summary": "Home price cuts just hit a September record. But with mortgage rates above 7%, it's a buyer's market only for some"
+      "title": "He manages one of the most successful soccer clubs in the world and is the elite leader every CEO wants to talk to. So why has Mikel Arteta decided to go public on having his own DNA mapped?",
+      "url": "https://fortune.com/2026/10/06/manages-one-of-most-successful-soccer-clubs-world-arsenal-mikel-arteta-dna-mapped/",
+      "published_at": "2026-10-06T23:02:00+00:00",
+      "summary": "The Arsenal boss explains why prioritizing your health is the foundation of good leadership and whether the skills that drive success in the sporting arena can translate to the corporate world."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Inside Europe’s biggest companies—and the forces reshaping them",
-      "url": "https://fortune.com/2026/10/06/fortune-500-europe-2026-biggest-companies-record-revenue-profits-uk-overtakes-germany/",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "summary": "As the combined revenues of Europe’s largest companies hit a record high, the continent’s CEOs must navigate a new business landscape shaped by AI, geopolitics, climate change, and intensifying global competition."
+      "title": "A $443 million memecoin frenzy dissolves into nothing—Robinhood and Circle are latest to taste the memecoin boom-and-bust cycle",
+      "url": "https://fortune.com/2026/10/06/443-million-memecoin-frenzy-robinhood-circle-latest-memecoin-boom-bust/",
+      "published_at": "2026-10-06T13:00:00+00:00",
+      "summary": "Robinhood Chain saw a brief surge in memecoin trading before volumes dropped 96%."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Despite fears AI will kill jobs, 72% of bosses say they’ll actually pay more for AI skills—with some roles offering a $100,000 premium",
-      "url": "https://fortune.com/2026/10/05/workers-fear-ai-kill-jobs-instead-could-boost-paychecks-72-employers-pay-more-for-ai-skills/",
-      "published_at": "2026-10-05T14:58:52+00:00",
-      "summary": "According to Robert Half, 72% of bosses will boost pay for recruits with AI skills, and job-seekers in Silicon Valley have the best odds of earning more."
+      "title": "OpenAI’s human rights lead: What the military could do with AI ‘keeps me up at night’",
+      "url": "https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/",
+      "published_at": "2026-10-06T20:43:09+00:00",
+      "summary": "Sarah Yager joined OpenAI recently, and though she was initially skeptical that her position was merely a PR stunt, she says she's had some early success influencing the safety of the technology."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OKX debuts a platform that turns 50 currencies into digital dollars, betting emerging market investors want stablecoins",
-      "url": "https://fortune.com/2026/10/05/okx-money-us-dollar-stablecoins-launch/",
-      "published_at": "2026-10-06T03:40:00+00:00",
-      "summary": "\"The key gap for people and institutions is settlement,\" Haider Rafique, OKX's global managing partner, tells Fortune."
+      "title": "As AI reshapes the consumer journey, L’Oréal is rethinking its marketing engine",
+      "url": "https://fortune.com/2026/10/06/as-ai-reshapes-the-consumer-journey-loreal-is-rethinking-its-marketing-engine/",
+      "published_at": "2026-10-06T15:14:43+00:00",
+      "summary": "Underneath the ads, TikTok campaigns, and virtual try-ons lies an increasingly complex infrastructure of data, technology, and AI. To succeed today, marketers need to understand the “pipes and plumbing,” says L’Oréal’s Asmita Dubey."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: OpenAI is piloting a ‘mission interview’ for job candidates",
-      "url": "https://fortune.com/2026/10/05/openai-piloting-mission-interview-for-job-candidates/",
-      "published_at": "2026-10-06T00:58:19+00:00",
-      "summary": "The idea is to test how candidates think, and how they'll contribute to the company's goal to 'to ensure that artificial general intelligence (AGI) benefits all of humanity.'"
-    },
-    {
-      "source": "Fortune",
-      "lang": "en",
-      "title": "Nvidia backs startup Reactor as buzz grows for world models",
-      "url": "https://fortune.com/2026/10/05/nvidia-backs-startup-reactor-buzz-grows-world-models/",
-      "published_at": "2026-10-06T00:42:01+00:00",
-      "summary": "As world models find new uses in robot training and control, Reactor aims to supply the computing power and software needed to run them."
+      "title": "Gen Z’s new American Dream: Skip the mortgage, book the flight",
+      "url": "https://fortune.com/2026/10/06/gen-z-new-american-dream-skip-the-mortgage-book-the-flight/",
+      "published_at": "2026-10-06T15:28:32+00:00",
+      "summary": "Young Americans are trading square footage, new cars, and even moving out for plane tickets, even as airfares jump more than 20%."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "published_at": "2026-10-05T15:47:52+00:00",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re"
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "published_at": "2026-10-06T16:40:36+00:00",
+      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looki"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "published_at": "2026-10-05T13:29:32+00:00",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr"
+      "title": "The Download: 10 climate tech companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "published_at": "2026-10-06T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. Th"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-      "published_at": "2026-10-05T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an L"
+      "title": "2026 Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "summary": ""
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "published_at": "2026-10-05T08:00:00+00:00",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230"
+      "title": "Here’s how our climate team picked 10 promising companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever reco"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "WeLion New Energy and its semi-solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods a"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Form Energy and its iron batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output var"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "X-energy and its helium-cooled nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Energy Dome and its carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; As the world races to meet growing electricity demand, solar"
     }
   ]
 }

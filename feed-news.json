@@ -1,199 +1,167 @@
 {
-  "updated_at": "2026-10-07T07:06:33.786120+00:00",
+  "updated_at": "2026-10-08T07:14:38.568453+00:00",
   "period_hours": 24,
-  "article_count": 24,
+  "article_count": 20,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Spotify expands audiobooks to over 180 markets",
-      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion"
+      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "published_at": "2026-10-08T06:14:11+00:00",
+      "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-      "published_at": "2026-10-06T22:55:39+00:00",
-      "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads."
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "published_at": "2026-10-07T23:36:57+00:00",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "published_at": "2026-10-06T22:53:09+00:00",
-      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "published_at": "2026-10-07T22:59:16+00:00",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "published_at": "2026-10-06T22:34:03+00:00",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "published_at": "2026-10-07T20:48:45+00:00",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-      "published_at": "2026-10-06T20:47:01+00:00",
-      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks."
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "published_at": "2026-10-07T20:22:37+00:00",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "published_at": "2026-10-06T20:35:20+00:00",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "published_at": "2026-10-07T18:30:57+00:00",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "published_at": "2026-10-06T20:00:30+00:00",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "published_at": "2026-10-07T18:15:28+00:00",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "published_at": "2026-10-06T19:56:50+00:00",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
+      "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+      "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+      "published_at": "2026-10-07T18:10:00+00:00",
+      "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers",
-      "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
-      "published_at": "2026-10-06T11:00:47+00:00",
-      "summary": "Some of the AI industry’s fastest-growing startups are becoming serial acquirers, buying smaller companies to fill product gaps, enter new markets and bring specialized teams in-house, a review of Crunchbase data shows. While AI giant OpenAI is by far the busiest of these buyers, well-funded startup"
+      "title": "From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup",
+      "url": "https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/",
+      "published_at": "2026-10-07T13:00:37+00:00",
+      "summary": "The latest in our series of articles on venture funding to non-tech founders features a former magician's assistant and ballet dancer who's building cybersecurity software with $4.2 million in seed funding."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "There Was Never An Easy AI Era, And Investors Are Raising The Bar",
+      "url": "https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/",
+      "published_at": "2026-10-07T11:00:58+00:00",
+      "summary": "As AI IPOs bring greater scrutiny, argues guest author Maor Farid, founder and CEO of Leo AI, investors will increasingly prioritize customer spending growth, sustainable margins and deployment efficiency over rapid revenue growth alone."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets",
+      "url": "https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/",
+      "published_at": "2026-10-07T11:00:05+00:00",
+      "summary": "In total, investors poured $92 billion into seed- through growth-stage rounds for U.S. and Canadian startups in the third quarter, per Crunchbase data. That’s a 35% decline from the prior quarter but up 50% from year-ago levels."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘AI Snake Oil’ author sees chatbots evolving into a ‘truth oracle’—and journalism heading somewhere it hasn’t been in 200 years",
-      "url": "https://fortune.com/2026/10/06/arvind-narayanan-journalism-future-ai-slop-oracle-source-truth/",
-      "published_at": "2026-10-06T17:25:23+00:00",
-      "summary": "Princeton’s Arvind Narayanan asked the Computation + Journalism conference to prepare for AI “not as it is today, but as it will be” in five to 10 years."
+      "title": "‘Where you come from shouldn’t dictate where you finish’: How Standard Chartered is taking on the banking industry’s class problem",
+      "url": "https://fortune.com/2026/10/08/standard-chartered-taking-on-banking-industry-class-problem/",
+      "published_at": "2026-10-08T04:50:04+00:00",
+      "summary": "Finance chief Darren Ellis is pushing socio-economic mobility up the agenda at Standard Chartered and, in doing so, is making the bank a more supportive and inclusive place to work."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Former CIA official with Top Secret clearance admits to $194 million fraud, including 298 gold bars and four luxury South Florida properties",
-      "url": "https://fortune.com/2026/10/06/cia-official-top-secret-clearance-gold-bars-194-million-fraud/",
-      "published_at": "2026-10-07T00:28:13+00:00",
-      "summary": "Rush will give up 298 gold bars, Palm Beach and Jupiter Island real estate, 35 watches, two BMW Alpinas and about $40 million in cash."
+      "title": "Nvidia’s secret to retaining staff? No org charts, a flat structure, and two extra days off every quarter",
+      "url": "https://fortune.com/2026/10/08/nvidia-secret-to-retaining-staff-no-org-charts-a-flat-structure-two-extra-days-off-every-quarter/",
+      "published_at": "2026-10-08T04:44:38+00:00",
+      "summary": "Over 19 years, Nvidia has evolved from a graphics-chip maker into one of the world’s most valuable companies. HR director Febe Punsalan says, despite these changes, the company is keeping its mission-driven, employee-led culture intact."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "He manages one of the most successful soccer clubs in the world and is the elite leader every CEO wants to talk to. So why has Mikel Arteta decided to go public on having his own DNA mapped?",
-      "url": "https://fortune.com/2026/10/06/manages-one-of-most-successful-soccer-clubs-world-arsenal-mikel-arteta-dna-mapped/",
-      "published_at": "2026-10-06T23:02:00+00:00",
-      "summary": "The Arsenal boss explains why prioritizing your health is the foundation of good leadership and whether the skills that drive success in the sporting arena can translate to the corporate world."
+      "title": "How Siemens Healthineers is helping its international staff feel at home",
+      "url": "https://fortune.com/2026/10/08/siemens-healthineers-is-helping-international-staff-feel-at-home/",
+      "published_at": "2026-10-08T04:33:44+00:00",
+      "summary": "Liza Follert, head of people attraction for Europe, the Middle East and Africa, explains how employee feedback has shaped Siemens Healthineers’ approach to inclusion, retention and recruitment"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A $443 million memecoin frenzy dissolves into nothing—Robinhood and Circle are latest to taste the memecoin boom-and-bust cycle",
-      "url": "https://fortune.com/2026/10/06/443-million-memecoin-frenzy-robinhood-circle-latest-memecoin-boom-bust/",
-      "published_at": "2026-10-06T13:00:00+00:00",
-      "summary": "Robinhood Chain saw a brief surge in memecoin trading before volumes dropped 96%."
+      "title": "Microsoft shows off new Windows software, revamped for agentic AI",
+      "url": "https://fortune.com/2026/10/07/microsoft-unveils-windows-hybrid-intelligence-satya-nadella-surface-ultra-laptop/",
+      "published_at": "2026-10-07T20:19:48+00:00",
+      "summary": "At an event in San Francisco, CEO Satya Nadella showed how Microsoft’s Windows operating system will be a box for AI agents, with many tasks running locally and not on the cloud."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI’s human rights lead: What the military could do with AI ‘keeps me up at night’",
-      "url": "https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/",
-      "published_at": "2026-10-06T20:43:09+00:00",
-      "summary": "Sarah Yager joined OpenAI recently, and though she was initially skeptical that her position was merely a PR stunt, she says she's had some early success influencing the safety of the technology."
+      "title": "How Marriott’s leadership pipeline is helping it navigate Europe’s hospitality talent shortfall",
+      "url": "https://fortune.com/2026/10/08/how-marriott-leadership-pipeline-helping-navigate-europe-hospitality-talent-shortfall/",
+      "published_at": "2026-10-08T04:32:46+00:00",
+      "summary": "Marriott International, ranked 15th on Fortune’s 100 Best Companies to Work For – Europe list, focuses on employee development to attract and retain talent."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As AI reshapes the consumer journey, L’Oréal is rethinking its marketing engine",
-      "url": "https://fortune.com/2026/10/06/as-ai-reshapes-the-consumer-journey-loreal-is-rethinking-its-marketing-engine/",
-      "published_at": "2026-10-06T15:14:43+00:00",
-      "summary": "Underneath the ads, TikTok campaigns, and virtual try-ons lies an increasingly complex infrastructure of data, technology, and AI. To succeed today, marketers need to understand the “pipes and plumbing,” says L’Oréal’s Asmita Dubey."
+      "title": "Hilton is betting on people in an industry that can’t afford to lose them",
+      "url": "https://fortune.com/2026/10/08/hilton-betting-on-people-in-an-industry-that-cant-afford-to-lose-them/",
+      "published_at": "2026-10-08T04:31:56+00:00",
+      "summary": "A focus on purpose and retaining a people-centric approach in the age of AI has helped Hilton claim the top spot on Fortune 100 Best Companies to Work For — Europe list."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Z’s new American Dream: Skip the mortgage, book the flight",
-      "url": "https://fortune.com/2026/10/06/gen-z-new-american-dream-skip-the-mortgage-book-the-flight/",
-      "published_at": "2026-10-06T15:28:32+00:00",
-      "summary": "Young Americans are trading square footage, new cars, and even moving out for plane tickets, even as airfares jump more than 20%."
+      "title": "Wealthy Gen Zers’ quiet love of art collecting, revealed: They’re outspending boomers and millennials—but keeping their collections off Instagram",
+      "url": "https://fortune.com/2026/10/08/wealthy-gen-z-art-collection-quiet-luxury/",
+      "published_at": "2026-10-08T04:01:00+00:00",
+      "summary": "Gen Z is on track to be the \"largest, wealthiest, and highest-spending generation to date,\" according to Art Basel and UBS."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "Gen Z is spending more on art than ever before. It’s a key piece of the Great Wealth Transfer, UBS says",
+      "url": "https://fortune.com/2026/10/08/gen-z-is-spending-more-on-art-than-ever-before-its-a-key-piece-of-the-great-wealth-transfer-ubs-says/",
+      "published_at": "2026-10-08T04:01:00+00:00",
+      "summary": "Gen Z, whose oldest members are just 29, made up nearly half of high-net-worth collectors who purchased artwork priced about $1 million."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-      "published_at": "2026-10-06T16:40:36+00:00",
-      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looki"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: 10 climate tech companies to watch",
-      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
-      "published_at": "2026-10-06T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. Th"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "2026 Climate Tech Companies to Watch",
-      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "summary": ""
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Here’s how our climate team picked 10 promising companies to watch",
-      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever reco"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "WeLion New Energy and its semi-solid-state batteries",
-      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods a"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Form Energy and its iron batteries",
-      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output var"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "X-energy and its helium-cooled nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Energy Dome and its carbon dioxide batteries",
-      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; As the world races to meet growing electricity demand, solar"
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "published_at": "2026-10-07T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They migh"
     }
   ]
 }

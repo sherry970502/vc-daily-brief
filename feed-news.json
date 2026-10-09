@@ -1,167 +1,191 @@
 {
-  "updated_at": "2026-10-08T07:14:38.568453+00:00",
+  "updated_at": "2026-10-09T07:18:23.725995+00:00",
   "period_hours": 24,
-  "article_count": 20,
+  "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "published_at": "2026-10-08T06:14:11+00:00",
-      "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India."
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "published_at": "2026-10-08T22:33:59+00:00",
+      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "published_at": "2026-10-07T23:36:57+00:00",
-      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks."
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "published_at": "2026-10-08T21:00:00+00:00",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "published_at": "2026-10-07T22:59:16+00:00",
-      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them."
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "published_at": "2026-10-08T20:04:26+00:00",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "published_at": "2026-10-07T20:48:45+00:00",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B."
+      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+      "published_at": "2026-10-08T18:30:00+00:00",
+      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "published_at": "2026-10-07T20:22:37+00:00",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "published_at": "2026-10-08T18:20:32+00:00",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "published_at": "2026-10-07T18:30:57+00:00",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "published_at": "2026-10-08T18:19:45+00:00",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "published_at": "2026-10-07T18:15:28+00:00",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "published_at": "2026-10-08T18:19:42+00:00",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
-      "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-      "published_at": "2026-10-07T18:10:00+00:00",
-      "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow."
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "published_at": "2026-10-08T18:18:00+00:00",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup",
-      "url": "https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/",
-      "published_at": "2026-10-07T13:00:37+00:00",
-      "summary": "The latest in our series of articles on venture funding to non-tech founders features a former magician's assistant and ballet dancer who's building cybersecurity software with $4.2 million in seed funding."
+      "title": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral",
+      "url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+      "published_at": "2026-10-08T13:00:02+00:00",
+      "summary": "Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the startup tells Crunchbase News exclusively."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "There Was Never An Easy AI Era, And Investors Are Raising The Bar",
-      "url": "https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/",
-      "published_at": "2026-10-07T11:00:58+00:00",
-      "summary": "As AI IPOs bring greater scrutiny, argues guest author Maor Farid, founder and CEO of Leo AI, investors will increasingly prioritize customer spending growth, sustainable margins and deployment efficiency over rapid revenue growth alone."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets",
-      "url": "https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/",
-      "published_at": "2026-10-07T11:00:05+00:00",
-      "summary": "In total, investors poured $92 billion into seed- through growth-stage rounds for U.S. and Canadian startups in the third quarter, per Crunchbase data. That’s a 35% decline from the prior quarter but up 50% from year-ago levels."
+      "title": "Europe Posted Its Strongest Quarter In Q3 In 4 Years, As Its Venture Ecosystem Expands Beyond The UK",
+      "url": "https://news.crunchbase.com/venture/q3-2026-europe-strong-quarter-ai-uk-germany-france/",
+      "published_at": "2026-10-08T11:00:56+00:00",
+      "summary": "European startup funding reached $25 billion last quarter, well above the $14 billion invested in Q3 2025 and up slightly from the $24 billion invested in Q2. Quarterly funding was up 77% year over year, per Crunchbase data."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Where you come from shouldn’t dictate where you finish’: How Standard Chartered is taking on the banking industry’s class problem",
-      "url": "https://fortune.com/2026/10/08/standard-chartered-taking-on-banking-industry-class-problem/",
-      "published_at": "2026-10-08T04:50:04+00:00",
-      "summary": "Finance chief Darren Ellis is pushing socio-economic mobility up the agenda at Standard Chartered and, in doing so, is making the bank a more supportive and inclusive place to work."
+      "title": "Sweden’s startups will raise $5 billion in 2026. Our secret sauce is 150 years old",
+      "url": "https://fortune.com/2026/10/09/why-sweden-will-raise-5-billion-venture-capital-secret-sauce/",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "summary": "The precedents run so far back that we even have a Swedish word for inventor-founded firms of the late 19th century: snilleföretag or \"genius companies.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia’s secret to retaining staff? No org charts, a flat structure, and two extra days off every quarter",
-      "url": "https://fortune.com/2026/10/08/nvidia-secret-to-retaining-staff-no-org-charts-a-flat-structure-two-extra-days-off-every-quarter/",
-      "published_at": "2026-10-08T04:44:38+00:00",
-      "summary": "Over 19 years, Nvidia has evolved from a graphics-chip maker into one of the world’s most valuable companies. HR director Febe Punsalan says, despite these changes, the company is keeping its mission-driven, employee-led culture intact."
+      "title": "Disney offered a 13-year-old $2 million to sing in The Lion King—his mom took $100k plus royalties instead. He’s still getting paid 32 years later",
+      "url": "https://fortune.com/2026/10/09/disney-offered-13-year-old-2-million-to-sing-in-the-lion-king-mom-rejected-royalties-jason-weaver-simba/",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "summary": "Jason Weaver's mom once backed Aretha Franklin. She bet on royalties over Disney's cash—and it's paid more than the $2 million he gave up"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Siemens Healthineers is helping its international staff feel at home",
-      "url": "https://fortune.com/2026/10/08/siemens-healthineers-is-helping-international-staff-feel-at-home/",
-      "published_at": "2026-10-08T04:33:44+00:00",
-      "summary": "Liza Follert, head of people attraction for Europe, the Middle East and Africa, explains how employee feedback has shaped Siemens Healthineers’ approach to inclusion, retention and recruitment"
+      "title": "‘The gap was not the awareness’: The company phishing trainings you loathe aren’t enough when nearly 1 in 4 security pros say their MFA is optional",
+      "url": "https://fortune.com/2026/10/09/mfa-optional-phishing-attacks-company-trainings/",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "summary": "Most security pros surveyed call their company secure, yet 44% say an AI-driven phishing attack got through last year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft shows off new Windows software, revamped for agentic AI",
-      "url": "https://fortune.com/2026/10/07/microsoft-unveils-windows-hybrid-intelligence-satya-nadella-surface-ultra-laptop/",
-      "published_at": "2026-10-07T20:19:48+00:00",
-      "summary": "At an event in San Francisco, CEO Satya Nadella showed how Microsoft’s Windows operating system will be a box for AI agents, with many tasks running locally and not on the cloud."
+      "title": "Anthropic is launching a ‘presidential engagement’ effort to advise candidates on AI policy ahead of the 2028 election",
+      "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/",
+      "published_at": "2026-10-08T23:14:52+00:00",
+      "summary": "“We want every serious candidate and elected official, in both parties, to understand the technology and the case for governing it well.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Marriott’s leadership pipeline is helping it navigate Europe’s hospitality talent shortfall",
-      "url": "https://fortune.com/2026/10/08/how-marriott-leadership-pipeline-helping-navigate-europe-hospitality-talent-shortfall/",
-      "published_at": "2026-10-08T04:32:46+00:00",
-      "summary": "Marriott International, ranked 15th on Fortune’s 100 Best Companies to Work For – Europe list, focuses on employee development to attract and retain talent."
+      "title": "NFL urges Supreme Court to back state gambling rules—breaking with other leagues on prediction markets",
+      "url": "https://fortune.com/2026/10/08/nfl-supreme-court-state-gambling-rules-leagues-prediction-markets/",
+      "published_at": "2026-10-08T20:12:56+00:00",
+      "summary": "The league wants clarity “before another NFL season goes by” to preserve game integrity."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hilton is betting on people in an industry that can’t afford to lose them",
-      "url": "https://fortune.com/2026/10/08/hilton-betting-on-people-in-an-industry-that-cant-afford-to-lose-them/",
-      "published_at": "2026-10-08T04:31:56+00:00",
-      "summary": "A focus on purpose and retaining a people-centric approach in the age of AI has helped Hilton claim the top spot on Fortune 100 Best Companies to Work For — Europe list."
+      "title": "Mark Cuban on why AI is the wrong job-killer target: It’s the health care costs, stupid",
+      "url": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/",
+      "published_at": "2026-10-08T19:16:29+00:00",
+      "summary": "“It’s far easier to blame AI than it is to blame health care costs,” the billionaire and founder of Cost Plus Drugs said. The math makes his point."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Wealthy Gen Zers’ quiet love of art collecting, revealed: They’re outspending boomers and millennials—but keeping their collections off Instagram",
-      "url": "https://fortune.com/2026/10/08/wealthy-gen-z-art-collection-quiet-luxury/",
-      "published_at": "2026-10-08T04:01:00+00:00",
-      "summary": "Gen Z is on track to be the \"largest, wealthiest, and highest-spending generation to date,\" according to Art Basel and UBS."
+      "title": "‘Everybody knows you’re out of touch’: Palantir CEO Alex Karp says his own exec told him to stop hyping Foundry",
+      "url": "https://fortune.com/2026/10/08/everybody-knows-youre-out-of-touch-palantir-ceo-alex-karp-says-his-own-exec-told-him-to-stop-hyping-foundry/",
+      "published_at": "2026-10-08T17:20:00+00:00",
+      "summary": "Karp told a room of CEOs that his best ideas are the ones his team says can’t work, and that VCs once asked him: “Where’s the parasite?”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Z is spending more on art than ever before. It’s a key piece of the Great Wealth Transfer, UBS says",
-      "url": "https://fortune.com/2026/10/08/gen-z-is-spending-more-on-art-than-ever-before-its-a-key-piece-of-the-great-wealth-transfer-ubs-says/",
-      "published_at": "2026-10-08T04:01:00+00:00",
-      "summary": "Gen Z, whose oldest members are just 29, made up nearly half of high-net-worth collectors who purchased artwork priced about $1 million."
+      "title": "‘We are so excited to be back’: SpaceX’s recovery ship brought back four astronauts to Earth after an eight-month mission",
+      "url": "https://fortune.com/2026/10/08/spacex-four-astronauts-back-earth/",
+      "published_at": "2026-10-08T20:42:20+00:00",
+      "summary": "The crew had left for space in February to replace four station occupants who were sent home early after one of them fell ill"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "published_at": "2026-10-07T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They migh"
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "published_at": "2026-10-09T00:08:24+00:00",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "published_at": "2026-10-08T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the i"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Why we’re watching these climate tech companies",
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "published_at": "2026-10-08T10:00:00+00:00",
+      "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "published_at": "2026-10-08T08:17:32+00:00",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the"
     }
   ]
 }

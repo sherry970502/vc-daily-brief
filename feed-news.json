@@ -1,191 +1,191 @@
 {
-  "updated_at": "2026-10-09T07:18:23.725995+00:00",
+  "updated_at": "2026-10-10T06:55:41.850744+00:00",
   "period_hours": 24,
   "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-      "published_at": "2026-10-08T22:33:59+00:00",
-      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration."
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "published_at": "2026-10-10T03:10:06+00:00",
+      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "published_at": "2026-10-08T21:00:00+00:00",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk."
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "published_at": "2026-10-10T00:18:32+00:00",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "published_at": "2026-10-08T20:04:26+00:00",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
+      "title": "Long live the mechanical keyboard",
+      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "published_at": "2026-10-09T22:08:24+00:00",
+      "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-      "published_at": "2026-10-08T18:30:00+00:00",
-      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19."
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "published_at": "2026-10-09T21:41:29+00:00",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "published_at": "2026-10-08T18:20:32+00:00",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "published_at": "2026-10-09T19:36:56+00:00",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "published_at": "2026-10-08T18:19:45+00:00",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+      "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+      "published_at": "2026-10-09T18:57:58+00:00",
+      "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "published_at": "2026-10-08T18:19:42+00:00",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "published_at": "2026-10-09T18:57:06+00:00",
+      "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "published_at": "2026-10-08T18:18:00+00:00",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
+      "title": "LumenUs helps automate tedious paperwork in times of grief",
+      "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+      "published_at": "2026-10-09T17:00:00+00:00",
+      "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral",
-      "url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
-      "published_at": "2026-10-08T13:00:02+00:00",
-      "summary": "Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the startup tells Crunchbase News exclusively."
+      "title": "The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
+      "published_at": "2026-10-09T18:28:35+00:00",
+      "summary": "As the AI startup boom progresses, investors appear to be leaving few niches unfunded. That was apparent in this week’s lineup of large funding rounds, which featured AI infrastructure providers, a foundational model developer, a content protection platform for the AI age, and other AI-focused start"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Europe Posted Its Strongest Quarter In Q3 In 4 Years, As Its Venture Ecosystem Expands Beyond The UK",
-      "url": "https://news.crunchbase.com/venture/q3-2026-europe-strong-quarter-ai-uk-germany-france/",
-      "published_at": "2026-10-08T11:00:56+00:00",
-      "summary": "European startup funding reached $25 billion last quarter, well above the $14 billion invested in Q3 2025 and up slightly from the $24 billion invested in Q2. Quarterly funding was up 77% year over year, per Crunchbase data."
+      "title": "Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell",
+      "url": "https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/",
+      "published_at": "2026-10-09T11:00:56+00:00",
+      "summary": "Active startup investors largely kept up or increased their dealmaking pace in the third quarter, even as overall venture funding declined with the absence of new record megarounds for AI leaders."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Why Customer Workflows Are Becoming The Moat In The AI Era",
+      "url": "https://news.crunchbase.com/ma/customer-workflows-moat-ai-era-sagie/",
+      "published_at": "2026-10-09T11:00:36+00:00",
+      "summary": "AI companies can build durable moats by embedding their products in essential customer workflows, explains tech adviser Itay Sagie, who shares why founders should prioritize measurable customer dependence, while investors and acquirers should assess how integrations, trusted relationships and workfl"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Sweden’s startups will raise $5 billion in 2026. Our secret sauce is 150 years old",
-      "url": "https://fortune.com/2026/10/09/why-sweden-will-raise-5-billion-venture-capital-secret-sauce/",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "summary": "The precedents run so far back that we even have a Swedish word for inventor-founded firms of the late 19th century: snilleföretag or \"genius companies.\""
+      "title": "‘Are we rich?’ The question billionaire and millionaire parents dread, and what happens when they dodge it",
+      "url": "https://fortune.com/2026/10/09/billionaire-millionaire-parents-inheritance-succession/",
+      "published_at": "2026-10-09T18:46:28+00:00",
+      "summary": "Parents often hide the scale of family wealth, but it can leave heirs unprepared and spark  conflict over philanthropy and succession"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Disney offered a 13-year-old $2 million to sing in The Lion King—his mom took $100k plus royalties instead. He’s still getting paid 32 years later",
-      "url": "https://fortune.com/2026/10/09/disney-offered-13-year-old-2-million-to-sing-in-the-lion-king-mom-rejected-royalties-jason-weaver-simba/",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "summary": "Jason Weaver's mom once backed Aretha Franklin. She bet on royalties over Disney's cash—and it's paid more than the $2 million he gave up"
+      "title": "‘Piece by piece’: Trump administration vows to dismantle the International Criminal Court with sweeping new sanctions",
+      "url": "https://fortune.com/2026/10/09/trump-international-criminal-court-icc-sanctions/",
+      "published_at": "2026-10-09T21:30:13+00:00",
+      "summary": "The sanctions cut the court off from U.S. dollars, financial services and technology companies, giving American businesses six months to end ties."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘The gap was not the awareness’: The company phishing trainings you loathe aren’t enough when nearly 1 in 4 security pros say their MFA is optional",
-      "url": "https://fortune.com/2026/10/09/mfa-optional-phishing-attacks-company-trainings/",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "summary": "Most security pros surveyed call their company secure, yet 44% say an AI-driven phishing attack got through last year."
+      "title": "‘I don’t know that that’s actually going to happen’: Vance doubts plan to livestream of execution of Fort Hood shooter after Pentagon’s announcement",
+      "url": "https://fortune.com/2026/10/09/jd-vance-livestream-fort-hood-shooter-pentagon/",
+      "published_at": "2026-10-09T21:21:15+00:00",
+      "summary": "“So whatever the controversy is about the method of the execution, I hope that people don’t forget that this is a guy who brutally murdered a lot of innocent people,” Vance said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic is launching a ‘presidential engagement’ effort to advise candidates on AI policy ahead of the 2028 election",
-      "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/",
-      "published_at": "2026-10-08T23:14:52+00:00",
-      "summary": "“We want every serious candidate and elected official, in both parties, to understand the technology and the case for governing it well.”"
+      "title": "Head of prominent gambling addiction nonprofit resigns after backlash to $2 million Kalshi donation",
+      "url": "https://fortune.com/2026/10/09/prominent-gambling-addiction-nonprofit-resigns-2-million-donation-kalshi/",
+      "published_at": "2026-10-09T18:46:35+00:00",
+      "summary": "National Council on Problem Gambling executive director Heather Maurer required board members to sign NDAs before revealing the donation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "NFL urges Supreme Court to back state gambling rules—breaking with other leagues on prediction markets",
-      "url": "https://fortune.com/2026/10/08/nfl-supreme-court-state-gambling-rules-leagues-prediction-markets/",
-      "published_at": "2026-10-08T20:12:56+00:00",
-      "summary": "The league wants clarity “before another NFL season goes by” to preserve game integrity."
+      "title": "Trump struck a diesel deal with Putin just weeks after signing Russia sanctions. Zelenskyy calls it ‘a weak decision’",
+      "url": "https://fortune.com/2026/10/09/trump-putin-russian-diesel-deal-zelenskyy-sanctions/",
+      "published_at": "2026-10-09T21:16:47+00:00",
+      "summary": "With U.S. diesel at $6.23 a gallon, the Treasury Department is easing restrictions on Russian diesel shipments for six months."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Mark Cuban on why AI is the wrong job-killer target: It’s the health care costs, stupid",
-      "url": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/",
-      "published_at": "2026-10-08T19:16:29+00:00",
-      "summary": "“It’s far easier to blame AI than it is to blame health care costs,” the billionaire and founder of Cost Plus Drugs said. The math makes his point."
+      "title": "‘I drive a Tesla’: After Elon Musk said he’d lose his job, Delta CEO Ed Bastian says there’s ‘no tit for tat’ as airline unveils earnings miss",
+      "url": "https://fortune.com/2026/10/09/delta-ed-bastian-elon-musk-q3-earnings-tit-for-tat-starlink/",
+      "published_at": "2026-10-09T19:05:23+00:00",
+      "summary": "Bastian says the Starlink snub was business, not personal, as a 62% fuel jump led to Delta’s first earnings miss in two years."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Everybody knows you’re out of touch’: Palantir CEO Alex Karp says his own exec told him to stop hyping Foundry",
-      "url": "https://fortune.com/2026/10/08/everybody-knows-youre-out-of-touch-palantir-ceo-alex-karp-says-his-own-exec-told-him-to-stop-hyping-foundry/",
-      "published_at": "2026-10-08T17:20:00+00:00",
-      "summary": "Karp told a room of CEOs that his best ideas are the ones his team says can’t work, and that VCs once asked him: “Where’s the parasite?”"
+      "title": "‘Mark Zuckerberg will love The Social Reckoning’: Sony trolls the Meta CEO with an Instagram ad",
+      "url": "https://fortune.com/2026/10/09/social-reckoning-ad-mark-zuckerberg-instagram-meta-fact-check-sony/",
+      "published_at": "2026-10-09T18:14:45+00:00",
+      "summary": "The spot’s punch line, “Instagram doesn’t fact-check most ads. Why should we?” takes aim at Meta’s content policies, and it’s running on Meta’s own platforms."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘We are so excited to be back’: SpaceX’s recovery ship brought back four astronauts to Earth after an eight-month mission",
-      "url": "https://fortune.com/2026/10/08/spacex-four-astronauts-back-earth/",
-      "published_at": "2026-10-08T20:42:20+00:00",
-      "summary": "The crew had left for space in February to replace four station occupants who were sent home early after one of them fell ill"
+      "title": "Why buying Chipotle would be a mistake for Starbucks, even with Brian Niccol in charge",
+      "url": "https://fortune.com/2026/10/09/chipotle-starbucks-niccol-stock/",
+      "published_at": "2026-10-09T17:46:27+00:00",
+      "summary": "Starbucks needs Niccol’s focus, not a struggling burrito chain."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "published_at": "2026-10-09T00:08:24+00:00",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next"
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "published_at": "2026-10-09T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how t"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "published_at": "2026-10-08T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the i"
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Why we’re watching these climate tech companies",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "published_at": "2026-10-08T10:00:00+00:00",
-      "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate"
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyT"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "published_at": "2026-10-08T09:00:00+00:00",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds."
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "published_at": "2026-10-08T08:17:32+00:00",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the"
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age aroun"
     }
   ]
 }

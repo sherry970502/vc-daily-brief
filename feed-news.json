@@ -1,175 +1,199 @@
 {
-  "updated_at": "2026-10-15T05:46:32.290879+00:00",
+  "updated_at": "2026-10-16T05:43:49.558320+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 24,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "published_at": "2026-10-15T04:30:00+00:00",
-      "summary": "Figma is also releasing its code layers feature in open beta."
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "published_at": "2026-10-16T05:16:46+00:00",
+      "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "published_at": "2026-10-15T01:01:32+00:00",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "published_at": "2026-10-16T01:17:43+00:00",
+      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "published_at": "2026-10-15T00:49:31+00:00",
-      "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse."
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "published_at": "2026-10-15T23:44:56+00:00",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "published_at": "2026-10-15T00:30:00+00:00",
-      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals."
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "published_at": "2026-10-15T23:33:45+00:00",
+      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and"
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "published_at": "2026-10-15T20:38:13+00:00",
+      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "published_at": "2026-10-14T23:00:00+00:00",
-      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology."
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "published_at": "2026-10-15T20:04:53+00:00",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "published_at": "2026-10-14T22:00:00+00:00",
-      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI."
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "published_at": "2026-10-15T19:55:25+00:00",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-      "published_at": "2026-10-14T21:48:20+00:00",
-      "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom."
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "published_at": "2026-10-15T19:29:05+00:00",
+      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo",
-      "url": "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/",
-      "published_at": "2026-10-14T12:00:38+00:00",
-      "summary": "In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed funding round."
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-10-15T16:20:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "How I Learned That Some Startup Problems Are Too Big For A Minimum Viable Product",
-      "url": "https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/",
-      "published_at": "2026-10-14T11:00:33+00:00",
-      "summary": "Complex, interconnected problems like compliance require a comprehensive product from the outset, argues guest columnist Daniel Kjellén, CEO and co-founder of Freda. Drawing on his experience selling Tink, he explains how repeat founders can combine capital, credibility and hard-earned lessons with"
+      "title": "How To Build Your Team With Autonomous Humans, Not Just Autonomous Systems",
+      "url": "https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/",
+      "published_at": "2026-10-15T11:00:54+00:00",
+      "summary": "As AI enables smaller, faster teams, companies should hire curious, adaptable people who challenge established practices and can be trusted to make independent decisions, according to guest author Eric Francia, who writes that giving employees real responsibility, encouraging questions and investing"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "38 Companies Join The Crunchbase Unicorn Board In Blockbuster September, Led By Semiconductor, Fintech And Space Tech Companies",
-      "url": "https://news.crunchbase.com/venture/september-2026-new-unicorns-semiconductors-ai-fintech-space/",
-      "published_at": "2026-10-14T11:00:04+00:00",
-      "summary": "Semiconductors, financial services and space technology led for new Unicorn Board counts with the remainder hailing from a broad swath of industries including biotech, AI infrastructure, AI training, security and frontier labs."
+      "title": "Cybersecurity Investors Put $6.8B To Work In The Third Quarter, Mostly In Larger Rounds",
+      "url": "https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/",
+      "published_at": "2026-10-15T11:00:48+00:00",
+      "summary": "For the third quarter of 2026, global cybersecurity- and privacy-focused startups pulled in a total of $6.8 billion, per Crunchbase data. That’s up about 50% from the prior quarter and tied for the highest quarterly tally in years."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions",
+      "url": "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/",
+      "published_at": "2026-10-15T11:00:31+00:00",
+      "summary": "New York-based Chariot Claims has raised $10 million in Series A funding led by Silverton Partners to help consumers pursue claims over alleged privacy violations, hidden fees and subscriptions that are difficult to cancel."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Lawyer of arrested OpenAI engineer says allegations are ‘wholly out of character,’ one-way ticket to Saudi Arabia with wife and child was pre-booked",
-      "url": "https://fortune.com/2026/10/14/lawyer-of-arrested-openai-engineer-says-allegations-are-wholly-out-of-character-charges-were-a-surprise/",
-      "published_at": "2026-10-15T02:54:39+00:00",
-      "summary": "The arrest was a \"surprise,\" said the attorney, and the suspect, Abdulrahman Alfozan, was \"proud\" to be an OpenAI employee."
+      "title": "ADP CEO Maria Black says employees who trust their CEO and senior leaders are 41% more likely to be engaged at work",
+      "url": "https://fortune.com/2026/10/15/adp-ceo-maria-black-says-employees-who-trust-their-ceo-and-senior-leaders-are-41-more-likely-to-be-engaged-at-work/",
+      "published_at": "2026-10-16T02:05:15+00:00",
+      "summary": "In a conversation with Fortune’s Diane Brady, the CEO of the payroll and HR giant said there’s a pretty simple way to boost engagement, but it takes real work."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Razer’s CEO waited 20 years for everyone to become a gamer. He says AI is finally making it happen",
-      "url": "https://fortune.com/2026/10/14/razer-ceo-ai-everyone-gamer/",
-      "published_at": "2026-10-15T01:00:00+00:00",
-      "summary": "After going private in 2022, the gaming hardware maker is betting on AI companions, camera-equipped headsets, and game-testing tools."
+      "title": "Marissa Mayer: Anyone who says they know how AI will play out is ‘either lying or arrogant or both’",
+      "url": "https://fortune.com/2026/10/15/marissa-mayer-anyone-who-says-they-know-how-ai-will-play-out-is-either-lying-or-arrogant-or-both/",
+      "published_at": "2026-10-16T01:11:58+00:00",
+      "summary": "The former Yahoo CEO, who just launched AI assistant startup Dazzle AI, says the odds still favor an AI future that’s good for science, creativity and busy parents."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia’s Jensen Huang responds to Pope Leo’s AI safety criticism: ‘We all care about the same thing’",
-      "url": "https://fortune.com/2026/10/14/nvidias-jensen-huang-responds-to-pope-leos-ai-safety-criticism-we-all-care-about-the-same-thing/",
-      "published_at": "2026-10-14T19:21:46+00:00",
-      "summary": "“He’s asking all the right questions, and he’s thinking about all the right issues,” Huang told Fortune in an interview."
+      "title": "Supermicro promised a new CFO in December 2024. A $2.5 billion smuggling case and a co-founder’s arrest later, it has one",
+      "url": "https://fortune.com/2026/10/15/supermicro-new-cfo-mark-long-western-digital-nvidia-smuggling/",
+      "published_at": "2026-10-15T21:44:33+00:00",
+      "summary": "Tech investor Mark Long has replaced former CFO David Weigand."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hailey Bieber sold Rhode to e.l.f. Beauty after she and cofounder Lauren Ratner addressed their main fear in an acquisition",
-      "url": "https://fortune.com/2026/10/14/hailey-bieber-sold-rhode-e-l-f-beauty-after-she-and-co-founder-lauren-ratner-addressed-their-main-fear-in-an-acquisition/",
-      "published_at": "2026-10-14T18:55:45+00:00",
-      "summary": "“It’s my baby, it’s our baby,” said Bieber, who conceived the makeup and skin care brand as a line of personal must-haves she always has in her routine."
+      "title": "The CEO of supply chain giant Flex says infrastructure and the grid needs to scale with AI—or else ‘Forget all the frontier models’",
+      "url": "https://fortune.com/2026/10/15/flex-ceo-revathi-advaithi-says-infrastructure-grid-needs-to-scale-with-ai-or-else-forget-all-the-frontier-models/",
+      "published_at": "2026-10-15T21:29:10+00:00",
+      "summary": "Revathi Advaithi, the CEO of supply chain giant Flex, says that America’s power hasn’t innovated since the days of Thomas Edison—and it could impact AI’s growth."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tina Knowles launched hair care line Cécred with daughter Beyoncé after years of mixing custom hair treatments",
-      "url": "https://fortune.com/2026/10/14/tina-knowles-cecred-daughter-beyonce-hair-salon/",
-      "published_at": "2026-10-14T18:33:54+00:00",
-      "summary": "The line became the most successful debut in history for retailer Ulta Beauty."
+      "title": "‘You don’t want rogue agents’: Jamie Dimon bars outside AI agents like Meta’s Muse from JPMorgan accounts",
+      "url": "https://fortune.com/2026/10/15/jamie-dimon-ai-agents-meta-muse-jpmorgan/",
+      "published_at": "2026-10-15T18:10:13+00:00",
+      "summary": "Recent rogue AI agent incidents have raised concerns about letting agents manage your finances."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exclusive: Koch’s venture arm backs a16z-backed Emanate’s push to bring AI to industrial sales",
-      "url": "https://fortune.com/2026/10/14/exclusive-koch-venture-emanate-a16z-industrial-ai/",
-      "published_at": "2026-10-14T16:00:00+00:00",
-      "summary": "“Doing nothing isn’t neutral in this market,” says Emanate founder Kiara Nirghin."
+      "title": "‘Close to zero’: 4 AI chiefs say no companies have truly changed in response to AI—blame ‘politics projects’",
+      "url": "https://fortune.com/2026/10/15/close-to-zero-ai-transformation-politics-projects/",
+      "published_at": "2026-10-15T18:02:17+00:00",
+      "summary": "At a Fortune event, executives from Accenture, AXA, Mastercard, and Mistral AI said the technology isn’t the main obstacle to AI payoffs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia CEO Huang says society shouldn’t tolerate AI cyber incidents, says AI doomers “ought to stop working on” the technology",
-      "url": "https://fortune.com/2026/10/14/nvidia-ceo-huang-says-society-shouldnt-tolerate-ai-cyber-incidents-says-ai-doomers-ought-to-stop-working-on-the-technology/",
-      "published_at": "2026-10-14T18:03:36+00:00",
-      "summary": "The Nvidia CEO says AI agents can be contained and that the technology is “completely in our control,” as he tours Europe pitching open-source models."
+      "title": "Pinterest says its trend forecasts are 88% accurate. Here’s how its 2026 predictions actually played out",
+      "url": "https://fortune.com/2026/10/15/pinterest-predicts-2026-trends-accuracy-brooches-funhaus/",
+      "published_at": "2026-10-15T19:33:32+00:00",
+      "summary": "Brooches took over the runways and circus décor landed in Richard E. Grant’s dining room. Here’s what Pinterest’s forecast says about where Gen Z spending goes next."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "An Ohio police lieutenant allegedly used Flock cameras 29 times to track someone he knew. Now he’s facing a felony",
-      "url": "https://fortune.com/2026/10/14/ohio-police-lieutenant-flock-cameras-indicted-felony-charge/",
-      "published_at": "2026-10-14T22:04:49+00:00",
-      "summary": "Sharonville Lt. Walter Cordes faces up to a year in prison after he was indicted following a department audit of its Flock cameras."
+      "title": "Trump’s former top crypto advisor faces scrutiny over allegations his firm accepted millions from Tether while he shaped key stablecoin law",
+      "url": "https://fortune.com/2026/10/15/trump-former-top-crypto-adviser-scrutiny-allegations-firm-millions-tether-stablecoin-law/",
+      "published_at": "2026-10-15T16:45:52+00:00",
+      "summary": "Bo Hines kept a one-third stake in his consulting firm, Nxum, during the legislative push, then left the White House to lead Tether’s U.S. division."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: faking blood and the future of batteries",
-      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-      "published_at": "2026-10-14T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing"
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "published_at": "2026-10-15T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months ha"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The US military’s race to make fake blood",
-      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-      "published_at": "2026-10-14T09:00:00+00:00",
-      "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad dayl"
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "published_at": "2026-10-15T10:00:00+00:00",
+      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans t"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Six wild ideas for perpetuating your mind",
+      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisel"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "published_at": "2026-10-15T08:43:24+00:00",
+      "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like"
     }
   ]
 }

@@ -1,111 +1,199 @@
 {
-  "updated_at": "2026-10-19T05:58:36.825194+00:00",
+  "updated_at": "2026-10-20T05:52:00.686890+00:00",
   "period_hours": 24,
-  "article_count": 13,
+  "article_count": 24,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "published_at": "2026-10-18T21:00:00+00:00",
-      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms"
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "published_at": "2026-10-20T02:00:00+00:00",
+      "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "published_at": "2026-10-18T20:37:40+00:00",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "published_at": "2026-10-20T01:27:03+00:00",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "published_at": "2026-10-18T19:03:38+00:00",
-      "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film."
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "published_at": "2026-10-19T23:39:38+00:00",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "published_at": "2026-10-18T16:30:00+00:00",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "published_at": "2026-10-19T22:49:27+00:00",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-      "published_at": "2026-10-18T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "published_at": "2026-10-19T22:04:28+00:00",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published_at": "2026-10-19T20:09:24+00:00",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published_at": "2026-10-19T19:28:34+00:00",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "published_at": "2026-10-19T19:00:12+00:00",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region",
+      "url": "https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/",
+      "published_at": "2026-10-19T11:00:46+00:00",
+      "summary": "A continued boom in late-stage and growth funding combined with a surge in seed-stage funding helped buoy venture investment in Latin America for the third quarter of 2026, Crunchbase data shows."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend",
+      "url": "https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/",
+      "published_at": "2026-10-19T11:00:19+00:00",
+      "summary": "Enterprise AI companies relying on armies of forward deployed engineers are disguising labor-intensive services as scalable software, inflating recurring revenue and valuations while falling short of autonomy claims, argues Anurag Gurtu, co-founder and CEO of Airrived. In this guest commentary he ur"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "China’s economy grew 4.5% last quarter, yet its export boom risks being ‘a drag on world growth’",
-      "url": "https://fortune.com/2026/10/19/china-gdp-growth-export-boom/",
-      "published_at": "2026-10-19T05:08:26+00:00",
-      "summary": "\"It is untenable and unsustainable\" for China to rely on foreign demand, Cornell's Eswar Prasad said."
+      "title": "Ex–OpenAI engineer accused of bugging office stays in jail as prosecutors allege Saudi ties: ‘Once he leaves, there’s no getting him back’",
+      "url": "https://fortune.com/2026/10/19/openai-alleged-bugger-alfozan-jail-saudi-court-filings-hearing/",
+      "published_at": "2026-10-19T21:51:44+00:00",
+      "summary": "Prosecutors say Abdulrahman Alfozan searched OpenAI tools for meetings with Saudi officials, and the Saudi government offered to back his bond."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The inventor of BRICS has a message for ‘lazy, colonial’ Europe—India and China are still not taken seriously enough on the world stage",
-      "url": "https://fortune.com/2026/10/19/jim-oneill-economics-paper-no-66-brics-lazy-colonial-europe-india-china/",
-      "published_at": "2026-10-19T05:00:00+00:00",
-      "summary": "Jim O’Neill’s Goldman Sachs Economics Paper No. 66 reshaped how business leaders looked at the world, but it may now be time for a significant upgrade"
+      "title": "The AI productivity boom has bosses asking what’s in it for employees",
+      "url": "https://fortune.com/2026/10/19/ai-productivity-boom-has-bosses-asking-whats-in-it-for-employees/",
+      "published_at": "2026-10-19T12:11:39+00:00",
+      "summary": "Leaders at PepsiCo, Indeed, Dropbox, and Bristol Myers Squibb are rethinking who benefits from AI’s productivity gains."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Zoom and big financial firms add ‘Proof of Human’ badges from Sam Altman’s World to stop fraud and deep fakes",
-      "url": "https://fortune.com/2026/10/18/zoom-adds-proof-of-human-feature-to-stop-deep-fakes-toowith-tech/",
-      "published_at": "2026-10-19T01:00:00+00:00",
-      "summary": "The new security measure, which will deployed by the likes of Bain Capital and VanEck, relies on World's iris-scanning orb device."
+      "title": "Prediction markets are now ‘bespoke insurance’ for businesses, and a Los Angeles restaurant group’s $60,000 hedge on Kalshi is the latest example",
+      "url": "https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/",
+      "published_at": "2026-10-19T20:41:17+00:00",
+      "summary": "One unnamed hospitality group placed a $60,000 trade on Kalshi to offset missed revenue from the Dodgers’ failure to advance to the World Series, according to the platform."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic commits 5% of its stock to a new ‘public benefit’ fund and may give large donations to traditional nonprofits or to specific populations",
-      "url": "https://fortune.com/2026/10/18/anthropic-5-percent-stock-public-benefit-fund-large-donations-traditional-nonprofits-specific-populations/",
-      "published_at": "2026-10-19T00:00:58+00:00",
-      "summary": "The shares will go to the Anthropic Public Benefit Fund, a new entity within the company."
+      "title": "Gen Z is chasing the American Dream in South Carolina, Missouri, and Tennessee—as California loses thousands of young adults and billionaires",
+      "url": "https://fortune.com/2026/10/19/gen-z-moving-american-dream-afforability-leave-california-for-the-south-but-ai-boom-still-attractive/",
+      "published_at": "2026-10-19T14:31:13+00:00",
+      "summary": "As billionaires like Larry Page and Peter Thiel leave California, Gen Z is following suit—they’re moving to more affordable South Carolina and Missouri."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Europe sent its gold to the U.S. for safe keeping during World War II. Central banks are now reshuffling their reserves for a new era of uncertainty",
-      "url": "https://fortune.com/2026/10/18/gold-reserves-central-banks-repatriation-new-york-fed-trump-europe-geopolitical-unrest/",
-      "published_at": "2026-10-18T23:29:39+00:00",
-      "summary": "\"Central banks are increasingly optimizing across three considerations: custody risk, physical accessibility and market liquidity.\""
+      "title": "France is rioting over surging inflation, skyrocketing national debt, and crumbling schools. America is its sleeping twin",
+      "url": "https://fortune.com/2026/10/19/why-is-france-rioting-inflation-schools-debt-trump-america/",
+      "published_at": "2026-10-19T19:31:30+00:00",
+      "summary": "Growth is the main thing keeping the U.S. from looking like France. Underneath it, the debt math and the classrooms look a lot alike."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump to close historic DC golf course for 15 months of renovations, citing ‘disease infested trees,’ despite judge’s order to halt development plans",
-      "url": "https://fortune.com/2026/10/18/trump-historic-dc-golf-course-closure-renovations-judge-order-halt-development/",
-      "published_at": "2026-10-18T21:41:22+00:00",
-      "summary": "The judge ordered the government to explain whether its position had changed from a court filing that said “at most” Trump has given “preliminary thought” to the rebuilding plan and “there is no final agency action.”"
+      "title": "Ukraine’s drones lose their Starlink link above 100 mph. Musk, Rubio, and Trump all say it wasn’t them",
+      "url": "https://fortune.com/2026/10/19/ukraine-starlink-starshield-drone-speed-limit-musk-trump/",
+      "published_at": "2026-10-19T18:50:48+00:00",
+      "summary": "Kyiv says a sudden SpaceX speed limit is knocking out interceptor drones it needs against Russia’s jet-powered Shaheds. Musk, the White House, and Trump all say it wasn’t them."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The next AI race will be won at the credit desk",
-      "url": "https://fortune.com/2026/10/18/nvidia-ai-financing-capital-markets/",
-      "published_at": "2026-10-18T21:00:00+00:00",
-      "summary": "Nvidia's $500 billion financing push shows the AI race now hinges on capital markets, not just engineering."
+      "title": "Morgan Stanley’s favorite AI stock is 92% exposed to the $1.6 trillion build-out it’s bullish on",
+      "url": "https://fortune.com/2026/10/19/nvidia-concentration-hyperscaler-1-6-trillion-92-percent-exposure/",
+      "published_at": "2026-10-19T18:30:01+00:00",
+      "summary": "The bank calls Nvidia the best risk/reward in AI. Its own report lays out what happens to suppliers when a capital cycle turns."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Iran is running out of money and can’t even pay its troops as U.S. blockade chokes the economy, Central Command says, while domestic unrest grows",
-      "url": "https://fortune.com/2026/10/18/iran-economy-us-naval-blockade-irgc-troops-pay-pensions-salaries-domestic-unrest-insurgency/",
-      "published_at": "2026-10-18T20:46:26+00:00",
-      "summary": "\"The Islamic regime is clearly feeling the economic pain, and the IRGC is increasingly showing signs of greater desperation as a result.\""
+      "title": "‘An army of Claudes, with every one asking for my attention’: Anthropic calls human attention the bottleneck in the botsitting world to come",
+      "url": "https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/",
+      "published_at": "2026-10-19T18:10:20+00:00",
+      "summary": "Eighty percent of Claude session delays result from agents waiting on human input, and the median Anthropic employee spends 20% more time in meetings than a year ago."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "published_at": "2026-10-19T18:22:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "published_at": "2026-10-19T17:45:55+00:00",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "published_at": "2026-10-19T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the Univ"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "published_at": "2026-10-19T09:22:17+00:00",
+      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and liche"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "published_at": "2026-10-19T09:08:05+00:00",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "How far can we push computing?",
+      "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+      "published_at": "2026-10-19T09:00:00+00:00",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richar"
     }
   ]
 }

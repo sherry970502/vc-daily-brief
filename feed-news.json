@@ -1,215 +1,175 @@
 {
-  "updated_at": "2026-10-23T05:54:43.406425+00:00",
+  "updated_at": "2026-10-24T05:38:51.383385+00:00",
   "period_hours": 24,
-  "article_count": 26,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "published_at": "2026-10-23T04:22:57+00:00",
-      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents."
+      "title": "Startups don’t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "published_at": "2026-10-23T23:07:45+00:00",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "published_at": "2026-10-23T04:00:00+00:00",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published_at": "2026-10-23T23:05:49+00:00",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "published_at": "2026-10-23T00:45:37+00:00",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "published_at": "2026-10-23T21:59:19+00:00",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "published_at": "2026-10-22T23:50:41+00:00",
-      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law."
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "published_at": "2026-10-23T20:57:13+00:00",
+      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "published_at": "2026-10-22T23:15:00+00:00",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement."
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "published_at": "2026-10-23T20:03:14+00:00",
+      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "published_at": "2026-10-22T22:34:54+00:00",
-      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope."
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "published_at": "2026-10-23T19:25:13+00:00",
+      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "published_at": "2026-10-22T22:08:24+00:00",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "published_at": "2026-10-23T19:06:23+00:00",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "published_at": "2026-10-22T21:05:05+00:00",
-      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator."
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "published_at": "2026-10-23T16:26:29+00:00",
+      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
-      "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
-      "published_at": "2026-10-22T13:00:23+00:00",
-      "summary": "Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively."
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+      "published_at": "2026-10-23T18:51:22+00:00",
+      "summary": "It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million fina"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
-      "url": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
-      "published_at": "2026-10-22T11:00:42+00:00",
-      "summary": "In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight"
+      "title": "Protecting Trade Secrets In The Age Of AI",
+      "url": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
+      "published_at": "2026-10-23T11:00:29+00:00",
+      "summary": "AI agents create new trade secret risks by allowing employees to access expertise or inadvertently expose proprietary information through personal devices. In this guest commentary, Seth Kugler, a partner at Grellas Shah LLP, warns companies that they should adopt strict AI policies, restrict data a"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years",
-      "url": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
-      "published_at": "2026-10-22T11:00:41+00:00",
-      "summary": "A number of companies whose names might feature on a playlist of 2021 boom-era unicorns have sold to acquirers in recent months, including one-time highfliers like Airtable, Headspace and Miro. In many cases, companies are selling at valuations which, while not puny, are still far below their former"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Your Next Customer Might Be An Agent. Here’s How To Build Your Brand For Both Humans And AI.",
-      "url": "https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/",
-      "published_at": "2026-10-22T11:00:07+00:00",
-      "summary": "As AI agents increasingly recommend and purchase products, brands must appeal to both machines and humans by documenting their voice, creating clear product descriptions and checking how AI summarizes their messaging. Guest author Toby Coulthard suggests that startups should build these practices in"
+      "title": "5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement",
+      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-gaming-clean-tech/",
+      "published_at": "2026-10-23T11:00:08+00:00",
+      "summary": "From teaching robots to do everyday household chores to using lasers to track satellites in space, this month's crop of interesting startup deals spans some decidedly different corners of tech."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a mirage",
-      "url": "https://fortune.com/2026/10/22/taiwan-strait-2027-invasion-countdown-mirage/",
-      "published_at": "2026-10-23T03:00:00+00:00",
-      "summary": "The “2027” narrative distorts global priorities and triggers unnecessary panic. Many observers overstate the likelihood of war."
+      "title": "Looters hit 3,000 French businesses. Within hours, the haul was trending on Vinted under the riot’s date",
+      "url": "https://fortune.com/2026/10/23/france-riots-retail-theft-vinted-ecommerce-resale-stolen-goods/",
+      "published_at": "2026-10-23T23:35:39+00:00",
+      "summary": "“Since this weekend, our teams have taken immediate action to identify and remove listings linked to the looting,” secondhand marketplace Vinted said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘They are trying to intimidate us’: Indonesia’s Prabowo remains defiant in the face of an MSCI double downgrade",
-      "url": "https://fortune.com/2026/10/22/they-are-trying-to-intimidate-us-indonesias-prabowo-remains-defiant-in-the-face-of-an-msci-double-downgrade/",
-      "published_at": "2026-10-23T03:45:47+00:00",
-      "summary": "MSCI's proposal to reclassify Indonesia as a \"standalone\" market triggered a stock rout and a presidential outburst."
+      "title": "Starbucks China tells customers to buy something before they sit down, as it invests $45 million in the store experience",
+      "url": "https://fortune.com/2026/10/23/starbucks-china-ends-free-seating/",
+      "published_at": "2026-10-23T21:00:00+00:00",
+      "summary": "The rule change comes as Starbucks China spends 300 million yuan on staffing and store upgrades."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Fintech startup Coast raises $35 million to better track what workers do with company credit cards",
-      "url": "https://fortune.com/2026/10/22/fintech-startup-coast-35-million-track-workers-company-credit-cards/",
-      "published_at": "2026-10-22T13:00:00+00:00",
-      "summary": "The New York-based startup wants to help contractors control employee purchases, pay vendors, and track expenses in one place."
+      "title": "An $8 billion Treasury break helped bring Meta’s tax rate to 2%. Now it has a week to answer senators about data center tax credits",
+      "url": "https://fortune.com/2026/10/23/meta-8-billion-treasury-break-obbba-tax-rate-bill-data-centers-credit-elizabeth-warren/",
+      "published_at": "2026-10-23T18:21:39+00:00",
+      "summary": "Senators want Meta to explain why it claims a research credit on AI data centers. Meta says the facilities require real experimentation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump wanted a ‘Trump Ocean’ on Google Maps. He says CEO Sundar Pichai shut it down",
-      "url": "https://fortune.com/2026/10/22/trump-google-sundar-pichai-atlantic-ocean-rename-trump-ocean/",
-      "published_at": "2026-10-23T00:42:56+00:00",
-      "summary": "After relabeling the Gulf of Mexico and Lake Ontario for U.S. users, Google has reportedly balked at an ocean. A shared ocean is a different legal animal."
+      "title": "Energy markets are adapting to the Iran war as a ‘forever conflict’ while oil producers keep supplies flowing and avoid ‘mutually assured destruction’",
+      "url": "https://fortune.com/2026/10/23/oil-prices-energy-markets-iran-war-forever-conflict-hormuz-persian-gulf-mutually-assured-destruction/",
+      "published_at": "2026-10-23T16:41:31+00:00",
+      "summary": "“Repeated supply shocks are driving a lasting reconfiguration of trade routes and energy corridors, and tail risks remain elevated.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Judge: Federal government lawyers ‘barely defend’ giving Elon Musk’s DOGE illegal access to government data",
-      "url": "https://fortune.com/2026/10/22/federal-judge-ruling-doge-opm-broke-law-access-sensitive-data-elon-musk/",
-      "published_at": "2026-10-22T23:45:29+00:00",
-      "summary": "The Office of Personnel Management infringed on the Privacy Act by allowing access to millions of people’s information, according to a federal judge."
+      "title": "Gen Z’s ‘cockroach’ party is challenging Modi over 130 million deleted voter names",
+      "url": "https://fortune.com/2026/10/23/cockroach-janta-party-modi-pradhan-resignation/",
+      "published_at": "2026-10-23T20:55:02+00:00",
+      "summary": "With 40% of Indian graduates under 25 unemployed, the Cockroach Janta Party is pressing the Election Commission."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Palmer Luckey teams with dire wolf billionaire Ben Lamm to launch $200 million Warhound, unleashing genetically engineered clone dogs of war",
-      "url": "https://fortune.com/2026/10/22/palmer-luckey-dire-wolfe-billionaire-lamm-warhound-200-million-dogs-cloned/",
-      "published_at": "2026-10-22T23:43:47+00:00",
-      "summary": "“A dog is the oldest autonomous system there is,” Ben Lamm, the executive who figured out how to clone dire wolves, told Fortune."
+      "title": "We served opposing presidents, but we agree on how to fix the data-center mess",
+      "url": "https://fortune.com/2026/10/23/data-center-mess-how-to-fix-bipartisan/",
+      "published_at": "2026-10-23T10:30:00+00:00",
+      "summary": "Biden's former EPA leader and Trump's former FERC chair say they disagree on plenty, but not that the status quo is failing America."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI could displace one in 11 workers, Goldman says, but the layoffs are likely waiting for a recession",
-      "url": "https://fortune.com/2026/10/22/goldman-sachs-forecast-how-many-jobs-lost-to-ai-9-percent/",
-      "published_at": "2026-10-22T18:20:53+00:00",
-      "summary": "Goldman’s Joseph Briggs finds companies have historically saved automation layoffs for downturns, and he’s updating his projection of the AI jobs impact."
+      "title": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
+      "url": "https://fortune.com/2026/10/23/openai-cyber-php2shell-openai-flaw-websites-hackers/",
+      "published_at": "2026-10-23T20:36:34+00:00",
+      "summary": "Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs their websites."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Claire Smilow helped BoxGroup earn a roughly $1 billion return on Cursor. Now she’s scouting college campuses for the next generation of founders",
-      "url": "https://fortune.com/2026/10/22/claire-smilow-boxgroup-make-1-billion-return-on-cursor-now-scouting-college-campuses-next-generation-workers/",
-      "published_at": "2026-10-22T19:10:33+00:00",
-      "summary": "BoxGroup partner Claire Smilow delivered a massive return for her firm after betting early on Gen Z–led company Cursor. She’s scouting the next big thing at Harvard and MIT."
+      "title": "Elizabeth Holmes documentary maker Nathan Fielder started out as a broker. He quit because it was ‘depressing’ and is now making millions",
+      "url": "https://fortune.com/2026/10/23/nathan-fielder-comedian-elizabeth-holmes-documentary-career-journey-lessons-you-can-see-everything/",
+      "published_at": "2026-10-23T15:25:05+00:00",
+      "summary": "“You Can See Everything” is set to make $25 million in its second week. But its codirector, Nathan Fielder, had a fairly humble start in life."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "published_at": "2026-10-22T21:17:29+00:00",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,"
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "published_at": "2026-10-23T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "published_at": "2026-10-22T18:48:04+00:00",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-      "published_at": "2026-10-22T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Botto"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "published_at": "2026-10-22T10:00:00+00:00",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Three things you should know about permafrost",
-      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-      "published_at": "2026-10-22T10:00:00+00:00",
-      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just publish"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "published_at": "2026-10-22T08:41:18+00:00",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from"
+      "title": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new"
     }
   ]
 }

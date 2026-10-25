@@ -1,175 +1,135 @@
 {
-  "updated_at": "2026-10-24T05:38:51.383385+00:00",
+  "updated_at": "2026-10-25T05:53:37.515316+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 16,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Startups don’t need to go viral to win customers",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "published_at": "2026-10-23T23:07:45+00:00",
-      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one."
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "published_at": "2026-10-24T20:46:34+00:00",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "published_at": "2026-10-23T23:05:49+00:00",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published_at": "2026-10-24T20:15:33+00:00",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "published_at": "2026-10-23T21:59:19+00:00",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_at": "2026-10-24T19:00:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-      "published_at": "2026-10-23T20:57:13+00:00",
-      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products."
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "published_at": "2026-10-24T16:30:00+00:00",
+      "summary": "Instacart might sell itself to a larger competitor."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "published_at": "2026-10-23T20:03:14+00:00",
-      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion."
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published_at": "2026-10-24T16:00:00+00:00",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "published_at": "2026-10-23T19:25:13+00:00",
-      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers."
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "published_at": "2026-10-24T15:30:00+00:00",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "published_at": "2026-10-23T19:06:23+00:00",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs"
+      "title": "These clever apps show off the iPhone Duo’s potential",
+      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "published_at": "2026-10-23T16:26:29+00:00",
-      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
-      "published_at": "2026-10-23T18:51:22+00:00",
-      "summary": "It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million fina"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Protecting Trade Secrets In The Age Of AI",
-      "url": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
-      "published_at": "2026-10-23T11:00:29+00:00",
-      "summary": "AI agents create new trade secret risks by allowing employees to access expertise or inadvertently expose proprietary information through personal devices. In this guest commentary, Seth Kugler, a partner at Grellas Shah LLP, warns companies that they should adopt strict AI policies, restrict data a"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement",
-      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-gaming-clean-tech/",
-      "published_at": "2026-10-23T11:00:08+00:00",
-      "summary": "From teaching robots to do everyday household chores to using lasers to track satellites in space, this month's crop of interesting startup deals spans some decidedly different corners of tech."
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Looters hit 3,000 French businesses. Within hours, the haul was trending on Vinted under the riot’s date",
-      "url": "https://fortune.com/2026/10/23/france-riots-retail-theft-vinted-ecommerce-resale-stolen-goods/",
-      "published_at": "2026-10-23T23:35:39+00:00",
-      "summary": "“Since this weekend, our teams have taken immediate action to identify and remove listings linked to the looting,” secondhand marketplace Vinted said."
+      "title": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
+      "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/",
+      "published_at": "2026-10-24T23:20:47+00:00",
+      "summary": "The crowd heard calls for a commission of inquiry into the security failures that led to the Hamas-led attack on Oct. 7, 2023, that sparked the war in Gaza."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Starbucks China tells customers to buy something before they sit down, as it invests $45 million in the store experience",
-      "url": "https://fortune.com/2026/10/23/starbucks-china-ends-free-seating/",
-      "published_at": "2026-10-23T21:00:00+00:00",
-      "summary": "The rule change comes as Starbucks China spends 300 million yuan on staffing and store upgrades."
+      "title": "French police use tear gas and water cannons after some protests turn violent as shopkeepers board up storefronts across Paris",
+      "url": "https://fortune.com/2026/10/24/french-police-tear-gas-water-cannons-protests-violence/",
+      "published_at": "2026-10-24T23:09:17+00:00",
+      "summary": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "An $8 billion Treasury break helped bring Meta’s tax rate to 2%. Now it has a week to answer senators about data center tax credits",
-      "url": "https://fortune.com/2026/10/23/meta-8-billion-treasury-break-obbba-tax-rate-bill-data-centers-credit-elizabeth-warren/",
-      "published_at": "2026-10-23T18:21:39+00:00",
-      "summary": "Senators want Meta to explain why it claims a research credit on AI data centers. Meta says the facilities require real experimentation."
+      "title": "The world’s biggest producer of maple syrup has nearly exhausted its strategic reserves after Americans hoarded supplies ahead of Trump’s tariffs",
+      "url": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/",
+      "published_at": "2026-10-24T22:46:22+00:00",
+      "summary": "The Quebec Maple Syrup Producers, which oversees the strategic syrup reserve, predicted the stockpile will be completely empty by February."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Energy markets are adapting to the Iran war as a ‘forever conflict’ while oil producers keep supplies flowing and avoid ‘mutually assured destruction’",
-      "url": "https://fortune.com/2026/10/23/oil-prices-energy-markets-iran-war-forever-conflict-hormuz-persian-gulf-mutually-assured-destruction/",
-      "published_at": "2026-10-23T16:41:31+00:00",
-      "summary": "“Repeated supply shocks are driving a lasting reconfiguration of trade routes and energy corridors, and tail risks remain elevated.”"
+      "title": "Here’s the ‘core economic flaw’ in the AI bull case as stock and bond trades unravel, according to a top economist",
+      "url": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
+      "published_at": "2026-10-24T19:39:53+00:00",
+      "summary": "\"So far, the AI payoff for firms has been slow to materialize, implying a growing reluctance to pay for AI services.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Z’s ‘cockroach’ party is challenging Modi over 130 million deleted voter names",
-      "url": "https://fortune.com/2026/10/23/cockroach-janta-party-modi-pradhan-resignation/",
-      "published_at": "2026-10-23T20:55:02+00:00",
-      "summary": "With 40% of Indian graduates under 25 unemployed, the Cockroach Janta Party is pressing the Election Commission."
+      "title": "Every child will get AI. Not every child will get a teacher",
+      "url": "https://fortune.com/2026/10/24/every-child-will-get-ai-not-every-child-will-get-a-teacher/",
+      "published_at": "2026-10-24T19:00:00+00:00",
+      "summary": "Today, you hear concerns that AI tools will be a privilege for wealthy kids only. But soon every child will have an AI tutor, just maybe not a human one."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "We served opposing presidents, but we agree on how to fix the data-center mess",
-      "url": "https://fortune.com/2026/10/23/data-center-mess-how-to-fix-bipartisan/",
-      "published_at": "2026-10-23T10:30:00+00:00",
-      "summary": "Biden's former EPA leader and Trump's former FERC chair say they disagree on plenty, but not that the status quo is failing America."
+      "title": "Georgia’s ‘foster care to billionaire’ GOP gubernatorial candidate calls his fortune ‘God’s money’ while spending $200 million on his campaign",
+      "url": "https://fortune.com/2026/10/24/georgia-billionaire-gop-gubernatorial-candidate-rick-jackson-fortune-gods-money-200-million-campaign/",
+      "published_at": "2026-10-24T17:54:31+00:00",
+      "summary": "“I have lived in poverty,” Jackson says. “When you have not eaten, you never forget that, and you don’t forget the people that are struggling.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
-      "url": "https://fortune.com/2026/10/23/openai-cyber-php2shell-openai-flaw-websites-hackers/",
-      "published_at": "2026-10-23T20:36:34+00:00",
-      "summary": "Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs their websites."
+      "title": "France’s latest debt warning describes a country where governance is breaking down — and even doing too little, too late is barely possible",
+      "url": "https://fortune.com/2026/10/24/france-debt-crisis-warning-moodys-governance-budget-deficit-presidential-election-politics/",
+      "published_at": "2026-10-24T17:01:51+00:00",
+      "summary": "\"The negative outlook reflects the increased risk that the fragmentation of France's political landscape will continue to impair the functioning of the country's legislative institutions.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Elizabeth Holmes documentary maker Nathan Fielder started out as a broker. He quit because it was ‘depressing’ and is now making millions",
-      "url": "https://fortune.com/2026/10/23/nathan-fielder-comedian-elizabeth-holmes-documentary-career-journey-lessons-you-can-see-everything/",
-      "published_at": "2026-10-23T15:25:05+00:00",
-      "summary": "“You Can See Everything” is set to make $25 million in its second week. But its codirector, Nathan Fielder, had a fairly humble start in life."
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: testing six tech promises and biotech’s blind spots",
-      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-      "published_at": "2026-10-23T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "In the biotech world, you can’t see everything",
-      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-      "published_at": "2026-10-23T09:00:00+00:00",
-      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new"
+      "title": "It’s not just France — Protesters are marching across Europe as part of the newly formed ‘Oct. 17 Movement’",
+      "url": "https://fortune.com/2026/10/24/europe-protests-oct-17-movement-france-spain-italy-albania-portugal/",
+      "published_at": "2026-10-24T15:16:15+00:00",
+      "summary": "Milan is among the many other European cities, from Tirana in Albania to Madrid in Spain, that are rocked by protests Saturday."
     }
   ]
 }

@@ -1,135 +1,119 @@
 {
-  "updated_at": "2026-10-25T05:53:37.515316+00:00",
+  "updated_at": "2026-10-26T05:57:54.201750+00:00",
   "period_hours": 24,
-  "article_count": 16,
+  "article_count": 14,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "published_at": "2026-10-24T20:46:34+00:00",
-      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
+      "title": "The best apps for tracking your reading and discovering new books",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "published_at": "2026-10-26T01:10:00+00:00",
+      "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "published_at": "2026-10-24T20:15:33+00:00",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\""
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published_at": "2026-10-25T21:31:16+00:00",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published_at": "2026-10-24T19:00:00+00:00",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "published_at": "2026-10-25T20:20:08+00:00",
+      "summary": "\"That's a 12-year-old view of the world.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-      "published_at": "2026-10-24T16:30:00+00:00",
-      "summary": "Instacart might sell itself to a larger competitor."
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published_at": "2026-10-25T16:57:32+00:00",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Block’s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "published_at": "2026-10-24T16:00:00+00:00",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "published_at": "2026-10-25T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "published_at": "2026-10-24T15:30:00+00:00",
-      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "These clever apps show off the iPhone Duo’s potential",
-      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "published_at": "2026-10-24T15:00:00+00:00",
-      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "published_at": "2026-10-24T15:00:00+00:00",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published_at": "2026-10-25T14:10:00+00:00",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
-      "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/",
-      "published_at": "2026-10-24T23:20:47+00:00",
-      "summary": "The crowd heard calls for a commission of inquiry into the security failures that led to the Hamas-led attack on Oct. 7, 2023, that sparked the war in Gaza."
+      "title": "Japanese biotech firm Rakuten Medical wants to bring its novel ‘lightsaber’ cancer cure to the U.S.",
+      "url": "https://fortune.com/2026/10/26/japanese-biotech-firm-cancer-cure/",
+      "published_at": "2026-10-26T05:10:49+00:00",
+      "summary": "In the short-term, the firm is looking to enter markets close to home—including Taiwan, Macau, Singapore, Hong Kong and Saudi Arabia."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "French police use tear gas and water cannons after some protests turn violent as shopkeepers board up storefronts across Paris",
-      "url": "https://fortune.com/2026/10/24/french-police-tear-gas-water-cannons-protests-violence/",
-      "published_at": "2026-10-24T23:09:17+00:00",
-      "summary": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs."
+      "title": "Trump critic Lula wins reelection, saying Brazil is not ‘anyone’s backyard,’ while Bolsonaro asks for results to be annulled",
+      "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/",
+      "published_at": "2026-10-26T04:09:07+00:00",
+      "summary": "With 100% of the vote counted, Brazil’s electoral court announced that the soon to be 81-year-old Lula had a lead of nearly 4.4 million votes over opponent Flávio Bolsonaro."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The world’s biggest producer of maple syrup has nearly exhausted its strategic reserves after Americans hoarded supplies ahead of Trump’s tariffs",
-      "url": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/",
-      "published_at": "2026-10-24T22:46:22+00:00",
-      "summary": "The Quebec Maple Syrup Producers, which oversees the strategic syrup reserve, predicted the stockpile will be completely empty by February."
+      "title": "Air Force One passengers reveal Trump’s inner circle and who is ‘whispering in his ear and talking softly in private quarters’",
+      "url": "https://fortune.com/2026/10/25/air-force-one-passengers-trump-inner-circle-susie-wiles-miller-lutnick-bessent-pulte-natalie-harp/",
+      "published_at": "2026-10-25T23:26:51+00:00",
+      "summary": "Along for the ride: an entourage ranging from aging boxing champions to Cabinet members to relatively unknown aides who help craft Trump's words and ideas."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Here’s the ‘core economic flaw’ in the AI bull case as stock and bond trades unravel, according to a top economist",
-      "url": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
-      "published_at": "2026-10-24T19:39:53+00:00",
-      "summary": "\"So far, the AI payoff for firms has been slow to materialize, implying a growing reluctance to pay for AI services.\""
+      "title": "Forget the House and the Senate, the economy may hinge on state and local races in the midterm elections",
+      "url": "https://fortune.com/2026/10/25/midterm-elections-house-senate-economy-gdp-growth-state-local-races-data-centers-blue-wave/",
+      "published_at": "2026-10-25T22:48:14+00:00",
+      "summary": "\"For the direction of the U.S. economy, the composition and direction of governance at the state level may matter more than whether the Democrats 'win' the House or the Senate.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Every child will get AI. Not every child will get a teacher",
-      "url": "https://fortune.com/2026/10/24/every-child-will-get-ai-not-every-child-will-get-a-teacher/",
-      "published_at": "2026-10-24T19:00:00+00:00",
-      "summary": "Today, you hear concerns that AI tools will be a privilege for wealthy kids only. But soon every child will have an AI tutor, just maybe not a human one."
+      "title": "Rich Eisen went from SportsCenter to NFL Network to owning his show. Now he’s back at ESPN, betting ’90s nostalgia still sells",
+      "url": "https://fortune.com/2026/10/25/rich-eisen-went-from-sportscenter-to-nfl-network-to-owning-his-own-show-now-hes-back-at-espn-betting-90s-nostalgia-still-sells/",
+      "published_at": "2026-10-25T10:29:00+00:00",
+      "summary": "The broadcaster and CEO is streaming on Disney+, airing on ESPN Radio, and mining ESPN’s archive for a SportsCenter nostalgia series."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Georgia’s ‘foster care to billionaire’ GOP gubernatorial candidate calls his fortune ‘God’s money’ while spending $200 million on his campaign",
-      "url": "https://fortune.com/2026/10/24/georgia-billionaire-gop-gubernatorial-candidate-rick-jackson-fortune-gods-money-200-million-campaign/",
-      "published_at": "2026-10-24T17:54:31+00:00",
-      "summary": "“I have lived in poverty,” Jackson says. “When you have not eaten, you never forget that, and you don’t forget the people that are struggling.”"
+      "title": "Audi CEO Gernot Döllner appears on stage with Trump at a Republican campaign rally to announce a new car factory in Georgia",
+      "url": "https://fortune.com/2026/10/25/audi-ceo-gernot-dollner-trump-republican-campaign-rally-car-factory-georgia/",
+      "published_at": "2026-10-25T21:08:11+00:00",
+      "summary": "Trump said Audi would commit $4.2 billion in nearby Macon to begin construction on a plant that will produce 200,000 cars a year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "France’s latest debt warning describes a country where governance is breaking down — and even doing too little, too late is barely possible",
-      "url": "https://fortune.com/2026/10/24/france-debt-crisis-warning-moodys-governance-budget-deficit-presidential-election-politics/",
-      "published_at": "2026-10-24T17:01:51+00:00",
-      "summary": "\"The negative outlook reflects the increased risk that the fragmentation of France's political landscape will continue to impair the functioning of the country's legislative institutions.\""
+      "title": "United Airlines CEO Scott Kirby has another ‘non-consensus opinion’ besides a wealth tax: national service for everyone",
+      "url": "https://fortune.com/2026/10/25/united-airlines-ceo-scott-kirby-wealth-tax-national-service-teacher-military-first-responder/",
+      "published_at": "2026-10-25T20:48:17+00:00",
+      "summary": "\"I think if everyone had to spend a couple of years as a teacher, as a firefighter, serving in the military—I think that'd be good for our country.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "It’s not just France — Protesters are marching across Europe as part of the newly formed ‘Oct. 17 Movement’",
-      "url": "https://fortune.com/2026/10/24/europe-protests-oct-17-movement-france-spain-italy-albania-portugal/",
-      "published_at": "2026-10-24T15:16:15+00:00",
-      "summary": "Milan is among the many other European cities, from Tirana in Albania to Madrid in Spain, that are rocked by protests Saturday."
+      "title": "As Mideast braces for all-out war to resume, Iran is still passing messages to the U.S. via intermediaries, foreign ministry says",
+      "url": "https://fortune.com/2026/10/25/iran-war-messages-us-intermediaries-diplomacy-negotiations/",
+      "published_at": "2026-10-25T18:30:45+00:00",
+      "summary": "Iran's foreign ministry spokesperson, Esmail Baghaei, said Tehran has not closed the window of diplomacy."
     }
   ]
 }

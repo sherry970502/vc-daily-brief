@@ -1,119 +1,183 @@
 {
-  "updated_at": "2026-10-26T05:57:54.201750+00:00",
+  "updated_at": "2026-10-27T06:08:59.871357+00:00",
   "period_hours": 24,
-  "article_count": 14,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The best apps for tracking your reading and discovering new books",
-      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-      "published_at": "2026-10-26T01:10:00+00:00",
-      "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you."
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "published_at": "2026-10-27T02:00:00+00:00",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "published_at": "2026-10-25T21:31:16+00:00",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "published_at": "2026-10-27T01:12:21+00:00",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-      "published_at": "2026-10-25T20:20:08+00:00",
-      "summary": "\"That's a 12-year-old view of the world.\""
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "published_at": "2026-10-25T16:57:32+00:00",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "published_at": "2026-10-26T21:05:11+00:00",
+      "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-      "published_at": "2026-10-25T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "published_at": "2026-10-26T19:22:40+00:00",
+      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "published_at": "2026-10-25T14:10:00+00:00",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+      "published_at": "2026-10-26T18:59:52+00:00",
+      "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?"
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "published_at": "2026-10-26T17:45:00+00:00",
+      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published_at": "2026-10-26T16:49:42+00:00",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Some Observations About Anthropic’s IPO Filing",
+      "url": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
+      "published_at": "2026-10-26T20:10:57+00:00",
+      "summary": "In an S-1 filing today preceding what could be the largest IPO ever, Anthropic laid out extensive new details about its earnings, growth, key stakeholders and the risks it faces going forward. Clocking in at 335 pages, the document wasn’t exactly light reading. However, in a preliminary once-over, w"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "When Traction Becomes Personal Exposure: What The Joonko Guilty Plea Means For Founders",
+      "url": "https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/",
+      "published_at": "2026-10-26T11:00:38+00:00",
+      "summary": "False claims about customers, revenue and AI capabilities can expose founders to personal securities-fraud liability, with D&#038;O insurance offering limited protection against established misconduct. Guest author Kyle Jeziorski of Founder Shield shares three policy provisions that need close atten"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year",
+      "url": "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/",
+      "published_at": "2026-10-26T11:00:35+00:00",
+      "summary": "California companies have scooped up more than three-fourths of all U.S. startup funding this year. That, per Crunchbase data, is an apparent record share. And keep in mind: This year still has a couple months left."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Japanese biotech firm Rakuten Medical wants to bring its novel ‘lightsaber’ cancer cure to the U.S.",
-      "url": "https://fortune.com/2026/10/26/japanese-biotech-firm-cancer-cure/",
-      "published_at": "2026-10-26T05:10:49+00:00",
-      "summary": "In the short-term, the firm is looking to enter markets close to home—including Taiwan, Macau, Singapore, Hong Kong and Saudi Arabia."
+      "title": "Anthropic plans to spend up to $567 billion on compute. Its IPO prospectus reveals plans to set up its own data centers",
+      "url": "https://fortune.com/2026/10/26/anthropics-s1-ipo-reveals-the-inner-workings-of-its-fast-evolving-compute-strategy/",
+      "published_at": "2026-10-26T16:29:40+00:00",
+      "summary": "The company’s success depends on it, but intense competition and supply-chain shortages stand in the way."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump critic Lula wins reelection, saying Brazil is not ‘anyone’s backyard,’ while Bolsonaro asks for results to be annulled",
-      "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/",
-      "published_at": "2026-10-26T04:09:07+00:00",
-      "summary": "With 100% of the vote counted, Brazil’s electoral court announced that the soon to be 81-year-old Lula had a lead of nearly 4.4 million votes over opponent Flávio Bolsonaro."
+      "title": "Anthropic’s S-1 makes clear it’s on the hook for billions in compute. Its customers can walk at any time",
+      "url": "https://fortune.com/2026/10/26/anthropics-s-1-makes-clear-its-on-the-hook-for-billions-in-compute-its-customers-can-walk-at-any-time-2/",
+      "published_at": "2026-10-26T20:30:59+00:00",
+      "summary": "As the AI startup prepares to go public, its massive multibillion-dollar cloud commitments threaten to put huge pressure on its margins if customer demand slows down."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Air Force One passengers reveal Trump’s inner circle and who is ‘whispering in his ear and talking softly in private quarters’",
-      "url": "https://fortune.com/2026/10/25/air-force-one-passengers-trump-inner-circle-susie-wiles-miller-lutnick-bessent-pulte-natalie-harp/",
-      "published_at": "2026-10-25T23:26:51+00:00",
-      "summary": "Along for the ride: an entourage ranging from aging boxing champions to Cabinet members to relatively unknown aides who help craft Trump's words and ideas."
+      "title": "Microsoft offers buyouts to nearly 30% of workforce in ongoing AI shift",
+      "url": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/",
+      "published_at": "2026-10-26T21:22:29+00:00",
+      "summary": "The software giant has been cutting headcount to trim costs while investing billions to build out AI data centers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Forget the House and the Senate, the economy may hinge on state and local races in the midterm elections",
-      "url": "https://fortune.com/2026/10/25/midterm-elections-house-senate-economy-gdp-growth-state-local-races-data-centers-blue-wave/",
-      "published_at": "2026-10-25T22:48:14+00:00",
-      "summary": "\"For the direction of the U.S. economy, the composition and direction of governance at the state level may matter more than whether the Democrats 'win' the House or the Senate.\""
+      "title": "Anthropic’s risk factors include the end of humanity, a feud with the Pentagon, and CEO Dario Amodei’s reputation",
+      "url": "https://fortune.com/2026/10/26/anthropic-s1-risk-factors-existential-risk-pentagon-dario-amodei/",
+      "published_at": "2026-10-26T19:10:33+00:00",
+      "summary": "Alongside the usual warnings about competition and regulation, Anthropic tells investors its own technology could pose “catastrophic or existential risks to humanity.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Rich Eisen went from SportsCenter to NFL Network to owning his show. Now he’s back at ESPN, betting ’90s nostalgia still sells",
-      "url": "https://fortune.com/2026/10/25/rich-eisen-went-from-sportscenter-to-nfl-network-to-owning-his-own-show-now-hes-back-at-espn-betting-90s-nostalgia-still-sells/",
-      "published_at": "2026-10-25T10:29:00+00:00",
-      "summary": "The broadcaster and CEO is streaming on Disney+, airing on ESPN Radio, and mining ESPN’s archive for a SportsCenter nostalgia series."
+      "title": "Anthropic’s 7 cofounders are splitting $200 billion almost evenly, down to the last stock option",
+      "url": "https://fortune.com/2026/10/26/anthropic-7-cofounders-pay-parity/",
+      "published_at": "2026-10-26T21:25:05+00:00",
+      "summary": "The Claude maker’s seven founders are paid under a philosophy of internal pay parity."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Audi CEO Gernot Döllner appears on stage with Trump at a Republican campaign rally to announce a new car factory in Georgia",
-      "url": "https://fortune.com/2026/10/25/audi-ceo-gernot-dollner-trump-republican-campaign-rally-car-factory-georgia/",
-      "published_at": "2026-10-25T21:08:11+00:00",
-      "summary": "Trump said Audi would commit $4.2 billion in nearby Macon to begin construction on a plant that will produce 200,000 cars a year."
+      "title": "Trump promised 300,000 tons of beef imports at lower tariff rates to reduce grocery costs. Instead, shipments have lagged and prices haven’t budged",
+      "url": "https://fortune.com/2026/10/26/beef-imports-reduced-tariffs-falling-short-beef-prices/",
+      "published_at": "2026-10-26T21:03:24+00:00",
+      "summary": "“The simple assumption there was that if we can just increase supply of beef in the U.S., that should lower prices. Unfortunately, the beef industry is much more complex than that.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "United Airlines CEO Scott Kirby has another ‘non-consensus opinion’ besides a wealth tax: national service for everyone",
-      "url": "https://fortune.com/2026/10/25/united-airlines-ceo-scott-kirby-wealth-tax-national-service-teacher-military-first-responder/",
-      "published_at": "2026-10-25T20:48:17+00:00",
-      "summary": "\"I think if everyone had to spend a couple of years as a teacher, as a firefighter, serving in the military—I think that'd be good for our country.\""
+      "title": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile food and water",
+      "url": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/",
+      "published_at": "2026-10-26T20:51:42+00:00",
+      "summary": "From nuclear microreactors on military bases to canned food in British kitchens, two allied governments are bracing for cyberattacks and sabotage that could knock out essential services before a shot is fired."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As Mideast braces for all-out war to resume, Iran is still passing messages to the U.S. via intermediaries, foreign ministry says",
-      "url": "https://fortune.com/2026/10/25/iran-war-messages-us-intermediaries-diplomacy-negotiations/",
-      "published_at": "2026-10-25T18:30:45+00:00",
-      "summary": "Iran's foreign ministry spokesperson, Esmail Baghaei, said Tehran has not closed the window of diplomacy."
+      "title": "A $44 million superhero horror film won the box office this weekend. A $7 million documentary came within $5 million of beating it",
+      "url": "https://fortune.com/2026/10/26/clayface-box-office-opening-weekend-street-fighter-drop-wildwood-you-can-see-everything/",
+      "published_at": "2026-10-26T20:34:33+00:00",
+      "summary": "DC Studios’ R-rated ‘Clayface’ opened at No. 1, Laika’s ‘Wildwood’ debuted in third, and Paramount’s ‘Street Fighter’ lost nearly three-quarters of its audience, while A24’s ‘You Can See Everything’ grew 25% in its second weekend."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "published_at": "2026-10-26T17:45:43+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "published_at": "2026-10-26T12:40:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive dire"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "published_at": "2026-10-26T09:01:00+00:00",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th"
     }
   ]
 }

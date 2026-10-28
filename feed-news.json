@@ -1,183 +1,175 @@
 {
-  "updated_at": "2026-10-27T06:08:59.871357+00:00",
+  "updated_at": "2026-10-28T06:46:52.093838+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "published_at": "2026-10-27T02:00:00+00:00",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "published_at": "2026-10-28T05:20:32+00:00",
+      "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "published_at": "2026-10-27T01:12:21+00:00",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "published_at": "2026-10-28T01:15:28+00:00",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "published_at": "2026-10-26T22:00:00+00:00",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team."
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published_at": "2026-10-27T23:34:27+00:00",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-      "published_at": "2026-10-26T21:05:11+00:00",
-      "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram."
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published_at": "2026-10-27T22:55:41+00:00",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "published_at": "2026-10-26T19:22:40+00:00",
-      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "published_at": "2026-10-27T22:26:03+00:00",
+      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "published_at": "2026-10-26T18:59:52+00:00",
-      "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?"
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "published_at": "2026-10-27T22:17:18+00:00",
+      "summary": "A whole crop of venture capital firms  are raising significant new funds."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "published_at": "2026-10-26T17:45:00+00:00",
-      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+      "title": "GM is embracing hybrids now",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "published_at": "2026-10-27T21:47:02+00:00",
+      "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "published_at": "2026-10-26T16:49:42+00:00",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "published_at": "2026-10-27T21:44:34+00:00",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Some Observations About Anthropic’s IPO Filing",
-      "url": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
-      "published_at": "2026-10-26T20:10:57+00:00",
-      "summary": "In an S-1 filing today preceding what could be the largest IPO ever, Anthropic laid out extensive new details about its earnings, growth, key stakeholders and the risks it faces going forward. Clocking in at 335 pages, the document wasn’t exactly light reading. However, in a preliminary once-over, w"
+      "title": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
+      "url": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
+      "published_at": "2026-10-27T11:00:53+00:00",
+      "summary": "Venture funding to robotics startups has soared in 2026, with the bulk of investment going to companies based in China and the U.S., Crunchbase data shows. All told, global venture funding to robotics startups totaled $9.9 billion in Q3, more than double the $4.3 billion invested in Q3 2025, per Cru"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "When Traction Becomes Personal Exposure: What The Joonko Guilty Plea Means For Founders",
-      "url": "https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/",
-      "published_at": "2026-10-26T11:00:38+00:00",
-      "summary": "False claims about customers, revenue and AI capabilities can expose founders to personal securities-fraud liability, with D&#038;O insurance offering limited protection against established misconduct. Guest author Kyle Jeziorski of Founder Shield shares three policy provisions that need close atten"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year",
-      "url": "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/",
-      "published_at": "2026-10-26T11:00:35+00:00",
-      "summary": "California companies have scooped up more than three-fourths of all U.S. startup funding this year. That, per Crunchbase data, is an apparent record share. And keep in mind: This year still has a couple months left."
+      "title": "Your AI Agents Need A Chief Operating Officer, Too",
+      "url": "https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/",
+      "published_at": "2026-10-27T11:00:44+00:00",
+      "summary": "Scaling AI agents requires treating them like employees in regulated roles, with written rules, clearly defined responsibilities and a named human manager accountable for their performance. Guest author Rick Folgmann, COO at Get Covered, tells companies they should start with tasks governed by estab"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic plans to spend up to $567 billion on compute. Its IPO prospectus reveals plans to set up its own data centers",
-      "url": "https://fortune.com/2026/10/26/anthropics-s1-ipo-reveals-the-inner-workings-of-its-fast-evolving-compute-strategy/",
-      "published_at": "2026-10-26T16:29:40+00:00",
-      "summary": "The company’s success depends on it, but intense competition and supply-chain shortages stand in the way."
+      "title": "Elon Musk promised an AI epic to rival Christopher Nolan’s film. Viewers got a seven-minute glitch",
+      "url": "https://fortune.com/2026/10/27/elon-musk-grok-imagine-ai-odyssey-movie-seven-minute-episode-backlash-christopher-nolan-casting-controversy/",
+      "published_at": "2026-10-27T19:57:42+00:00",
+      "summary": "The first installment of Grok’s “The Odyssey” reveals the persistent gap between generative video hype and cinematic reality."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic’s S-1 makes clear it’s on the hook for billions in compute. Its customers can walk at any time",
-      "url": "https://fortune.com/2026/10/26/anthropics-s-1-makes-clear-its-on-the-hook-for-billions-in-compute-its-customers-can-walk-at-any-time-2/",
-      "published_at": "2026-10-26T20:30:59+00:00",
-      "summary": "As the AI startup prepares to go public, its massive multibillion-dollar cloud commitments threaten to put huge pressure on its margins if customer demand slows down."
+      "title": "Newsom agrees smart glasses need privacy rules—just not the ones California lawmakers wrote",
+      "url": "https://fortune.com/2026/10/27/gavin-newsom-smart-glasses-privacy-bill-veto/",
+      "published_at": "2026-10-27T19:18:02+00:00",
+      "summary": "Newsom rejected new recording safeguards as too broad, even as he acknowledged the privacy risks posed by wearable cameras."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft offers buyouts to nearly 30% of workforce in ongoing AI shift",
-      "url": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/",
-      "published_at": "2026-10-26T21:22:29+00:00",
-      "summary": "The software giant has been cutting headcount to trim costs while investing billions to build out AI data centers."
+      "title": "China’s first AI-generated film to get a theatrical release flops at the box office",
+      "url": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/",
+      "published_at": "2026-10-27T21:00:00+00:00",
+      "summary": "Sanxingdui: Future Past only generated around $180,000 at the box office, despite costing $1.5 million to make."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic’s risk factors include the end of humanity, a feud with the Pentagon, and CEO Dario Amodei’s reputation",
-      "url": "https://fortune.com/2026/10/26/anthropic-s1-risk-factors-existential-risk-pentagon-dario-amodei/",
-      "published_at": "2026-10-26T19:10:33+00:00",
-      "summary": "Alongside the usual warnings about competition and regulation, Anthropic tells investors its own technology could pose “catastrophic or existential risks to humanity.”"
+      "title": "‘The real generation gap is about expectations’: What happens to retirement if we live to 130?",
+      "url": "https://fortune.com/2026/10/27/great-wealth-transfer-retirement-longevity-boomers-millennials-gen-z-john-hancock-mit/",
+      "published_at": "2026-10-27T12:00:00+00:00",
+      "summary": "The MIT AgeLab’s Joe Coughlin isn’t sold on the Great Wealth Transfer. “For all the kids waiting for that great check in the sky, don’t hold your breath.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic’s 7 cofounders are splitting $200 billion almost evenly, down to the last stock option",
-      "url": "https://fortune.com/2026/10/26/anthropic-7-cofounders-pay-parity/",
-      "published_at": "2026-10-26T21:25:05+00:00",
-      "summary": "The Claude maker’s seven founders are paid under a philosophy of internal pay parity."
+      "title": "Ex–Google engineer Nate Soares hasn’t added to his 401(k) in a decade because he’s an ‘AI kills all humans guy’",
+      "url": "https://fortune.com/2026/10/27/ai-humanity-nate-soares-401k-retirement/",
+      "published_at": "2026-10-27T19:05:10+00:00",
+      "summary": "The coauthor of “If Anyone Builds It, Everyone Dies” puts the odds that humanity doesn’t have 10 years left at better than even."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump promised 300,000 tons of beef imports at lower tariff rates to reduce grocery costs. Instead, shipments have lagged and prices haven’t budged",
-      "url": "https://fortune.com/2026/10/26/beef-imports-reduced-tariffs-falling-short-beef-prices/",
-      "published_at": "2026-10-26T21:03:24+00:00",
-      "summary": "“The simple assumption there was that if we can just increase supply of beef in the U.S., that should lower prices. Unfortunately, the beef industry is much more complex than that.”"
+      "title": "The big takeaways and big questions from Anthropic’s S-1",
+      "url": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
+      "published_at": "2026-10-27T19:38:10+00:00",
+      "summary": "Anthropic's IPO prospectus shows its current financials are strong—but the risks to its business and, perhaps, all of us loom large."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile food and water",
-      "url": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/",
-      "published_at": "2026-10-26T20:51:42+00:00",
-      "summary": "From nuclear microreactors on military bases to canned food in British kitchens, two allied governments are bracing for cyberattacks and sabotage that could knock out essential services before a shot is fired."
+      "title": "The Trump admin said energy costs were a small price to pay in Iran war, but U.S. consumers are paying nearly 8x more than anyone else in fuel costs",
+      "url": "https://fortune.com/2026/10/27/iran-war-fuel-costs-8x-higher-american-consumers-trump-auto-energy-policy/",
+      "published_at": "2026-10-27T18:16:32+00:00",
+      "summary": "America’s continued reliance on gas-powered cars has made it vulnerable to energy shocks both in the Middle East and in the future, a new report found."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A $44 million superhero horror film won the box office this weekend. A $7 million documentary came within $5 million of beating it",
-      "url": "https://fortune.com/2026/10/26/clayface-box-office-opening-weekend-street-fighter-drop-wildwood-you-can-see-everything/",
-      "published_at": "2026-10-26T20:34:33+00:00",
-      "summary": "DC Studios’ R-rated ‘Clayface’ opened at No. 1, Laika’s ‘Wildwood’ debuted in third, and Paramount’s ‘Street Fighter’ lost nearly three-quarters of its audience, while A24’s ‘You Can See Everything’ grew 25% in its second weekend."
+      "title": "As AI threatens entry-level jobs, Gen Z is souring on if another degree can help—U.S. business school applications have plunged 25%",
+      "url": "https://fortune.com/2026/10/27/business-school-applications-decline-gen-z-question-degrees-gmac-data-ai-impact-entry-level-job-market/",
+      "published_at": "2026-10-27T14:53:46+00:00",
+      "summary": "Business school is becoming a tougher sell for Gen Z, even as graduates of top MBA programs land jobs with median base salaries of at least $175,000."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "published_at": "2026-10-26T17:45:43+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u"
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "published_at": "2026-10-27T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-      "published_at": "2026-10-26T12:40:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive dire"
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "published_at": "2026-10-27T11:19:18+00:00",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "published_at": "2026-10-26T09:01:00+00:00",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th"
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "published_at": "2026-10-27T09:00:00+00:00",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races"
     }
   ]
 }

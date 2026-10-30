@@ -1,191 +1,175 @@
 {
-  "updated_at": "2026-10-29T06:55:49.490511+00:00",
+  "updated_at": "2026-10-30T06:58:33.550912+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "published_at": "2026-10-28T23:15:00+00:00",
-      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "published_at": "2026-10-30T01:20:48+00:00",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "published_at": "2026-10-28T22:47:50+00:00",
-      "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "published_at": "2026-10-29T23:44:56+00:00",
+      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "published_at": "2026-10-28T21:58:32+00:00",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published_at": "2026-10-29T23:42:22+00:00",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "published_at": "2026-10-28T21:48:37+00:00",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "published_at": "2026-10-29T22:27:23+00:00",
+      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "published_at": "2026-10-28T21:34:30+00:00",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "published_at": "2026-10-29T21:51:29+00:00",
+      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "published_at": "2026-10-28T21:25:30+00:00",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "published_at": "2026-10-29T21:20:47+00:00",
+      "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "published_at": "2026-10-28T20:01:00+00:00",
-      "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online."
+      "title": "GM reaches $220M settlement over selling drivers’ private data",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "published_at": "2026-10-29T21:01:04+00:00",
+      "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "published_at": "2026-10-28T19:19:58+00:00",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "published_at": "2026-10-29T20:43:56+00:00",
+      "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "published_at": "2026-10-28T16:25:30+00:00",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+      "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+      "url": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
+      "published_at": "2026-10-29T11:00:35+00:00",
+      "summary": "Crunchbase data shows that so far this year, investors have poured around $48 billion into financings around the Series B stage, the highest tally in years. Yet round counts are below year-ago levels and are on track for a multiyear low. We take a look at the data."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
-      "url": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
-      "published_at": "2026-10-28T12:00:48+00:00",
-      "summary": "Numeracle, a McLean, Virginia-based company that verifies businesses and links their identities to the phone numbers they use to contact customers, has raised $28 million from Edison Partners to help businesses whose calls are incorrectly labeled as spam or blocked by phone carriers."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Invisible Graph: How Companies Grow Revenue And Still Lose Value",
-      "url": "https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/",
-      "published_at": "2026-10-28T11:00:57+00:00",
-      "summary": "Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest author Itay Sagie suggests that founders and boards should track valuation alongside financial performance, model the effects of delaying a sale, and begi"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "From Monk To Startups: One Founder’s Unusual Path To Building Government Software",
-      "url": "https://news.crunchbase.com/startups/nontech-founder-government-ai-software-chen-fsh/",
-      "published_at": "2026-10-28T11:00:00+00:00",
-      "summary": "After living as a monk while managing Graves’ disease, a former Facebook engineer left Big Tech to pursue meaningful work, eventually founding government software startup FSH Technologies which aims to improve processes such as school food services and public records management through the use of ar"
+      "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
+      "url": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
+      "published_at": "2026-10-29T11:00:12+00:00",
+      "summary": "AI megarounds are masking a shrinking Series A market, leaving seed founders facing higher revenue expectations and longer timelines despite larger seed checks. To improve their chances, MGV's Marc Schröder says, founders should size their seed funding around Series A milestones."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Can Southeast Asia pitch itself as an ‘all-in-one’ chip hub?",
-      "url": "https://fortune.com/2026/10/29/southeast-asia-semiconductor-supply-chain/",
-      "published_at": "2026-10-29T05:00:00+00:00",
-      "summary": "“Cultivation of semiconductor supply chains has put the region in the right place at the right time.\""
+      "title": "Serbia’s Gen Z takes back their country from strongman Vucic, demanding top police, intelligence, judiciary officials resign immediately",
+      "url": "https://fortune.com/2026/10/30/serbia-students-election-win-vucic-officials-resign/",
+      "published_at": "2026-10-30T06:00:00+00:00",
+      "summary": "The students' win on Sunday marks the first time that a grass-root youth movement toppled a well-established political leader."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft’s cloud growth accelerates, and so too does the spending",
-      "url": "https://fortune.com/2026/10/28/microsofts-cloud-growth-accelerates-and-so-too-does-the-spending/",
-      "published_at": "2026-10-28T20:38:45+00:00",
-      "summary": "Software giant is one of the tech industry’s largest spenders in cloud computing."
+      "title": "The $6.3 billion Binance hack: What we know so far about the biggest crypto heist in history",
+      "url": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/",
+      "published_at": "2026-10-30T05:49:46+00:00",
+      "summary": "There are unconfirmed reports North Korea is behind the massive hack."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "For the first time since 1992, a Fed governor and president dissented together, as Kevin Warsh says the ‘monetary medicine’ is starting to work",
-      "url": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/",
-      "published_at": "2026-10-28T19:24:21+00:00",
-      "summary": "The Fed held rates at 3.75% to 4% six days before the midterms, as Cook—whom Trump has tried to fire—and Hammack pushed for a hike."
+      "title": "Trump is still defying judge’s orders by banning media access, CNN, MS NOW and Politico say",
+      "url": "https://fortune.com/2026/10/29/cnn-ms-now-politico-white-house-press-pool-court/",
+      "published_at": "2026-10-30T03:42:25+00:00",
+      "summary": "The most recent filing asks the court to make those previous orders permanent."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "OpenAI CEO Sam Altman shares his ‘chronic disappointment’ in Gen Z—they’re stuck on what ‘was cool five years ago,’ instead of embracing AI",
-      "url": "https://fortune.com/2026/10/28/openai-ceo-sam-altman-gen-z-disappointment-start-new-business-with-ai-entrepreneurship-career-advice/",
-      "published_at": "2026-10-28T14:46:33+00:00",
-      "summary": "Billionaire OpenAI CEO Sam Altman says AI will upend jobs—but young workers who embrace entrepreneurship could turn disruption into opportunity."
+      "title": "Weakened Netanyahu spreads claims of malfeasance by Arab-led parties as his party claims Israel’s election was ‘stolen’",
+      "url": "https://fortune.com/2026/10/29/israel-election-netanyahu-bloc-loses-majority-stolen-claims/",
+      "published_at": "2026-10-30T03:15:24+00:00",
+      "summary": "The opposition accused Netanyahu of demonizing the Arab population after a historic showing by Arab-led parties in an attempt to delegitimize the election."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red",
-      "url": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/",
-      "published_at": "2026-10-28T20:40:15+00:00",
-      "summary": "Capital expenditures hit a record $51.4 billion and free cash flow was negative $9.1 billion."
+      "title": "Spanish PM, facing reelection, says it’s ‘unacceptable’ to suffer two high-speed rail accidents in one year as at least 68 die in collision",
+      "url": "https://fortune.com/2026/10/29/spain-high-speed-train-crash-68-dead-urda/",
+      "published_at": "2026-10-30T03:12:11+00:00",
+      "summary": "Pedro Sánchez called for increased safety measures to restore confidence in a high-speed rail system that was once a source of national pride."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Soccer superstar Kylian Mbappé is the latest global name to find himself on the wrong side of Chinese patriotism",
-      "url": "https://fortune.com/2026/10/28/mbappe-china-real-madrid-backlash/",
-      "published_at": "2026-10-28T21:00:00+00:00",
-      "summary": "Global celebrities and companies have faced similar backlash in China over comments, imagery, and jokes deemed politically or culturally insensitive."
+      "title": "Grandson of Reese’s inventor says Hershey is selling a ‘total imitation’ of the candy recipe. The rest of the family insists it tastes the same",
+      "url": "https://fortune.com/2026/10/29/reeses-peanut-butter-cup-recipe-inventor-hershey-chocolate/",
+      "published_at": "2026-10-29T14:00:36+00:00",
+      "summary": "Hershey says it will bring back the classic recipe in 2027. Brad Reese calls that ‘a stall,’ but his cousins say he speaks for no one."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet the baby boomer whose life changed when 2 Gen Z AI founders walked into her plumbing business. She became their first COO",
-      "url": "https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/",
-      "published_at": "2026-10-28T13:00:00+00:00",
-      "summary": "Marcelle Flowers was trying to sell her Sacramento business when Broccoli AI knocked on her door. Now they’ve raised $52 million led by Khosla Ventures."
+      "title": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
+      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
+      "published_at": "2026-10-30T00:10:15+00:00",
+      "summary": "Search revenue missed forecasts and free cash flow went negative. Bank of America now values Google’s core search business at about 10 times earnings, against 18.7 for the S&#038;P 500."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "DOJ’s Hunter Biden laptop prosecution hits a snag after a federal judge questions department’s unorthodox filing",
-      "url": "https://fortune.com/2026/10/28/hunter-biden-laptop-fbi-doj-judge/",
-      "published_at": "2026-10-28T15:52:45+00:00",
-      "summary": "A federal judge struck a new obstruction charge against two former FBI officials after prosecutors filed it without the required judicial approval."
+      "title": "Amazon CEO says shopping agents like Meta’s Muse ‘not great’",
+      "url": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
+      "published_at": "2026-10-29T23:37:04+00:00",
+      "summary": "In September, Amazon blocked Meta’s popular new AI assistant from accessing its online store."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "published_at": "2026-10-28T20:32:02+00:00",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc"
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "published_at": "2026-10-29T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "published_at": "2026-10-28T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data w"
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "published_at": "2026-10-29T10:11:12+00:00",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "published_at": "2026-10-28T12:00:00+00:00",
-      "summary": ""
+      "title": "Our climate models have a big, dangerous blind spot",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th"
     }
   ]
 }

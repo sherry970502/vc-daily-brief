@@ -1,175 +1,167 @@
 {
-  "updated_at": "2026-10-30T06:58:33.550912+00:00",
+  "updated_at": "2026-10-31T06:52:54.408805+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 20,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "published_at": "2026-10-30T01:20:48+00:00",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "published_at": "2026-10-31T04:16:50+00:00",
+      "summary": "The money behind the money is thrilled, mostly."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "published_at": "2026-10-29T23:44:56+00:00",
-      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says."
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "published_at": "2026-10-31T01:20:05+00:00",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "published_at": "2026-10-29T23:42:22+00:00",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "published_at": "2026-10-30T23:21:23+00:00",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "published_at": "2026-10-29T22:27:23+00:00",
-      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday."
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "published_at": "2026-10-30T22:56:13+00:00",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "published_at": "2026-10-29T21:51:29+00:00",
-      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project."
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "published_at": "2026-10-30T21:54:34+00:00",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "published_at": "2026-10-29T21:20:47+00:00",
-      "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion."
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "published_at": "2026-10-30T21:52:03+00:00",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "GM reaches $220M settlement over selling drivers’ private data",
-      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "published_at": "2026-10-29T21:01:04+00:00",
-      "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data."
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "published_at": "2026-10-30T21:48:53+00:00",
+      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "published_at": "2026-10-29T20:43:56+00:00",
-      "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media."
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "published_at": "2026-10-30T21:26:59+00:00",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
-      "url": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
-      "published_at": "2026-10-29T11:00:35+00:00",
-      "summary": "Crunchbase data shows that so far this year, investors have poured around $48 billion into financings around the Series B stage, the highest tally in years. Yet round counts are below year-ago levels and are on track for a multiyear low. We take a look at the data."
+      "title": "The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
+      "url": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+      "published_at": "2026-10-30T16:33:59+00:00",
+      "summary": "This week featured a robust lineup of large rounds, led by manufacturing startup Re:Build, which closed on $2.1 billion, and predictions marketplace Kalshi, which picked up another $1 billion."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
-      "url": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
-      "published_at": "2026-10-29T11:00:12+00:00",
-      "summary": "AI megarounds are masking a shrinking Series A market, leaving seed founders facing higher revenue expectations and longer timelines despite larger seed checks. To improve their chances, MGV's Marc Schröder says, founders should size their seed funding around Series A milestones."
+      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+      "url": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
+      "published_at": "2026-10-30T11:00:49+00:00",
+      "summary": "Travel demand appears to be holding up, but at the same time, investor appetite for travel tech startups has cooled. Even a wave of startups promising to improve travel with AI hasn’t managed to reverse the funding slowdown. We share what a review of Crunchbase data shows."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Serbia’s Gen Z takes back their country from strongman Vucic, demanding top police, intelligence, judiciary officials resign immediately",
-      "url": "https://fortune.com/2026/10/30/serbia-students-election-win-vucic-officials-resign/",
-      "published_at": "2026-10-30T06:00:00+00:00",
-      "summary": "The students' win on Sunday marks the first time that a grass-root youth movement toppled a well-established political leader."
+      "title": "How Southeast Asia can realize its commercial promise amid geopolitical rivalry",
+      "url": "https://fortune.com/2026/10/31/how-southeast-asia-can-realize-its-commercial-promise-amid-geopolitical-rivalry/",
+      "published_at": "2026-10-31T05:00:00+00:00",
+      "summary": "Countries have a shared interest in defending international law—even when doing so may create friction with the country violating it."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The $6.3 billion Binance hack: What we know so far about the biggest crypto heist in history",
-      "url": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/",
-      "published_at": "2026-10-30T05:49:46+00:00",
-      "summary": "There are unconfirmed reports North Korea is behind the massive hack."
+      "title": "Cisco chief found a 27-year-old ex-founder ‘buried away in the organization doing something unstrategic’—now he’s upgrading 98% of its code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "summary": "Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” The Gen Z ex-founder has been given unlimited AI tokens and told to “go nuts.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump is still defying judge’s orders by banning media access, CNN, MS NOW and Politico say",
-      "url": "https://fortune.com/2026/10/29/cnn-ms-now-politico-white-house-press-pool-court/",
-      "published_at": "2026-10-30T03:42:25+00:00",
-      "summary": "The most recent filing asks the court to make those previous orders permanent."
+      "title": "In Brooklyn, a phone-free room of Democrats agreed a blue wave is coming — and debated the data-center identity crisis",
+      "url": "https://fortune.com/2026/10/30/newsreel-midterms-phone-free-brooklyn-ai-data-centers-democrats/",
+      "published_at": "2026-10-30T20:12:43+00:00",
+      "summary": "At a phone-free Newsreel event in Brooklyn's \"Commie Corridor\" just days before the midterms, the talk kept coming back to who gets rich off AI."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Weakened Netanyahu spreads claims of malfeasance by Arab-led parties as his party claims Israel’s election was ‘stolen’",
-      "url": "https://fortune.com/2026/10/29/israel-election-netanyahu-bloc-loses-majority-stolen-claims/",
-      "published_at": "2026-10-30T03:15:24+00:00",
-      "summary": "The opposition accused Netanyahu of demonizing the Arab population after a historic showing by Arab-led parties in an attempt to delegitimize the election."
+      "title": "Tesla and 113 other companies paid no current federal income tax, but they still aren’t the biggest threats to the federal deficit, think tank warns",
+      "url": "https://fortune.com/2026/10/30/which-us-corporations-getting-tax-breaks-are-biggest-threat-us-federal-deficit/",
+      "published_at": "2026-10-30T18:38:06+00:00",
+      "summary": "The Institute on Taxation and Economic Policy found more than 700 profitable companies paid less than half of the 21% statutory corporate tax rate, the lowest rate in decades."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Spanish PM, facing reelection, says it’s ‘unacceptable’ to suffer two high-speed rail accidents in one year as at least 68 die in collision",
-      "url": "https://fortune.com/2026/10/29/spain-high-speed-train-crash-68-dead-urda/",
-      "published_at": "2026-10-30T03:12:11+00:00",
-      "summary": "Pedro Sánchez called for increased safety measures to restore confidence in a high-speed rail system that was once a source of national pride."
+      "title": "Exxon and Chevron report massive profits after Trump brags U.S. energy companies are ‘making a freaking fortune’ just before midterms",
+      "url": "https://fortune.com/2026/10/30/exxon-chevron-massive-profits-trump-brags-energy-companies-making-freaking-fortune-midterms/",
+      "published_at": "2026-10-30T17:44:20+00:00",
+      "summary": "Wars and geopolitical risks prove profitable, although Big Oil eyes more long-term certainty."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Grandson of Reese’s inventor says Hershey is selling a ‘total imitation’ of the candy recipe. The rest of the family insists it tastes the same",
-      "url": "https://fortune.com/2026/10/29/reeses-peanut-butter-cup-recipe-inventor-hershey-chocolate/",
-      "published_at": "2026-10-29T14:00:36+00:00",
-      "summary": "Hershey says it will bring back the classic recipe in 2027. Brad Reese calls that ‘a stall,’ but his cousins say he speaks for no one."
+      "title": "Canada expects to seal a deal in June to become the EU’s first ‘associate member’ — ‘everything short of full EU membership’",
+      "url": "https://fortune.com/2026/10/30/canada-eu-associate-member-june-carney/",
+      "published_at": "2026-10-30T20:40:58+00:00",
+      "summary": "Trump has suggested Canada’s proposed EU arrangement could be a “hostile act” and threatened tariffs on Europe if he considered it unfriendly."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
-      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
-      "published_at": "2026-10-30T00:10:15+00:00",
-      "summary": "Search revenue missed forecasts and free cash flow went negative. Bank of America now values Google’s core search business at about 10 times earnings, against 18.7 for the S&#038;P 500."
+      "title": "Italy’s inflation hits 5.4%, outpacing the U.S. and China, as a farmers’ revolt empties shelves of pasta and mozzarella",
+      "url": "https://fortune.com/2026/10/30/italy-inflation-outpace-us-china-farmer-strike-mozzarella-pasta-shortage/",
+      "published_at": "2026-10-30T20:39:31+00:00",
+      "summary": "Blockades over diesel costs halted mozzarella and pasta production in the south. Now farmers are joining a national strike."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Amazon CEO says shopping agents like Meta’s Muse ‘not great’",
-      "url": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
-      "published_at": "2026-10-29T23:37:04+00:00",
-      "summary": "In September, Amazon blocked Meta’s popular new AI assistant from accessing its online store."
+      "title": "Trump posted that a public D.C. golf course would close for 15 months — his own officials can’t confirm it and a judge is opening a ‘formal inquiry’",
+      "url": "https://fortune.com/2026/10/30/trump-dc-golf-course-truth-social-judge-inquiry-lawyers/",
+      "published_at": "2026-10-30T20:39:13+00:00",
+      "summary": "The Justice Department filed notice Wednesday night that the plans were real."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "published_at": "2026-10-29T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit"
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "published_at": "2026-10-30T11:30:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "published_at": "2026-10-29T10:11:12+00:00",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Our climate models have a big, dangerous blind spot",
-      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th"
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh"
     }
   ]
 }

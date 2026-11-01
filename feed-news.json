@@ -1,167 +1,127 @@
 {
-  "updated_at": "2026-10-31T06:52:54.408805+00:00",
+  "updated_at": "2026-11-01T07:20:12.861697+00:00",
   "period_hours": 24,
-  "article_count": 20,
+  "article_count": 15,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "published_at": "2026-10-31T04:16:50+00:00",
-      "summary": "The money behind the money is thrilled, mostly."
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "published_at": "2026-11-01T02:22:10+00:00",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "published_at": "2026-10-31T01:20:05+00:00",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published_at": "2026-10-31T21:41:00+00:00",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "published_at": "2026-10-30T23:21:23+00:00",
-      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform."
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "published_at": "2026-10-31T21:36:07+00:00",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "published_at": "2026-10-30T22:56:13+00:00",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published_at": "2026-10-31T21:17:03+00:00",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "published_at": "2026-10-30T21:54:34+00:00",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published_at": "2026-10-31T16:12:55+00:00",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "published_at": "2026-10-30T21:52:03+00:00",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "published_at": "2026-10-31T15:41:57+00:00",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "published_at": "2026-10-30T21:48:53+00:00",
-      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "published_at": "2026-10-30T21:26:59+00:00",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
-      "url": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
-      "published_at": "2026-10-30T16:33:59+00:00",
-      "summary": "This week featured a robust lineup of large rounds, led by manufacturing startup Re:Build, which closed on $2.1 billion, and predictions marketplace Kalshi, which picked up another $1 billion."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
-      "url": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
-      "published_at": "2026-10-30T11:00:49+00:00",
-      "summary": "Travel demand appears to be holding up, but at the same time, investor appetite for travel tech startups has cooled. Even a wave of startups promising to improve travel with AI hasn’t managed to reverse the funding slowdown. We share what a review of Crunchbase data shows."
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "published_at": "2026-10-31T14:00:00+00:00",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Southeast Asia can realize its commercial promise amid geopolitical rivalry",
-      "url": "https://fortune.com/2026/10/31/how-southeast-asia-can-realize-its-commercial-promise-amid-geopolitical-rivalry/",
-      "published_at": "2026-10-31T05:00:00+00:00",
-      "summary": "Countries have a shared interest in defending international law—even when doing so may create friction with the country violating it."
+      "title": "China sees the yuan vs. dollar rivalry like Pepsi vs. Coke, expert says — ‘never the market leader, but serviceable in a pinch’",
+      "url": "https://fortune.com/2026/10/31/china-us-currency-wars-yuan-vs-dollar-pepsi-coke-pretodollar-dedollarization/",
+      "published_at": "2026-10-31T22:15:08+00:00",
+      "summary": "\"Without a far larger pool of renminbi assets that foreigners can freely buy and sell, the renminbi cannot come close to replacing the dollar.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Cisco chief found a 27-year-old ex-founder ‘buried away in the organization doing something unstrategic’—now he’s upgrading 98% of its code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "published_at": "2026-10-30T07:00:00+00:00",
-      "summary": "Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” The Gen Z ex-founder has been given unlimited AI tokens and told to “go nuts.”"
+      "title": "If California undid its ‘original sin’ and matched Texas on taxing property, it would raise more revenue than the billionaire tax, economists say",
+      "url": "https://fortune.com/2026/10/31/california-billionaire-wealth-tax-prop-40-revenue-prop-13-texas-taxes/",
+      "published_at": "2026-10-31T19:41:13+00:00",
+      "summary": "\"It is simply not possible to fund the state’s needs by leaning on a few hundred people, as politically appealing as that may be.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "In Brooklyn, a phone-free room of Democrats agreed a blue wave is coming — and debated the data-center identity crisis",
-      "url": "https://fortune.com/2026/10/30/newsreel-midterms-phone-free-brooklyn-ai-data-centers-democrats/",
-      "published_at": "2026-10-30T20:12:43+00:00",
-      "summary": "At a phone-free Newsreel event in Brooklyn's \"Commie Corridor\" just days before the midterms, the talk kept coming back to who gets rich off AI."
+      "title": "AI boom hits a wall on Wall Street as OpenAI cuts fundraising target while Meta gets a credit warning over its cash flow, spending and monetization",
+      "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/",
+      "published_at": "2026-10-31T16:41:35+00:00",
+      "summary": "S&#038;P Global cut its outlook on Meta to \"negative\" from \"stable\" late Friday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tesla and 113 other companies paid no current federal income tax, but they still aren’t the biggest threats to the federal deficit, think tank warns",
-      "url": "https://fortune.com/2026/10/30/which-us-corporations-getting-tax-breaks-are-biggest-threat-us-federal-deficit/",
-      "published_at": "2026-10-30T18:38:06+00:00",
-      "summary": "The Institute on Taxation and Economic Policy found more than 700 profitable companies paid less than half of the 21% statutory corporate tax rate, the lowest rate in decades."
+      "title": "Tech stocks just lost more than $1 trillion in a day—a gothic horror test for the ‘moats’ Warren Buffett taught Wall Street to love",
+      "url": "https://fortune.com/2026/10/31/crumbling-gothic-castle-capitalism-metaphor-marx-vampire-buffett-moat-ai-selloff/",
+      "published_at": "2026-10-31T11:30:00+00:00",
+      "summary": "Jamie Dimon’s “fortress” and Warren Buffett’s “moat” come from the same place as Dracula’s castle, and this week AI put both to the test."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Exxon and Chevron report massive profits after Trump brags U.S. energy companies are ‘making a freaking fortune’ just before midterms",
-      "url": "https://fortune.com/2026/10/30/exxon-chevron-massive-profits-trump-brags-energy-companies-making-freaking-fortune-midterms/",
-      "published_at": "2026-10-30T17:44:20+00:00",
-      "summary": "Wars and geopolitical risks prove profitable, although Big Oil eyes more long-term certainty."
+      "title": "Mark Zuckerberg’s $170 million Miami mansion is just one piece of his sprawling real estate empire that includes a 196-year-old castle",
+      "url": "https://fortune.com/article/mark-zuckerberg-meta-ceo-real-estate-portfolio-tech-billionaires-jeff-bezos-indian-creek-island-miami/",
+      "published_at": "2026-10-31T15:07:48+00:00",
+      "summary": "The Meta CEO has spent years accumulating luxury properties, including a secretive ranch with an underground shelter, an Irish castle, and a Lake Tahoe mountain retreat."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Canada expects to seal a deal in June to become the EU’s first ‘associate member’ — ‘everything short of full EU membership’",
-      "url": "https://fortune.com/2026/10/30/canada-eu-associate-member-june-carney/",
-      "published_at": "2026-10-30T20:40:58+00:00",
-      "summary": "Trump has suggested Canada’s proposed EU arrangement could be a “hostile act” and threatened tariffs on Europe if he considered it unfriendly."
+      "title": "Jeff Bezos once gave Eva Longoria and the admiral behind Osama bin Laden’s capture $100 million—but she says you don’t need wealth to give back",
+      "url": "https://fortune.com/article/billionaire-jeff-bezos-gave-eva-longoria-admiral-behind-osama-bin-ladens-capture-100-million-she-says-you-dont-need-wealth-to-give-back/",
+      "published_at": "2026-10-31T15:03:52+00:00",
+      "summary": "Jeff Bezos gave Eva Longoria $50 million for philanthropy. Two years on, she says the biggest myth is that you need to be rich to give back."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Italy’s inflation hits 5.4%, outpacing the U.S. and China, as a farmers’ revolt empties shelves of pasta and mozzarella",
-      "url": "https://fortune.com/2026/10/30/italy-inflation-outpace-us-china-farmer-strike-mozzarella-pasta-shortage/",
-      "published_at": "2026-10-30T20:39:31+00:00",
-      "summary": "Blockades over diesel costs halted mozzarella and pasta production in the south. Now farmers are joining a national strike."
+      "title": "U.S workers just took home their smallest share of capital since at least 1947—and the lowest ever recorded",
+      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+      "published_at": "2026-10-31T14:38:30+00:00",
+      "summary": "American workers aren’t just getting the smallest share of GDP since records began. Their share of employment is shrinking and shrinking"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump posted that a public D.C. golf course would close for 15 months — his own officials can’t confirm it and a judge is opening a ‘formal inquiry’",
-      "url": "https://fortune.com/2026/10/30/trump-dc-golf-course-truth-social-judge-inquiry-lawyers/",
-      "published_at": "2026-10-30T20:39:13+00:00",
-      "summary": "The Justice Department filed notice Wednesday night that the plans were real."
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-      "published_at": "2026-10-30T11:30:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "published_at": "2026-10-30T09:00:00+00:00",
-      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh"
+      "title": "EqualAI CEO: Your AI assistant is acting in your name. Who signed off?",
+      "url": "https://fortune.com/2026/10/31/personal-ai-assistant-agents-authorization-liability-equalai/",
+      "published_at": "2026-10-31T12:00:00+00:00",
+      "summary": "AI agents need permission rules before they act."
     }
   ]
 }

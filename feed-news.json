@@ -1,127 +1,183 @@
 {
-  "updated_at": "2026-11-02T07:33:29.559168+00:00",
+  "updated_at": "2026-11-03T07:47:22.890862+00:00",
   "period_hours": 24,
-  "article_count": 15,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Borrowed reading: stories from our extended colleagues",
-      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-      "published_at": "2026-11-02T04:23:48+00:00",
-      "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld."
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "published_at": "2026-11-03T07:20:00+00:00",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "published_at": "2026-11-01T21:55:23+00:00",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "published_at": "2026-11-03T03:30:00+00:00",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "published_at": "2026-11-01T20:57:58+00:00",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-      "published_at": "2026-11-01T17:04:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "published_at": "2026-11-03T01:12:55+00:00",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "published_at": "2026-11-01T16:20:10+00:00",
-      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets."
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "published_at": "2026-11-03T00:35:52+00:00",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "published_at": "2026-11-01T15:00:00+00:00",
-      "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world."
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "published_at": "2026-11-03T00:14:51+00:00",
+      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "published_at": "2026-11-01T14:00:00+00:00",
-      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar."
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "published_at": "2026-11-02T23:25:32+00:00",
+      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "summary": "The one-year-old startup is now valued at $300 million."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year",
+      "url": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
+      "published_at": "2026-11-02T12:00:28+00:00",
+      "summary": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline. Using Crunchbase data we provide a look at how third-quarter funding continued the year's dollars-up-but-deals-down trend."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "2026 was meant to be the Philippines’ year—yet the country remains stuck in an ‘recurring cycle of underachievement’",
-      "url": "https://fortune.com/2026/11/01/philippines-2027-growth-test/",
-      "published_at": "2026-11-01T22:00:00+00:00",
-      "summary": "What was meant to be a breakout year, highlighted by the Philippines’ turn as ASEAN chair, has instead become a case study in how it keeps falling short."
+      "title": "New Apple CEO John Ternus chalks up some early wins, but the honeymoon is over",
+      "url": "https://fortune.com/2026/11/02/new-apple-ceo-john-ternus-chalks-up-some-early-wins-but-the-honeymoon-is-over/",
+      "published_at": "2026-11-03T02:03:01+00:00",
+      "summary": "Apple beat earnings expectations Monday, but it’s facing surging memory chip costs and investor questions about its new Siri AI product."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The anti-Skydance: How a Nike billionaire’s backing lets Laika spend a reported $100 million on ‘Wildwood’",
-      "url": "https://fortune.com/2026/11/01/laika-wildwood-box-office-phil-knight-nike-fortune/",
-      "published_at": "2026-11-02T02:02:45+00:00",
-      "summary": "The studio behind ‘Coraline’ is run by the Nike co-founder’s son, and its films rarely make money at the box office."
+      "title": "‘Fastest entertainment property in history’: GTA VI arrives to test a thin November box office",
+      "url": "https://fortune.com/2026/11/02/halloween-box-office-gta-vi-november-hunger-games/",
+      "published_at": "2026-11-03T02:47:02+00:00",
+      "summary": "A24’s You Can See Everything took No. 1 with $11.4 million as studios sat out Halloween. November brings Hunger Games, Focker In-Law, and Rockstar’s 13-years-in-the-making sequel."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Z is ditching the family SUV for the humble sedan U.S. carmakers gave up on. Now, Ford and GM are reconsidering",
-      "url": "https://fortune.com/2026/11/01/gen-z-sedans-suvs-ford-gm-affordability/",
-      "published_at": "2026-11-02T01:43:03+00:00",
-      "summary": "Eight of Gen Z’s 10 most commonly driven models are sedans, new data shows. Affordability is a big reason, and Ford and GM, which abandoned the segment, are reconsidering."
+      "title": "Palantir posts ‘highest-ever’ revenue growth rate of 96% as investors’ patience rests on a hair trigger",
+      "url": "https://fortune.com/2026/11/02/palantir-q3-results-stock-ai-trade-selloff/",
+      "published_at": "2026-11-02T21:47:03+00:00",
+      "summary": "Palantir Technologies shares rose 1.5% before falling amid a spreading AI selloff in other tech stocks."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Fed Chair Kevin Warsh is actually managing U.S. debt costs not inflation, economist says, as interest rates threaten to top GDP growth soon",
-      "url": "https://fortune.com/2026/11/01/fed-chair-kevin-warsh-treasury-bond-yield-curve-control-debt-costs-inflation-interest-rates-gdp-growth/",
-      "published_at": "2026-11-01T23:07:18+00:00",
-      "summary": "\"We’re not in hawkish or dovish land. What’s happening is yield curve management, which itself is a function of how precarious the U.S. debt picture is.\""
+      "title": "Apple outpaces sales expectations as it continues to battle surging memory chip costs",
+      "url": "https://fortune.com/2026/11/02/apple-outpaces-sales-expectations-as-it-continues-to-battle-surging-memory-chip-costs/",
+      "published_at": "2026-11-02T22:00:20+00:00",
+      "summary": "Monday’s earnings report is the first under new CEO John Ternus."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "As Trump eyes new attack, Iran vows to retaliate beyond the Mideast and target financial assets, while oil markets brace for generational damage",
-      "url": "https://fortune.com/2026/11/01/iran-war-retaliation-financial-assets-oil-markets-generational-damage-trump-midterm-elections/",
-      "published_at": "2026-11-01T20:11:56+00:00",
-      "summary": "On Saturday, Ayatollah Mojtaba Khamenei warned Iran’s response would be \"without any geographical limitations.\""
+      "title": "How Trump’s trade policy is handing Asia to Beijing",
+      "url": "https://fortune.com/2026/11/02/how-trumps-trade-policy-is-handing-asia-to-beijing/",
+      "published_at": "2026-11-02T23:00:00+00:00",
+      "summary": "Usually, U.S. statecraft is designed to help American companies succeed abroad. President Donald Trump’s trade program is having the reverse effect."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Soaring health insurance costs are quietly preventing wages from rising higher, while workers also shoulder a larger share of premiums, economist says",
-      "url": "https://fortune.com/2026/11/01/health-insurance-costs-wage-gains-premiums-obamacare-aca-plans-open-enrollment/",
-      "published_at": "2026-11-01T17:34:29+00:00",
-      "summary": "If employer contributions had instead grown at 3%, which was the pace a few years ago, wage growth would be about 0.2-0.3 percentage points faster today."
+      "title": "After topping 2024’s donor list, Elon Musk said he’d do ‘a lot less.’ Since then, he’s given more than George Soros has personally in his lifetime",
+      "url": "https://fortune.com/2026/11/02/elon-musk-2024-2026-election-campaign-donor-contribution-george-soros/",
+      "published_at": "2026-11-02T21:43:22+00:00",
+      "summary": "Musk has given $427 million to federal political groups since May 2025. Soros has given $243 million of his own money since 1979."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘The best thing that you can do for your career is to make yourself redundant’: Inside Stellantis’ AI push after the ‘starting gun went off’",
-      "url": "https://fortune.com/2026/11/01/stellantis-detroit-ai-best-thing-make-yourself-redundant-chrysler/",
-      "published_at": "2026-11-01T13:30:00+00:00",
-      "summary": "That’s the advice of Stellantis’ CTO, who plans to hire hundreds more anyway. AI is shrinking weeks into days, but it can't tell you what car to make."
+      "title": "Sweetgreen managers could earn more than $200,000 a year under a new pay plan, as the salad chain bets higher pay will lift sales",
+      "url": "https://fortune.com/2026/11/02/sweetgreen-manager-salary-200000-pay-plan/",
+      "published_at": "2026-11-02T22:12:19+00:00",
+      "summary": "Starting in 2027, the salad chain will raise base pay by up to 45% at higher-volume stores and give managers a cut of revenue when their restaurants beat sales targets."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "You should pick your credit card perks like Warren Buffett picks his stocks, TD Bank exec says",
-      "url": "https://fortune.com/article/how-to-pick-credit-card-points-for-best-rewards-like-warren-buffet/",
-      "published_at": "2026-11-01T14:26:34+00:00",
-      "summary": "The billionaire’s philosophy for preaching the ways of compound interest might also apply to how many credit cards you have in your wallet."
+      "title": "In-N-Out may expand to these 3 states next, owner Lynsi Snyder says, as the 445-location burger chain pushes farther east",
+      "url": "https://fortune.com/2026/11/02/in-n-out-expansion-arkansas-mississippi-oklahoma-lynsi-snyder/",
+      "published_at": "2026-11-02T21:59:48+00:00",
+      "summary": "Snyder told actor Terry Crews in an interview on the company’s website that the chain’s Texas supply route to Tennessee could make all three states a natural next step."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "published_at": "2026-11-03T04:18:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "published_at": "2026-11-02T17:00:00+00:00",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "published_at": "2026-11-02T13:10:32+00:00",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "published_at": "2026-11-02T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by auton"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "published_at": "2026-11-02T09:35:19+00:00",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw"
     }
   ]
 }

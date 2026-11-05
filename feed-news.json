@@ -1,159 +1,199 @@
 {
-  "updated_at": "2026-11-04T07:26:22.907321+00:00",
+  "updated_at": "2026-11-05T07:51:54.025195+00:00",
   "period_hours": 24,
-  "article_count": 19,
+  "article_count": 24,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-      "published_at": "2026-11-04T04:45:00+00:00",
-      "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures"
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "published_at": "2026-11-05T01:26:22+00:00",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "published_at": "2026-11-03T22:41:03+00:00",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "published_at": "2026-11-05T01:02:14+00:00",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "published_at": "2026-11-03T22:19:53+00:00",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "published_at": "2026-11-04T22:45:09+00:00",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "published_at": "2026-11-03T21:43:08+00:00",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "published_at": "2026-11-04T22:13:16+00:00",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "published_at": "2026-11-03T21:05:55+00:00",
-      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "published_at": "2026-11-04T21:56:01+00:00",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
-      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-      "published_at": "2026-11-03T20:57:17+00:00",
-      "summary": "An in-space construction first could be an enabler for the space data centers of the future."
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "published_at": "2026-11-04T21:49:29+00:00",
+      "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "published_at": "2026-11-03T19:45:48+00:00",
-      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard."
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "published_at": "2026-11-04T21:25:44+00:00",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "published_at": "2026-11-03T19:34:43+00:00",
-      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer."
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "published_at": "2026-11-04T21:10:56+00:00",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
-      "url": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
-      "published_at": "2026-11-03T12:00:44+00:00",
-      "summary": "Global venture funding in October totaled $59 billion, a 45% jump from a year earlier, per Crunchbase data, in large part due to a record-setting $15.9 billion funding round for China’s DeepSeek."
+      "title": "Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States",
+      "url": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
+      "published_at": "2026-11-04T19:47:54+00:00",
+      "summary": "So far this year, less than 2% of all startup investment has gone to companies in post-election red states, a share that is much smaller than in years’ past due to five states shifting to purple in the most recent election."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "published_at": "2026-11-04T17:42:30+00:00",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires",
+      "url": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+      "published_at": "2026-11-04T12:00:14+00:00",
+      "summary": "More than half of all seed- through growth-stage venture capital raised in the U.S. so far in 2026 went to seven companies founded or led by men who are already billionaires. Together, these companies raised more than $260 billion in equity funding in the first 10 months of the year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Susan Collins’ Maine concession could leave New England without a Republican in Congress for the first time since the 1850s",
-      "url": "https://fortune.com/2026/11/04/susan-collins-maine-concession-republicans-new-england-senate/",
-      "published_at": "2026-11-04T06:14:56+00:00",
-      "summary": "“It has been the honor of my life,” Collins said. One uncalled Maine House race will decide whether a GOP streak dating to 1854 ends."
+      "title": "Prime Infra’s CEO says the Paris 1.5-degree goal is ‘feasible’ for Southeast Asia—if governments are willing to pay for it",
+      "url": "https://fortune.com/2026/11/05/prime-infras-ceo-says-the-paris-1-5-degree-goal-is-feasible-for-southeast-asia-if-governments-are-willing-to-pay-for-it/",
+      "published_at": "2026-11-05T07:11:18+00:00",
+      "summary": "Under the Paris Agreement, countries committed to holding the rise in global average temperature to well below 2°C above preindustrial levels."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump promised every adult $5,000 if Republicans kept control of Congress. Thanks to the Blue Tsunami, taxpayers won’t have to blow up the debt",
-      "url": "https://fortune.com/2026/11/04/trump-5000-checks-democrats-senate-control-republicans-lose-house-congress/",
-      "published_at": "2026-11-04T05:03:18+00:00",
-      "summary": "Democrats flipped at least six Senate seats and won the House, gaining power over Trump’s nominees and investigations but not his veto."
+      "title": "Companies need to fortify supply chains for “a flock of black swan” events, says Toll Group executive chairman Thomas Knudsen",
+      "url": "https://fortune.com/2026/11/05/companies-need-to-fortify-supply-chains-for-a-flock-of-black-swan-events-says-toll-group-executive-chairman-thomas-knudsen/",
+      "published_at": "2026-11-05T07:03:10+00:00",
+      "summary": "Supply chain shocks have piled up since 2020, including the COVID pandemic, Russia’s 2022 invasion of Ukraine and Trump’s 2025 tariffs."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Trump personally chose several candidates who just got crushed — and he’s already blaming Republicans for a stunning midterm wipeout",
-      "url": "https://fortune.com/2026/11/04/trump-personal-handpicked-candidates-midterm-election-blame-game-blue-wave/",
-      "published_at": "2026-11-04T05:41:37+00:00",
-      "summary": "\"I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE!\""
+      "title": "How Abdul El-Sayed would build Medicare for All, from a wealth tax to a Fed-style governing board",
+      "url": "https://fortune.com/2026/11/04/el-sayed-medicare-for-all-plan-senate-michigan/",
+      "published_at": "2026-11-05T02:06:04+00:00",
+      "summary": "The Michigan Democrat co-wrote a 2021 guide to single-payer that would fold Medicare, Medicaid, and ACA subsidies into one fund, with new taxes on the wealthy to cover the rest."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Asked about the cost of living, JD Vance joked about Jon Husted’s butt, then admitted Republicans fell short. Days later, Husted lost Ohio",
-      "url": "https://fortune.com/2026/11/04/jd-vance-ohio-sherrod-brown-jon-husted-democrats-flip-affordability/",
-      "published_at": "2026-11-04T05:30:42+00:00",
-      "summary": "Voters named the cost of living a top issue. In Ohio, the Democrat who ran on grocery, gas and electric bills beat Trump’s Senate pick."
+      "title": "Appeals court tosses lawsuit over Mamdani’s pied-à-terre tax rollout, ruling homeowners can’t sue over notices",
+      "url": "https://fortune.com/2026/11/04/appeals-court-tosses-lawsuit-over-mamdanis-pied-a-terre-tax-rollout-ruling-homeowners-cant-sue-over-notices/",
+      "published_at": "2026-11-04T22:48:32+00:00",
+      "summary": "The decision reverses a Staten Island judgment that ordered the city to redo its notices. Other legal challenges continue."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Billionaire Vivek Ramaswamy’s millions and Greg Abbott’s $106 million war chest couldn’t stop Democrats from flipping Texas and Ohio",
-      "url": "https://fortune.com/2026/11/03/billionaire-vivek-ramaswamys-millions-greg-abbotts-democrats-governors-ohio-texas-iowa/",
-      "published_at": "2026-11-04T04:36:48+00:00",
-      "summary": "Democrats flipped governor’s races in Texas and Ohio despite nine-figure spending, and won Iowa’s governorship for the first time since 2006."
+      "title": "‘Seismic’ blue wave triggers the sinking of oil prices, energy stocks, and the chances of power permitting reform",
+      "url": "https://fortune.com/2026/11/04/seismic-blue-wave-sinking-oil-prices-energy-stocks-power-permitting-reform/",
+      "published_at": "2026-11-04T21:31:52+00:00",
+      "summary": "The overwhelming nature of the Democratic win is making everyone rethink energy strategies from Iran to Texas data centers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Stock futures plunge as blue tsunami sweeps red states and data center hot spots. Wall Street usually likes political gridlock—but maybe not this time",
-      "url": "https://fortune.com/2026/11/03/stock-futures-midterm-elections-blue-tsunami-red-states-data-centers-hot-spots-political-gridlock-us-debt/",
-      "published_at": "2026-11-04T04:54:07+00:00",
-      "summary": "\"A Democratic sweep could complicate negotiations over government spending and the debt ceiling.\""
+      "title": "After the midterms, Big Tech’s AI data center problem is only getting bigger",
+      "url": "https://fortune.com/2026/11/04/voters-pull-the-plug-on-big-techs-data-center-boom/",
+      "published_at": "2026-11-04T21:18:36+00:00",
+      "summary": "On Tuesday, U.S. voters delivered an overwhelming victory for Democratic candidates throughout the country that will upend the halls of power in Washington and data center hotbeds like Texas."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "North Carolina voters approve tax limits on income and property as cost of living tops voters’ worries",
-      "url": "https://fortune.com/2026/11/03/north-carolina-voters-approve-tax-limits-income-property/",
-      "published_at": "2026-11-04T04:21:39+00:00",
-      "summary": "Opponents said a voter-approved constitutional amendment could result in limited tax relief for homeowners and big savings for corporations."
+      "title": "‘He basically gets to steer a political party’: Elon Musk is $474 million poorer post-election, but it may not have deterred his influence on 2028",
+      "url": "https://fortune.com/2026/11/04/elon-musk-election-spending-2026-2028-republican-influence-doge-spacex-tesla/",
+      "published_at": "2026-11-04T20:31:23+00:00",
+      "summary": "“It’s not just about who wins,” one political spending expert said. “It's about setting the agenda and what types of issues we talk about.”"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "James Talarico wasn’t born the last time a Democrat won a Texas Senate race. At 37, he won one despite $200 million from Elon Musk to stop him",
-      "url": "https://fortune.com/2026/11/03/james-talarico-democrat-senator-texas-elon-musk-200-million/",
-      "published_at": "2026-11-04T04:10:41+00:00",
-      "summary": "Talarico is the first Democrat to win a Senate race in Texas since 1988, carrying suburban counties Trump won two years ago."
+      "title": "Democrat wins will slow data center construction and force tech to the negotiating table after even Republican stronghold of Texas flips",
+      "url": "https://fortune.com/2026/11/04/democrats-midterm-election-2026-anti-data-center-governors-texas-georgia-ohio-ai-infrastructure-big-tech-spending-moratorium-regulations/",
+      "published_at": "2026-11-04T20:07:50+00:00",
+      "summary": "Three Democratic governors elected Tuesday have promised to reexamine data center expansion."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "published_at": "2026-11-03T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing"
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "published_at": "2026-11-04T18:50:55+00:00",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "published_at": "2026-11-03T10:43:41+00:00",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro"
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "published_at": "2026-11-04T18:21:40+00:00",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "published_at": "2026-11-04T17:08:00+00:00",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "published_at": "2026-11-04T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara s"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "published_at": "2026-11-04T13:00:00+00:00",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No"
     }
   ]
 }

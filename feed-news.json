@@ -1,111 +1,135 @@
 {
-  "updated_at": "2026-11-08T07:08:56.071137+00:00",
+  "updated_at": "2026-11-09T07:51:02.385113+00:00",
   "period_hours": 24,
-  "article_count": 13,
+  "article_count": 16,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "published_at": "2026-11-07T22:07:22+00:00",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "published_at": "2026-11-09T05:26:29+00:00",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "published_at": "2026-11-07T21:17:08+00:00",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "published_at": "2026-11-08T22:00:00+00:00",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "published_at": "2026-11-07T19:00:00+00:00",
-      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones."
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "published_at": "2026-11-08T21:00:11+00:00",
+      "summary": "In a memo to the company, Huang admitted that he had an affair."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "published_at": "2026-11-07T17:24:07+00:00",
-      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users."
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "published_at": "2026-11-08T21:00:00+00:00",
+      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "published_at": "2026-11-07T17:18:00+00:00",
-      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models."
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "published_at": "2026-11-08T20:30:00+00:00",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "published_at": "2026-11-08T19:51:30+00:00",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "published_at": "2026-11-08T18:00:04+00:00",
+      "summary": "SNL seems to have its knives out for tech executives."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "published_at": "2026-11-08T17:30:00+00:00",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "So much ‘liquid gold’ could hit the market that the world’s top producer is withholding output—but supplies can’t stay ‘extra virgin’ for long",
-      "url": "https://fortune.com/2026/11/07/olive-oil-supplies-prices-liquid-gold-spain-production-harvest-season/",
-      "published_at": "2026-11-08T00:34:52+00:00",
-      "summary": "Spanish olive oil production is projected to jump 23% to 1.6 millions tons, marking the fourth-largest harvest ever."
+      "title": "‘AI rebounding’: Nearly 20% of U.S. workers replaced by AI are being asked back—now they’re demanding higher pay, job security and AI transparency",
+      "url": "https://fortune.com/2026/11/09/ai-rebounding-20-us-workers-replaced-higher-pay-job-security/",
+      "published_at": "2026-11-09T07:00:00+00:00",
+      "summary": "\"Organizations are making fast, sometimes myopic, decisions about their people based on an incomplete picture of what their employees can do with or without AI.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029",
-      "url": "https://fortune.com/2026/11/07/alabama-power-advertising-ratepayers-psc/",
-      "published_at": "2026-11-07T23:30:00+00:00",
-      "summary": "Jim Zeigler, a perennial candidate in Alabama across several decades, will return to the PSC 48 years after leaving the commission."
+      "title": "The Pentagon is reportedly ramping up economic warfare and espionage. Nvidia CEO Jensen Huang’s affair with a suspected Chinese spy shows why",
+      "url": "https://fortune.com/2026/11/08/pentagon-economic-warfare-espionage-nvidia-jensen-huang-chinese-spy-romantic-affair/",
+      "published_at": "2026-11-08T23:20:38+00:00",
+      "summary": "\"While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "In-N-Out’s billionaire owner vows iconic chain ‘will always be’ in California and says leaving the state would be the ‘dumbest business decision ever’",
-      "url": "https://fortune.com/2026/11/07/in-n-out-billionaire-owner-lynsi-snyder-california-exodus-dumbest-business-decision-ever-tennessee-move/",
-      "published_at": "2026-11-07T22:47:57+00:00",
-      "summary": "\"This is where we started. It's where we are now, and it's where we will always be,\" Lynsi Snyder, president and owner of In-N-Out, said."
+      "title": "How a Frenchman’s book on ‘Democracy in America’ nearly 200 years ago explains the midterms, from data centers to Texas",
+      "url": "https://fortune.com/2026/11/08/tocqueville-democracy-in-america-midterms-data-centers-texas/",
+      "published_at": "2026-11-08T21:09:19+00:00",
+      "summary": "Americans are “born equal,” Alexis de Tocqueville wrote, and “powerless” until they band together. They are also \"perpetually migrating to Texas.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Florida’s new property tax cuts could defund the police, fire fighters and EMS in small towns, threatening ‘rural dark ages,’ former GOP lawmaker says",
-      "url": "https://fortune.com/2026/11/07/florida-property-tax-cuts-amendmend-3-defund-police-fire-fighters-ems-small-towns-rural-dark-ages/",
-      "published_at": "2026-11-07T20:00:02+00:00",
-      "summary": "\"A thinner tax base means fewer services. The dark ages won’t arrive all at once. They’ll arrive one closed fire station at a time.\""
+      "title": "The market bloodbath just exposed Wall Street’s true fears about U.S. debt, top economist warns",
+      "url": "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium/",
+      "published_at": "2026-11-08T20:46:04+00:00",
+      "summary": "\"They’re up because of mounting fiscal stress, not because of AI.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Berkshire Hathaway stock is a haven again as investors flee AI bloodbath while its own portfolio takes a hit amid reshuffling",
-      "url": "https://fortune.com/2026/11/07/berkshire-hathaway-stock-brk-q3-earnings-investment-portfolio-buybacks/",
-      "published_at": "2026-11-07T17:09:20+00:00",
-      "summary": "Berkshire bought $2.4 billion of stocks during the third quarter and sold some $2.8 billion."
+      "title": "Gen Z pushes back on ‘performative availability’ as only 8% of workers say it won them a promotion",
+      "url": "https://fortune.com/2026/11/08/gen-z-performative-availability-after-hours-work-promotions-survey/",
+      "published_at": "2026-11-08T20:00:33+00:00",
+      "summary": "In a survey of 1,006 U.S. workers, 69% said staying reachable after hours hasn’t helped their careers. Gen Z feels the least pressure to try."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Billionaire Brian Chesky’s social-worker parents told him to pick a high-paying career. He went to art school—and started Airbnb with 3 air beds",
-      "url": "https://fortune.com/article/why-did-airbnb-ceo-brian-cheskys-mom-worry-he-would-have-only-job-pays-less-social-worker/",
-      "published_at": "2026-11-07T14:30:19+00:00",
-      "summary": "Chesky’s mother, herself a social worker, was worried when he became an art student. He started Airbnb when he was barely making rent."
+      "title": "Holiday fares hit a 10-year high. A Black Friday deal may only get you back to last year’s price",
+      "url": "https://fortune.com/2026/11/08/black-friday-travel-deals-holiday-airfare-hopper-delta/",
+      "published_at": "2026-11-08T19:44:25+00:00",
+      "summary": "Hopper says Thanksgiving airfare averages $402, up 31%. A travel agent explains why Travel Tuesday bundles beat Black Friday flash sales."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Starter homes cost $1 million in a record 242 U.S. cities—proof the affordability crisis has hit the homes meant for first-time buyers",
-      "url": "https://fortune.com/article/starter-homes-cost-1-million-in-a-record-242-us-cities-affordability-crisis-younger-buyers/",
-      "published_at": "2026-11-07T14:27:20+00:00",
-      "summary": "The first rung on the property ladder now costs seven figures in a record 242 cities, a new Zillow report shows."
+      "title": "Stocks will tumble much further as AI investment will slow next year then fall in 2028 and drag GDP down too, economist predicts",
+      "url": "https://fortune.com/2026/11/08/stock-market-outlook-sp500-ai-capex-gdp-growth-productivity/",
+      "published_at": "2026-11-08T18:22:23+00:00",
+      "summary": "Capital Economics expects the S&#038;P 500 will be 12% below its current level by the end of 2027, putting it 17% off its early-October peak."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "This CEO lived on canned soup and took just two days off for his daughter’s birth. Now, he admits he lost sight of proper work-life balance",
-      "url": "https://fortune.com/article/acely-ceo-ron-schneidermann-work-life-balance-ate-canned-soup-startup-hustle-gen-z-advice-former-alltrails/",
-      "published_at": "2026-11-07T14:23:20+00:00",
-      "summary": "Ron Schneidermann, CEO of test prep company Acely, is urging Gen Z to do it differently."
+      "title": "‘On par with what the DoD pursued during the Cold War’: Pentagon’s war stockpile plan hits a minerals wall",
+      "url": "https://fortune.com/2026/11/08/pentagon-fortress-critical-minerals-stockpile-tungsten-rare-earth/",
+      "published_at": "2026-11-08T16:46:01+00:00",
+      "summary": "FORTRESS America calls for reserves of critical minerals, fuel, and munitions inside the U.S. A $2 billion tungsten deal shows why filling them will take years."
     }
   ]
 }

@@ -1,135 +1,183 @@
 {
-  "updated_at": "2026-11-09T07:51:02.385113+00:00",
+  "updated_at": "2026-11-10T08:14:16.825761+00:00",
   "period_hours": 24,
-  "article_count": 16,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "published_at": "2026-11-09T05:26:29+00:00",
-      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "published_at": "2026-11-10T07:00:00+00:00",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "published_at": "2026-11-08T22:00:00+00:00",
-      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "published_at": "2026-11-10T05:18:43+00:00",
+      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "published_at": "2026-11-08T21:00:11+00:00",
-      "summary": "In a memo to the company, Huang admitted that he had an affair."
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "published_at": "2026-11-10T04:34:15+00:00",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "published_at": "2026-11-08T21:00:00+00:00",
-      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?"
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published_at": "2026-11-10T01:27:12+00:00",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "published_at": "2026-11-08T20:30:00+00:00",
-      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit."
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "published_at": "2026-11-09T23:28:37+00:00",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "published_at": "2026-11-08T19:51:30+00:00",
-      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "published_at": "2026-11-09T23:03:46+00:00",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "published_at": "2026-11-08T18:00:04+00:00",
-      "summary": "SNL seems to have its knives out for tech executives."
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "published_at": "2026-11-09T22:46:09+00:00",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "published_at": "2026-11-08T17:30:00+00:00",
-      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "published_at": "2026-11-09T22:23:42+00:00",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
+      "url": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
+      "published_at": "2026-11-09T12:00:51+00:00",
+      "summary": "More money is pouring into Series A rounds, but it isn’t opening the door to more startups. U.S. companies have raised $42 billion at that stage this year through October, up roughly 60% year over year, while deal counts remain on pace with the past few years, Crunchbase data shows."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
+      "url": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+      "published_at": "2026-11-09T12:00:32+00:00",
+      "summary": "AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access gets cheaper, rather than their paper valuation, writes guest author Ilman Shazhaev, founder and CEO of Diz"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘AI rebounding’: Nearly 20% of U.S. workers replaced by AI are being asked back—now they’re demanding higher pay, job security and AI transparency",
-      "url": "https://fortune.com/2026/11/09/ai-rebounding-20-us-workers-replaced-higher-pay-job-security/",
-      "published_at": "2026-11-09T07:00:00+00:00",
-      "summary": "\"Organizations are making fast, sometimes myopic, decisions about their people based on an incomplete picture of what their employees can do with or without AI.\""
+      "title": "Nvidia built itself around one man. A scandal is testing that bet",
+      "url": "https://fortune.com/2026/11/09/nvidia-power-built-around-jensen-huang-scandal-testing-formula/",
+      "published_at": "2026-11-09T22:20:43+00:00",
+      "summary": "Few executives loom larger over a single company than Jensen Huang does at Nvidia."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Pentagon is reportedly ramping up economic warfare and espionage. Nvidia CEO Jensen Huang’s affair with a suspected Chinese spy shows why",
-      "url": "https://fortune.com/2026/11/08/pentagon-economic-warfare-espionage-nvidia-jensen-huang-chinese-spy-romantic-affair/",
-      "published_at": "2026-11-08T23:20:38+00:00",
-      "summary": "\"While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information.\""
+      "title": "Vietnam’s cheap coffee may lose its edge as the EU tightens sustainability rules, Nestlé Vietnam’s chair warns",
+      "url": "https://fortune.com/2026/11/09/vietnam-cheap-coffee-sustainability-eu-rules/",
+      "published_at": "2026-11-09T23:00:00+00:00",
+      "summary": "\"Vietnam was always known to produce cheap coffee, but cheap coffee is no longer going to be attractive to export,\" Nestlé's Binu Jacob said."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How a Frenchman’s book on ‘Democracy in America’ nearly 200 years ago explains the midterms, from data centers to Texas",
-      "url": "https://fortune.com/2026/11/08/tocqueville-democracy-in-america-midterms-data-centers-texas/",
-      "published_at": "2026-11-08T21:09:19+00:00",
-      "summary": "Americans are “born equal,” Alexis de Tocqueville wrote, and “powerless” until they band together. They are also \"perpetually migrating to Texas.\""
+      "title": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra",
+      "url": "https://fortune.com/2026/11/09/anthropic-debuts-updated-claude-fable-and-mythos-models-undercutting-price-of-openais-gpt-6-astra-by-up-to-80/",
+      "published_at": "2026-11-09T21:02:10+00:00",
+      "summary": "Fable 5.2 and Mythos 5.2 claim to offer superior performance at a lower cost, as the AI industry price wars rage on—and Anthropic barrels toward its IPO."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The market bloodbath just exposed Wall Street’s true fears about U.S. debt, top economist warns",
-      "url": "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium/",
-      "published_at": "2026-11-08T20:46:04+00:00",
-      "summary": "\"They’re up because of mounting fiscal stress, not because of AI.\""
+      "title": "Before news broke of his affair with a suspected Chinese spy, Nvidia’s Huang told Fortune his company “could be of great service” to China",
+      "url": "https://fortune.com/2026/11/09/jensen-huang-nvidia-china-affair-alice-huang-suspected-chinese-spy/",
+      "published_at": "2026-11-09T20:03:40+00:00",
+      "summary": "The Nvidia CEO spoke to Fortune about his views of US-China policy weeks before reports emerged that U.S. officials believe a woman he had an affair with was working as a Chinese spy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Gen Z pushes back on ‘performative availability’ as only 8% of workers say it won them a promotion",
-      "url": "https://fortune.com/2026/11/08/gen-z-performative-availability-after-hours-work-promotions-survey/",
-      "published_at": "2026-11-08T20:00:33+00:00",
-      "summary": "In a survey of 1,006 U.S. workers, 69% said staying reachable after hours hasn’t helped their careers. Gen Z feels the least pressure to try."
+      "title": "Nvidia CEO Jensen Huang is likely to keep his job for now, say prediction markets",
+      "url": "https://fortune.com/2026/11/09/jensen-huangs-affair-prediction-market-bets-nvidia-ceo/",
+      "published_at": "2026-11-09T21:31:51+00:00",
+      "summary": "A Polymarket contract on when Huang will resign or be removed as Nvidia CEO has drawn nearly $300,000 in trading volume."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Holiday fares hit a 10-year high. A Black Friday deal may only get you back to last year’s price",
-      "url": "https://fortune.com/2026/11/08/black-friday-travel-deals-holiday-airfare-hopper-delta/",
-      "published_at": "2026-11-08T19:44:25+00:00",
-      "summary": "Hopper says Thanksgiving airfare averages $402, up 31%. A travel agent explains why Travel Tuesday bundles beat Black Friday flash sales."
+      "title": "‘I’ll see you tomorrow’: What Michael Jordan’s trainer learned from the 1995 loss—and his three-tier test for winners",
+      "url": "https://fortune.com/2026/11/09/tim-grover-michael-jordan-trainer-relentless-winning/",
+      "published_at": "2026-11-09T21:15:16+00:00",
+      "summary": "After Orlando knocked the Bulls out in 1995, Michael Jordan asked to train the next day. Tim Grover now sells that standard."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Stocks will tumble much further as AI investment will slow next year then fall in 2028 and drag GDP down too, economist predicts",
-      "url": "https://fortune.com/2026/11/08/stock-market-outlook-sp500-ai-capex-gdp-growth-productivity/",
-      "published_at": "2026-11-08T18:22:23+00:00",
-      "summary": "Capital Economics expects the S&#038;P 500 will be 12% below its current level by the end of 2027, putting it 17% off its early-October peak."
+      "title": "Meet Jensen Huang’s son-in-law, a former pro skier and the Nvidia CEO’s ‘consigliere’ who could play a massive role in the company’s succession plan",
+      "url": "https://fortune.com/2026/11/09/what-is-nvidia-ceo-succession-plan-jensen-huang-son-in-law-nico-caprez/",
+      "published_at": "2026-11-09T17:07:13+00:00",
+      "summary": "Nvidia is now investigating Huang’s affair with a woman U.S. officials suspect of spying for China, raising concerns of a “key-man risk” of who could one day replace him."
     },
     {
-      "source": "Fortune",
+      "source": "MIT Tech Review",
       "lang": "en",
-      "title": "‘On par with what the DoD pursued during the Cold War’: Pentagon’s war stockpile plan hits a minerals wall",
-      "url": "https://fortune.com/2026/11/08/pentagon-fortress-critical-minerals-stockpile-tungsten-rare-earth/",
-      "published_at": "2026-11-08T16:46:01+00:00",
-      "summary": "FORTRESS America calls for reserves of critical minerals, fuel, and munitions inside the U.S. A $2 billion tungsten deal shows why filling them will take years."
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "published_at": "2026-11-09T19:35:33+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "published_at": "2026-11-09T17:05:43+00:00",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "published_at": "2026-11-09T13:15:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "published_at": "2026-11-09T13:00:00+00:00",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "published_at": "2026-11-09T10:00:00+00:00",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate"
     }
   ]
 }

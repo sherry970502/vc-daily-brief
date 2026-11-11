@@ -1,183 +1,175 @@
 {
-  "updated_at": "2026-11-10T08:14:16.825761+00:00",
+  "updated_at": "2026-11-11T07:40:58.322086+00:00",
   "period_hours": 24,
-  "article_count": 22,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "published_at": "2026-11-10T07:00:00+00:00",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "published_at": "2026-11-11T07:30:51+00:00",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "California’s proposed ‘billionaire tax’ fails to pass",
-      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-      "published_at": "2026-11-10T05:18:43+00:00",
-      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents"
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "published_at": "2026-11-11T01:02:13+00:00",
+      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
-      "published_at": "2026-11-10T04:34:15+00:00",
-      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal."
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "published_at": "2026-11-10T21:08:52+00:00",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "published_at": "2026-11-10T01:27:12+00:00",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "published_at": "2026-11-10T20:52:13+00:00",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "published_at": "2026-11-09T23:28:37+00:00",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "published_at": "2026-11-10T20:47:05+00:00",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-      "published_at": "2026-11-09T23:03:46+00:00",
-      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access."
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "published_at": "2026-11-10T20:43:55+00:00",
+      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "published_at": "2026-11-09T22:46:09+00:00",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "published_at": "2026-11-10T19:57:52+00:00",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The race is on to sue Nvidia",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "published_at": "2026-11-09T22:23:42+00:00",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem."
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "published_at": "2026-11-10T19:23:34+00:00",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
-      "url": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
-      "published_at": "2026-11-09T12:00:51+00:00",
-      "summary": "More money is pouring into Series A rounds, but it isn’t opening the door to more startups. U.S. companies have raised $42 billion at that stage this year through October, up roughly 60% year over year, while deal counts remain on pace with the past few years, Crunchbase data shows."
+      "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
+      "url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+      "published_at": "2026-11-10T18:51:25+00:00",
+      "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details i"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
-      "url": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
-      "published_at": "2026-11-09T12:00:32+00:00",
-      "summary": "AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access gets cheaper, rather than their paper valuation, writes guest author Ilman Shazhaev, founder and CEO of Diz"
+      "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
+      "url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
+      "published_at": "2026-11-10T12:00:34+00:00",
+      "summary": "A total of 34 companies joined The Crunchbase Unicorn Board in October, adding more than $96 billion in value and $14.8 billion in total funding to the board. The board also reached a new record of 1,900 private companies last month, along with a new record for the U.S. with more than 1,000 private"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Startup Founders Are Using AI To File Patents. Here’s Where DIY Becomes A Liability.",
+      "url": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/",
+      "published_at": "2026-11-10T12:00:16+00:00",
+      "summary": "AI can help startups reduce patent preparation costs, but DIY applications may overlook critical issues. In this guest commentary, attorneys Michael Drapkin and Nathan Mutter of AI-Native law firm Landfall IP, argue that combining AI with legal expertise can produce more efficient, commercially valu"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia built itself around one man. A scandal is testing that bet",
-      "url": "https://fortune.com/2026/11/09/nvidia-power-built-around-jensen-huang-scandal-testing-formula/",
-      "published_at": "2026-11-09T22:20:43+00:00",
-      "summary": "Few executives loom larger over a single company than Jensen Huang does at Nvidia."
+      "title": "Anthropic’s lower-than-expected IPO valuation: smart strategy or sign of trouble?",
+      "url": "https://fortune.com/2026/11/10/anthropic-lower-than-expected-ipo-valuation-smart-strategy-or-red-flag/",
+      "published_at": "2026-11-10T23:45:18+00:00",
+      "summary": "Shares for ANT will hit the market at $70 to $78 a share, with a $1.3 trillion valuation, which is lower than experts thought earlier this year."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Vietnam’s cheap coffee may lose its edge as the EU tightens sustainability rules, Nestlé Vietnam’s chair warns",
-      "url": "https://fortune.com/2026/11/09/vietnam-cheap-coffee-sustainability-eu-rules/",
-      "published_at": "2026-11-09T23:00:00+00:00",
-      "summary": "\"Vietnam was always known to produce cheap coffee, but cheap coffee is no longer going to be attractive to export,\" Nestlé's Binu Jacob said."
+      "title": "A tabloid scandal bankrolled a Long Island Democrat, mostly with out-of-district money. A Hollywood-linked tycoon backed a Republican who beat him.",
+      "url": "https://fortune.com/2026/11/10/lalota-gallant-ny-1-donors-outside-district-fec/",
+      "published_at": "2026-11-10T21:34:11+00:00",
+      "summary": "Leaked bondage photos sparked a fundraising surge for Democrat Chris Gallant. Fortune's review of FEC filings found most of it came from Manhattan, California and the Hamptons."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra",
-      "url": "https://fortune.com/2026/11/09/anthropic-debuts-updated-claude-fable-and-mythos-models-undercutting-price-of-openais-gpt-6-astra-by-up-to-80/",
-      "published_at": "2026-11-09T21:02:10+00:00",
-      "summary": "Fable 5.2 and Mythos 5.2 claim to offer superior performance at a lower cost, as the AI industry price wars rage on—and Anthropic barrels toward its IPO."
+      "title": "Nvidia CEO Jensen Huang might hang on as CEO. But his influence on U.S. AI policy is over",
+      "url": "https://fortune.com/2026/11/10/nvidia-ceo-jensen-huang-might-hang-on-as-ceo-but-his-influence-on-u-s-ai-policy-is-over/",
+      "published_at": "2026-11-11T00:12:56+00:00",
+      "summary": "A spy scandal jeopardized Nvidia CEO Jensen Huang. Even if he survives atop Nvidia, a key opponent of export controls and advocate for open-source AI has been laid low."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Before news broke of his affair with a suspected Chinese spy, Nvidia’s Huang told Fortune his company “could be of great service” to China",
-      "url": "https://fortune.com/2026/11/09/jensen-huang-nvidia-china-affair-alice-huang-suspected-chinese-spy/",
-      "published_at": "2026-11-09T20:03:40+00:00",
-      "summary": "The Nvidia CEO spoke to Fortune about his views of US-China policy weeks before reports emerged that U.S. officials believe a woman he had an affair with was working as a Chinese spy."
+      "title": "2 scandals, 1 destination—Why Nvidia can’t shake China smuggling allegations",
+      "url": "https://fortune.com/2026/11/10/2-scandals-1-destination-why-nvidia-cant-shake-china-smuggling-allegations/",
+      "published_at": "2026-11-10T22:51:22+00:00",
+      "summary": "A Supermicro co-founder is charged with routing banned servers to China through Southeast Asia. Megaspeed, the Singapore firm where the suspected spy tied to Jensen Huang was an executive, is under investigation for doing the same."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia CEO Jensen Huang is likely to keep his job for now, say prediction markets",
-      "url": "https://fortune.com/2026/11/09/jensen-huangs-affair-prediction-market-bets-nvidia-ceo/",
-      "published_at": "2026-11-09T21:31:51+00:00",
-      "summary": "A Polymarket contract on when Huang will resign or be removed as Nvidia CEO has drawn nearly $300,000 in trading volume."
+      "title": "‘It’s just about fairness’: United’s CEO doubles down on a wealth tax despite his $32 million pay",
+      "url": "https://fortune.com/2026/11/10/united-airlines-ceo-scott-kirby-wealth-tax-fairness/",
+      "published_at": "2026-11-10T21:44:00+00:00",
+      "summary": "Kirby says the wealthy can let investments grow untaxed forever. A Reason Foundation expert and California voters push back."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘I’ll see you tomorrow’: What Michael Jordan’s trainer learned from the 1995 loss—and his three-tier test for winners",
-      "url": "https://fortune.com/2026/11/09/tim-grover-michael-jordan-trainer-relentless-winning/",
-      "published_at": "2026-11-09T21:15:16+00:00",
-      "summary": "After Orlando knocked the Bulls out in 1995, Michael Jordan asked to train the next day. Tim Grover now sells that standard."
+      "title": "Delaware’s federal court forced litigation funders into the open. Its most important court still lets them hide",
+      "url": "https://fortune.com/2026/11/10/delaware-chancery-litigation-funding-rule-proposal/",
+      "published_at": "2026-11-10T20:51:17+00:00",
+      "summary": "Companies are already leaving Delaware with those exits accelerating. Secret litigation funding in Chancery Court gives them one more reason to get out of Dodge."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Meet Jensen Huang’s son-in-law, a former pro skier and the Nvidia CEO’s ‘consigliere’ who could play a massive role in the company’s succession plan",
-      "url": "https://fortune.com/2026/11/09/what-is-nvidia-ceo-succession-plan-jensen-huang-son-in-law-nico-caprez/",
-      "published_at": "2026-11-09T17:07:13+00:00",
-      "summary": "Nvidia is now investigating Huang’s affair with a woman U.S. officials suspect of spying for China, raising concerns of a “key-man risk” of who could one day replace him."
+      "title": "Anthropic inks $3.4 billion deal for gas-powered data centers—the largest of its kind—to secure AI autonomy ahead of planned IPO",
+      "url": "https://fortune.com/2026/11/10/anthropic-3-4-billion-deal-gas-data-centers-ai-ipo/",
+      "published_at": "2026-11-10T20:33:58+00:00",
+      "summary": "Ahead of its estimated $1.3 trillion IPO, Anthropic secured power autonomy in the largest power generation equipment acquisition from an AI company."
+    },
+    {
+      "source": "Fortune",
+      "lang": "en",
+      "title": "One mom tallied 23 hours a week of household work. Then she built a company to turn ‘invisible labor’ into a paid profession",
+      "url": "https://fortune.com/2026/11/10/house-managers-sage-haus-mental-load-dual-income-families/",
+      "published_at": "2026-11-10T17:27:09+00:00",
+      "summary": "Sage Haus founder Kelly Hubbell now places house managers with families in the U.S. and Canada."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "published_at": "2026-11-09T19:35:33+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It"
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "published_at": "2026-11-10T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "published_at": "2026-11-09T17:05:43+00:00",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "published_at": "2026-11-09T13:15:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "published_at": "2026-11-09T13:00:00+00:00",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The climate case for AI has not been made",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "published_at": "2026-11-09T10:00:00+00:00",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate"
+      "title": "Evolving metal extraction processes",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "published_at": "2026-11-10T13:00:00+00:00",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familia"
     }
   ]
 }

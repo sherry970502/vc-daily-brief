@@ -1,175 +1,159 @@
 {
-  "updated_at": "2026-11-11T07:40:58.322086+00:00",
+  "updated_at": "2026-11-12T08:09:38.361885+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 19,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "published_at": "2026-11-11T07:30:51+00:00",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "published_at": "2026-11-12T03:13:10+00:00",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "published_at": "2026-11-11T01:02:13+00:00",
-      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral."
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published_at": "2026-11-11T23:50:00+00:00",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "published_at": "2026-11-10T21:08:52+00:00",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "published_at": "2026-11-11T23:28:45+00:00",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "published_at": "2026-11-10T20:52:13+00:00",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "published_at": "2026-11-11T23:17:05+00:00",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-      "published_at": "2026-11-10T20:47:05+00:00",
-      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "published_at": "2026-11-11T20:15:15+00:00",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get b"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "X-energy gets green light to build its first small modular nuclear reactors",
-      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-      "published_at": "2026-11-10T20:43:55+00:00",
-      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas."
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "published_at": "2026-11-11T20:12:01+00:00",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "published_at": "2026-11-10T19:57:52+00:00",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "published_at": "2026-11-11T20:04:28+00:00",
+      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "published_at": "2026-11-10T19:23:34+00:00",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "published_at": "2026-11-11T19:54:00+00:00",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
-      "url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
-      "published_at": "2026-11-10T18:51:25+00:00",
-      "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details i"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
-      "url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
-      "published_at": "2026-11-10T12:00:34+00:00",
-      "summary": "A total of 34 companies joined The Crunchbase Unicorn Board in October, adding more than $96 billion in value and $14.8 billion in total funding to the board. The board also reached a new record of 1,900 private companies last month, along with a new record for the U.S. with more than 1,000 private"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Startup Founders Are Using AI To File Patents. Here’s Where DIY Becomes A Liability.",
-      "url": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/",
-      "published_at": "2026-11-10T12:00:16+00:00",
-      "summary": "AI can help startups reduce patent preparation costs, but DIY applications may overlook critical issues. In this guest commentary, attorneys Michael Drapkin and Nathan Mutter of AI-Native law firm Landfall IP, argue that combining AI with legal expertise can produce more efficient, commercially valu"
+      "title": "Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing",
+      "url": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
+      "published_at": "2026-11-11T13:00:04+00:00",
+      "summary": "Colombia-based startup, Palomma, has raised $10 million in Series A funding led by Mexican venture firm Cometa to expand its financial services business for landlords, tenants and property managers, Crunchbase News has exclusively learned."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic’s lower-than-expected IPO valuation: smart strategy or sign of trouble?",
-      "url": "https://fortune.com/2026/11/10/anthropic-lower-than-expected-ipo-valuation-smart-strategy-or-red-flag/",
-      "published_at": "2026-11-10T23:45:18+00:00",
-      "summary": "Shares for ANT will hit the market at $70 to $78 a share, with a $1.3 trillion valuation, which is lower than experts thought earlier this year."
+      "title": "Report: Nvidia preparing to oust CEO Jensen Huang after affair with woman U.S. officials deemed a Chinese spy",
+      "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
+      "published_at": "2026-11-11T23:12:18+00:00",
+      "summary": "Huang has been under intense pressure following his confession to infidelity."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "A tabloid scandal bankrolled a Long Island Democrat, mostly with out-of-district money. A Hollywood-linked tycoon backed a Republican who beat him.",
-      "url": "https://fortune.com/2026/11/10/lalota-gallant-ny-1-donors-outside-district-fec/",
-      "published_at": "2026-11-10T21:34:11+00:00",
-      "summary": "Leaked bondage photos sparked a fundraising surge for Democrat Chris Gallant. Fortune's review of FEC filings found most of it came from Manhattan, California and the Hamptons."
+      "title": "How Megaspeed built a network in Singapore and Malaysia to move $7.5 billion of Nvidia chips to Chinese companies",
+      "url": "https://fortune.com/2026/11/11/megaspeed-nvidia-chips-china-singapore-malaysia/",
+      "published_at": "2026-11-12T02:48:36+00:00",
+      "summary": "Experts say the company’s actions show how Chinese firms rely on Southeast Asia to skirt U.S. trade controls."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia CEO Jensen Huang might hang on as CEO. But his influence on U.S. AI policy is over",
-      "url": "https://fortune.com/2026/11/10/nvidia-ceo-jensen-huang-might-hang-on-as-ceo-but-his-influence-on-u-s-ai-policy-is-over/",
-      "published_at": "2026-11-11T00:12:56+00:00",
-      "summary": "A spy scandal jeopardized Nvidia CEO Jensen Huang. Even if he survives atop Nvidia, a key opponent of export controls and advocate for open-source AI has been laid low."
+      "title": "Nvidia has lost $450 billion since Jensen Huang admitted to an affair. Millions of 401(k)s are exposed",
+      "url": "https://fortune.com/2026/11/11/nvidia-jensen-huang-board-401k-retirement-exposure/",
+      "published_at": "2026-11-12T02:01:21+00:00",
+      "summary": "Two retirement experts explain how much of a typical 401(k) rides on Nvidia and why savers should sit tight."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "2 scandals, 1 destination—Why Nvidia can’t shake China smuggling allegations",
-      "url": "https://fortune.com/2026/11/10/2-scandals-1-destination-why-nvidia-cant-shake-china-smuggling-allegations/",
-      "published_at": "2026-11-10T22:51:22+00:00",
-      "summary": "A Supermicro co-founder is charged with routing banned servers to China through Southeast Asia. Megaspeed, the Singapore firm where the suspected spy tied to Jensen Huang was an executive, is under investigation for doing the same."
+      "title": "Mississippi elects first Democratic senator in 44 years as Dems finally find a winning strategy: Spend nothing and let the other candidate talk beef",
+      "url": "https://fortune.com/2026/11/11/mississippi-senate-race-democrats-beef-prices-scott-colom-cindy-hyde-smith/",
+      "published_at": "2026-11-12T00:39:46+00:00",
+      "summary": "Scott Colom beat a cattle rancher senator who suggested other proteins as beef prices rose. If Alaska follows, Democrats get to 56 Senate seats."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘It’s just about fairness’: United’s CEO doubles down on a wealth tax despite his $32 million pay",
-      "url": "https://fortune.com/2026/11/10/united-airlines-ceo-scott-kirby-wealth-tax-fairness/",
-      "published_at": "2026-11-10T21:44:00+00:00",
-      "summary": "Kirby says the wealthy can let investments grow untaxed forever. A Reason Foundation expert and California voters push back."
+      "title": "A day after Anthropic’s office push, Databricks jumps in with AI agents that never sleep",
+      "url": "https://fortune.com/2026/11/11/databricks/",
+      "published_at": "2026-11-11T22:07:04+00:00",
+      "summary": "The $190 billion AI startup's new tool, which operates in the background and shadows the user's daily workday, comes on the heels of Anthropic's renewed push for corporate users."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Delaware’s federal court forced litigation funders into the open. Its most important court still lets them hide",
-      "url": "https://fortune.com/2026/11/10/delaware-chancery-litigation-funding-rule-proposal/",
-      "published_at": "2026-11-10T20:51:17+00:00",
-      "summary": "Companies are already leaving Delaware with those exits accelerating. Secret litigation funding in Chancery Court gives them one more reason to get out of Dodge."
+      "title": "David Ellison’s Skydance replaces DC Studios bosses James Gunn and Peter Safran with a Marvel veteran",
+      "url": "https://fortune.com/2026/11/11/skydance-dc-studios-james-gunn-peter-safran-out-jeremy-latcham/",
+      "published_at": "2026-11-11T20:40:28+00:00",
+      "summary": "Superman director James Gunn and producer Peter Safran helped launch DC Studios in 2022. A month after its Warner Bros. takeover, Skydance has handed the job to a Marvel veteran."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic inks $3.4 billion deal for gas-powered data centers—the largest of its kind—to secure AI autonomy ahead of planned IPO",
-      "url": "https://fortune.com/2026/11/10/anthropic-3-4-billion-deal-gas-data-centers-ai-ipo/",
-      "published_at": "2026-11-10T20:33:58+00:00",
-      "summary": "Ahead of its estimated $1.3 trillion IPO, Anthropic secured power autonomy in the largest power generation equipment acquisition from an AI company."
+      "title": "Verizon’s CEO turned down the job several times before leaving retirement on his ranch: ‘I came in with a little bit of a bad attitude’",
+      "url": "https://fortune.com/2026/11/11/verizon-ceo-dan-schulman-retirement-montana-ranch/",
+      "published_at": "2026-11-11T18:25:48+00:00",
+      "summary": "Dan Schulman was happy tending cattle in Montana. But Verizon's struggles and a push from his wife convinced him to return to the corner office."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "One mom tallied 23 hours a week of household work. Then she built a company to turn ‘invisible labor’ into a paid profession",
-      "url": "https://fortune.com/2026/11/10/house-managers-sage-haus-mental-load-dual-income-families/",
-      "published_at": "2026-11-10T17:27:09+00:00",
-      "summary": "Sage Haus founder Kelly Hubbell now places house managers with families in the U.S. and Canada."
+      "title": "Silicon Valley’s richest outspent supporters more than 10 to one to kill California’s billionaire tax—and won",
+      "url": "https://fortune.com/2026/11/11/silicon-valley-richest-supporters-10-one-california-billionaire-tax/",
+      "published_at": "2026-11-11T18:52:56+00:00",
+      "summary": "Voters also voted to pass Proposition 42, potentially blocking future taxes on income and assets."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "published_at": "2026-11-10T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th"
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "published_at": "2026-11-11T17:00:00+00:00",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Evolving metal extraction processes",
-      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "published_at": "2026-11-10T13:00:00+00:00",
-      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familia"
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "published_at": "2026-11-11T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50,"
     }
   ]
 }

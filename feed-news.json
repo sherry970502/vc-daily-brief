@@ -1,167 +1,183 @@
 {
-  "updated_at": "2026-11-13T07:46:08.527771+00:00",
+  "updated_at": "2026-11-14T07:31:24.807078+00:00",
   "period_hours": 24,
-  "article_count": 20,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "published_at": "2026-11-12T22:42:51+00:00",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "published_at": "2026-11-13T23:00:00+00:00",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "published_at": "2026-11-12T22:22:28+00:00",
-      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "published_at": "2026-11-13T22:43:00+00:00",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "published_at": "2026-11-13T21:44:38+00:00",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "published_at": "2026-11-13T20:07:24+00:00",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "published_at": "2026-11-13T19:37:57+00:00",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "published_at": "2026-11-13T18:40:30+00:00",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "published_at": "2026-11-13T16:00:12+00:00",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
       "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published_at": "2026-11-12T21:35:00+00:00",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published_at": "2026-11-13T15:58:00+00:00",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
-      "source": "TechCrunch",
+      "source": "Crunchbase News",
       "lang": "en",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "published_at": "2026-11-12T21:27:10+00:00",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "published_at": "2026-11-12T20:26:47+00:00",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "published_at": "2026-11-12T19:27:45+00:00",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "published_at": "2026-11-12T19:11:00+00:00",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Microsoft’s Outlook email hit by new outage",
-      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-      "published_at": "2026-11-12T19:03:39+00:00",
-      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users."
+      "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+      "url": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+      "published_at": "2026-11-13T20:32:55+00:00",
+      "summary": "Before it was thrust into crisis this week, Nvidia was steadily continuing its pace as one of the busiest startup investors around, including backing many of the biggest venture deals of 2026. We take a fresh look at where Nvidia and its venture arm NVentures have been investing and what the future"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "How Founders Can Reduce Platform Risk Before It Threatens Growth",
-      "url": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
-      "published_at": "2026-11-12T12:00:44+00:00",
-      "summary": "Founders should treat dependence on app stores as infrastructure risk, since a sudden removal can disrupt customer access, subscriptions and revenue with no reliable path to reinstatement. Sharing his experience, Yakov Filippenko, founder and CEO of Intch, suggests that building and testing alternat"
+      "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+      "url": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+      "published_at": "2026-11-13T19:20:04+00:00",
+      "summary": "It was another big week for AI-related startup financings. Mirendil, a developer of agentic AI for R&#038;D, led the pack with a $1 billion series A, followed by Mercor, which secured $750 million to connect AI developers with human experts."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor",
-      "url": "https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/",
-      "published_at": "2026-11-12T12:00:33+00:00",
-      "summary": "Recent startup investment has shifted away from meat substitutes and toward stuffing more protein into other packaged foods and drinks. It’s a fad that’s obvious on supermarket shelves, where startups and established brands alike relentlessly tout the added protein in their noodles, pancakes, cereal"
+      "title": "Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible",
+      "url": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
+      "published_at": "2026-11-13T12:00:55+00:00",
+      "summary": "As we chronicled earlier this week, both startups and established food brands are making it simpler than ever to up protein intake. From sodas to snack bars to ice cream, it’s now possible to get a fix of this coveted macronutrient with foods and drinks more commonly associated with sugar, starch an"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jane Street more than doubled its Nvidia stake last quarter, filings reveal",
-      "url": "https://fortune.com/2026/11/12/tk-8/",
-      "published_at": "2026-11-13T04:48:32+00:00",
-      "summary": "The quant trading shop’s Nvidia holdings grew ahead of Jensen Huang’s resignation. Whether Jane Street actually lost money is another question."
+      "title": "FAA lifts ground stop as homeland security chief blames tech upgrades for ‘overwhelming’ antiquated systems and rules out cyberattack for now",
+      "url": "https://fortune.com/2026/11/13/faa-ground-us-airports-european-airlines-bomb-threats/",
+      "published_at": "2026-11-14T02:15:12+00:00",
+      "summary": "Transportation Secretary Sean Duffy blamed a communication issue impacting all Air Route Traffic Control Centers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia abruptly changed how it reported revenue in Singapore last year, adding to questions about its relationship with Megaspeed",
-      "url": "https://fortune.com/2026/11/12/nvidia-changed-earnings-report-format-singapore-revenue-megaspeed-probe-colette-kress/",
-      "published_at": "2026-11-13T00:44:26+00:00",
-      "summary": "“The timing is curious,\" one financial audit expert told Fortune. “Even if it is not curious, people are going to raise questions.”"
+      "title": "One Microsoft glitch stalled courts, government offices and police—exposing how fragile America’s systems really are",
+      "url": "https://fortune.com/2026/11/13/microsoft-outage-courts-police-hospitals-it-monoculture/",
+      "published_at": "2026-11-14T01:52:39+00:00",
+      "summary": "The Microsoft outage was a scary reminder of how much of public life now runs through one company."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘A dark day’: Jensen Huang’s sex drive threatens to pop the AI bubble, and the industry isn’t sure what’s next",
-      "url": "https://fortune.com/2026/11/12/a-dark-day-jensen-huangs-sex-drive-threatens-to-pop-the-ai-bubble-and-the-industry-isnt-sure-whats-next/",
-      "published_at": "2026-11-12T23:50:51+00:00",
-      "summary": "Jensen Huang was more than Nvidia's rock star CEO. He personified the entire AI boom. Can it go on without him?"
+      "title": "Air traffic control, phone systems and emails are all down following China’s AI espionage scandal — is there a common answer?",
+      "url": "https://fortune.com/2026/11/13/faa-ground-stop-microsoft-outage-china-espionage-national-security-sonnenfeld/",
+      "published_at": "2026-11-14T01:29:36+00:00",
+      "summary": "The degradation of national security is real. The country deserves far more transparent answers than we have received so far."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia’s new chairman Harvey Jones is a ‘charming elder statesman’ set to lead the search for the next CEO. But did he enable the current crisis?",
-      "url": "https://fortune.com/2026/11/12/nvidia-new-board-chair-harvey-jones-likely-to-lead-ceo-search/",
-      "published_at": "2026-11-12T21:32:48+00:00",
-      "summary": "Harvey Jones has been on the Nvidia board since 1993. Is he the right person to ride out the coming storm, or responsible for causing it?"
+      "title": "Super Micro, run by Jensen Huang’s friend, says Megaspeed was ‘never’ its customer",
+      "url": "https://fortune.com/2026/11/13/nvidia-super-micro-jensen-huang-friend-never-megaspeed/",
+      "published_at": "2026-11-13T23:48:45+00:00",
+      "summary": "The hardware maker also pushed back on authorities in Singapore, who claimed the company had offered “limited” cooperation."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia’s next CEO: The outside contenders to succeed Jensen Huang",
-      "url": "https://fortune.com/2026/11/12/nvidia-next-ceo-the-outside-contenders-to-succeed-jensen-huang/",
-      "published_at": "2026-11-12T23:13:08+00:00",
-      "summary": "Rene Haas, Lisa Su and Tim Cook are among the names floated as Nvidia faces a defining choice between technical leadership and seasoned management."
+      "title": "‘Chinese companies are born to make money’: AI pioneer Kai-Fu Lee on the 3 biggest myths about China’s AI race efforts",
+      "url": "https://fortune.com/2026/11/13/chinese-companies-are-born-to-make-money-kai-fu-lee-former-google-china-president-3-myths-about-china-ai-race/",
+      "published_at": "2026-11-13T21:53:59+00:00",
+      "summary": "Former Google China president Kai-Fu Lee says the U.S. misunderstands what drives China's AI companies, from profits to open-source models."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "AI industry execs brace for future without leading hype man, Nvidia’s Jensen Huang",
-      "url": "https://fortune.com/2026/11/12/ai-industry-without-jensen-huang-investment-capital-regulation-neocloud-policy/",
-      "published_at": "2026-11-12T20:33:21+00:00",
-      "summary": "With spending on AI and data centers so important to the broader U.S. economy, the extent of the potential fallout from the Nvidia shakeup is difficult to overstate."
+      "title": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "published_at": "2026-11-13T17:05:30+00:00",
+      "summary": "OpenAI moved its robotics researchers onto other teams. The company said the change represented new thinking about the best way to make progress towards general-purpose robots."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘That Nvidia guarantee is not worth what it was worth a week ago’: What Jensen Huang’s exit means for neoclouds",
-      "url": "https://fortune.com/2026/11/12/nvidia-neoclouds-jensen-huang-resignation/",
-      "published_at": "2026-11-12T21:15:25+00:00",
-      "summary": "Neoclouds have the most to lose"
+      "title": "Scott Bessent says Treasury wanted to blacklist Megaspeed ‘for months,’ blaming Howard Lutnick as Nvidia fallout widens: ‘Commerce has the pen’",
+      "url": "https://fortune.com/2026/11/13/scott-bessent-treasury-blacklist-megaspeed-howard-lutnick-nvidia-jensen-huang/",
+      "published_at": "2026-11-13T19:42:32+00:00",
+      "summary": "Bessent said the Treasury, Defense, and State Departments were all in favor of placing trade restrictions on Megaspeed, but only Commerce had the power to do so."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Before Megaspeed, there was Supermicro: The other Nvidia partner tied to China chip smuggling—and to Jensen Huang",
-      "url": "https://fortune.com/2026/11/12/jensen-huang-affair-megaspeed-supermicro-nvidia-smuggling-doj/",
-      "published_at": "2026-11-12T20:01:26+00:00",
-      "summary": "Prosecutors are now reportedly probing whether Alice Huang and entities linked to her helped move Supermicro hardware to China—and authorities in Singapore say Supermicro hasn’t been forthcoming."
+      "title": "‘The easiest way to penetrate a billion-dollar company’: Ex-FBI operative on how spies target CEOs",
+      "url": "https://fortune.com/2026/11/13/jensen-huang-ceo-security-spies-fbi-cia-training/",
+      "published_at": "2026-11-13T19:18:48+00:00",
+      "summary": "“Sometimes the easiest way to penetrate a billion-dollar company is to get close to the person running it,” says Eric O’Neill."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "published_at": "2026-11-12T20:16:24+00:00",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote"
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "published_at": "2026-11-13T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former execut"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "published_at": "2026-11-12T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an"
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "published_at": "2026-11-13T10:00:00+00:00",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be r"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "published_at": "2026-11-13T10:00:00+00:00",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investo"
     }
   ]
 }

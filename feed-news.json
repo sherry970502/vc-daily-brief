@@ -1,127 +1,143 @@
 {
-  "updated_at": "2026-11-15T07:44:43.143291+00:00",
+  "updated_at": "2026-11-16T07:51:30.529592+00:00",
   "period_hours": 24,
-  "article_count": 15,
+  "article_count": 17,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Where was Nvidia’s security team?",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "published_at": "2026-11-15T00:08:07+00:00",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which"
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "published_at": "2026-11-16T07:00:00+00:00",
+      "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "published_at": "2026-11-14T21:41:22+00:00",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "published_at": "2026-11-16T01:30:00+00:00",
+      "summary": "Apple's new app for a study will answer everyday medical questions"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "published_at": "2026-11-14T20:04:44+00:00",
-      "summary": "Even Elon Musk said the monthly fee is \"too high.\""
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "published_at": "2026-11-15T23:30:00+00:00",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-      "published_at": "2026-11-14T18:00:00+00:00",
-      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day."
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "published_at": "2026-11-15T21:56:35+00:00",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-      "published_at": "2026-11-14T17:45:04+00:00",
-      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\""
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "published_at": "2026-11-15T20:20:57+00:00",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published_at": "2026-11-14T17:30:00+00:00",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "published_at": "2026-11-15T18:29:14+00:00",
+      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "published_at": "2026-11-14T16:34:15+00:00",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "published_at": "2026-11-15T17:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "published_at": "2026-11-15T16:00:00+00:00",
+      "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond."
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’",
+      "url": "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
+      "published_at": "2026-11-16T07:00:39+00:00",
+      "summary": "London-based startup investor Plural, with a portfolio mix of energy, compute, defense, robotics, health and software,\nsays it has closed on its largest fund to date — just over $1.1 billion, or 1 billion euros — to lead early-stage investments across Europe."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The Fed’s battle against inflation risks turning into a forever war—and may last as long as Operation Iraqi Freedom while Iran ‘status quo’ drags on",
-      "url": "https://fortune.com/2026/11/14/federal-reserve-inflation-forever-war-iran-oil-prices-diesel-fed-rate-hikes/",
-      "published_at": "2026-11-14T23:31:14+00:00",
-      "summary": "“We’ve been above 2% for almost six years, and while it sometimes we were making progress, lately we’re not making any progress, and if anything, it’s going the wrong way.”"
+      "title": "‘A complete reversal’: China once feared becoming roadkill for Western automakers, but a quarter-century after joining the WTO, the tables have turned",
+      "url": "https://fortune.com/2026/11/16/china-evs-tariffs-europe-reversal-wto-tesla/",
+      "published_at": "2026-11-16T07:30:00+00:00",
+      "summary": "Long before Europe worried about Chinese cars flooding its markets, China worried Europe would destroy its auto industry."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The downfall of AI’s $5.7 trillion man",
-      "url": "https://fortune.com/2026/11/14/jensen-huang-nvidia-ai-5-7-trillion-downfall/",
-      "published_at": "2026-11-14T18:07:44+00:00",
-      "summary": "The founder and CEO turned Nvidia into the linchpin of the AI boom. Can it survive without him?"
+      "title": "After Florida voted to slash property taxes, towns looking to fill budget holes may end up relying on the state: ‘The bailout comes with a leash’",
+      "url": "https://fortune.com/2026/11/16/florida-property-tax-cuts-amendment-3-towns-budget-holes-fee-revenue-state-bailout/",
+      "published_at": "2026-11-16T07:00:00+00:00",
+      "summary": "Florida voters approved a measure that would increase homestead exemptions and lower property taxes in last week’s midterm election."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The hottest job in AI right now may be counterintelligence as companies pay former spooks $500,000 to protect trade secrets",
-      "url": "https://fortune.com/2026/11/14/ai-industrial-espionage-counterintelligence-jobs-china-spying-nvidia-jensen-huang-pentagon-economic-warfare/",
-      "published_at": "2026-11-14T20:31:52+00:00",
-      "summary": "Anthropic alone has hired 33 employees for counterintelligence functions so far this year, up from 14 last year, and nine in 2024."
+      "title": "What a Tiny Chorus of the ‘Bring Back Jensen’ Tech Bros Gets Wrong",
+      "url": "https://fortune.com/2026/11/15/bring-back-jensen-huang-nvidia-tech-bros-wrong/",
+      "published_at": "2026-11-16T00:30:00+00:00",
+      "summary": "Nvidia's board did not fold to a woke mob. It woke up to a national security problem it had been negligent on – with devastating consequences."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "FAA telecom problems that triggered the ground stop were so alarming the White House situation room and national security apparatus went into action",
-      "url": "https://fortune.com/2026/11/14/faa-ground-stop-telecom-router-cybersecurity-white-house-situation-room-national-security-apparatus-l3harris/",
-      "published_at": "2026-11-14T17:58:33+00:00",
-      "summary": "\"I think we've all concluded that it's not a cyber issue.\""
+      "title": "Transportation secretary still doesn’t totally rule out that a cyberattack may have hit the FAA, and the FBI is assisting the probe",
+      "url": "https://fortune.com/2026/11/15/cyberattack-hack-faa-air-traffic-control-communications-router-fbi-probe-sean-duffy-ground-stop/",
+      "published_at": "2026-11-15T17:41:41+00:00",
+      "summary": "\"We think it was the installation or the router that was the bad actor. But we're open. If we see something else, we're going to continue to investigate with our federal partners and law enforcement.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Delta CEO says air traffic control systems are so outdated that some commercial flight routes were faster in the 1950s than they are today",
-      "url": "https://fortune.com/article/delta-ceo-ed-bastian-air-traffic-control-systems-flight-routes-1950s-faa-modernization/",
-      "published_at": "2026-11-14T14:47:15+00:00",
-      "summary": "Ed Bastian says it’s still safe to fly, though."
+      "title": "Americans fear the worst after Pentagon doomsday prepping, ‘Black October’ cyberattacks, stock crash, spy scandal, Microsoft outage, and airport chaos",
+      "url": "https://fortune.com/2026/11/15/pentagon-doomsday-prepping-black-october-cyberattacks-stock-crash-nvidia-china-spy-scandal-microsoft-outage-faa-air-traffic/",
+      "published_at": "2026-11-15T23:21:09+00:00",
+      "summary": "The past month has seemed like one battle after another, and it's taking a toll on Americans who are starting to feel like everything is breaking at once."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Former Goldman Sachs CEO Lloyd Blankfein says Peter Thiel is wrong: College is worth it because it makes you a ‘complete person’",
-      "url": "https://fortune.com/article/former-goldman-sachs-ceo-lloyd-blankfein-says-peter-thiel-is-wrong-college-is-worth-it/",
-      "published_at": "2026-11-14T14:23:06+00:00",
-      "summary": "Former Goldman Sachs boss Lloyd Blankfein hit back at tech leaders who say the degree is dead: Attending college is actually one of the best ways to open doors and grow confidence."
+      "title": "Son of ex-Alamo Rent a Car owner went from hip hop label founder to lithium leader. He’s even eyeing the White House",
+      "url": "https://fortune.com/2026/11/15/son-alamo-rent-car-hip-hop-label-lithium-leader-white-house/",
+      "published_at": "2026-11-15T08:05:00+00:00",
+      "summary": "The brash EnergyX aims to expand into the world's largest lithium producer with major hubs in the U.S. and South America."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Jensen Huang had a strict no one-on-one meetings rule for his 60 direct reports—and Nvidia’s interim CEO has a similar mantra: ‘We don’t waste a dime’",
-      "url": "https://fortune.com/article/jensen-huang-had-a-strict-no-one-on-one-meetings-rule-for-his-60-direct-reports/",
-      "published_at": "2026-11-14T14:20:03+00:00",
-      "summary": "Nvidia’s ex-CEO Jensen Huang said frequent meetings cluttered his schedule—and interim CEO Colette Kress is just as obsessed with speed."
+      "title": "India’s film industry hopes a $420 million mythological epic can be a global hit",
+      "url": "https://fortune.com/2026/11/15/ramayana-box-office-india-most-expensive-film/",
+      "published_at": "2026-11-15T21:00:00+00:00",
+      "summary": "With a reported budget of 40 billion Indian rupees ($420 million), the two-part Ramayana is the most expensive film ever made in India."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tesla and Amazon are building the workforce a 1921 play imagined: One that never asks for a wage",
-      "url": "https://fortune.com/2026/11/14/capek-rur-humanoid-robots-tesla-optimus-amazon-agility/",
-      "published_at": "2026-11-14T13:26:00+00:00",
-      "summary": "Tesla’s Optimus is in early production and Agility is public. A 1921 play shows why automation’s risk hides in the aggregate."
+      "title": "Treasury Secretary Scott Bessent says if Nvidia was a bank, ‘a lot of the executives would be removed’ — while Huang reportedly eyes return",
+      "url": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/",
+      "published_at": "2026-11-15T19:51:52+00:00",
+      "summary": "After blaming Commerce Secretary Howard Lutnick for not blacklisting a company suspected of funneling AI chips to China, Treasury Secretary Scott Bessent put Nvidia on blast."
     }
   ]
 }

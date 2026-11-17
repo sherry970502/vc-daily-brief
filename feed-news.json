@@ -1,143 +1,175 @@
 {
-  "updated_at": "2026-11-16T07:51:30.529592+00:00",
+  "updated_at": "2026-11-17T08:59:41.782843+00:00",
   "period_hours": 24,
-  "article_count": 17,
+  "article_count": 21,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-      "published_at": "2026-11-16T07:00:00+00:00",
-      "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund."
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "published_at": "2026-11-16T23:32:32+00:00",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Apple launches new app to study how people use AI for health",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "published_at": "2026-11-16T01:30:00+00:00",
-      "summary": "Apple's new app for a study will answer everyday medical questions"
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "published_at": "2026-11-16T22:12:31+00:00",
+      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "published_at": "2026-11-15T23:30:00+00:00",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "published_at": "2026-11-16T22:03:02+00:00",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "published_at": "2026-11-15T21:56:35+00:00",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "published_at": "2026-11-16T21:01:02+00:00",
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "published_at": "2026-11-15T20:20:57+00:00",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "published_at": "2026-11-16T20:07:13+00:00",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-      "published_at": "2026-11-15T18:29:14+00:00",
-      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”"
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "published_at": "2026-11-16T19:53:00+00:00",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-      "published_at": "2026-11-15T17:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+      "published_at": "2026-11-16T19:26:55+00:00",
+      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The tech products we enthusiastically recommend this holiday season",
-      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-      "published_at": "2026-11-15T16:00:00+00:00",
-      "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond."
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "published_at": "2026-11-16T19:12:02+00:00",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’",
-      "url": "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
-      "published_at": "2026-11-16T07:00:39+00:00",
-      "summary": "London-based startup investor Plural, with a portfolio mix of energy, compute, defense, robotics, health and software,\nsays it has closed on its largest fund to date — just over $1.1 billion, or 1 billion euros — to lead early-stage investments across Europe."
+      "title": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
+      "url": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
+      "published_at": "2026-11-16T12:00:36+00:00",
+      "summary": "As AI takes over entry-level knowledge work, guest authors Bob Morse of Strattam Capital and Michael Quoia of KSE Leadership argue that these workers should begin their careers managing AI agents, developing skills in delegation, oversight and judgment traditionally learned later."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘A complete reversal’: China once feared becoming roadkill for Western automakers, but a quarter-century after joining the WTO, the tables have turned",
-      "url": "https://fortune.com/2026/11/16/china-evs-tariffs-europe-reversal-wto-tesla/",
-      "published_at": "2026-11-16T07:30:00+00:00",
-      "summary": "Long before Europe worried about Chinese cars flooding its markets, China worried Europe would destroy its auto industry."
+      "title": "U.S. labor force may come to resemble China’s army of one-man companies due to AI, says Bill Gross—leveling wealth inequality and national debt",
+      "url": "https://fortune.com/2026/11/17/idea-lab-bill-gross-ai-jobs-business-national-debt-inequality/",
+      "published_at": "2026-11-17T08:06:00+00:00",
+      "summary": "\"Rather than start three more small companies, this is the place where I can have the most leverage, and I'll probably be doing this for the rest of my life.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After Florida voted to slash property taxes, towns looking to fill budget holes may end up relying on the state: ‘The bailout comes with a leash’",
-      "url": "https://fortune.com/2026/11/16/florida-property-tax-cuts-amendment-3-towns-budget-holes-fee-revenue-state-bailout/",
-      "published_at": "2026-11-16T07:00:00+00:00",
-      "summary": "Florida voters approved a measure that would increase homestead exemptions and lower property taxes in last week’s midterm election."
+      "title": "Voters want relief from rising power bills. Democrats must find a way to deliver without stalling the AI investment helping drive the economy",
+      "url": "https://fortune.com/2026/11/17/democrats-ai-data-center-backlash-electricity-costs-regulation-economic-growth/",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "summary": "Voters want relief from rising power bills. Democrats must find a way to deliver without stalling the AI investment helping drive the economy."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "What a Tiny Chorus of the ‘Bring Back Jensen’ Tech Bros Gets Wrong",
-      "url": "https://fortune.com/2026/11/15/bring-back-jensen-huang-nvidia-tech-bros-wrong/",
-      "published_at": "2026-11-16T00:30:00+00:00",
-      "summary": "Nvidia's board did not fold to a woke mob. It woke up to a national security problem it had been negligent on – with devastating consequences."
+      "title": "Honeywell CEO says AI isn’t about replacing workers as C.H. Robinson touts 60% productivity gains: ‘We all have to reskill ourselves’",
+      "url": "https://fortune.com/2026/11/17/honeywell-ceo-vimal-kapur-physical-ai-not-replacing-workers-reskilling-jobs-ch-robinson-dave-bozeman-productivity-gains/",
+      "published_at": "2026-11-17T07:00:00+00:00",
+      "summary": "Honeywell's Vimal Kapur and C.H. Robinson's Dave Bozeman said AI is changing industrial jobs and forcing workers to learn new skills."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Transportation secretary still doesn’t totally rule out that a cyberattack may have hit the FAA, and the FBI is assisting the probe",
-      "url": "https://fortune.com/2026/11/15/cyberattack-hack-faa-air-traffic-control-communications-router-fbi-probe-sean-duffy-ground-stop/",
-      "published_at": "2026-11-15T17:41:41+00:00",
-      "summary": "\"We think it was the installation or the router that was the bad actor. But we're open. If we see something else, we're going to continue to investigate with our federal partners and law enforcement.\""
+      "title": "‘A complete evaporation of confidence’–6 critical things Nvidia, and interim CEO Colette Kress, need to nail on the first Jensen-free earnings call",
+      "url": "https://fortune.com/2026/11/16/nvidia-stock-earnings-jensen-huang-colette-kress/",
+      "published_at": "2026-11-16T23:02:48+00:00",
+      "summary": "And will Wall Street’s top analysts ask the hard questions with the global investor community watching?"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Americans fear the worst after Pentagon doomsday prepping, ‘Black October’ cyberattacks, stock crash, spy scandal, Microsoft outage, and airport chaos",
-      "url": "https://fortune.com/2026/11/15/pentagon-doomsday-prepping-black-october-cyberattacks-stock-crash-nvidia-china-spy-scandal-microsoft-outage-faa-air-traffic/",
-      "published_at": "2026-11-15T23:21:09+00:00",
-      "summary": "The past month has seemed like one battle after another, and it's taking a toll on Americans who are starting to feel like everything is breaking at once."
+      "title": "Days after Microsoft and the FAA went dark, Chase and Wells Fargo customers can’t get to their money",
+      "url": "https://fortune.com/2026/11/16/chase-bank-wells-fargo-capital-one-bank-outages/",
+      "published_at": "2026-11-16T20:35:43+00:00",
+      "summary": "Chase blamed a “technical issue” as customers at several big U.S. banks reported trouble moving money on Monday."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Son of ex-Alamo Rent a Car owner went from hip hop label founder to lithium leader. He’s even eyeing the White House",
-      "url": "https://fortune.com/2026/11/15/son-alamo-rent-car-hip-hop-label-lithium-leader-white-house/",
-      "published_at": "2026-11-15T08:05:00+00:00",
-      "summary": "The brash EnergyX aims to expand into the world's largest lithium producer with major hubs in the U.S. and South America."
+      "title": "How Airbnb cofounder and US Design Chief Joe Gebbia fixed a $100 million government problem for $1.5 million",
+      "url": "https://fortune.com/2026/11/16/airbnb-joe-gebbia-government-retirement-100-million/",
+      "published_at": "2026-11-16T23:23:58+00:00",
+      "summary": "The US chief design officer says ex-Airbnb engineers brought federal retirement online in six months. Now he wants to do the same for 29,000 government websites."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "India’s film industry hopes a $420 million mythological epic can be a global hit",
-      "url": "https://fortune.com/2026/11/15/ramayana-box-office-india-most-expensive-film/",
-      "published_at": "2026-11-15T21:00:00+00:00",
-      "summary": "With a reported budget of 40 billion Indian rupees ($420 million), the two-part Ramayana is the most expensive film ever made in India."
+      "title": "Newly reelected Sen. John Hickenlooper sketches Democrats’ AI line: race China, but regulate frontier models like nuclear weapons and airplanes",
+      "url": "https://fortune.com/2026/11/16/john-hickenlooper-democrats-ai-outline-frontier-regulation/",
+      "published_at": "2026-11-16T22:15:16+00:00",
+      "summary": "The Colorado Democrat says AI may not need “unlimited” self-improvement and data centers should pay for their own grid upgrades."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Treasury Secretary Scott Bessent says if Nvidia was a bank, ‘a lot of the executives would be removed’ — while Huang reportedly eyes return",
-      "url": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/",
-      "published_at": "2026-11-15T19:51:52+00:00",
-      "summary": "After blaming Commerce Secretary Howard Lutnick for not blacklisting a company suspected of funneling AI chips to China, Treasury Secretary Scott Bessent put Nvidia on blast."
+      "title": "Michigan’s next governor hasn’t talked to Trump yet—but wants to work with him on a 50% auto tariff set for her first day",
+      "url": "https://fortune.com/2026/11/16/jocelyn-benson-michigan-governor-trump-auto-tariffs-fortune-500-innovation-forum/",
+      "published_at": "2026-11-16T21:43:44+00:00",
+      "summary": "Benson says she’ll run Michigan as its “CEO,” pairing lower costs with higher wages."
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "published_at": "2026-11-16T18:38:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "published_at": "2026-11-16T16:04:28+00:00",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "published_at": "2026-11-16T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Te"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "published_at": "2026-11-16T13:00:00+00:00",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de"
     }
   ]
 }

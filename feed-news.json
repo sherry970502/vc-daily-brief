@@ -1,191 +1,191 @@
 {
-  "updated_at": "2026-11-18T08:25:09.193342+00:00",
+  "updated_at": "2026-11-19T08:36:53.371763+00:00",
   "period_hours": 24,
   "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "published_at": "2026-11-18T01:44:21+00:00",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "published_at": "2026-11-19T00:42:56+00:00",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "published_at": "2026-11-18T00:16:50+00:00",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "published_at": "2026-11-19T00:40:49+00:00",
+      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-      "published_at": "2026-11-18T00:01:00+00:00",
-      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report."
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "published_at": "2026-11-18T23:45:00+00:00",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "published_at": "2026-11-17T23:37:48+00:00",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "published_at": "2026-11-18T23:25:17+00:00",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "published_at": "2026-11-17T23:04:35+00:00",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "published_at": "2026-11-18T23:17:28+00:00",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "published_at": "2026-11-17T22:42:27+00:00",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week."
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "published_at": "2026-11-18T22:58:11+00:00",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "published_at": "2026-11-17T22:29:05+00:00",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "published_at": "2026-11-18T22:11:15+00:00",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "published_at": "2026-11-17T21:48:07+00:00",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+      "published_at": "2026-11-18T22:04:03+00:00",
+      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
-      "url": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
-      "published_at": "2026-11-17T14:00:18+00:00",
-      "summary": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation."
+      "title": "Anthropic Prices IPO Shares At $83, Above Range",
+      "url": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
+      "published_at": "2026-11-18T22:15:36+00:00",
+      "summary": "The offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its capital-raising goals."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Money Cleared The Bank. Now The Founder Is The Risk.",
-      "url": "https://news.crunchbase.com/startups/founder-venture-funding-pressure-meerbott-you-loud-clear/",
-      "published_at": "2026-11-17T12:00:45+00:00",
-      "summary": "The first 90 days after a funding round can be overwhelming for founders, but executive coach Kelly Meerbott explains how they can protect their decision-making by pausing before major commitments, acknowledging stress, scheduling candid co-founder conversations, and seeking support from boards and"
+      "title": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
+      "url": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
+      "published_at": "2026-11-18T19:39:58+00:00",
+      "summary": "Just three years after launching with zero revenue, Anthropic brought in $17 billion and says more than 11,900 customers now spend at least $100,000 a year. But its IPO filing also reveals enormous computing commitments and big questions about balancing growth with risks."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
-      "url": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
-      "published_at": "2026-11-17T12:00:41+00:00",
-      "summary": "In this Q&#038;A, Mike Bellin, a partner and U.S. IPO services leader at PricewaterhouseCoopers, discussed the slowdown in IPO momentum, how public investors are evaluating AI companies, biotech’s resurgence and why SPACs are attracting renewed interest. He also outlined what could set the stage for"
+      "title": "What To Measure When ARR Isn’t Enough",
+      "url": "https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp/",
+      "published_at": "2026-11-18T12:00:54+00:00",
+      "summary": "AI companies’ hybrid subscription, usage and outcome-based pricing makes headline ARR figures an unreliable measure of predictable revenue, often obscuring differences in customer commitments and spending patterns. Guest author Kenza Zayani, an early-stage investor at RTP Global, warns that as these"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Sector Snapshot: Investors Turn Up The Volume On Voice AI",
+      "url": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/",
+      "published_at": "2026-11-18T12:00:31+00:00",
+      "summary": "Voice AI is drawing billions of dollars from investors as startups find more ways to put it to work. According to Crunchbase data, companies developing or offering the technology have raised at least $9.5 billion in venture funding so far in 2026."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘What if the input isn’t the news? What if the input is you?’ Bill Gross gave away 1.2 million AI business ideas for free—the Fortune 500 is next",
-      "url": "https://fortune.com/2026/11/17/bill-gross-idealab-ai-patents-fortune-500-license-caltech/",
-      "published_at": "2026-11-17T17:44:32+00:00",
-      "summary": "Idealab.ai’s founder says his system found 3,867 businesses in Caltech’s patents. Now he’s pitching it to corporate R&#038;D departments."
+      "title": "iPhone designer Tony Fadell’s next big thing: Bringing AI to fashion in hopes of saving H&M $100 million a year",
+      "url": "https://fortune.com/2026/11/19/smartex-ai-tony-fadell-fashion-hm/",
+      "published_at": "2026-11-19T08:06:00+00:00",
+      "summary": "“If you go to any kind of [fashion] supply chain, whether it's fabric production or garment production, most people are just kind of amazed by how chaotic it is.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia’s tutorial on genuine good governance, needed by tech bros and governistas alike",
-      "url": "https://fortune.com/2026/11/17/nvidia-board-governance-tech-bros-governistas-sonnenfeld/",
-      "published_at": "2026-11-18T01:14:36+00:00",
-      "summary": "Both camps ignore the real collapse of board oversight."
+      "title": "EA cofounder once compared interview questions with Amazon’s Andy Jassy—Jassy’s was so ruthless that no instant answer ends the interview",
+      "url": "https://fortune.com/2026/11/19/55-billion-dollars-ea-cofounder-bing-gordon-compared-make-or-break-interview-questions-with-amazon-ceo-andy-jassy-career-advice/",
+      "published_at": "2026-11-19T08:02:00+00:00",
+      "summary": "EA cofounder once compared interview questions with Amazon’s Andy Jassy—Jassy’s was so ruthless that no instant answer ends the interview on the spot"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia raised next year’s sales target by tens of billions of dollars, signaling confidence in its future without Jensen Huang",
-      "url": "https://fortune.com/2026/11/17/nvidia-nvda-earnings-q3-2027-revenue-forecast-beat-wall-street-jensen-huang-resignation-colette-kress/",
-      "published_at": "2026-11-17T21:38:33+00:00",
-      "summary": "The AI chip company delivered better-than-expected Q3 earnings results, and delivered a strong forecast."
+      "title": "I tested an AI startup that claimed it could beat Wall Street earnings estimates. It won 40 out of 50 times",
+      "url": "https://fortune.com/2026/11/19/quarterly-earnings-ai-vs-analysts-samaya/",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "summary": "Many CEOs live or die by meeting quarterly earnings targets. An AI startup called Samaya just called those targets into question."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘If you don’t act now, it will be existential’: Defense tech CEOs say Pentagon’s ‘Industrial Age’ bureaucracy must adapt",
-      "url": "https://fortune.com/2026/11/17/pentagon-defense-tech-shield-ai-bureaucracy/",
-      "published_at": "2026-11-18T01:11:16+00:00",
-      "summary": "The wars in Ukraine and Iran are accelerating demand for defense tech, which went from a taboo investment to a venture capital darling."
+      "title": "‘45 is the new 60’: Thailand’s Kasikornbank is paying staff to retire early as it prepares for AI",
+      "url": "https://fortune.com/2026/11/19/thailands-bank-retire-early-ai/",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "summary": "Kasikornbank is now trying to find ways to boost productivity within the bank."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "To appoint the next comptroller general of the United States, follow the law",
-      "url": "https://fortune.com/2026/11/17/comptroller-general-gao-appointment-rand-paul-trump-law/",
-      "published_at": "2026-11-17T19:14:56+00:00",
-      "summary": "Rand Paul and Trump skipped the law’s selection panel"
+      "title": "Why Gap has a chief entertainment officer, and why your company might need one too",
+      "url": "https://fortune.com/2026/11/19/gap-inc-chief-entertainment-officer-pam-kaufman-brand-entertainment-strategy/",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "summary": "“He had me at mall tour”: How a boy band became part of Gap exec Pam Kaufman’s new playbook."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia chair closes the door on Jensen Huang comeback; analysts don’t push on China/Singapore black box",
-      "url": "https://fortune.com/2026/11/17/nvidia-chair-harvey-jones-jensen-huang-comeback-earnings-call-analysts-china-singapore/",
-      "published_at": "2026-11-18T00:13:51+00:00",
-      "summary": "Nvidia chair Harvey Jones said the board “does not intend to reinstate Jensen as CEO\" and declined to take any further questions about him."
+      "title": "Sunrun and Overview Energy CEOs say the answer to AI’s energy problem is already on the grid",
+      "url": "https://fortune.com/2026/11/19/sunrun-overview-energy-ceos-grid-ai-energy/",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "summary": "After midterms shaped by data center anger, Sunrun’s Mary Powell and Overview Energy’s Abdullah Al-Shakarchi say underused power plants, lines, and home batteries can carry more load."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Yum China CEO Joey Wat: What China’s consumer market can teach global business",
-      "url": "https://fortune.com/2026/11/17/china-consumer-market-lessons-global-business-yum-china-joey-wat/",
-      "published_at": "2026-11-17T23:00:00+00:00",
-      "summary": "When I was 15, I worked part-time as a restaurant food runner. It taught me the dignity of hard work and the importance of frontline employees."
+      "title": "Indonesia signs partnerships for $71.8 billion in Chinese investment, more than an entire year’s worth of FDI",
+      "url": "https://fortune.com/2026/11/19/indonesia-china-investment-smart-cities-danantara/",
+      "published_at": "2026-11-19T07:15:32+00:00",
+      "summary": "The largest partnership agreed Wednesday, valued at approximately $50 billion, envisages 10 “future smart cities.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Microsoft’s Satya Nadella praises Jensen Huang, says return as CEO is ‘up to the Nvidia board’",
-      "url": "https://fortune.com/2026/11/17/microsofts-satya-nadella-jensen-huang-a-singular-person-but-its-up-to-nvidia-to-decide-whether-to-bring-him-back-as-ceo/",
-      "published_at": "2026-11-17T19:58:45+00:00",
-      "summary": "Haung recently resigned as Nvidia CEO after admitting to an affair with a woman suspected to be a Chinese spy."
+      "title": "If Indonesia wants 8% growth, it needs to give investors confidence that contracts won’t change on them",
+      "url": "https://fortune.com/2026/11/19/indonesia-needs-investor-confidence-for-growth/",
+      "published_at": "2026-11-19T05:36:00+00:00",
+      "summary": "Indonesia has the resources to pursue its ambitions. It needs to create the conditions that turn that potential into sustained investment."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "published_at": "2026-11-17T18:46:47+00:00",
-      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to k"
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "published_at": "2026-11-18T14:42:44+00:00",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-      "published_at": "2026-11-17T17:52:10+00:00",
-      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released thro"
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "published_at": "2026-11-18T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful no"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "published_at": "2026-11-17T14:39:46+00:00",
-      "summary": "To access a report, click on the corresponding image below."
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-      "published_at": "2026-11-17T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, includ"
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "published_at": "2026-11-18T10:20:30+00:00",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup"
     }
   ]
 }

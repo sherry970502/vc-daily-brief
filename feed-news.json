@@ -1,191 +1,183 @@
 {
-  "updated_at": "2026-11-19T08:36:53.371763+00:00",
+  "updated_at": "2026-11-20T08:20:12.450924+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 22,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "published_at": "2026-11-19T00:42:56+00:00",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "published_at": "2026-11-20T00:56:01+00:00",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "published_at": "2026-11-19T00:40:49+00:00",
-      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms."
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "published_at": "2026-11-20T00:43:50+00:00",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "published_at": "2026-11-18T23:45:00+00:00",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "published_at": "2026-11-20T00:26:03+00:00",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "published_at": "2026-11-18T23:25:17+00:00",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "published_at": "2026-11-19T23:37:56+00:00",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "published_at": "2026-11-18T23:17:28+00:00",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "published_at": "2026-11-19T22:33:26+00:00",
+      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "published_at": "2026-11-18T22:58:11+00:00",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "published_at": "2026-11-19T21:58:06+00:00",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "published_at": "2026-11-18T22:11:15+00:00",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "published_at": "2026-11-19T21:42:31+00:00",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-      "published_at": "2026-11-18T22:04:03+00:00",
-      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case."
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "published_at": "2026-11-19T21:33:24+00:00",
+      "summary": "Uber is testing the new program in three U.S. cities."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Anthropic Prices IPO Shares At $83, Above Range",
-      "url": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
-      "published_at": "2026-11-18T22:15:36+00:00",
-      "summary": "The offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its capital-raising goals."
+      "title": "The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities",
+      "url": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
+      "published_at": "2026-11-19T12:00:45+00:00",
+      "summary": "The $2.6 trillion blue economy is creating startup opportunities in maritime automation, clean energy and logistics, with blue tech funding nearing $10 billion through Q3 2026, driven largely by major defense deals. Alberto Onetti, chairman of Mind the Bridge, writes that ports are emerging as hubs"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
-      "url": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
-      "published_at": "2026-11-18T19:39:58+00:00",
-      "summary": "Just three years after launching with zero revenue, Anthropic brought in $17 billion and says more than 11,900 customers now spend at least $100,000 a year. But its IPO filing also reveals enormous computing commitments and big questions about balancing growth with risks."
+      "title": "What’s Next For Recruiting, Job Hunting And HR? More AI, Of Course",
+      "url": "https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/",
+      "published_at": "2026-11-19T12:00:23+00:00",
+      "summary": "So far this year, venture backers have poured close to $4 billion into an assortment of global companies focused on recruiting, finding jobs and streamlining processes associated with HR and payroll management, Crunchbase data shows. Not surprisingly, the vast majority are also incorporating a heavy"
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "What To Measure When ARR Isn’t Enough",
-      "url": "https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp/",
-      "published_at": "2026-11-18T12:00:54+00:00",
-      "summary": "AI companies’ hybrid subscription, usage and outcome-based pricing makes headline ARR figures an unreliable measure of predictable revenue, often obscuring differences in customer commitments and spending patterns. Guest author Kenza Zayani, an early-stage investor at RTP Global, warns that as these"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Sector Snapshot: Investors Turn Up The Volume On Voice AI",
-      "url": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/",
-      "published_at": "2026-11-18T12:00:31+00:00",
-      "summary": "Voice AI is drawing billions of dollars from investors as startups find more ways to put it to work. According to Crunchbase data, companies developing or offering the technology have raised at least $9.5 billion in venture funding so far in 2026."
+      "title": "Public Markets Are Frequently Wrong. The SaaSpocalypse Shows Us Why",
+      "url": "https://news.crunchbase.com/saas/public-market-value-regulations-ai-anton-oxx/",
+      "published_at": "2026-11-19T12:00:01+00:00",
+      "summary": "The “SaaSpocalypse” selloff and uneven recovery exposed public markets’ difficulty distinguishing software companies that benefit from AI from those it threatens, particularly as deeply embedded platforms retain competitive advantages. In this guest essay, Richard Anton, co-founder and general partn"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "iPhone designer Tony Fadell’s next big thing: Bringing AI to fashion in hopes of saving H&M $100 million a year",
-      "url": "https://fortune.com/2026/11/19/smartex-ai-tony-fadell-fashion-hm/",
-      "published_at": "2026-11-19T08:06:00+00:00",
-      "summary": "“If you go to any kind of [fashion] supply chain, whether it's fabric production or garment production, most people are just kind of amazed by how chaotic it is.\""
+      "title": "‘Half philanthropy and half protest’: Noah Wyle and FIGS pair up to erase $200 million in real patients’ medical debt",
+      "url": "https://fortune.com/2026/11/20/half-philanthropy-and-half-protest-noah-wyle-and-figs-pair-up-to-erase-200-million-in-real-patients-medical-debt/",
+      "published_at": "2026-11-20T08:04:00+00:00",
+      "summary": "After decades of playing a doctor on TV, Wyle is teaming up with FIGS and Undue Medical Debt to clear debt for more than 150,000 Americans."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "EA cofounder once compared interview questions with Amazon’s Andy Jassy—Jassy’s was so ruthless that no instant answer ends the interview",
-      "url": "https://fortune.com/2026/11/19/55-billion-dollars-ea-cofounder-bing-gordon-compared-make-or-break-interview-questions-with-amazon-ceo-andy-jassy-career-advice/",
-      "published_at": "2026-11-19T08:02:00+00:00",
-      "summary": "EA cofounder once compared interview questions with Amazon’s Andy Jassy—Jassy’s was so ruthless that no instant answer ends the interview on the spot"
+      "title": "One in four boomers are still working well into their 70s because they can’t afford to retire—around 10% have even picked up second jobs",
+      "url": "https://fortune.com/2026/11/20/boomers-working-retirement-age-second-jobs-affordability/",
+      "published_at": "2026-11-20T08:01:00+00:00",
+      "summary": "Even 60 to 75 year olds who have already retired are now considering returning to work. Unsurprisingly, it’s not because they miss the office."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "I tested an AI startup that claimed it could beat Wall Street earnings estimates. It won 40 out of 50 times",
-      "url": "https://fortune.com/2026/11/19/quarterly-earnings-ai-vs-analysts-samaya/",
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "summary": "Many CEOs live or die by meeting quarterly earnings targets. An AI startup called Samaya just called those targets into question."
+      "title": "Warby Parker is betting its next chapter on smart glasses people actually want to wear",
+      "url": "https://fortune.com/2026/11/20/warby-parker-google-smart-glasses/",
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "summary": "With growth slowing, the eyewear brand has partnered with Google on $395 AI glasses designed to look like ordinary frames, putting it head-to-head with Meta and Ray-Ban."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘45 is the new 60’: Thailand’s Kasikornbank is paying staff to retire early as it prepares for AI",
-      "url": "https://fortune.com/2026/11/19/thailands-bank-retire-early-ai/",
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "summary": "Kasikornbank is now trying to find ways to boost productivity within the bank."
+      "title": "The world got used to endless Saudi cash. The Iran war ushered in a new reality",
+      "url": "https://fortune.com/2026/11/20/saudi-arabia-vision-2030-iran-war-public-investment-fund-global-spending/",
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "summary": "The fund that invested billions in Uber and backed the $55 billion takeover of Electronic Arts is now aiming to limit foreign investments to 20% of its portfolio, down from 30% in 2020."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why Gap has a chief entertainment officer, and why your company might need one too",
-      "url": "https://fortune.com/2026/11/19/gap-inc-chief-entertainment-officer-pam-kaufman-brand-entertainment-strategy/",
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "summary": "“He had me at mall tour”: How a boy band became part of Gap exec Pam Kaufman’s new playbook."
+      "title": "Anthropic just set an IPO record nobody’s bragging about: $20 billion left on the table",
+      "url": "https://fortune.com/2026/11/20/anthropic-ipo-record-nobodys-bragging-about-20-billion-left-on-the-table/",
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "summary": "The stock’s opening-day surge meant institutions, favored retail investors and the deal’s underwriters captured billions Anthropic could have kept for itself."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Sunrun and Overview Energy CEOs say the answer to AI’s energy problem is already on the grid",
-      "url": "https://fortune.com/2026/11/19/sunrun-overview-energy-ceos-grid-ai-energy/",
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "summary": "After midterms shaped by data center anger, Sunrun’s Mary Powell and Overview Energy’s Abdullah Al-Shakarchi say underused power plants, lines, and home batteries can carry more load."
+      "title": "Trump is one step closer to his ‘Golden Dome’ in Greenland, and it will be ‘absolutely devastating’ for U.S.-European relations",
+      "url": "https://fortune.com/2026/11/20/trump-security-agreement-denmark-golden-dome-absolutely-devestating-european-relations/",
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "summary": "Denmark unanimously agreed to a security agreement with Trump, allowing the U.S. to have greater military access to the island the president has repeatedly threatened to take over."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Indonesia signs partnerships for $71.8 billion in Chinese investment, more than an entire year’s worth of FDI",
-      "url": "https://fortune.com/2026/11/19/indonesia-china-investment-smart-cities-danantara/",
-      "published_at": "2026-11-19T07:15:32+00:00",
-      "summary": "The largest partnership agreed Wednesday, valued at approximately $50 billion, envisages 10 “future smart cities.\""
+      "title": "Mbappé’s apology is a warning: China’s economic coercion needs a collective response",
+      "url": "https://fortune.com/2026/11/19/mbappes-apology-chinas-economic-coercion/",
+      "published_at": "2026-11-20T04:00:00+00:00",
+      "summary": "As long as governments won't stand up to China, no company or individual will—and certainly no athlete, no matter how famous."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "If Indonesia wants 8% growth, it needs to give investors confidence that contracts won’t change on them",
-      "url": "https://fortune.com/2026/11/19/indonesia-needs-investor-confidence-for-growth/",
-      "published_at": "2026-11-19T05:36:00+00:00",
-      "summary": "Indonesia has the resources to pursue its ambitions. It needs to create the conditions that turn that potential into sustained investment."
+      "title": "Maybank’s tech chief isn’t rushing to put agentic AI in front of customers: ‘You don’t want to put trust in jeopardy’",
+      "url": "https://fortune.com/2026/11/19/maybank-pursuing-gradual-agentic-ai-rollout/",
+      "published_at": "2026-11-20T03:01:39+00:00",
+      "summary": "Maybank CTO Giorgio Migliarina says the bank wants AI agents to auditable and predictable before it makes them customer-facing."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "published_at": "2026-11-18T14:42:44+00:00",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to"
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "published_at": "2026-11-19T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life su"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI learns to smell and hydropower struggles",
-      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "published_at": "2026-11-18T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful no"
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "published_at": "2026-11-19T12:00:00+00:00",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "published_at": "2026-11-18T10:20:30+00:00",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup"
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "published_at": "2026-11-19T11:00:00+00:00",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter"
     }
   ]
 }

@@ -1,175 +1,135 @@
 {
-  "updated_at": "2026-11-21T08:10:58.847916+00:00",
+  "updated_at": "2026-11-22T07:55:51.224767+00:00",
   "period_hours": 24,
-  "article_count": 21,
+  "article_count": 16,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "published_at": "2026-11-21T04:00:00+00:00",
-      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India."
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "published_at": "2026-11-20T20:58:29+00:00",
-      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit."
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "published_at": "2026-11-21T21:07:42+00:00",
+      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "published_at": "2026-11-20T19:53:41+00:00",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "published_at": "2026-11-21T18:44:53+00:00",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "published_at": "2026-11-20T19:32:08+00:00",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "2026-11-21T17:00:00+00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Super-hot rock geothermal could end data center energy woes",
-      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-      "published_at": "2026-11-20T18:34:00+00:00",
-      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere."
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "published_at": "2026-11-21T16:00:00+00:00",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Chips can survive the space environment — can their financing?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "published_at": "2026-11-20T17:40:01+00:00",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-      "published_at": "2026-11-20T16:16:06+00:00",
-      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "published_at": "2026-11-20T15:46:07+00:00",
-      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
-      "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
-      "published_at": "2026-11-20T20:15:54+00:00",
-      "summary": "U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science securing a fresh $400 million."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "5 Interesting Startup Deals You May Have Missed: Reflecting Sunlight From Space, Better Breathing And Smarter Garbage Trucks",
-      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
-      "published_at": "2026-11-20T12:00:25+00:00",
-      "summary": "What if solar farms could keep generating electricity after sunset with a little help from mirrors orbiting Earth? Or researchers could send an experiment into space for less than the price of a car? Our latest roundup also includes a company bringing AI to the old-school business of garbage hauling"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
-      "url": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
-      "published_at": "2026-11-20T12:00:01+00:00",
-      "summary": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if AI fulfills its technological promise, bor"
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "published_at": "2026-11-21T15:18:29+00:00",
+      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Fed governor admits people now think higher inflation is the new normal: ‘That’s the kind of psychology we need to start breaking’",
-      "url": "https://fortune.com/2026/11/20/fed-rate-hikes-higher-inflation-expectations-unanchored-chris-waller/",
-      "published_at": "2026-11-20T21:08:49+00:00",
-      "summary": "“So you might need to, like, shock people to say, ‘Wait a minute, 3% is not the number you should be thinking about going forward.’”"
+      "title": "Stock market correction? Whatever — Wall Street is bullish on 2027, and one chief investment officer sees the S&P 500 soaring 45% to 10,000",
+      "url": "https://fortune.com/2026/11/21/stock-market-correction-sp500-2027-forecasts-ai-boom-fed-rate-hikes/",
+      "published_at": "2026-11-22T00:02:17+00:00",
+      "summary": "\"We expect the equity bull market to continue.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Here’s who’s getting the richest from Anthropic’s $81 billion IPO",
-      "url": "https://fortune.com/2026/11/20/heres-whos-getting-the-richest-from-anthropics-81-billion-ipo-tech-stocks-ai-dario-amodei-daniela-amodei/",
-      "published_at": "2026-11-20T20:42:38+00:00",
-      "summary": "Anthropic’s historic IPO is generating enormous fortunes for its seven cofounders, early employees, and investors including Amazon and Google."
+      "title": "The AI bust is a growing threat to China’s economy and a ‘moment of real danger’ for President Xi Jinping, analyst warns",
+      "url": "https://fortune.com/2026/11/21/ai-bust-china-economy-xi-jinping-property-crash-stock-market/",
+      "published_at": "2026-11-21T21:45:12+00:00",
+      "summary": "\"To keep AI funding flowing, Xi needs a buoyant stock market.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "One hand on the controller, one on the pizza roll: How America fed itself through GTA VI’s $3.79 billion launch night",
-      "url": "https://fortune.com/2026/11/20/gta-grand-theft-auto-6-vi-food-delivery-services-orders/",
-      "published_at": "2026-11-20T22:16:02+00:00",
-      "summary": "GTA VI drew more watch time in two days than any game’s full launch week. Delivery apps built deals around food you can eat with one hand."
+      "title": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions",
+      "url": "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models/",
+      "published_at": "2026-11-21T10:00:00+00:00",
+      "summary": "The same infrastructure that secures America’s advantage in chips and cloud services gives Chinese AI models a platform to spread."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Senate passes first-ever prediction market bill as Democrats turn up heat on upstart industry",
-      "url": "https://fortune.com/2026/11/20/senate-passes-first-ever-prediction-market-bill-as-democrats-turn-up-heat-on-upstart-industry/",
-      "published_at": "2026-11-20T16:53:26+00:00",
-      "summary": "The DEATH BETS Act would outlaw wagers tied to war and death, while separate proposals take aim at sports."
+      "title": "Even FEMA officials are worried about the string of outages and withdrew extra cash — ‘This is scary, and there is no leadership’",
+      "url": "https://fortune.com/2026/11/21/fema-network-outages-extra-cash-emergency-supplies-cyberattacks/",
+      "published_at": "2026-11-21T18:50:35+00:00",
+      "summary": "\"There is nothing on this scale that has happened before in this many sectors this close together.\""
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "BNP Paribas sees ‘panic selling’ as the AI selloff drags the S&P 500 into a correction and wipes out the Nasdaq’s 2026 gains",
-      "url": "https://fortune.com/2026/11/20/sp-500-correction-panic-selling-ai-selloff-nasdaq-2026-gains-bnp-paribas/",
-      "published_at": "2026-11-20T21:38:50+00:00",
-      "summary": "The S&#038;P 500 and Dow slid more than 10% below their records Friday as the AI selloff spread. Some on Wall Street called it panic."
+      "title": "‘This seems like an extreme privacy violation.’ Surprising messages from the Muse AI agent are unnerving Meta’s own employees, report says",
+      "url": "https://fortune.com/2026/11/21/meta-employees-muse-ai-agent-extreme-privacy-violation-encrypted-signal-messages/",
+      "published_at": "2026-11-21T17:28:35+00:00",
+      "summary": "In one example, a Meta staffer reported that Muse sent her a reminder on her personal phone to respond to a message from her sister on the encrypted messaging service Signal."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Fresh off a record $3 billion CMU pledge, Ken Griffin sends Pittsburgh 3 dinosaurs and $5 million",
-      "url": "https://fortune.com/2026/11/20/ken-griffin-dinosaur-fossils-carnegie-museum-pittsburgh/",
-      "published_at": "2026-11-20T12:16:00+00:00",
-      "summary": "The Citadel CEO’s 10-year loan of three Wyoming sauropods comes with $5 million for a public fossil lab where visitors can watch scientists work."
+      "title": "The $120,500 cost of being ‘Sister’: SNL sketch puts a face on America’s caregiving crisis",
+      "url": "https://fortune.com/2026/11/21/snl-sister-sketch-caregiving-gender-gap-women/",
+      "published_at": "2026-11-21T15:27:27+00:00",
+      "summary": "University of Michigan researchers say women can expect to care for older relatives for seven years, up from six in 2011. Men's total held at four."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Someone did the math on the Democrats’ first-100-days agenda: It saves $30 billion on the Iran war but adds $4.1 trillion to the national debt",
-      "url": "https://fortune.com/2026/11/20/democrat-first-100-day-midterm-policy-posts-national-debt/",
-      "published_at": "2026-11-20T12:11:15+00:00",
-      "summary": "De-escalating the war in the Middle East would save $30 billion, while ending Trump tariffs would axe a revenue stream that generated $287 billion, notes the Committee for a Responsible Federal Budget."
+      "title": "‘An extraordinary and extreme backstop’: Earthjustice warns Army off bypassing paused Iowa permit",
+      "url": "https://fortune.com/2026/11/21/court-pauses-army-iowa-lead-azide-detonation-permit/",
+      "published_at": "2026-11-21T15:16:49+00:00",
+      "summary": "The 8th Circuit paused the EPA permit for the Army's Monday detonation of nearly five tons of lead azide. The Justice Department says EPA rules may let the Army act anyway."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Anthropic slid to just 5 cents above its IPO price,  a stunning reversal of its first day pop",
-      "url": "https://fortune.com/2026/11/20/anthropic-stock-teeters-close-to-ipo-price-in-second-day-of-trading/",
-      "published_at": "2026-11-20T16:44:39+00:00",
-      "summary": "Shares in the AI lab fell as low $83.15 on Friday, just pennies above their $83 IPO price, after giving up much of their first-day pop."
+      "title": "Only 18% of Gen Z workers want to build AI skills. A Wharton professor says using AI is riskier for them",
+      "url": "https://fortune.com/2026/11/21/gen-z-workers-ai-skills-seramount-survey/",
+      "published_at": "2026-11-21T15:11:17+00:00",
+      "summary": "A Seramount survey of more than 1,800 U.S. white-collar workers finds Gen Z far less eager than older colleagues to build AI skills. Research suggests their fear of an AI stigma isn't unfounded."
     },
     {
-      "source": "MIT Tech Review",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "published_at": "2026-11-20T18:15:15+00:00",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim"
+      "title": "Even the fastest AI clusters can be held back by their release pipelines",
+      "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
+      "published_at": "2026-11-21T22:30:40+00:00",
+      "summary": "<p>A firmware rollout I was running had been moving zone by zone for six days when it stopped itself. The page always comes as a silent vibration first, but at 1:14 AM it feels like a fire alarm. In one zone, the share of hosts that rebooted uncleanly during the update had crossed the safety thresho"
     },
     {
-      "source": "MIT Tech Review",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "The Download: inside the quest to make our minds immortal",
-      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-      "published_at": "2026-11-20T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to k"
+      "title": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+      "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+      "published_at": "2026-11-21T18:29:36+00:00",
+      "summary": "<p>Thinking Machines Lab, the San Francisco-based AI startup started and led by former OpenAI chief technology officer Mira Murati, is challenging the dominant paradigm of cloud-based AI frontier models with the release yesterday of Inkling 2 Mini, an open-weights multimodal model engineered to run"
     }
   ]
 }

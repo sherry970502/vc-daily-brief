@@ -1,135 +1,215 @@
 {
-  "updated_at": "2026-11-23T08:52:32.694238+00:00",
+  "updated_at": "2026-11-24T10:48:58.014769+00:00",
   "period_hours": 24,
-  "article_count": 16,
+  "article_count": 26,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "published_at": "2026-11-23T01:25:53+00:00",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "published_at": "2026-11-23T23:07:49+00:00",
+      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘You Can See Everything’ has made more than $100M worldwide",
-      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-      "published_at": "2026-11-22T21:42:48+00:00",
-      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally."
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "published_at": "2026-11-23T22:05:50+00:00",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "published_at": "2026-11-22T21:14:07+00:00",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "published_at": "2026-11-23T22:02:05+00:00",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The best apps to make new friends right now",
-      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "published_at": "2026-11-22T21:00:00+00:00",
-      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "published_at": "2026-11-23T21:47:41+00:00",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "published_at": "2026-11-22T18:08:43+00:00",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "published_at": "2026-11-23T21:25:42+00:00",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "published_at": "2026-11-22T17:06:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it."
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "published_at": "2026-11-23T20:38:53+00:00",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Can a TV be too large? An investigation",
-      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "published_at": "2026-11-22T15:00:00+00:00",
-      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges."
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "published_at": "2026-11-23T19:31:41+00:00",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting."
+    },
+    {
+      "source": "TechCrunch",
+      "lang": "en",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "published_at": "2026-11-23T19:14:46+00:00",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
+      "url": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
+      "published_at": "2026-11-23T12:00:19+00:00",
+      "summary": "The more than 1,900 startups on the The Crunchbase Unicorn Board have a combined valuation of roughly $9 trillion, based on their last reported valuations. But Crunchbase&#8217;s new Current Valuation Model, which estimates how private-company values have changed since their last funding rounds, put"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Morgan Freeman says AI should do ‘what we actually are dreaming of doing’—but deepfakes have also made him say things he never said",
-      "url": "https://fortune.com/2026/11/23/morgan-freeman-lori-mccreary-revelations-entertainment-ai-voice-hollywood/",
-      "published_at": "2026-11-23T08:04:00+00:00",
-      "summary": "Freeman and longtime producing partner Lori McCreary have spent three decades at the forefront of film tech. Now they’re pushing for rules on consent and pay before AI gets ahead of Hollywood."
+      "title": "Billionaire Frank Slootman gives 22,081 Montana kids $1,000 each for their Trump Accounts",
+      "url": "https://fortune.com/2026/11/24/frank-slootman-snowflake-trump-accounts-montana-children/",
+      "published_at": "2026-11-24T09:42:00+00:00",
+      "summary": "The gift covers kids born just before Washington’s $1,000 seed deposit kicked in. Per child, it’s four times what Michael and Susan Dell are giving."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "After the Palisades fire, a founder built AI to help survivors with paperwork. Now he needs a state to buy it",
-      "url": "https://fortune.com/2026/11/23/aidfinder-ai-disaster-recovery-palisades-fire-nostrant/",
-      "published_at": "2026-11-23T08:03:00+00:00",
-      "summary": "Miami-based AidFinder uses AI to match survivors with aid programs and prepare their applications. Its pitch lands as FEMA pushes states to own more of recovery."
+      "title": "‘Accountability becomes negotiable:’ 14 business leaders react to Jensen Huang’s return",
+      "url": "https://fortune.com/2026/11/24/jensen-huang-return-nvidia-fortune-500-ceos-react/",
+      "published_at": "2026-11-24T09:35:35+00:00",
+      "summary": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "LinkedIn CEO warns the job market is ‘frozen’— but he says Gen Z could have the upper hand because employers may assume they’re AI-savvy",
-      "url": "https://fortune.com/2026/11/23/linkedin-ceo-warns-job-market-is-frozen-gen-z-could-have-the-upper-hand-thanks-to-ai/",
-      "published_at": "2026-11-23T08:02:00+00:00",
-      "summary": "Even if Gen Zers don’t actually know more about AI than their older colleagues, employers may assume they do, says LinkedIn CEO Daniel Shapero"
+      "title": "Why Xi’s brief APEC handshake with Takaichi reflects a frozen China-Japan relationship",
+      "url": "https://fortune.com/2026/11/24/takaichi-xi-apec-handshake-china-japan-tensions/",
+      "published_at": "2026-11-24T09:28:11+00:00",
+      "summary": "The China-Japan relationship is now driven more by security than trade."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The smartphone market is facing ‘the great disruption.’ Chinese giant Oppo senses an opportunity",
-      "url": "https://fortune.com/2026/11/23/smartphone-market-facing-great-disruption-chinese-giant-oppo-senses-an-opportunity/",
-      "published_at": "2026-11-23T08:00:00+00:00",
-      "summary": "With America largely cut off from Chinese players, Oppo has opted to focus on expansion in Europe. The reasons why are illuminating."
+      "title": "Hunger Games: Sunrise on the Reaping opens to $120 million despite GTA VI—and its audience explains why",
+      "url": "https://fortune.com/2026/11/24/hunger-games-sunrise-on-the-reaping-box-office-gta-vi/",
+      "published_at": "2026-11-24T08:05:00+00:00",
+      "summary": "Women made up 67% of the prequel's opening audience as Lionsgate bet a PG-13 Hunger Games and an M-rated game could coexist."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "How Luana Lopes Lara built Kalshi into a $40 billion prediction market giant that overtook Polymarket",
-      "url": "https://fortune.com/2026/11/23/luana-lopes-lara-kalshi-cofounder-prediction-markets-sports-betting-regulation/",
-      "published_at": "2026-11-23T07:21:00+00:00",
-      "summary": "The Kalshi cofounder on her ballerina background, running a company with her ex, and the uncertain future of prediction markets."
+      "title": "On a $1,000 Social Security check, Medicare’s 2027 premium hike eats 18% of the COLA raise—and hits small checks the hardest",
+      "url": "https://fortune.com/2026/11/24/social-security-cola-2027-medicare-part-b-premium/",
+      "published_at": "2026-11-24T08:02:00+00:00",
+      "summary": "The standard Part B premium rises to $209.40 in January, taking about 9% of the average retiree's COLA bump and 18% for someone collecting $1,000 a month."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dodging space junk costs $58 million a year. Meet the Space Force contractor who made ‘autopilot for satellites’ to save money for taxpayers",
-      "url": "https://fortune.com/2026/11/23/space-junk-nasa-space-force-bqp-dodging-satellite/",
-      "published_at": "2026-11-23T07:00:00+00:00",
-      "summary": "NASA puts space junk’s yearly cost to U.S. satellites at $58 million, mostly military and civil. Syracuse-based BQP says faster math can help"
+      "title": "Engineer, saleswoman, Elon Musk whisperer: Meet Gwynne Shotwell, the billionaire who really runs SpaceX",
+      "url": "https://fortune.com/2026/11/24/gwynne-shotwell-spacex-president-elon-musk-orbital-ai-data-centers-starlink-capex-ipo/",
+      "published_at": "2026-11-24T08:00:00+00:00",
+      "summary": "The quiet billionaire who turns Elon Musk's wildest ideas into revenue is facing her toughest test yet."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Tokyo won’t fall as hard as Seoul or Taipei when the AI trade cools, says Japan Exchange Group CEO Hiromi Yamaji",
-      "url": "https://fortune.com/2026/11/23/japan-exchange-ceo-hiromi-yamaji/",
-      "published_at": "2026-11-23T06:51:41+00:00",
-      "summary": "Japanese equities hit historic highs in the summer of 2026 following a series of corporate governance reforms."
+      "title": "Women’s football has a $1 billion opportunity—and the WSL wants a slice of the pie",
+      "url": "https://fortune.com/2026/11/24/womens-super-league-football-1-billion-opportunity/",
+      "published_at": "2026-11-24T08:00:00+00:00",
+      "summary": "Women’s Super League Football CEO Nikki Doucet is the most powerful person in English women’s football. She faces a challenge of turning surging interest in the sport into profits."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Dow futures jump 800 points and Nasdaq soars nearly 3% as stocks rebound from correction with Wall Street still upbeat on 2027",
-      "url": "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/",
-      "published_at": "2026-11-23T02:16:13+00:00",
-      "summary": "Investors are poised to begin a short trading week with some early holiday cheer after suffering the worst loss in more than six years."
+      "title": "Why is gas suddenly cheaper? Five factors driving the drop to $3.64 a gallon",
+      "url": "https://fortune.com/2026/11/24/five-factors-forcing-fuel-prices-lower-thanksgiving-travel/",
+      "published_at": "2026-11-24T08:00:00+00:00",
+      "summary": "A combination of geopolitical, seasonal, and operational factors are pushing fuel prices lower heading into the holiday season."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Your ML model passed every test. Here’s what those tests might have missed",
-      "url": "https://venturebeat.com/orchestration/your-ml-model-passed-every-test-heres-what-those-tests-might-have-missed",
-      "published_at": "2026-11-22T22:00:00+00:00",
-      "summary": "<p>Most ML models are tested the way students cram for an exam: On clean, familiar material, under comfortable conditions. Then they graduate into production — where the inputs are messy, the labels drift, and nobody is grading on a curve. The result is the most common failure mode in applied ML: A"
+      "title": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
+      "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
+      "published_at": "2026-11-24T00:34:59+00:00",
+      "summary": "<p>GLM-5.4 is Z.ai's first flagship built on a Loop Transformer architecture, which reuses the same layers more than once instead of stacking new ones, so the model gets more depth and more computation per token without adding parameters. Thinking Machines Lab used a looped transformer in its Inklin"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "Claude Fable 5.2 cost three times as much as Opus 5.5 for nearly the same results in a VentureBeat bug-fixing test",
+      "url": "https://venturebeat.com/orchestration/claude-fable-5-2-cost-three-times-as-much-as-opus-5-5-for-nearly-the-same-results-in-a-venturebeat-bug-fixing-test",
+      "published_at": "2026-11-23T21:20:29+00:00",
+      "summary": "<p>Claude Fable 5.2, Anthropic's top model, passed 10 of 15 bug-fix tries in a VentureBeat pilot test at a total cost of about $89. Opus 5.5 passed 9 of 15 at a total cost of about $29. A one-pass gap is too small to call, so the two finished about the same amount of work, and Fable cost about three"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AWS's Strands Decider v2 targets the agent decisions that hinge on a single detail",
+      "url": "https://venturebeat.com/data/awss-strands-decider-v2-targets-the-agent-decisions-that-hinge-on-a-single-detail",
+      "published_at": "2026-11-23T19:15:54+00:00",
+      "summary": "<p>Amazon has released five Strands Decider v2 models with a new architecture designed to catch details that change the answer.</p><p><a href=\"https://venturebeat.com/data/awss-strands-decider-v2-targets-the-agent-decisions-that-hinge-on-a-single-detail\">Read more</a></p>"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "NVIDIA brings back Jensen Huang as CEO just six days after ruling out his return",
+      "url": "https://venturebeat.com/technology/nvidia-brings-back-jensen-huang-as-ceo-just-six-days-after-ruling-out-his-return",
+      "published_at": "2026-11-23T17:23:29+00:00",
+      "summary": "<p>NVIDIA announced Monday that Jensen Huang had been reinstated as CEO, 11 days after announcing his resignation and six days after its board publicly ruled out his return. The board said it concluded that his reinstatement poses no national security risk after receiving input from senior U.S. gove"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI is changing who gets a say in IT decisions",
+      "url": "https://venturebeat.com/security/ai-is-changing-who-gets-a-say-in-it-decisions",
+      "published_at": "2026-11-23T15:30:00+00:00",
+      "summary": "<p>Presented by JumpCloud</p><p><a href=\"https://venturebeat.com/security/ai-is-changing-who-gets-a-say-in-it-decisions\">Read more</a></p>"
+    },
+    {
+      "source": "VentureBeat",
+      "lang": "en",
+      "title": "AI agents have permission. Who’s checking the blast radius?",
+      "url": "https://venturebeat.com/security/ai-agents-have-permission-whos-checking-the-blast-radius",
+      "published_at": "2026-11-23T14:21:35+00:00",
+      "summary": "<p>Presented by Applivery</p><p><a href=\"https://venturebeat.com/security/ai-agents-have-permission-whos-checking-the-blast-radius\">Read more</a></p>"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "published_at": "2026-11-23T17:36:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "published_at": "2026-11-23T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improvi"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "published_at": "2026-11-23T11:00:00+00:00",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num"
     }
   ]
 }

@@ -1,215 +1,191 @@
 {
-  "updated_at": "2026-11-24T10:48:58.014769+00:00",
+  "updated_at": "2026-11-25T09:44:25.791668+00:00",
   "period_hours": 24,
-  "article_count": 26,
+  "article_count": 23,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Figma employee sues, alleging company forced her to confront harassers",
-      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-      "published_at": "2026-11-23T23:07:49+00:00",
-      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "published_at": "2026-11-25T00:12:02+00:00",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the"
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "published_at": "2026-11-23T22:05:50+00:00",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "published_at": "2026-11-25T00:10:27+00:00",
+      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "published_at": "2026-11-23T22:02:05+00:00",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "published_at": "2026-11-24T22:27:52+00:00",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "published_at": "2026-11-23T21:47:41+00:00",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "published_at": "2026-11-24T21:48:27+00:00",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "published_at": "2026-11-23T21:25:42+00:00",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "published_at": "2026-11-24T21:33:29+00:00",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "published_at": "2026-11-23T20:38:53+00:00",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "published_at": "2026-11-24T21:32:38+00:00",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-      "published_at": "2026-11-23T19:31:41+00:00",
-      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting."
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "published_at": "2026-11-24T21:19:52+00:00",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "published_at": "2026-11-23T19:14:46+00:00",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "published_at": "2026-11-24T21:09:04+00:00",
+      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels."
     },
     {
       "source": "Crunchbase News",
       "lang": "en",
-      "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
-      "url": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
-      "published_at": "2026-11-23T12:00:19+00:00",
-      "summary": "The more than 1,900 startups on the The Crunchbase Unicorn Board have a combined valuation of roughly $9 trillion, based on their last reported valuations. But Crunchbase&#8217;s new Current Valuation Model, which estimates how private-company values have changed since their last funding rounds, put"
+      "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
+      "url": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
+      "published_at": "2026-11-24T12:00:48+00:00",
+      "summary": "Employees and job-seekers alike are all using AI to create polished work and applications that appear perfect. In that environment, how can we promote and hire the right people?"
+    },
+    {
+      "source": "Crunchbase News",
+      "lang": "en",
+      "title": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t",
+      "url": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/",
+      "published_at": "2026-11-24T12:00:21+00:00",
+      "summary": "Startup naming tends to be a cyclical endeavor. For a few years, founders might be enamoured of silly monikers, made-up words, and creative misspellings. Then the pendulum swings, and startups defer to simple names that describe what they actually do. So where are we now? Probably somewhere in the m"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Billionaire Frank Slootman gives 22,081 Montana kids $1,000 each for their Trump Accounts",
-      "url": "https://fortune.com/2026/11/24/frank-slootman-snowflake-trump-accounts-montana-children/",
-      "published_at": "2026-11-24T09:42:00+00:00",
-      "summary": "The gift covers kids born just before Washington’s $1,000 seed deposit kicked in. Per child, it’s four times what Michael and Susan Dell are giving."
+      "title": "Walmart’s shopper base is shifting: High earners lead its gains as low-income shoppers turn to Amazon",
+      "url": "https://fortune.com/2026/11/25/walmart-earnings-higher-income-shoppers-ecommerce/",
+      "published_at": "2026-11-25T08:32:00+00:00",
+      "summary": "Upper-income households led Walmart's market-share gains last quarter, while Numerator data shows lower-income shoppers shifting to Amazon and dollar stores."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Accountability becomes negotiable:’ 14 business leaders react to Jensen Huang’s return",
-      "url": "https://fortune.com/2026/11/24/jensen-huang-return-nvidia-fortune-500-ceos-react/",
-      "published_at": "2026-11-24T09:35:35+00:00",
-      "summary": "Also: All the news and watercooler chat from Fortune."
+      "title": "Europe has spent $15.9 billion trying to win the quantum race. Is it enough?",
+      "url": "https://fortune.com/2026/11/25/europe-has-spent-15-9-billion-win-quantum-race/",
+      "published_at": "2026-11-25T08:29:01+00:00",
+      "summary": "Having fallen behind in the AI revolution, quantum could offer the continent a second chance at supremacy in an emerging technology."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why Xi’s brief APEC handshake with Takaichi reflects a frozen China-Japan relationship",
-      "url": "https://fortune.com/2026/11/24/takaichi-xi-apec-handshake-china-japan-tensions/",
-      "published_at": "2026-11-24T09:28:11+00:00",
-      "summary": "The China-Japan relationship is now driven more by security than trade."
+      "title": "After $26 billion in gifts, MacKenzie Scott is still worth $27 billion—and just gave Atlanta students $8 million more",
+      "url": "https://fortune.com/2026/11/25/mackenzie-scott-achieve-atlanta-8-million-net-worth/",
+      "published_at": "2026-11-25T08:03:00+00:00",
+      "summary": "Her second $8 million gift to Achieve Atlanta lands as Amazon, now No. 1 on the Fortune 500, keeps her net worth above $27 billion."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Hunger Games: Sunrise on the Reaping opens to $120 million despite GTA VI—and its audience explains why",
-      "url": "https://fortune.com/2026/11/24/hunger-games-sunrise-on-the-reaping-box-office-gta-vi/",
-      "published_at": "2026-11-24T08:05:00+00:00",
-      "summary": "Women made up 67% of the prequel's opening audience as Lionsgate bet a PG-13 Hunger Games and an M-rated game could coexist."
+      "title": "GTA VI’s $3.79 billion debut has Zuckerberg joking and Musk laughing, but Take-Two investors still want more",
+      "url": "https://fortune.com/2026/11/25/gta6-gtavi-video-games-take-two-interactive-investors-mark-zuckerberg-elon-musk-meta-priscilla-chan/",
+      "published_at": "2026-11-25T08:01:00+00:00",
+      "summary": "Rockstar's first new Grand Theft Auto in 13 years set an entertainment sales record, yet Take-Two shares slipped as Wall Street looks to what comes next."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "On a $1,000 Social Security check, Medicare’s 2027 premium hike eats 18% of the COLA raise—and hits small checks the hardest",
-      "url": "https://fortune.com/2026/11/24/social-security-cola-2027-medicare-part-b-premium/",
-      "published_at": "2026-11-24T08:02:00+00:00",
-      "summary": "The standard Part B premium rises to $209.40 in January, taking about 9% of the average retiree's COLA bump and 18% for someone collecting $1,000 a month."
+      "title": "Exclusive: Meta and Amazon discuss ending Muse shopping bot blockade, as ads, search emerge as key issues",
+      "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
+      "published_at": "2026-11-25T08:01:00+00:00",
+      "summary": "E-commerce giant blocked Meta's popular AI tool from its online store in September"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Engineer, saleswoman, Elon Musk whisperer: Meet Gwynne Shotwell, the billionaire who really runs SpaceX",
-      "url": "https://fortune.com/2026/11/24/gwynne-shotwell-spacex-president-elon-musk-orbital-ai-data-centers-starlink-capex-ipo/",
-      "published_at": "2026-11-24T08:00:00+00:00",
-      "summary": "The quiet billionaire who turns Elon Musk's wildest ideas into revenue is facing her toughest test yet."
+      "title": "Going home for Thanksgiving? For a record 25.2 million young adults, that just means walking downstairs",
+      "url": "https://fortune.com/2026/11/25/young-adults-living-with-parents-south-midwest-realtor-crowded-nest/",
+      "published_at": "2026-11-25T08:00:00+00:00",
+      "summary": "The share of 18- to 34-year-olds living with their parents rose 1.4 percentage points in both the South and the Midwest in 2025, to 32.3% and 31.7%."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Women’s football has a $1 billion opportunity—and the WSL wants a slice of the pie",
-      "url": "https://fortune.com/2026/11/24/womens-super-league-football-1-billion-opportunity/",
-      "published_at": "2026-11-24T08:00:00+00:00",
-      "summary": "Women’s Super League Football CEO Nikki Doucet is the most powerful person in English women’s football. She faces a challenge of turning surging interest in the sport into profits."
+      "title": "Ukraine’s biggest steelmaker has battled years of Russian bombardment—now it faces a new threat",
+      "url": "https://fortune.com/2026/11/25/ukraine-biggest-steelmaker-battled-years-russian-bombardment-faces-new-threat-metinvest/",
+      "published_at": "2026-11-25T08:00:00+00:00",
+      "summary": "Amid a fresh wave of bombings and EU tariff hikes, Metinvest CEO Yuriy Ryzhenkov fears the future of Ukraine’s steel industry hangs in the balance."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why is gas suddenly cheaper? Five factors driving the drop to $3.64 a gallon",
-      "url": "https://fortune.com/2026/11/24/five-factors-forcing-fuel-prices-lower-thanksgiving-travel/",
-      "published_at": "2026-11-24T08:00:00+00:00",
-      "summary": "A combination of geopolitical, seasonal, and operational factors are pushing fuel prices lower heading into the holiday season."
+      "title": "Best Buy’s new CEO inherits its fastest sales growth in five years and a 49% stock rally",
+      "url": "https://fortune.com/2026/11/25/best-buy-earnings-ceo-jason-bonfig-comparable-sales/",
+      "published_at": "2026-11-25T08:00:00+00:00",
+      "summary": "Comparable sales rose 6.1% in Jason Bonfig's first report as CEO, lifted by pricier PCs and pre-launch gaming demand."
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
-      "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
-      "published_at": "2026-11-24T00:34:59+00:00",
-      "summary": "<p>GLM-5.4 is Z.ai's first flagship built on a Loop Transformer architecture, which reuses the same layers more than once instead of stacking new ones, so the model gets more depth and more computation per token without adding parameters. Thinking Machines Lab used a looped transformer in its Inklin"
+      "title": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
+      "url": "https://venturebeat.com/security/crowdstrikes-zscaler-deal-aims-to-give-security-teams-a-single-kill-switch-for-rogue-ai-agents",
+      "published_at": "2026-11-24T20:41:33+00:00",
+      "summary": "<p>CrowdStrike's AI kill switch can cut off access to AI models at the AI gateway today. The company agreed on Monday to acquire Zscaler in an all-stock deal valued at about $43.9 billion, and it plans to take that kill switch onto the network, where AI agents travel between the device and the cloud"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "Claude Fable 5.2 cost three times as much as Opus 5.5 for nearly the same results in a VentureBeat bug-fixing test",
-      "url": "https://venturebeat.com/orchestration/claude-fable-5-2-cost-three-times-as-much-as-opus-5-5-for-nearly-the-same-results-in-a-venturebeat-bug-fixing-test",
-      "published_at": "2026-11-23T21:20:29+00:00",
-      "summary": "<p>Claude Fable 5.2, Anthropic's top model, passed 10 of 15 bug-fix tries in a VentureBeat pilot test at a total cost of about $89. Opus 5.5 passed 9 of 15 at a total cost of about $29. A one-pass gap is too small to call, so the two finished about the same amount of work, and Fable cost about three"
+      "title": "Nearly half of surveyed engineers and leaders say the AI agents that write their code also review it",
+      "url": "https://venturebeat.com/technology/nearly-half-of-surveyed-engineers-and-leaders-say-the-ai-agents-that-write-their-code-also-review-it",
+      "published_at": "2026-11-24T20:01:17+00:00",
+      "summary": "<p>As AI coding tools generate more code, review has become a constraint on how fast that code ships. But only 26% of respondents to a new survey say they are very confident they understand AI-generated changes as thoroughly as human-written ones.</p><p><a href=\"https://venturebeat.com/technology/ne"
     },
     {
       "source": "VentureBeat",
       "lang": "en",
-      "title": "AWS's Strands Decider v2 targets the agent decisions that hinge on a single detail",
-      "url": "https://venturebeat.com/data/awss-strands-decider-v2-targets-the-agent-decisions-that-hinge-on-a-single-detail",
-      "published_at": "2026-11-23T19:15:54+00:00",
-      "summary": "<p>Amazon has released five Strands Decider v2 models with a new architecture designed to catch details that change the answer.</p><p><a href=\"https://venturebeat.com/data/awss-strands-decider-v2-targets-the-agent-decisions-that-hinge-on-a-single-detail\">Read more</a></p>"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "NVIDIA brings back Jensen Huang as CEO just six days after ruling out his return",
-      "url": "https://venturebeat.com/technology/nvidia-brings-back-jensen-huang-as-ceo-just-six-days-after-ruling-out-his-return",
-      "published_at": "2026-11-23T17:23:29+00:00",
-      "summary": "<p>NVIDIA announced Monday that Jensen Huang had been reinstated as CEO, 11 days after announcing his resignation and six days after its board publicly ruled out his return. The board said it concluded that his reinstatement poses no national security risk after receiving input from senior U.S. gove"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "AI is changing who gets a say in IT decisions",
-      "url": "https://venturebeat.com/security/ai-is-changing-who-gets-a-say-in-it-decisions",
-      "published_at": "2026-11-23T15:30:00+00:00",
-      "summary": "<p>Presented by JumpCloud</p><p><a href=\"https://venturebeat.com/security/ai-is-changing-who-gets-a-say-in-it-decisions\">Read more</a></p>"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "AI agents have permission. Who’s checking the blast radius?",
-      "url": "https://venturebeat.com/security/ai-agents-have-permission-whos-checking-the-blast-radius",
-      "published_at": "2026-11-23T14:21:35+00:00",
-      "summary": "<p>Presented by Applivery</p><p><a href=\"https://venturebeat.com/security/ai-agents-have-permission-whos-checking-the-blast-radius\">Read more</a></p>"
+      "title": "After token leaderboards and spending caps, Snowflake has a third idea: Keep the cap, then learn from whoever breaks it",
+      "url": "https://venturebeat.com/orchestration/after-token-leaderboards-and-spending-caps-snowflake-has-a-third-idea-keep-the-cap-then-learn-from-whoever-breaks-it",
+      "published_at": "2026-11-24T18:13:55+00:00",
+      "summary": "<p>Snowflake sets limits on what its employees spend on AI, and then studies the employees who blow through the limits. The data cloud company treats an overrun as a possible lead on a workflow that other employees could copy.</p><p><a href=\"https://venturebeat.com/orchestration/after-token-leaderbo"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "published_at": "2026-11-23T17:36:08+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app"
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "published_at": "2026-11-24T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to t"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "published_at": "2026-11-23T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improvi"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "published_at": "2026-11-23T11:00:00+00:00",
-      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num"
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "published_at": "2026-11-24T11:00:00+00:00",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b"
     }
   ]
 }

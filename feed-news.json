@@ -1,191 +1,127 @@
 {
-  "updated_at": "2026-11-26T09:20:44.496900+00:00",
+  "updated_at": "2026-11-27T09:36:00.158233+00:00",
   "period_hours": 24,
-  "article_count": 23,
+  "article_count": 15,
   "articles": [
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "published_at": "2026-11-25T22:44:32+00:00",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "FCC approves SpaceX plan to put AI data centers in space",
-      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "published_at": "2026-11-25T20:56:44+00:00",
-      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority."
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "published_at": "2026-11-26T20:00:00+00:00",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "published_at": "2026-11-25T20:03:27+00:00",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "published_at": "2026-11-26T19:31:50+00:00",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "published_at": "2026-11-25T19:54:57+00:00",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "published_at": "2026-11-26T17:00:00+00:00",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate."
     },
     {
       "source": "TechCrunch",
       "lang": "en",
-      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-      "published_at": "2026-11-25T19:54:32+00:00",
-      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "published_at": "2026-11-25T19:44:24+00:00",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-      "published_at": "2026-11-25T18:49:52+00:00",
-      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "published_at": "2026-11-25T18:11:46+00:00",
-      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "The Art of The Terrible Startup Name",
-      "url": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
-      "published_at": "2026-11-25T12:00:49+00:00",
-      "summary": "What makes for a truly awful startup name?"
-    },
-    {
-      "source": "Crunchbase News",
-      "lang": "en",
-      "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
-      "url": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
-      "published_at": "2026-11-25T12:00:09+00:00",
-      "summary": "When everything moves that fast, the terms of your financings and of your contracts for compute, data and distribution get set early and in a hurry. Some of those terms will later slow a sale, add cost and erode value."
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "published_at": "2026-11-26T16:00:00+00:00",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Lori Huang’s Nvidia-funded foundation gained about $2.3 billion in a day on Jensen Huang’s return",
-      "url": "https://fortune.com/2026/11/26/jensen-huang-return-lori-huang-foundation-nvidia-stake/",
-      "published_at": "2026-11-26T08:07:00+00:00",
-      "summary": "Most of the foundation's payouts go to a donor-advised fund, and its mandatory giving is set to climb as the stake grows."
+      "title": "Shoppers helped pay Trump’s tariffs. Now Target, Best Buy, and Kohl’s are booking $387 million in refunds",
+      "url": "https://fortune.com/2026/11/27/tariff-refunds-target-best-buy-kohls-shoppers/",
+      "published_at": "2026-11-27T08:31:00+00:00",
+      "summary": "The three retailers booked $387 million in refund benefits last quarter, while Walmart and Target say they're cutting prices rather than paying shoppers back."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Look what I’ve produced’: Inside ‘peacock parenting,’ where kids become their parents’ status symbols",
-      "url": "https://fortune.com/2026/11/26/peacock-parenting-kids-status-symbols-social-media/",
-      "published_at": "2026-11-26T08:05:00+00:00",
-      "summary": "Parents say they're more affectionate than their own parents were. But when a child's milestone exists mainly to impress an audience, experts say kids pay the price."
+      "title": "Reddit’s stock has taken a battering this year, but its COO says it’s barely started banking ‘over a decade of karma’ from devoted users",
+      "url": "https://fortune.com/2026/11/26/reddit-coo-jen-wong-user-karma-moderator-model-ai/",
+      "published_at": "2026-11-26T15:46:22+00:00",
+      "summary": "\"Reddit typically gets you as a young adult, and then you season over time in this incredible way,\" Jen Wong tells Fortune."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "‘Businesses hate chaos’: $166 billion in tariff refunds are flowing to companies, not the customers who paid",
-      "url": "https://fortune.com/2026/11/26/tariff-refunds-corporate-bonuses-consumers-legal-claim/",
-      "published_at": "2026-11-26T08:03:00+00:00",
-      "summary": "TJX, Acushnet and Stanley Black &#038; Decker are steering part of their refunds to bonuses. A trade lawyer says consumers who paid higher prices have little legal recourse."
+      "title": "Kevin O’Leary told Gen Z to invest 15% of each paycheck. One worker asked why investors get the profits",
+      "url": "https://fortune.com/2026/11/27/kevin-oleary-gen-z-worker-jubilee-debate-profits-equity/",
+      "published_at": "2026-11-27T08:02:00+00:00",
+      "summary": "In a Jubilee debate, a software engineer pressed the Shark Tank investor on equity at Starbucks and Amazon."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Why businesses are embracing ‘good enough’ open-weight AI—and how geopolitics could get in the way",
-      "url": "https://fortune.com/2026/11/26/global-businesses-open-weight-ai/",
-      "published_at": "2026-11-26T08:00:00+00:00",
-      "summary": "Rather than paying for the most powerful AI model for every task, companies are turning to cheaper, customizable alternatives for routine work."
+      "title": "Airbnb CEO Brian Chesky says staff call him a ‘control freak’—but that he learned it from Apple’s Steve Jobs",
+      "url": "https://fortune.com/2026/11/27/airbnb-ceo-brian-chesky-says-staff-call-him-a-control-freak-he-learned-it-from-apple-steve-jobs/",
+      "published_at": "2026-11-27T08:01:00+00:00",
+      "summary": "Aribnb's billionaire CEO Brian Chesky called Apple’s Steve Jobs a 'control freak,' before admitting Airbnb workers probably say the same about him."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "They were in high school when ChatGPT arrived and in college when their friends got accused of cheating. Now their AI software polices 40 colleges",
-      "url": "https://fortune.com/2026/11/26/purdue-students-syntax-chatgpt-ai-cheating-writing-tracker-colleges/",
-      "published_at": "2026-11-26T07:30:00+00:00",
-      "summary": "Four Purdue students built Syntax, which records how an essay gets written. Teachers get the evidence. Students can buy it for $9.99."
+      "title": "The pig in the python in the marital bed: How boomers deformed the Silent Generation’s marriages, Gen X’s childhood and millennials’ housing",
+      "url": "https://fortune.com/2026/11/27/baby-boom-divorce-boom-silent-generation-gen-x-pig-in-the-python/",
+      "published_at": "2026-11-27T08:00:00+00:00",
+      "summary": "A new peer-reviewed paper finds the baby boom’s sheer size helped drive the 1970s divorce boom—“likely about a third at most,” its author says."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Forget petrodollars, ‘chip-dollars’ show U.S. power now flows from tech dominance—but the new currency regime is ‘inherently riskier,’ analyst says",
-      "url": "https://fortune.com/2026/11/26/dollar-dominance-petrodollars-chipdollars-chip-trade-surplus-ai-boom-tech-stocks/",
-      "published_at": "2026-11-26T07:00:00+00:00",
-      "summary": "\"The potent combination of US control over key upstream technologies and intellectual property, alongside a supply chain located in US allies has given the US enormous control over chips.\""
+      "title": "Black and Latino workers are about 20% likelier than White workers to need a new career by 2035 as AI reshapes work, McKinsey says",
+      "url": "https://fortune.com/2026/11/27/mckinsey-ai-jobs-displacement-black-latino-workers-economic-mobility/",
+      "published_at": "2026-11-27T08:00:00+00:00",
+      "summary": "McKinsey projects AI could eliminate more of the work in jobs Black and Latino workers hold, and fewer have a clear path out."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "GTA VI was built by hand. The man who ran Take-Two during GTA IV says AI could let a filmmaker make the next breakout game",
-      "url": "https://fortune.com/2026/11/25/gta-vi-take-two-ceo-ben-feder-ai-videogames-filmmaker/",
-      "published_at": "2026-11-25T20:13:26+00:00",
-      "summary": "Take-Two says generative AI played no part in GTA VI. Ben Feder says AI will soon let new creators build games with a point and a click."
+      "title": "Black Friday will put AI shopping agents to the test. Consumers aren’t buying it yet",
+      "url": "https://fortune.com/2026/11/27/black-friday-ai-agentic-shopping-consumer-trust/",
+      "published_at": "2026-11-27T08:00:00+00:00",
+      "summary": "Retailers have spent the year wiring their sites for AI agents, but the holiday season is shaping up as more dress rehearsal than debut."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The AI boom helped lift retirement accounts, but the Nvidia whiplash showed how much investors’ financial futures depend on a handful of stocks",
-      "url": "https://fortune.com/2026/11/25/retirement-investors-tech-stocks-nasdaq-sp500-jensen-huang-ai-trade/",
-      "published_at": "2026-11-25T21:37:02+00:00",
-      "summary": "Ten stocks make up 39% of the S&#038;P 500, and nearly two-thirds of Fidelity 401(k) savers keep everything in a target-date fund."
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
-      "url": "https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one",
-      "published_at": "2026-11-25T23:04:19+00:00",
-      "summary": "<p>Anthropic is adding support for Skills over MCP in Claude and Claude Code in public beta, two years after introducing the Model Context Protocol (MCP).</p><p><a href=\"https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-o"
-    },
-    {
-      "source": "VentureBeat",
-      "lang": "en",
-      "title": "Can you give AI agents live data without rebuilding your data stack?",
-      "url": "https://venturebeat.com/data/can-you-give-ai-agents-live-data-without-rebuilding-your-data-stack",
-      "published_at": "2026-11-25T15:00:00+00:00",
-      "summary": "<p>Presented by EnterpriseDB</p><p><a href=\"https://venturebeat.com/data/can-you-give-ai-agents-live-data-without-rebuilding-your-data-stack\">Read more</a></p>"
+      "title": "Global stocks move upward despite shock warning from Panmure Liberum analyst who sold all equities in his personal portfolio",
+      "url": "https://fortune.com/2026/11/26/global-stocks-move-upward-despite-shock-warning-from-panmure-liberum-to-sell-all-equities-now/",
+      "published_at": "2026-11-26T16:47:23+00:00",
+      "summary": "There is nothing but bad news on the horizon, multiple Wall Street and London City analysts said in emails to Fortune."
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "How data centers are driving a US natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-      "published_at": "2026-11-25T17:00:00+00:00",
-      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other powe"
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "published_at": "2026-11-26T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a f"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "published_at": "2026-11-25T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed"
-    },
-    {
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "title": "AI is straining America’s open records systems",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "published_at": "2026-11-25T10:00:00+00:00",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1"
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "published_at": "2026-11-26T09:59:00+00:00",
+      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects&#82"
     }
   ]
 }

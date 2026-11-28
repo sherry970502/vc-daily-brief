@@ -1,127 +1,103 @@
 {
-  "updated_at": "2026-11-27T09:36:00.158233+00:00",
+  "updated_at": "2026-11-28T08:49:06.494827+00:00",
   "period_hours": 24,
-  "article_count": 15,
+  "article_count": 12,
   "articles": [
     {
-      "source": "TechCrunch",
+      "source": "Fortune",
       "lang": "en",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "published_at": "2026-11-26T20:03:54+00:00",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Is Alice Huang a spy or not?",
-      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-      "published_at": "2026-11-26T20:00:00+00:00",
-      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "X finally gets parental controls after 20 years",
-      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
-      "published_at": "2026-11-26T19:31:50+00:00",
-      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "A month with the iPhone Duo has changed how I use my phone",
-      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
-      "published_at": "2026-11-26T17:00:00+00:00",
-      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate."
-    },
-    {
-      "source": "TechCrunch",
-      "lang": "en",
-      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-      "published_at": "2026-11-26T16:00:00+00:00",
-      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+      "title": "India uses $1.62 billion in Nepal aid to lock in regional influence—and perhaps ward off China, analysts say",
+      "url": "https://fortune.com/2026/11/28/nepal-india-aid-floods-china/",
+      "published_at": "2026-11-28T05:01:00+00:00",
+      "summary": "The money is about more than rebuilding damaged roads and homes."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Shoppers helped pay Trump’s tariffs. Now Target, Best Buy, and Kohl’s are booking $387 million in refunds",
-      "url": "https://fortune.com/2026/11/27/tariff-refunds-target-best-buy-kohls-shoppers/",
-      "published_at": "2026-11-27T08:31:00+00:00",
-      "summary": "The three retailers booked $387 million in refund benefits last quarter, while Walmart and Target say they're cutting prices rather than paying shoppers back."
+      "title": "Inflation is squeezing Americans so hard that rising grocery bills are now a top reason Black Friday shoppers are cutting back",
+      "url": "https://fortune.com/2026/11/27/inflation-squeezing-americans-so-hard-rising-grocery-bills-top-reason-cut-back-black-friday-shopping/",
+      "published_at": "2026-11-27T19:37:28+00:00",
+      "summary": "A new survey shows Black Friday budgets are shrinking as rising living and grocery costs squeeze shoppers."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Reddit’s stock has taken a battering this year, but its COO says it’s barely started banking ‘over a decade of karma’ from devoted users",
-      "url": "https://fortune.com/2026/11/26/reddit-coo-jen-wong-user-karma-moderator-model-ai/",
-      "published_at": "2026-11-26T15:46:22+00:00",
-      "summary": "\"Reddit typically gets you as a young adult, and then you season over time in this incredible way,\" Jen Wong tells Fortune."
+      "title": "Crate & Barrel CEO plans a 50-store expansion to win customers from rivals: ‘It’s absolutely a market steal play.’",
+      "url": "https://fortune.com/2026/11/27/crate-barrel-store-expansion-ceo-janet-hayes-market-share-rivals/",
+      "published_at": "2026-11-27T16:00:00+00:00",
+      "summary": "After steering the retailer through a pandemic and tariff shocks, Janet Hayes says growth in a slow furniture market will come at rivals’ expense."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Kevin O’Leary told Gen Z to invest 15% of each paycheck. One worker asked why investors get the profits",
-      "url": "https://fortune.com/2026/11/27/kevin-oleary-gen-z-worker-jubilee-debate-profits-equity/",
-      "published_at": "2026-11-27T08:02:00+00:00",
-      "summary": "In a Jubilee debate, a software engineer pressed the Shark Tank investor on equity at Starbucks and Amazon."
+      "title": "Jensen Huang was gone for 11 days. That was Nvidia’s succession test, and the board failed it",
+      "url": "https://fortune.com/2026/11/27/nvidia-jensen-huang-succession-test-board-failed-andrea-petrone/",
+      "published_at": "2026-11-27T12:30:00+00:00",
+      "summary": "A CEO nobody can replace is a CEO nobody can refuse."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Airbnb CEO Brian Chesky says staff call him a ‘control freak’—but that he learned it from Apple’s Steve Jobs",
-      "url": "https://fortune.com/2026/11/27/airbnb-ceo-brian-chesky-says-staff-call-him-a-control-freak-he-learned-it-from-apple-steve-jobs/",
-      "published_at": "2026-11-27T08:01:00+00:00",
-      "summary": "Aribnb's billionaire CEO Brian Chesky called Apple’s Steve Jobs a 'control freak,' before admitting Airbnb workers probably say the same about him."
+      "title": "AI boom or bust? 10 under-the-radar stock picks and investing ideas for either scenario",
+      "url": "https://fortune.com/2026/11/27/how-to-invest-in-2027-ai-boom-bubble-bust-best-etfs-to-protect-your-portfolio/",
+      "published_at": "2026-11-27T15:00:00+00:00",
+      "summary": "Nobody knows which way 2027 will break. These bets are designed to hold up either way."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "The pig in the python in the marital bed: How boomers deformed the Silent Generation’s marriages, Gen X’s childhood and millennials’ housing",
-      "url": "https://fortune.com/2026/11/27/baby-boom-divorce-boom-silent-generation-gen-x-pig-in-the-python/",
-      "published_at": "2026-11-27T08:00:00+00:00",
-      "summary": "A new peer-reviewed paper finds the baby boom’s sheer size helped drive the 1970s divorce boom—“likely about a third at most,” its author says."
+      "title": "5 trends that will define 2027—and how to invest in them",
+      "url": "https://fortune.com/2026/11/27/best-stocks-to-invest-in-2027-five-market-trends-ai-interest-rates-weight-loss-drugs-solar-energy/",
+      "published_at": "2026-11-27T15:00:00+00:00",
+      "summary": "The AI buildout and the weight-loss drug boom are still going strong. But higher interest rates, uncertainty over defense spending, and a rush to build solar projects could reward investors in less obvious places."
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Black and Latino workers are about 20% likelier than White workers to need a new career by 2035 as AI reshapes work, McKinsey says",
-      "url": "https://fortune.com/2026/11/27/mckinsey-ai-jobs-displacement-black-latino-workers-economic-mobility/",
-      "published_at": "2026-11-27T08:00:00+00:00",
-      "summary": "McKinsey projects AI could eliminate more of the work in jobs Black and Latino workers hold, and fewer have a clear path out."
+      "title": "Chanel’s CEO Leena Nair makes the case for human made ‘beauty and creation.’ In an era of AI saturation, her $19 billion-a-year business depends on it",
+      "url": "https://fortune.com/2026/11/27/chanel-ceo-leena-nair-human-made-beauty-creation/",
+      "published_at": "2026-11-27T13:13:01+00:00",
+      "summary": "Chanel's CEO says business leaders are living through an “unprecedented” period of transformation and fragility, and that it's time to prioritize human ingenuity and talent"
     },
     {
       "source": "Fortune",
       "lang": "en",
-      "title": "Black Friday will put AI shopping agents to the test. Consumers aren’t buying it yet",
-      "url": "https://fortune.com/2026/11/27/black-friday-ai-agentic-shopping-consumer-trust/",
-      "published_at": "2026-11-27T08:00:00+00:00",
-      "summary": "Retailers have spent the year wiring their sites for AI agents, but the holiday season is shaping up as more dress rehearsal than debut."
+      "title": "I have a front-row seat to Norway’s cutting-edge AI newsroom experiment. Even with AI on more than 200 stories a day, a human still checks every one",
+      "url": "https://fortune.com/2026/11/27/checking-ai-work-human-in-the-loop-newsrooms/",
+      "published_at": "2026-11-27T13:00:00+00:00",
+      "summary": "The check is cheap for whoever did the work."
     },
     {
-      "source": "Fortune",
+      "source": "VentureBeat",
       "lang": "en",
-      "title": "Global stocks move upward despite shock warning from Panmure Liberum analyst who sold all equities in his personal portfolio",
-      "url": "https://fortune.com/2026/11/26/global-stocks-move-upward-despite-shock-warning-from-panmure-liberum-to-sell-all-equities-now/",
-      "published_at": "2026-11-26T16:47:23+00:00",
-      "summary": "There is nothing but bad news on the horizon, multiple Wall Street and London City analysts said in emails to Fortune."
+      "title": "AI is collapsing centuries of math and science research into days — is The Singularity upon us?",
+      "url": "https://venturebeat.com/technology/ai-is-collapsing-centuries-of-math-and-science-research-into-days-is-the-singularity-upon-us",
+      "published_at": "2026-11-27T19:16:10+00:00",
+      "summary": "<p>For most of human history, a landmark mathematical conjecture fell perhaps once a decade, usually after a lone scholar spent years pacing a quiet office, filling chalkboards with dead ends.</p><p><a href=\"https://venturebeat.com/technology/ai-is-collapsing-centuries-of-math-and-science-research-i"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
-      "published_at": "2026-11-26T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a f"
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "published_at": "2026-11-27T13:00:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entr"
     },
     {
       "source": "MIT Tech Review",
       "lang": "en",
-      "title": "The next generation of bionic hands is here—and they can feel",
-      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
-      "published_at": "2026-11-26T09:59:00+00:00",
-      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects&#82"
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "published_at": "2026-11-27T10:48:47+00:00",
+      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.&#160; We’re on the hunt for researchers and f"
+    },
+    {
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "published_at": "2026-11-27T10:00:00+00:00",
+      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s"
     }
   ]
 }
